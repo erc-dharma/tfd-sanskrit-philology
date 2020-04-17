@@ -1,0 +1,631 @@
+<app loc="1.1ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msB #msD #msE #msF">alake</lem>
+     <rdg wit="#msA">aUNCLlake/UNCL </rdg>
+     <rdg wit="#msC">aUNCLla/UNCLke </rdg>
+</app>
+<app loc="1.1cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msFpcorr">pāntu janān</lem>
+     <rdg wit="#msD">pāntu janā× </rdg>
+     <rdg wit="#msFacorr">pāta janān </rdg>
+</app>
+<app loc="1.2ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msF">°stamba°</lem>
+     <rdg wit="#msA #msD #msE">°stambha° </rdg>
+     <rdg wit="#msB">°stambham </rdg>
+     <rdg wit="#msC"></rdg>
+</app>
+<app loc="1.2cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msF">°daivo</lem>
+     <rdg wit="#msE">°devo </rdg>
+</app>
+<app loc="1.3ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">pārthivo bījo abjikoparisaṃsthitaḥ</lem>
+     <rdg wit="#msD">pā×××××××××××taḥ </rdg>
+</app>
+<app loc="1.3cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">śivagā vakrā</lem>
+     <rdg wit="#msC">śivakrā </rdg>
+</app>
+<app loc="1.4ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">°varttidvīpakujā</lem>
+     <rdg wit="#msD">°va××××× </rdg>
+</app>
+<app loc="1.4cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">sā janeśī kalau kālī</lem>
+     <rdg wit="#msD">×××××××lī </rdg>
+</app>
+<app loc="1.5ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msF">śaivaṃ</lem>
+     <rdg wit="#msC"></rdg>
+     <rdg wit="#msD">śevaṃ </rdg>
+     <rdg wit="#msE">UNCLśai/UNCLvaṃ </rdg>
+</app>
+<app loc="1.5ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msEpcorr #msF">śaivād{ }da°</lem>
+     <rdg wit="#msE">śaivā da° </rdg>
+</app>
+<app loc="1.5cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">śreṣṭham{ }ataḥ parataraṃ na hi</lem>
+     <rdg wit="#msD">śreṣṭhaṃ ×××××××× </rdg>
+</app>
+<app loc="1.6ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">vijñāya śrīkubjikāyāḥ</lem>
+     <rdg wit="#msD">×××××UNCLbji/UNCLkāyāḥ </rdg>
+</app>
+<app loc="1.6ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msF">°sahitāyāḥ</lem>
+     <rdg wit="#msE">°sahitāḥ </rdg>
+</app>
+<app loc="1.6cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msD #msE #msF">°arthaṃ</lem>
+     <rdg wit="#msB">°arthaṃn </rdg>
+     <rdg wit="#msC">** </rdg>
+</app>
+<app loc="1.6cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msD #msE #msF">nityāhnikam{ }iho°</lem>
+     <rdg wit="#msB">nityāhnikam{ }ivo° </rdg>
+     <rdg wit="#msC">UNCLnityāhnika/UNCL**** </rdg>
+</app>
+<app loc="1.7ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msE #msF">jñānārṇavam{ }agādho 'yaṃ</lem>
+     <rdg wit="#msC">*****gādho yaṃ </rdg>
+     <rdg wit="#msD">×××××××× </rdg>
+</app>
+<app loc="1.7ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">śrīśambhuśāsano</lem>
+     <rdg wit="#msD">××××śāsano </rdg>
+</app>
+<app loc="1.7cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">pāraṃ paraṃ gacchan</lem>
+     <rdg wit="#msC">UNCLpāraparaga/UNCL* </rdg>
+</app>
+<app loc="1.7cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msD #msF">vīcī śrīkaṇṭhasaṃjñakaḥ</lem>
+     <rdg wit="#msB">vīcī **UNCLṇṭha/UNCLsaṃjñakaḥ </rdg>
+     <rdg wit="#msC">**śrīka**** </rdg>
+     <rdg wit="#msE">vīrī śrīkaṇṭhasaṃjñakaḥ </rdg>
+</app>
+<app loc="1.8ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msE #msF">taccaraṇair{ }yathā dṛṣṭaṃ śrīmatpaścimaśāsane</lem>
+     <rdg wit="#msC">************* UNCLśāsane/UNCL </rdg>
+     <rdg wit="#msD">taccaraṇair{ }yathā dṛṣṭaṃ ×××××××× </rdg>
+</app>
+<app loc="1.8cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">pāramparya°</lem>
+     <rdg wit="#msD">××parya° </rdg>
+</app>
+<app loc="1.8cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msF">anu°</lem>
+     <rdg wit="#unmetr">atra </rdg>
+</app>
+<app loc="1.9ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">°sūnunā</lem>
+     <rdg wit="#msD">sū×× </rdg>
+</app>
+<app loc="1.9cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msE">°deśaṃ</lem>
+     <rdg wit="#msF">°deUNCLśa/UNCL° </rdg>
+</app>
+<app loc="1.10ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msC #msD #msE #msF">°susūkṣmāntaṃ</lem>
+     <rdg wit="#msB">°suśūUNCLmnā/UNCLntaṃ </rdg>
+</app>
+<app loc="1.10ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msF">parāntaṃ para°</lem>
+     <rdg wit="#msC"></rdg>
+     <rdg wit="#msE">parāt{ }parata° </rdg>
+</app>
+<app loc="1.10cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">kathitaṃ</lem>
+     <rdg wit="#msD">kathitāṃ </rdg>
+</app>
+<app loc="1.10cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msF">°kaṇṭhaguruṃ name</lem>
+     <rdg wit="#msC">°kaṇṭhaṃ guruṃ name </rdg>
+     <rdg wit="#msD">śrī×××××× </rdg>
+     <rdg wit="#msE">°kaṇṭhagurottamam </rdg>
+</app>
+<app loc="1.10uvaca"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msC #msD #msE #msF">°bhairava uvāca</lem>
+     <rdg wit="#msB">°UNCLbhairavovāca/UNCL </rdg>
+</app>
+<app loc="2.1ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msC #msD #msE #msF">sthitiṃ</lem>
+     <rdg wit="#msB">sthiti </rdg>
+</app>
+<app loc="2.1cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msC #msD #msE #msF">vartito</lem>
+     <rdg wit="#msB">varttiUNCLte/UNCL </rdg>
+</app>
+<app loc="2.1cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">trividhaṃ labhet</lem>
+     <rdg wit="#msD">tri×××× </rdg>
+</app>
+<app loc="2.2ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">gṛhasthaḥ</lem>
+     <rdg wit="#msD">××× </rdg>
+</app>
+<app loc="2.2ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msF">ca</lem>
+     <rdg wit="#msE">ra </rdg>
+</app>
+<app loc="2.2cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">ca ṣaṭprakārā°</lem>
+     <rdg wit="#msC">××UNCLpra/UNCLkārā° </rdg>
+</app>
+<app loc="2.3ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msBpcorr #msC #msE #msF">sādhikāraḥ sapatnīkaḥ</lem>
+     <rdg wit="#msBacorr">sādhikāraḥ sādhikāraḥ sapatnīkaḥ </rdg>
+     <rdg wit="#msD">sādhi×××××× </rdg>
+</app>
+<app loc="2.3ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msE #msF">śāstrajñas{ }tattva°</lem>
+     <rdg wit="#msC">śāstrajñaUNCLs{ }ta/UNCL×° </rdg>
+     <rdg wit="#msD">××××× </rdg>
+</app>
+<app loc="2.3cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msD #msE #msF">°liṅgī</lem>
+     <rdg wit="#msB #msC">°liUNCLṅgī/UNCL </rdg>
+</app>
+<app loc="2.3cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msBpcorr #msC #msD #msE #msF">°sthitaḥ</lem>
+     <rdg wit="#msBacorr">°sthitiḥ </rdg>
+</app>
+<app loc="2.4ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">°kartā ca</lem>
+     <rdg wit="#msD">××× </rdg>
+</app>
+<app loc="2.4ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">sevako patir{ }eva vā</lem>
+     <rdg wit="#msD">×××××××× </rdg>
+</app>
+<app loc="2.4cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">yena kenaiva</lem>
+     <rdg wit="#msD">×× UNCLke/UNCLnaiva </rdg>
+</app>
+<app loc="2.5ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msC #msE #msF">samyak si°</lem>
+     <rdg wit="#msB">saṃmyak si° </rdg>
+     <rdg wit="#msD">samyatsi° </rdg>
+</app>
+<app loc="2.5cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">niraṃśasya mahādevi kuladravyais{ }tu sammatā</lem>
+     <rdg wit="#msD">nira×××××××××××××× </rdg>
+</app>
+<app loc="2.6ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msF">tyajed{ }yas{ }tu</lem>
+     <rdg wit="#msE">tyajed{ }dhastu </rdg>
+</app>
+<app loc="2.6cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">kevalaṃ</lem>
+     <rdg wit="#msD">kevala° </rdg>
+</app>
+<app loc="2.7ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msF">ekāntasthaḥ sapatnīkaḥ suguptaś{ }ca prakāśanaḥ</lem>
+     <rdg wit="#msE">ekāntasthaḥ sapatnīkaḥ suguptaś{ }ca prakāśataḥ </rdg>
+     <rdg wit="#msD">××××××××××× śca prakāśataḥ </rdg>
+</app>
+<app loc="2.8ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msF">sadaikākī</lem>
+     <rdg wit="#msC #msE">sadekākī </rdg>
+     <rdg wit="××××">××××</rdg>
+</app>
+<app loc="2.8ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msE #msF">niḥsaṅgaḥ samayasthitaḥ</lem>
+     <rdg wit="#msC">niḥsaṅgāḥ samayasthitaḥ </rdg>
+     <rdg wit="#msD">××××mayasthitaḥ </rdg>
+</app>
+<app loc="2.8cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msF">°ntaṃ</lem>
+     <rdg wit="#msD #msE">°nta </rdg>
+</app>
+<app loc="2.8cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msC #msD #msE #msF">paryaṭec{ }ca°</lem>
+     <rdg wit="#msB">paryaṭoc{ }ca° </rdg>
+</app>
+<app loc="2.9ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">°nteṣu</lem>
+     <rdg wit="#msD">°teṣu </rdg>
+</app>
+<app loc="2.9ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">kṛtāntavat</lem>
+     <rdg wit="#msD">kṛtā×× </rdg>
+</app>
+<app loc="2.9cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msFpcorr">cāravyo vyāpakā</lem>
+     <rdg wit="#msFacorr">cāravyo vyākā </rdg>
+     <rdg wit="#msD">××××pakā </rdg>
+</app>
+<app loc="2.9cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msF">°sthitaḥ</lem>
+     <rdg wit="#msE">°sthitāḥ </rdg>
+</app>
+<app loc="2.10ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msF">°ṣikta°</lem>
+     <rdg wit="#msE">°vikta° </rdg>
+</app>
+<app loc="2.10ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">°siddhiṃ</lem>
+     <rdg wit="#msD">°siddhi </rdg>
+</app>
+<app loc="2.10cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msE">guruvaktravrate niṣṭhaḥ saṃsthito girigahvare</lem>
+     <rdg wit="#unmetr">guruvaktravrataniṣṭhaḥ saṃsthito girigahvare </rdg>
+     <rdg wit="#msD">×××××××××××××××re </rdg>
+</app>
+<app loc="2.11ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msC #msD #msE #msF">kṣetrā°</lem>
+     <rdg wit="#msB">kṣetra° </rdg>
+</app>
+<app loc="2.11ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msF">°śana°</lem>
+     <rdg wit="#msE">°sane </rdg>
+</app>
+<app loc="2.11cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msF">sado°</lem>
+     <rdg wit="#msE">sadau° </rdg>
+</app>
+<app loc="2.12ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">yaḥ</lem>
+     <rdg wit="#msD">× </rdg>
+</app>
+<app loc="2.12ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msF">siddhayo bahudhāś{ }ca yāḥ</lem>
+     <rdg wit="#msD">×××××××UNCLyāḥ/UNCL </rdg>
+     <rdg wit="#msE">siddhaṃ yo bahudhāś{ }ca yaḥ </rdg>
+</app>
+<app loc="2.12ef"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">naiṣṭhikaḥ</lem>
+     <rdg wit="#msD">naiṣṭhi× </rdg>
+</app>
+<app loc="2.13ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">nānārūpadharo nityaṃ</lem>
+     <rdg wit="#msD">×××××××× </rdg>
+</app>
+<app loc="2.13ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msC #msE">jaratkanthā°</lem>
+     <rdg wit="#msA #msB #msF">jaratkaṇṭhā° </rdg>
+     <rdg wit="#msD">××tkanthā° </rdg>
+</app>
+<app loc="2.13cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msD #msF">nirdvandvo</lem>
+     <rdg wit="#msB">nirdvando </rdg>
+     <rdg wit="#msC">nidvandvo </rdg>
+     <rdg wit="#msE">nirdvadvo </rdg>
+</app>
+<app loc="2.14ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">paryaṭed{ }bhaikṣyaṃ</lem>
+     <rdg wit="#msC">payaṭed{ }bhaikṣya </rdg>
+     <rdg wit="paryaṭe××">paryaṭe××</rdg>
+</app>
+<app loc="2.14ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msE #msF">sadaiva carukāśayā</lem>
+     <rdg wit="#msC">sadeva carukāśayā </rdg>
+     <rdg wit="#msD">×××××××× </rdg>
+</app>
+<app loc="2.14cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem type="eme">nirjane paramānandasaṃ°</lem>
+     <rdg wit="#msA #msB #msC #msE #msF">nirjane paramānandaḥ saṃ° </rdg>
+     <rdg wit="#msD">××××UNCLra/UNCLmānandaḥ saṃ° </rdg>
+</app>
+<app loc="2.14ef"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msC #msD #msE">°nvayī</lem>
+     <rdg wit="#msB">°nvaUNCLyā/UNCL </rdg>
+     <rdg wit="#msF">°nvayā </rdg>
+</app>
+<app loc="2.14ef"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msE">°siddhiṃ</lem>
+     <rdg wit="#msF">°siddha </rdg>
+</app>
+<app loc="2.15ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msE #msF">asiddhe yogavijñāne</lem>
+     <rdg wit="#msC">asiddhe yogavijñāna </rdg>
+     <rdg wit="#msD">×××××××× </rdg>
+</app>
+<app loc="2.15ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msE #msF">krīḍāṃ kurvanti ye narāḥ</lem>
+     <rdg wit="#msC">krīḍā kurvanti ye narāḥ </rdg>
+     <rdg wit="#msD">×××××××× </rdg>
+</app>
+<app loc="2.15cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD">°vas{ }te tra</lem>
+     <rdg wit="#msE #msF">°vas{ }tatra </rdg>
+</app>
+<app loc="2.16ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msD #msF">°bhūtāś{ }caryāṃ</lem>
+     <rdg wit="#msB">°bhūtā caryāṃ </rdg>
+     <rdg wit="#msC">°bhūtāś{ }caryā </rdg>
+     <rdg wit="#msE">°bhūUNCLṣṭā/UNCLś{ }caryāṃ </rdg>
+</app>
+<app loc="2.16ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msF">lolupāḥ</lem>
+     <rdg wit="#msD">lolupā× </rdg>
+     <rdg wit="#msE">lolapāḥ </rdg>
+</app>
+<app loc="2.16cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">bhakṣyante kuladevībhiḥ pūtanābhir{ }upadrutāḥ</lem>
+     <rdg wit="#msD">×××××××××××bhir{ }upadrutāḥ </rdg>
+</app>
+<app loc="2.17ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msC #msD #msE #msF">°sampa°</lem>
+     <rdg wit="#msB">°sapa° </rdg>
+</app>
+<app loc="2.17ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msF">°gaḥ</lem>
+     <rdg wit="#msE">°gāḥ </rdg>
+</app>
+<app loc="2.17cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE">nityaṃ naimittikaṃ bhajet</lem>
+     <rdg wit="#msD">ni××××××× </rdg>
+     <rdg wit="#msF">nityanaimittikaṃ bhajet </rdg>
+</app>
+<app loc="2.18ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">mantro vidyā parā</lem>
+     <rdg wit="#msD">×××dyādharā </rdg>
+</app>
+<app loc="2.18ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msE">°devatā</lem>
+     <rdg wit="#msF">°devavā </rdg>
+</app>
+<app loc="2.18cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD">°vidhāḥ</lem>
+     <rdg wit="#msE">°vidhā </rdg>
+     <rdg wit="#msF">°vidhāṃ </rdg>
+</app>
+<app loc="2.18cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msF">°sthitāḥ</lem>
+     <rdg wit="#msE">°sthitā </rdg>
+</app>
+<app loc="2.19ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">tasmān{ }na dūṣayel{ }liṅgaṃ</lem>
+     <rdg wit="#msD">×××××××× </rdg>
+</app>
+<app loc="2.19ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msE">°bāṇakam</lem>
+     <rdg wit="#msF">°vānakam </rdg>
+</app>
+<app loc="2.19cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msF">°pīṭhikā°</lem>
+     <rdg wit="#msE">°piṭhikā° </rdg>
+</app>
+<app loc="2.19ef"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">°kramaḥ</lem>
+     <rdg wit="#msD">kra× </rdg>
+</app>
+<app loc="3.1a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">°bījaṃ</lem>
+     <rdg wit="#msD">°bīyaṃ </rdg>
+</app>
+<app loc="3.1b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">sahaṃsam</lem>
+     <rdg wit="#msD">××× </rdg>
+</app>
+<app loc="3.1c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msE #msF">induṃ binduṃ layāntaṃ</lem>
+     <rdg wit="#unmetr">indum bindu layāntaṃ </rdg>
+     <rdg wit="#msD">××××××× </rdg>
+</app>
+<app loc="3.1d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">pāpaṃ</lem>
+     <rdg wit="#msD">×× </rdg>
+</app>
+<app loc="3.2cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE">jalasnānam{ }āplavanam{ }āmūrdhniparyantaṃ bhajet</lem>
+     <rdg wit="#msD">jala×××××××××××××× </rdg>
+     <rdg wit="#msF">jalasnānam{ }āplavanam{ }āmūrdhvaparyantaṃ bhajet </rdg>
+</app>
+<app loc="4.1ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msF">sthūlaṃ caivātisūkṣmaṃ ca</lem>
+     <rdg wit="#msD">××××××× ca </rdg>
+     <rdg wit="#msE">sthūlaṃ caivātra sūkṣmaṃ ca </rdg>
+</app>
+<app loc="4.1ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msEpcorr #msF">°nuttamam</lem>
+     <rdg wit="#msE">°ttamam </rdg>
+</app>
+<app loc="4.1cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msC #msD #msE #msF">triguṇaṃ triguṇī°</lem>
+     <rdg wit="#msB">trirguṇaṃ trirguṇī° </rdg>
+</app>
+<app loc="4.2ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">kārayet{ }trisaraṃ punaḥ</lem>
+     <rdg wit="#msD">kāraye××××× </rdg>
+</app>
+<app loc="4.2cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msF">eṣa sthānadvayaṃ kṛtvā</lem>
+     <rdg wit="#msD">×××××× kṛtvā </rdg>
+     <rdg wit="#msE">etat sthānadvayaṃ kṛtvā </rdg>
+</app>
+<app loc="4.2cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msF">granthaye°</lem>
+     <rdg wit="#msD">graṃUNCLdha/UNCLye° </rdg>
+     <rdg wit="#msE">graṃUNCLddha/UNCLye° </rdg>
+</app>
+<app loc="4.3ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">śubhaṃ sūtra°</lem>
+     <rdg wit="#msC">śūtraṃ sutra° </rdg>
+</app>
+<app loc="4.3cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">yasya vidhṛtamātreṇa</lem>
+     <rdg wit="#msD">yasya vi××××× </rdg>
+</app>
+<app loc="4.3cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msFpcorr">pumān brahmasamo bhavet</lem>
+     <rdg wit="#msD">×××××××vet </rdg>
+     <rdg wit="#msFacorr">pumān brahmamo bhavet </rdg>
+</app>
+<app loc="4.4ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">triguṇaṃ triguṇī°</lem>
+     <rdg wit="#msCacorr">triguṇī° </rdg>
+     <rdg wit="#msCpcorr">*** triguṇī° </rdg>
+</app>
+<app loc="4.4ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msF">veṇīṃ</lem>
+     <rdg wit="#msB">UNCLvā/UNCLṇī </rdg>
+     <rdg wit="#msD #msE">veṇī </rdg>
+</app>
+<app loc="4.4cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msF">°ttarīyā tv{ }aghakṣayā</lem>
+     <rdg wit="#msD">°ttarī××××× </rdg>
+     <rdg wit="#msE">°ttarīyañ{ }ca*kṣayā </rdg>
+</app>
+<app loc="5.1b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">°hetoḥ</lem>
+     <rdg wit="#msD">heto× </rdg>
+</app>
+<app loc="5.1c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msF">tāvan{ }na siddhiṃ pralabhanti santo</lem>
+     <rdg wit="#msD">××××××××××× </rdg>
+     <rdg wit="#msE">tāṃcāna siddhiṃ pralabhanti santo </rdg>
+</app>
+<app loc="5.1d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">yāvan{ }na</lem>
+     <rdg wit="#msD">××× </rdg>
+</app>
+<app loc="5.2ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">pūrvaṃ</lem>
+     <rdg wit="#msC">pūrva </rdg>
+</app>
+<app loc="5.2ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msB #msC #msD #msE #msF">°yutā</lem>
+     <rdg wit="#msA">°yuta </rdg>
+</app>
+<app loc="5.2cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">sā</lem>
+     <rdg wit="#msD">× </rdg>
+</app>
+<app loc="5.2cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msF">prasūtisthitisaṃhṛteḥ</lem>
+     <rdg wit="#msD">×××××××× </rdg>
+     <rdg wit="#msE">prasūtisthitisaṃhṛtaiḥ </rdg>
+</app>
+<app loc="5.3ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">bhujagā°</lem>
+     <rdg wit="#msC">bhujamā° </rdg>
+</app>
+<app loc="5.3ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msF">guhyaśaktyā</lem>
+     <rdg wit="#msE">gu*** </rdg>
+</app>
+<app loc="5.3cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">smṛtā</lem>
+     <rdg wit="#msC">smṛtāḥ </rdg>
+</app>
+<app loc="5.4ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">nāgasthā kusumā devī guhyayātha</lem>
+     <rdg wit="#msD">×××××××××××× </rdg>
+</app>
+<app loc="5.5ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msC #msD #msE #msF #  #unmetr">°parāmbā°</lem>
+     <rdg wit="#msB">°UNCLpā/UNCLrambā° </rdg>
+</app>
+<app loc="5.5ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msC #msE">°jhaṭendrabindu viśvahā</lem>
+     <rdg wit="#msB">°jhaṭendrabindu visUNCLvā/UNCLhā </rdg>
+     <rdg wit="#msD">×××××××× </rdg>
+     <rdg wit="#msF">°rūḍhendrabindu visvahā </rdg>
+</app>
+<app loc="5.5cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">vilomeno°</lem>
+     <rdg wit="#msD">×××no° </rdg>
+</app>
+<app loc="5.6ab"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD">anugrahyā°</lem>
+     <rdg wit="#msE #msF">anugrahā° </rdg>
+</app>
+<app loc="5.6cd"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">sudhānirvāṇadāyakam</lem>
+     <rdg wit="#msD">×××××××× </rdg>
+</app>
+<app loc="5.7a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">kṣmācakram{ }u°</lem>
+     <rdg wit="#msD">×××m{ }u° </rdg>
+</app>
+<app loc="5.7c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">°divyaṃ</lem>
+     <rdg wit="#msC">°divya </rdg>
+</app>
+<app loc="5.7d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msFpcorr">vātākhyaṣaṭkoṇacakraṃ sudhūmram</lem>
+     <rdg wit="#msC">vātākhyaṣaṭkoṇacakraṃ sudhūmra </rdg>
+     <rdg wit="#msD">vātākhyaṣaṭkoṇacakraṃ ××× </rdg>
+     <rdg wit="#msFacorr">vātākhaṣaṭkoṇakacakradhūmraṃ </rdg>
+</app>
+<app loc="5.8a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msF">°bimbaṃ</lem>
+     <rdg wit="#msC #msE">°bimba </rdg>
+</app>
+<app loc="5.8b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msE">pañcāny{ }u°</lem>
+     <rdg wit="#msF">pañcety{ }u° </rdg>
+</app>
+<app loc="5.8c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">sita°</lem>
+     <rdg wit="#msC">śiva° </rdg>
+</app>
+<app loc="5.8d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msE #msF">padmasite niviṣṭam</lem>
+     <rdg wit="#msCaacorr">padmasite niviṣṭi </rdg>
+     <rdg wit="#msCpcorr">padmasite niviṣṭa </rdg>
+     <rdg wit="#msD">××××××× </rdg>
+</app>
+<app loc="5.9a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msF">dakṣeṇa hastena dadhāti śūlaṃ</lem>
+     <rdg wit="#msD">×××××UNCLna dadhāti/UNCL śūlaṃ </rdg>
+     <rdg wit="#msE">dakṣiṇya hastena dadhāti śūlaṃ </rdg>
+</app>
+<app loc="5.9b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msF">dānaṃ</lem>
+     <rdg wit="#msE">dāna </rdg>
+</app>
+<app loc="5.9c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">°dhatte</lem>
+     <rdg wit="#msD">°dhante </rdg>
+</app>
+<app loc="5.9d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msF">°mantraiḥ karadehavaktrān</lem>
+     <rdg wit="#msEacorr">°ntraiḥ karadehavaktrān </rdg>
+     <rdg wit="#msE">°*ntraiḥ karadehavaktrān </rdg>
+     <rdg wit="#msD">×××××××× </rdg>
+</app>
+<app loc="5.10a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC">netrāsraśūnyaṃ</lem>
+     <rdg wit="#msD">××××× </rdg>
+     <rdg wit="#msE">netrāśiśunyaṃ </rdg>
+     <rdg wit="#msF">netrāśuśunyaṃ </rdg>
+</app>
+<app loc="5.10b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">°mantraiḥ</lem>
+     <rdg wit="#msC">°mantreḥ </rdg>
+</app>
+<app loc="5.10c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">°vṛddhyai</lem>
+     <rdg wit="#msC">°vṛddhau </rdg>
+</app>
+<app loc="5.10d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msB #msE #msF">daśāṃśaṃ havanaṃ ca dhīraiḥ</lem>
+     <rdg wit="#unmetr">daśāṃśa havanaṃ ca dhīraiḥ </rdg>
+     <rdg wit="#msD">daśāṃśa×××××× </rdg>
+</app>
+<app loc="5.11a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">icchāpradaḥ śrīpraṇave°</lem>
+     <rdg wit="#msD">××××××ṇave° </rdg>
+</app>
+<app loc="5.11b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msD #msEpcorr">°loka°</lem>
+     <rdg wit="#msEacorr">°lo° </rdg>
+</app>
+<app loc="5.11c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msD #msE #msF">°ndrair{ }manu°</lem>
+     <rdg wit="#msC">°ndrai mmunu° </rdg>
+</app>
+<app loc="5.11d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msB #msC #msE #msF">yājanahāvanānte</lem>
+     <rdg wit="#msD">yā×××××× </rdg>
+</app>
+<app loc="5.11uvaca"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msA #msE #msF">iti pañcapraṇavo°</lem>
+     <rdg wit="#msB">iti pañcapraṇavadevo° </rdg>
+     <rdg wit="#msC">iti pañcāpraṇavo° </rdg>
+     <rdg wit="#msD">×××ñcapraṇavo° </rdg>
+</app>

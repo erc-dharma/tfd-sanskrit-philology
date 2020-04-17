@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng-Latn">Test File</title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename">0001</idno>
+</publicationStmt>
+<sourceDesc>
+<msDesc><msIdentifier><repository>Repo</repository></msIdentifier></msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="edition" xml:lang="san-Latn">
+<!-- chapter 1 -->
+<l n="uvaca">oṃ namaḥ paraśambhave</l>
+
+<lg n="1.1" met="anuṣṭubh">
+<l n="ab">śaśadharasadṛśasaroje alake devākṣayānake caraṇau</l>
+<l n="cd">sitarajabhāsvaravimalau śambhor nityaṃ [ ] pāntu janān</l>
+</lg> 
+
+<lg n="1.2" met="anuṣṭubh">
+<l n="ab">yasya prasāram atulam ābrahmastambabhuvanaparāntagam</l>
+<l n="cd">sa śrīnāthakuleśaḥ śrīkubjikādhidaivo jayati</l>
+</lg>
+<lg n="1.3" met="anuṣṭubh">
+<l n="ab">MNTRku/MNTRkāraḥ pārthivo bījo aMNTRbji/MNTRkoparisaṃsthitaḥ</l>
+<l n="cd">MNTRkā/MNTR kālī śivagā vakrā sā śrīkubjikā jayati</l>
+</lg><lg n="1.4" met="anuṣṭubh">
+<l n="ab">sṛṣṭā yayā parā vic ca haṃsavarttidvīpakujā</l>
+<l n="cd">sā janeśī kalau kālī saṃsthitā paścime gṛhe</l>
+</lg><lg n="1.5" met="anuṣṭubh">
+<l n="ab">vedāt tu paramaṃ śaivaṃ śaivād dakṣiṇam uttamam</l>
+<l n="cd">dakṣiṇāt paścimaṃ śreṣṭham ataḥ parataraṃ na hi</l>
+</lg>
+<lg n="1.6" met="anuṣṭubh">
+<l n="ab">vijñāya śrīkubjikāyāḥ śrīkujeśvarasahitāyāḥ</l>
+
+<l n="cd">nṛṇāṃ svargāptihetvarthaṃ nityāhnikam ihocyate</l>
+</lg><lg n="1.7" met="anuṣṭubh">
+<l n="ab">jñānārṇavam agādho 'yaṃ śrīśambhuśāsano mahān</l><l n="cd">tatra pāraṃ paraṃ gacchan vīcī śrīkaṇṭhasaṃjñakaḥ</l>
+</lg><lg n="1.8" met="anuṣṭubh">
+<l n="ab">taccaraṇair yathā dṛṣṭaṃ śrīmatpaścimaśāsane</l>
+
+<l n="cd">pāramparyakramāyātaṃ sugopyam anulikhyate</l>
+</lg>
+
+<lg n="1.9" met="anuṣṭubh">
+<l n="ab">svagotrāṇāṃ hitārthāya śrīmacchrīkaṇṭhasūnunā</l>
+<l n="cd">muktakena kiyadgūḍhaṃ sopadeśaṃ jayena tu</l>
+</lg><lg n="1.10" met="anuṣṭubh">
+<l n="ab">ādhārādisusūkṣmāntaṃ parāntaṃ paranirṇayam</l>
+<l n="cd">kathitaṃ yena suspaṣṭaṃ taṃ śrīkaṇṭhaguruṃ name</l>
+</lg><!-- chapter 2 --><l n="uvaca">śrībhairava uvāca</l>
+<lg n="2.1" met="anuṣṭubh">
+<l n="ab">athātaḥ sampravakṣyāmi āśramāṇāṃ sthitiṃ priye</l>
+<l n="cd">yenāsau vartito yogī melakaṃ trividhaṃ labhet</l>
+</lg>
+<lg n="2.2" met="anuṣṭubh">
+<l n="ab">gṛhasthaḥ sālayī caiva cāravī ca vanāśrayī</l>
+
+<l n="cd">naiṣṭhikaś caiva yogī ca ṣaṭprakārāśramasthitiḥ</l>
+</lg><lg n="2.3" met="anuṣṭubh">
+<l n="ab">sādhikāraḥ sapatnīkaḥ śāstrajñas tattvavedakaḥ</l>
+
+<l n="cd">kṣamī ca guptaliṅgī ca gṛhasthaḥ samayasthitaḥ</l>
+</lg>
+<lg n="2.4" met="anuṣṭubh">
+<l n="ab">kṛṣivāṇijyakartā ca sevako 'patir eva vā</l>
+
+
+<l n="cd">yena kenaiva puṇyena ācāryas tena pūjyate</l>
+</lg><lg n="2.5" met="anuṣṭubh">
+<l n="ab">ācāryeṇa kriyā kāryā samyak siddhā kulānvaye</l>
+
+
+<l n="cd">niraṃśasya mahādevi kuladravyais tu sammatā</l>
+</lg><lg n="2.6" met="anuṣṭubh">
+<l n="ab">āgataṃ na tyajed yas tu gatvā naiva parigrahet</l>
+<l n="cd">na kevalaṃ manuṣyāṇāṃ sa gurur devadurlabhaḥ</l>
+</lg><lg n="2.7" met="anuṣṭubh">
+<l n="ab">ekāntasthaḥ sapatnīkaḥ suguptaś ca prakāśanaḥ</l>
+
+
+<l n="cd">saṃtyaktānugrahaḥ śāntaḥ sālayī khecaraṃ vrajet</l>
+</lg><lg n="2.8" met="anuṣṭubh">
+<l n="ab"> niṣkalatraḥ sadaikākī niḥsaṅgaḥ samayasthitaḥ</l>
+<l n="cd"> pīṭhādigrāmaparyantaṃ paryaṭec carukāśayā</l>
+</lg>
+<lg n="2.9" met="anuṣṭubh">
+<l n="ab"> viprādiśvapacānteṣu sarvabhakṣaḥ kṛtāntavat</l>
+
+<l n="cd"> cāravyo vyāpakā devyaḥ sarvavarṇeṣu saṃsthitaḥ</l>
+</lg>
+
+<lg n="2.10" met="anuṣṭubh">
+<l n="ab"> labdhadīkṣo 'bhiṣiktaś ca mantrasiddhiṃ samīhavān</l>
+
+<l n="cd"> guruvaktravrate niṣṭhaḥ saṃsthito girigahvare</l>
+</lg>
+<lg n="2.11" met="anuṣṭubh">
+<l n="ab"> kṣetrābaddho jitāhāraḥ kandamūlāśanasthitaḥ</l>
+
+
+<l n="cd"> jitendriyaḥ sadotsāhī vanacārī ca sādhakaḥ</l>
+</lg><lg n="2.12" met="anuṣṭubh">
+<l n="ab"> samīhate na bhuktiṃ yaḥ siddhayo bahudhāś ca yāḥ</l>
+<l n="cd"> lokātītaś ca saṃnyāsī muktim evābhivāñchati</l>
+<l n="ef"> niḥsaṅgo guptaliṅgī ca paraś cādvaitanaiṣṭhikaḥ</l>
+</lg><lg n="2.13" met="anuṣṭubh">
+<l n="ab"> nānārūpadharo nityaṃ jaratkanthāvaguṇṭhitaḥ</l>
+<l n="cd"> nirdvandvo nirbhayaḥ śānto niścaryāyogatatparaḥ</l>
+</lg>
+
+<lg n="2.14" met="anuṣṭubh">
+<l n="ab"> saṃdhyāyāṃ paryaṭed bhaikṣyaṃ sadaiva carukāśayā</l>
+
+<l n="cd"> nirjane paramānandasaṃsthito 'harniśaṃ dṛḍhaḥ</l>
+
+
+<l n="ef"> siddhayogānvayī yogī yogasiddhiṃ samīhavān</l>
+</lg>
+
+<lg n="2.15" met="anuṣṭubh">
+<l n="ab"> asiddhe yogavijñāne krīḍāṃ kurvanti ye narāḥ</l>
+
+<l n="cd"> patitāḥ paśavas te 'tra kulācāraviḍambakāḥ</l>
+</lg>
+<lg n="2.16" met="anuṣṭubh">
+<l n="ab"> āśramāṇāṃ bahirbhūtāś caryāṃ kurvanti lolupāḥ</l>
+
+<l n="cd"> bhakṣyante kuladevībhiḥ pūtanābhir upadrutāḥ</l>
+</lg><lg n="2.17" met="anuṣṭubh">
+<l n="ab"> dīkṣābhiṣekasampannaḥ śambhoś caraṇacandragaḥ</l>
+
+<l n="cd"> gurukramaparo bhūtvā nityaṃ naimittikaṃ bhajet</l>
+</lg>
+<lg n="2.18" met="anuṣṭubh">
+<l n="ab"> mantro vidyā parā mudrā yoginī kuladevatā</l>
+
+<l n="cd"> etāḥ pañcavidhāḥ śaktir liṅgayonyāṃ vyavasthitāḥ</l>
+</lg>
+
+<lg n="2.19" met="anuṣṭubh">
+<l n="ab"> tasmān na dūṣayel liṅgaṃ raupyahemādibāṇakam</l>
+
+
+<l n="cd"> ṣaḍaśrapīṭhikāyuktaṃ pūjyaṃ siddhiphalapradam</l>
+<l n="ef"> atrodare jagat sarvaṃ kramaś cāpi mahākramaḥ</l>
+</lg>
+<!-- chapter 3 --><l n="prose"> prātar{ }utthāya| </l>
+<lg n="3.1" met="non-anuṣṭubh">
+<l n="a">ūkāraṃ vāyubījaṃ tadupari varuṇaṃ vajrapāṇiṃ tadūrdhve</l>
+<l n="b">kālaṃ varṇāntayuktaṃ tadupari paramaṃ vahnibījaṃ sahaṃsam</l>
+<l n="c"> induṃ binduṃ layāntaṃ sitakamalaparaṃ kṣīradhārā sravantaṃ</l>
+
+
+<l n="d"> dṛṣṭvā kūṭaṃ tu nityaṃ dahati kulamalaṃ merutulyaṃ hi pāpam</l>
+</lg>
+<l n="prose"> iti kūṭaṃ </l>
+ <l n="prose"> svānte </l>
+<l n="prose"> 'rkarāśisadṛśaṃ pāpanāśāya dhyāyet|</l>
+ <lg n="3.2" met="anuṣṭubh">
+<l n="ab"> jalasnānaṃ prakurvīta pañcāṅgam athavā punaḥ </l>
+<l n="cd"> jalasnānam āplavanam āmūrdhniparyantaṃ bhajet</l>
+</lg>
+<l n="prose"> kṣoṇījalatejavāyvīśa parābījāni binduyuktāni| </l>
+<l n="prose"> jale saptadhā vinyasya śambhumantram{ }uccaran tridhā snāyāt|| </l>
+<l n="prose"> athavā pañcāṅgaṃ pādau hastau mukhaṃ prakṣālya| </l>
+<l n="prose"> astrarahitamantrasaṃhitayā sitarajaḥkumbhamudrādiyogena </l>
+<l n="prose"> vauṣaḍantena </l>
+<l n="prose"> mantrasnānam|| </l>
+<l n="prose"> jalāśayād{ }utthāya| </l>
+<l n="prose"> āsanāṇunā kaṭisūtram| </l>
+<l n="prose"> māyābījena kaupīnam| </l>
+<l n="prose"> navātmanā yajñopavītam| </l>
+<l n="prose"> radanākṣarayā mudrikām|</l>
+ <l n="prose"> madanena yogapaṭṭam| </l>
+<l n="prose"> ākāśenottarīyam| </l>
+ <l n="prose"> vāyubījena prāvaraṇam| </l>
+ <l n="prose"> gṛhasthasya śuklapaṭam| </l>
+<l n="prose"> āsanenāsanam| </l>
+<l n="prose"> yatigṛhasthayor{ }mṛgavyāghrājinam| </l>
+<l n="prose"> navātmanā veṇudaṇḍam{ }iti||</l>
+<!-- chapter 4 --><l n="prose"> yajñopavītalakṣaṇaṃ </l>
+<l n="prose"> vakṣye|*</l>
+<lg n="4.1" met="anuṣṭubh">
+<l n="ab"> sthūlaṃ caivātisūkṣmaṃ ca tyaktvā sūtram anuttamam</l>
+ <l n="cd"> kartitaṃ kulajābhiś ca triguṇaṃ triguṇīkṛtam</l>
+</lg>
+<lg n="4.2" met="anuṣṭubh">
+<l n="ab"> vartayitvā prayatnena kārayet trisaraṃ punaḥ</l>
+<l n="cd"> eṣa sthānadvayaṃ kṛtvā sāvitryā granthayet tataḥ</l>
+</lg><lg n="4.3" met="anuṣṭubh">
+<l n="ab"> dhautaṃ śuklaṃ śubhaṃ sūtram alakṣmīmalanāśanam</l>
+<l n="cd"> yasya vidhṛtamātreṇa pumān brahmasamo bhavet</l>
+</lg>
+
+<lg n="4.4" met="anuṣṭubh">
+<l n="ab"> triguṇaṃ triguṇīkṛtya veṇīṃ kṛtvā prayatnataḥ</l>
+<l n="cd"> tenaiva ca śatārdhābhir uttarīyā tv aghakṣayā</l>
+</lg>
+
+<l n="prose"> iti sottarīyayajñopavītalakṣaṇam||</l>
+
+<!-- chapter 5 -->
+<lg n="5.1" met="non-anuṣṭubh">
+<l n="a"> bho sādhakendrāḥ śṛṇutaikavācyaṃ</l>
+<l n="b"> sarvānvayoktaṃ phalasiddhihetoḥ</l>
+<l n="c"> tāvan na siddhiṃ pralabhanti santo</l>
+
+<l n="d"> yāvan na mantrāḥ praṇavādiśeṣāḥ</l>
+</lg><lg n="5.2" met="anuṣṭubh">
+<l n="ab"> pūrvaṃ yā sūcitā śaktiḥ kujākhyā krūrasaṃyutā</l>
+
+<l n="cd"> ā ity ādhārabhūtā sā prasūtisthitisaṃhṛteḥ</l>
+</lg><lg n="5.3" met="anuṣṭubh">
+<l n="ab">ambikā bhujagārūḍhā guhyaśaktyā trimaṇḍalaiḥ</l>
+
+<l n="cd"> māyā devī puṣṭikarī vāribhūtā tu sā smṛtā</l>
+</lg>
+<lg n="5.4" met="anuṣṭubh">
+<l n="ab"> nāgasthā kusumā devī guhyayātha trimaṇḍalaiḥ</l>
+<l n="cd"> śrīkarī tejabhūtā tu tṛtīyā śakti raudriṇī</l>
+</lg> <lg n="5.5" met="anuṣṭubh">
+<l n="ab"> dīpanīśikhiparāmbājhaṭendrabindu viśvahā</l>
+<l n="cd"> vilomenoddhṛtā devī khecaratvapradāyikā</l>
+</lg><lg n="5.6" met="anuṣṭubh">
+<l n="ab"> anugrahyārcitaṃ haṃsaṃ prāṇināṃ hṛdi saṃsthitam</l>
+
+<l n="cd"> uddhṛtam ākāśabhūtaṃ sudhānirvāṇadāyakam</l>
+</lg><lg n="5.7" met="non-anuṣṭubh">
+<l n="a"> kṣmācakram uktaṃ caturasrapītaṃ </l>
+<l n="b"> khaṇḍenduśubhraṃ varavāricakram</l>
+<l n="c"> tejolakaṃ raktaguṇāradivyaṃ</l>
+<l n="d"> vātākhyaṣaṭkoṇacakraṃ sudhūmram</l>
+</lg>
+
+<lg n="5.8" met="non-anuṣṭubh">
+<l n="a"> svacchārkatulyaṃ viyadādhibimbaṃ</l>
+<l n="b"> bhūtāni pañcāny uditāni śāstre</l>
+<l n="c"> eṣāṃ maheśaṃ sitaśāntarūpaṃ</l>
+<l n="d"> cāturbhujaṃ padmasite niviṣṭam</l>
+</lg>
+
+<lg n="5.9" met="non-anuṣṭubh">
+<l n="a"> dakṣeṇa hastena dadhāti śūlaṃ</l>
+
+<l n="b"> dānaṃ krameṇaiva ca tathāpareṇa</l>
+<l n="c"> kārddhābhayaṃ vāmakare vidhatte</l>
+
+<l n="d"> pañcātmamantraiḥ karadehavaktrān</l>
+</lg>
+
+<lg n="5.10" met="non-anuṣṭubh">
+<l n="a"> netrāsraśūnyaṃ karakāyavaktraṃ</l><l n="b"> japan krameṇaiva dharādimantraiḥ</l>
+
+<l n="c"> lakṣair vivṛddhyai tithilakṣamātraṃ</l>
+<l n="d"> ante daśāṃśaṃ havanaṃ ca dhīraiḥ</l>
+</lg>
+<lg n="5.11" met="non-anuṣṭubh">
+<l n="a"> icchāpradaḥ śrīpraṇaveśvaro 'yaṃ</l>
+<l n="b"> bhaktārtihartā guṇalokadātā</l>
+<l n="c"> surair munīndrair manudaityasiddhaiḥ</l>
+<l n="d"> prāptaṃ padaṃ yājanahāvanānte</l>
+</lg><l n="uvaca"> iti pañcapraṇavoddhāraḥ</l></div>
+</body>
+</text>
+</TEI>
