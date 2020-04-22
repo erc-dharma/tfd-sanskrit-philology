@@ -1,0 +1,186 @@
+<START/>
+<NEWCHAPTER/>
+<ANUSTUBH/>
+<CHAPTER>stutiḥ</CHAPTER>
+
+
+[f1v line 1]
+% MYEDITION
+<ANUSTUBH/>
+<TEXT>oṃ namaḥ paraśambhave|*</TEXT>
+        <PARAL> ŁCodices:
+                \msA: NGMPP Access 1-1320, Reel: B 26/10 (its label also says: A 1306/34);
+                \msB: NGMPP Access 3-384, Reel A 41/11;
+                \msC: NGMPP Access 1-1361, Reel B 26/11;
+                \msD: NGMPP Access 5-854, Reel A 1297/11;
+                \msE: NGMPP Access 9-58, Reel C 4/24;
+                \msF: NGMPP Access 5-4995, Reel A 162/7.$</PARAL>
+        <NOTE>\msA\ starts with these: ||nityatilaka|| 
+	śrī <UNCL>matottare bali</UNCL> *** yaṃ| śrīmatasāre
+        sahasrā*|| damanaka| pavitraka|| kumārīvaṭukārcanaṃ ca|| 
+	**pratiṣṭhā| śrīdevyā hṛdayaṃ ca||
+                ** nayaṃ ca| guṃjarīśiraḥ| <UNCL>ṣaḍ</UNCL>*kā** 
+	||paṃḍitācārya śrīhariharasya pustakam idaṃ||
+                        2 nityatilakapustaka|| 1 
+	śrībhogeśvarakulasamudbhavakulakaulikācārya manīkarāmāya [ya is cancelled?]
+        tanku lobheva hṛdayarāmasya pustakam idaṃ nityāhnitilakatyādi</NOTE>
+
+        % \msA, \msB, \msC\ and \msE\ start with [SIDDHAM symbol +] oṃ namaḥ paraśambhave||
+                % also \msD, but this bit is broken and has only 'bhave'
+                % \msE\ starts with SIDDHAM oṃ herambāya namaḥ||
+        <!-- <TR>OṂ! Homage to Supreme Śambhu!</TR> -->
+
+% \msA\ 2.jpg upper, f.1v
+% \msB\
+% \msC\ 2.jpg lower  f.2r
+% \msD\
+% \msE\ image 02.jpg contains some mantras, text really starts on 3.jpg upper, f.1v
+% \msF\ 1.jpg upper, f.1v
+
+%alaka:
+%hair, locks of hair
+%N. of the capital of Kubera (situated on a peak of the Himālaya inhabited also by "Siva) Kum. vi, 37, &c.;
+%ĀRYĀ verse minus one short syllable
+<ANUSTUBH/> 
+% āryā actually, but never mind... TODO
+% it is an āryā but for now it is treated as an anuṣṭubh
+% either an obscure variant of Āryā or corrupt
+
+%      . .  . .|. . . .|- -|. . -| - -| . - .|-  . .| -     30 morae!
+<TEXT>śaśadharasadṛśasaroje alake devākṣayānake caraṇau|</TEXT>
+        <APP>\va <LEM>°saroje</LEM> \msA\msB\msC\msE\msF; °sarojñe \msD\oo
+                 <LEM>alake</LEM> \msB\msD\msE\msF; a<UNCL>lake</UNCL> \msA, a<UNCL>la</UNCL>ke \msC</APP>
+% Fra two locs for the two feet
+% [tilake?] 'nityam' in next line... pun on Nityāhnikatilaka?
+      %\va talake\lem \conjKiss ; alake \msB
+% akṣamālake?
+% alake  arake?
+% ḍallaka  n. a Dūlī carried on men's shoulders by means of a stick and ropes like the beam and strings of a balance (also ḍalaka, W.), BrahmaP.
+
+akṣa -->  the beam of a balance or string which holds the pivot of the beam
+
+% phps see Navātman in the thyasaphu from Sanderson
+% phalake as pericarp?
+
+
+% Shastri Nep Cat vol1: 1320 ka reads alpakadevākṣapānake
+
+%      . . . .| -  . .|. . - | -   -|    -  - | .  |-  .  .| -| 27 morae if we add a short one where it belongs!
+<TEXT>sitarajabhāsvaravimalau śambhor{ }nityaṃ [ ] pāntu janān||</TEXT>
+        <APP>\vb <LEM>pāntu janān</LEM> \msA\msB\msC\msE\msFpcorr; pāntu janā× \msD, pāta janān \msFacorr</APP>
+%6th foot of 2nd half only a short syllable (Macdonell)
+% Shastri Nep Cat vol1: 1320 ka reads: śita...
+\msA\msC śita
+        <PARAL> Ł\vo Āryā metre with one missing syllable?$
+                Ł\kb\ Ugra\-caṇḍā\-pūjā\-pad\-dhati lines 428--29: $
+      śaśadharaśadṛśaṃ sa loke devākṣayānake caraṇau|
+      śitarajambhāsvaravimalau sambho nityaṃ pātu janārṇi||</PARAL>
+        <!-- <TR>[Tentative:] May Śambhu's spotless feet which shine with white ashes, and which are
+        on a board/pericarp [phalake/ḍalake?] on/of a lotus which resemble the moon and which is a 
+        vehicle whose axis is a god, always protect people!</TR> -->
+      %    .    .       .    .   .   .   -       .   -   -    -   -     .   -     . -    .   .    -
+    %   .   .  .  -      -       .   .   .    .   -      -         -    -    -        -  .  .    .     .
+
+
+% either an obscure variant of Āryā or corrupt
+%     -   - | . - . |  . . . .?|-  -| -  - |.  . . .|. -  .|- 30 morae, if we add a . in the 3rd foot
+<TEXT>yasya prasāram{ }atulam{ }ābrahmastambabhuvanaparāntagam|</TEXT>
+        <APP>\va <LEM>yasya prasāram{ }atulam{ }ā°</LEM> \msA\msB\msC\msE\msF; ××××××××m{ }ā \msD\oo
+                 <LEM>°stamba°</LEM> \msF; °stambha° \msA\msD\msE, °stambham \msB, \om\ \msC</APP>
+% Shastri reads prasāramaṇḍalam
+% atulya would mend the metre but it is not OK in 3rd foot...
+% \msF\ might be a very good source!
+
+
+%      -   -|-  . .|- -|   - -| . -  .|-!|-  . .|-| 28?!
+<TEXT>sa śrīnāthakuleśaḥ śrīkubjikādhidaivo jayati||</TEXT>
+        <APP>\vd <LEM>°daivo</LEM> \msA\msB\msC\msD\msF; °devo \msE</APP>
+                 <PARAL>\vo ŁĀryā metre CHECK.$</PARAL>
+        <!-- <TR>May he whose unmeasurable extent spreads as far as
+        the farthest end of the worlds, from Brahmā to a tuft of grass,
+        Lord Kuleśa, Śrī Kubjikā's supreme Lord, be victorious!</TR> -->
+% Shastri: devo
+% last syllable as short?
+
+
+<ANUSTUBH/>
+<TEXT><MNTR>ku</MNTR>kāraḥ pārthivo bījo a<MNTR>bji</MNTR>koparisaṃsthitaḥ|</TEXT>
+        <APP>\vab <LEM>pārthivo bījo abjikoparisaṃsthitaḥ</LEM> \msA\msB\msC\msE\msF; pā×××××××××××taḥ \msD</APP>
+
+%unmetr.
+%            -         - -  . . -  -  -| -   - -  . -  . . .
+<TEXT><MNTR>kā</MNTR> kālī śivagā vakrā sā śrīkubjikā jayati||</TEXT>
+        <APP>\vc <LEM>śivagā vakrā</LEM> \msA\msB\msD\msE\msF; śivakrā \msC</APP>
+        <!-- <TR>The syllable KU [of Kubjikā] is the earthly/royal syllable on the lotus [of the syllable] BJI.
+        KĀ is Kālī turned [into an] auspicious [goddess] and [her body is] bent.
+                        She, Śrī Kubjikā is victorious!</TR> -->
+
+%unmetr.;                      H/KṢ/MA?/LA (ku/Earth) ??
+% HRKṣMLVYŪṂ (Navātman), sahakṣamalavayrīṃ (Kubjikā)
+<TEXT>sṛṣṭā yayā parā vic{ }ca haṃsavarttidvīpakujā|</TEXT>
+        <APP>\vb <LEM>haṃsa°</LEM> \msA\msB\msD\msE\msF; <UNCL>hasa°</UNCL> \msC\oo
+                 <LEM>°varttidvīpakujā</LEM> \msA\msB\msC\msE\msF; °va××××× \msD</APP>
+%Shastri                               kṣajā
+% vicce \conj; vi<UNCL>cce</UNCL> \msA, vicca \msB\msC\msD\msE\msF
+% VICCE mantra? parā vidyā? parā vit ca ?
+
+<TEXT>sā janeśī kalau kālī saṃsthitā paścime gṛhe||</TEXT>
+        <APP>\vc <LEM>sā janeśī kalau kālī</LEM> \msA\msB\msC\msE\msF; ×××××××lī \msD</APP>
+        <!-- <TR>She created the supreme wisdom/goddess-mantra grown out of the soil of the
+     island inhabited by swans??? [phps HA-[SA?]-KṢA-MA(?)-LA (ku=/Earth)]
+        She is the queen of man, Kālī in the Kali era,
+             dwelling in the Western House.</TR> -->
+        % saṃ 23 sthitā \msF
+
+<TEXT>vedāt{ }tu paramaṃ śaivaṃ śaivād{ }dakṣiṇam{ }uttamam|</TEXT>
+        <APP>\va <LEM>vedāt{ }tu paramaṃ</LEM> \msF; vedāt{ }paramaṃ \msA\msB\msC\msD,
+                                        vedāntaṃ paramaṃ \msE\oo
+                 <LEM>śaivaṃ</LEM> \msA\msB\msF; \om\ \msC, śevaṃ \msD,
+                                <UNCL>śai</UNCL>vaṃ \msE</APP>
+         <APP>\vb <LEM>śaivād{ }da°</LEM> \msA\msB\msC\msD\msEpcorr\msF; śaivā da° \msE</APP>
+         <NOTE> MS \msF\ might be correcting the text here.
+                 Consider the emendation \skt{paratamaṃ} for tu paramaṃ: see paratamaṃ in the next line.</NOTE>
+        % Shastri also reads paramaṃ
+
+<TEXT>dakṣiṇāt{ }paścimaṃ śreṣṭham{ }ataḥ parataraṃ na hi||</TEXT>  %1.5
+        <APP>\vcd <LEM>śreṣṭham{ }ataḥ parataraṃ na hi</LEM> \msA\msB\msC\msE\msF; śreṣṭhaṃ ×××××××× \msD</APP>
+        <!-- <TR>Śaivism is higher than the Vedas. The Southern [transmission] is higher than Śaivism.
+        The Western [transmission] is superior to the Southern,
+                 for there is nothing higher than that.</TR> -->
+
+% \msC\ 2.jpg lower  f.2r
+%vijñā: to hear or learn from (gen.) ChUp. [MBh.];
+% RA-vipula; pāda b is unmetrical/hypermetrical
+<TEXT>vijñāya śrīkubjikāyāḥ śrīkujeśvarasahitāyāḥ|</TEXT>
+        <APP>\va <LEM>vijñāya śrīkubjikāyāḥ</LEM> \msA\msB\msC\msE\msF; ×××××<UNCL>bji</UNCL>kāyāḥ \msD</APP>
+        <APP>\vb <LEM>°sahitāyāḥ</LEM> \msA\msB\msC\msD\msF; °sahitāḥ \msE</APP>
+% em to kujeśa?
+
+%OK
+% \msF\ 1.jpg lower, f.2r
+<TEXT>nṛṇāṃ svargāptihetvarthaṃ nityāhnikam{ }ihocyate||</TEXT>
+        <APP>\vc <LEM>svargā°</LEM> \eme; varggā° \msA\msB\msC\msD\msE\msF\oo
+                 <LEM>°arthaṃ</LEM> \msA\msD\msE\msF; °arthaṃn \msB, ** \msC</APP>
+        <APP>\vd <LEM>nityāhnikam{ }iho°</LEM> \msA\msD\msE\msF; nityāhnikam{ }ivo° \msB,
+                                 <UNCL>nityāhnika</UNCL>**** \msC</APP>
+        <!-- <TR>Having learned it from Śrī Kubjikā who is united with Śrī Kujeśvara,
+        now I teach the Obligatory Daily [Rituals] to help people obtain heaven.</TR> -->
+% varga mantra Alessandra
+% varṇa Fra as mantra
+
+%                 deep
+<TEXT>jñānārṇavam{ }agādho 'yaṃ śrīśambhuśāsano mahān|</TEXT>
+        <APP>\va <LEM>jñānārṇavam{ }agādho 'yaṃ</LEM> \msA\msB\msE\msF; *****gādho yaṃ \msC, ×××××××× \msD</APP>
+        <APP>\vb <LEM>śrīśambhuśāsano</LEM> \msA\msB\msC\msE\msF; ××××śāsano \msD</APP>
+
+<TEXT>tatra pāraṃ paraṃ gacchan vīcī śrīkaṇṭhasaṃjñakaḥ||</TEXT>
+        <APP>\vc <LEM>pāraṃ paraṃ gacchan</LEM> \msA\msB\msD\msE\msF; <UNCL>pāraparaga</UNCL>* \msC</APP>
+        <APP>\vd <LEM>vīcī śrīkaṇṭhasaṃjñakaḥ</LEM> \msA\msD\msF; vīcī **<UNCL>ṇṭha</UNCL>saṃjñakaḥ \msB,
+                                                **śrīka**** \msC, vīrī śrīkaṇṭhasaṃjñakaḥ \msE</APP>
+        <!-- <TR>This great teaching of Śrī Śambhu is a deep ocean of knowledge.
+        A wave reached the other shore of that [ocean] and it was called Śrīkaṇṭha.</TR> -->
+% bījin : bīja dīkṣā Florinda
+% Fra bījin with mantras?
+%Shastri reads tatpāraṃ
+% vīraḥ? bījin???! real father!
+% DCS vīvī as wave? gacchan vīciḥ?
