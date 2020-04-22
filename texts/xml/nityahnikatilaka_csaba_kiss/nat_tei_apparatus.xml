@@ -1,20 +1,20 @@
-<app loc="1.1ab"> 
+<app loc="1.1a"> 
      <lem wit="#msB #msD #msE #msF">alake</lem>
      <rdg wit="#msA">aUNCLlake/UNCL </rdg>
      <rdg wit="#msC">aUNCLla/UNCLke </rdg>
 </app>
-<app loc="1.1cd"> 
+<app loc="1.1b"> 
      <lem wit="#msA #msB #msC #msE #msFpcorr">pāntu janān</lem>
      <rdg wit="#msD">pāntu janā× </rdg>
      <rdg wit="#msFacorr">pāta janān </rdg>
 </app>
-<app loc="1.2ab"> 
+<app loc="1.2a"> 
      <lem wit="#msF">°stamba°</lem>
      <rdg wit="#msA #msD #msE">°stambha° </rdg>
      <rdg wit="#msB">°stambham </rdg>
      <rdg wit="#msC"></rdg>
 </app>
-<app loc="1.2cd"> 
+<app loc="1.2b"> 
      <lem wit="#msA #msB #msC #msD #msF">°daivo</lem>
      <rdg wit="#msE">°devo </rdg>
 </app>
