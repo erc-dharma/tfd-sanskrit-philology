@@ -99,22 +99,54 @@ because the	sense faculties are corrupted or because what is to be cognised is v
 [3.11]
 <TEXT>sarasasya sujātasya kevalasyodanena vā |</TEXT>
 % sarasya ] sa\?rūpa\?sya Sanderson
-%% should we emend to kevalasyodanasa vā ?
+%% should we emend to kevalasyodanasya vā ?
 <TEXT>gamitasya paraṃ bhāgaṃ dadhnaḥ prāśanam uttamam ||</TEXT>
 
+<TR>Eating most excellently (uttamam) curd that is juicy (sarasasya), well-formed (sujātasya), which has been caused [because of its fatty content] to rise to the topmost part [of the vessel] (gamitasya paraṃ bhāgam) by itself (kevalasya), or with rice.</TR>
 
-
-[3.12] svabhāvaparipakvasya bhūtādīnāṃ phalasya vā ||
-bhakṣaṇaṃ svayam āruhya bhūtiliṅgaṃ mabhī(46v5)psave |
+[3.12]
+<TEXT>svabhāvaparipakvasya cūtādīnāṃ phalasya vā |</TEXT>
+<APP> \vb <LEM>cūtādīnāṃ</LEM> \conj;
+      bhūtādīnāṃ \msA</APP>
+<TEXT>bhakṣaṇaṃ svayam āruhya bhūtiliṅgamabhīpsave ||</TEXT>
+<APP> \vd <LEM>bhūtiliṅgamabhīpsave</LEM> \conj;
+bhūtiliṅgaṃ mabhīpsave \msApc; bhūtiliṅgaṃ mabhīpsavā(?) \msAac</APP>
 % °psave ] MSpc; °psavā (?) MSac (Note that Sanderson had read otherwise here)
-[3.13] svapno yaṃ bhūtaye bhavyaḥ prasnutāyā yadṛcchayā ||
+<TR>Eating the naturally ripening fruits of mangos and the like, having climbed up oneself, is a sign [of the acquisition] of special powers, for one who wishes to attain them.</TR>
+
+<NOTE>For the conjectural emendation to \skt{cūtādīnām}, see the clearly related passage in Uttara-Kāmika 22 (10c–11):
+cūtādi puṇyavṛkṣāṇāṃ saphalanāṃ tu darśanam |
+teṣām ārohaṇaṃ śastaṃ tatphalānāṃ ca saṃgrahaḥ |
+teṣāṃ ca bhakṣaṇaṃ śastaṃ śailaharmyāśvahastinām </NOTE>
+
+[3.13]
+<TEXT>svapno ’yaṃ bhūtaye bhavyaḥ prasnutāyā yadṛcchayā |</TEXT>
 % prasnutāyā ] MS; praśrutāyā Sanderson
-payasaḥ pāṭalāyā goḥ pāna yadvatsalīlayā |
-% goḥ] MSpc; go MSac
-[3.14] dṛṣṭānām api caiteṣāṃ prāptānāṃ (47r1) ca kathañcana ||
-aprāptir apahāraś ca svapno niṣṭhārthasūcakaḥ |
-[3.15] snātais taiḥ śucivastraiś ca śrutvā svapnān niveditān ||
-anumodya śubhāṃs tatra pratikuryā(47r2)d athetarān |
+<TEXT>payasaḥ pāṭalāyā goḥ pānaṃ yadvatsalīlayā ||</TEXT>
+<APP> \vcd <LEM>goḥ pānaṃ</LEM> \conj;
+   goḥ pāna \msApc, go pāna \msAac</APP>
+<TR>This dream is auspicious (bhavyaḥ) for [the acquisition of] special powers: the fact of (yad) drinking milk from a reddish cow that lactates (prasnutāyāḥ) by happenstance (yadṛcchayā), because of the playfulness of her calf (vatsalīlayā).</TR>
+
+
+<NOTE>Cf.\ prasavo vātha caitāsāṃ bhūtiliṅgam iti smṛtam /
+payasaḥ pāṭalāyā goḥ pānaṃ yad vatsalīlayā
+(Kāmikāgama, Uttara, 22:15; Muktabodha e-text!!!).
+Here perhaps prasavo could be an error for prasnavo ?</NOTE>
+
+(f.47r1, numbered 47a in modern Arabic numeration)
+[3.14]
+<TEXT>dṛṣṭānām{ }api caiteṣāṃ prāptānāṃ ca kathañcana |</TEXT>
+<TEXT>aprāptir{ }apahāraś ca svapno niṣṭhārthasūcakaḥ ||</TEXT>
+
+<TEXT>If one sees these things and they are acquired with difficulty but one loses them (aprāptiḥ) or they are taken away, [then such a] dream is indicative of [attaining] the final aim [of liberation].</TEXT>
+<NOTE>The same verse occurs, with an important, but probably originally accidental change, in Uttara-Kāmika 22:53: dṛṣṭānām api caiteṣāṃ prāptānāṃ ca kathañcana /
+aprāptir apahāraś ca svapne ’niṣṭārthasūcakaḥ </NOTE>
+
+
+[3.15]
+<TEXT>snātais taiḥ śucivastraiś ca śrutvā svapnān niveditān |</TEXT>
+<TEXT>anumodya śubhāṃs tatra pratikuryād athetarān ||</TEXT>
+
 [3.16] ghṛtaṃ durvvā madhu kṣīraṃ śatahomo tha kāpilam ||
 ādiśyāniṣṭasvapnasya darśitaṃ maṇḍalaṃ sa cet |
 [3.17] catuḥkoṇaṃ caturdvāraṃ samasūtraṃ bahiḥ(47r3)puram ||
