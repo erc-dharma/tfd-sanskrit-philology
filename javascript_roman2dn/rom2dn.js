@@ -48,7 +48,7 @@ let vowels = ["ṃ", "ḥ", 'a', 'i', 'u', 'ṛ', 'ḷ', 'ā', 'ī', 'ū', 'ṝ'
 
 let consonants = ["k", "K", "g", "G", "ṅ", "c", "C", "j", "J", "ñ", "ṭ", "Ṭ", "ḍ", "Ḍ", "ṇ", "t", "T", "d", "D", "n", "p", "P", "b", "B", "m", "y", "r", "l", "v", "ś", "ṣ", "s", "h"]
 
-let preprocessing = [['ai', 'đ'], ['au', 'ő'], ['kh', 'K'], ['gh', 'G'], ['ṭh', 'Ṭ'], ['th', 'T'], ['dh', 'D'], ['ph', 'P'], ['bh', 'B'], ['ch', 'C'], ['jh', 'J'], ['\|', ' |'], ['{ }', '']]
+let preprocessing = [['ai', 'đ'], ['au', 'ő'], ['kh', 'K'], ['gh', 'G'], ['ṭh', 'Ṭ'], ['ḍh', 'Ḍ'], ['th', 'T'], ['dh', 'D'], ['ph', 'P'], ['bh', 'B'], ['ch', 'C'], ['jh', 'J'], ['\|', ' |'], ['{ }', '']]
 
 
 
@@ -65,10 +65,9 @@ let roman_prep = [];
 for (let a = 0; a < roman_elem.length; a++) {
         let preprocessed_line = roman_elem[a].innerHTML;
 	for (let b = 0; b < preprocessing.length; b++) {
-	  preprocessed_line = preprocessed_line.replace(preprocessing[b][0], preprocessing[b][1]);
+	  preprocessed_line = preprocessed_line.split(preprocessing[b][0]).join(preprocessing[b][1]);
 	}
 		roman_prep[a] = preprocessed_line + " ";
-	
 }
 
 // change
@@ -79,6 +78,12 @@ for (let a = 0; a < roman_elem.length; a++) {
 			 if (l < rsplit.length && consonants.includes(rsplit[l]) && consonants.includes(rsplit[l+1]) ) {
 			rsplit[l] = rsplit[l] + 'V';
  			  }
+
+
+                // space
+          	if (rsplit[l] === " "){		
+		conjunct = false ;
+			  }
 
                 // sandhi C + V
           	if (l < rsplit.length-2 && consonants.includes(rsplit[l]) && rsplit[l+1] === " " && vowels.includes(rsplit[l+2])){		
@@ -163,7 +168,6 @@ let elem = document.getElementById("switchbutton");
 		for (let y = 0; y < texts.length; y++) {
 			texts[y].style.display = "block";
 			}
-		document.getElementById("sanskrittext").style.fontSize="110%";
 		}
 		else {elem.textContent = "[Click to switch to Devanāgarī]";
 		texts = document.getElementsByTagName("l");
@@ -174,7 +178,6 @@ let elem = document.getElementById("switchbutton");
 		for (let y = 0; y < texts.length; y++) {
 			texts[y].style.display = "none";
 			}
-		document.getElementById("sanskrittext").style.fontSize="100%";		
 		}
 
 }
