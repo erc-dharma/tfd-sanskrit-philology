@@ -32,14 +32,16 @@
 <TEXT>tadvikārān{ }aṇusvapne pratyakṣāniva paśyati ||</TEXT>
 % pratyakṣāni ca Sanderson
 
+
 <TR>Alternatively [it may simply be] the nature [of the dreamer that produces his dreams], or [the dream] may be spoiled by the humours [in his body] (<foreign>dhātunā</foreign>).  [The guru] sees the transformations of those [various factors] in the dream of the individual soul as though they were directly visible before him.</TR>
 
 [3.4]
 <TEXT>yaṃ ca supto ’rtham{ }ādāya duṣṭaṃ vā yadi vā śubham |</TEXT>
-<APP> \vb <LEM>śubham</LEM> \conj\ Sanderson; śrutam \msA<APP>
+<APP> \vb <LEM>śubham</LEM> \conj\ Sanderson; śrutam \msA</APP>
 %% We should perhaps emend to suptottham  (`one who
 %% has slept and [only just] got up') ? NO: suggestion rejected
 % śrutam ] MS; śubham Sanderson
+
 
 <TEXT>sā cintāsantatiḥ svapne pratyakṣevāvabhāsate ||</TEXT>
 
@@ -104,6 +106,7 @@ because the	sense faculties are corrupted or because what is to be cognised is v
 
 <TR>Eating most excellently (uttamam) curd that is juicy (sarasasya), well-formed (sujātasya), which has been caused [because of its fatty content] to rise to the topmost part [of the vessel] (gamitasya paraṃ bhāgam) by itself (kevalasya), or with rice.</TR>
 
+
 [3.12]
 <TEXT>svabhāvaparipakvasya cūtādīnāṃ phalasya vā |</TEXT>
 <APP> \vb <LEM>cūtādīnāṃ</LEM> \conj;
@@ -144,35 +147,84 @@ aprāptir apahāraś ca svapne ’niṣṭārthasūcakaḥ </NOTE>
 
 
 [3.15]
-<TEXT>snātais taiḥ śucivastraiś ca śrutvā svapnān niveditān |</TEXT>
-<TEXT>anumodya śubhāṃs tatra pratikuryād athetarān ||</TEXT>
+<TEXT>snātais{ }taiḥ śucivastraiś{ }ca śrutvā svapnān{ }niveditān |</TEXT>
+<TEXT>anumodya śubhāṃs{ }tatra pratikuryād{ }athetarān ||</TEXT>
+<TR>Having heard the dreams recounted by those [disciples] who have bathed and who are wearing clean garments, he should rejoice at the auspicious ones among them and then perform countermeasures for the others.</TR>
 
-[3.16] ghṛtaṃ durvvā madhu kṣīraṃ śatahomo tha kāpilam ||
-ādiśyāniṣṭasvapnasya darśitaṃ maṇḍalaṃ sa cet |
-[3.17] catuḥkoṇaṃ caturdvāraṃ samasūtraṃ bahiḥ(47r3)puram ||
-tanmadhye vartulaṃ padmam aṣṭapatraṃ sakarṇṇikam |
-[3.18] puran turyāsanivṛttaṃ tadvad dvāracatuṣṭayam ||
-puram aṣṭakaraṃ yadvā tadardhe cāruvīthikām |
-[3.19] si(47r4)taraktāsitābhiś ca rajorekhābhir ujvalam ||%
-%
-		\var{rekhābhir \conj : rekṣābhir A}%
-%
-akṛṣasthūlavaktrābhiḥ komalābhir alaṃkṛtam |
-[3.20] nātivistīrṇṇayā bāhye patravallyā viveṣṭitam ||%
-%
-		\var{patravallyā viveṣṭitam \conj :
-		patravalyādiveṣṭitam A}%
-%
-ra(47r5)\?sre\?vicitrayogoḍhaṃ pratyakdvārapraveśanam |
-[3.21] uttuṅgamastakaiḥ pādaiś caturbhir sārddham ujvalaiḥ ||
-gātrakair uddhṛtaṃ nemyā paritaḥ samalaṃkṛtam |
-[3.22] nā(47v1)garājaphaṇā\?kā\?rair manāg ānamitā\?dya\?kaiḥ ||
-dalair nīlāntarālaiś ca suvibhaktair virājitam |
-[3.23] dalamūlatṛtīyāṃśalabdhacchāyaiś ca keśaraiḥ ||
-piñja(47v2)ralohitaśvetaiḥ agre madhye ca mūlataḥ |
-[3.24] vibhūṣitatalaṃ madhye cārukarṇṇikayāpi ca ||
-pītayā puṣkariṇyā ca rasaparvvapramāṇayā |
+
+[3.16]
+<TEXT>ghṛtaṃ dūrvvāṃ madhu kṣīraṃ śatahomāya kāpilam |</TEXT>
+<APP> \va <LEM>dūrvvāṃ</LEM> \conj;
+   dūrvvā \msA</APP>
+%% Alexis' transcription had śatahomo tha
+<TEXT>ādiśyāniṣṭasvapnasya darśitaṃ maṇḍalaṃ bhavet ||</TEXT>
+<APP> \vc <LEM>ādiśyā°</LEM> \emend;
+ ādiṣyā° \msApc; ādiṣya° \msAac</APP>
+ <APP> \vd <LEM>bhavet</LEM> \conj;
+    sa cet \msA</APP>
+ <TR>The <foreign>maṇḍala</foreign> may be shown to one who has had an undesirable dream (<foreign>aniṣṭasvapnasya</foreign>) once he has offered (<foreign>ādiśya</foreign>) ghee, Dūrvā-grass, honey, [and] milk from a tawny cow, [enough] for one hundred oblations.</TR>
+
+
+[3.17]
+<TEXT>catuḥkoṇaṃ caturdvāraṃ samasūtraṃ bahiḥpuram |</TEXT>
+<TEXT>tanmadhye vartulaṃ padmam{ }aṣṭapatraṃ sakarṇṇikam ||</TEXT>
+<TR>[It should be] square, with four gateways, with even lines [drawn] outside the <foreign>maṇḍala</foreign> (<foreign>bahiḥpuram</foreign>).  Inside it, [there should be a] circle [containing] an eight-petalled lotus with a pericarpel.</TR>
+
+[3.18]
+<TEXT>puraturyāṃśanirvṛttaṃ tadvad{ }dvāracatuṣṭayam |</TEXT>
+<APP> \va <LEM>puraturyāṃśanirvṛttaṃ</LEM> \conj;
+puraturyāṃsanivṛttaṃ \msA</APP>
+<TEXT>puram{ }aṣṭakaraṃ yadvā tadardhe cāruvīthikām ||</TEXT>
+<TR>Similarly (?) there should be four doors, [each] made using a fourth part [of the length of the side (?)] of the <foreign>maṇḍala</foreign>.
+The <foreign>maṇḍala</foreign> should be eight cubits [across], or half of that,
+having beautiful pathways.</TR>
+
+[3.19]
+<TEXT>sitaraktāsitābhiś{ }ca rajorekhābhir{ }ujvalam |</TEXT>
+<APP> \vb <LEM>rekhābhir</LEM> \conj;
+     rekṣābhir \msA</APP>
+<TEXT>akṛśasthūlavakrābhiḥ komalābhir{ }alaṃkṛtam ||</TEXT>
+<APP> \vc <LEM>akṛśasthūlavakrābhiḥ</LEM> \conj;
+akṛṣasthūlavaktrābhiḥ \msA</APP>
+<TR>[It should be] bright, adorned with delicate (<foreign>komalābhiḥ</foreign>) lines of powder that are white, red and black,
+that are not too thin, or too broad, or crooked.</TR>
+
+[3.20]
+<TEXT>nātivistīrṇṇayā bāhye patravallyādiveṣṭitam |</TEXT>
+<APP> \vb <LEM>patravallyādiveṣṭitam</LEM> \conj;
+		patravelyādiveṣṭitam \msA</APP>
+%% Alexis had proposed correcting to patravallyā viveṣṭitam
+<TEXT>rajovicitrayā gāḍhaṃ pratyakdvāre praveśanam ||</TEXT>
+<APP> \vd <LEM>praveśanam</LEM> \emend;
+     pravesanam \msA</APP>
+<TR>On the outside, it should be encircled (<foreign>°veṣṭitam</foreign>) with [decorative patterns of] leaves and creepers and the like (<foreign>pattravallyādi°</foreign>), which should not be too long, richly (<foreign>gāḍham</foreign>) colourful with [various] powders. Entrance should be through the western gateway. </TR>
+
+[3.21]
+<TEXT>uttuṅgamastakaiḥ pādaiś{ }caturbhiḥ sārddham{ }ujvalaiḥ |</TEXT>
+<APP> \vb <LEM>caturbhiḥ</LEM> \emend;
+ caturbhi \msA</APP>
+<TEXT>gātrakair{ }uddhṛtaṃ nemyā paritaḥ samalaṃkṛtam ||</TEXT>
+<TR>It should have four [lion-]feet with lofty heads, bright, and supported (<foreign>uddhṛtaiḥ</foreign>) with cross-struts, adorned all around with a wheel (<foreign>nemyā</foreign>).</TR>
+
+
+% \msA, f. 47v
+[3.22]
+<TEXT>nāgarājaphaṇākārair{ }manāg{ }ānamitāgrakaiḥ |</TEXT>
+<TEXT>dalair{ }nīlāntarālaiś{ }ca suvibhaktair{ }virājitam ||</TEXT>
+<TR>It should shine with petals (<foreign>dalaiḥ</foreign>) that have the form of regal serpents’ hoods whose summits are slightly inclined, and with gaps in between them that are dark and well arranged (<foreign>suvibhaktaiḥ</foreign>).</TR>
+
+[3.23]
+<TEXT>dalamūlatṛtīyāṃśalabdhacchāyaiś{ }ca keśaraiḥ |</TEXT>
+<TEXT>piñjarālohitaśvetaiḥ agre madhye ca mūlataḥ ||</TEXT>
+<TR>[It should be drawn] with filaments whose shadow/radiance occupies a third [of each petal] from the base of the petal.  At the tip, in the middle and at the base, [the filaments should be] yellow, reddish and white [respectively].</TR>
+
+
+[3.24]
+<TEXT>vibhūṣitatalaṃ madhye cārukarṇṇikayāpi ca |</TEXT>
+<TEXT>pītayā puṣkariṇyā ca rasaparvvapramāṇayā ||</TEXT>
+
 [3.25] sārdraraṅge(47v 3) +  + ndreṇa parimṛṣṭāntarālakam ||
+% sārdragaṃdhārdra [va?]streṇa
 ālaṃbibhir manohārivicitraiḥ puṣpadāmabhiḥ |
 [3.26] itthaṃ sunirmitaṃ sārddhaṃ sarvvānugrāhakaṃ sadaḥ ||%
 %
