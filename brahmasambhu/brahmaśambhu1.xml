@@ -1091,44 +1091,138 @@ LACUNA: folios 13--14
 % 92
 <TEXT>sthiCūla  + sā .i pāla +  +  iyan tathā |</TEXT>
 <TEXT> = = kaṇḍūyane lauhaṃ karayugmena kaṇṭakam ||</TEXT>
-% 93
-<TEXT>ū ¿  ¿  ¿  ˘  ¯ ¯  ¿   ¿  ¿  ¿  ¿  ˘  ¯  ˘  ¯ |</TEXT>
-<TEXT>¿  ¿  ¿  ¿  ˘  ¯ ¯  ¿   ¿  ¿  ¿  ¿  ˘  ¯  ˘  ¯ ||</TEXT>
-% 94
-<TEXT>¿  ¿  ¿  ˘  ¯  ¯  ¿   ¿  ¿  ¿  ¿ tu tāvatā |</TEXT>
-<TEXT>jānuno jaṃghayoḥ  ¯  ¿  ¿  pi  ¿  ¿  ˘  ¯  ˘  ¯  ||</TEXT>
-% 95
-<TEXT>¿ ¿  ¿  ¿  ˘  ¯ ¯  ¿   ¿  ¿  ¿  ¿  ˘  ¯  ˘  ¯  |</TEXT>
-<TEXT>¿ ¿  ¿  ¿  ˘  ¯ ¯  ¿   dvādaśāṅgulamānataḥ ||</TEXT>
+%SAS SARMA: check Piṅgalāmata fols. 71ff. for parallels
 
+...when there is a scratching...there is a iron splinter at two kara's depth.
+
+
+
+% 93
+<TEXT>ūrvvorurūdbhavaṃ taś ca sārddhahaste ˘  ¯  ˘  ¯ |</TEXT>
+<TEXT>uraḥ  ¿  ñcanaṃ salya  ¿   ¿  ¿  ¿  ¿  ˘  ¯  ˘  ¯ ||</TEXT>
+
+% 94
+<TEXT>¿  ¿  ¿  ˘  ¯  sya  ¿   ¿  ¿  ṇena tu tāvatā |</TEXT>
+<TEXT>jānunor{ }jaṃghayoḥ sthūṇā nāpitopaskara  ˘  ¯  ||</TEXT>
+<APP> \vc <LEM>jānunor</LEM> \emend;
+jānuno \msA</APP>
+
+<TR>From [scratching of] the knees or shanks, [trace of a] pillar, or the detritus from a barber's shop ....</TR>
+
+<NOTE>Cf. Devyāmata 80.82–83.</NOTE>
+
+% 95
+<TEXT>¿ ¿  ¿  ¿  (sthi jaṃghayo)  ¿   ¿  (daśaikāṅgula)mānataḥ  |</TEXT>
+<TEXT>pādayoḥ kuṃjarāsthi syāt dvādaśāṅgulamānataḥ</TEXT>
+<APP> \vc <LEM>pādayoḥ</LEM> \emend;
+ pādayo \msA</APP>
+
+<TR>From [scratching of] the feet, [we know that] there must be an elephant bone at a depth of twelve finger-breadths [below the ground]. </TR>
+
+<NOTE>Cf. Devyāmata 80.84.</NOTE>
+
+<TEXT>khadi...</TEXT>
+<TEXT>- syakaniṣṭhi kāṃsyaśāṃtacarmasyātulayādayoḥ |</TEXT>
+<TEXT>yac cāṣṭaka .</TEXT>
+
+<TEXT>sūtre prasāryamāṇe tu mārjāro yadi laṃghayet</TEXT>
+
+<TEXT>rāsabhāsthi tadā vidyāt tad aṅge tatpramāṇataḥ</TEXT>
+> Devyāmata 80.17c-18b
+
+If a cat crosses [the thread] while the thread is being extended, then he knows donkey bone.
 
 %(15v1)
-<TEXT>diṣam |</TEXT>
+<TEXT>sutāś cāsthi .. sthi syād aja.. (15v1) diṣam</TEXT>
+
+
 % 96
-<TEXT>jambukāsthimahiṣyā tu kroṣṭunā sūkarāsthi ca ||</TEXT>
-<TEXT>sūkareṇa vaiyāghraṃ vyāghreṇaibha ibhena tu |</TEXT>
+<TEXT>jambukāsthi mahiṣyā tu kroṣṭunā sūkarāsthi ca ||</TEXT>
+<TEXT>sūkareṇa tu vaiyāghraṃ vyāghreṇaibha ibhena tu |</TEXT>
+<APP> \va <LEM>tu</LEM> \msApc (i.m.), om. \msAac</APP>
+
+<TR>A female water buffalo [traversing the thread] [indicates] a jackal bone, and a jackal [indicates] boar bones, a boar [indicates bones] belonging to a tiger, a tiger [crossing indicates] an elephant [bone]. An elephant [crossing indicates a bone] coming from a camel. By that [camel is indicated] charcoal, </TR>
+
+<NOTE>Devyāmata 80.21-23:
+mahiṣalaṅghanenaiva asthi syāj jambukasya tu
+jambukalaṅghanenaiva sūkarāsthi samādiśet
+sūkarākramaṇe vyāghraṃ vyāghreṇaiva tu kuñjaram
+kuñjarākramaṇe hy uṣṭram aṅgāraṃ soṣṭralaṅghanāt
+nṛlaṅghanān narāsthi syāt kharāsthi kharalaṅghanāt
+evaṃ saṃlakṣayec chalyaṃ laṅghanādarśanādibhiḥ</NOTE>
+
 % 97
 %(15v2)
-<TEXT>uṣṭrajan{ }tena cāṃgāro narāsthi syān{ }nreṇa tu ||</TEXT>
+<TEXT>uṣṭrajan{ }tena cāṃgāro narāsthi syān{ }nareṇa tu ||</TEXT>
 <TEXT>khareṇa tu kharāsthi syād{ }darśanāt{ }kīrttanād{ }api |</TEXT>
+<APP> \vb <LEM>syān</LEM> \msApc (i.m.), syā \msAac</APP>
+<APP> \vcd <LEM>syād{ }darśanāt</LEM> corr., syāta darśanāt \msApc?</APP>
+
+<TR>...a human [crossing] would [indicate] human bone, a donkey (khareṇa) would [indicate] donkey bone. Even if one only sees or hears mention of [such beings], </TR>
+
 % 98
-<TEXT>ākhunā tatkapāla syāt{ }yasminn{ }aṃge gṛhī sthitaḥ ||</TEXT>
+<TEXT>ākhunā tatkapālaṃ syāt{ }yasminn{ }aṃge gṛhī sthitaḥ ||</TEXT>
 %(15v3)
 <TEXT>bhasmāṃgāratuṣādīni kīrttanād{ }api nirddiśet |</TEXT>
+
+<NOTE>Cf. Devyāmata 80.36cd:
+athavā vāstumadhye tu yasmin aṃge gṛhī sthitaḥ</NOTE>
+
+<TR>A bandicoot rat would [indicate] a shard of that [bandicoot rat’s bone]. In whichever limb [of the Vastudevatā] the householder stands when they are even merely mentioned (<foreign>kīrtanāt</foreign>), he may point to [vestiges beneath the surface of] ash, charcoal and chaff.</TR>
+
+
 % 99
-<TEXT>pratyekaṃ tad{ }vipākāś{ }ca kīrttyante tad{ }yathā manāk ||</TEXT>
-<TEXT>maraṇaṃ nṛkapālena sutebhyas{ }tu viyojanam |</TEXT>
+<TEXT>pratyekaṃ tadvipākāś{ }ca kīrttyante tadyathā manāk ||</TEXT>
+<TEXT>maraṇaṃ nṛkapālena sutebhyaś{ }ca viyojanam |</TEXT>
+%Sanderson read sutebhyas{ }tu
+
+<NOTE>Cf. Devyāmata 80.91cd: maraṇaṃ syāt kapālena sutebhyo vā viyujyate</NOTE>Cf.
+
+<TR>And the results of these [signs] are explained briefly (<foreign>manāk</foreign>) one by one in the following manner:
+A human skull [brings] death and separation from children is similarly [indicated] by bones from the neck.</TR>
+
 % 100
 %(15v4)
-<TEXT>grīvāśalyena tadvat syād{ }aṃsāsthāv{ }āha na kṣayaḥ ||</TEXT>
-<TEXT>pārśvāsthnā kukṣi + gas{ }tu vidveṣaḥ pṛṣṭhavaṃśajāt |</TEXT>
+<TEXT>grīvāśalyena tadvat{ }syād{ }aṃsāsthnā vāhanakṣayaḥ ||</TEXT>
+<TEXT>pārśvāsthnā kukṣirogas{ }tu vidveṣaḥ pṛṣṭhavaṃśajāt |</TEXT>
+
+<TR>When [there is] a splinter [of bone] from the shoulder, there will be destruction of the vehicle. A rib [brings] illness in the stomach; hostility [comes about] due to [a bone] from the back bone.</TR>
+
+<NOTE>Devyāmata 80.92-93:
+grīvaśalyena mṛtyuḥ syād gṛhiṇo nātra saṃśayaḥ
+aṃsāsthijena śalyena bāndhavebhyo viyujyate
+pārśvāsthijena śalyena kukṣirogabhayaṃ bhavet
+pṛṣṭhavaṃśena vidveṣaḥ kṣuttṛṣṇā hṛdyāsthinā</NOTE>
+
+
 % 101
 <TEXT>hṛdrogo hṛdayāsthnā tu kaṭyasthnā kaṭirogatā ||</TEXT>
+
+<TR>A heart bone (?sternum) [brings] heart disease; a hip bone illness in the hip.</TR>
+
 %(15v5)
-<TEXT>\?bahūn\?īñcorujaṃghāsthnā pravāsaḥ pādajam{ }bhavet |</TEXT>
+<TEXT>bandhanā corujaṃghāsthnā pravāsaḥ pādajād{ }bhavet |</TEXT>
+
+<TR>Imprisonment from the bone of the thigh or lower leg; exile [due to a bone] from the foot.</TR>
+
+<NOTE>Devyāmata 80.95:
+jaṅghāsthijena śalyena bandhanastho vipadyate
+pādajena bhaven mṛtyuḥ praṇāśo gṛhiṇo 'thavā</NOTE>
+
+
 % 102
-<TEXT>śokas{ }tv{ }aṃguliśalyena mānuṣāsthnā midaṃhanaṃ ||</TEXT>
-<TEXT>amanuṣyāṅgaśalyānām{ }ucyate tad{ }yathā \?pha\?[lam | ]</TEXT>
+<TEXT>śokas{ }tv{ }aṃguliśalyena mānuṣāsthnām{ }idaṃ phalaṃ ||</TEXT>
+<TEXT>amanuṣyāṅgāśalyānām{ }ucyate tadyathā phalam</TEXT>
+<APP> \va <LEM>śokas{ }tv{ }aṃguliśalyena</LEM> \emend;
+    sokas{ }tv{ }aṃgulisalyena \msA</APP>
+<APP> \vd <LEM>phalam</LEM> \emend;
+    pha \lk\ \msA</APP>
+
+<TR>A finger splinter [brings] grief. These are the results of human bones.
+And in the very same way this outcome is taught about non-human bones.</TR>
+
+<NOTE>Cf. Devyāmata 80.96ab:
+śoko hy aṅguliparveṇa bhavate nātra saṃśayaḥ</NOTE>
 
 
 LACUNA: folio 16
