@@ -1089,35 +1089,59 @@ LACUNA: folios 13--14
 
 (15r1)
 % 92
-<TEXT>sthiCūla  + sā .i pāla +  +  iyan tathā |</TEXT>
-<TEXT> = = kaṇḍūyane lauhaṃ karayugmena kaṇṭakam ||</TEXT>
+<TEXT>sthiśalya  + sā .i pāla +  +  iyan tathā |</TEXT>
+<TEXT>kaṭyāḥ kaṇḍūyane lauhaṃ karayugmena kaṇṭakam ||</TEXT>
+<APP> \vc <LEM>kaṭyāḥ</LEM> \lem \conj;
+* ṭyāḥ \msA</APP>
 %SAS SARMA: check Piṅgalāmata fols. 71ff. for parallels
 
-...when there is a scratching...there is a iron splinter at two kara's depth.
+<TR>...when there is a scratching on the hip there is an iron splinter at a depth of two cubits.</TR>
 
+<NOTE>PI 9.82-83
+MY 4 x+20
+KI 54.44
+DM 80.80c-81b</NOTE>
 
 
 % 93
-<TEXT>ūrvvorurūdbhavaṃ taś ca sārddhahaste ˘  ¯  ˘  ¯ |</TEXT>
-<TEXT>uraḥ  ¿  ñcanaṃ salya  ¿   ¿  ¿  ¿  ¿  ˘  ¯  ˘  ¯ ||</TEXT>
+<TEXT>ūrvvor{ }ūrūdbhavaṃ tac{ }ca sārddhahastena dāru vā |</TEXT>
+<APP> \va <LEM>tac{ }ca</LEM> \conj;
+taśca \msA</APP>
+<TEXT>uraḥkaṇḍūyane śalyaṃ pārśvajaṃ sārddhahastataḥ ||</TEXT>
+<APP> \vc <LEM>uraḥkaṇḍūyane śalyaṃ</LEM> \conj;
+  uraḥ kaṇḍū +?+ ne(?) salya \msA</APP>
+<APP> \vd <LEM>pārśvajaṃ</LEM> \conj;
+   * rśvajaṃ \msA</APP>
 
+<TR>[If one scratches] the thigh, then such [a broken piece] coming from the thigh [is to be be found], or [a piece of hard] wood at a depth of one and a half cubits. If one scratches the chest, a rib bone [is to be be found] at a depth of one and a half cubits.</TR>
+
+%%93d:
+. DM 80:77cd
 % 94
-<TEXT>¿  ¿  ¿  ˘  ¯  sya  ¿   ¿  ¿  ṇena tu tāvatā |</TEXT>
-<TEXT>jānunor{ }jaṃghayoḥ sthūṇā nāpitopaskara  ˘  ¯  ||</TEXT>
+<TEXT>hārdyañ{ }ca hṛdayasparśāt{ }pramāṇena tu tāvatā |</TEXT>
+<TEXT>jānunor{ }jaṃghayoḥ sthūṇā nāpitopaskaraṃ bha[vet]||</TEXT>
 <APP> \vc <LEM>jānunor</LEM> \emend;
 jānuno \msA</APP>
 
-<TR>From [scratching of] the knees or shanks, [trace of a] pillar, or the detritus from a barber's shop ....</TR>
+<TR>And from touching [to scratch the region of] the heart, [one finds a fragment] belonging to the heart at such a distance [beneath the ground].
+  From [scratching of] the knees or shanks, [trace of a] pillar, or the detritus from a barber's shop ....</TR>
 
 <NOTE>Cf. Devyāmata 80.82–83.</NOTE>
 
 % 95
-<TEXT>¿ ¿  ¿  ¿  (sthi jaṃghayo)  ¿   ¿  (daśaikāṅgula)mānataḥ  |</TEXT>
+<TEXT>jaṃghāsthi jaṃghayo * * daśaikāṅgulamānataḥ  |</TEXT>
 <TEXT>pādayoḥ kuṃjarāsthi syāt dvādaśāṅgulamānataḥ</TEXT>
 <APP> \vc <LEM>pādayoḥ</LEM> \emend;
  pādayo \msA</APP>
 
-<TR>From [scratching of] the feet, [we know that] there must be an elephant bone at a depth of twelve finger-breadths [below the ground]. </TR>
+%% From the point of view of sense, the missing 2 syllables could be: tatra, śalyaṃ, khātvā, sparśe
+%% But none of these seem to fit the blurred shapes that we see on the palm-leaf.
+%% Both look like conjuncts or complex akṣaras !
+
+<TR>[In the case of scratching] of the shanks, a shank bone at a depth of eleven finger-breadths...
+  From [scratching of] the feet, [we know that] there must be an elephant bone at a depth of twelve finger-breadths [below the ground].</TR>
+
+%%04.09.2020
 
 <NOTE>Cf. Devyāmata 80.84.</NOTE>
 
@@ -1130,7 +1154,7 @@ jānuno \msA</APP>
 <TEXT>rāsabhāsthi tadā vidyāt tad aṅge tatpramāṇataḥ</TEXT>
 > Devyāmata 80.17c-18b
 
-If a cat crosses [the thread] while the thread is being extended, then he knows donkey bone.
+If a cat crosses [the thread] while the thread is being extended, he knows [that there are] donkey bone.
 
 %(15v1)
 <TEXT>sutāś cāsthi .. sthi syād aja.. (15v1) diṣam</TEXT>
