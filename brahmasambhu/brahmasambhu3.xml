@@ -32,14 +32,16 @@
 <TEXT>tadvikārān{ }aṇusvapne pratyakṣāniva paśyati ||</TEXT>
 % pratyakṣāni ca Sanderson
 
+
 <TR>Alternatively [it may simply be] the nature [of the dreamer that produces his dreams], or [the dream] may be spoiled by the humours [in his body] (<foreign>dhātunā</foreign>).  [The guru] sees the transformations of those [various factors] in the dream of the individual soul as though they were directly visible before him.</TR>
 
 [3.4]
 <TEXT>yaṃ ca supto ’rtham{ }ādāya duṣṭaṃ vā yadi vā śubham |</TEXT>
-<APP> \vb <LEM>śubham</LEM> \conj\ Sanderson; śrutam \msA<APP>
+<APP> \vb <LEM>śubham</LEM> \conj\ Sanderson; śrutam \msA</APP>
 %% We should perhaps emend to suptottham  (`one who
 %% has slept and [only just] got up') ? NO: suggestion rejected
 % śrutam ] MS; śubham Sanderson
+
 
 <TEXT>sā cintāsantatiḥ svapne pratyakṣevāvabhāsate ||</TEXT>
 
@@ -104,6 +106,7 @@ because the	sense faculties are corrupted or because what is to be cognised is v
 
 <TR>Eating most excellently (uttamam) curd that is juicy (sarasasya), well-formed (sujātasya), which has been caused [because of its fatty content] to rise to the topmost part [of the vessel] (gamitasya paraṃ bhāgam) by itself (kevalasya), or with rice.</TR>
 
+
 [3.12]
 <TEXT>svabhāvaparipakvasya cūtādīnāṃ phalasya vā |</TEXT>
 <APP> \vb <LEM>cūtādīnāṃ</LEM> \conj;
@@ -144,59 +147,180 @@ aprāptir apahāraś ca svapne ’niṣṭārthasūcakaḥ </NOTE>
 
 
 [3.15]
-<TEXT>snātais taiḥ śucivastraiś ca śrutvā svapnān niveditān |</TEXT>
-<TEXT>anumodya śubhāṃs tatra pratikuryād athetarān ||</TEXT>
+<TEXT>snātais{ }taiḥ śucivastraiś{ }ca śrutvā svapnān{ }niveditān |</TEXT>
+<TEXT>anumodya śubhāṃs{ }tatra pratikuryād{ }athetarān ||</TEXT>
+<TR>Having heard the dreams recounted by those [disciples] who have bathed and who are wearing clean garments, he should rejoice at the auspicious ones among them and then perform countermeasures for the others.</TR>
 
-[3.16] ghṛtaṃ durvvā madhu kṣīraṃ śatahomo tha kāpilam ||
-ādiśyāniṣṭasvapnasya darśitaṃ maṇḍalaṃ sa cet |
-[3.17] catuḥkoṇaṃ caturdvāraṃ samasūtraṃ bahiḥ(47r3)puram ||
-tanmadhye vartulaṃ padmam aṣṭapatraṃ sakarṇṇikam |
-[3.18] puran turyāsanivṛttaṃ tadvad dvāracatuṣṭayam ||
-puram aṣṭakaraṃ yadvā tadardhe cāruvīthikām |
-[3.19] si(47r4)taraktāsitābhiś ca rajorekhābhir ujvalam ||%
+
+[3.16]
+<TEXT>ghṛtaṃ dūrvvāṃ madhu kṣīraṃ śatahomāya kāpilam |</TEXT>
+<APP> \va <LEM>dūrvvāṃ</LEM> \conj;
+   dūrvvā \msA</APP>
+%% Alexis' transcription had śatahomo tha
+<TEXT>ādiśyāniṣṭasvapnasya darśitaṃ maṇḍalaṃ bhavet ||</TEXT>
+<APP> \vc <LEM>ādiśyā°</LEM> \emend;
+ ādiṣyā° \msApc; ādiṣya° \msAac</APP>
+ <APP> \vd <LEM>bhavet</LEM> \conj;
+    sa cet \msA</APP>
+ <TR>The <foreign>maṇḍala</foreign> may be shown to one who has had an undesirable dream (<foreign>aniṣṭasvapnasya</foreign>) once he has offered (<foreign>ādiśya</foreign>) ghee, Dūrvā-grass, honey, [and] milk from a tawny cow, [enough] for one hundred oblations.</TR>
+
+
+[3.17]
+<TEXT>catuḥkoṇaṃ caturdvāraṃ samasūtraṃ bahiḥpuram |</TEXT>
+<TEXT>tanmadhye vartulaṃ padmam{ }aṣṭapatraṃ sakarṇṇikam ||</TEXT>
+<TR>[It should be] square, with four gateways, with even lines [drawn] outside the <foreign>maṇḍala</foreign> (<foreign>bahiḥpuram</foreign>).  Inside it, [there should be a] circle [containing] an eight-petalled lotus with a pericarpel.</TR>
+
+[3.18]
+<TEXT>puraturyāṃśanirvṛttaṃ tadvad{ }dvāracatuṣṭayam |</TEXT>
+<APP> \va <LEM>puraturyāṃśanirvṛttaṃ</LEM> \conj;
+puraturyāṃsanivṛttaṃ \msA</APP>
+<TEXT>puram{ }aṣṭakaraṃ yadvā tadardhe cāruvīthikām ||</TEXT>
+<TR>Similarly (?) there should be four doors, [each] made using a fourth part [of the length of the side (?)] of the <foreign>maṇḍala</foreign>.
+The <foreign>maṇḍala</foreign> should be eight cubits [across], or half of that,
+having beautiful pathways.</TR>
+
+[3.19]
+<TEXT>sitaraktāsitābhiś{ }ca rajorekhābhir{ }ujvalam |</TEXT>
+<APP> \vb <LEM>rekhābhir</LEM> \conj;
+     rekṣābhir \msA</APP>
+<TEXT>akṛśasthūlavakrābhiḥ komalābhir{ }alaṃkṛtam ||</TEXT>
+<APP> \vc <LEM>akṛśasthūlavakrābhiḥ</LEM> \conj;
+akṛṣasthūlavaktrābhiḥ \msA</APP>
+<TR>[It should be] bright, adorned with delicate (<foreign>komalābhiḥ</foreign>) lines of powder that are white, red and black,
+that are not too thin, or too broad, or crooked.</TR>
+
+[3.20]
+<TEXT>nātivistīrṇṇayā bāhye patravallyādiveṣṭitam |</TEXT>
+<APP> \vb <LEM>patravallyādiveṣṭitam</LEM> \conj;
+		patravelyādiveṣṭitam \msA</APP>
+%% Alexis had proposed correcting to patravallyā viveṣṭitam
+<TEXT>rajovicitrayā gāḍhaṃ pratyakdvāre praveśanam ||</TEXT>
+<APP> \vd <LEM>praveśanam</LEM> \emend;
+     pravesanam \msA</APP>
+<TR>On the outside, it should be encircled (<foreign>°veṣṭitam</foreign>) with [decorative patterns of] leaves and creepers and the like (<foreign>pattravallyādi°</foreign>), which should not be too long, richly (<foreign>gāḍham</foreign>) colourful with [various] powders. Entrance should be through the western gateway. </TR>
+
+[3.21]
+<TEXT>uttuṅgamastakaiḥ pādaiś{ }caturbhiḥ sārddham{ }ujvalaiḥ |</TEXT>
+<APP> \vb <LEM>caturbhiḥ</LEM> \emend;
+ caturbhi \msA</APP>
+<TEXT>gātrakair{ }uddhṛtaṃ nemyā paritaḥ samalaṃkṛtam ||</TEXT>
+<TR>It should have four [lion-]feet with lofty heads, bright, and supported (<foreign>uddhṛtaiḥ</foreign>) with cross-struts, adorned all around with a wheel (<foreign>nemyā</foreign>).</TR>
+
+
+% \msA, f. 47v
+[3.22]
+<TEXT>nāgarājaphaṇākārair{ }manāg{ }ānamitāgrakaiḥ |</TEXT>
+<TEXT>dalair{ }nīlāntarālaiś{ }ca suvibhaktair{ }virājitam ||</TEXT>
+<TR>It should shine with petals (<foreign>dalaiḥ</foreign>) that have the form of regal serpents’ hoods whose summits are slightly inclined, and with gaps in between them that are dark and well arranged (<foreign>suvibhaktaiḥ</foreign>).</TR>
+
+[3.23]
+<TEXT>dalamūlatṛtīyāṃśalabdhacchāyaiś{ }ca keśaraiḥ |</TEXT>
+<TEXT>piñjarālohitaśvetaiḥ agre madhye ca mūlataḥ ||</TEXT>
+<TR>[It should be drawn] with filaments whose shadow/radiance occupies a third [of each petal] from the base of the petal.  At the tip, in the middle and at the base, [the filaments should be] yellow, reddish and white [respectively].</TR>
+
+
+[3.24]
+<TEXT>vibhūṣitatalaṃ madhye cārukarṇṇikayāpi ca |</TEXT>
+<TEXT>pītayā puṣkariṇyā ca rasaparvvapramāṇayā ||</TEXT>
+<TR>It should be ornamented in the middle with a yellow lotus, measuring six parts [of the maṇḍala?] with a beautiful pericarpel.</TR>
+
+[3.25]
+<TEXT>sārdragaṃdhārdravastreṇa parimṛṣṭāntarālakam |</TEXT>
+<APP> \va <LEM>°vastreṇa</LEM> \emend;
+ °da(?)stre(?)ṇa \msA</APP>
+<TEXT>ālaṃbibhir manohārivicitraiḥ puṣpadāmabhiḥ ||</TEXT>
+
+<TR>It should have the gaps [in between the petals and such] wiped with a cloth that is wet with moist fragrant unguent. [It should be furnished] with hanging garlands of flowers that are pleasing and various.</TR>
+
+[3.26]
+<TEXT>itthaṃ sunirmitaṃ sārvvaṃ sarvvānugrāhakaṃ sadaḥ |</TEXT>
+% Alexis had transcribed sārddhaṃ instead of sārvvaṃ
+<APP> \vb <LEM>sadaḥ</LEM> \conj\Sanderson;
+ sadam \msA</APP>
 %
-		\var{rekhābhir \conj : rekṣābhir A}%
+%%(47v4)
+<TEXT>ālokya tadviśeṣajñair{ }anumodya ca sādaraṃ ||</TEXT>
+<TR>Well-fashioned in this way, this seat of Śiva (sārvam) bestows compassion on all.  When those who know its special properties see it, they share in the pleasure, respectfully.</TR>
+
+<NOTE>The use of the instrumental in <foreign>tadviśeṣajñaiḥ</foreign> seems not to be warranted by the construction.  Have we misunderstood something ?</NOTE>
+
+[3.27]
+<TEXT>nirodham{ }apanīyātha śucisnāto jitendriyaḥ |</TEXT>
+<TEXT>muhūrttaiḥ pañcabhir{ }yātaiḥ kṛtamādhyāhnikakriyaḥ ||</TEXT>
+<APP> \vd <LEM>kṛtamādhyāhnikakriyaḥ</LEM> \conj\Sanderson;
+ kṛtamādhyāhnikaḥ kriyaḥ\msA</APP>
+
+<TR>Then, removing obstacles (?<foreign>nirodham</foreign>), being pure and bathed, with senses controlled, when five “hours” have passed, once he has performed his afternoon duties, ... </TR>
+
 %
-akṛṣasthūlavaktrābhiḥ komalābhir alaṃkṛtam |
-[3.20] nātivistīrṇṇayā bāhye patravallyā viveṣṭitam ||%
-%
-		\var{patravallyā viveṣṭitam \conj :
-		patravalyādiveṣṭitam A}%
-%
-ra(47r5)\?sre\?vicitrayogoḍhaṃ pratyakdvārapraveśanam |
-[3.21] uttuṅgamastakaiḥ pādaiś caturbhir sārddham ujvalaiḥ ||
-gātrakair uddhṛtaṃ nemyā paritaḥ samalaṃkṛtam |
-[3.22] nā(47v1)garājaphaṇā\?kā\?rair manāg ānamitā\?dya\?kaiḥ ||
-dalair nīlāntarālaiś ca suvibhaktair virājitam |
-[3.23] dalamūlatṛtīyāṃśalabdhacchāyaiś ca keśaraiḥ ||
-piñja(47v2)ralohitaśvetaiḥ agre madhye ca mūlataḥ |
-[3.24] vibhūṣitatalaṃ madhye cārukarṇṇikayāpi ca ||
-pītayā puṣkariṇyā ca rasaparvvapramāṇayā |
-[3.25] sārdraraṅge(47v 3) +  + ndreṇa parimṛṣṭāntarālakam ||
-ālaṃbibhir manohārivicitraiḥ puṣpadāmabhiḥ |
-[3.26] itthaṃ sunirmitaṃ sārddhaṃ sarvvānugrāhakaṃ sadaḥ ||%
-%
-		\var{sadaḥ \conj : sadam A}%
-%
-ālo(47v4)kya \?ta\? .i \?śair ya\?jñair anumodya ca sādaraṃ |
-[3.27] nirodham apanīyātha śucisnāto jitendriyaḥ ||
-muhūrttaiḥ pañcabhir yātaiḥ kṛtamādhyāhnikakriyaḥ |%
-%
-		\va{kṛtamādhyāhnikakriyaḥ \eme :
-		 kṛtamādhyāhnikaḥ kriyaḥ A}%
-%
-[3.28] śuca(47v5) +  + \?vidhau\? tajjñān anujñāyāpramādinaḥ ||
-avikṣepa\?bhuvo\? vṛttir manasaḥ prastutāśraye |
-[3.29] dūraṃ nāṃdīninādena tirobhūtetaradhvaniḥ ||
-dvārapā(48r1)lā\?n sa\?mabhyarcya dhyānapratyakṣavigrahān |
-[3.30] vilokayan sadā garbham apūrvam iva bhaktitaḥ ||
-ānandajananaṃ \?draṣṭu\?r api dṛṣṭaṃ punaḥ punaḥ |
-[3.31] pravi\?śed\? i(48r2)\?t\?i saṃdhānakāmama\?dyā muco paśūn ||
-mocayiṣyāmi sāmagryā śivadhāmopabṛṃhitaḥ |
-[3.32] kauberyāsyo yathāpūrvam upaviṣṭa \?śivātmakam\? ||
-(48r3) kāyaṃ saṃpādya hṛnnābhilalāṭe \?sṛ\?ṣṭikāraṇaḥ |
-[3.33] kṛtarakṣānusaṃdhāno viśodhitaguṇāśrayaḥ ||
-ātmapūjāntaraṃ śodhyam adhvānaṃ sādhidaiv(48r4)tam ||
+[3.28]
+<TEXT>suṣaparyāvidhau tajjñān{ }anujñāyāpramādinaḥ |</TEXT>
+<TEXT>avikṣepa\?bhuvo\? vṛttir manasaḥ prastutāśraye ||</TEXT>
+<TR>… taking permission for performing a beautiful pūjā from those who know such [matters] and who are not careless (<foreign>aprāmādinaḥ</foreign>)...</TR>
+
+<NOTE>We are assuming that <foreign>saparyā</foreign> is used as a synonym of <foreign>pūja</foreign> and here is preceded by the prefix <foreign>su-</foreign>, which makes the first s retroflex.
+	The second half is not clear to us at the moment (July 2020).</NOTE>
+
+[3.29]
+<TEXT>dūraṃ nāṃdīninādena tirobhūtetaradhvaniḥ |</TEXT>
+<TEXT>dvārapālān{ }samabhyarcya dhyānapratyakṣavigrahān ||</TEXT>
+% f.48r (numbered 45a in modern numeration) begins with lān in pāda c.
+<TR>… causing all other noise to disappear far away by means of the resounding of the Nāndī-hymn, he should venerate the doorkeepers, making their bodies directly visible to himself by means of visualisation,
+</TR>
+<NOTE>We guess that Nāndī refers to a hymn or shout of praise that the rituals intones. But perhaps it is something else.  A bell ?</NOTE>
+
+<!--> For nāndīnināda, cf. this verse:
+paurastyastoyadarto.h pavana iva patanpaavakasyeva dhuumo
+vi"svasyevaadisarga.h pra.nava iva para.m paavana.m vedaraa"se.h /
+sandhyaan.rttotsavocchairiva madanaripo nandinaandiininaada.h
+sorasyaagre sukha.m vo vitaratu vinataanandana.h syandanasya //"
+(Kāvyamīmāmsa, ch. 18, verse ??)
+<-->
+%% Read up to Friday 31 July 2020
+[3.30]
+<TEXT>vilokayan{ }sadā garbham{ }apūrvam{ }iva bhaktibhiḥ |</TEXT>
+% Alexis had transcribed bhaktitaḥ
+<TEXT>ānandajananaṃ draṣṭur{ }api dṛṣṭaṃ punaḥ punaḥ ||</TEXT>
+
+<TR>He should invariably look around the inner space (<foreign>garbham</foreign>), as though never [seen] before, with its arrangements (<foreign>bhaktibhiḥ</foreign>), which gives joy to the beholder, even if he has seen it time and again.</TR>
+
+[3.31]
+<TEXT>praviśed{ }iti saṃdhānakāmam{ }adyāmuyā paśūn |</TEXT>
+<APP> \va <LEM>praviśed</LEM> \emend;
+     pravised \msA</APP>
+<TEXT>mocayiṣyāmi sāmagryā śivadhāmnopabṛṃhitaḥ ||</TEXT>
+
+<TR>He should enter, in a manner qualified by his desire to bring about a union (<foreign>sandhānakāmam</foreign>) thus (<foreign>iti</foreign>):
+	“Today (<foreign>adya</foreign>), being full to the brim (<foreign>upabṛṃhitaḥ</foreign>) with Śiva's glory, I shall cause bound souls to to be released by means of this (<foreign>amuyā</foreign>) collection of equipment (<foreign>sāmagryā</foreign>).”
+</TR>
+
+[3.32]
+<TEXT>kauberyāsyo yathāpūrvam upaviṣṭaḥ śivātmakam |</TEXT>
+<APP> \vb <LEM>upaviṣṭaḥ</LEM> \conj;
+	   upaviṣṭa \msA</APP>
+<TEXT>kāyaṃ saṃpādya hṛnnābhilalāṭeṣv{ }iṣṭikāraṇaḥ
+	 ||</TEXT>
+
+<TR>Facing north, as before, he should be seated; having made his body into Śiva [by the process known as <foreign>sakalīkaraṇa</foreign>], performing (<foreign>°kāraṇaḥ</foreign>) [the three types of] “sacrifice” [respectively] in the heart, navel and forehead. </TR>
+
+<NOTE>If we have understood this correctly, the last quarter alludes to the notion that internal mental pūjā, homa and dhyāna are to be performed respectively in the heart, the navel and between the brows.
+	Cf.\ Sārdhatriśatikālottara 2:13: hṛdaye'rcāvidhānan tu nābhau homaṃ prakalpayet |
+lalāṭe ceśvaraṃ dhyāyed varadaṃ sarvatomukham ||
+  It thus tells us that the initiating ācārya should perform internal worshiop consisting in internal pūjā, homa and dhyāna.
+	What is still problematic is the use here of \skt{kāraṇa}: can it really used in the masculine
+	to describe the “agent-cause” here?
+</NOTE>
+
+[3.33]
+<TEXT>kṛtarakṣānusaṃdhāno viśodhitaguṇāśrayaḥ |</TEXT>
+<TEXT>ātmapūjāntaraṃ śodhyam adhvānaṃ sādhidaivatam ||</TEXT>
+
+<TR>Having performed protection [of the ritual space] and anusandhāna (?), having purified the [ritual substances that are the] supports for properties, [and] after the worship [that constitutes the purification] of the self </TR>
+
+<NOTE>We have no plausible idea about what anusandhāna means here.  We suppose that the ritual act normally known as dravyaśuddhi might be referred to by viśodhitaguṇāśrayaḥ. We guess that ātmapūjā may refer to ātmaśuddhi, which is a possible way of referring to bhūtaśuddhi. Thus far, three of the well five śuddhis have been mentioned: sthānaśuddhi, dravyaśuddhi and bhūtaśuddhi. As for śodhyam adhvānam, it is syntactically problematic, since it is accusative, but seems not to be the object to a main verb.</NOTE>
+
+%% Read up to here Friday 7th August 2020
+
 [3.34] saśivāṅgaṃ samarbhyarcya tanāv uṣṇīṣabhūṣaṇaṃ |
 kāraṇasmṛtimān kṛtvā śivahastañ ca pūrvavat ||
 [3.35] maṇḍanaṃ paśuci\?tya\?nte kāraṇaṃ pāśasaṃha(48r5)teḥ |
