@@ -10,6 +10,7 @@ def simpletxtdn_line(line):
             preprocessing = [('ai', 'đ'), ('au', 'ő'), ('kh', 'K'), ('gh', 'G'), ('ṭh', 'Ṭ'), ('ḍh', 'Ḍ'), ('th', 'T'), ('dh', 'D'),('ph', 'P'), ('bh', 'B'), ('ch', 'C'), ('jh', 'J'), ('\|', ' |'), ('\| \|', '||'), (",", " ,")]
             # to handle final virama if there is no danda
             inputline = inputline + "  "
+            # turning double characters such as 'ai' and 'gh' into single special characters:
             for p in preprocessing:
                     inputline = re.sub(p[0], p[1], inputline)
             # spaces, sandhi
@@ -28,6 +29,16 @@ def simpletxtdn_line(line):
             return s
 
     # first preprocess
+    line = line.lower()
+    # turning some Roman characters back from the Dharma compliant forms for Devanāgarī conversion:
+    line = re.sub("ṁ", "ṃ", line)
+    # first ṝ, then ṛ, to avoid a bug
+    line = re.sub("r̥̄", "ṝ", line)
+    line = re.sub("r̥", "ṛ", line)
+    line = re.sub("l̥", "ḷ", line)
+    # crux in main line
+    line = re.sub("<crux>", "†", line)
+    line = re.sub("</crux>", "‡", line)
     line = preprocessing(line,vowels,consonants)
     conj = False
     lineout = ''
@@ -66,6 +77,8 @@ def simpletxtdn_line(line):
             found = False
             #check if it is a Devanāgarī character
             for d in dic:
+                    if d == 'z':
+                       assert False
                     if character == d[0]:
                             ret_line = ret_line + d[1]
                             found = True

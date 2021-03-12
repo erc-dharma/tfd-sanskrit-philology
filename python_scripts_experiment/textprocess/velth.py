@@ -10,6 +10,14 @@ def velth(filename):
         line = velthview.velthview(line)
         if '%' == line[0]:
             textflag = False
+        if '<startchapter-n="' in line:
+            v01 = re.sub('.*<startchapter-n="', '', line)
+            v01 = re.sub('".*', '', v01)
+            chapter = int(v01) 
+            vsnum = 0
+            print("\n\n\n")
+            # hemistich = 0
+        # OBSOLETE
         if '<NEWCHAPTER/>' in line:
                 chapter += 1
                 vsnum = 0

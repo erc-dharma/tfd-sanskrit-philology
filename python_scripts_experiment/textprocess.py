@@ -8,7 +8,7 @@ import re
 # for the commandline arguments:
 import sys
 # Tamil modules
-import tamil.txt2unicode
+#import tamil.txt2unicode
 
 # my modules:
 from textprocess import txt_output
@@ -26,6 +26,8 @@ from textprocess import velth
 from textprocess import uni
 from textprocess import line_to_dn
 from textprocess import trtex
+from textprocess import change_sigla 
+from textprocess import html_scroll 
 
 
 # do I use this?
@@ -79,9 +81,11 @@ def text_output02(filename):
 #filename = '/home/csaba/indology/dharma_project/nat2019.txt'
 
 if len(sys.argv) == 2 and sys.argv[1] == '-help':
-    print("Usage:\n python3 textprocess.py -argument filename\nor\n textprocess.py -argument filename\n\nArguments:\n-help: print this list\n-txt: print main text as plain text\n-txtdn: print main text in Devanagari as plain text\n-velth: print main text in Velthuis\n-xml1: produce an xml file in Roman with the apparatus entries closed\n-xml2: produce an xml file in Roman with the apparatus entries open\n-xmldn1: produce an xml file in Devanagari with the apparatus entries closed\n-xmldn2: produce an xml file in Devanagari with the apparatus entries open\n-texdn: TeX output in Devanagari\n-texrm: TeX output in Roman\n-tr: print translation as plain text\n-sktandtr: print Sanskrit text and translation as plain text\n-trtex: produce a TeX file containing the translation and notes\n-appcheck: check if there are missing sigla")
+    print("Usage:\n python3 textprocess.py -argument filename\nor\n textprocess.py -argument filename\nor rather\n python3 textprocess.py -argument filename > outputfilename.xml/pdf/whatever \n\nArguments:\n-help: print this list\n-txt: print main text as plain text\n-txtdn: print main text in Devanagari as plain text\n-velth: print main text in Velthuis\n-scroll: produce a html version (CURRENT)\n-xml1: produce an xml file in Roman with the apparatus entries closed\n-xml2: produce an xml file in Roman with the apparatus entries open\n-xml3: produce an xml file with the apparatus entries appearing when mouse is over text\n-xmldn1: produce an xml file in Devanagari with the apparatus entries closed\n-xmldn2: produce an xml file in Devanagari with the apparatus entries open\n-texdn: TeX output in Devanagari\n-texrm: TeX output in Roman\n-tr: print translation as plain text\n-sktandtr: print Sanskrit text and translation as plain text\n-trtex: produce a TeX file containing the translation and notes\n-appcheck: check if there are missing sigla")
     print()
     print("Required input format:")
+    print("<START/>")
+    print("<NEWCHAPTER/>")
     print("<TEXT> dhṛtarāṣṭra uvāca|*</TEXT>")
     print("<TEXT> dharmakṣetre kurukṣetre samavetā yuyutsavaḥ|</TEXT>")
     print("<TEXT> māmakāḥ pāṇḍavāś{ }caiva kim{ }akurvata sañjaya||</TEXT>")
@@ -90,9 +94,9 @@ if len(sys.argv) == 2 and sys.argv[1] == '-help':
     print("    <TR>This is the place for the translation...</TR>")
     print("    <NOTE>This is the place for the notes...</NOTE>")
     print()
-    print("Use |* for lines with `uvāca' for correct line numbering. For the correct TeX output, the MSS sigla should be defined in the macro file.")
+    print("Use |* for lines with `uvāca' for correct line numbering. For the correct TeX output, the MSS sigla should be defined in the macro file. \oo in the input is just for a dot dividing entries in the same pāda. { } are just to facilitate sandhi in Devanāgarī output.")
     print()
-    print("To capture the output of this program, use this format: ")
+    print("To capture the output of this program, use this format e.g.: ")
     print("textprocess -texrm inputfilename > filenametosaveoutput.tex")
     quit()
 elif len(sys.argv) != 3:
@@ -123,7 +127,9 @@ elif sys.argv[1] == '-xml2':
 elif sys.argv[1] == '-xml3': 
     xml_output_wrap.xml_output(filename, 1)
 elif sys.argv[1] == '-xml4': 
-    xml_output.xml_output(filename, 4)
+    xml_output_wrap.xml_output(filename, 2)
+elif sys.argv[1] == '-scroll': 
+    html_scroll.html_scroll(filename, 1)
 elif sys.argv[1] == '-xmldn': 
     xml_output_dn.xml_output_dn(filename,1)
 elif sys.argv[1] == '-xmldn1': 
@@ -140,4 +146,4 @@ elif sys.argv[1] == '-trtex':
 elif sys.argv[1] == '-line2dn': 
     line_to_dn.line_to_dn(sys.argv[2])
 else:
-    print("Usage: textprocess.py [-help|-txt|-txtdn|-texrm|-texdn|-velth|-tr|-sktandtr|-trtex|-xml1|-xml2|-xmldn1|xmldn2|-appcheck]")
+    print("Usage: textprocess.py [-help|-txt|-txtdn|-texrm|-texdn|-velth|-scroll|-tr|-sktandtr|-trtex|-xml1|-xml2|-xml3|-xmldn1|xmldn2|-appcheck]")

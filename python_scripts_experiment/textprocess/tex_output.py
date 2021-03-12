@@ -1,7 +1,9 @@
 import re
+from textprocess import change_sigla
 
 def tex_output(filename):
     chapter = 0
+    firstchapter_flag = True
     vsnum = 0
     onflag = False
     textflag = False
@@ -16,6 +18,11 @@ def tex_output(filename):
     print("\\fejno=0\\versno=0")
     openfile = open(filename, "r")
     for line in openfile:
+        # Dharma transliteration tricks
+        line = re.sub("ṃ", "\\\\.m", line)
+        line = re.sub("ṛ", "\\\\textsubring{r}", line)
+        line = re.sub("ṝ", "\\\\textsubring{\\\\=r}", line)
+        line = re.sub("ḷ", "\\\\textsubring{l}", line)
         if '<START/>' in line:
             onflag = True
         if '<STOP/>' in line:
@@ -47,13 +54,37 @@ def tex_output(filename):
             v01 = re.sub('".*', '', v01)
             vsnum = int(v01) - 1
             print("\\versno=" + str(vsnum))
-        if '<NEWCHAPTER/>' in line and onflag == True:
-            if chapter > 0:
-                #print("\\bekveg\\szamveg\\vfill\\phpspagebreak\\ujfej\\szam\\bek\n")
-                v01 = "\nBACKSLASHugrasBACKSLASHujfej"
+        # the next to IF blocks function to get to the same; will get rid of <SETCHNUM at some point
+        if '<SETCHNUM' in line:
+            v01 = re.sub('.*<SETCHNUM="', '', line)
+            v01 = re.sub('".*', '', v01)
+            chapter = int(v01) 
+        if '<startchapter-n="' in line and onflag == True:
+            v01 = re.sub('.*<startchapter-n="', '', line)
+            v01 = re.sub('".*', '', v01)
+            chapter = int(v01) 
+            if firstchapter_flag == False:
+                # not the first chapter to process:
+                print("\\bekveg\\szamveg\\vfill\\phpspagebreak\\szam\\bek\\versno=0\\fejno=" + str(chapter) + "\n\\thispagestyle{empty}\n")
+                # augment chapter number
             else:
-                v01 = "BACKSLASHujfejBACKSLASHszamBACKSLASHbek\n"
+                print("\\szam\\bek\\versno=0\\fejno=" + str(chapter) + "\n\\thispagestyle{empty}\n")
+                firstchapter_flag = False 
+            vsnum = 0
+            hemistich = 0
+        # OBSOLETE
+        if '<NEWCHAPTER/>' in line and onflag == True:
+            if firstchapter_flag == False:
+                # not the first chapter to process:
+                print("\\bekveg\\szamveg\\vfill\\phpspagebreak\\szam\\bek\\fejno=" + str(chapter) + "\n")
+                # augment chapter number
+                v01 = "\nBACKSLASHjumpBACKSLASHnewchapter"
+            else:
+                # the first chapter to process:
+                chapter += 1
+                v01 = "BACKSLASHujfejBACKSLASHszamBACKSLASHbek\\fejno=" + str(chapter) + "\n"
             v01 = re.sub('BACKSLASH', '\\\\', v01)
+            firstchapter_flag = False 
             print(v01)
             chapter += 1
             vsnum = 0
@@ -77,14 +108,14 @@ def tex_output(filename):
                 outputline = re.sub('\|', '\\\\thinspace{\\\\danda}', line)
             # special danda: it does increase verse number, e.g. after devy uvāca, but sets the next dandab to danda
             elif '|*' in line and proseflag == False:
-                outputline = re.sub('\|\*', '~{\\\\dandab}\\\\dontdisplaylinenum ', line)
+                outputline = re.sub('\|\*', '~{\\\\dandab}BACKSLASHdontdisplaylinenum ', line)
                 just_uvaca = True
             # with anuṣṭubh, a danda increases verse number if it is the first single danda
             elif '|' in line and hemistich == 0 and anustubh == True and proseflag == False:
                 if just_uvaca == False:
-                    outputline = re.sub('\|', '\\\\thinspace{\\\\dandab} \\\\dontdisplaylinenum', line)
+                    outputline = re.sub('\|', '\\\\thinspace{\\\\dandab} BACKSLASHdontdisplaylinenum', line)
                 else:
-                    outputline = re.sub('\|', '\\\\thinspace{\\\\danda} \\\\dontdisplaylinenum', line)
+                    outputline = re.sub('\|', '\\\\thinspace{\\\\danda} BACKSLASHdontdisplaylinenum', line)
                     # the next single danda not a first single danda
                 hemistich = 1 
                 just_uvaca = False
@@ -127,15 +158,16 @@ def tex_output(filename):
             v01 = re.sub('</MNTR>', '}', v01)
             v01 = re.sub('<LITEM/>', '', v01)
             v01 = re.sub('{ }', " ", v01)
-            v01 = re.sub('<COLOPHON>', "\n\\\\ugras\n\\\\begin{center}\nBACKSLASHketdanda ", v01)
+            v01 = re.sub('{-}', "-", v01)
+            v01 = re.sub('<COLOPHON>', "\n\\\\jump\n\\\\begin{center}\nBACKSLASHketdanda ", v01)
             v01 = re.sub('</COLOPHON>', "BACKSLASHketdanda\n\\\\end{center}\n\\\\dontdisplaylinenum\\\\vers ", v01)
             v01 = re.sub('Ó', '{\\\\dn :}', v01)
             v01 = re.sub('ṝ', '\\\d{\\\=r}', v01)
             v01 = re.sub('ḹ', '\\\d{\\\=l}', v01)
             v01 = re.sub('<uvaca>', '', v01)
             v01 = re.sub('</uvaca>', '', v01)
-            v01 = re.sub('\*', '{\il}', v01)
-            v01 = re.sub('×', '{\lost}', v01)
+            v01 = re.sub('<crux>', '\\\\crux{', v01)
+            v01 = re.sub('</crux>', '}', v01)
             v01 = re.sub('<ja>', ' ', v01)
             v01 = re.sub('</ja>', ' ', v01)
             v01 = re.sub('BACKSLASH', '\\\\', v01)
@@ -147,21 +179,26 @@ def tex_output(filename):
                 appflag = False
             v01 = re.sub(' ?</APP>', '}%', v01)
             v01 = re.sub('{ }', " ", v01)
+            v01 = re.sub('{-}', "-", v01)
             v01 = re.sub('<LEM>', '', v01)
-            v01 = re.sub('</LEM>', '\lem ', v01)
+            v01 = re.sub('</LEM>', '\\\\lem ', v01)
             v01 = re.sub('<UNCL>', '\\\\uncl{', v01)
             v01 = re.sub('</UNCL>', '}', v01)
             v01 = re.sub('<MNTR>', '\\\\mntr{', v01)
             v01 = re.sub('</MNTR>', '}', v01)
-            v01 = re.sub('<EYESKIPTO>', '\\\\eyeskipto{', v01)
-            v01 = re.sub('</EYESKIPTO>', '}', v01)
+            v01 = re.sub('<EYESKIP>', '\\\\eyeskip{', v01)
+            v01 = re.sub('</EYESKIP>', '}', v01)
             v01 = re.sub('ṝ', '\\\d{\\\=r}', v01)
             v01 = re.sub('ḹ', '\\\d{\\\=l}', v01)
             v01 = re.sub('\\Ł', '{\\\\normalfont ', v01)
             v01 = re.sub('\\$', '}', v01)
-            v01 = re.sub('\\\\csa', '{ā}', v01)
-            v01 = re.sub('\\\\csi', '{i}', v01)
+            v01 = re.sub('\\\\csa ?', '{ā}', v01)
+            v01 = re.sub('\\\\csi ?', '{i}', v01)
             v01 = re.sub('\|', '{\\\\danda}', v01)
+            v01 = re.sub('\*', '{\\\\il}', v01)
+            v01 = re.sub('¤', '{\\\\il}', v01)
+            v01 = re.sub('×', '{\\\\lost}', v01)
+            v01 = change_sigla.change_sigla(v01)
             print(v01)
         if ('<PARAL>' in line or paralflag == True) and onflag == True:
             paralflag = True
@@ -173,8 +210,8 @@ def tex_output(filename):
             v01 = re.sub('{ }', " ", v01)
             v01 = re.sub('\\Ł', '{\\\\normalfont ', v01)
             v01 = re.sub('\\$', '}', v01)
-            v01 = re.sub('\|\|', '{\\\\thinspace\ketdanda}', v01)
-            v01 = re.sub('\|', '{\\\\thinspace\danda}', v01)
+            v01 = re.sub('\|\|', '{\\\\thinspace\\\\ketdanda}', v01)
+            v01 = re.sub('\|', '{\\\\thinspace\\\\danda}', v01)
             print(v01)
         if ('<PVAR>' in line or pvarflag == True) and onflag == True:
             pvarflag = True
@@ -183,8 +220,10 @@ def tex_output(filename):
             v01 = re.sub('{ }', " ", line)
             v01 = re.sub('<PVAR>', '    \\\\prosevar{', v01[:-1])
             v01 = re.sub('</PVAR>', '}%', v01)
+            v01 = re.sub('<UNCL>', '\\\\uncl{', v01)
+            v01 = re.sub('</UNCL>', '}', v01)
             v01 = re.sub('<LEM>', '', v01)
-            v01 = re.sub('</LEM>', '\lem ', v01)
+            v01 = re.sub('</LEM>', '\\\\lem ', v01)
             v01 = re.sub('\\Ł', '\\\\skt{', v01)
             v01 = re.sub('\\$', '}', v01)
             print(v01)
@@ -193,13 +232,18 @@ def tex_output(filename):
             v01 = re.sub('</SUBCHAPTER>', '}', v01)
             v01 = re.sub('{ }', " ", v01)
             print(v01, end="")
+        if '<SUBSUBCHAPTER>' in line and onflag == True:
+            v01 = re.sub('<SUBSUBCHAPTER>', '\n\n\\\\alalalfejezet{', line[:-1])
+            v01 = re.sub('</SUBSUBCHAPTER>', '}', v01)
+            v01 = re.sub('{ }', "", v01)
+            print(v01)
         if '<CHAPTER>' in line and onflag == True:
             v01 = re.sub('<CHAPTER>', '\n\n\\\\alfejezet{\\\\textbf{', line[:-1])
-            v01 = re.sub('</CHAPTER>', '}}', v01)
+            v01 = re.sub('</CHAPTER>', '}}\\\\jump\\\\jump', v01)
             v01 = re.sub('{ }', " ", v01)
             print(v01, end="")
         if '<TITLE>' in line and onflag == True:
-            v01 = re.sub('<TITLE>', '\\\\begin{center}{\Huge  ', line[:-1])
+            v01 = re.sub('<TITLE>', '\\\\begin{center}{\\\\Huge  ', line[:-1])
             v01 = re.sub('</TITLE>', '}\\\\end{center}', v01)
             v01 = re.sub('{ }', "", v01)
             print(v01, end="")

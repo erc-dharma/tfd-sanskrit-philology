@@ -1,6 +1,8 @@
+
+
 .text, .translation, .notes, .msimage {
 
-    width:50%;
+    width:47%;
     position: absolute;
     left: 0;
     right: 0;
@@ -11,47 +13,53 @@
 
 .text {
     top: 0;
-    font-size: 110%;
-    height: 50%;
-    width:50%;
+    height: 100%;
+    width: 50%;
     color: grey;
 /*    background-color: #fdfde7;  */
     background-color: black;
-    padding:30px;
+    padding-left:20px;
+    border-right-style: 10px white solid;
+    font-size: 110%;
 }
 
 .translation {
 
-    top: 50%;
-    left: 0%;
-    width:50%;
+    top: 0%;
+    left: 50%;
+    width: 50%;
     bottom: 0%;
-    height: 50%;
+    height: 100%;
     color: grey;
-    background-color: #00134d;  
-/*    background-color: #e6f7ff;  */
+    background-color: black;  
+/*    background-color: #00134d, #e6f7ff;  */
+    font-size: 100%;
     font-style: normal;  
-    padding:30px;
+    padding-right: 30px;
+    display: block;
 }
 
 
 .notes {
-    top: 0%;
-    left: 53%;
-    width: 47%;
+    top: 54%;
+    left: 0%;
+    width: 50%;
     bottom: 0%;
-    height: 50%;
+    height: 52%;
     color: grey;
-   /* background-color: #e6ffe6;  */
-    background-color: #00324d; 
+   /* background-color: #e6ffe6;  #00324d; */
+    background-color: #00003f; 
     font-style: normal;  
-    padding:10px;
-    font: normal 1em palatino; 
+    padding: 20px;
+   /* font: normal 1em palatino; */
+    display: none;
+    overflow-x: hidden;
+    overflow-y: scroll;
 }
 
 .msimage {
     top: 50%;
-    left: 53%;
+    left: 52%;
     width: 47%;
     bottom: 0%;
     height: 55%;  
@@ -59,8 +67,9 @@
     color: grey;
     background-color: #00424d;  
     font-style: normal;  
-    padding:10px;
+    padding: 20px;
     font: normal 1em palatino; 
+    display: none;
 }
 
 
@@ -113,13 +122,15 @@ transition: opacity 6s;
 
 */
 
+
+/* OLD, TO BE DELETED */
 .tooltip-content {
   top: 0%;
   right: 10%;
   left: 5%;
   padding: .5em;
   bottom: 125%;
-  width: 80%;
+  max-width: 80%;
   font-size: .8em;
   border: dotted;
   color: grey; 
@@ -131,8 +142,30 @@ transition: opacity 6s;
   color: grey;
   font-size: .9em;
 }
+/* OLD, TO BE DELETED */
 
 
+
+
+
+.wrap-main {
+  display: block;
+  position: relative;
+  color: grey;
+  font-size: .9em;
+}
+
+.wrap-content {
+ top: 0%;
+  right: 10%;
+  left: 5%;
+  padding: .5em;
+  bottom: 125%;
+  max-width: 80%;
+  font-size: .8em;
+  border: dotted;
+  color: grey;
+  }
 
 th, td {
   padding: 1px;
@@ -146,13 +179,16 @@ TEXT {
 }
 
 RMTEXT {
-	display: block;
+	display: inline;
 }
 
 DNTEXT {
 	display:none;
 }
 
+DNLEM {
+	display:none;
+}
 
 PARAL {
 	display: block;
@@ -160,31 +196,70 @@ PARAL {
 }
 
 
-TRCHAPTER {
-	display: block;
-     font-weight: bold;
-	color: #cc8800;
-	font-size: 120%;
-}
 
 trnsl {
+	display: inline;
+     font-weight: normal;
+	color: gray;
+	font-size: 100%;
+}
+
+trnslchapter {
 	display: block;
      font-weight: bold;
 	color: #cc8800;
-	font-size: 120%;
+	font-size: 170%;
 }
 
-CHAPTER {
+trnslchapter:before {
+	content: "["}
+trnslchapter:after {
+	content: "]"}
+
+
+trnslsubchapter {
+	display: inline;
+     font-weight: bold;
+	color: #cc8800;
+	font-size: 100%;
+}
+
+trnslsubchapter:before {
+	content: "["}
+trnslsubchapter:after {
+	content: "]"}
+
+
+
+trnslsubsubchapter {
+	display: inline;
+     font-weight: bold;
+	color: #cc8800;
+	font-size: 80%;
+}
+
+trnslsubsubchapter:before {
+	content: "["}
+trnslsubsubchapter:after {
+	content: "]"}
+
+
+
+
+
+chapter {
 	display: block;
   font-weight: bold;
 	color: #cc8800;
 	font-size: 120%;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 
-CHAPTER:before {
+chapter:before {
 	content: "["}
-CHAPTER:after {
+chapter:after {
 	content: "]"}
 
 APP {
@@ -193,14 +268,29 @@ APP {
 
 
 
-SUBCHAPTER {
+subchapter {
 	display: block;
   font-weight: bold;
-	color: #cc8800;}
+	color: #cc8800;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
 
-SUBCHAPTER:before {
+subchapter:before {
 	content: "["}
-SUBCHAPTER:after {
+subchapter:after {
+	content: "]"}
+
+
+subsubchapter {
+	display: block;
+  font-weight: bold;
+	color: #cc8800;
+	font-size: 80%}
+
+subsubchapter:before {
+	content: "["}
+subsubchapter:after {
 	content: "]"}
 
 LEM {
@@ -211,6 +301,16 @@ LEM:after {
 	content: " ]";
  	color: #cc8800;
 }
+
+DNLEM {
+ 	color: #cc8800;
+}
+
+DNLEM:after {
+	content: " ]";
+ 	color: #cc8800;
+}
+
 
 sub {
 	font-size:70%;
@@ -224,12 +324,74 @@ vsnum {font-size: 1em;
 	color: #cc8800;
 	}
 
+spaceaftersloka {
+  	display: block;
+  	margin-top: 10px;
+}
+
+skt {
+        font-style: italic;
+	}
+
+corr {
+        font-size: .7em;
+	}
 
 button {
  	color: #cc8800;
  	background-color: black;
 	font-size: 100%;
 	display: inline;
+        border: 1px solid #cc8800; /* Orange */
+}
+
+/* first button active  */
+#showtextandtranslation {
+ 	background-color: #cc8800;
+ 	color: black;
+
+}
+
+h1 {
+ 	color: #cc8800;
+	padding-bottom: 50px;
+}
+
+
+h2 {
+ 	color: #cc8800;
+}
+
+colophon {
+ 	color: #cc8800;
+        text-align: right;
+}
+
+colophon:before {
+	content: "||"}
+colophon:after {
+	content: " ||"}
+
+
+trnslcolophon {
+ 	color: #cc8800;
+        text-align: right;
+}
+
+
+
+blockquote q {
+  quotes: "‘" "’" "“" "”";
+}
+
+
+crux:before {
+	content: "†";
+	color: red;
+}
+crux:after {
+	content: "†";
+	color: red;
 }
 
 
@@ -313,3 +475,6 @@ input {
   color: grey;
   background-color: #00134d;
 }
+
+
+

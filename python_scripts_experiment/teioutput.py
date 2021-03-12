@@ -48,17 +48,25 @@ def tei_output(filename):
          <lem wit="#A #B">bhārata°</lem>
          <rdg wit="#C #D"> nārāda° </rdg>
     </app>
+
+    To cut and paste apparatus (Bash):
+    cat tei_output.xml | grep -G "<app\|<lem\|<rdg" > apparatus_file.xml
+    Then delete the same files from the source and append apparatus_file.xml at the end of source file.
+    Validate: 
+    xmllint --relaxng tei-epidoc.rng tei_output.xml
     '''
     chapter = 0
     vsnum = 1
     textflag = False
     appflag = False
+    onflag = False
     proseflag = False
     chap_and_vsnum = "" 
     anustubh = True
     hemistich = 0
     lemma_done = False
     finalvarlist = []
+    non_anustubh_metre = ""
     # for TEI linebreak <lb>
     lb = 1
     print(header)
@@ -82,10 +90,15 @@ def tei_output(filename):
     openfile = open("tempfile.txt", "r")
     appflag = False
     for line in openfile:
+        if '<START/>' in line:
+            onflag = True
+        if '<STOP/>' in line:
+            onflag = False
         if '<NOTANUSTUBH/>' in line:
             anustubh = False 
             proseflag = False
             hemistich = 0
+            non_anustubh_metre = re.sub('<NOTANUSTUBH/> *', '', line).strip()
         if '<ANUSTUBH/>' in line:
             anustubh = True
             proseflag = False
@@ -96,13 +109,18 @@ def tei_output(filename):
         if '</PROSE>' in line:
             proseflag = False
             line = re.sub('</PROSE>', '', line)
-        if '<NEWCHAPTER/>' in line:
+        if '<startchapter-n="' in line:
+            v01 = re.sub('.*<startchapter-n="', '', line)
+            v01 = re.sub('".*', '', v01)
+            chapter = int(v01) 
+            vsnum = 0
+        # OBSOLETE
+        if '<NEWCHAPTER/>' in line and onflag == True:
             chapter += 1
             vsnum = 0
             print('<!-- chapter', chapter, '-->')
-            print('<NEWCHAPTER/>')
         # if it is the main text:        
-        if ('<TEXT>' in line or textflag == True) and proseflag == False:
+        if ('<TEXT>' in line or textflag == True) and proseflag == False and onflag == True:
 	    # call Devanagari converter?
 	    #line = convert2dn(line)
             #print('\n<lb n="' + str(lb) + '"/>')
@@ -116,11 +134,11 @@ def tei_output(filename):
                 #chap_and_vsnum = "" 
             # end of a regular anuṣṭubh
             if '||' in line and anustubh == True and hemistich == 1:
-#                outputline = re.sub('\|\|', '||' + chap_and_vsnum, line)
+                #outputline = re.sub('\|\|', '||' + chap_and_vsnum, line)
                 outputline = re.sub('\|\|', '', line)
                 outputline = re.sub('<TEXT>', '<l n="cd">', outputline)
                 #outputline = re.sub('</TEXT>', '</l><lb n="' + str(lb) + '"/>\n</lg>', outputline)
-                outputline = re.sub('</TEXT>', '</l>\n</lg>', outputline)
+                outputline = re.sub('</TEXT>.*', '</l>\n</lg>', outputline)
                 hemistich = 0
                 app_pada = "cd"
                 lb += 1
@@ -128,21 +146,27 @@ def tei_output(filename):
                 outputline = re.sub('\|\|', '', line)
                 outputline = re.sub('<TEXT>', '<l n="d">', outputline)
                 #print('<lg type="halfverse" n="d">')
-                outputline = re.sub('</TEXT>', '</l>\n</lg>', outputline)
+                outputline = re.sub('</TEXT>.*', '</l>\n</lg>', outputline)
                 #outputline = re.sub('\|\|', '||' + chap_and_vsnum, outputline)
                 hemistich = 0
                 app_pada = "d"
                 lb += 1
             # special danda: it does not increase verse number, e.g. after devy uvāca
             elif '|*' in line:
+                # add one to verse number to get to the next verse
+                vsnum += 1
+                chap_and_vsnum = (str(chapter) + "." + str(vsnum)) 
+                # but then go back to previous verse number because | will augment it anyway
+                vsnum -= 1
                 uvacaflag = 1
                 outputline = re.sub('\|\*', '', line)
-                outputline = re.sub('<TEXT>', '<l n="uvaca">', outputline)
-                outputline = re.sub('</TEXT>', '</l>', outputline)
+                outputline = re.sub('<TEXT>', '<l n="' + chap_and_vsnum + 'uvaca">', outputline)
+                outputline = re.sub('</TEXT>.*', '</l>', outputline)
                 app_pada = "uvaca"
                 hemistich = 0
             # with anuṣṭubh, a danda increases verse number if it is the first single danda
-            elif '|' in line and hemistich == 0 and anustubh == True:
+	    # and if it not an uvaca-type line
+            elif '|' in line and '|*' not in line and hemistich == 0 and anustubh == True:
                 vsnum += 1
                 chap_and_vsnum = (str(chapter) + "." + str(vsnum)) 
                 print('<lg n="' + str(chap_and_vsnum)+  '" met="anuṣṭubh">')
@@ -151,7 +175,7 @@ def tei_output(filename):
                 #outputline = '\n\n<verse verseno="' + str(chapter) + "." + str(vsnum) + '"/>' + line  
                 #outputline = re.sub('<TEXT>', '<l>', line)
                 outputline = re.sub('<TEXT>', '<l n="ab">', outputline)
-                outputline = re.sub('</TEXT>', '</l>', outputline)
+                outputline = re.sub('</TEXT>.*', '</l>', outputline)
                 app_pada = "ab"
                 lb += 1
                 # the next single danda not a first single danda
@@ -162,11 +186,11 @@ def tei_output(filename):
                 vsnum += 1
                 chap_and_vsnum = (str(chapter) + "." + str(vsnum)) 
                 outputline = line
-                print('<lg n="' + str(chap_and_vsnum)+  '" met="non-anuṣṭubh">')
+                print('<lg n="' + str(chap_and_vsnum)+  '" met="' + non_anustubh_metre + '">')
                 #print('<lg type="halfverse" n="a">')
                 #outputline = re.sub('<TEXT>', '<TEXT pada="a">', outputline)
                 outputline = re.sub('<TEXT>', '<l n="a">', line)
-                outputline = re.sub('</TEXT>', '</l>', outputline)
+                outputline = re.sub('</TEXT>.*', '</l>', outputline)
                 hemistich = 1
                 app_pada = "a"
                 lb += 1
@@ -175,7 +199,7 @@ def tei_output(filename):
                 # no indent
                 #print('<lg type="halfverse" n="c">')
                 outputline = re.sub('<TEXT>', '<l n="c">', line)
-                outputline = re.sub('</TEXT>', '</l>', outputline)
+                outputline = re.sub('</TEXT>.*', '</l>', outputline)
                 lb += 1
                 hemistich = hemistich + 1
                 app_pada = "c"
@@ -184,7 +208,7 @@ def tei_output(filename):
                 #print('<lg type="halfverse" n="b">')
                 outputline = re.sub('\|', '', line)
                 outputline = re.sub('<TEXT>', '<l n="b">', outputline)
-                outputline = re.sub('</TEXT>', '</l>', outputline)
+                outputline = re.sub('</TEXT>.*', '</l>', outputline)
                 lb += 1
                 app_pada = "b"
                 hemistich = hemistich + 1 
@@ -194,7 +218,7 @@ def tei_output(filename):
 #                outputline = re.sub('<TEXT>', '<TEXT pada="ef">', line)
                 outputline = re.sub('\|', '', line)
                 outputline = re.sub('<TEXT>', '<l n="ef">', outputline)
-                outputline = re.sub('</TEXT>', '</l>\n</lg>', outputline)
+                outputline = re.sub('</TEXT>.*', '</l>\n</lg>', outputline)
                 hemistich = 0 
                 app_pada = "ef"
                 lb += 1
@@ -204,7 +228,7 @@ def tei_output(filename):
                 outputline = re.sub('\|', '', line)
                 #print('<lg type="halfverse" n="cd">')
                 outputline = re.sub('<TEXT>', '<l n="cd">', outputline)
-                outputline = re.sub('</TEXT>', '</l>', outputline)
+                outputline = re.sub('</TEXT>.*', '</l>', outputline)
                 hemistich = 2 
                 app_pada = "cd"
                 lb += 1
@@ -221,12 +245,12 @@ def tei_output(filename):
             v01 = re.sub('</ja>', ' ', v01)
             print(v01)
         outputline = line
-        if '<TEXT>' in line and proseflag == True:
+        if '<TEXT>' in line and proseflag == True and onflag == True:
             outputline = re.sub('<TEXT>', '<div type="prose">', outputline)
-        if '</TEXT>' in line and proseflag == True:
+        if '</TEXT>' in line and proseflag == True and onflag == True:
             v01 = re.sub('</TEXT>', '</div>', outputline)
             print(v01)
-        if '<APP>' in line or appflag == True:
+        if ('<APP>' in line or appflag == True) and onflag == True:
             appflag = True
             line = re.sub('\\\\oo', '</APP><APP>', line)
             line = re.sub('<APP>\ ?\ ?\n', '<APP>', line)
@@ -252,6 +276,7 @@ def tei_output(filename):
             # find lemma witness sigla
             lem_wit = re.sub('.*</LEM> ', '', line)
             lem_wit = re.sub(';.*', '', lem_wit)
+            # you have to have 'type' and not 'wit' if it is eme, corr or conj
             if '\eme' in lem_wit or '\corr' in lem_wit or '\conj' in lem_wit:
                 lem_wit = re.sub('\\\\', '', lem_wit)[:-1]
                 not_a_witness = True
@@ -280,14 +305,15 @@ def tei_output(filename):
                 sigla = re.sub(' *', '', sigla)
                 sigla = re.sub('\\\\', ' #', sigla)
                 # strip is to get rid of some trailing spaces
-                skt = re.sub('\\\\om', 'omitted', var.strip())
-                skt = re.sub('\\\\.*', '', skt)
+                skt = re.sub('\\\\om', '[omitted]', var.strip())
+                skt = re.sub('\\\\.*', '', skt).strip()
                 skt = xml_substitutions(skt) 
                 finalvarlist.append('<rdg wit="' + sigla + '">' + skt + "</rdg>")
             v01 = re.sub('{ }', " ", v01)
             # PRINT OUT APPARATUS when there is an </APP> in the line
             if '</APP>' in line:
-                print('<app loc="' + str(chap_and_vsnum) + app_pada + '"> <!-- app sections are to be cut and pasted to the end of the file.  -->')
+                print('<app loc="' + str(chap_and_vsnum) + app_pada + '">')
+                # <!-- app sections are to be cut and pasted to the end of the file.  -->')
                 print("    ", finallemma[:-1], end="")
                 appflag = False
                 for v in finalvarlist:
@@ -312,15 +338,22 @@ def xml_substitutions(line):
                 #'pcorr': '<corr>pcorr</corr>',
                 '\\\\oo': " •", 
                 '\\\\uncl': "",
+                '<UNCL>': '<unclear reason="illegible">',
+                '</UNCL>' : '</unclear>',
                 '\\\\': " ", 
-                '\\Ł': '<SKT>', 
-                '\\$': '</SKT>',
+                '{ }': " ", 
+                '\\Ł': '', 
+                '\\$': '',
                 '--': '–',
                 'Ó': 'oṃ',
-		'\\\\lac': 'lacuna'
+		'\\\\lac': 'lacuna',
                 } 
         for c in subdict:
             line = re.sub(c, subdict[c], line)
+        # to count and insert the number of ×s and ¤s (or *s) for gaps
+        for n in range(20,0,-1):
+            line = re.sub('×'*n, '<gap quantity="' + str(n) + '" unit="char" reason="lost"/>', line)
+            line = re.sub('¤'*n, '<gap quantity="' + str(n) + '" unit="char" reason="illegible"/>', line)
         return line
 
 header = '<?xml version="1.0" encoding="UTF-8"?>\n<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>\n<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>\n<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">\n<teiHeader>\n<fileDesc>\n<titleStmt>\n<title xml:lang="eng-Latn">Test File</title>\n</titleStmt>\n<publicationStmt>\n<authority/>\n<idno type="filename">0001</idno>\n</publicationStmt>\n<sourceDesc>\n<msDesc><msIdentifier><repository>Repo</repository></msIdentifier></msDesc>\n</sourceDesc>\n</fileDesc>\n</teiHeader>\n<text>\n<body>\n<div type="edition" xml:lang="san-Latn">\n\n' 
