@@ -1,0 +1,164 @@
+/*h1 {
+        color:blue;
+        background-color:lightGreen;
+        border:12px solid violet;
+        padding: 5px;   
+        border-radius: 10px;
+        text-align: center;
+}
+
+
+p, h1, h2 {
+       font-size: 30px; 
+       color: red; 
+       font-family: cursive
+       line-height: 20px  
+}
+*/
+
+body, html {
+font-size: 25px;
+font-family: sans-serif;
+background-color: #102626;
+/* background-image: url("ms.png"); */
+background-position: 95%;
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: 70% 95%;
+color: white}
+
+
+
+
+
+h1 {
+color: green;
+text-align: center
+}
+
+h4 {
+	padding-bottom: 0px;
+	padding-top: 0px;
+	color: #ffcc66;
+}
+
+p {    margin: 10px;
+       line-height: 2.0  
+}
+
+.bull {
+	padding-left: 30%;
+	padding-bottom: -30%;
+}
+
+.item {
+	color: #ffcc66;
+}
+
+ /* Style the tab */
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: black;
+}
+
+ /* unvisited link */
+a:link {
+    color: #ffeecc;
+    text-decoration: none
+    
+}
+
+/* visited link */
+a:visited {
+    color: gray;
+    text-decoration: none
+}
+
+/* mouse over link */
+a:hover {
+    color: #ffc34d;
+  /*  font-weight: bold;*/
+}
+
+/* selected link */
+a:active {
+    color: white;
+    text-decoration: none
+} 
+
+
+ul {
+	padding-bottom: 3px;
+	padding-top: 0px;
+}
+
+
+
+
+
+
+
+.ingoodshape {
+    color: orange;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+    background-color: black;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.1s;
+    color: white;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    border-bottom-style: solid; 
+    /*background-color: #33CCFF;*/
+    border-bottom-color: yellow;
+}
+
+
+/* Create an active/current tablink class */
+.tab button.active {
+    border-bottom-style: solid; 
+    /*background-color: #33CCFF;*/
+    border-bottom-color: #0075b4;}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+} 
+
+.menu {
+color: grey
+}
+
+.active {
+color: white
+}
+
+.calendar {
+        color: black
+        background-color:lightGreen;
+}
+

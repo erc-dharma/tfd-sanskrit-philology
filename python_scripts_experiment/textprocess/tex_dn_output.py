@@ -1,8 +1,10 @@
 import re
 from textprocess import velthview_with_rm
+from textprocess import change_sigla
 
 def tex_dn_output(filename):
     chapter = 0
+    firstchapter_flag = True
     vsnum = 0
     onflag = False
     textflag = False
@@ -23,6 +25,7 @@ def tex_dn_output(filename):
             onflag = True
         if '<STOP/>' in line:
             onflag = False
+        # convert everything outside Ł -- $ to Velthuis 
         lin, romanflag = velthview_with_rm.velthview_with_rm(line, romanflag)
         if '<NOTANUSTUBH/>' in lin:
             print("\n\\nemsloka")
@@ -43,16 +46,42 @@ def tex_dn_output(filename):
             v01 = re.sub('".*', '', v01)
             vsnum = int(v01) - 1
             print("\\versno=" + str(vsnum))
-        if '<NEWCHAPTER/>' in lin and onflag == True:
-            if chapter > 0:
-                #print("\\bekveg\\szamveg\\vfill\\phpspagebreak\\ujfej\\szam\\bek\n")
-                v01 = "\nBACKSLASHugrasBACKSLASHujfej"
+        # the next to IF blocks function to get to the same; will get rid of <SETCHNUM at some point
+        if '<SETCHNUM' in line:
+            v01 = re.sub('.*<SETCHNUM="', '', line)
+            v01 = re.sub('".*', '', v01)
+            chapter = int(v01)
+        if '<startchapter-n="' in line and onflag == True:
+            v01 = re.sub('.*<startchapter-n="', '', line)
+            v01 = re.sub('".*', '', v01)
+            chapter = int(v01) 
+            if firstchapter_flag == False:
+                # not the first chapter to process:
+                print("\\bekveg\\szamveg\\vfill\\phpspagebreak\\szam\\bek\\versno=0\\fejno=" + str(chapter) + "\n\\thispagestyle{empty}\n")
+                # augment chapter number
             else:
-                v01 = "BACKSLASHujfejBACKSLASHszamBACKSLASHbek\n"
+                print("\\szam\\bek\\versno=0\\fejno=" + str(chapter) + "\n\\thispagestyle{empty}\n")
+                firstchapter_flag = False 
+            vsnum = 0
+            hemistich = 0
+        '''   OBSOLETE 
+        if '<NEWCHAPTER/>' in line and onflag == True:
+            if firstchapter_flag == False:
+                # not the first chapter to process:
+                print("\\bekveg\\szamveg\\vfill\\phpspagebreak\\szam\\bek\\fejno=" + str(chapter) + "\n")
+                # augment chapter number
+                v01 = "\nBACKSLASHjumpBACKSLASHnewchapter"
+            else:
+                # the first chapter to process:
+                chapter += 1
+                v01 = "BACKSLASHnewchapterBACKSLASHszamBACKSLASHbek\\fejno=" + str(chapter) + "\n"
+                firstchapter_flag = False 
             v01 = re.sub('BACKSLASH', '\\\\', v01)
             print(v01)
             chapter += 1
             vsnum = 0
+            hemistich = 0
+        '''
         if '<PROSE>' in lin and onflag == True:
             proseflag = True
             print("\n\\prose ", end="")
@@ -115,8 +144,11 @@ def tex_dn_output(filename):
             v01 = re.sub('</MNTR>', '}', v01)
             v01 = re.sub('<LITEM/>', '', v01)
             v01 = re.sub('{ }', "", v01)
-            v01 = re.sub('<COLOPHON>', "\n\\ugras\n\\\\begin{center}\n{||} ", v01)
+            v01 = re.sub('{-}', "", v01)
+            v01 = re.sub('<COLOPHON>', "\n\\\\jump\n\\\\begin{center}\n{||} ", v01)
             v01 = re.sub('</COLOPHON>', "{||}\n\\\\end{center}\\\\vers", v01)
+            v01 = re.sub('<crux>', '\\\\cruxdn{', v01)
+            v01 = re.sub('</crux>', '}', v01)
             v01 = re.sub('<PROSE> ?', '', v01)
             v01 = re.sub('</PROSE>', '', v01)
             v01 = re.sub('<uvaca>', '', v01)
@@ -125,28 +157,31 @@ def tex_dn_output(filename):
             print(v01)
         if ('<APP>' in lin or appflag == True) and onflag == True:
             appflag = True
-            v01 = re.sub('<APP> ?', '    \\\\var{{\dn ', lin[:-1])
+            v01 = re.sub('<APP> ?', '    \\\\var{{\\\\dn ', lin[:-1])
             if '</APP>' in lin:
                 appflag = False
             v01 = re.sub('</APP>', '}}', v01)
             v01 = re.sub('{ }', "", v01)
+            v01 = re.sub('{-}', "", v01)
             v01 = re.sub('°', "@", v01)
             v01 = re.sub('<LEM>', '', v01)
-            v01 = re.sub('</LEM>', '\lem ', v01)
+            v01 = re.sub('</LEM>', '\\\\lem ', v01)
             v01 = re.sub('<UNCL>', '\\\\uncl{', v01)
             v01 = re.sub('</UNCL>', '}', v01)
             v01 = re.sub('<MNTR>', '\\\\mntr{', v01)
             v01 = re.sub('</MNTR>', '}', v01)
-            v01 = re.sub('<EYESKIPTO>', '}\\\\eyeskipto{', v01)
-            v01 = re.sub('</EYESKIPTO>', '}{\dn', v01)
+            v01 = re.sub('<EYESKIP>', '}\\\\eyeskip{', v01)
+            v01 = re.sub('</EYESKIP>', '}{\\\\dn', v01)
             v01 = re.sub('\\Ł', '} ', v01)
-            v01 = re.sub('\\$', ' {\dn ', v01)
+            v01 = re.sub('\\$', ' {\\\\dn ', v01)
             v01 = re.sub('\\;', '{\\\\normalfont\\\\thinspace ;}', v01)
-            v01 = re.sub('\*', '{\il}', v01)
-            v01 = re.sub('×', '{\lost}', v01)
+            v01 = re.sub('\*', '{\\\\il}', v01)
+            v01 = re.sub('¤', '{\\\\il}', v01)
+            v01 = re.sub('×', '{\\\\lost}', v01)
             v01 = re.sub('{\\\\lost}\\\\csi', '{\\\\csi{}\\\\lost}', v01)
             v01 = re.sub('<ja>', ' ', v01)
             v01 = re.sub('</ja>', ' ', v01)
+            v01 = change_sigla.change_sigla(v01)
             print(v01)
         if ('<PARAL>' in lin or paralflag == True) and onflag == True:
             paralflag = True
@@ -155,48 +190,56 @@ def tex_dn_output(filename):
             v01 = re.sub('{ }', "", lin[:-1])
             v01 = re.sub('°', "@", v01)
             v01 = re.sub('<LEM>', '', v01)
-            v01 = re.sub('</LEM>', '\lem ', v01)
-            v01 = re.sub('<PARAL>', '    \\\\paral{{\dn', v01)
+            v01 = re.sub('</LEM>', '\\\\lem ', v01)
+            v01 = re.sub('<PARAL>', '    \\\\paral{{\\\\dn', v01)
             v01 = re.sub('</PARAL>', '}}', v01)
             v01 = re.sub('{ }', " ", v01)
             v01 = re.sub('\\Ł', '}', v01)
-            v01 = re.sub('\\$', '{\dn ', v01)
+            v01 = re.sub('\\$', '{\\\\dn ', v01)
             print(v01)
         if ('<PVAR>' in lin or pvarflag == True) and onflag == True:
             pvarflag = True
             if '</PVAR>' in lin:
                 pvarflag = False
             v01 = re.sub('{ }', "", lin)
-            v01 = re.sub('<PVAR>', '    \\\\prosevar{{\dn ', v01[:-1])
+            v01 = re.sub('<PVAR>', '    \\\\prosevar{{\\\\dn ', v01[:-1])
             v01 = re.sub('</PVAR>', '}}', v01)
             v01 = re.sub('<LEM>', '', v01)
-            v01 = re.sub('</LEM>', '\lem ', v01)
+            v01 = re.sub('</LEM>', '\\\\lem ', v01)
+            v01 = re.sub('<UNCL>', '\\\\uncl{', v01)
+            v01 = re.sub('</UNCL>', '}', v01)
             v01 = re.sub('\\Ł', '} ', v01)
-            v01 = re.sub('\\$', ' {\dn ', v01)
+            v01 = re.sub('\\$', ' {\\\\dn ', v01)
             v01 = re.sub('\\;', '{\\\\normalfont\\\\thinspace ;}', v01)
-            v01 = re.sub('\*', '{\il}', v01)
-            v01 = re.sub('×', '{\lost}', v01)
+            v01 = re.sub('\*', '{\\\\il}', v01)
+            v01 = re.sub('×', '{\\\\lost}', v01)
             v01 = re.sub('{\\\\lost}\\\\csi', '{\\\\csi{}\\\\lost}', v01)
             print(v01)
         if '<SUBCHAPTER>' in line and onflag == True:
-            v01 = re.sub('<SUBCHAPTER>', '\n\n\\\\alalfejezet{\dn ', lin[:-1])
+            v01 = re.sub('<SUBCHAPTER>', '\n\n\\\\alalfejezet{\\\\dn\\\\dnnum ', lin[:-1])
             v01 = re.sub('</SUBCHAPTER>', '}', v01)
             v01 = re.sub('{ }', "", v01)
             print(v01)
+        if '<SUBSUBCHAPTER>' in line and onflag == True:
+            v01 = re.sub('<SUBSUBCHAPTER>', '\n\n\\\\alalalfejezet{\\\\dn\\\\dnnum ', lin[:-1])
+            v01 = re.sub('</SUBSUBCHAPTER>', '}', v01)
+            v01 = re.sub('{ }', "", v01)
+            print(v01)
         if '<CHAPTER>' in line and onflag == True:
-            v01 = re.sub('<CHAPTER>', '\n\n\\\\alfejezetdn{{\dn\Large\dnnum ', lin[:-1])
-            v01 = re.sub('</CHAPTER>', '}}', v01)
+            v01 = re.sub('<CHAPTER>', '\n\n\\\\alfejezetdn{{\\\\dn\\\\Large\\\\dnnum ', lin[:-1])
+            v01 = re.sub('</CHAPTER>', '}}\\\\jump\\\\jump', v01)
             v01 = re.sub('{ }', "", v01)
             print(v01, end="")
         if '<TITLE>' in line and onflag == True:
-            v01 = re.sub('<TITLE>', '\\\\begin{center}{{\dn\Huge  ', lin[:-1])
-            v01 = re.sub('</TITLE>', '}}\\\\end{center}', v01)
+            lin = lin.lower()
+            v01 = re.sub('<title>', '\\\\begin{center}{{\\\\dn\\\\Huge  ', lin[:-1])
+            v01 = re.sub('</title>', '}}\\\\end{center}', v01)
             v01 = re.sub('{ }', "", v01)
             print(v01, end="")
         if '<TAMIL>' in line and onflag == True:
             v01 = re.sub('<TAMIL>', '', line[:-1])
             v01 = re.sub('</TAMIL>', '', v01)
-            v01 = tamil.txt2unicode.diacritic2unicode(v01)
+            #v01 = tamil.txt2unicode.diacritic2unicode(v01)
             print('{\\tamilfont ', v01, '}\n')
     openfile.close()
 

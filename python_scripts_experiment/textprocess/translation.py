@@ -13,14 +13,19 @@ class bcolors:
 	'''
 
 def translation(filename):
+    onflag = False
     chapter = 0
     vsnum = 0
     textflag = False
     trflag = False
     openfile = open(filename, "r")
     for line in openfile:
+        if '<START/>' in line:
+            onflag = True
+        if '<STOP/>' in line:
+            onflag = False
         #chap_and_vsnum = (str(chapter) + "." + str(vsnum)) 
-        if '<TR>' in line or trflag == True:
+        if ('<TR>' in line or trflag == True) and onflag == True:
             trflag = True
             if '</TR>' in line:
                 trflag = False
@@ -32,13 +37,18 @@ def translation(filename):
             if '<TR>' in line or trflag == True: 
                 if '</TR>' in line:
                     trflag == False
-                print("---", bcolors.TR, v01, bcolors.WHITE)
+                print("    ", bcolors.TR, v01, bcolors.WHITE)
             else:
                 print(bcolors.TR, v01, bcolors.WHITE)
+        if '<startchapter-n="' in line and onflag == True:
+            v01 = re.sub('.*<startchapter-n="', '', line)
+            v01 = re.sub('".*', '', v01)
+            chapter = int(v01) 
+        # OBSOLETE
         if '<NEWCHAPTER/>' in line:
                 chapter += 1
                 vsnum = 0
-        if '<TEXT>' in line or textflag == True:
+        if ('<TEXT>' in line or textflag == True) and onflag == True:
             textflag = True
             if '</TEXT>' in line:
                 textflag = False
