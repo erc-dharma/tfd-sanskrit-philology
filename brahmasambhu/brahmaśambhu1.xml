@@ -1464,6 +1464,7 @@ weak points.</TR>
 
 <TR>[The six types are:] square, Bhadra, Rucaka, Sarvabhadraka, octagonal, and round. The base of [all of] these is tripartite (?).</TR>
 
+% 126
 <TEXT>gṛhasyocchrayahastānāṃ saṃkhyātair{ }aṅgulair{ }yutaiḥ |</TEXT>
 <TEXT>stambhaś{ }catuṣkaraḥ kāryaḥ śuddhaḥ ṣaḍdāruko ’tha vā ||</TEXT>
     <APP> \vc <LEM>stambhaś{ }catuṣkaraḥ</LEM> \conj; stambhacatuṣkaraḥ \msA</APP>
@@ -1472,48 +1473,87 @@ weak points.</TR>
 
 <NOTE>Perhaps what is intended instead of śuddhaḥ is saudhaḥ, in which case one could understand that “it should be of [mortar and] plaster, or out of [any one of] six types of wood”.
 
-Cf. Libbie Mills' note on Devyāmata 79.27: "The ṣaḍdārus are discussed in chapter 91, verses 34 on. They appear to be aset of 6 timbers in the elevation of a temple."</NOTE>
+Cf. Libbie Mills' note on Devyāmata 79.27: "The ṣaḍdārus are discussed in chapter 91, verses 34 on. They appear to be a set of 6 timbers in the elevation of a temple."</NOTE>
 
-<TEXT>talapaṭṭas tathā kumbhaḥ stambhadehoparoghaṭaḥ |</TEXT>
-<TEXT>padmastambhaśiraś ceti ṣaddāruka iti smṛtaḥ ||</TEXT>
+% 127
+<TEXT>talapaṭṭas{ }tathā kumbhaḥ stambhadehoparoghaṭaḥ |</TEXT>
+<TEXT>padmastambhaśiraś{ }ceti ṣaḍdāruka iti smṛtaḥ ||</TEXT>
+<APP> \vd <LEM>ṣaḍdāruka</LEM> ṣaddāruka \msA</APP>
 
-<TEXT>ucchrayeṇa caturhastā vistāreṇaukahastikā |</TEXT>
-<TEXT>gṛhavyāsavikārāṃ sayuktābhittiḥ praśasayte ||</TEXT>
+<NOTE>This should be a list of the six timbers known as ṣaḍāru.  The names of the first two are clear, namely Talapaṭṭa, and Kumbha.  Two must be made out of stambhadehoparoghaṭaḥ and out of padmastambhaśiraś.</NOTE>
 
-<TEXT>ekasaptatiparvvāṇidvārasarddhena vismṛtaṃ |</TEXT>
-<TEXT>gṛhavyāsakarāṃguṣṭhair api kaṃsamasūtrakaṃ |||</TEXT>
+% 128
+<TEXT>ucchrayeṇa caturhastā vistāreṇaikahastikā |</TEXT>
+<TEXT>gṛhavyāsavikārāṃśayuktā bhittiḥ praśasyate ||</TEXT>
+<APP> \vb <LEM>vistāreṇaikahastikā</LEM> \msApc; vistāraiṇaikahastikā \msAac</APP>
+
+<TR>A wall is recommended of four cubits in height and one cubit in width and gṛhavyāsavikārāṃśayuktā ??</TR>
+<NOTE>There is a small circle and a following extra double daṇḍa added after this verse.</NOTE>
+
+% 129
+<TEXT>ekasaptatiparvvāṇi dvāram{ }arddhena vistṛtaṃ |</TEXT>
+<TEXT>gṛhavyāsakarāṃguṣṭhair{ }adhikaṃ samasūtrakaṃ |||</TEXT>
+<TR>Seventy-one joints (?) The door in width should be the half (?) supplemented (adhikam) by as many fingerbreadths as there are cubits in the width of the house, lying along the same thread line (?samasūtrakam).</TR>
+<NOTE>Obscure.</NOTE>
 
 
-% 116
+% 130
+<TEXT>tripañcasaptaśākhādyaṃ navadāru svayonijaṃ |</TEXT>
+<TEXT>śākhānāṃ sanniveśo ’sya na bhavet{ }pādako 'dhikaḥ ||</TEXT>
+<APP> \vc <LEM> śākhānāṃ </LEM> \emend; sākhānāṃ \msA</APP>
+% 131
+<TEXT>śākhānām{ }atra vistāro bhittisthaulyavibhāgataḥ |</TEXT>
+% the lyavi of sthaulyavibhāgataḥ is unclear !
+<TEXT>vistārārddhena pārśvo ’pi rūpakarmakramā + + + ||</TEXT>
+<APP> \va <LEM> śākhānāṃ </LEM> \emend; sākhānāṃ \msA</APP>
+
+<TR>The breadth of the doorposts here, with respect to the thickness of the wall (?) ...</TR>
+
+
+% 132
 %(18?a?1)
-<TEXT>[+ + + + + + + + + ]guṇaṃ kamalaṃ bhavet |</TEXT>
-% 117
-<TEXT>stambhasthaulyāt{ }pṛthutvena dvyaṅgulaṃ + + + + + <||></TEXT>
+<TEXT>[+ + + + + + + + + ](dvi)guṇaṃ kamalaṃ bhavet |</TEXT>
+<TEXT>stambhasthaulyāt{ }pṛthutvena dvyaṅgulaṃ pṛthukaṃ śiraḥ ||></TEXT>
+
+
+%133
 %(18?a?2)
-<TEXT>+ + + + + + + lyam{ }eteṣāṃ ta\?lakumbha\? [ +  <|> ]</TEXT>
-% 118
+<TEXT>svapṛthutvārddhabāhulyam{ }eteṣāṃ talakumbha +  |</TEXT>
+<APP> \va <LEM>°bāhulyam</LEM> °vāhalyam \msA</APP>
 <TEXT>[+ + + + + + + + + + + + + + ]śirodhikaḥ ||</TEXT>
-<TEXT>padayuktā caturhastā pañcahastā tad + + + |</TEXT>
-% 119
-<TEXT>+ + + + + + + + stambhaṃ dvāre iha kvacit ||</TEXT>
-% 120
+
+%134
+<TEXT>padayuktā caturhastā pañcahastā taducchritāt|</TEXT>
+<TEXT>stambhādvārāt paraṃ nastastambhadvāre iha kvacit ||</TEXT>
+
+% 135
 %(18?a?3)
-<TEXT>[+ + + + + + + + + + + ]dakarocchrayāt |</TEXT>
-<TEXT>na bhavet{ }sanmanāṃ bhittir{ }aiṣṭikī vā śilā[mayī? ||]</TEXT>
-% 121
+<TEXT>[+ + + + + + + + + +] (pā)dakarocchrayāt |</TEXT>
+<TEXT>na bhavet{ }sanmanāṃ bhittir{ }aiṣṭikī vā śilāmayī ||</TEXT>
+
+% 136
 %(18?a?4)
-<TEXT>+ + + + + + + + jayantī saṃdhipāli + <|></TEXT>
+<TEXT> tulā copatulā kaṇṭho jayantī saṃdhipāli + |</TEXT>
+% probably we should emend to saṃdhipālikā
 <TEXT>+ + + + [yathā]śobhaṃ vidhātavyās{ }tathā tathā ||</TEXT>
-% 122
-<TEXT>cayakarmaprasaṅgena manā + + + + + + <|></TEXT>
+<TR>The beams, smaller beams, mouldings, joists, and door-decoration (?) … should be made in a such a way as to make them beautiful.</TR>
+<NOTE>According to Dagens' book on the architectural terminology of the Raurava and Ajita,
+tulā refers to a beam, and jayantī to a joist.  upatulā is presumably some sort of beam interstitial in size between a tulā and a jayantī.  kaṇṭha is typically a moulding. For sandhipāla, cf. Tantrasamuccaya 2:32, where the topic appears to be the decorative and functional ornamentation of the door-panels.
+CHECK Studies in Sanskrit Texts on Temple Architecture: with special reference to Tantrasamuccaya by Mallaya, Annamalai Uni?, 1949 ?</NOTE>
+
+% 137
+<TEXT>cayakarmaprasaṅgena manāgdārukaloditā |</TEXT>
 %(18?a?5)
-<TEXT>+ + + + + + + + prastutaḥ sobhidhī[yate ||]</TEXT>
+<TEXT>bhittisambandhayed{ }vāstau prastutaḥ so ’bhidhī[yate] ||</TEXT>
+
+%% 26.3. %%
+
 % 123
 <TEXT>+ + koṇapadaṃ vahnes{ }tatra stambhaṃ rijuṃ samam |</TEXT>
-<TEXT>lambanena pratiṣṭhāpya + + + + + + + + <||></TEXT>
+<TEXT>lambanena pratiṣṭhāpya pūjayet sunipaṃ tritaṃ ||</TEXT>
 % 124
 %(18?b?1)
-<TEXT>+ + + + sitaiḥ puṣpair{ }vāsobhyām{ }ā + + + + <|></TEXT>
+<TEXT> vandanena sitaiḥ puṣpair{ }vāsobhyām{ }ā + + + + <|></TEXT>
 <TEXT>+ + tāmbūladīpaiś{ }ca bhavanapratirūpake ||</TEXT>
 % 125
 <TEXT>sthapatiṃ śilpino viprāṃs{ }toṣayitvā vibhāvasuṃ |</TEXT>
