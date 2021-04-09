@@ -1450,9 +1450,8 @@ towards the north east altogether by six barley-grains in order to avoid all the
 weak points.</TR>
 
 % 124
-%(16b1)
 <TEXT>kumārī kuḍyasaṃsaktā garbhastambhasamākṛtiḥ |</TEXT>
-%(18v1)
+%(18v1 [=modern numeration 16b])
 <TEXT>stambhaś{ }caturmukho madhye ṣaḍvidho varttanāvaśāt ||</TEXT>
 <APP> \vd <LEM>varttanāvaśāt</LEM> \emend; varttanāvasāt \msA</APP>
 
@@ -1496,11 +1495,18 @@ Cf. Libbie Mills' note on Devyāmata 79.27: "The ṣaḍdārus are discussed in 
 <TR>Seventy-one joints (?) The door in width should be the half (?) supplemented (adhikam) by as many fingerbreadths as there are cubits in the width of the house, lying along the same thread line (?samasūtrakam).</TR>
 <NOTE>Obscure.</NOTE>
 
-
+%start here
 % 130
 <TEXT>tripañcasaptaśākhādyaṃ navadāru svayonijaṃ |</TEXT>
 <TEXT>śākhānāṃ sanniveśo ’sya na bhavet{ }pādako 'dhikaḥ ||</TEXT>
 <APP> \vc <LEM> śākhānāṃ </LEM> \emend; sākhānāṃ \msA</APP>
+
+%should we understand pāduka instead of pādaka? pāduka being the baseboard/skirting board (Fußbodenleiste)
+%There should not be an additional skirting board in the place of the door frames?
+
+The position of the door frames?
+%śākha = door frame
+
 % 131
 <TEXT>śākhānām{ }atra vistāro bhittisthaulyavibhāgataḥ |</TEXT>
 % the lyavi of sthaulyavibhāgataḥ is unclear !
@@ -1511,8 +1517,8 @@ Cf. Libbie Mills' note on Devyāmata 79.27: "The ṣaḍdārus are discussed in 
 
 
 % 132
-%(18?a?1)
-<TEXT>[+ + + + + + + + + ](dvi)guṇaṃ kamalaṃ bhavet |</TEXT>
+%(modern numeration 18b)
+<TEXT>[+ + + + + + + + + ][dvi]guṇaṃ kamalaṃ bhavet |</TEXT>
 <TEXT>stambhasthaulyāt{ }pṛthutvena dvyaṅgulaṃ pṛthukaṃ śiraḥ ||></TEXT>
 
 
@@ -1524,16 +1530,18 @@ Cf. Libbie Mills' note on Devyāmata 79.27: "The ṣaḍdārus are discussed in 
 
 %134
 <TEXT>padayuktā caturhastā pañcahastā taducchritāt|</TEXT>
-<TEXT>stambhādvārāt paraṃ nastastambhadvāre iha kvacit ||</TEXT>
+<TEXT>stambhādvārāt{ }paraṃ nastastambhadvāre iha kvacit ||</TEXT>
 
 % 135
 %(18?a?3)
 <TEXT>[+ + + + + + + + + +] (pā)dakarocchrayāt |</TEXT>
 <TEXT>na bhavet{ }sanmanāṃ bhittir{ }aiṣṭikī vā śilāmayī ||</TEXT>
 
+<TR>… wall made of bricks or stone.</TR>
+
 % 136
 %(18?a?4)
-<TEXT> tulā copatulā kaṇṭho jayantī saṃdhipāli + |</TEXT>
+<TEXT> tulā copatulā kaṇṭho jayantī saṃdhipāli[kā] |</TEXT>
 % probably we should emend to saṃdhipālikā
 <TEXT>+ + + + [yathā]śobhaṃ vidhātavyās{ }tathā tathā ||</TEXT>
 <TR>The beams, smaller beams, mouldings, joists, and door-decoration (?) … should be made in a such a way as to make them beautiful.</TR>
@@ -1542,84 +1550,130 @@ tulā refers to a beam, and jayantī to a joist.  upatulā is presumably some so
 CHECK Studies in Sanskrit Texts on Temple Architecture: with special reference to Tantrasamuccaya by Mallaya, Annamalai Uni?, 1949 ?</NOTE>
 
 % 137
-<TEXT>cayakarmaprasaṅgena manāgdārukaloditā |</TEXT>
+<TEXT>cayakarmaprasaṃgena manāgdārukaloditā |</TEXT>
 %(18?a?5)
-<TEXT>bhittisambandhayed{ }vāstau prastutaḥ so ’bhidhī[yate] ||</TEXT>
+<TEXT>bhitti sambandhayed{ }vāstau prastutaḥ so ’bhidhī[yate] ||</TEXT>
+%Understand bhittiḥ/bhittiṃ sambandhayed?
 
+%prastara -- Unterbau/Substructure
 %% 26.3. %%
 
-% 123
-<TEXT>+ + koṇapadaṃ vahnes{ }tatra stambhaṃ rijuṃ samam |</TEXT>
-<TEXT>lambanena pratiṣṭhāpya pūjayet sunipaṃ tritaṃ ||</TEXT>
-% 124
-%(18?b?1)
-<TEXT> vandanena sitaiḥ puṣpair{ }vāsobhyām{ }ā + + + + <|></TEXT>
-<TEXT>+ + tāmbūladīpaiś{ }ca bhavanapratirūpake ||</TEXT>
-% 125
+% 138
+<TEXT>+ + (ko)ṇapadaṃ vahnes{ }tatra stambhaṃ rijuṃ samam |</TEXT>
+<TEXT>lambanena pratiṣṭhāpya pūjayet{ }suniyaṃtritaṃ ||</TEXT>
+
+<TR>the corner square of the fire [viz. South East]... having established there a straight and level post/pillar with an eaves drip (lambanena), … </TR>
+
+<NOTE>The translation “eaves drip” is based on our understanding of Dagens’ expression: retombée (d’un larmier). See: https://books.openedition.org/ifp/1677</NOTE>
+
+% 139
+<TEXT>candanena sitaiḥ puṣpair{ }vāsobhyām{ }ā + + + + |</TEXT>
+%(18b)
+<TEXT>+ + tāmbūladīpaiś{ }ca bhavanapratirūpakaM ||</TEXT>
+
+<TR> he should worship an effigy of the house
+...using sandal wood, white flowers, with two cloths...and with ...betel, and lamps. </TR>
+
+% 140
 <TEXT>sthapatiṃ śilpino viprāṃs{ }toṣayitvā vibhāvasuṃ |</TEXT>
 %(18?b?2)
-<TEXT>tarppayitvā śivāṃbhobhi<s>{ }stambhastambham{ }abhi + + <||></TEXT>
-% 126
-<TEXT>+ + + + + tasyātha rakṣāṃ saṃyamya vāsasā |</TEXT>
+<TEXT>tarppayitvā śivāṃbhobhis{ }stambhastam{ }abhi + + + ||</TEXT>
+<APP> \vc <LEM> śivāṃbhobhis </LEM> \emend; śivāṃbhobhi \msA</APP>
+
+<TR>Having satisfied the architect, craftsmen, learned priests and pleased Vibhāvasu with śiva-water...</TR>
+
+% 141
+<TEXT>+ + + + ṃ ca tasyātha rakṣāṃ saṃyamya vāsasā |</TEXT>
 <TEXT>kṛṣṇena bhasmasiddhārthatālasasyendragarbhiṇīm ||</TEXT>
-% 127
+
+<TR>...having fixed a protecting charm (rakṣāṃ?) with a black cloth, which contains ash, white mustard seeds, palm leaves (?), corn and indra (flowers?),</TR>
+
+% 142
 %(18?b?3)
-<TEXT>atas{ }taujakṣaṇe nanyā stambhān{ }asya pra + + + <|></TEXT>
-<TEXT>+ + + + + + \?h\?ena trikaṭena samīkṛtān |</TEXT>
-% 128
+<TEXT>atas{ }tau jakṣaṇenanyāṃ stambhān{ }asya pra + + + <|></TEXT>
+<TEXT>+ + + + + + gaḍena trikaṭena samīkṛtān |</TEXT>
+
+% 143
 <TEXT>suśailaṃ pakvaśailaṃ vā sulepaṃ sāsthibandhanam |</TEXT>
 %(18?b?4)
-<TEXT>kulyamācintayād{ }vāstau kumārīpṛ + + + <||></TEXT>
-% 129
+<TEXT>kuḍyam{ }ācintayād{ }vāstau kumārīpṛ + + + <||></TEXT>
+
+% 144
 <TEXT>+ + + + + + vāstau pārthivaṃ vāstubāhyataḥ |</TEXT>
 <TEXT>kāṣṭhikātṛṇanirvṛttaṃ karttavyaṃ pārthivaṃ yathā ||</TEXT>
-% 130
+
+% 145
 %(18?b?5)
-<TEXT>tadaṅgāni ṣaḍ{ }etāni ye bahiḥ + + + + + <|></TEXT>
-<TEXT>+ + + + + + paṭṭaḥ paṭṭike savaraṇḍike ||</TEXT>
-% 131
+<TEXT>tadaṅgāni ṣaḍ{ }etāni yair{ }bahiḥ + + + + + |</TEXT>
+<TEXT>+ + + + + + paṭṭaḥ paṭṭikaisavaraṇḍike ||</TEXT>
+
+% 146
 <TEXT>atha dvāraṃ vidigneṣṭam{ }iṣṭaṃ dikṣu dvipañcadhā |</TEXT>
-<TEXT>tricaturthadviṣaṣṭhañ{ }ca tṛcatu</TEXT>
+<TEXT>tricaturthadviṣaṣṭhañ{ }ca tṛcatu + + + + + </TEXT>
+<APP> \vc <LEM>tricatu°</LEM> \emend; tṛcatu° \msA</APP>
 %(end of 18?b?)
 
+<TR>Now a doorway is not desired in the intermediate directions; it is required in the cardinal directions. ...</TR>
 
 LACUNA: 19–21
 
+%% IN the following verses, those on f.22,
+%% we have guesstimated the verse numbering
+%% on the basis of the scribe's numeration on f. 24.
+%% The numbering is nonetheless approximate, because we
+%% are missing f. 23.  The earlier numbers, beginning with that of
+%% verse 132, are those of Alexis' original transcription.
 
 % 132
+% [1.298]
 %(22r1)
 <TEXT>madhyamajyeṣṭhayor{ }garbhe navadhā bhājite sati |</TEXT>
 <TEXT>koṇāt{ }dvitīyabhāgānte sūtraṃ sarvvatra pātayet ||</TEXT>
 % 133
-<TEXT>sūtrasaṃpātasūtrāntakoṇeṣu  caturo daśa |</TEXT>
+% [1.299]
+<TEXT>sūtrasaṃpātasūtrāntakoṇeṣu caturo daśa |</TEXT>
 %(22r2)
 <TEXT>dve ca stambhā kumārī ca madhye pāre ca vinyaset ||</TEXT>
 % 134
-<TEXT>stambhaka\?lp\?ā śirodhiṣṭhau paṭṭā vā bhrāmyasaddhitau |</TEXT>
-<TEXT>lūmābhir \?hy\?eṭakair vāpi kṣaṇaṃ saṃcchādya yatnataḥ ||</TEXT>
+% [1.300]
+<TEXT>stambhakanyā śirodhiṣṭhau paṭṭā vā bhrāmyasaṃddhitau |</TEXT>
+<TEXT>lūmābhir{ }daṃḍakair vāpi kṣaṇaṃ saṃcchādya yatnataḥ ||</TEXT>
 % 135
+% [1.301]
 %(22r3)
-<TEXT>tata<ḥ> stambhaguṇāṃśena jālārakasamanvitān |</TEXT>
+<TEXT>tataḥ stambhaguṇāṃśena jālārakasamanvitān |</TEXT>
 <TEXT>upastambhān{ }upasthāpya paṭṭamanthānakopari ||</TEXT>
+<APP> \va <LEM>tataḥ</LEM> \emend; tata \msA</APP>
 % 136
-<TEXT>tacchiraḥ paṭṭasaṃviṣṭalumāraṇḍakaśobhitā |</TEXT>
+% [1.302]
+<TEXT>tacchiraḥ paṭṭasaṃviṣṭalūmāraṇḍakaśobhitā |</TEXT>
+<APP> \vb <LEM>°lūmāraṇḍaka°</LEM> \corr (i.m.); °lūmāṇḍaka° \msA</APP>
 %(22r4)
 <TEXT>vidadhyāc{ }chadanenorddhvaṃ padmasaṃdaṣṭamūrttinā ||</TEXT>
+
+%% 9.4. we checked the manuscript up until here
+
 % 137
+% [1.303]
 <TEXT>yad{ }vā bhinnatalaṃ nyasya lūmāchannavitānakaṃ |</TEXT>
 <TEXT>kārayec{ }chilpavijñānakovidena tu śilpinā ||</TEXT>
+% Dominic suggests lūmā could denote some kind of tussel, based on the fact that lūma can mean horse's tail (Cf. PW: Schwanz, Schweif)
 % 138
+% [1.304]
 %(22r5)
 <TEXT>sadhūmanirgamenoccaiḥ pūrvabhadreṇa saṃgatam |</TEXT>
 <TEXT>yajñāya maṇḍapaṃ hy{ }evaṃ karttavyaṃ pratyagānanaṃ ||</TEXT>
 % 139
+% [1.305]
 <TEXT>saddārurucirālindadaṇḍakacchannamastakaṃ |</TEXT>
 %(22v1)
 <TEXT>sarvvatomukhato vāpi mukhavedi kayānvitam ||</TEXT>
 % 140
+% [1.306]
 <TEXT>śilāpaṭalasaṃcchannaṃ pihitaṃ vā nirantaram |</TEXT>
 <TEXT>iṣṭakābhi<ḥ> supakvābhir{ }bahir{ }vābhyantarodakam ||</TEXT>
 % 141
+% [1.307]
 %(22v2)
 <TEXT>gārāyuktasudhāpiṇḍakṛtaniḥsaṃdhibandhanam |</TEXT>
 <TEXT>sacchudhādhavalaṃ vapraprāntanyastapraṇālakam ||</TEXT>
@@ -1627,29 +1681,34 @@ LACUNA: 19–21
                     \tika{Marg. note on \textit{vapra}: \textit{2 varaṇḍa}.}%
                     %
                     \var{praṇālakam \conj :pramāṇalakaṃ A}%
-%
 % 142
+% [1.308]
 <TEXT>vajralepaṃ madhūcchiṣṭatailasarjjurasair{ }drutaiḥ |</TEXT>
 <TEXT>śaṇakṣaudrapayo bilvarasamiśraiḥ susaṃskṛtam ||</TEXT>
 %(22v3)
-% 143
+%143
+% [1.309]
 <TEXT>cūrṇṇakaṃ bahir{ }antaś{ }ca ślakṣṇaṃ sampādya bhittiṣu |</TEXT>
 <TEXT>kuryād{ }bhūbandhanaṃ paścāt{ }sudṛḍhaṃ śarkkaroṭṭakaiḥ ||</TEXT>
-% 144
+%144
+% [1.310]
 <TEXT>evaṃ niṣpādayitvā tu sayajñasadanaṃ maṭham |</TEXT>
 %
             \var{sayajñasadanaṃ maṭham \eme : sayajñaḥ sadanaṃ maṭham A}%
 %
 %(22v4)
 <TEXT>ucchrayād{ }dviguṇāṃ bhūmim{ }bahir{ }muktvā praveṣṭayet |</TEXT>
-% 145
+%145
+% [1.311]
 <TEXT>varaṇḍakena nipuṇaṃ saumyavaktreṇa cāruṇā ||</TEXT>
 <TEXT>tanmukhaṃ valabhīgarbha<ṃ> sakapāṭārgalānvitam</TEXT>
-% 146
+%146
+% [1.312]
 %(22v5)
 <TEXT>tato pi ca bahiḥ kuryāt{ }prākāraṃ gopurānvitam</TEXT>
 <TEXT>uttuṅgam{ }udgataṃ śṛṅgam{ }udagvārivaham{ }pari</TEXT>
-% 147
+%147
+% [1.313]
 <TEXT>prāsādabhūmigarbhāgrasīmni śakrādhidaivate</TEXT>
 <TEXT>saṃśodhya</TEXT>
 
