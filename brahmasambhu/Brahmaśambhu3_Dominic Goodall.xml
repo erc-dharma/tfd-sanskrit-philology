@@ -321,109 +321,356 @@ lalāṭe ceśvaraṃ dhyāyed varadaṃ sarvatomukham ||
 
 %% Read up to here Friday 7th August 2020
 
-[3.34] saśivāṅgaṃ samarbhyarcya tanāv uṣṇīṣabhūṣaṇaṃ |
-kāraṇasmṛtimān kṛtvā śivahastañ ca pūrvavat ||
-[3.35] maṇḍanaṃ paśuci\?tya\?nte kāraṇaṃ pāśasaṃha(48r5)teḥ |
-maṇḍalaṃ kalpaye<t> sthāṇor aśeṣādhvakalāmayam ||
-[3.36] tatra śuddhāṃjanacchāyanivṛttiṃ rajasi nyaset |
-pratiṣṭhāṃ haritālābhe vidyāṃ ca + rada(48v[3.45b]1)tviṣi ||
-[3.37] śvete śānti \?sukapamye\? śāntyatītāṃ \?kārta\?svaraiḥ |
-pūjayitvā ca kumbhastham api kāra\?ṇa\?kāraṇam ||
-[3.38] * +  +  +  +  +  +  +  + +  +  +  + (illegible) (48v2)na abhi\?nandya\? ca |
-\?na\?ti kāryāni + + + uddhārakatvā\?t tv\? anukramāt ||
-[3.39] pratyagrāsuramārgeṇa pratimā + + + + + |
-* + + + + + + + + + + (illegible) (48v3) *+ + + + (illegible) vraje<t> ||
-[3.40] na puṣpair na ca gandhair nākṣatabhasmatilādibhiḥ |
-rajasāṃ racanābhaṃgahetubhis tv anyagocaraiḥ ||%
+[3.34]
+<TEXT>saśivāṅgaṃ samabhyarcya tanāv{ }uṣṇīṣabhūṣaṇaṃ |</TEXT>
+<TEXT>kāraṇasmṛtimān kṛtvā śivahastañ{ }ca pūrvavat ||</TEXT>
+
+<TR>After venerating [Śiva/himself] ornamented with a turban along with the śivāṅga-mantras in [his own] body, he should prepare the “hand of Śiva” [by laying mantras upon it] while bearing in mind the <foreign>kāraṇa</foreign>-deities. </TR>
+
+<NOTE>Perhaps we should correct to <foreign>uṣṇīṣabhūṣaṇaḥ</foreign> ? CHECK procedures given elsewhere for the <foreign>śivahasta</foreign>.</NOTE>
+
+
+[3.35]
+<TEXT>maṇḍanaṃ paśucidvṛtter{ }vāraṇaṃ pāśasaṃhateḥ |</TEXT>
+<APP> \va <LEM>paśucidvṛtter</LEM> \conj;
+       paśucidvṛtte \msA</APP>
+<TEXT>maṇḍalaṃ kalpaye<t> sthāṇor{ }aśeṣādhvakalāmayam ||</TEXT>
+
+<TR>Decoration is something that wards off the mass of bonds form the thought-processes of souls.
+	He should prepare the <foreign>maṇḍala</foreign> for Śiva [in such a way that it is] full of the <foreign>kalā</foreign>s that make up all the universe.</TR>
+
+[3.36]
+<TEXT>tatra śuddhāṃjanacchāye nivṛttiṃ rajasi nyaset |</TEXT>
+<TEXT>pratiṣṭhāṃ haritālābhe vidyāṃ ca daradatviṣi ||</TEXT>
+
+% \msA, f.45b (original numeration 48v)
+% (48v[3.45b]1)
+
+<TR>Among those, one should place [the <foreign>kalā</foreign> called] Nivṛtti
+	in the powder (<foreign>rajasi</foreign>) that has the [black] colour of pure collyrium, [one should place] Pratiṣṭhā in the yellow-orpiment-coloured [powder], Vidyā in the red-lead-coloured [powder], Śānti in the white [powder] and Śāntyatītā in the [green] parakeet-coloured [powder], each with its proper mantra.</TR>
+
+[3.37]
+<TEXT>site śāntiṃ śukaprakhye śāntyatītāṃ svaśambaraiḥ |</TEXT>
+<APP> \va <LEM>site śāntiṃ śukaprakhye</LEM> \conj;
+      śite sānti sukayakhye \msA</APP>
+<APP> \vb <LEM>svaśambaraiḥ</LEM> \emend; svasamvaraiḥ \msA</APP>
+<TEXT>pūjayitvā ca kumbhastham{ }api kāraṇakāraṇam ||</TEXT>
+
+<TR>Having venerated [Śiva who is] the Cause of causes although he is in the pot, …</TR>
+
+<NOTE>Perhaps the <foreign>api</foreign> instead simply functions as a connective particle “and”? But there is already a <foreign>ca</foreign>.</NOTE>
+
+
+[3.38]
+<TEXT>* +  +  +  +  +  +  +  + +  +  +  + (illegible) (48v2)n{ }abhinandya ca |</TEXT>
+<TEXT>naṃdikāpālinau ceṣṭvā dvārakakṣāsv{ }anukramāt ||</TEXT>
+<APP> \vc <LEM>°kāpālinau</LEM> \conj;
+°kāpālino \msA</APP>
+
+<TR>… and having shared in the delight (<foreign>abhinandya ca</foreign>), and having venerated Nandi and [Mahākāla] who possesses the skull-bowl on the doorposts in due order,</TR>
+
+
+[3.39]
+<TEXT>pratyaggopuramārgeṇa praviśya tacchivaṃ puram |</TEXT>
+<APP> \vb <LEM>praviśya</LEM> \emend; pravisya \msA</APP>
+<TEXT>+ + dvaye śikhāyā + + +  (48v3) vatkalpitā vraje<t> ||</TEXT>
+
+<TR>Entering the <foreign>maṇḍala (?)</foreign> of Śiva through the western gateway...</TR>
+
+
+[3.40]
+<TEXT>na puṣpair{ }na ca gandhena nākṣatais{ }salilādibhiḥ |</TEXT>
+<TEXT>rajasāṃ racanābhaṃgahetubhis tv anyagocaraiḥ ||</TEXT>
+
+<TR>[[He should]] not [[disturb the maṇḍala]] using flowers, or fragrances, nor unbroken rice, water or the like, or any factors of other types that would cause the composition of powders to be disrupted...</TR>
 %
-		\testim{3.40abc attr. ĪŚGDP KP p. 171, 5--7.}%
+%\testim{3.40abc attr. ĪŚGDP KP p. 171, 5--7.}%
 %
-[3.41] * + + + + + + + + + + + + (illegible)(48v4) pradīpakaiḥ |
-agratāpavitiḥpa + r iṣṭvā *śa<ṅ>kau (?) supuṣkalaḥ ||
-[3.42] gandhānām uktapuṣpāṇāṃ dadhi + vākṣatāmbhasā |
-* + + + + + + + +  (illegible) nnapra(48v5)yogavidhiḥ smṛtaḥ ||
-[3.43] * \?rasunāsarva\?vastrāṇāṃ puṣpadāmnāṃ ca maṇḍape |
-ratnānāṃ kalaśādau ca + + + + + + + + ||
- * + + + + + + + + + (illegible) | (49r1)
-[3.44] \?novvāpi\? + du<ḥ>svapnaṃ bhūtaye matam |
-hutvā pratyekam astreṇa mantrāṇāṃ dīpanāya ca ||
-[3.45] rudrādibhyo baliṃ cāntar upanīya nivedyate |
-śivāyā + śca tān (49r2) śiṣyān anupūrvvyā praveśayet ||
-[3.46] pūrvavat .āsanasthasya dakṣiṇasya bahiḥ purāt |
-paśoḥ śodhitadehasya śivahastaṃ prakalpayet ||
-[3.47] pradakṣiṇā(49r3)ntaraṃ śambhoḥ praṇāmam upadeśya ca |
-+ + + + ghaṭasthasya gacchet kuṇḍāntikan tathā ||
-[3.48] tatrādī + bha\?va\>sthasya datvārghaṃ + + saṃnidhi\?m\? |
-āhūya sva(49r4)sya pūrveṇa kṛtvā sannihitaṃ paśum ||
-[3.49] \?nītvā\? datvārppaṇenaiva saṃdhāya ca \?sva\?śiṣyayoḥ |
-śivam arccāpayitvā ca śatahomād anantaram ||
-[3.50] sa\?ndhi\?stha(49r5)m upaviśyāpi praṇāmaṃ sapradakṣiṇam |
-ādā\?nam\? api pāśānāṃ ghaṭe sādhyeṣaṇena tu ||
-[3.51] \?sakusaṃpāsamo\?nādyaṃ \?sama\?nāḍīpravāhiṇam |
-(49v1) pūrvavat pūjitaṃ kṛtvā pāśān asya viśodhayet ||
-[3.52] eke sādhāraṇās teṣām anye sādhāraṇā<ḥ> sthitā<ḥ> |
-tathobhayātmakā<ḥ> kecid bahirantarvikalpaśa[3.ḥ] || (49v2)
-[3.53] kalāḥ sādhāraṇaḥ pāśaḥ karmāsādhāraṇaḥ smṛtaḥ |
-dvisvabhāvo malaś ceti śivaśaktibaleritaḥ ||
-[3.54] bhojyabhojakabhāvena sa bahirbhāvam āgataḥ |
-(49v3) bhogasya sādhanatvena cetanāyatanatvataḥ ||
-[3.55] tatvāni bhuvanatvena pariṇāmakramaṃ vinā |
-prāptāny etarhi bhogāni sarvasādhāraṇāny api ||
-[3.56] mantrā<ḥ> (49v4) padāni varṇṇāś ca bhoktṛbhogyasya bhojakāḥ |
-bhogyecchayā \?c\?itau karmabhogo mantrāgniśodhitaḥ ||
-[3.57] tasya cāyatanaṃ kāryaṃ sādhanaṃ karaṇāni ca | (49v5)
-nimittañ ca paśutvasya pariṇāmas tathāvidhaḥ ||
-[3.58] ity ālocya dhiyā sarvam āgamānugṛhītayā |
-kuryād ekatamāṃ dīkṣām anugrāhyavyapekṣayā || %(end of 49v)%
-[3.59] (50r1) kāmikī śivadharmeṇa laukikena ca raṃjitā |
-ekānekādhvavicchedaśodhanī turyadhā smṛtā ||
-[3.60] nirbījeti sabījeti naiṣṭhikā dviprakārikā |
-pra(50r2)tisaṃskāryabhedena yo bhedo na sa ucyate ||
-[3.61] aśaivam aśubhaṃ karma śodhyate na śubhaṃ yayā |
-lokadharmīti sā jñeyā tadvac chaivam athetarā ||
-[3.62] tatvaprakṛ(50r3)ṣṭabhogaṃ vā bhuvanaṃ rakṣyate yayā |
-ekaṃ cānekasaṃkhyaṃ vā dīkṣāsau tadviśeṣaṇā ||
-[3.63] sācārā samayā bījaṃ tatsahāyā sabījikā |%
-%
-		\var{tatsahāyā \eme : tatsahāyāḥ A
-		\spot
-		sabījikā \eme : sabījikām A}%
-%
-nirbījā(50r4) tena nirmuktā mantrāgnipluṣṭavarccasā ||
-[3.64] prastutasyādhvano mūlam athāśritya dvijanmanaḥ |
-prāpaṇāyepsitaṃ sthānaṃ tadbhogyāṃsaṃ vicintayet ||
-[3.65] mārggā(50r5)ntarakalāgarbhaṃ samakālaṃ sajanmanā |
-pariṇāmaṃ vicitreṇa gamitaṃ karmmaṇā yathā ||
-[3.66] dharātatvaṃ kavarṇṇañ ca viṃśaty aṣṭau padāni ca |
-mantrau dvāv (50v1) ekaṣaṣṭyonnaṃ bhuvanānāṃ śatadvayam ||
-[3.67] avalokya nivṛttau tāṃ bhitvā cānupaviśya ca ||
-gṛhītvā sthāpayed vahnau śivaśaktim iti smaran | (50v2)
-[3.68] arccitāyām atas tasyāṃ tarppitāyāñ ca sarppiṣā ||
-pañcakenāhutīnāṃ tu saṃskuryād yojanaṃ paśum |
-[3.69] nirūpyas tatra dehastham eṣyabho(50v3)gābhilāṣiṇaḥ ||
-tāḍitaṃ trastam utsṛṣṭaṃ saṃhṛtaṃ mudrayā tayā |
-[3.70] gṛhītvā śaktisaṃlīnaṃ jyeṣṭhāyogapravāhayā ||
-tasyā viyuktam ānī(50v4)taṃ viśrānta svahṛdaṃ vrajet || 70 ||
-[3.71] mūrttimantrāṇudehasthaṃ sphuradvahnikaṇopamam |
-nītvā taṃ bhāvayan śaktau keśeśānasadāśivān ||
-[3.72] ta(50v5)to pi viśvarūpiṇyāṃ nānāyoniṣu saṃgatam |
-vāmayā vāmamārgeṇa kuryād udbhavamudrayā ||
-[3.73] jyeṣṭhā vāmā ca raudrī ca śaktayo mūś śi(51r1)vasya hi |
-viyoga yoga uccāre vihanyante na kutracit ||
-[3.74] amuṣya trāsanād yasya karmasantānakasya hi |
-dīptisaṃjananārthan tu juhuyād viṣa(51r2)yāhutī ||
-[3.75] bhogayoniṣu sarvāsu prakāśaguṇasampadā |
-ādadhyad dhṛdayeneṣṭvā hutvā cāhutipañcakam ||
-[3.76] napuṃstvaniyamau bhoktur ākṛtyaṃ(51r3)tarasambhavāt |
-na ca sīmantasaṃkalpe vaicitryā<t> karmaṇāṃ gate ||
-[3.77] yoner niṣkramaṇaṃ janma garbhamohaphalakṣaye |
-bahirviṣayabhogeṣu pravṛtte(51r4)r hetutātmanaḥ ||
-[3.78] paṭubhāvo kṣavarggasya viṣayagrahaṇaṃ prati |
-yathāsvam adhikāro tra tyāgopādānagocaraḥ ||
-[3.79] mohaduḥkhamukhacchāye mahati pratibiṃbinā |
-cidvyaktir ātmano bhogaḥ karmaṇāṃ kṣayakāraṇam ||
+
+<NOTE>Testimonium: We find the following quotation ad ĪŚGDP KP 18:1–2:
+	atra brahmaśambhuḥ ---
+na puṣpair na ca gandhena  salilena vā /
+rajasāṃ racanābhaṅgaṃ kuryāt </NOTE>
+
+
+[3.41]
+<TEXT>lepacitragatasyeva dhūpa + + (48v4) dyadīpakaiḥ |</TEXT>
+<TEXT>agratoyacitiḥ patyur{ }iṣṭvā saktau supuṣkalaiḥ ||</TEXT>
+%% Perhaps agrato ’pacitiḥ, “In front of the lord, veneration...”
+
+[3.42]
+<TEXT>gandhānāṃ muktapuṣpāṇāṃ dadhidūrvākṣatāmbhasā |</TEXT>
+<TEXT> kuryā(?) + + + + + + +  (illegible) nnapra(48v5)yogavidhiḥ smṛtaḥ ||</TEXT>
+
+[3.43]
+<TEXT>racanāsu ca vastrāṇāṃ puṣpadāmnā<ṃ> ca maṇḍape |</TEXT>
+<TEXT>ratnānāṃ kalaśādau ca + + + + + + + + ||</TEXT>
+
+%(f.49r1)
+[3.44]
+<TEXT>+ + + + + no vāpi duḥsvapnahataye śatam |</TEXT>
+<APP> \vb <LEM>duḥsvapnahataye śatam</LEM> \conj;
+   dusvapnaṃ hataye satam \msK</APP>
+<TEXT>hutvā pratyekam{ }astreṇa mantrāṇāṃ dīpanāya ca ||</TEXT>
+
+
+<TR>… one hundred oblations for destroying [what is presaged by] inauspicious dreams.  Having performed each one of these oblations with the astra, for the sake of illuminating the mantras...</TR>
+
+[3.45]
+<TEXT>rudrādibhyo baliṃ cāntar{ }upanīya nivedya ca |</TEXT>
+<TEXT>śivāyādhyeṣya tān śiṣyān anupūrvvyā praveśayet ||</TEXT>
+<TR>After bringing the bali inside (?) for Rudra and others and offering, he should cause the disciples to approach Śiva in due order and cause them to enter [the sacrificial space/maṇḍala].</TR>
+<NOTE>We do not understand the above. It is also possible that <foreign>rudrādibhyo balim...</foreign> is to be construed instead with <foreign>dīpanāya ca</foreign> in the previous verse.</NOTE>
+
+[3.46]
+<TEXT>pūrvavac{ }chāsanasthasya dakṣiṇasyāṃ bahiḥ purāt |</TEXT>
+		<APP> \va <LEM>pūrvavac{ }chāsanasthasya</LEM> \conj;
+		pūrvavat sāsanasthasya \msA</APP>
+<TEXT>paśoḥ śodhitadehasya śivahastaṃ prakalpayet ||</TEXT>
+<APP> \vc <LEM>paśoḥ</LEM> \emend; paśoḥ \msA</APP>
+<TR>As before, he should make ready the Śiva-hand for the bound soul whose body has been purified and who is under direction [of the guru] (<foreign>śāsanasthasya</foreign>) on the southern side [of the maṇḍala] outside the maṇḍala (<foreign>purāt</foreign>).</TR>
+
+<NOTE>Perhaps the conjecure <foreign>śāsanasthasya</foreign> is wrong.  Perhaps instead the initiand is qualified as sitting in some particular way outside the maṇḍala.</NOTE>
+
+[3.47]
+<TEXT>pradakṣiṇottaraṃ śambhoḥ praṇāmam upadiśya ca |</TEXT>
+<TEXT>saparyāñ{ }ca ghaṭasthasya gacchet kuṇḍāntikan{ }tathā ||</TEXT>
+
+<TR>After performing circumambulation of Śambhu in the pot, and instructing [the disciple to perform] a prostration and a <foreign>pūjā</foreign>, he should approach the vicinity of the fire-pit.</TR>
+
+[3.48]
+<TEXT>tatra dīptānalasthasya datvārghan{ }tejasāṃ nidheḥ |</TEXT>
+<APP> \va <LEM>tatra</LEM> \emend; tatrā \msA</APP>
+<TEXT>āhūya svasya pūrveṇa kṛtvā sannihitaṃ paśum ||</TEXT>
+<TR>After giving guest-water to Agni (<foreign>tejasāṃ nidheḥ</foreign>) who is in the flaming fire there [in the fire-pit], he should call the bound soul, placing him near to himself on the eastern side.</TR>
+
+<NOTE>Where is the guru standing relative to the fire-pit ?</NOTE>
+
+[3.49]
+<TEXT>nāḍyau darbhārppaṇenaiva saṃdhāya ca svaśiṣyayoḥ |</TEXT>
+<TEXT>śivam{ }arccāpayitvā ca śatahomād anantaram ||</TEXT>
+<APP> \vd <LEM>śata°</LEM> \emend; sata° \msA</APP>
+<TR>After joining the [central] tubes of himself and the disciple by placing a blade of Darbha grass, he should cause [the disciple] to worship Śiva after perfoming a hundred oblations [into the fire].</TR>
+
+
+[3.50]
+<TEXT>vahnistham{ }upadiśyāpi praṇāmaṃ sapradakṣiṇam |</TEXT>
+<APP> \vb <LEM>upadiśyāpi</LEM> \emend; upadisyāpi \msA</APP>
+<TEXT>ādānam{ }api pāśānāṃ ghaṭe sādhyeṣaṇena tu ||</TEXT>
+<APP> \vc <LEM>pāśānāṃ</LEM> \emend; pāsānāṃ \msA</APP>
+
+% not yet clear ! Is the pot the vessel in which the pāśasūtra was laid before adhivāsa
+<TR></TR>
+
+[3.51]
+<TEXT>sakuśaṃ pāśamālādyaṃ samanāḍīpravāhiṇam |</TEXT>
+<APP> \va <LEM>sakuśaṃ pāśa°</LEM> \emend; sakusaṃ pāsa°\msA</APP>
+		<NOTE>Underneath pāsamālādyaṃ, in the bottom margin, there is a marginal note that is largely broken off.  We can probably read the word śiṣyam, which is followed by 3 or 4 further akṣaras that are now illegible. </NOTE>
+% \msA, f. 49v (49b in arabic numerals)
+<TEXT>pūrvavat pūjitaṃ kṛtvā pāśān{ }asya viśodhayet ||</TEXT>
+<APP> \vd <LEM>pāśān</LEM> \emend; pāsān \msA</APP>
+<TR>Using a blade of kuśa-grass, he renders the garland of cords and so forth [in which the disciple’s soul is installed] such that they flow along the same central tube [as the disciple and the guru], worships it as before and purifies his bonds.</TR>
+
+
+[3.52]
+<TEXT>eke sādhāraṇās teṣām anye ’sādhāraṇāḥ sthitāḥ |</TEXT>
+<APP> \vb<LEM>’sādhāraṇāḥ sthitāḥ</LEM> \emend; ’sādhāraṇā sthitā \msA</APP>
+<TEXT>tathobhayātmakāḥ kecid{ }bahir{ }antar{ }vikalpaśaḥ ||</TEXT>
+<APP> \vc <LEM>tathobhayātmakāḥ</LEM> \emend; tathobhayātmakā \msA</APP>
+<APP> \vd <LEM>vikalpaśaḥ</LEM> \emend; vikalpasa\lac\ \msA</APP>
+
+<TR>Some of these [bonds] are common[ly experienced]; others are not common[ly experienced]. [Yet] others are of both types [simultaneously], according to whether they are external or internal.</TR>
+
+
+[3.53]
+<TEXT>kalāḥ sādhāraṇaḥ pāśaḥ karmāsādhāraṇaḥ smṛtaḥ |</TEXT>
+<APP> \va <LEM>pāśaḥ</LEM> \emend; pāsaḥ \msA</APP>
+<TEXT>dvisvabhāvo malaś ceti śivaśaktibaleritaḥ ||</TEXT>
+<APP> \vd <LEM>śivaśakti°</LEM> \emend; śivasakti° \msA</APP>
+<TR>The [evolutes of Māyā known as] Kalā [and the rest] are  a common[ly experienced bond]; karman is held to be an uncommon one; and Mala is of both natures, [in accordance with whether or not it is] impelled [to be active] by the power of Śiva's Śakti.</TR>
+
+[3.54]
+<TEXT>bhogyabhojakabhāvena sa bahirbhāvam āgataḥ |</TEXT>
+(49v3)
+<TEXT>bhogasya sādhanatvena cetanāyatanatvataḥ ||</TEXT>
+<TR>It comes to outward expression in accordance whether or not there is a relation of experienced and experiencer, because it is a causal factor in experience, since it attaches itself to sentient [souls].</TR>
+
+RETHINK !!
+
+[3.55]
+<TEXT>tatvāni bhuvanatvena pariṇāmakramaṃ vinā |</TEXT>
+<TEXT>prāptāny etarhi bhogāni sarvasādhāraṇāny{ }api ||</TEXT>
+
+[3.56]
+<TEXT>mantrāḥ padāni varṇṇāś ca bhoktṛbhogyasya bhojakāḥ |</TEXT>
+<APP> \va <LEM>mantrāḥ</LEM> \emend; mantrā \msA</APP>
+<TEXT>bhogyecchayā citau karmabhogo mantrāgnisādhitaḥ ||</TEXT>
+<APP> \vc <LEM>bhogyecchayā</LEM> \msApc; bhogyacchāyā \msAac</APP>
+% mantrāgniśodhitaḥ is what Alexis first transcribed
+
+% śodhitaḥ might be an accidental mistranscription by Alexis, but it might be correct
+
+<TR>Mantras, words [of the vyomavyāpi], syllables cause the experience of what must be experienced by the experiencer. The experience of past actions is accomplished by mantras and fire in the pyre because of [the experiencer’s] desire for objects of experience.</TR>
+
+[3.57]
+<TEXT>tasya cāyatanaṃ kāryaṃ sādhanaṃ karaṇāni ca |</TEXT> (49v5)
+<TEXT>nimittañ{ }ca paśutvasya pariṇāmas{ }tathāvidhaḥ ||</TEXT>
+
+% At least the 2nd half of the above can be translated:
+
+
+[3.58]
+<TEXT>ity{ }ālocya dhiyā sarvam{ }āgamānugṛhītayā |</TEXT>
+<TEXT>kuryād{ }ekatamāṃ dīkṣām{ }anugrāhyavyapekṣayā ||</TEXT>
+%(end of 49v)%
+<TR>Bearing all of this in one’s mind, which has received the grace of scripture, one should perform one of the various types of initation, [choosing the type] with regard to the type of person who is to receive grace.</TR>
+
+[3.59] (50r1)
+% \msA, f.50b
+<TEXT>kāmikī śivadharmeṇa laukikena ca raṃjitā |</TEXT>
+<TEXT>ekānekādhvavicchedaśodhanī turyadhā smṛtā ||</TEXT>
+
+<TR>[Initiation that is] for obtaining [pre-liberation] desires (<foreign>kāmikī</foreign>) is inflected (<foreign>rañjitā</foreign>) as Śivadharma-type and Lokadharma-type.
+[Initiation generally] is one (ekā), [even though] it purifies by cutting [bonds] on [any one of] several cosmic paths; it is held to be fourfold [if we include also the two naiṣthika types].</TR>
+
+[3.60]
+<TEXT>nirbījeti sabījeti naiṣṭhikā dviprakārikā |</TEXT>
+<TEXT>pratisaṃskāryabhedena yo bhedena sa ucyate ||</TEXT>
+
+<TR>The naiṣṭhika type [of initiation] is of two kinds, known as Seedless and Seeded. In accordance with the various [types of] persons who are to be purified, ???? </TR>
+
+
+[3.61]
+<TEXT>aśaivam aśubhaṃ karma śodhyate na śubhaṃ yayā |</TEXT>
+<APP> \va <LEM>aśaivam</LEM> \emend; asaivam \msA</APP>
+<TEXT>lokadharmīti sā jñeyā tadvac chaivam athetarā ||</TEXT>
+<TR>That [initiation] by which the impure, bad karman is purified,
+but not the pure [karman], is to be understood to be the Lokadharmī. Now the other one [namely Śivadharmī, is that by which] pure (śaivam) [karman] similarly [is purified].</TR>
+
+
+[3.62]
+<TEXT>tatvaprakṛṣṭabhogaṃ vā bhuvanaṃ rakṣyate yayā |</TEXT>
+<TEXT>ekaṃ cānekasaṃkhyaṃ vā dīkṣāsau tadviśeṣaṇā ||</TEXT>
+
+<TR>That by which optionally some world, either one or many, is protected in which there is excellent experience in a certain tattva, such an initiation is [known by a name that is] qualified by that [tattva or world].</TR>
+
+<NOTE>
+	Perhaps we should emend to tattvaṃ prakṛṣṭabhogaṃ vā, so that we could then understand tattvaṃ vā bhuvanaṃ vā. In other words, this might be about a dīkṣā that leads the initiate only to one or many tattvas or one or many bhuvanas in which there are excellent enjoyments to be had.
+</NOTE>
+
+[3.63]
+<TEXT>sācārāḥ samayā bījaṃ tatsahāyā sabījikā |</TEXT>
+<APP> \va <LEM>sācārāḥ</LEM> \emend; sācārā \msA</APP>
+<APP> \vb <LEM>tatsahāyā sabījikā</LEM> \conj\ Sanderson;
+tatsahāyāḥ sabījikām \msA</APP>
+<TEXT>nirbījā tena nirmuktā mantrāgnipluṣṭavarccasā ||</TEXT>
+
+<TR>The “seed” [here] means the [post-initiatory] rules, together with codes of conduct. The “seeded” [type of initiation] is accompanied by that [“seed”]. The “seedless” [type of initiation] is free of that [“seed”] because of its force being consumed in the fire of mantras.
+</TR>
+
+[3.64]
+<TEXT>prastutasyādhvano mūlam{ }athāśritya dvijanmanaḥ |</TEXT>
+<TEXT>prāpaṇāyepsitaṃ sthānaṃ tadbhogyāṃśaṃ vicintayet ||</TEXT>
+<APP> \vd <LEM>tadbhogyāṃśaṃ</LEM> \emend; tadbhogyāṃsaṃ \msA</APP>
+
+<TR>Next (atha), after focussing on/ resorting to (āśritya) the base (mūlam) of the path that is chosen [from among the six possible cosmic paths], in order to cause the brahmin (?) to reach the place [in the cosmos] that he desires, one should meditate upon the particular portion [of the path] that he is intended to experience.</TR>
+
+<NOTE>We are particularly uncertain about dvijanmanaḥ here. Does Brahmaśambhu consider that each initiand becomes ritually speaking a brahmin in the course of the ritual because of the rite of dvijatvāpādana ?</NOTE>
+
+%%19.2.2021
+[3.65]
+<TEXT>mārggāntarakalāgarbhaṃ samakālaṃ sajanmanā |</TEXT>
+<TEXT>pariṇāmaṃ vicitreṇa gamitaṃ karmmaṇā yathā ||</TEXT>
+
+<TR>[That place (sthānam)], which simultaneously (samakālam) contains the divisions of the other cosmic paths (mārgāntarakalāgarbham), is
+	caused to reach (gamitam) a state of transformation (pariṇāmam) by the various (vicitreṇa) fruits of past actions (karmaṇā), along with the births [that that karman entails] (sajanmanā). [The corresponding divisions of the other paths are] as follows (yathā):</TR>
+
+<NOTE>The interpretation is uncertain.</NOTE>
+
+[3.66]
+<Text>dharātatvaṃ kavarṇṇañ{ }ca viṃśaty{ }aṣṭau padāni ca |</Text>
+<TEXT>mantrau dvāv{ }ekaṣaṣṭyūnaṃ bhuvanānāṃ śatadvayam ||</TEXT>
+<APP> \vc <LEM>ekaṣaṣṭyūnaṃ</LEM> \conj; ekaṣaṣṭyonnaṃ \msA</APP>
+
+<TR>The tattva of Earth [in the tattvādhvan], and the sound KA [in the varṇādhvan], and [the first] twenty-eight words [in the padādhvan], [the first] two mantras [in the mantrādhvan], [and the first] one hundred and thirty-nine worlds [literally: two hundred minus sixty-one].</TR>
+<NOTE>CHECK parallels for these correspondances !</NOTE>
+
+% \msA, f.50v
+
+
+[3.67]
+<TEXT>avalokya nivṛttau tāṃ bhittvā cānupaviśya ca |</TEXT>
+<APP> \vb <LEM>bhittvā cānupaviśya</LEM> \emend;
+	bhitvā cānupavisya \msA</APP>
+<TEXT>gṛhītvā sthāpayed{ }vahnau śivaśaktim{ }iti smaran || </TEXT>
+%(50v2)
+
+<TR>Seeing [the above divisions of the other cosmic paths] inside [the kalā called] Nivṛtti, one should cut that [kalā off from the thread on which the cosmos and the initiand's soul have been laid] and, without sitting down (anupaviśya), he should take hold of it and place it in the fire, thinking [of it] as (iti) Śivaśakti.</TR>
+
+<NOTE>The interpretation is tentative, and we are not sure about whether what is placed in the fire is thought to be Śivaśakti (or Śiva and Śakti), or whether it is the fire that is to be thought of as Śivaśakti. This last option is suggested by the feminines in the next verse.</NOTE>
+
+[3.68]
+<TEXT>arccitāyām{ }atas{ }tasyāṃ tarppitāyāñ{ }ca sarppiṣā |</TEXT>
+<TEXT>pañcakenāhutīnāṃ tu saṃskuryād{ }yojanaṃ paśum ||</TEXT>
+
+<TR>Next (ataḥ), in that [fire identified as Śivaśakti] which has been worshipped and satisfied with ghee, one should complete/perfect the joining of the soul (paśum) [with the next level of the cosmos] by means of a pentad of oblations.</TR>
+
+<NOTE>The above tentative interpretation presupposes that saṃskuryāt takes a double accusative and governs both yojanam and paśum.  Alternatively, perhaps one could emend paśum to paśoḥ.
+	Cf. Check SP, III, pp.~281-285.</NOTE>
+
+[3.69]
+<TEXT>nirūpyas{ }tatra dehastham{ }eṣyabhogābhilāṣiṇaḥ |</TEXT>
+<TEXT>tāḍitaṃ trastam{ }utkṛṣṭaṃ saṃhṛtaṃ mudrayā tayā ||</TEXT>
+
+[3.70]
+<TEXT>gṛhītvā śaktisaṃlīnaṃ jyeṣṭhāyogapravāhayā |</TEXT>
+<TEXT>tasyā viyuktam{ }ānī(50v4)taṃ viśrānta svahṛdaṃvuje || 70 ||</TEXT>
+%% Alexis' text had svahṛdaṃ vrajet
+
+[3.71]
+<TEXT>mūrttimantrāṇudehasthaṃ sphuradvahnikaṇopamam |</TEXT>
+<TEXT>nītvāntaṃ bhāvayan śaktau keśeśānasadāśivān ||</TEXT>
+<APP> \vd <LEM>keśeśāna°</LEM> \emend; keśesāna° \msA</APP>
+
+[3.72]
+<TEXT>tato ’pi viśvarūpiṇyāṃ nānāyoniṣu saṃgatam |</TEXT>
+<TEXT>vāmayā vāmamārgeṇa kuryād{ }udbhavamudrayā ||</TEXT>
+
+[3.73]
+<TEXT>jyeṣṭhā vāmā ca raudrī ca śaktayo ’mūś śivasya hi |</TEXT>
+% \msA, f.51a
+<TEXT>viyoge yoga uddhāre vihanyante na kutracit ||</TEXT>
+
+<TR>Jyeṣṭhā, Vāmā, Raudrī.  These are the three Powers of Śiva, as is well known (hi). [They act respectively] in disjoining, in joining, in lifing up.  They cannot be opposed/vanquished in any situation.</TR>
+
+%%26.2.2021
+[3.74]
+<TEXT>amuṣya trāsanād yasya karmasantānakasya hi |</TEXT>
+<TEXT>dīptisaṃjananārthan tu juhuyād viṣa(51r2)yāhutī ||</TEXT>
+
+[3.75]
+<TEXT>bhogayoniṣu sarvāsu prakāśaguṇasampadā |</TEXT>
+<TEXT>ādadhyad dhṛdayeneṣṭvā hutvā cāhutipañcakam ||</TEXT>
+
+[3.76]
+<TEXT>napuṃstvaniyamau bhoktur ākṛtyaṃ(51r3)tarasambhavāt |</TEXT>
+<TEXT>na ca sīmantasaṃkalpe vaicitryā<t> karmaṇāṃ gate ||</TEXT>
+
+[3.77]
+<TEXT>yoner niṣkramaṇaṃ janma garbhamohaphalakṣaye |</TEXT>
+<TEXT>bahirviṣayabhogeṣu pravṛtte(51r4)r hetutātmanaḥ ||</TEXT>
+
+[3.78]
+<TEXT>paṭubhāvo kṣavarggasya viṣayagrahaṇaṃ prati |</TEXT>
+<TEXT>yathāsvam adhikāro tra tyāgopādānagocaraḥ ||</TEXT>
+
+[3.79]
+<TEXT>mohaduḥkhamukhacchāye mahati pratibiṃbinā |</TEXT>
+<TEXT>cidvyaktir ātmano bhogaḥ karmaṇāṃ kṣayakāraṇam ||</TEXT>
+
 % 526
-[3.80] abhedādhyavasāyo yo bhogyabhuktoḥ parasparam |
+[3.80]
+<TEXT>abhedādhyavasāyo yo bhogyabhuktoḥ parasparam |</TEXT>
 atyantam upa %end of 51r. The frame containing the next two folio sides (51v and 52r; = scan Brahmaśambhu.11, 2ab), is so badly overexposed that they are completely illegible.
 
 % 527
