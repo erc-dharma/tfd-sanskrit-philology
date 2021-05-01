@@ -134,178 +134,528 @@ he should not be a blowhard; he should not be the offspring of an ascetic and a 
 <PARAL>Marginal note on \skt{sarvvasiddhinidānāntaṃ}:
 \skt{1 sarvasiddhyādi īśvarasya viśeṣaṇam.}</PARAL>
 <TEXT>āvāhanavidhāv{ }asminn{ }īśvaraṃ kalpavṛkṣavat ||</TEXT>
+<APP>\vd <LEM></LEM>\emend;  \msA</APP>
 %%for this verse the ms gives a no 310!!!
 	<APP>\vc <LEM>asminn</LEM>\emend; asmin \msA</APP>
+	<APP>\vd <LEM>īśvaraṃ kalpavṛkṣavat</LEM>\emend; īsvaraṃ kalpavṛkṣavat || 310|| \msA</APP>
+
 	<TR>… he should cause to rise a [mantric] resonance, since that bestows all powers (\skt{sarvasiddhinidānāt}), and he should visualise (\skt{kalpayet}) Īśvara there [in the \skt{maṇḍala}], in this rite of invitation, who is like a wish-fulfilling tree.</TR>
 	`<NOTE>We are uncertain of what is going on here.  Does he enunciate the Lord as \skt{nāda}?
-And is \skt{nāda} really said to be the one who bestows all \skt{siddhi}s? Or is it rather the Lord qua \skt{nāda} who bestows them? Note that Alexis originally transcribed \skt{sarvvasiddhinidānāntaṃ nādam}, which also seems palaeographically possible.</NOTE>`
+And is \skt{nāda} really said to be the one who bestows all \skt{siddhi}s? Or is it rather the Lord qua \skt{nāda} who bestows them? Note that Alexis originally transcribed \skt{sarvvasiddhinidānāntaṃ nādam}, which also seems palaeographically possible.
+The scribe has noted “310” at this point, presumably a counter to indicate how many 32-syllable units he has copied thus far. (Further attention to this phenomenon throughout the manuscript required !!!)</NOTE>`
 
 %%19.6.2019
 %%[4.11]
-<TEXT>śivam iṣṭvā yathāpūrvvaṃ santarpya ca śivānalam |<TEXT>
-<TEXT>upanīya bali<ṃ> cāntar ity adhyeṣya ca śaṅkaram ||</TEXT>
+<TEXT>śivam{ }iṣṭvā yathāpūrvvaṃ santarpya ca śivānalam |<TEXT>
+<TEXT>upanīya baliṃ cāntar{ }ity{ }adhyeṣya ca śaṅkaram ||</TEXT>
+<APP>\vc <LEM>baliṃ</LEM> \emend\ Sanderson;  bali \msA</APP>
+
+<TR>One should worship Śiva as before, then satiate the Śiva-fire, then bring the internal <foreign>bali</foreign>-offerings, then inform Śiva [of his intentions] in this manner (<foreign>iti</foreign>): </TR>
+
 
 %%[4.12]
-<TEXT>anudhyātas tvayaivaiṣa dīkṣitaś ca maheśvara |</TEXT>
-<TEXT>jananyā kāmitārthānāṃ dīkṣayā yogya(67r3)tāvaśāt ||</TEXT>
+<TEXT>anudhyātas{ }tvayaivaiṣa dīkṣitaś{ }ca maheśvara |</TEXT>
+<APP> \va <LEM>tvayaivaiṣa</LEM> \emend;
+tvayaiveṣa \msA</APP>
+<APP> \vb <LEM>maheśvara</LEM> \msApc;
+ maheśvaraḥ \msAac</APP>
+<TEXT>jananyā kāmitārthānāṃ dīkṣayā yogyatāvaśāt ||</TEXT>
+<APP> \vd <LEM>yogyatāvaśāt</LEM> \emend;
+ yogyatāvasāt \msA</APP>
+<TR>I here (<foreign>eṣa</foreign>) have been approved by you, O Lord, and am initiated by means of an initiation that gives rise to (<foreign>jananyā</foreign>) [the attainment] of desired goals, because of my suitability.</TR>
 
 %%[4.13]
-<TEXT>tad idānīm amuṃ dhīraṃ sādhyasiddhyartham udyatam |</TEXT>
-<APP>\vc <LEM>siddhyartham \corr </LEM>; sidhyartham A</APP>
+<TEXT>tad{ }idānīm{ }amuṃ dhīraṃ sādhyasiddhyartham{ }udyatam |</TEXT>
+<APP>\vc <LEM>siddhyartham{ }udyatam</LEM> \emend; sidhyarthamudyatam \msApc;
+sidhyarthamudyatām \msAac</APP>
 <TEXT>upasargganidānajñaṃ taccikitsāsu paṇḍitam ||</TEXT>
 
+<TR>Therefore (<foreign>tat</foreign>) now, using me as your locus/base (<foreign>mām adhiṣṭhāya</foreign>),
+  out of compassion (<foreign>kṛpayā</foreign>) give permission (<foreign>anujānīhi</foreign>) for making use (<foreign>pravṛttaye</foreign>) of his own [innate] greatness (<foreign>svamahimnaḥ</foreign>) to this steadfast person, who is ready for pursuing the attainment of desired goals, knowledgeable about the causes of troubles and well-versed in strategies for curing them.  [Please do so] after the ritual ablution over his head with water impregnated with a mantra.</TR>
+
 %%[4.14]
-<TEXT>kṛpayā mām adhiṣṭhāya svama(67r4)himnaḥ pravṛttaye |</TEXT>
-<TEXT>anujānīhi mantrāmbuśiraḥsekād anantaram ||</TEXT>
+<TEXT>kṛpayā mām{ }adhiṣṭhāya svamahimnaḥ pravṛttaye |</TEXT>
+<TEXT>anujānīhi mantrāmbuśiraḥsekād{ }anantaram ||</TEXT>
+%%(67r4)
+% See translation attached to above verse.
 
 %%[4.15]
 <TEXT>pratipanne śiveneti kila vijñāpya vastuni |</TEXT>
-<TEXT>kṛtanityakriyaṃ \?cā\?tha maṇḍa(67v5)lan taṃ praveśayet ||</TEXT>
+<TEXT>kṛtanityakriyaṃ cātha maṇḍalan{ }taṃ praveśayet ||</TEXT>
+
+<TR>Once this matter (<foreign>vastuni</foreign>) has presumably (<foreign>kila</foreign>) been understood (<foreign>pratipanne</foreign>) by Śiva, after informing [him] in this way (<foreign>iti</foreign>), one should then cause that [initiand], who has performed his regular obligatory rites, to enter the <foreign>maṇḍala</foreign>, once he has been caused to worship (<foreign>arccāpitam</foreign>) Śiva, along with his retinue and along with the fire-rites, as before. And one may also (<foreign>atha ca</foreign>) initiate other persons (<foreign>itaram</foreign>) [as long as they are] ones who have not erred in their rituals and conduct.</TR>
 
 %%[4.16]
-<TEXT>śivam arccāpitaṃ sāṅgaṃ sāgnikāryaṃ yathā purā |</TEXT>
+<TEXT>śivam{ }arccāpitaṃ sāṅgaṃ sāgnikāryaṃ yathā purā |</TEXT>
+<APP> \va <LEM>arccāpitaṃ</LEM> \conj;
+     arccārpitaṃ \msA</APP>
 <TEXT>aluptasatkriyācāraṃ dīkṣayitvātha cetaram ||</TEXT>
-<APP>\vc <LEM>cetaram</LEM>; Marg. note on \textit{cetaram}:
-\textit{5 itaraṃ ajñātaṃ dīkṣayitcā 'bhiṣecayet.}</APP>
+<APP>\vc <LEM>cetaram</LEM> \msApc(?);
+      cettaram \msAac.  There is a marginal note on <foreign>cetaram</foreign>:
+			<foreign>5 itaraṃ ajñātaṃ dīkṣayitvā 'bhiṣecayet</foreign></APP>
 
+%%14.08.2020
 %%[4.17]
-<TEXT>pūrvvasyām athavaiśānyā(67v1)m uttarasyām udagnate |</TEXT>
-<TEXT>maṇḍape hy abhiṣekākhye vitānoparimaṇḍite ||</TEXT>
+% \msA, f.(67v1) [67b in modern numeration]
+<TEXT>pūrvvasyām{ }athavaiśānyām{ }uttarasyām{ }udagnate |</TEXT>
+<TEXT>maṇḍape hy{ }abhiṣekākhye vitānoparimaṇḍite ||</TEXT>
+
+% Cf.\ Uttara-Kāmika 24: 29ff:
+%puurvasyaa.m vaatha vai"saanyaa.m pa"scimaayaa.m ca di"sy atha |
+%ma.n.dape saumyavaktre tu vitaanenopa"sobhitam || 29 ||
+%ardhahastocchraya.m tadvadyugaa"sra.m vedikaadvayam |
+%caturhastapravistaara.m dak.si.nottaradiggatam || 30 ||
+%svastikena caturdik.su ra~njita.m diiparaajitam |
+
+<TR>In the east, or the north-east, or the north in a pavilion that leans towards the north (?<foreign>udagnate</foreign>?), which is called the Consecration-bathed[-pavilion] (<foreign>abhiṣekākhye</foreign>), which is decorated with canopies above it, …</TR>
+<NOTE>The element udagnate is puzzling to us.  It seems clearly to be what the manuscript reads. Note that in the Uttara-Kāmika (124:29) it is interpreted as meaning “opening towards the north” (<foreign>saumyavaktre</foreign>), which is perhaps what is intended by <foreign>udagnate</foreign>.</NOTE>
 
 %%[4.18]
 <TEXT>arddhahastocchritaṃ tatra caturhastapravistṛtam |</TEXT>
-<TEXT>dakṣiṇottarasaṃsthānaṃ (67v2) yugāśraṃ vedikādvayam ||</TEXT>
+<TEXT>dakṣiṇottarasaṃsthānaṃ yugāśraṃ vedikādvayam ||</TEXT>
+
+<TR>There [inside the maṇḍapa there should be] two plinths (<foreign>vedikādvayam</foreign>) which are square, half a cubit high, four cubits across, oriented north-south. </TR>
 
 %%[4.19]
-<TEXT>akhaṇḍitamukhaiḥ sūtrair akṣatair atha vā yavai<ḥ> |</TEXT>
-<TEXT>nirvarttitacatuṣkoṇa<ṃ> rājitaṃ svastikena ca ||</TEXT>
+<TEXT>akhaṇḍitamukhaiḥ sūtrair{ }akṣatair{ }atha vā yavaiḥ |</TEXT>
+<APP> \vb <LEM>yavaiḥ</LEM> \emend;
+yavai \msA</APP>
+<TEXT>nirvarttitacatuṣkoṇaṃ rājitaṃ svastikena ca ||</TEXT>
+<APP> \vc <LEM>°koṇaṃ</LEM> \conj;
+°koṇa° \msA</APP>
+
+<TR>[The pair of plinths] is to have its four corners completed (<foreign>nirvartitacatuṣkoṇam</foreign>) with threads whose tips are not frayed (?<foreign>akhaṇḍitamukhaiḥ</foreign>), or with unhusked grains or with barley, and [it is to be] rendered bright (<foreign>rājitam</foreign>) with svastikas.</TR>
+
+<NOTE>Cf.\ Uttara-Kāmika 124: 31ab: svastikena caturdikṣu rañjitaṃ dīparājitam. </NOTE>
 
 %%[4.20]
-<TEXT>śrīparṇṇena viśāle(67v3)na nātyuccenāmalena ca |</TEXT>
-<TEXT>paṭṭenādhiṣṭhitaṃ kṛtvā pratyekaṃ madhyavarttina || 320 ||</TEXT>
+<TEXT>śrīparṇṇena viśālena nātyuccenāmalena ca |</TEXT>
+<TEXT>paṭṭenādhiṣṭhitaṃ kṛtvā pratyekaṃ madhyavarttinaḥ || 320 ||</TEXT>
+<APP> \va <LEM>madhyavarttinaḥ</LEM> \conj;
+     madhyavarttinām \msA</APP>
+%%%\var{madhyavarttinaḥ \conj : madhyavarttinām A}%
+
+<TR>For each [plinth] (<foreign>pratyekam</foreign>) one should make it surmounted by a broad plank (?)[made of the wood of] Śrīparṇa, which should not be too high and which should be without blemish.</TR>
+
+Somaśambhupaddhati III, śiṣyābhiṣekhavidhiḥ:
+yaagaalayaad di"sii"sasya racite snaanama.n.dape
+kuryaat karadvayaayaamaa.m vediim a.s.taa"ngulocchritaam         12
+"sripar.naadyaasane tatra vinyasyaanantam aasanam
+"si.sya.m nive"sya puurvaasyam sakaliik.rtya puujayet       13
+
+%%[4.21]
+<TEXT>nava pañcāthavā tatra sarvvadhānyopari sthitān |</TEXT>
+<TEXT>digvidikṣu pratiṣṭhāpya mṛnmayān{ }kalaśān{ }navān ||</TEXT>
+
+<NOTE>In the bottom margin of this folio there is a marginal note on the word \skt{tatra}:
+	<foreign>snānavedyāṃ brahmasthānād bahiḥ</foreign>.</NOTE>
+
+<TR>There [on those plinths?] he should place nine or five new pots made of clay [each] on top of [a heap made of] all [varieties of] grains in the cardinal and intermediate directions.</TR>
+
+[4.22]
+<TEXT>raktān kukṣimataś{ }cārudarśanān{ }kambukandharān |</TEXT>
+<APP> \va <LEM>raktān</LEM> \msApc;
+raktātan \msAac</APP>
+<TEXT>mandena kharapākena lāṃcchanaiś{ }cāpy{ }agarhitān ||</TEXT>
+
+<TR>[They should be] red, full-bellied, beautiful to look at, with necks like conches, faultless in respect of their slow and intense firing (<foreign>kharapākena</foreign>) and in respect of their [required] characteristics.</TR>
+<NOTE>The required characteristics might refer to the respective āyudhas of each of the Lokapālas, beginning with kuliśa/vajra for Indra in the east (cf. 4:31 below).</NOTE>
+
+[4.23]
+<TEXT>sarvvaratnauṣadhīgandhasanāthair{ }aṃśukasrutaiḥ |</TEXT>
+<APP> \vb <LEM>°srutaiḥ</LEM> \emend;
+ °śrutaiḥ \msA</APP>
+<TEXT>samudrayoṣidaṃbhobhir{ }āgalāvadhipūritān ||</TEXT>
+
+<TR>Filled up to their necks (<foreign>āgalāvadhipūritān</foreign>), with waters from the wives of the ocean [viz.\ the rivers] poured through fine cloth, which are accompanied by all manner of jewels, herbs, and fragrances. </TR>
+
+%%21.08.2020
+[4.24]
+<TEXT>sitacandanadigdhāṃgān{ }sitasraksūtravāsasaḥ |</TEXT>
+<APP> \va <LEM>°digdhāṅgān</LEM> \emend;
+       °digdhāṃgā \msA</APP>
+% f. 65a (modern numeration) [=f.68v] begins with °vāsasaḥ
+<TEXT>cūtāśvatthapalāśāsyān{ }bījapūraphalodvahān ||</TEXT>
+<APP> \vc <LEM>°palāśāsyān</LEM> \emend;
+     palāsāsyāṃ \msA</APP>
+
+<TR>[They should have] bodies smeared with white sandal, wearing white garlands, threads and clothing, their mouths filled with [sprouts of] mango, aśvattha and Dhak, holding citron/pomegranate fruits.</TR>
+<NOTE>The dictionaries consistently give <foreign>bījapūra</foreign> as “citron”, but in contemporary ritual practice in the South it may be understood instead to refer to pomegranates.  It is possible that the dictionaries need to be corrected on this point.</NOTE>
+
+[4.25]
+<TEXT>sadeśānena vidyeśair{ }nava pañca pavitrakaiḥ |
+<TEXT>sādhyamantroparaktāṃgair{ }anvitān{ }abhimantritān ||</TEXT>%
+
+<NOTE>There is a note in the lower marginal which reads: <foreign>1 tatra sāṃgasādhyamantramūlamantraśaktiś cātra pūjyaḥ</foreign>.</NOTE>
+
+<TR>They should have been recited over using [either] the nine [mantras of] Sadāśiva (<foreign>sadeśānena</foreign>) and the Vidyeśas, [or] using the five brahmamantras (<foreign>pavitrakaiḥ</foreign>), coloured in form [when visualised] in accordance with [whatever is] the [chosen] mantra that is to be propitiated.
+</TR>
+<NOTE>We have assumed the literal sense of \skt{uparakta}, supposing that the colour of these mantra-deities is harmonised with the colour of the sādhyamantra, but it is possible that the mantras themselves are in some way “coloured”, in other words inflected to accord with the sādhyamantra.
+As for the optionality regarding the use of the nine mantras (Sadāśiva and the 8 Vidyeśas) or the five brahmamantras, this is made explicit in the modified version of this verse given in the Uttara-Kāmika. </NOTE>
+
+Note that in the modified account of ācāryābhiṣeka in Uttara-Kāmika 24 there is no reference to the inflection of the colours in accordance with the sādhyamantra, which suggests deliberate modification to reduce the importance of siddhi-seeking:
+navadhaa pa~ncadhaa vaapi sarvadhaanyoparisthitaan |
+gha.taan vaa kala"saan vaatha sakuurcaan saapidhaanakam || 34 ||
+sa suutraan sodakaan gandharatnasvar.navaraanvitaan |
+cuutaa"svatthapalaa"saasyaan biijaapuuraphalaavahaan || 35 ||
+sade"saanena vidye"sai.h navapa~ncapavitrakai.h |
+pa~ncapak.se niv.rtyaadikalaabhistvabhimantrayet || 36 ||
+"sivena "satadhaalabdhaan puujitaan snapanocitaan |
+athavaa kala"saanekagha.ta.m vaa "sivasa.myutam || 37 ||
+dak.savedyaa.m tu sa.msthaapya saumyaayaa.m tu "si"su.m nyaset |
+bhadrapii.the "sivenaiva saa"ngenaadhi.s.tita.m yathaa || 38 ||
+
+<PARAL>Uttara-Kāmika: 24.36 sadeśānena vidyeśaiḥ nava pañca pavitrakaiḥ |
+pañcapakṣe nivṛttyādikalābhis tv abhimantrayet || 36 ||
+“They should be recited over using [either] the nine [mantras of] Sadāśiva (<foreign>sadeśānena</foreign>) and the Vidyeśas, [or] using the five brahmamantras.  In the version where there are five [pots], one should recite over them using the [five] kalās beginning with Nivṛtti.”
+</PARAL>
+
+%%15.10.2020
+[4.26]
+<TEXT>śivena śivaśaktyā ca pūjitān śivakumbhavat |</TEXT>
+<TEXT>ekaṃ vā navamaṃ yadvat kṛtvā ghaṭam alaṃkṛtam ||</TEXT>
+
+<TR>[The pots should all be] venerated with [the mantras of] Śiva and Śivaśakti, just like the <foreign>śivakumbha</foreign>. Optionally (<foreign>vā</foreign>), one may place one [extra pot], decorated just like the ninth [central one], [for the <foreign>sādhyamantra</foreign>] …
+</TR>
+%%
+
+[4.27]
+<TEXT>sādhyamantrāsane pīṭhe ṣaḍutthaṃ vā śivāsanam |</TEXT>
+<TEXT>vinyaset sarvasiddhīnāṃ avighnaprasavāspadam ||</TEXT>
+<APP>There is a marginal note after <foreign>prasavāspadam</foreign>: <foreign>3 āsanaṃ</foreign>. The “3” simply indicates the  number of the line on which the commented expression occurs, and the word <foreign>āsanam</foreign> seems to be a gloss of <foreign>āspadam</foreign>. </APP>
+For the saadhyamantraasana, cf. Svāyambhuvasūtrasaṅgraha 16:34:
+tata.h puurvoktavidhinaa saadhyamantraasane sthitam|
+tantraarthaj~na.m jitakrodha.m saadhaka.m hyabhi.secayet|| 34||
+<TR>[The <foreign>sādhyamantra</foreign> is to be placed] on a throne [that consists in the mantra] that is the seat for the <foreign>sādhyamantra</foreign>. Alternatively one should set down the [basic] Śiva-throne [known as] the one arising from six [elements], which is a seat of success without obstacle in the case of all manner of special powers.</TR>
+
+<NOTE>We imagine that this means that, if the <foreign>sādhyamantra</foreign> has its own <foreign>āsanamantra</foreign>, then you use that as a seat. If not, you use the standard abbreviated Śiva throne that consists only of the six most essential elements, namely Ādhāraśakti, Dharma, Jñāna, Vairāgya, Aiśvarya and Ananta [CHECK!].
+Note that in the parallel in the Uttara-Kāmika (24.38), everything related to the <foreign>sādhyamantra</foreign> has been removed.</NOTE>
+
+%%\msA, 68v1 = (65a in modern Arabic numeration) starts with °sarāvakaiḥ
+%%(68r4)
+[4.28]
+<TEXT>tathā dakṣiṇavedisthaṃ vidikdīpaprabhojvalam ||</TEXT>
+<TEXT>siddhārthākṣatalājāntaṃ dadhidūrvvāṃkurācitam |</TEXT>
+
+<TR>And (tathā) it [the throne and pot in which the <foreign>sādhyamantra</foreign> is installed] should be placed on a platform in the south [of the ritual enclosure], illuminated with the light of lamps placed [all around it] in the intermediate directions. It (?) should be heaped with curd (?) and sprouts of <foreign>dūrvā</foreign> grass, topped with (?<foreign>°antam</foreign>) mustard seeds, unbroken rice and parched grain. </TR>
+
+<NOTE>We are not sure about the second half of the above verse. Perhaps these substances are instead meant to be used in an oblation?  Perhaps the whole verse should be instead understood as follows: “And [one should also place] a heap (ācitam) of sprouts of <foreign>dūrvā</foreign> grass, topped with (?<foreign>°antam</foreign>) mustard seeds, unbroken rice and parched grain, on a platform in the south [of the ritual enclosure], illuminated with the light of lamps placed [all around it] in the intermediate directions.” It is possible that these substances are to be heaped up in readiness for rubbing the initiand with them, as seems to happen in SP3 ācāryābhiṣeka 13c–14:
+"si.sya.m nive"sya puurvaasyam sakaliik.rtya puujayet       13
+kaa~ncikaudanam.rdbhasmaduurvaagomayagolakai.h
+siddhaarthadadhitoyai"s ca kuryaan nirmaarjana.m tata.h      14
+</NOTE>
+
+[4.29]
+<TEXT>abhisaṃdhāya hutvā ca japasaṃkhyam athānale ||</TEXT>%
+<APP>There is a marginal note apparently attached to <foreign>abhisaṃdhāya</foreign>, which reads: <foreign>kalaśān</foreign>.</APP>
+<TEXT>sādhakaṃ lagnam āsādya saumyapīṭhe niveśya ca |</TEXT>
+<TR>After joining [the pots and the disciple (?) to the fire by their central tubes], one should then perform oblations into the fire, as many times as one repeats [the mantra].
+And, when one has reached the [correct] juncture (<foreign>lagnam</foreign>), one should cause the <foreign>sādhaka</foreign> to be seated on a throne in the north [of the ritual enclosure].
+</TR>
+
+[4.30]
+<TEXT>sādhyamantratanuṃ śaktyā yuktaṃ kṛtvā śivena tu ||</TEXT>
+<APP> \va <LEM>sādhyamantratanuṃ śaktyā</LEM> \emend;
+ sāsādhyamantratanuṃ saktyā \msK\unmetrical</APP>
+<APP>There is a marginal note apparently attached to <foreign>śaktyā</foreign>, which reads: <foreign>mātṛkā</foreign>.</APP>
+<TEXT>sāṅgenādhiṣṭhitaṃ samyag{ }arcitaṃ vibhavena ca || 330 ||</TEXT>
+<TR>Once [that <foreign>sādhaka</foreign>] has as his body the <foreign>sādhyamantra</foreign>, one should join him with the Śakti [that is the alphabet deity <foreign>mātṛkā</foreign>(?)].
+Now (tu) when he is presided over [by having further installed on himself] Śiva, along with the aṅgamantras, and has been thoroughly worshipped, also with [offerings of] wealth…
+</TR>
+
+Uttara-Kāmika: 24.38-39:
+dak.savedyaa.m tu sa.msthaapya saumyaayaa.m tu "si"su.m nyaset |
+bhadrapii.the "sivenaiva saa"ngenaadhi.s.tita.m yathaa || 38 ||
+svaasanena tathaa samyak arcita.m vibhavena vaa |
+var.nabhakta"saraavaistu nirmajya vaa jalena vaa || 39 ||
+
+Īśānagurudevapaddhati (Vol. 3, p. 195 & p. 197)
+gururbījaśarāvacitramukhājñalikārakanāgakarṇābhinna...
+
+Somaśambhupaddhati Vol. 3, Ācāryābhiṣekha 13c–14:
+"si.sya.m nive"sya puurvaasyam sakaliik.rtya puujayet       13
+kaa~ncikaudanam.rdbhasmaduurvaagomayagolakai.h
+siddhaarthadadhitoyai"s ca kuryaan nirmarjana.m tata.h      14
+
+SvaT4:463ab: tatra ma.n.dalaka.m k.rtvaa svastikaadivibhuu.sitam|
+SvaT4:463cd: vitaanoparisa.mchanna.m dhvajai"sca pari"sobhitam|| 463||
+SvaT4:464ab: tatraasana.m nyaseddevi "sriipar.niicandanodbhavam|
+SvaT4:464cd: tatraanantaasana.m nyasya muurtibhuuta.m "si"su.m nyaset|| 464||
+SvaT4:465ab: puurvavatsakaliik.rtya ai"saanyabhimukha.m sthitam|
+SvaT4:465cd: gandhapu.spaadinaabhyarcya nirbhartsya.h kaa~ncikaudanai.h|| 465||
+SvaT4:466ab: m.rdbhasmagomayai.h pi.n.dairduurvaa"nkurasamaa"sritai.h|
+SvaT4:466cd: siddhaarthadadhitoyai"sca niraajanasamanvitai.h|| 466||
+SvaT4:467ab: nirbhartsyaiva.m vidhaanena abhi.seka.m pradaapayet|
+SvaT4:467cd: p.rthivyaadigha.taasyairvaa dhaamaanusm.rtya secayet|| 467||
+SvaT4:468ab: kramaaddhyaatvaa kala"se.su aacaarya.h susamaahita.h|
+SvaT4:468cd: abhi.sikto.anyavaasastu paridhaapyaacanettata.h|| 468||
+
+Cf. Kṣemarāja on this: kaa~ncikaadidravyapuur.nena kumbhenopari ni.h"se.saraajanaatmatayaa niiraajanaadidiipayuktena
+nirbhartsya.h pra"saantavighna.h "si"su.h kaarya ityartha.h ||
+
+%% \msA, 68v1 = (65b in modern Arabic numeration) starts with °sarāvakaiḥ
+%%23.10.2020
+%%18.12.2020
+[4.31]
+<TEXT>kuliśādibhir{ }aṣṭābhir{ }varṇṇabhaktaśarāvakaiḥ |</TEXT>
+<APP> \va<LEM>kuliśādibhir{ }aṣṭābhir</LEM> \emend;
+kulisādibhiraṣṭābhi \msA</APP>
+<APP> \vb <LEM>śarāvakaiḥ</LEM> \emend;
+sarāvakaiḥ \msA</APP>
+<TEXT>triḥkṛtvo vāriṇā cāpi nirmatthya tadanantaram ||</TEXT>
+<NOTE>The nirmatthya could also be interpreted as nirmanthya or nirmacchya. Note also that in the Kāmika (24:39) we have nirmajya, and in SP3, ācāryābhiṣeka 14 we have nirmarjanaṃ tataḥ.
+In the Īśānaśivagurudevapaddhati vol. 3, p.195 we have ālipya and nirmathya
+Monier-Williams records nirmañcya as an absolutive from nirmañc meaning “to perform the ceremony of lustration”
+</NOTE>
+%%see long note on the term 'nirmārjana' (SP. III, ācāryābhiṣeka:14d) in Brunner
+%%(SP, III. pp. 474-476)
+%%varṇabhaktaśarāvakai.h - NOT CLEAR!!!
+
+%%śarāva - a type of pots
+<TR>Using the eight pots/dishes (śarāva) of cooked-rice known as varṇa (?) beginning with the thunderbolt (??)
+	He should rub him (nirmanthya) three times, also with water ??, after that.</TR>
+
+	<NOTE>Almost nothing understood here in December 2020!!!</NOTE>
+
+[4.32]
+<TEXT>praśastadhvaninirghoṣair{ }apraśastāṃs{ }tirodadhat |</TEXT>
+		<APP> \vb <LEM>apraśastāṃs</LEM> \conj; apraśastāṃ \msA</APP>
+<TEXT>nayena kalaśānīkam utkṣipya paripāṭitaḥ ||</TEXT>
+<NOTE>In the bottom margin, there is a note that appears to be intended to be a gloss of <foreign>nayena</foreign>, which reads <foreign>1 sṛṣṭikrameṇa</foreign>. In context, does this mean taking the pots or dishes of rice from the centre first and then from outer circuits?</NOTE>
+%%\tika{Marg. .note before \textit{nayena}: \textit{1 sṛṣṭikrameṇa}. }%
+
+<TR>Blocking (tirodadhat) inauspicious [sounds] (apraśastān) by making resonate auspicious sounds, he inverts (utkṣipya) in due order (paripāṭitaḥ) the army of pots in the correct order [of emanation] (nayena).</TR>
+
+[4.33]
+<TEXT>tan{ }tan{ }mantraṃ samuccārya śaktau kṛtvā tayāpi ca |</TEXT>
+		<APP> \vb <LEM>śaktau</LEM> \emend; saktau \msA</APP>
+<NOTE>Marg. note before \textit{kṛtvā}: \textit{2 śaktyantaṃ}.</NOTE>
+<TEXT>kṣubdhayāmṛtarūpeṇa niṣṭḥūtaṃ kalaśe smaret ||</TEXT>
+<NOTE>Marg. note after \textit{niṣṭḥūtaṃ}: \textit{3 udvamantaṃ}</NOTE>
+
+<LEM>Uttering the respective mantras [of each dish ?], he should place (kṛtvā?)…
+
+and he should visualise (smaret) in the pot that which has been expectorated (niṣṭhūtam) in the form of nectar by that same [śakti] when she has been shaken.</LEM>
+
+<NOTE>All very unclear in December 2020.</NOTE>
+%%IGP, Vol. III, p. 195 (also refd by Brunner, III, p. 473)
+%%ma.n.dapaad dak.si.nata.h k.rtapadme audumbara.m "sriipar.nika.m vaa bhadraasana.m %%sad.r"sena vastre.naastiir.na.m vinyasya tasmin gaayatriijapapara.m tasminnanantaasana %%upave"sya "sa"nkhapa.tahaadima"ngalavaadyagiitadhvanibhiryathaa dik.su braahma.nai.h %%pa.thyamaanavedagho.sai"sca tirohitaanyadhvani sabiijadiik.saadiik.sitai.h prathamavar.nai.h %%.so.da"sabhira.s.tabhirva muurtidharai.h sahito %%gururbiija"saravacitramukhaa~njalikaarakanaagakar.naabhinnapu.tolkaabhi.h "si.sya.m tadanu %%puurvoltaabhi.h m.rdbhistanmantre.na sarvaa"ngamaalipya tata.h %%pa~ncagavyabilvapadmakesarapriya"ngucuur.nai"scaathaa"svatthodumbaraplak.savatavbilvakkathita%%ka.saayodakena p.rthakkala"sasthaapitena prathamamabhi.sicya prak.saalya %%dhuupaantamabhyarcya sakaliik.rtya vidye"svarakala"sais tattanmantrairabhi.sicya %%dhuupaantamabhyarcya tata.h .so.da"sa"sa"nkhaistathaivaabhi.sicya dhuupaantamabhyarcya , %%tata.h "sivakala"sena muurtya"ngamuulajapitenaabhi.si~ncan savidyaavidye"svarasya %%bindvaadikramotyadyamaanamuulaa"ngaadisamastamantrasahitasya sarvaj~natvaadigu.na( yukta ? ) %%sahitasya s.r.s.tikrame.na su.sumnayaa "si.syah.rdaye prave"savyaapti.m ca "sivasya %%bhaavayet /
+
+[4.34]
+<TEXT>sitaśītormisaṃhatyā varṣantaṃ tam api drutam |</TEXT>
+    <APP> \va <LEM>sitaśītormi°</LEM> \emend; sitasītormi° \msA</APP>
+		<APP> \vb <LEM>varṣantaṃ</LEM> \emend; varṣanta \msA</APP>
+<TEXT>recayet kalaśaṃ mūrdhni sādhakasyendubimbavat ||</TEXT>
+
+<TR>And (api) one should quickly (drutam) empty out (recayet) that pot (tam… kalaśam), which, like the orb of the moon [raining down nectar], rains down (varṣantaṃ) with a concentration of white cool waves (sitaśītormisaṃhatyā), on to the head of the [disciple, who is now a] sādhaka.</TR>
+
+[4.35]
+<TEXT>ekena vā ghaṭenātha secayet kambunātha vā |</TEXT>
+		<NOTE>Marg. note on kambunā: saṃkhena.</NOTE>
+<TEXT>padmapatrapuṭenātha brahmavṛkṣapuṭena vā ||</TEXT>
+		<NOTE>\textit{brahmavṛkṣaḥ}: Butea Frondosa or Ficus Glomerata.</NOTE>
+<TR>Optionally one may pour the water from a single pot, or from a conch, or from a vessel of lotus leaves, or from a vessel of palāśa leaves.</TR>
+
+[4.36]
+<TEXT>amṛtaṃ toyam{ }ādhāraḥ śaktis{ }tasya ca kuṇḍalī |</TEXT>
+		<APP> \vb <LEM>śaktis</LEM> \emend; saktis \msA</APP>
+<TEXT>abhiṣektā śivo yasmād{ }abhiṣecyas{ }tu pudgalaḥ ||</TEXT>
+		<APP> \vb <LEM>abhiṣektā</LEM> \emend; abhiṣiktā A
+%%\var{abhiṣektā \eme (= T) : abhiṣiktā A}%
+<NOTE>Testimonium: quotation of 4.36, with attribution to Brahmaśambhu, in ĪŚGDP KP p. 188, 12--14.</NOTE>
+<TR>The water is nectar; the receptacle for it is Kuṇḍalī Śakti; the one who pours the water from that (yasmāt) is Śiva; the one who receives the inundation is the soul.
+</TR>
+<!--
+%%ISGP_KP_19_008ab /.  dadhigomayasiddhaarthaduurvaacandanapa"nkajai.h /
+%%ISGP_KP_19_008cd /.  valmiikam.rtsnaarak.saabhirnirm.rjya salilaaplitai.h //
+%%ISGP_KP_19_009ab /.  dhuupaantamaabhipuujyaina.m kala"sairabhi.secayet /
+%%ISGP_KP_19_009cd /.  anantaadiniv.rttyaadikramaat tanmantrayojitai.h //
+%%ISGP_KP_19_010ab /.  parasravatsudhaadhaaramaikyenaasya su.sumnayaa /
+%%ISGP_KP_19_010cd /.  paataya.m"scintayet tattanmantramuurtiprave"sanam //
+%%ISGP_KP_19_011ab /.  paramaam.rtavi.syandak.saalitaa"se.sakalma.sam /
+%%ISGP_KP_19_011cd /.  taddh.rdambhojacidvyaaptaa.m mantramuurti ca bhaavayet //
 %
-		\var{madhyavarttinaḥ \conj : madhyavarttinām A}%
+%%atra brahma"sambhu.h -
+%%`` am.rta.m toyamaadhaata.h "saktistasya tu ku.n.dalii /
+%%abhi.sektaa "sivo j~neya abhi.sicyastu pudgala.h //-->
+
+
+[4.37]
+<TEXT>tasmād{ }ādhāraḥ kāryo ’tra nātirikto yathārthataḥ |</TEXT>
+		<APP> \va <LEM>ādhāraḥ</LEM> \emend; ādhāra \msA</APP>
+<TEXT>vibhūtau tuṣṭaye ’ṇūnāṃ sa tathoktaḥ svayaṃbhuvā ||</TEXT>
+
+[4.38]
+<TEXT>aṅgalagnañ ca yat kiñcit{ }saṃsiktaṃ sekavāriṇā |</TEXT>
+		<APP> \va <LEM>kiñcit</LEM> \conj\ \auth{Sanderson}; kit \msA\unmetrical</APP>
+		<APP> \vb <LEM>seka°</LEM> \emend; śeka° \msA</APP>
+<TEXT>tatra taṃ tyājayitvā tu prayataṃ susamāhitam ||</TEXT>
+% \msA, f.69r (=69a in modern numeration)
+<TR> [The guru] should cause [the disciple], who is purified in readiness (prayatam) and fully concentrated (susamāhitam), to abandon (tyājayitvā) whatever thing was in contact with the [disciple’s] body and became sprinkled by the water of the inundation.</TR>
+
+%%ms, 69A
+[4.39]
+<TEXT>pradakṣiṇam upāvarttya vedagītādiniḥsvanaiḥ |</TEXT>
+<TEXT>ānīya dakṣavedisthe pīṭhe tam upaveśayet ||</TEXT>
+		<APP> \vd <LEM>upaveśayet</LEM> \emend; upavesayet \msA</APP>
+
+<TR>Leading him back (upāvartya) in such a way as to circumambulate [the ritual space?] clockwise (pradakṣiṇam), he should lead him, to the accompaniment of the sounds of Vedic songs and so forth, and cause him to sit down upon the pedestal that is situated on the southern ritual platform.</TR>
+
+%%ms, 69A, 2nd line (12.3.2021)
+[4.40]
+<TEXT>pūrvvāmukhaṃ purā yadvad{ }gandhavastravibhūṣaṇaiḥ |</TEXT>
+<TEXT>puṣpadhūpopavītaiś{ }ca pūjayitvā pravarttayet || 340 ||</TEXT>
+<TR>[He should cause him to sit] facing east, as before. One should honour him with unguents, garments, ornaments, and with flowers, incense and sacred thread. He should perform .... (<foreign>pravartayet</foreign>)</TR>
+
+[4.41]
+<TEXT>ārātrikaṃ jvaladdīpaiḥ prabhūtaiḥ snehapūritaiḥ |</TEXT>
+<TEXT>satpātryāṃ nihitais{ }tasya dadhidūrvvākṣatārccitaiḥ |</TEXT>
+<TR>.... lustration with light (<skt>ārātrikam</skt>) with flaming lamps that are numerous and filled with oil and placed inside a satpātrī, adorned with curd, dūrvā, unbroken rice</TR>
+
+<NOTE>Cf. Jñānaratnāvalī (GOML MS, p.106), where 41–42b are quoted without attribution:
+	tathaa
+	aaraatrika.m jvaladdiipai.h prabhuutai.h snehapuuritai.h|
+	satpaatraannihitaistaistai.h dadhipuurvaak.sataarcitai.h||
+	triin vaaraantamanubhraamya "siitaambuculukatrayam| iti|
+
+(SAS) Note on ārātrikaṃ may be included; check SP/T notes...
+Some note on satpātrī should also be included. Presumably it could just be an alternative form (with the same meaning) of satpātra, “a good vessel”, in other words not one of clay.  Cf., on this point, Trilocana's Soma"sambhupaddhativyaakhyaa
+GOML, Chennai, Ms. No. R. 14735, p. 43 (p. 118 of draft edition)
+tathoktam --
+
+aaraatrikajvaladdiipai.h navapa~ncaa.s.tabhiryutam|
+sauvar.na.m raajata.m vaapi dadhiduurvaak.sataarcitam|
+
+atha uurdhvakrame.ne"sasannidhau ta.m "sanai"s"sanai.h
+triinvaaraantadanubhraamya "siitaambucuLakatrayamiti|
+</NOTE>
+
+[4.42]
+<TEXT>trīn{ }vārāṃs{ }tad{ }anubhrāmya śītāmbuculukatrayam |</TEXT>
+<APP> \va <LEM>trīn</LEM> trīṇi \msA</APP>
+<APP> \vb <LEM>culukatrayam</LEM> Attached to this word is a note in the lower margin that reads: nirmanthyaṃ</APP>
+%Marg. note on culukatrayam: nirmanthyaṃ.}%
+<TEXT>maṅgalāṣṭakam{ }etac{ }ca vandayed{ }anupūrvaśaḥ ||</TEXT>
+<APP> \vd <LEM>anupūrvaśaḥ</LEM> \emend; anupūrvasaḥ \msA</APP>
+<TR>One should wave it around three times, [followed by sipping/rubbing(?) with] three mouthfuls of cool water. This [following set] is the group of eigth auspicious things.  One should venerate (vandayet) [them] in due order:</TR>
+
+<NOTE>Perhaps sipping is not the idea that should be supplied. Note that the scribe has added in the lower margin the word nirmanthyam, which is marked with a crow's foot (kākapāda) and a 3.  (The word °culukatrayam is in the 3rd line and is also marked with a crow's foot.)  That suggests that the transmitter thought that the three mouthfuls or handfuls of water were to be rubbed on to something or someone.  Cf. <skt>jalais trivāram āveṣṭya</skt> in part of the following quotation in the Jñānaratnāvalī (GOML, p. 106):
+	aaraatrikaan samutthaarya giitavaadyaadima"ngalai.h||
+hemaruupyaadipaatrasthai.h "sa"nkhasthairvaa sugandhibhi.h|
+jalaistrivaaramaave.s.tya dadyaadaacamana.m h.rdaa||
+For the object of vandayet, see the passage quoted in the note to the next verse. As for the subject, perhaps it is the initiand who should “venerate” the eight things.
+</NOTE>
+
+
+[4.43]
+<TEXT>rocanā candanaṃ dūrvvā sumano dadhi pāyasam |</TEXT>
+<APP> \vb <LEM>sumano</LEM> Attached to this is a gloss in the lower margin that reads: puṣpa</APP>
+<TEXT>yavāḥ siddhārthakāś ceti sarvakāmārthasādhakam ||</TEXT>
+<APP> \vc <LEM>yavāḥ</LEM> \emend; yavā \msA</APP>
+
+<TR>Orpiment, sandal, dūrvā-grass, flowers, curd, milk-rice (pāyasam), barley-grains, and white mustard grains. [This group of eight auspicious substances] can accomplish all things that one may desire. </TR>
+%%
+
+<NOTE>Cf. Īśānagurudevapaddhati Vol. II, 19.12-14:
+	= CHECK?? %\testim{4.43abc = ĪŚGDP KP p. 188, 20--21.}%
+atra brahma"sambhu.h 
+ am.rta.m toyamaadhaara.h "saktistasya tu ku.n.dalii |
+ abhi.sektaa "sivo j~neya abhi.sicyastu pudgala.h ||
+iti | tata.h "si.sya.m parivartita"suklaambara.m prak.saalitapaa.nipaadamaacaanta.m devasya dak.si.navedyaa.m "sriipar.nyaadimaye parikalpitaanantaasane praa"nmukhamupave"sya bhuuta"suddhi.m vidhaayopaviitabhuu.sa.nagandha-pu.spairala"nk.rtya sakaliik.rtyaabhyarcyaaraatrika.m ca dadhiduurvaak.sataarcita.m trivaaramudbhraamya "siitaambuculukatraye.na ma"ngalaa.s.taka.m savandana.m spar"sayet | tacca
+rocanaa candana.m duurvaa.h sumano dadhi paayasam |
+yavaa.h siddhaarthakaa"sceti kathita.m ma"ngalaa.s.takam || 19-12 ||
+tata.h sa.myojayecchi.syamadhikaare.na saadhanai.h |
+ka.taka.m cottariiya.m ca chatra.m caamarapaaduke || 19-13 ||
+pustaka.m caak.sasuutra.m ca bh.r"ngaara.m yaanavaahane |
+anyacca raajacihna.m yat sarvamarhati saadhaka.h || 19-14 ||</NOTE>
+
+[4.44]
+<TEXT>pāduke yogapaṭṭañ{ }ca hy{ }akṣasūtraṃ kamaṇḍalum |</TEXT>
+<APP> \vb <LEM>°sūtraṃ</LEM> \conj; °sūtra° \msA</APP>
+<TEXT>svamantrasaṃhitājñānam{ }atha tasyopapādayet ||</TEXT>
+<TR>[The ācārya] should next give [to the initiate] sandals, a yoga-band, a rosary, a spouted water-pot, and knowledge of the collection of mantras belonging to his [chosen] mantra. </TR>
+%%12.03.2021
+
+<NOTE>The saṃhitāmantra might usually refer to the group of six or eleven central mantras of a given scripture. Since Brahmaśambhu follows the Dviśatikālottara, we would expect this to the group of six formed by the śiva mantra and the principal 5 aṅgamantras (excluding netra).  But here, the sādhaka might have chosen some other sādhyamantra, which would then come with its own set of central auxiliary mantras.
+</NOTE>
+
+[4.45]
+<TEXT>savyahastena saṃgṛhya dakṣiṇaṃ karapallavam |</TEXT>
+<TEXT>utthāpya ca śanair{ }nītvā yajñavāsaṃ praveśya ca ||</TEXT>
+<APP> \vc <LEM>śanair </LEM> \emend; sanair \msA</APP>
+<APP> \vd <LEM>praveśya</LEM> \emend; pravesya \msA</APP>
+
+<TR>With his left hand (<skt>savyahastena</skt>) [the guru] should take the soft right hand (<skt>karapallavam</skt>) and, getting up slowly, he leads him to the sacrificial enclosure and enters.</TR>
+<NOTE>tasya savyakaraṃ savyapāṇinā gṛhya deśika.h |
+sapradakṣiṇamādāya yāgasadmani yojayet || (Jānaratnāvalī, GOML, Ms, P. 000; quoted by Brunner, 4vol, p.418 as a quote from dīkṣādarśa!!!);
+see also Mṛgendra, Kriyā, 8:200-204.
+Perhaps the use of the poetic expression <skt>karapallavam</skt> is meant to emphasise that the disciple is expected to be relatively young.
+<NOTE>
+
+\msA, f. 69b
+%%%ms, 69B (from yajñavāsaṃ praveśya ca)
+
+[4.46]
+<TEXT>kārayitvā ca triḥkṛtvo maṇḍalasya pradakṣiṇam |</TEXT>
+<TEXT>pratyagdvāreṇa taṃ śambhoḥ dakṣiṇasyāṃ praveśayet ||</TEXT>
+<TR>Having caused him to perform a clockwise circumambulation of the <skt>maṇḍala</skt> three times, he should cause him to enter by the western door into the [place that is] South of Śambhu.</TR>
+
+[4.47]
+<TEXT>arccāpitaśivāyātha tasmai mantraphalārthine |</TEXT>
+<TEXT>samayācārayuktāya sādhakāya mahātmane ||<TEXT>
+<TR>Then (<skt>atha</skt>), to the great-souled Sādhaka, who follows the post-initiatory rules and [requisite] code of conduct, who desires to obtain the fruits of mantras, and who has been caused to worship Śiva, … </TR>
+
+[4.48]
+<TEXT>mantrañ{ }ca saṃpradāyañ{ }ca guruvaṃśakramāgatam |</TEXT>
+<TEXT>udgīrya puṣpapūrṇena dadyād{ }añjalināṃjalau ||</TEXT>
+
+<TR>… he [viz.\ the guru] should proclaim (<skt>udgīrya</skt>) the mantra and the traditional teaching (<skt>saṃpradāyam</skt>) that have been passed down to him through the lineage of his gurus and he should give [the mantra and sampradāya] into his cupped hands, from his own cupped hands, which should be full of flowers.</TR>
+
+[4.49]
+<TEXT>so ’pi jānuyugaṃ bhūmāv{ }añjaliñ{ }cāpi mastake |</TEXT>
+<TEXT>nidhāya mantrasatpuṣpagarbham{ }ānandanaṃditaḥ ||</TEXT>
+
+<TR>He [the disciple], for his part (<skt>api</skt>), full of joy, his knees on the ground, places (<skt>nidhāya</skt>) his clasped hands, which contain the flowers rendered pure by the mantra among them (<skt>mantrasatpuṣpagarbham</skt>), to his head.</TR>
+
+[4.50]
+<TEXT>sopadeśaṃ guror{ }labdham{ }mantrasṛṣṭikrameṇa tu |</TEXT>
+<TEXT>ānīya hṛdaye kuryād{ }bījaṃ kāmamahātaroḥ || 350 ||</TEXT>
+<APP> \vc <LEM>kuryād</LEM> \emend; kuryā \msA\ac : kuryāt \msA\pc</APP>
+
+<TR>He should bring [the mantra] that he has received from the guru in the sequence of the creation of the mantra [with its ancillaries], along with the [accompanying] teaching, to his heart and place [it there] (<skt>kuryāt</skt>), [a veritable] seed of a great wish-fulfilling tree of desires.</TR>
+
+[4.51]
+<TEXT>śivāc{ }chaktin{ }tato binduṃ bindor{ }nādañ{ }ca nādataḥ |</TEXT>
+<TEXT>arddhacandraṃ makārañ{ }ca ṣaṣṭham{ }ādyaṃ svaran{ }tataḥ ||</TEXT>
+<APP> \va <LEM>śivāc</LEM> \emend; sivāc \msA</APP>
+
+<TR>From Śiva to Śakti, from that [Śakti] to Bindu, from Bindu to Nāda, from Nāda to the half-moon [nasalisation], [from that to] the sound M, then the sixth and first vowels [namely Ū and A].</TR>
+%%19.3.2021
+[4.52]
+<TEXT>tadadho dvipadaṃ brahma kalākāraṇam{ }akṣaram |</TEXT>
+<TEXT>mantrabījam{ }anuccāryaṃ sṛṣṭisaṃhārakāraṇam ||</TEXT>
+% \msA, f. 70r (70 in modern numeration)
+
+<NOTE>\testim{4.51--52 attr. ĪŚGDP KP p. 189, 9--13. This gives
+the seed-syllable \textsc{haūṃ}
+p. 189) tadanu guru.h svasavyahastena tasya dak.si.nakara.m g.rhiitvaa pa"scimadvaare.na pravi"sya "sambhukumbhama.n.dala"sivaanaa.m pradak.si.natraya.m puujaa.m ca kaarayitvaa jaanubhyaa.m pra.naamenaavani.m gatasya "si.syasyaa~njalau sagandhakusumasalila.m saadhyamantramuccaaryaa~njalinaa sopade"sa.m mantra.m dadyaat | so.api tama~njali.m sva"sirasi nidhaaya gurave namask.rtya su.sumnaamaarge.na s.r.s.tikrame.naaniiya svah.rdayakamale nive"sya dvaada"saantaam.rtenaaplaavya mantrasa.mhitayaajyena hutvaa "sivakumbhaagniinaa.m dak.si.nata.h padmaasane saadhyamantra.m saa"ngamaavaahya sthaapayitvaa "sivavat puujayitvaa tasmaanmantramuddh.rtya saadhaka.h svadehe "saktyaadikrame.na vicintya sthaapayet
+yathaa brahma"sambhu.h 
+"sivaacchakti.m tato bindu.m bindornaada.m ca naadata.h |
+ ardhacandra.m hakaara.m ca .sa.s.thamaadyasvara.m tathaa ||
+tadatho dvipada.m brahma kalaakaara.namak.saram |
+mantrabiijamanuccaarya.m s.r.s.tisa.mhaarakaara.nam ||
+iti | ete.saa.m nava granthisthaanaani vij~neyaani dvaada"saanta"sikhaarandhra-lalaa.tabhruumadhyataalugalah.rdayanaabhivastiini | ete.saa.m sthaane.su padme.su krama.m dhyaatvaam.rtenaaplaavayet | atha ta.m samayaacaaraan gururgraahayet | te ca nirvaa.nadiik.sitasyoditaa.h saadhakasyaapi samaanaa eva | asyaapi sevaavratadhaara.na.m vi"si.s.tali"ngaparigraho vi"suddhaahaarasevaa sa"ngaparityaago nigrahaanugrahe.svanaasthaa ca ni.siddhavarjana.m vihitaanaa.m karma.naamaparityaaga"sceti sa.mk.sepa.h |
+</NOTE>
 %
-[4.21] nava pañcāthavā tatra sarvvadhānyoparisthitān |%
-%
-		\tika{Marg. note on \textit{tatra}: \textit{snānavedyāṃ brahmasthānād bahiḥ}.}
-%
-digvi(67v4)dikṣu pratiṣṭhāpya mṛnmayān kalaśān navān ||
-[4.22] raktān kukṣimataś cārudarśanān kambukandharān |
-mandena kharapākena lāṃcchanaiś cāpy agarhi(67v5)tān ||
-[4.23] sarvvaratnauṣadhīgandhasanāthair aṃśukaśrutaiḥ |
-samudrayoṣidaṃbhobhir āgalāvallipūritān ||
-[4.24] sitacandanadigdhāṃgā sitasatsūtra(68r1)vāsasaḥ |
-cūtāśvatthapalāśāsyāṃ bījapūraphalodvahān ||
-[4.25] sadeśānena vidyeśair nava pañcapavitrakaiḥ |
-sādhyamantroparaktāṃgair anvitān a(68r2)bhimantritān ||%
-%
-		\tika{Marg. note: \textit{1 tatra saṃgasādhyamantramūlamantraśaktiś
-		cātra pūjyaḥ.}%
-%
-[4.26] śivena śivaśaktyā ca pūjitān śivakumbhavat |
-ekaṃ vā navamaṃ yadvat kṛtvā ghaṭam alaṃkṛtam ||
-[4.27] sādhyamantrāsane pīṭhe (68r3) ṣaḍutthaṃ vā śivāsanam |
-vinyaset sarvasiddhīnāṃ avighnaprasavāspadam ||%
-%
-		\tika{Marg. note after \textit{prasavāspadam}: \textit{3 āsanaṃ}.}
-%
-[4.28] tathā dakṣiṇavedisthaṃ vidikdīpaprabhojvalam ||
-siddhārthā(68r4)kṣatalājāntaṃ dadhidūrvvāṃkurācitam |
-[4.29] abhisaṃdhāya hutvā ca japasaṃkhyam athānale ||%
-%
-		\tika{Marg. note after abhisaṃdhāya:  kalaśān.}%
-%
-sādhakaṃ lagnam āsādya saumyapīṭhe niveśya ca |
-[4.30] sā(68r5)dhyamantratanuṃ śaktyā yuktaṃ kṛtvā śivena tu ||
-sāṅgenādhiṣṭhitaṃ samyag arcitaṃ vibhavena ca || 330 ||
-[4.31] kuliśādibhir aṣṭābhi<r> varṇṇabhakta(68v1)śarāvakaiḥ |
-triḥkṛtvo vāriṇā cāpi nirmanthya tadanantaram ||
-[4.32] praśastadhvaninirghoṣair apraśastāṃ tirodadhat |
-nayena kalaśānīkam utkṣipya (68v2) paripāṭitaḥ ||%
-%
-		\tika{Marg. note before \textit{nayena}: \textit{1 sṛṣṭikrameṇa}}%
-%
-[4.33] tan tan mantraṃ samuccārya śaktau kṛtvā tayāpi ca |%
-%
-		\tika{Marg. note before \textit{kṛtvā}: \textit{2 śaktyantaṃ}.}%
-%
-kṣubdhayāmṛtarūpeṇa niṣṭḥūtaṃ kalaśe smaret ||%
-%
-		\tika{Marg. note after \textit{niṣṭḥūtaṃ}: \textit{3 udvamantaṃ}}%
-%
-[4.34] sitaśītormisaṃhatyā (68v3) varṣanta<n> tam api drutam |%
-%
-		\var{sitaśītormi \corr : sitasītormi A}%
-%
-recayet kalaśaṃ mūrdhni sādhakasyendubimbavat ||
-[4.35] ekena vā ghaṭenātha secayet kambunātha vā |%
-%
-		\tika{Marg. note on kambunā: saṃkhena.}%
-%
-padmapatrapuṭenātha (68v4) brahmavṛkṣapuṭena vā ||%
-%
-		\tika{\textit{brahmavṛkṣaḥ}: Butea Frondosa or Ficus Glomerata.}%
-%
-[4.36] amṛtaṃ toyam ādhāraḥ śaktis tasya ca kuṇḍalī |
-abhiṣektā śivo yasmād abhiṣecyas tu pudgalaḥ ||%
-%
-		\testim{4.36 attr. ĪŚGDP KP p. 188, 12--14.}%
-%
-		\var{abhiṣektā \eme (= T) : abhiṣiktā A}%
-%
-[4.37] tasmād ādhāra<ḥ> (68v5) kāryotra nātirikto yathārthataḥ |
-vibhūtau tuṣṭaye ṇūnāṃ sa tathoktaḥ svayaṃbhuvā ||
-[4.38] aṅgalagnañ ca yat ki<ñci>t saṃsiktaṃ śekavāriṇā |
-ta\?tra taṃ bhyā\? (69r1) japitvā tu prayataṃ susamāhitam ||
-[4.39] pradakṣiṇam upāvarttya vedagītādiniḥsvanaiḥ |
-ānīya dakṣavedisthe pīṭhe tam upaveśayet ||
-[4.40] pū(69r2)rvvāmukhaṃ purā yadvad gandhavastravibhūṣaṇaiḥ |
-puṣpadhūpopavītaiś ca pūjayitvā pravarttayet || 340 ||
-[4.41] ārātrikaṃ jvaladīpaiḥ prabhūtaiḥ sne(69r3)hapūritaiḥ |
-satpātryāṃ nihitais tasya dadhidūrvvākṣatārccitaiḥ |
-[4.42] trīn vārāṃs tad anubhrāmya śītāmbuculukatrayam |%
-%
-		\var{trīn \corr : trīṇi A. Marg. note on culukatrayam: nirmanthyaṃ.}%
-%
-maṅgalāṣṭakam etac ca vanda(69r4)yed anupūrvasaḥ ||
-[4.43] rocanā candanaṃ dūrvvā sumano dadhi pāyasam |
-yavā siddhārthakāś ceti sarvakāmārthasādhakam ||%
-%
-		\testim{4.43abc = ĪŚGDP KP p. 188, 20--21.}%
-%
-[4.44] pāduke yogapaṭṭañ ca hy a(69r5)kṣasūtra<ṃ> kamaṇḍalum |
-svamantrasaṃhitājñānam atha tasyopapādayet ||
-[4.45] savyahastena saṃgṛhya dakṣiṇaṃ karapallavam |
-utthāpya ca śanair nītvā (69v1) yajñavāsaṃ praveśya ca ||%
-%
-		\var{śanair \eme : sanai A}%
-%
-[4.46] kārayitvā ca triḥkṛtvo maṇḍalasya pradakṣiṇam ||
-pratyagdvāreṇa taṃ śambhoḥ dakṣiṇasyāṃ praveśayet |
-[4.47] arccāpitaśivāyātha tasmai mantraphalārthine |
-samayācārayuktāya sādhakāya mahātmane ||
-[4.48] mantrañ ca saṃpradayañ ca guruvaṃśakramāgatam |
-udgī(69v3)rya puṣpapūrṇena dadyād añjalināṃjalau ||
-[4.49] so pi jānuyugaṃ bhūmāv añjaliñ cāpi mastake |
-nidhāya mantrasatpuṣpagarbham ānandanaṃditaḥ || (69v4)
-[4.50] sopadeśaṃ guror labdham mantrasṛṣṭikrameṇa tu |
-ānīya hṛdaye kuryād bījaṃ kāmamahātaroḥ || 350 ||%
-%
-		\var{kuryād \corr : kuryā A \ac : kuryāt A \pc}%
-%
-[4.51] śivāc chaktin tato binduṃ bindor nādañ ca (69v5) nādataḥ |
-arddhacandraṃ makārañ ca ṣaṣṭham ādyaṃ svaran tataḥ ||
-[4.52] tadadho dvipadaṃ brahma kalākāraṇam akṣaram |
-mantrabījam anuccāryaṃ sṛṣṭisaṃhāra(70r1)kāraṇam ||%
-%
-		\testim{4.51--52 attr. ĪŚGDP KP p. 189, 9--13. This
-		gives the seed-syllable \textsc{haūṃ}%
-%
-[4.53] granthaya<ḥ> sthānakāny eṣāṃ padāni bhuvanāni ca |
-kathyante nukrameṇaiva sarvaprāṇiṣu tad yathā ||
-[4.54] cūlikāntaṃ śikhārandhraṃ lalāṭaṃ bhrūyugānta(70r2)ram |
-ghaṇṭikāgraṃ galaśvabhraṃ hṛdayaṃ tadanantaram ||
+%%ms, 70A
+[4.53]
+<TEXT>granthaya<ḥ> sthānakāny eṣāṃ padāni bhuvanāni ca |</TEXT>
+<TEXT>kathyante nukrameṇaiva sarvaprāṇiṣu tad{ }yathā ||</TEXT>
+
+[4.54]
+<TEXT>cūlikāntaṃ śikhārandhraṃ lalāṭaṃ bhrūyugānta(70r2)ram |</TEXT>
+<TEXT>ghaṇṭikāgraṃ galaśvabhraṃ hṛdayaṃ tadanantaram ||</TEXT>
+
 [4.55] nābhir bastiś ca mantrāṇāṃ daśaite cāragranthayaḥ |%
 %
 		\var{nābhir bastiś ca \conj nābhibastisu A} %
