@@ -1674,21 +1674,30 @@ LACUNA: 19–21
 %(22r1)
 <TEXT>madhyamajyeṣṭhayor{ }garbhe navadhā bhājite sati |</TEXT>
 <TEXT>koṇāt{ }dvitīyabhāgānte sūtraṃ sarvvatra pātayet ||</TEXT>
+
+
 % 133
 % [1.299]
 <TEXT>sūtrasaṃpātasūtrāntakoṇeṣu caturo daśa |</TEXT>
 %(22r2)
 <TEXT>dve ca stambhā kumārī ca madhye pāre ca vinyaset ||</TEXT>
+
+%kumārī pillaster -- cf. v.124
 % 134
 % [1.300]
 <TEXT>stambhakanyā śirodhiṣṭhau paṭṭā vā bhrāmyasaṃddhitau |</TEXT>
 <TEXT>lūmābhir{ }daṃḍakair vāpi kṣaṇaṃ saṃcchādya yatnataḥ ||</TEXT>
+
+%paṭṭa - thin skirting board
 % 135
 % [1.301]
 %(22r3)
 <TEXT>tataḥ stambhaguṇāṃśena jālārakasamanvitān |</TEXT>
 <TEXT>upastambhān{ }upasthāpya paṭṭamanthānakopari ||</TEXT>
 <APP> \va <LEM>tataḥ</LEM> \emend; tata \msA</APP>
+
+%Dagens: jāla, jālaka : claustra §§ 2.1 ; 3.40 ; 4.22. (Raumteiler?)
+
 % 136
 % [1.302]
 <TEXT>tacchiraḥ paṭṭasaṃviṣṭalūmāraṇḍakaśobhitā |</TEXT>
@@ -1696,61 +1705,132 @@ LACUNA: 19–21
 %(22r4)
 <TEXT>vidadhyāc{ }chadanenorddhvaṃ padmasaṃdaṣṭamūrttinā ||</TEXT>
 
+%paṭṭa - thin skirting board
+%padma: Dagens: padma : doucine (moulure) §§ 3.9, 11, 19, 31. -- i.e. stave, a vertical wooden post or plank in a building or other structure
+
 %% 9.4. we checked the manuscript up until here
 
 % 137
 % [1.303]
-<TEXT>yad{ }vā bhinnatalaṃ nyasya lūmāchannavitānakaṃ |</TEXT>
+<TEXT>yad{ }vā bhinnatalaṃ nyasya lūmācchannavitānakaṃ |</TEXT>
 <TEXT>kārayec{ }chilpavijñānakovidena tu śilpinā ||</TEXT>
-% Dominic suggests lūmā could denote some kind of tussel, based on the fact that lūma can mean horse's tail (Cf. PW: Schwanz, Schweif)
+% Dominic suggests lūmā could denote some kind of tassel, based on the fact that lūma can mean horse's tail (Cf. PW: Schwanz, Schweif)
+
+<TR><>Alternatively, having placed [the pavilion for sacrifice] such that it has separate base (?), one should cause a craftsman who is knowledgeable about his craft to make it with a canopy covered with tassels.</TR>
+
+
+%Dagens: tala : — 1. soubassement, niveau du soubassement § 3.14. — 2. palier §§ 3.12 ; 4.35.
+
+
 % 138
 % [1.304]
 %(22r5)
 <TEXT>sadhūmanirgamenoccaiḥ pūrvabhadreṇa saṃgatam |</TEXT>
-<TEXT>yajñāya maṇḍapaṃ hy{ }evaṃ karttavyaṃ pratyagānanaṃ ||</TEXT>
+<TEXT>yajñāya maṃdiraṃ hy{ }evaṃ karttavyaṃ pratyagānanaṃ ||</TEXT>
+%maṃdiraṃ] Sanderson read maṇḍapaṃ
+
+<TR>It should be equipped (saṃgatam) with an eastern/frontal porch (?<skt>pūrvabhadreṇa</skt>) that has a lofty flue for the smoke to escape from. This is the way the pavilion for sacrifice should be constructed, opening to the west.</TR>
+
+<NOTE>Cf. Dagens § 3.34, which suggests that bhadra may be a sort of projecting platform or porch; for <skt>sadhūmanirgamenoccaiḥ</skt>, see <ttl>Śivopaniṣad</ttl> 4:6. </NOTE>
+%% Cf. puurvabhadra in the Suuk.smaagama
+%% (check edition to see if this is in edited portion)
+
 % 139
 % [1.305]
 <TEXT>saddārurucirālindadaṇḍakacchannamastakaṃ |</TEXT>
 %(22v1)
-<TEXT>sarvvatomukhato vāpi mukhavedi kayānvitam ||</TEXT>
+<TEXT>sarvvatomukhato vāpi mukhavedikayānvitam ||</TEXT>
+
+<TR>It should have its top covered with beams and have a raised terrace (<skt>ālinda</skt>) made of good woods.  Optionally, it may face all directions and be equipped with a principal altar(?).</TR>
+
+
+%alinda/ālinda -- m. a terrace before a house-door, a raised place or terrace for sleeping upon
+%daṇḍaka -- beam
+%Dagens: daṇḍa : — 1. toise (Aj) §§ 2.1, 22. — 2. module §§ 2.2 ; 3.17... 3· largeur du temple principal prise comme unité (Aj) §§ 2.2 ; 5.6.... — 4. partie principale du dhvajadaṇḍa § 5.12.
+
+%mastaka -- m.n. roof (Dagens: mastaka (Rau) : toit (5ème niveau de l’élévation) §§ 3.27 ; 4.6.)
+
 % 140
 % [1.306]
 <TEXT>śilāpaṭalasaṃcchannaṃ pihitaṃ vā nirantaram |</TEXT>
-<TEXT>iṣṭakābhi<ḥ> supakvābhir{ }bahir{ }vābhyantarodakam ||</TEXT>
+<TEXT>iṣṭakābhiḥ supakvābhir{ }bahir{ }vābhyantarodakam ||</TEXT>
+<APP> \vc <LEM>iṣṭakābhiḥ</LEM> \emend; iṣṭakābhi \msA</APP>
+
+<TR>Or [it should be] covered with stone flags, or completely covered over with well-burnt bricks on the outside...vābhyantarodakam ??</TR>
+
+%paṭala -- n. roof, hatch, veil, cover
+% Judit suggested that the last word *might* be connected with udak / uda~nc
+% Sathyanarayan suggested it might corrupt for vābhyantarodaram
+
 % 141
 % [1.307]
 %(22v2)
 <TEXT>gārāyuktasudhāpiṇḍakṛtaniḥsaṃdhibandhanam |</TEXT>
-<TEXT>sacchudhādhavalaṃ vapraprāntanyastapraṇālakam ||</TEXT>
-%
-                    \tika{Marg. note on \textit{vapra}: \textit{2 varaṇḍa}.}%
-                    %
-                    \var{praṇālakam \conj :pramāṇalakaṃ A}%
+<TEXT>satsudhādhavalaṃ vapraprāntanyastapraṇālakam ||</TEXT>
+<APP> \vc <LEM>satsudhā°</LEM> \conj; sacchudhā° \msA</APP>
+<APP> \vc <LEM>vapra°</LEM> marginal note: varaṇḍa \msA</APP>
+<APP> \vd <LEM>°praṇālakam</LEM> \conjS; pramāṇalakaṃ \msA</APP>
+
+<TR>The closing, in such a way that there are no joints/gaps [visible] (<skt>°niḥsandhi°</skt>, should be achieved with lumps of lime mixed with mortar (?<skt>gārā</skt>). It should be white with good lime-plaster, and it should have a [drainage] spout placed at the edge of the roof terrace (<skt>vapra°</skt>).
+</TR>)
+
+<NOTE>For <skt>gārā</skt> in the sense of “mortar”, we are aware of no parallel, but see s.v. <foreign>kārai</foreign> in the Tamil Lexicon, which records “Mortar, plaster for building”.
+Note that <skt>gāra/gārā</skt> also means "mortar" in Hindi.</NOTE>
+
+<!--%<vapra>    m. n. a rampart, earthwork, mound, hillock, mud wall, earth or bank
+raised as a wall or buttress or as the foundation of a building MBh. Kaav. &c.;
+a high river-bank (also <nadiiv->), any shore or bank MBh. R. Kir.; the slope or
+declivity of a hill, table-land on a mountain Kir. "Si"s.; a ditch VarB.rS.; the
+gate of a fortified city W.; the circumference of a sphere or globe Gol.; a sown
+field, any field Dharma"s.; dust L.; = <ni.sku.ta>, <vanaja> n. <vaajikaa> (?)
+and <paa.tiira> L.; the butting of an elephant or of a bull (see <-kriyaa> and
+<-krii.daa>); m. a father L. (cf. 2. <vaptri>); = <prajaapati> L.; N. of a
+Vyaasa VP.; of a son of the 14th Manu Hariv.; (<aa>) f. a flat bank of earth,
+garden-bed (<vapraavat> ind. as in a level bank, i. e. as in levelling or
+arranging a place for the fire, Mahtdh.); Rubia Munjista L.; N. of the mother of
+the Arhat Nimi L.; (<ii>) f. a hillock, ant-hill (cf. <vamrii>) MW.; n. lead L.
+(cf. <varahra>).-->
+
+
 % 142
 % [1.308]
-<TEXT>vajralepaṃ madhūcchiṣṭatailasarjjurasair{ }drutaiḥ |</TEXT>
-<TEXT>śaṇakṣaudrapayo bilvarasamiśraiḥ susaṃskṛtam ||</TEXT>
+<TEXT>vajralepaṃ madhūcchiṣṭatailasarjjarasair{ }drutaiḥ |</TEXT>
+<TEXT>śaṇakṣaudrapayobilvarasamiśraiḥ susaṃskṛtam ||</TEXT>
+<APP><LEM>śaṇa°</LEM> \emendS; sana° \msA</APP>
+
+<TR>The render/adamantine polish (<skt>vajralepam</skt>) [applied on the outside] should be beautifully finished/polished (<skt>susaṃskṛtam</skt>) with liquid (<skt>drutaiḥ</skt>) juices [made] of beeswax, oil and resin of the sal tree, mixed with hemp, liquid honey and bilva sap/juice.</TR>
+
 %(22v3)
 %143
 % [1.309]
 <TEXT>cūrṇṇakaṃ bahir{ }antaś{ }ca ślakṣṇaṃ sampādya bhittiṣu |</TEXT>
 <TEXT>kuryād{ }bhūbandhanaṃ paścāt{ }sudṛḍhaṃ śarkkaroṭṭakaiḥ ||</TEXT>
+<APP> \vc <LEM>paścāt</LEM> \msApc; paścā \msAac</APP>
+<APP><LEM>śarkkaroṭṭakaiḥ</LEM> \emend; sarkkaroṭṭakaiḥ \msA</APP>
+
+<TR>One should apply smooth powder outside and inside on the walls. After that, one should seal the ground, [such that it becomes] firm, with gravel (?)</TR>
+
+<NOTE>We guess that <skt>śarkkaroṭṭakaiḥ</skt> might mean “gravel”.  The same word, spelled <skt>śarkaroṭa</skt>, occurs in the <ttl>Niśvāsa</ttl> <ttl>Guhyasūtra</ttl>, in 10:19.</NOTE>
+
+%%18.6.
+
 %144
 % [1.310]
 <TEXT>evaṃ niṣpādayitvā tu sayajñasadanaṃ maṭham |</TEXT>
-%
-            \var{sayajñasadanaṃ maṭham \eme : sayajñaḥ sadanaṃ maṭham A}%
-%
+<APP> \vb <LEM>sayajñasadanaṃ</LEM> \emendS; sayajñaḥ sadanaṃ \msA</APP>
+
 %(22v4)
 <TEXT>ucchrayād{ }dviguṇāṃ bhūmim{ }bahir{ }muktvā praveṣṭayet |</TEXT>
 %145
 % [1.311]
 <TEXT>varaṇḍakena nipuṇaṃ saumyavaktreṇa cāruṇā ||</TEXT>
 <TEXT>tanmukhaṃ valabhīgarbha<ṃ> sakapāṭārgalānvitam</TEXT>
+<APP><LEM>valabhīgarbhaṃ</LEM> \emend; valabhīgarbha \msA</APP>
+
 %146
 % [1.312]
 %(22v5)
-<TEXT>tato pi ca bahiḥ kuryāt{ }prākāraṃ gopurānvitam</TEXT>
+<TEXT>tato 'pi ca bahiḥ kuryāt{ }prākāraṃ gopurānvitam</TEXT>
 <TEXT>uttuṅgam{ }udgataṃ śṛṅgam{ }udagvārivaham{ }pari</TEXT>
 %147
 % [1.313]
