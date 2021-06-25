@@ -1777,21 +1777,6 @@ LACUNA: 19–21
 <NOTE>For <skt>gārā</skt> in the sense of “mortar”, we are aware of no parallel, but see s.v. <foreign>kārai</foreign> in the Tamil Lexicon, which records “Mortar, plaster for building”.
 Note that <skt>gāra/gārā</skt> also means "mortar" in Hindi.</NOTE>
 
-<!--%<vapra>    m. n. a rampart, earthwork, mound, hillock, mud wall, earth or bank
-raised as a wall or buttress or as the foundation of a building MBh. Kaav. &c.;
-a high river-bank (also <nadiiv->), any shore or bank MBh. R. Kir.; the slope or
-declivity of a hill, table-land on a mountain Kir. "Si"s.; a ditch VarB.rS.; the
-gate of a fortified city W.; the circumference of a sphere or globe Gol.; a sown
-field, any field Dharma"s.; dust L.; = <ni.sku.ta>, <vanaja> n. <vaajikaa> (?)
-and <paa.tiira> L.; the butting of an elephant or of a bull (see <-kriyaa> and
-<-krii.daa>); m. a father L. (cf. 2. <vaptri>); = <prajaapati> L.; N. of a
-Vyaasa VP.; of a son of the 14th Manu Hariv.; (<aa>) f. a flat bank of earth,
-garden-bed (<vapraavat> ind. as in a level bank, i. e. as in levelling or
-arranging a place for the fire, Mahtdh.); Rubia Munjista L.; N. of the mother of
-the Arhat Nimi L.; (<ii>) f. a hillock, ant-hill (cf. <vamrii>) MW.; n. lead L.
-(cf. <varahra>).-->
-
-
 % 142
 % [1.308]
 <TEXT>vajralepaṃ madhūcchiṣṭatailasarjjarasair{ }drutaiḥ |</TEXT>
@@ -1818,53 +1803,93 @@ Also the NWS lists <skt>śarkaroṭa</skt> in the sense of "gravel".</NOTE>
 %144
 % [1.310]
 <TEXT>evaṃ niṣpādayitvā tu sayajñasadanaṃ maṭham |</TEXT>
-<APP> \vb <LEM>sayajñasadanaṃ</LEM> \emendS; sayajñaḥ sadanaṃ \msA</APP>
+<APP> \vb <LEM>sayajñasadanaṃ</LEM> \emendS, \msA\pc (?); sayajñaḥ sadanaṃ \msA</APP>
 
 %(22v4)
 <TEXT>ucchrayād{ }dviguṇāṃ bhūmim{ }bahir{ }muktvā praveṣṭayet |</TEXT>
+
+<TR>Having thus completed the monastery along with the space for worship, he should enclose it [with a wall] (<skt>praveṣṭayet</skt>), leaving outside [as a gap of empty space around it] land that measures [in breadth] twice the height [of the temple? monastery?].</TR>
+
 %145
 % [1.311]
 <TEXT>varaṇḍakena nipuṇaṃ saumyavaktreṇa cāruṇā ||</TEXT>
-<TEXT>tanmukhaṃ valabhīgarbha<ṃ> sakapāṭārgalānvitam</TEXT>
-<APP><LEM>valabhīgarbhaṃ</LEM> \emend; valabhīgarbha \msA</APP>
+<TEXT>tanmukhaṃ valabhīgarbhaṃ sakapāṭārgalānvitam</TEXT>
+<APP><LEM>valabhīgarbhaṃ</LEM> \msA\ac; valabhīgarbha \msA\pc</APP>
+
+<TR>It should complete with (<skt>nipuṇam</skt>) a balcony/terrace, beautiful, opening towards the North. Its front (<skt>tanmukham</skt>) should contain a gabled roof-space (?) (<skt>valabhīgarbham</skt>), together with door and bolts. </TR>
+
+<NOTE>S.A.S. Sarma suggests that varaṇḍaka could refer not just to a terrace, but to a whole separate building that has a terrace and that is separate from the temple/monastery? and whatever other buildings there might be in the centre of the maṭha.
+  Cf. valabhīgṛha in the ŚDhU 2:145??
+valabhīgṛhaṃ kūṭākāram gṛhamityarthaḥ, Com ad Śivadharmottara (bottom folio on 51.jpg)</NOTE>
 
 %146
 % [1.312]
 %(22v5)
 <TEXT>tato 'pi ca bahiḥ kuryāt{ }prākāraṃ gopurānvitam</TEXT>
 <TEXT>uttuṅgam{ }udgataṃ śṛṅgam{ }udagvārivaham{ }pari</TEXT>
+
+<TR>And outside that again one should make a compound wall equipped with gateways. It should be lofty. [It should have] raised gargoyles (?) (<skt>śṛṅgam</skt>) all around (<skt>pari</skt>) that should carry the water off to the North.</TR>
+
 %147
 % [1.313]
 <TEXT>prāsādabhūmigarbhāgrasīmni śakrādhidaivate</TEXT>
 <TEXT>saṃśodhya</TEXT>
 
+<TR>On the eastern (<skt>śakrādhidaivate</skt>) outer border [of the area] that contains the territory of the temple... purifying</TR>
 
-LACUNA: folio 23
+
+LACUNA: folio 23 missing
 
 
 % 148
 %[1.328]
 %(24r1)
 <TEXT>[+ + + + + + + ] kaṃ dīkṣāṅgakalaśādikam |</TEXT>
+<APP> \vb <LEM>°kalaśādikam</LEM> \emend; °kalasādikam \msA</APP>
 <TEXT>yajñasya mandiraṃ tena savitānaṃ vibhūṣaya ||</TEXT>
+
+<TR>… the pots and the like that are constituent elements of the initiation.
+Therefore (?) adorn the building for worship, which has a canopy.</TR>
+
 % 149
 %[1.329]
 <TEXT>śayanāsanapūrvais{ }tu jñānināṃ sthitihetubhiḥ |</TEXT>
 %(24r2)
 <TEXT>mātropakaraṇais{ }teṣāṃ kuru sadma susaṃyutam |</TEXT>
+<APP><LEM>mātropakaraṇais</LEM> \msApc; mātraupakaraṇais \msAac</APP>
+
+<TR>You should equip this house with the means for wise people to remain there (<skt>sthitihetubhiḥ</skt>), beginning with beds and seats and with property and utensils (<skt>mātropakaraṇaiḥ</skt>) for them.</TR>
+
+<!--Add note on mātropakaraṇa!-->
+see also Jayākhya 24:73
+
+
 % 150
 %[1.330]
-<TEXT>tebhya evānnasatrāya dhānyasnehād<y>upaskaraiḥ ||</TEXT>
+<TEXT>tebhya evānnasatrāya dhānyasnehādyupaskaraiḥ ||</TEXT>
+<APP><LEM>dhānyasnehādyupa°</LEM> \emend; dhānye snehādupa° \msA</APP>
 <TEXT>saṃbhṛtaiḥ satkṛtaṃ kṛtsnaṃ kuru vatsa mahānasam || 330 ||</TEXT>
+<APP> \vc <LEM>satkṛtaṃ</LEM> \msA\pc; sakṛtaṃ \msA\ac</APP>
+
+<TR>My child, for the sake of a refectory for their food, you should make the kitchen complete, adorned (<skt>satkṛtam</skt>) with equipment, with grains, oil and such like provisions.</TR>
+
+<NOTE>Perhas the vocative <skt>vatsa</skt> is included because all this is part of a speech addressed by the guru to the <skt>yajamāna</skt> ? This seems to be confirmed by the next verse.  SAS suggests that satkṛtam might mean that the whole kitchen should first be properly cleaned.</NOTE>
+
 % 151
 %[1.331]
 %(24r3)
 <TEXT>kṛtavantaṃ yathādiṣṭan{ }tasmiṃs{ }tasminn{ }anantaram |</TEXT>
 <TEXT>abhyanujñāpayet{ }tatra saṃpraveśavidhiṃ guruḥ ||</TEXT>
+
+<TR>The guru should next give permission for the rite of entering there to the one who has made [all these arrangements] as instructed in these various [details] (<skt>tasmiṃs tasminn</skt>).</TR>
+
+%%25.6.2021
+
 %[1.332]
 <TEXT>sudine vāranakṣatrayogalagnabalānvite |</TEXT>
 %(24r4)
 <TEXT>ātmacandrabalopete praveṣṭus{ }tuṣṭidāyini ||</TEXT>
+
 %[1.333]
 <TEXT>labdhādeśa<s> tataś{ }cāsau taṃ gurus{ }satapodhanam |</TEXT>
 <TEXT>savipraśilpidaivajñaḥ sambaddhaḥ sa praveśayet ||</TEXT>
