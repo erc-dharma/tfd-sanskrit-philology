@@ -1889,40 +1889,76 @@ see also Jayākhya 24:73
 <TEXT>sudine vāranakṣatrayogalagnabalānvite |</TEXT>
 %(24r4)
 <TEXT>ātmacandrabalopete praveṣṭus{ }tuṣṭidāyini ||</TEXT>
+<APP> \vc <LEM>ātma°</LEM> \msA\pc; ātmā° \msA\ac</APP>
+<APP> \vd <LEM>tuṣṭidāyini</LEM> \msA\pc; tuṣṭidāyinī \msA\ac</APP>
+<TR>On an auspicious day, with strength in the weekday, the asterism, the yoga and the lagna, when there is strength in ātman(?) and in the moon, [a day] which bestows pleasure on the one who enters [the <skt>maṭha</skt>],…</TR>
+
+<NOTE>ātmacandra - Does this mean favourable to one's own rāśi (i.e. when his rāśi is balavān)?</NOTE>
+
 
 %[1.333]
-<TEXT>labdhādeśa<s> tataś{ }cāsau taṃ gurus{ }satapodhanam |</TEXT>
-<TEXT>savipraśilpidaivajñaḥ sambaddhaḥ sa praveśayet ||</TEXT>
+<TEXT>labdhādeśas{ }tataś{ }cāsau taṃ guruṃ{ }satapodhanam |</TEXT>
+<APP>\va <LEM>labdhādeśas</LEM> emendS; labdhādeśa \msA</APP>
+<TEXT>savipraśilpidaivajñasambandhaṃ sa praveśayet ||</TEXT>
+<APP>\vc <LEM>°daivajña°</LEM> \msApc; °daivajñaḥ \msAac </APP>
+<APP> \vd <LEM>°sambandhaṃ</LEM> \conj; °sambandhaḥ \msA </APP>
+
+<TR>… having taking permission [from Śiva?], he should then cause the guru along with ascetics to enter, together with brahmins, craftsmen, astrologers.</TR>
+
+<NOTE>We could leave <skt>°sambandhaḥ</skt> and therefore understand that the yajamāna associates himself with brahmins, craftsmen, astrologers in order to issue the invitation to the Guru and ascetics so that they enter.  The next verse seems also to have an odd, but pointedly deliberate combination of nominatives and accusatives.</NOTE>
+
 %[1.334]
 %(24r5)
-<TEXT>ānandyamānamanasaṃ paripūrṇṇamanorathaḥ</TEXT>
-<TEXT>śubhraveśaṃ svayaṃ śvetamālyāmbaravibhūṣaṇaḥ</TEXT>
-%
-%
-                    \var{vibhūṣaṇaḥ \eme : vibhūṣiṇaḥ A}%
+<TEXT>ānaṃdyamānamanasaṃ paripūrṇṇamanorathaḥ|</TEXT>
+<TEXT>śubhraveśaṃ svayaṃ śvetamālyāmbaravibhūṣaṇaḥ||</TEXT>
+<APP>\vd <LEM>°vibhūṣaṇaḥ</LEM> \emendS; °vibhūṣiṇaḥ \msA</APP>
+
+<TR>[The yajamāna should do so being himself] one whose desires have been realised, [ensuring that the guru] happy in his heart, dressed in white, while being himself [also] (<skt>svayam</skt>) dressed in white garlands, cloths and ornaments.</TR>
+
+<NOTE>There seems to be no easy way to emend the first compound to get rid of the accusative, so we are assuming that an accusative describing the guru is really intended.</NOTE>
+
 %
 %[1.335]
-<TEXT>ātodyadhvanibhir{ }miśrair{ }maṅgalair{ }vedaniḥsvanaiḥ</TEXT>
+<TEXT>ātodyadhvanibhir{ }miśrair{ }maṅgalair{ }vedaniḥsvanaiḥ|</TEXT>
 %(24v1)
-<TEXT>varastrīmadhurālāpaiś{ }cārucāraṇajalpitaiḥ |</TEXT>
+<TEXT>varastrīmadhurālāpaiś{ }cārucāraṇajalpitaiḥ ||</TEXT>
+
+<TR>To the accompaniment of the sounds of drums, mixed with auspicious sounds of Vedic chanting, the sweet talk of beautiful women and with the sweet vocalisations of bards,…</TR>
+
+<NOTE>The expression <skt>varastrī</skt> might perhaps be understood to refer to <skt>vārastrī</skt>, but they could simply be beautiful women with fine voices.</NOTE>
+
 %[1.336]
-<TEXT>āmrāśvatthadalākīrṇṇavadanena dvijanmanā ||</TEXT>
-<TEXT>uhyamānena śubhreṇa pūrṇṇakumbhena cāgrataḥ |</TEXT>
-%[1.337]
+<TEXT>āmrāśvatthadalākīrṇṇavadanena dvijanmanā |</TEXT>
+<APP> \va <LEM>dvijanmanā</LEM> \emend; dvijanmanāḥ \msA</APP>
+<TEXT>uhyamānena śubhreṇa pūrṇṇakumbhena cāgrataḥ ||</TEXT>
+<APP> \vc <LEM>uhyamānena śubhreṇa</LEM> \emend; uhyamāṇena subhreṇa \msA</APP>
+
+<TR>…with a bright full pot being carried in front by a brahmin, its mouth decorated with mango and aśvattha leaves…</TR>With[1.337]
 %(24v2)
-<TEXT>ābaddhatoraṇoddhūtapatākādvāragopuram ||</TEXT>
-<TEXT>vistīrṇnamaṇḍapacchāyāchannaprāṅgaṇabhūtalam |</TEXT>
+<TEXT>ābaddhatoraṇoddhūtapatākādvāragopuram |</TEXT>
+<TEXT>vistīrṇnamaṇḍapacchāyācchannaprāṅgaṇabhūtalam ||</TEXT>
+
 %[1.338]
-<TEXT>sāṃdragośakṛdāliptaṃ raṅgarekhālatānvitam</TEXT>
-%
-%
-            \var{latānvitam \conj : latārccitaṃ A}%
-%
+<TEXT>sāṃdragośakṛdāliptaṃ raṅgarekhālatārccitaṃ |</TEXT>
+<APP> \va <LEM>°śakṛd°</LEM> \emend; °sakṛd° \msA</APP>
+<NOTE>We have left °latārccitam, but we could consider emending to °latāñcitam.</NOTE>
+
 %(24v3)
-<TEXT>prākārasya bahiḥ pūrvam{ }upāvarttya pradakṣiṇam</TEXT>
+<TEXT>prākārasya bahiḥ pūrvam{ }upāvarttya pradakṣiṇam ||</TEXT>
+%pūrvā- ac?
+
+<TR>… after circumambulating clockwise the outside of the compound wall, [he should enter the interior of the monastery], which has free-standing gates constructed in front of it, its entrance gateway having flags flapping above it, thickly smeared with cow-dung, decorated with plant-like [designs] made of coloured lines.</TR>
+
+
 %[1.339]
 <TEXT>praviśya gopureṇāntaḥ maṭhasya tadanantaram</TEXT>
 <TEXT>praveśya kalaśaṃ madhye taṃ nyasya dvārasaṃmukhaṃ</TEXT>
+<APP> \vc <LEM>kalaśaṃ</LEM> emend.; kalasaṃ \msA</APP>
+
+<TR>Having entered the interior of the monastery through the gateway, after that, he should bring the pot inside and set it down in the middle facing the entrance.</TR>
+
+%24.9.2021
+
 %[1.340]
 %(24v4)
 <TEXT>dvārabāhye sthitaḥ kiñcid{ }vilokitatadānanaḥ</TEXT>
