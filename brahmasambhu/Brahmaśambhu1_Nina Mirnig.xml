@@ -1951,9 +1951,9 @@ see also Jayākhya 24:73
 
 
 %[1.339]
-<TEXT>praviśya gopureṇāntaḥ maṭhasya tadanantaram</TEXT>
-<TEXT>praveśya kalaśaṃ madhye taṃ nyasya dvārasaṃmukhaṃ</TEXT>
-<APP> \vc <LEM>kalaśaṃ</LEM> emend.; kalasaṃ \msA</APP>
+<TEXT>praviśya gopureṇāntaḥ maṭhasya tadanantaram |</TEXT>
+<TEXT>praveśya kalaśaṃ madhye taṃ nyasya dvārasaṃmukhaṃ ||</TEXT>
+<APP> \vc <LEM>kalaśaṃ</LEM> \emend; kalasaṃ \msA</APP>
 
 <TR>Having entered the interior of the monastery through the gateway, after that, he should bring the pot inside and set it down in the middle facing the entrance.</TR>
 
@@ -1961,28 +1961,82 @@ see also Jayākhya 24:73
 
 %[1.340]
 %(24v4)
-<TEXT>dvārabāhye sthitaḥ kiñcid{ }vilokitatadānanaḥ</TEXT>
-<TEXT>pradakṣiṇākriyaivāntaḥ praviśya śivasaṃsmṛtiḥ || 340 ||</TEXT>
+<TEXT>dvārabāhye sthitaḥ kiñcid{ }vilokitatadānanaḥ |</TEXT>
+<TEXT>pradakṣiṇakriyaivāntaḥ praviśya śivasaṃsmṛtiḥ || 340 ||</TEXT>
+<APP> \vc <LEM>pradakṣiṇakriyaivāntaḥ</LEM> \msApc; pradakṣiṇakrapaivāntaḥ \msAac</APP>
+<APP> \vd <LEM>praviśya</LEM> \emend; pravisya \msA</APP>
+
+<TR>He should remain a while (<skt>kiñcit</skt>) outside the gate, looking at the mouth of that [pot]. there should be circumambulation, [and] having entered inside, there should be remembrance of Śiva. </TR>
+
+<NOTE>Somaśambhupaddhati
+1ab: pratiṣṭhātha maṭhādīnāṃ praveśaś cābhidhīyate
+1cd: maṇḍapādi vidhāyātha śivakumbhaṃ ca tadgatam
+2ab: vilipya gomayenainaṃ sabāhyābhyantaraṃ maṭham
+2cd: puṣpasragvastraśobhāḍhyaṃ kṛtvā toraṇabhūṣitam
+(p.385)
+3ab: sabandhur yajamānas tu deśikādipuraḥsaraḥ
+3cd: vastrayugmāvṛtaṃ skandhe śivakumbhaṃ dvijanmanaḥ
+4ab: vedavādyaravair divyair maṭhaṃ kṛtvā pradakṣiṇam
+4cd: kiñcid vilambya tasyāgre deśikaṃ tāpasānvitam
+5ab: maṭhaṃ praveśayet kartā sulagne kṛtamaṅgalaḥ
+5cd: catuṣke vinyaset kumbhaṃ dhānyastham udagānanam
+6ab: dakṣiṇāṃ ca tato dadyād vipradaivajñaśilpinām
+(p.387)
+6cd: pūrvataḥ pūjayet kumbhād vāstuṃ dvikaramaṇḍale
+7ab: jagatyāṃ pādapīṭhe ca jaṅghāyāṃ ca kapotake
+7cd: chadane ca yathāsaṃkhyaṃ nivṛttyādikalā nyaset
+8ab: tataḥ śaktiṃ samabhyarcya hṛdaiva dvārapālakān
+8cd: vyāptyāvāhya svasaṃjñābhiḥ pūjayed dhyānapūrvakam
+9ab: agnyāgāram athāsādya tarpayed vāstudevatāḥ
+9cd: nivṛttyādikalāś cāpi dvārapālān svaśambaraiḥ
+10ab: dattvā digbalim ācamya sakalīkṛtavigrahaḥ
+10cd: bījapūrāmramālūrair nāraṅgaiḥ sakapitthakaiḥ
+11ab: badarāmalavārtākair dāḍimaiḥ sakapardakaiḥ
+11cd: snāpayec ca ghaṭāmbhobhir upariṣṭān maṭhālayam
+12ab: vibhūtisthitihetvarthaṃ santānādivivṛddhaye
+12cd: kīrtyarthaṃ kīrtayen nāma kartṛnāmāṅkitaṃ maṭham
+</NOTE>
+
+
 %[1.341]
-<TEXT>niveśeta puraskṛtya pūrṇṇakumbham{ }udaṅmukhaḥ</TEXT>
+<TEXT>niveśeta puraskṛtya pūrṇṇakumbham{ }udaṅmukham |</TEXT>
+<APP> \va <LEM>niveśeta</LEM> \emend; niveseta \msA</APP>
+<APP> \vb <LEM>udaṅmukham</LEM> \conj; udaṅmukhaḥ \msA</APP>
 %(24v5)
-<TEXT>yajamānānugo viprān{ }śilpino tha sato guruḥ</TEXT>
+<TEXT>yajamānānugo viprān{ }śilpino 'tha sato guruḥ ||</TEXT>
+
+<TR>The guru, followed by the Yajamāna, should cause the brahmins and then the “good” craftsmen to enter/sit, having venerated the full pot, which faces north.</TR>
+
+<NOTE>Why are the craftsmen described as good (<skt>sataḥ</skt>)? Is it perhaps an allusion to the notion of the <skt>sacchūdra</skt>, of whom there are definitions in various texts, e.g. in Kiraṇa 42:16cd:
+śaucācārasamāyuktāḥ śūdrā ye ’madyapāḥ śubhāḥ.</NOTE>
+
 %[1.342]
 <TEXT>mānayitvā yajed{ }vāstuṃ pūrṇṇakumbhe padeṣu ca |</TEXT>
 <TEXT>dvikaraṃ caturasran{ }tu kṛtvā maṇḍalakaṃ samam ||</TEXT>
+
+<TR>Having honoured [these people], he should venerate [the deities of] the Vāstu in the full pot and in the squares [of the vāstumaṇḍala], having made a square maṇḍala that is two cubits across and evenly proportioned (<skt>samam</skt>). </TR>
 % 163
+
+
+
 %[1.343]
 <TEXT>kumbhasya</TEXT>
 %(end of 24v)
 
+[folio 25 missing]
 
 % 164
-<TEXT>(26r1)va\?tye\?pṛṣṭhaviṣaye gurvvānvaye saty{ }api |</TEXT>
-<TEXT>tenāsmābhir{ }anujjhitakramapadair{ }āmnāyadṛṣṭyā purā</TEXT>
-<TEXT>dīkṣāṅgaṃ gurunirgamo gurukulā<t> saṃkṣepato varṇṇitaḥ ||</TEXT>
+%(26r1)[28a in arabic numerals]
+<TEXT> = = = = vatya? pṛṣṭhaviṣaye gurvvānvaye saty{ }api |</TEXT>
+<TEXT>tenāsmābhir{ }anujjhitakramapadair{ }āmnāyadṛṣṭyā purā </TEXT>
+<TEXT>dīkṣāṅgaṃ gurunirgamo gurukulāt saṃkṣepato varṇṇitaḥ ||</TEXT>
+<APP> \vd <LEM>gurukulāt saṃkṣepato</LEM> \msApc; gurukulā? kṣepato \msAac</APP>
 %(26r2)
-<TEXT> ||  o  ||</TEXT>
+
+<TR>…therefore I, without leaving out any steps in the procedure, and following the vision of the tradition of yore, have briefly described the exit of the guru from the guru-family, which is a topic subordinate to [the topic of] initiation.</TR>
 
 
-<TEXT> dīkṣākarmānusaṃdhāna gurukulaniḥkramaṇapūrvakaḥ brahmaśaṃbhuracitaḥ prathamaḥ paricchedaḥ  ||  o  || 360 ||</TEXT>
+
+
+<TEXT> ||  o  || dīkṣākarmānusaṃdhāna gurukulaniḥkramaṇapūrvakaḥ brahmaśaṃbhuracitaḥ prathamaḥ paricchedaḥ  ||  o  || 360 ||</TEXT>
 %% DG gurukulaniṣkramaṇa = Emerging from the guru's house after study (also called samāvartana)
