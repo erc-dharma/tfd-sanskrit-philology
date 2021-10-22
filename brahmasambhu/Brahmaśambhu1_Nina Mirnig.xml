@@ -29,12 +29,13 @@ uktatvān neha prapañcyate}), referring also to Brahmaśambhu's \textit{Pañcik
 <SETVSNUM=”84”/>
 
 
-% 1                               khya<ś> caturtha<ḥ>
 %(4r1)
-<TEXT>[tṛtīyaḥ] sūtrapātākhya(ś) caturtha(ḥ) pādakalpanā ||</TEXT>
+<TEXT>[tṛtīyaḥ] sūtrapātākhyaś{ }caturthaḥ pādakalpanā ||</TEXT>
+<APP> \vcd <LEM>sūtrapātākhyaś{ }caturthaḥ</LEM> \emend; sūtrapātākhyacaturtha \msA</APP>
 % 2
 % [1:85]
 <TEXT>samorvvī pañcamas{ }tatra ṣaṣṭho dvāraniveśanaḥ |</TEXT>
+<APP> \vb <LEM>dvāraniveśanaḥ</LEM> \emend; dvāranivesanaḥ \msA</APP>
 <TEXT>nirvāṇavāstur{ }ante ca yāgaḥ saptamakaḥ smṛtaḥ ||</TEXT>
 %%% These seem all to be rites in the preparation of the ground.
 
@@ -53,18 +54,13 @@ uktatvān neha prapañcyate}), referring also to Brahmaśambhu's \textit{Pañcik
 
 %%% NOTE: samorvī pañcamaḥ looks like it literally means "[the rite in which] the earth (ūrvī) [is made] level”.  Similar, perhaps, is \skt{nirvāṇavāstu}, which could mean “[rite] by which the Vāstu is appeased/extinguished”.
 
-
-
-
-
-
 % 3
 % (4r2)
 [1:86]
 <TEXT>parigraho viśuddhāyā bhuvaḥ sīmāviniścayaḥ |</TEXT>
 <TEXT>śivakumbhabhrameṇādau karttavyo janasākṣikaḥ ||</TEXT>
 %
-<APP>\vb <LEM>sīmā</LEM> \corr; śīmā \A</APP>
+<APP>\vb <LEM>sīmā</LEM> \corr; śīmā \msA</APP>
 %
 %% First (ādau) the appropriation of the purified ground [and] fixing of its boundaries should be performed, while
 %% people are witnessing, by circumambulating with a water-pot in which ŚIVA is installed.
@@ -78,11 +74,11 @@ uktatvān neha prapañcyate}), referring also to Brahmaśambhu's \textit{Pañcik
 % (4r3)
 <TEXT>viśuddhiḥ kīrttyate tasyā yadā patnīparigrahaḥ |</TEXT>
 <TEXT>nijetaraguṇavyāptyā doṣahānir{ }asau yathā ||</TEXT>
-<APP>\vb <LEM>patnī°</LEM> \conj; patnaṃ° \A</APP>
+<APP>\vb <LEM>patnī°</LEM> \conj; patnaṃ° \msA</APP>
 
 
-%% Just as when you take hold of a wife, her purity is proclaimed, and her faults are diminished
-%% because she is pervaded by the virtues of yourself and of others.
+<TR>Just as when you take hold of a wife, her purity is proclaimed, and her faults are diminished
+because she is pervaded by the virtues of yourself and of others.</TR>
 %
 %%% Alternatively: “her own (nijā) fault removal by pervasion of the virtues of others (itaraguṇavyāptyā)”
 %%% Because marriage is a saṃskāra, it removes faults and brings virtues.
@@ -95,14 +91,12 @@ uktatvān neha prapañcyate}), referring also to Brahmaśambhu's \textit{Pañcik
 %% because she is pervaded by the virtues of one other than herself [viz. by the virtues of her husband].
 
 
-
-
 % 5
 % [1:88]
 <TEXT>toyādrivanasasyāni vaṭodumbarapippalāḥ |</TEXT>
 % (4r4)
 <TEXT>plakṣāḥ pūrvvādito yasyāḥ praśastāsāv{ }udakplavā ||</TEXT>
-<APP>\vc <LEM>yasyāḥ</LEM> \corr; yasyā \A</APP>
+<APP>\vc <LEM>yasyāḥ</LEM> \corr; yasyā \msA</APP>
 
 
 <TR>She [namely the piece of ground] is recommended when she slopes down towards the North, and in the other directions beginning with the East she has water, mountains, forests, crops, banyans, fig-trees, peepal, and Ficus infectoria.</TR>
@@ -116,9 +110,7 @@ uktatvān neha prapañcyate}), referring also to Brahmaśambhu's \textit{Pañcik
 <TEXT>gavāśvaratikṛt{ }puṃsām{ }adigbhramakarī dṛḍhā |</TEXT>
 <TEXT>samā ca samakarṇṇā ca garhitākṛtivarjitā ||</TEXT>
 
-
-<TR>She gives pleasure to cows and horses; she does not cause confusion to humans as to the directions; she is firm; level; of regular diameter (samakarṇā ?); not shaped in a contemptible/forbidden shape.</TR>
-
+<TR>She gives pleasure to cows and horses; she does not cause confusion to humans as to the directions; she is firm; level; of regular diameter (<skt>samakarṇā</skt> ?); not shaped in a contemptible/forbidden shape.</TR>
 
 % 7
 % [1:90] (4r5)
@@ -126,23 +118,21 @@ uktatvān neha prapañcyate}), referring also to Brahmaśambhu's \textit{Pañcik
 <TEXT>varṇṇānām{ }ānupūrvvyāt{ }tu liṃgair{ }jjñātā vibhūtikṛt || 90  ||</TEXT>
 
 
-<TR>She may be known to be a cause of wealth/success for each of the varṇas in turn by these signs in due order (ānupūrvyāt): kuśa-grass, reeds (śara), guduchi (? amṛtā), Saccharum spontaneum (kāśa) [and] by [particular] colours, textures (sparśa), tastes, and sounds.</TR>
+<TR>She may be known to be a cause of wealth/success for each of the varṇas in turn by these signs in due order (<skt>ānupūrvyāt</skt>): kuśa-grass, reeds (<skt>śara</skt>), guduchi (? <skt>amṛtā</skt>), Saccharum spontaneum (<skt>kāśa</skt>) [and] by [particular] colours, textures (<skt>sparśa</skt>), tastes, and sounds.</TR>
 
 
-<PARAL>Cf. Tantrasamuccaya 1:32a: vipraadikramata.h ku"se.suvanaduurvaakaa"sayuktaa</PARAL>
-
-
-
+<PARAL>Cf. Tantrasamuccaya 1:32a: viprādikramata.h ku"se.suvanaduurvaakaa"sayuktaa</PARAL>
 
 % 8
 % (4v1)
 <TEXT>pāṃsupuṣpajalaiḥ samyak{ }karagarttaparīkṣitā |</TEXT>
 <TEXT>kumārī grāmadhānī vā yāntyajair{ }na niṣevitā ||</TEXT>
-%% Instead of Alexis' reading kaca, kara would be an equally plausible reading ! Adopted !
+<APP>\vd <LEM>yāntyajair{ }na</LEM> \msApc; yāntyājair{ }ni \msAac</APP>
+%% Instead of Alexis' reading kaca, we read kara°
 
 
-<TR>It should be thoroughly examined by [digging] pits of one cubit [in depth] (kara°) [that are to be refilled] using dust, flowers and water.
-Whether it is virgin [land] (kumārī) or the site of a village (grāmadhānī), [it should be land] that is not inhabited by Antyajas.</TR>
+<TR>It should be thoroughly examined by [digging] pits of one cubit [in depth] (<skt>kara°</skt>) [that are to be refilled] using dust, flowers and water.
+Whether it is virgin [land] (kumārī) or the site of a village (<skt>grāmadhānī</skt>), [it should be land] that is not inhabited by Antyajas.</TR>
 
 
 
@@ -162,7 +152,7 @@ Whether it is virgin [land] (kumārī) or the site of a village (grāmadhānī),
 <TEXT>dharitrīṃ parigṛhṇīyād{ }vidhāyābhyantare kuṭīm ||</TEXT>
 
 
-<TR>Once one has acquired this land [for the sake] of the founder (\skt{yajvanaḥ}), which has the above-proclaimed qualities of purity, he should take possession of it by building a hut inside it.</TR>
+<TR>Once one has acquired this land [for the sake] of the founder (<skt>yajvanaḥ</skt>), which has the above-proclaimed qualities of purity, he should take possession of it by building a hut inside it.</TR>
 
 
 %% NOTE that \SLP\ spontaneously understood \skt{yajvanaḥ} to stand for \skt{yajvanaḥ kṛte}, “for the sake of the Yajamāna”.  The alternative would be to take it as an \skt{ārṣa} instance of genitive for nominative !
@@ -173,17 +163,16 @@ Whether it is virgin [land] (kumārī) or the site of a village (grāmadhānī),
 <TEXT>āmantritajanasthānapradhānaparivāritaḥ ||</TEXT>
 
 
-<TR>On an auspicious [solar] day, beneath an auspicious asterism, at an auspicious moment, on [an auspicious] lunar day, when there is strength in the [positions of the] moon and sun,
+<TR>On [an auspicious] lunar day that is qualified by an auspicious [solar] day, an auspicious asterism, and an auspicious moment, when there is strength in the [positions of the] moon and sun,
 surrounded by the prominent persons of the locality, whom he has invited,</TR>
 
 
 %% Perhaps janasthaana refers instead to some place of communal meeting
 
-
 % 12
 % (4v4)
 <TEXT>sūpaliptakuṭīmadhye sarvvadhānyoparisthitam |</TEXT>
-<TEXT>sitacandanaliptāṅgaṃ cūtāśvatthadalānanam</TEXT>
+<TEXT>sitacandanaliptāṅgaṃ cūtāśvatthadalānanam ||</TEXT>
 
 
 <PARAL>\vb Ł \textit{sarvva} is probably as
@@ -196,18 +185,17 @@ surrounded by the prominent persons of the locality, whom he has invited,</TR>
 
 
 
-% 13                                   bha<ḥ>
-<TEXT>śastaratnoṣadhīgarbhanimnagāmbha(ḥ)prapūritam |</TEXT>
+% 13
+<TEXT>śastaratnoṣadhīgarbhanimnagāmbhaḥprapūritam |</TEXT>
+<APP>\va <LEM>śasta°</LEM> \emend; sasta° \A</APP>
+<APP> \vb <LEM>°nimnagāmbhaḥ°</LEM> \emend; °nimnagāmbha° \msA</APP>
 % Alexis had read sapta°
 % (4v5)
 <TEXT>sadvastravasanaṃ kumbhaṃ sitasragdāmabhūṣitam ||</TEXT>
-        <APP>\va <LEM>śasta°</LEM> \emend;
-                                    sasta° \A</APP>
 <APP>\vd <LEM>sita°</LEM> \emend; śita \A<\APP>
 %
 <TR>In the middle of the hut, which has been well smeared [with cow-dung], a pot [is to be]
-placed on top of a pile of all types of grain, its body smeared with white sandal paste, its mouth filled with leaves of mango and aśvattha, filled with river water containing prized gems and herbs, clothed with good cloth, adorned with white garlands and girdles.</TR>
-
+placed on top of a pile of all types of grain, its body smeared with white sandal paste, its mouth filled with leaves of mango and aśvattha, filled with river water containing prized gems and herbs, clothed with good cloth, adorned with white garlands.</TR>
 
 % 14
 
@@ -215,14 +203,15 @@ placed on top of a pile of all types of grain, its body smeared with white sanda
 <TEXT>sāsanena sadehena śivena samadhiṣṭhitam |</TEXT>
 <TEXT>pūjayitvā vidhānena pūjayet{ }sthāninas{ }tataḥ ||</TEXT>
 %
-<APP>\va <LEM>sāsanena</LEM> \emend;
-                            sāśane{\plussign}na{\plussign} \A</APP>
-            <APP>\vb <LEM>samadhiṣṭhitam</LEM> \emend;
-                    samadhiṣṭitam \A</APP>
+<APP>\va <LEM>sāsanena</LEM> \emend; sāśane{\plussign}na{\plussign} \msA</APP>
+<APP>\vb <LEM>samadhiṣṭhitam</LEM> \emend; samadhiṣṭitam \msA</APP>
 % Alexis had read the first pāda thus: saśi\?vena\? sa dehena
 
+<TEXT>gandhapuṣpākṣataiḥ śubhrais{ }tāṃbūlaiś{ }ca|</TEXT>
+%  (end of 4v)
 
-<TR>One should venerate it [as being] presided over by \textsc{śiva}, along with his \textsc{āsana}, and with his \textsc{mūrti} (sadehena), in the prescribed manner. Then one should venerate [the dignitaries] who belong to the locality, using unguents, flowers, unhusked rice, which are pure, and offerings of betel.</TR>
+<TR>One should venerate it [as being] presided over by \textsc{śiva}, along with his \textsc{āsana}, and with his \textsc{mūrti} (<skt>sadehena</skt>), in the prescribed manner. Then one should venerate [the dignitaries] who belong to the locality, using unguents, flowers, unhusked rice, which are pure, and offerings of betel.</TR>
+
 %% The pot, in other words, receives the muula, aasana and muurti mantras !
 %% Who are the sthaanina.h ? Perhaps just the janasthānapradhānāḥ mentioned above !
 
@@ -230,8 +219,7 @@ placed on top of a pile of all types of grain, its body smeared with white sanda
 % 15                                        CSK added a daṇḍa here for technical reasons
 %                                           whenever the Devnag xml output produces a line in Roman
 %                                           there is a daṇḍa missing
-<TEXT>gandhapuṣpākṣataiḥ śubhrais{ }tāṃbūlaiś{ }ca|</TEXT>
-%  (end of 4v)
+
 
 
 %LACUNA (folios 5--7)
@@ -241,7 +229,7 @@ placed on top of a pile of all types of grain, its body smeared with white sanda
 
 
 % 16
-% (8r1)
+% (8r1, labelled as 6r in arabic numerals, but the verso is labelled as 8 in Newari numerals)
 <TEXT>[{\plussign}] [gṛ]hāṇi tathānyāni saṃghāṭo gṛhamālikā |</TEXT>
 <TEXT>catuḥśālaṃ tathotkṣiptaṃ bahulaṃ samahastakam ||</TEXT>
 
@@ -254,7 +242,7 @@ placed on top of a pile of all types of grain, its body smeared with white sanda
 % 1. Saṃghāṭa:
 % 17
 <TEXT>ekam{ }eva dvidhā bhinnaṃ saṃghāṭo dhananāśakṛt |</TEXT>
-% dhananāsakṛt A
+<APP> \vb <LEM>dhananāśakṛt</LEM> \emend; dhananāsakṛt \msA</APP>
 
 
 <TR>A single [building] split into two [is called] Saṃghāṭa. It causes loss of wealth.</TR>
@@ -267,7 +255,7 @@ placed on top of a pile of all types of grain, its body smeared with white sanda
 
 
 
-<TR> [A building] split into various [parts] [is called] a Mālā (/Mālikā) [and] makes the wealth of the owner divided into many.</TR>
+<TR> [A building] split into various [parts] [is called] a Mālā (/Mālikā) [and] creates wealth for the owner.</TR>
 
 
 %NM: Mayamata 26.100 describes that such a house consists of various parts across several stories like a garland (Dagens 2017: 2019 – CHECK SANSKRIT TEXT)
@@ -276,12 +264,12 @@ placed on top of a pile of all types of grain, its body smeared with white sanda
 % 3. Catuḥśāla:
 % 18
 <TEXT>catasraḥ saṅgatā śālā yasyaikaṃ prāṅgaṇaṃ bhavet |</TEXT>
-<TEXT>tac catuḥśālam{ }ity uktaṃ bhartuḥ prītivivarddhanam ||</TEXT>
+<TEXT>tac{ }catuḥśālam{ }ity{ }uktaṃ bhartuḥ prītivivarddhanam ||</TEXT>
 
 
 
 
-<TR>A house in which there are four halls and one courtyard is called a Catuḥśāla[-house]. It increases the pleasure/favour for the owner.</TR>
+<TR>A house in which there are four halls and one courtyard is called a Catuḥśāla[-house]. It increases pleasure for the owner.</TR>
 
 
 % 4. Udbhinna (/Utkṣipta) Catuḥśāla:
@@ -290,7 +278,6 @@ placed on top of a pile of all types of grain, its body smeared with white sanda
 <TEXT>catuḥśālasya naiśreṇyāṃ dvāraṃ yasyorddhvato bhavet |</TEXT>
 % ms: yasyordha.mto ; but we should probably adopt the orthography yasyorddhato !
 <TEXT>udbhinnaṃ tad{ }iti jñeyam{ }amātyabhavanaṃ śubham ||</TEXT>
-
 
 <APP>\vb<LEM>yasyorddhvato</LEM> \emend; yasyorddhaṃto \A<\APP>
 
@@ -305,26 +292,39 @@ placed on top of a pile of all types of grain, its body smeared with white sanda
 % 20
 <TEXT>samahastaṃ samair{ }hastaiḥ samantāc{ }caturaśrakam |</TEXT>
 % (8r4)
-<TEXT>madhyadvāram aniṣṭaṃ tad{ }dvāram{ }anyatra cec{ }chubham ||</TEXT>
+<TEXT>madhyadvāram{ }aniṣṭaṃ tad{ }dvāram{ }anyatra cec{ }chubham ||</TEXT>
 %ms: *dvārasaniṣṭaṃta? We think it rather reads madhyadvāram aniṣṭaṃ ta
 
+<APP>\vc <LEM>tad dvāram°</LEM> \msApc?; ta dvāram \msAac</APP>
 
-<APP>\vc <LEM>tad dvāram°</LEM> \emend; ta dvāram \A<\APP>
 
-
-<TR>A Samasta house [house] is square, [measuring] all around the same [amount of] hastas. A door in the middle is not desirable; that door, if it is somewhere, it is fine.</TR>
-
+<TR>A Samasta house [house] is square, [measuring] all around the same [amount of] hastas. A door in the middle is not desirable; that door, if it is somewhere else, it is fine.</TR>
 
 
 
-% 6. Bahula/Bāhulaka:
+
+
 % 21
-<TEXT>ubhayor{ }viṣamair{ }hastaiś{ }caturaśrā śubhāḥ smṛtā |</TEXT>
-%AS:smṛtāḥ; perhaps emend to: caturaśrāḥ śubhāḥ smṛtāḥ !
+<TEXT>ubhayor{ }viṣamair{ }hastaiś{ }caturaśrā śubhā smṛtā |</TEXT>
+<APP> \vb <LEM>śubhā</LEM> \emend; śubhāḥ \msA</APP>
+<!-- %%<APP> \vb <LEM>caturaśrāḥ</LEM> \emend; caturaśrā \msA</APP>
+%%<APP> \vb <LEM>smṛtāḥ</LEM> \emend; smṛtā \msA</APP>
+%AS:smṛtāḥ; perhaps emend to: caturaśrāḥ śubhāḥ smṛtāḥ  -->
 <TEXT>tribhāganirgatair{ }bhadrair{ }upetā madhyanirggamā ||</TEXT>
 
 
-<TR>Houses that have four right-angles but with a different measurements of cubits on each side are held to be fine.  [Second half not clear !!]</TR>
+
+<TR>[A house (<skt>śālā</skt>)] that has four right-angles but with a different measurement of cubits on each side is held to be fine.  It should have a central projection (<skt>madhyanirggamā</skt>) [and be] equipped with Bhadras (?) which should project three-quarters [of the way out(?)].
+  [Second half not clear !!]
+</TR>
+
+% Perhaps one should emend to madhyanirgamāḥ and undertand
+
+cf. Mayasa"ngraha 5:73 on madhyanirgama (Check Libbie's book, p. 396)
+
+
+%%22.10.2021
+% 6. Bahula/Bāhulaka:
 % 22
 % (8r5)
 <TEXT>atidīrghaṃ gṛhaṃ yat{ }tu nāmnā bāhulakaṃ hi tat |</TEXT>
