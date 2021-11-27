@@ -649,209 +649,458 @@ iti | ete.saa.m nava granthisthaanaani vij~neyaani dvaada"saanta"sikhaarandhra-l
 %
 %%ms, 70A
 [4.53]
-<TEXT>granthaya<ḥ> sthānakāny eṣāṃ padāni bhuvanāni ca |</TEXT>
-<TEXT>kathyante nukrameṇaiva sarvaprāṇiṣu tad{ }yathā ||</TEXT>
+<TEXT>granthayaḥ sthānakāny eṣāṃ padāni bhuvanāni ca |</TEXT>
+	<APP> \va <LEM>granthayaḥ</LEM> \emend; granthaya \msA</APP>
+<TEXT>kathyante ’nukrameṇaiva sarvaprāṇiṣu tad{ }yathā ||</TEXT>
 
 [4.54]
-<TEXT>cūlikāntaṃ śikhārandhraṃ lalāṭaṃ bhrūyugānta(70r2)ram |</TEXT>
+<TEXT>cūlikāntaṃ śikhā randhraṃ lalāṭaṃ bhrūyugāntaram |</TEXT>
+		<APP> \va <LEM>śikhā</LEM> \emend; śikhāṃ \msA</APP>
 <TEXT>ghaṇṭikāgraṃ galaśvabhraṃ hṛdayaṃ tadanantaram ||</TEXT>
+	<APP> \vc <LEM>°śvabhraṃ</LEM> \emend; °svabhraṃ \msA</APP>
 
-[4.55] nābhir bastiś ca mantrāṇāṃ daśaite cāragranthayaḥ |%
+[4.55]
+<TEXT>nābhir{ }vastis{ }tu mantrāṇāṃ daśaite cāragranthayaḥ |%</TEXT>
+  <APP> \va <LEM>vastis{ }tu</LEM> \conj\ (Judit); vastisu \msA</APP>
+<TEXT>jñātavyāḥ siddhimuktyarthaṃ guruṇā sādhakena tu ||<TEXT>
+	<APP> \vc <LEM>jñātavyāḥ</LEM> \emend; jñātavyā \msA</APP>
+%%(70r3)
+
+<TR>These are the ten knots for the movement/enunciation (?) (<skt>cāragranthayaḥ</skt>) for the mantras (?): the tip of the topknot (<skt>cūlikāntaṃ</skt>), the topknot (<skt>śikhā</skt>), the [brahma?]randhra (<skt>randhram</skt>), the forehead, the space between the brows, the tip of the uvula  (<skt>ghaṇṭikāgram</skt>). the cavity [at the base] of the throat (<skt>galaśvabhram</skt>), the heart, and then the navel and the pelvis/abdomen (<skt>vastiḥ</skt>).</TR>
+
+<!--Cf. Vimalāvatī (100a/b):
+ "si.syaatma kumbhavahnibhyo ma.n.dalaadadhi .sa.dvidha.h |
+sa.ng.rhyaadhaanamaaropya praa.nanaa"siigata.m "sruva.h ||
+agre gurukukandaadermantramurccaara.nanyathaa |
+medryerddhe(?) kandanaabhi"sca h.rdaya.m ka.n.thakuupikaa.h ||
+gha.n.tikaagra.m bhruvormadhya.m lalaa.mbrahma.novila.m |
+"sikhaa vaa dvaada"saanta.m ca da"saitecaaragranthaya.h ||
+100b)
+mantraa.naa.m siddhimuktyartha.m j~naatavyaa de"sikaadibhi.h |
+muulamantratri"suulena bhitvaagranthiin anukramaat ||-->
+
+[4.56]
+<TEXT>tam{ }atho sādhakaṃ hṛṣṭaṃ labdhamantraikamānasam |%</TEXT>
+		<APP> \va <LEM>tam{ }atho</LEM> \conjS; tamartho \msA</APP>
+<TEXT>nirvighnobhayasiddhyartham ācārān{ }smārayed{ }iti ||</TEXT>
+		<APP> \vd <LEM>smārayed</LEM> \emend; smarayed \msA</APP>
+<NOTE>Marginal note on <skt>ubhaya</skt> at the bottom glosses the expression with
+<skt>3 bhuktimukti</skt>.</NOTE>
+<TR>Then he should cause the <skt>sādhaka</skt>, who should be happy and with his thoughts entirely focussed on the mantra that he has just received, to rememember the rules of conduct, in order to obtain success without obstacles, in the following manner (<skt>iti</skt>).</TR>
+
+[4.57]
+<TEXT>tvayedānīm ito ’nyatra susahāyena suvrata |</TEXT>
+(70r4)
+<TEXT>dhāryaṃ vidyāvrataṃ dhīra kāyaśuddhipuraḥsaram |</TEXT>
+
+<TR>You should now, O one true to your observances, go elsewhere from here, along with your ritual accomplice (<skt>susahāyena</skt>) and you should perform the observance for the propitiation of the mantra (<skt>vidyāvratam</skt>), having first performed purifications of the body, O steadfast one (<skt>dhīra</skt>).</TR>
+
+%%cf. Vidyāvrata by Dominic “Dressing for Power”, Alexis Sanderson Volume
+[4.58]
+<TEXT>sevyaṃ suprathitaṃ kṣetraṃ liṅgam{ }īpsitasiddhidam |</TEXT>
+<TEXT>dravyam{ }āyatisaṃśuddham{ }āhāram{ }avikāriṇam ||</TEXT>
+<NOTE>Marginal note on <skt>āyati</skt>: <skt>4 āgāmikakāla</skt></NOTE>
+
+<TR>[For this observance] you should frequent a well-known sacred site, [and] a liṅga that bestows desired powers.</TR>
+<NOTE>The point of <skt>āyati</skt>, if it refers to future time, is not clear to us. Also, we expect a transitive verb to govern the accusative <skt>āhāram</skt>.</NOTE>
+
 %
-		\var{nābhir bastiś ca \conj nābhibastisu A} %
-%
-jñātavyā<ḥ> siddhimuktyarthaṃ guruṇā sādhakena tu ||  (70r3)
-[4.56] tam atho sādhakaṃ hṛṣṭaṃ labdhamantraikamānasam |%
-%
-		\var{tam atho \conj : tṛmartho A}%
-%
-nirvighnābhayasiddhyartham ācārān smārayed iti ||
-%
-		\var{smārayed \eme : smarayed A}%
-		%
-		\tika{Marg. note on \textit{nirvighnābhayasiddhyartham}:
-		\textit{3 bhuktimukti.}
-%
-[4.57] tvayedānīm ito nyatra susahāyena suvrata |
-(70r4) dhāryaṃ vidyāvrataṃ dhīra kāyaśuddhipuraḥsaram |
-[4.58] sevyaṃ suprathitaṃ kṣetraṃ liṅgam īpsitasiddhidam |
-dravyam āyatisaṃśuddham āhāram avikāri(70r5)ṇām ||%
-%
-		\tika{Marg. note on \textit{āyati}: \textit{4 āgāmikakāla.}}
-%
-[4.59] saṅgaḥ sarvaḥ parityājyo nigrahānugrahau tathā |%
-%
-		\var{sarvaḥ \conj : sarvaiḥ A}%
-%
-pratikūlas tu yaḥ siddher gṛhītasamayāvādhi ||%
-%
-		\var{siddher \conj : siddhe A}%
-%
-[4.60] vihitan na parityājyaṃ karttavyaṃ na ni(70v1)ṣiddhakam |
-tadvyutkrame ca karttavyaṃ prāyaścittaṃ pramādataḥ || 60 ||
-[4.61] evaṃ saṃsūcitācāro gurus tasya śivānale |
-śivaṃ santarppayitvā tu yathāpūrvaṃ (70v2) visarjjayet ||
-[4.62] maṇḍalasthaṃ tadādeśasamarpaṇapuraḥsaram |
-pūrvavad upasaṃhṛtya kalaśāyatane nyaset ||
-[4.63] upanīya baliṃ bāhye devatābhyaḥ śuciḥ (70v3) svayam |
-tena snāyāt svadehasthamantragrāmābhitṛptaye ||
-[4.64] anenaiva tadānīṃ vā sādhakaṃ hy abhiṣecayet |%
-%
-		\tika{Marginal note on \textit{tadānīṃ}: abhiṣekasamaye}%
-%
-% The section that follows, 64c--67, corresponds to the Astrābhiṣekavidhi taught in Somaśambhu (III 527--537)
-idānīṃ copasarggāṇāṃ bhāvināṃ vini(70v4)vṛttaye ||
-[4.65] eṣa evopasṛṣṭasya cchidritasya ca mantriṇaḥ |%
-%
-		\tika{Marginal note on this verse after \textit{mantriṇaḥ}:
-		\textit{ 4 yadā vighnobhibhūyate
-		astrena pūrvavat sarvaṃ kṛtvābhiṣecayet}}%
-%
-vidhir astreṇa kiṃ tv atra viśeṣo japahomagaḥ ||
-[4.66] vandhyānāṃ mṛtavatsānāṃ strīprasūnāñ ca (70v5) yosītām |
-durbhagānām abījānāṃ puṃsām api hitāvahaḥ ||
-[4.67] nṛpāṇāṃ bhāgyahīnānāṃ ripubhiḥ pīḍitātmanām |
-lakṣmīvijayasaubhāgya(71r1)dharmakāmārthasādhakaḥ || o ||
-%
-		\testim{4.66--47 are quoted without attr. in KKD p. 383 as the
+[4.59]
+<TEXT>saṅgaḥ sarvaiḥ parityājyo nigrahānugrahau tathā |</TEXT>
+%% Alexis proposed emending here: \var{sarvaḥ \conj : sarvaiḥ A}%
+<TEXT>pratikūlas{ }tu yaḥ siddher{ }gṛhītasamayāvadhi ||</TEXT>
+	<APP> \vc <LEM>siddher</LEM> \conjS; siddhe \msA</APP>
+
+<TR>He should avoid	contact with everybody, [and he should also avoid] punishing or bestowing grace, [or any contact] that would be contrary to the power [he aims to achieve], for as long as he follows the rules [of conduct] adopted.</TR>
+
+% f. 70b (roman and old numbering)
+[4.60]
+<TEXT>vihitan na parityājyaṃ karttavyaṃ na niṣiddhakam |</TEXT>
+<TEXT>tadvyutkrame ca karttavyaṃ prāyaścittaṃ pramādataḥ || 60 ||</TEXT>
+<APP> \vc <LEM>tadvyutkrame</LEM> \msA\pc; tadvyutkrameṇa \msA\ac</APP>
+
+<TR>One should not avoid doing what is enjoined; he should not perform what is forbidden. If he should transgress [this rule] by mistake, then he should perform a rite of expiation.</TR>
+
+
+[4.61]
+<TEXT>evaṃ saṃsūcitācāro gurus{ }tasya śivānale |</TEXT>
+<APP> \vc <LEM>śivānale</LEM> \emend; sivānale \msA</APP>
+<TEXT>śivaṃ santarppayitvā tu yathāpūrvaṃ visarjjayet ||</TEXT>
+
+<TR>When the guru has thus performed the practices that have been indicated for that [initiate] (<skt>tasya</skt>), he should then satifsy Śiva in the Śiva-fire before inviting him to depart in the same manner as before.</TR>
+
+[4.62]
+<TEXT>maṇḍalasthaṃ tadādeśasamarpaṇapuraḥsaram |</TEXT>
+<APP> \vb <LEM>tadādeśa°</LEM> \emend; tadādesa° \msA</APP>
+<TEXT>pūrvavad{ }upasaṃhṛtya kalaśāyatane nyaset ||</TEXT>
+<APP> \vd <LEM>nyaset</LEM> \msA\pc; nyase \msA\ac</APP>
+
+<TR>He should then resorb the []Śiva] residing in the <skt>maṇḍala</skt>, after first having handed over [to the initiate] the instructions of Śiva (?<skt>tadādeśasamarpaṇapuraḥsaram</skt>),
+he should place him in the residence [of Śiva] that is the pot.</TR>
+
+<NOTE>Perhaps <skt>tadādeśa°</skt> could instead refer to informing and thus requesting permission from Śiva.</NOTE>
+
+
+[4.63]
+<TEXT>upanīya baliṃ bāhye devatābhyaḥ śuciḥ svayam |</TEXT>
+<TEXT>tena snāyāt svadehasthamantragrāmābhitṛptaye ||</TEXT>
+
+<TR>Having brought bali-offerings for the deities outside [the ritual enclosure], being himself pure, he should [nonetheless] bathe with that [water in the pot] for the sake of satisfying the group of mantras residing in his own body.</TR>
+
+% We at first thought that tena might mean therefore, but the next verse clarifies that
+% tena should rather refer to the kala"sa, as we have assumed in the above translation.
+
+[4.64]
+<TEXT>anenaiva tadānīṃ vā sādhakaṃ hy abhiṣecayet |</TEXT>
+<NOTE>Marginal note on <skt>tadānīṃ</skt>: <skt>abhiṣekasamaye</skt></NOTE>
+<NOTE>The section that follows, 64c--67, corresponds to the <skt>Astrābhiṣekavidhi</skt> taught in Somaśambhu (III 527--537).</NOTE>
+
+<!--2.3 astraabhi.sekavidhi.h
+
+n.rpatiinaa.m naraa.naa.m ca vandhyaadiinaa.m ca yo.sitaam
+mahaavighnaabhibhuutaanaam sadya.h "saantikara.m param      1            K: 1099
+lak.smiivijayasaubhaagyadharmaadii.s.taphalapradam
+aagamaarthaavisa.mvaadi likhyate .astraabhi.secanam          2
+
+astraarcanamantrakrama.h
+
+				?o.m "slii.m pa"suu.m hu.mpha.t nama.h|
+				?o.m o.m h.rdayaaya hu.mpha.n.nama.h|
+				?o.m "slii.m "sirase hu.mpha.n.nama.h|
+				?o.m pa.m "sikhaayai hu.mpha.n.nama.h|
+				?o.m "suu.m kavacaaya hu.mpha.n.nama.h|
+				?o.m hu.m netrebhyo hu.mpha.n.nama.h|
+				?o.m pha.t astraaya hu.mpha.n.nama.h|
+sak.rnmantra.m samuccaarya "sariire vinyased budha.h
+a"ngaani vinyaset pa"scaad o"nkaaraadinamo.antakam           3
+bahir a.s.tadala.m padma.m dhyaatvaasminn astram arcayet
+ma.n.dale catura"sre vaa rajoraajiviraajite                   4
+pra.navaasanam aaruu.dha.m da"sabaahu.m mahaabalam
+pa~ncaasya.m da"sakar.na.m ca prativaktra.m trilocanam      5
+da.m.s.traakaraalam atyugra.m mahaanaada.m sudurjayam
+lelihaana.m duraaghar.sa.m suuryako.tyayutaprabham                          6
+ittha.m paa"supata.m caastra.m vighnasa.mghaatamardanam
+kar.nikaamadhyamaasiina.m puujayet parame"svaram            7
+bindunaadaviyuktena vidadhyaan mara.naadikam
+yuktena bindunaadaabhyaa.m bhukti.m mukti.m ca saadhayet         8
+pra.nava.m taijase patre "slii"nkaare "saa"nkare dale
+nair.rte tatt.rtiiya.m tu caturtha.m vaayugocare                             9
+hu"nkaara.m devanetre.su hu.mpha.dindudale sthitam
+ittha.m vinyasya sa.mpuujya vidhinaa homam aacaret          10
+navaatmaahutibhis tatra navabhi.h sa.msk.rte .anale
+trimadhunaastraraajasya yajed a.s.taadhika.m "satam         11
+bali.m datvaa vidhaanena kala"sa.m vaaripuuritam
+puujayel lak.sa.nopeta.m puurvavat pra.navaasane            12
+puujayed astramantre.na "satenaa.s.taadhikena tam
+anena snaapayec chi.sya.m dhyaatvaa ruupa.m yathoditam      13
+ma"ngalair vedanirgho.sair bheriituuryaadini.hsvanah
+dadyaad vastraak.sataadiini gurur aa"siipura.hsaram         14
+ittham astraabhi.seko .api vighnaughavinivaara.na.h
+hitaaya kathita.h pu.msaa.m "sriimataa soma"sambhunaa       15-->
+
+
+<TEXT>idānīṃ copasarggāṇāṃ bhāvināṃ vinivṛttaye ||</TEXT>
+
+<TR>Optionally (/Alternatively) he may at that time inundate the [newly initated] <skt>sādhaka</skt> using the same [<saktyaadikrame>kalaśa</saktyaadikrame>], in order to ward off now itself future calamities [that might befall him].
+</TR>
+
+[4.65]
+<TEXT>eṣa evopasṛṣṭasya cchidritasya ca mantriṇaḥ |</TEXT>
+<NOTE>Marginal note on this verse after <skt>mantriṇaḥ</skt>:
+ <skt>4 yadā vighnobhibhūyate
+		astrena pūrvavat sarvaṃ kṛtvābhiṣecayet</skt></NOTE>
+<TEXT>vidhir{ }astreṇa kiṃ tv{ }atra viśeṣo japahomagaḥ ||</TEXT>
+
+<TR>This same rite [may also be peformed] for a <skt>sādhaka</skt> (<skt>mantriṇaḥ</skt>) who is afflicted by misfortune (<skt>upasṛṣṭasya</skt>) and harmed (<skt>chidritasya</skt>), but the special feature in this case in the recitation and in the oblations is [that it should be performed] using the <skt>astra</skt>.</TR>
+
+<NOTE>It is not entirely clear how much of the ritual proceedings can be used in this different context of the afflicted sādhaka.</NOTE>
+
+[4.66]
+<TEXT>vandhyānāṃ mṛtavatsānāṃ strīprasūnāñ{ }ca yoṣitām |</TEXT>
+<TEXT>durbhagānām{ }abījānāṃ puṃsām{ }api hitāvahaḥ ||</TEXT>
+
+<TR>[This ritual, using <skt>astra</skt>,] is beneficial also for barren women, for women whose offspring have died, of women who have given birth to a female child, and also of unfortunate men who have no [fertile] seed.</TR>
+
+
+[4.67]
+% f. 71r begins with °dharmakāmārtha°
+<TEXT>nṛpāṇāṃ bhāgyahīnānāṃ ripubhiḥ pīḍitātmanām |</TEXT>
+<TEXT>lakṣmīvijayasaubhāgyadharmakāmārthasādhakaḥ || o ||</TEXT>
+<TR>For kings who have no good fortune, who are oppressed by their enemies, [this rite] accomplishes glory, victory, good fortume, merit, desires, wealth.</TR>
+
+<NOTE>4.66--67 are quoted without attr. in KKD p. 383 as the
 		introduction to this topic. Cf. ĪŚGDP KP p. 196:
-		\textit{anenaiva vidhānena rājyakāmaṃ tadāptaye /
+	<skt>anenaiva vidhānena rājyakāmaṃ tadāptaye /
 		bhraṣṭaiśvaryam aputraṃ ca striyaṃ saubhāgyasiddhaye /
-		abhiṣiñcec chive bhaktān dīkṣayitvā na cānyathā}.}
+		abhiṣiñcec chive bhaktān dīkṣayitvā na cānyathā</skt>.</NOTE>
 %
-[4.68] athācāryam imaiḥ sarvair yuktaṃ sādhakalakṣaṇaiḥ |
-nigrahānugrahaiḥ sārdham udāram abhiṣecayet ||%
+%%11.06.2021
+[4.68]
+<TEXT>athācāryam{ }imaiḥ sarvair{ }yuktaṃ sādhakalakṣaṇaiḥ |</TEXT>
+<TEXT>nigrahānugrahaiḥ sārdham{ }udāram{ }abhiṣecayet ||</TEXT>
 %
-		\tika{Marg. note on \textit{udāram}: \textit{1 dātāraṃ}}%
+<NOTE>Marg. note on <skt>udāram</skt>: <skt>1 dātāraṃ</skt>. It looks as though <skt>dātāraṃ</skt> might be intended as a gloss (rather than as a correction) of <skt>udāraṃ</skt>.  It is not particularly clear as either.</NOTE>
 %
-[4.69] maṇḍale sarvato(71r2)bhadre sarvānugrāhakaṃ śivam |
-pañcasrotodhi\?m\?ūrttistham api sampūjya pūrvavat ||
-[4.70] śivāgnāv apy akārpaṇyam abhisaṃtarpya pūjitam |
-datvā cāntarba(71r3)liṃ sphītaṃ praṇamyādhyeṣayed iti || 370 ||%
-%
-	\tika{The verses that follow are quoted without
+<TR>Then he should anoint as <skt>ācārya</skt> someone who possesses all these characteristics of a <skt>sādhaka</skt>, who is generous (<skt>udāram</skt>) with [the appropriate bestowal] of punishments and acts of grace.</TR>
+
+<NOTE>What exactly is meant by <skt>nigraha</skt> here?  Perhaps it refers to the guru's power to impose expiations (<skt>prāyaścitta</skt>)?  Or perhaps to his decision in some cases not to give initiation (<skt>anugraha</skt>).</NOTE>
+
+[4.69]
+<TEXT>maṇḍale sarvatobhadre sarvānugrāhakaṃ śivam |</TEXT>
+<TEXT>pañcasroto ’dhi mūrttistham{ }api sampūjya pūrvavat ||</TEXT>
+<APP> \vc <LEM>°sroto°</LEM> \emend; °śroto° \msA</APP>
+
+<TR>He should worship as before Śiva, who bestows compassion on all, in the maṇḍala known as Sarvatobhadra, in (<skt>adhi</skt>) five-streamed [Śaiva scripture] and also in the body [of the guru].  </TR>
+
+<NOTE>The interpretation of <skt>pañcasroto ’dhi</skt> is quite uncertain. If indeed it refers to Śaiva scripture, then the idea might be that Śiva should be venerated in a manuscript of a Śaiva scripture. But is there a parallel for this in this context ?
+ Perhaps the whole quarter consists of a single compound.
+Śiva occupying the body of the initiating guru is often expressed with compounds involving <skt>mūrtistha</skt>.
+Cf., e.g., Śivopaniṣat
+iti ya.h puujayen nitya.m gurumuurtistham ii"svaram  /
+sarvapaapavinirmukta.h praapnoti parama.m padam  // 7.42 //</NOTE>
+
+[4.70]
+<TEXT>śivāgnāv{ }apy{ }akārpaṇyam{ }abhisaṃtarpya pūjitam |</TEXT>
+<TEXT>datvā cāntarbaliṃ sphītaṃ praṇamyādhyeṣayed{ }iti || 370 ||</TEXT>
+
+<NOTE>The verses that follow are quoted without
 	attribution in Jñ = \textit{Jñānaratnāvalī} T. 231:408--409
 	up to \textit{evaṃ kuru} and in Agh = KKD  p. 371
-	(SŚP III 459) up to \textit{evaṃ kurv iti śivena kila}.}
-%
-[4.71] bhavataivam ahaṃ nātha ādiṣṭo gurumūrttinā |%
-%
-		\var{nātha A Agh : svāmin Jñ}%
-%
-dīkṣāvyākhyāniyogo yam avicchedāya suvrata || (71r4)
-[4.72] samyagjātiparijñānavṛttākāravate tvayā |%
-%
-		\var{jāti A Agh : jñāti Jñ}%
-%
-dātavyo nijaśiṣyāya śiraḥsekād anantaram |%
-%
-		\var{śiraḥsekād A Jñ : śivasekād Agh}%
-%
-[4.73] tavānubhāvataḥ soyaṃ mamedānīm upasthitaḥ ||
-(71r5) tad asmai tat prayacchāmi niyogaṃ bhavadājñayā |
-[4.74] evaṃ kuru śivenāpi kilety evam udīritaḥ ||
-śivāgneḥ sannidhau tasya kuryāl lakṣaṇasaṃskṛtim |%
-%
-		\tika{Marginal note on lakṣaṇasaṃskṛtim: dagdhahastaṃ}%
-%
-[4.75] (71v1) adīkṣitātmano dīkṣā<ṃ> chidraghnāṃ cetarasya tu ||
-nirvartya pūrvavad dīkṣāṃ yenoktam abhiṣiñcayet |
-%
-		\tika{Marginal note after nirvarttya:
+	(SŚP III 459) up to \textit{evaṃ kurv iti śivena kila}.
+See also: Dīkṣādarśa, T0372,  p. 1548
+Vimalāvatītantra, NGMCP 1-431 reel number: A186/10, 101b.</NOTE>
+
+<TR>And having satisfied the [thus] worshipped [Śiva] (<skt>pūjitam</skt>) unstintingly (<skt>akārpaṇyam</skt>) [with offerings] into the Śiva-fire, and having offered the inner bali-offering richly (<skt>sphītam</skt>), he should prostrate himself and declaim the following [words] (<skt>iti</skt>).</TR>
+
+
+[4.71]
+<TEXT>bhavataivam{ }ahaṃ nātha ādiṣṭo gurumūrttinā |</TEXT>
+<TEXT>dīkṣāvyākhyāniyogo ’yam{ }avicchedāya suvrata ||</TEXT> (71r4)
+<NOTE>nātha A Agh : svāmin Jñ</NOTE>
+
+[4.72]
+<TEXT>samyagjātiparijñānavṛttākāravate tvayā |</TEXT>
+		\var{jāti A Agh : jñāti Jñ}
+<TEXT>dātavyo nijaśiṣyāya śiraḥsekād{ }anantaram ||</TEXT>
+		\var{śiraḥsekād A Jñ : śivasekād Agh}
+
+<TR>By you, O Lord, who reside in the body of the guru, I have been directed in this way. This injunction/instruction/employment (<skt>niyogaḥ</skt>) to give initiation and teaching should be given by you to your own disciples, who must be of correct birth, knowledge, conduct and bodily form, after anointing them on the head, so that there may be no break [in transmission], O You who are true in your observances!</TR>
+
+%%06.08.2021
+[4.73]
+%%(71r4)
+<TEXT>tavānubhāvataḥ soyaṃ mamedānīm{ }upasthitaḥ |</TEXT>
+<TEXT>tad{ }asmai tat{ }prayacchāmi niyogaṃ bhavadājñayā ||</TEXT>
+
+<TR>Because of your power, this man here now waits upon me. I therefore confer upon him this injunction/duty, in accordance with your command.</TR>
+
+[4.74]
+<TEXT>evaṃ kuru śivenāpi kilety{ }evam{ }udīritaḥ |</TEXT>
+<APP> \va <LEM>śivenāpi</LEM> \emend; sivenāpi \msA</APP>
+<TEXT>śivāgneḥ sannidhau tasya kuryāl{ }lakṣaṇasaṃskṛtim ||</TEXT>%
+<NOTE>Marginal note on <skt>lakṣaṇasaṃskṛtim</skt> reads: <skt>dagdhahastaṃ</skt></NOTE>
+
+<TR>When he has been spoken to, seemingly (<skt>kila</skt>), by Śiva in turn (<skt>api</skt>), thus: “Do so!”, he should perform the transformatory rite (<skt>°saṃskṛtim</skt>) [which confers the required] characteristics [of a guru] on that [disciple] in the presence of the Śiva-fire.
+</TR>
+
+<NOTE>We are not sure what is meant by lakṣaṇa° here. For the practice of rendering the new <skt>ācārya</skt>'s hands “burnt”, cf. <skt>Kiraṇatantra</skt> 27:14.;
+see also Somaśambhupaddhati, Vol. III, p. 493 (verses 22-23)</NOTE>
+
+[4.75]
+%%(71v1)
+<TEXT>adīkṣitātmano dīkṣāṃ chidraghnāṃ cetarasya tu |</TEXT>
+<APP> \va <LEM>dīkṣāṃ</LEM> \conjS; dīkṣā \msA\</APP>
+<TEXT>nirvartya pūrvavad{ }dīkṣāṃ yenoktam{ }abhiṣiñcayet ||</TEXT>
+
+<NOTE>There is a marginal note (in the bottom margin) signalled before <skt>nirvartya</skt>:
 		tadā kāle 'dīkṣitāṃ vā vighnopahataṃ vā
-		yadi prārthayati dīkṣayet.}%
+		yadi prārthayati dīkṣayet.</NOTE>
+
+<TR>After [at this moment] accomplishing, in the same way as before, [any] initiation of someone [who happens to be] uninitiated, [or] an initation that destroys obstacles for some other person [who is afflicted by disasters], ?? yenoktam ?? he should anoint him.</TR>
+
+[4.76]
+<TEXT>pūrvvābhiṣekavac{ }cheṣaṃ sādhyenānuparaṃjitam |</TEXT>
+<TEXT>kuryāt{ }tatra yathābhīṣṭam{ }anayena nayena vā ||</TEXT>
+<NOTE><LEM>sādhyenānuparaṃjitam</LEM> In the bottom margin, <skt>sādhyamantravivarjitam</skt> has been written, we assume as a gloss of the transmitted text.
+</NOTE>
+
+<TR>He should then (<skt>tatra</skt>) perform the rest [viz. the extra initiations for those who happen to request them at that moment ?] as required of him (<skt>yathābhīṣṭam</skt>), whether unjustly or justly (?), in the same manner as the [immediately] preceding rite of <skt>abhiṣeka</skt>, [except] without any taint (<skt>anuparaṃjitam</skt>) by [the mantra] which is to be mastered [by the <skt>sādhaka</skt> receiving <skt>abhiṣeka</skt>] (<skt>sādhyena</skt>).</TR>
+
+<NOTE>
+What is meant by <skt>anayena nayena vā</skt>? Could it mean that the guru does not investigate at this point whether those asking for <skt>dīkṣā</skt> are asking justly ?</NOTE>
+
+[4.77]
+<TEXT>adhikārapade cāsya nigrahānugrahakriyā |</TEXT>
+<APP> \vb <LEM>°kriyā</LEM> \emend; °kriyām \msA</APP>
+<TEXT>karaṇī karttarī sūtram uṣṇīṣañ cādhikaṃ bhavet ||</TEXT>
+
+<TR>In this position of responsibility, he has [a duty to perform] rites of restraining and bestowing grace, thread (<skt>karaṇī</skt>), scissors, [sacred] thread (?), and additionally a turban.</TR>
+
+
+[4.78]
+<TEXT>trikṛtvo dakṣiṇaṃ pāṇin{ }darbhavartyātidīptayā |</TEXT>
+<APP> \va <LEM>trikṛtvo</LEM> \emend; tṛkṛtvo \msA</APP>
+<TEXT>saṃspṛśya kalpayet{ }tasmiṃ harahastaṃ yathātmanaḥ ||</TEXT>
+
+<TR>Touching his right hand three times with a brightly flaming wick of Darbha grass, he should make [and lay] upon him the Śivahasta, as for himself.</TR>
+
+<NOTE>Does this mean that he installs the mantras on his hand, and then lays the Śiva-hand first upon himself and then upon the new <skt>ācārya</skt> ?</NOTE>
+
+[4.79]
+<TEXT>sarvādhikāram{ }ātmīyan{ }tatra tasya samarpayet |</TEXT>
+<TEXT>tam{ }abhivādayed{ }asmin kāle ’thānyaṃ prabodhayet ||</TEXT>
+<NOTE>Marginal note on \textit{anyaṃ}: \textit{4 sādhakādi}.</NOTE>
+
+<TR>Into that person (<skt>tasya</skt>) he should at that moment (<skt>tatra</skt>) transfer all his responsibilities.  At that time he should formally greet him. Then [after that] (<skt>atha</skt>) he should awaken [by initiation] any others [such as sādhakas].</TR>
+
+<NOTE>This translation assumes that, if there are other candidates for other sorts of initiation who are receiving those initiations at the same ceremony, he should first complete the transfer of responsibilities to the newly ordained guru, and then after that he should peform the other initiations. Following the marginal gloss, we take the word <skt>anyaṃ</skt> to mean <skt>anyān dīkṣyān</skt>.</NOTE>
+
+[4.80]
+<TEXT>gṛhītvā dakṣiṇāṅguṣṭhaṃ pāṇer{ }dakṣiṇapāṇinā |</TEXT>
+<TEXT>praveśayed{ }anūtthāpya śivamaṇḍalamaṇḍapam || 380 ||</TEXT>
+%% CHECK whether writing this extra double daṇḍa will cause the verse count to jump twice !
+%% Should we find another way to transcribe the double daṇḍa that will not affect the step-count ?
+%% QUESTION FOR Csaba Kiss !!
+
+<TR>With his right hand [the guru] should take the right thumb of the hand [of the initiand], he should cause him to get up and cause him to enter the pavilion where the śivamaṇḍala is drawn.</TR>
+
+[4.81]
+<TEXT>kṛtapradakṣiṇaṃ cāntarmaṇḍalasya praveśitam |</TEXT>
+<TEXT>praṇāmitaśivaṃ cāsya yāmyāyām uttarāsyakam ||</TEXT>
+
+<TR>Once [the initiand] has performed a circumambulation [keeping the maṇḍala on the right], has been caused to enter within the maṇḍala, has been caused to bow before Śiva, when he is facing North, [positioned] to the South of himself (<skt>asya</skt>), …
+</TR>
+% f,. 72
+[4.82]
+<TEXT>īṣadunmīlitākṣeṇa sūcayaṃs{ }tam{ }mukhena tu |</TEXT>
+<TEXT>śuśrūṣāṃ deśikācāragocarāṃ śrāvayed{ }iti ||%</TEXT>
+<APP> \vd <LEM>gocarāṃ śrāvayed</LEM> \conj; gocarān srāvayed \msA</APP>
+
+<TR>…with his eyes partly closed, [the guru] should point to him (?sūcayaṃs{}tam) using his face, and he should declare to him [the nature of] his obedience relating to his conduct as guru in the following way:</TR>
+
 %
-[4.76] pūrvvābhiṣekavac cheṣaṃ sādhyamantravivarjitam ||
-(71v2) kuryāt tatra yathābhīṣṭam anayena nayena vā |
-[4.77] adhikārapadaṃ cāsya nigrahānugrahakriyām ||
-karaṇī karttarī sūtram uṣṇīṣañ cādhikaṃ bhavet |
-[4.78] tṛ(71v3)kṛtvo dakṣiṇaṃ pāṇin darbhavartyātidīptayā ||
-saṃspṛśya kalpayet tasmiṃ harahastaṃ yathātmanaḥ |
-[4.79] sarvādhikāram ātmīyan tatra tasya samarpayet || (71v4)
-tam abhivādayed asmin kāle thānyaṃ prabodhayet |%
-%
-		\tika{Marginal note on \textit{anyaṃ}: \textit{4 sādhakādi}.}%
-%
-[4.80] gṛhītvā dakṣiṇāṅguṣṭhaṃ pāṇer dakṣiṇapāṇinā ||
-praveśayed anūtthāpya śivamaṇḍalamaṇḍa(71v5)pam || 380 ||
-[4.81] kṛtapradakṣiṇaṃ cāntarmaṇḍalasya praveśitam  |
-praṇāmitaśivaṃ cāsya yāmyāyām uttarāsyakam ||
-[4.82] īṣadunmīlitākṣeṇa (72r1) sūcayaṃs tanmukhena tu |
-śuśrūṣāṃ deśikācāragocarāṃ śrāvayed iti ||%
-%
-		\var{gocarāṃ śrāvayed \conj : gocarāt srāvayed A}%
-%
-[4.83] śivārccanajapadhyānahomakarmāṇi śaktitaḥ |
-adhikārapadasthena (72r2) tvayā kāryāṇi nityaśaḥ ||
-[4.84] guruparaṃparāyātaṃ tantrārthakathanaṃ sakṛt |%
-%
-		\var{tantrārthakathanaṃ \eme : tantrārthaṃ kathanaṃ A}%
-%
-karttavyaṃ cābhiyuktānāṃ śivajñānaikarāgiṇām ||
-[4.85] śucīnāṃ suvinītā(72r3)nām ācārāhitacetasām |
-śivaṃ bhaktyā prapannānāṃ manovākkāyakarmabhiḥ ||
-[4.86] itthaṃguṇavatām eva mumukṣūṇām anugrahaḥ |
-bubhukṣūṇāñ ca ka(72r4)rttavyaḥ śivājñānuvidhāyinā ||%
-%
-		\var{śivājñānuvidhāyinā \conj : śivājñānuvidhāyinām A}%
-%
-[4.87] nityanaimittikaṃ karma yathākālam anujjhatā |
-muñcatā pratiṣiddhañ ca vyutkramaṃ sādhunighnatām ||%
-%
-		\tika{Marginal note on \textit{vyutkramaṃ}:
-		\textit{śāstrārthaprāyaścittaṃ}.}%
-%
-[4.88] rogārttam atha(72r5)vā khinnam udvignañ ca tapasvinam |%
-%
-		\var{athavā khinnam \conj : athanākhinnam A}%
-%
-bheṣajādyair yathopāyam anukampayatāpi ca ||
-[4.89] cīrṇnācāryavratenaiva jñātamantrabalena tu |
-pratyayair bhavatā (72v1) \?bha\?drair nirbījakaraṇādibhiḥ |
-[4.90] itaḥprabhṛti saṃkrānto yo dhikāro mama tvayi ||
-sa karttavyas tvayā tāvad yāvat saṃkrāmito nyataḥ || 90 ||
-%
-		\testim{4.90 qu. without attr. in KKP p. 377 (qu. in SŚP III 487).}
-%
-[4.91] anīpsa(72v2)n sa punaḥ kartuṃ nijam eva samarpayet |
-samabhīpsaṃs tu tattulyam asamarthetaro thavā ||
-[4.92] pratipadya yathādiṣṭaṃ guruṇā nūtano guruḥ |
+[4.83]
+<TEXT>śivārccanajapadhyānahomakarmāṇi śaktitaḥ |</TEXT>
+<TEXT>adhikārapadasthena tvayā kāryāṇi nityaśaḥ ||</TEXT>
+% nityasaḥ \msA?
+<TR>While you remain in this position of responsibility, you should perform the rites of worship of Śiva, recitation, meditation, oblation on a daily obligatory basis as far as you are able.</TR>
+
+
+
+[4.84]
+<TEXT>guruparaṃparāyātaṃ tantrārthakathanaṃ sakṛt |</TEXT>
+<APP> \va <LEM>guruparaṃparā°</LEM> \msAac; guruḥ paraṃparā° \msApc</APP
+<APP> \vb <LEM>tantrārthakathanaṃ</LEM> \emend; tantrārthaṃ kathanaṃ \msA</APP>
+<TEXT>karttavyaṃ cābhiyuktānāṃ śivajñānaikarāgiṇām ||</TEXT>
+
+<TR>Once [a day] (<skt>sakṛt</skt>) you should perform the teaching of the meanings of the scriptures that has been tranmitted through the succession of gurus for the benefit of competent persons who are thoroughly devoted to Śiva-knowledge/scripture,…</TR>
+
+<TR>We are not certain about the meaning of <skt>sakṛt</skt>.  We have taken it to mean “once a day”, but perhaps it rather means “immediately” from now onwards.</TR>
+…
+%%
+[4.85]
+<TEXT>śucīnāṃ suvinītānām{ }ācārāhitacetasām |</TEXT>
+<TEXT>śivaṃ bhaktyā prapannānāṃ manovākkāyakarmabhiḥ ||</TEXT>
+
+<TR>… who are pure, well-controlled, their minds fixed upon  good conduct, devoted to Śiva in deeds of mind, speech and body.</TR>
+
+[4.86]
+<TEXT>itthaṃguṇavatām eva mumukṣūṇām{ }anugrahaḥ |</TEXT>
+<TEXT>bubhukṣūṇāñ{ }ca karttavyaḥ śivājñānuvidhāyinā ||%</TEXT>
+<APP> \vd <LEM>śivājñānuvidhāyinā</LEM> \conjS; śivājñānuvidhāyinām \msA</APP>
+
+<TR>He who carries out the commands of Śiva should bestow grace on those desiring liberation and those desiring supernatural enjoyments only if they have such [above-mentioned] virtues.</TR>
+
+[4.87]
+<TEXT>nityanaimittikaṃ karma yathākālam{ }anujjhatā |</TEXT>
+<TEXT>muñcatā pratiṣiddhañ{ }ca vyutkramaṃ sādhunighnatām ||%</TEXT>
+<NOTE>Marginal note on <skt>vyutkramaṃ</skt> in bottom margin:
+<skt>śāstrārthaprāyaścittaṃ</skt>.</NOTE>
+
+<TR>… without abandoning regular obligatory and occasionally obligatory rites at their prescribed times, [but] avoiding proscribed rites and the transgressions (<skt>vyutkramaṃ</skt>) that damage good people.
+</TR>
+
+<NOTE>Alternatively, as \JT\ suggests, we could understand <skt>pratiṣiddham</skt> to qualify <skt>vyutkramam</skt>.  Furthermore, it is possible that the half-line refers to the guru “removing forbidden [fruits of] transgressions of those who harm what is good”, in other words, it might refer to his prescribing expiations for others.</NOTE>
+
+[4.88]
+<TEXT>rogārttam{ }adhvanā khinnam{ }udvignañ ca tapasvinam |</TEXT>
+% Alexis' earlier guess: \var{athavā khinnam \conj : athanākhinnam A}%
+<APP> \vb <LEM>tapasvinam</LEM> \emend; tapaśvinam \msA</APP>
+<TEXT>bheṣajādyair{ }yathopāyam anukampayatāpi ca ||</TEXT>
+
+<TR>… and bestowing compassion, using whatever means are appropriate (<skt>yathopāyam</skt>), with medicines or the like, on ones tormented by disease, those weary from travelling, those distressed or suffering…</TR>
+
+[4.89]
+<TEXT>cīrṇnācāryavratenaiva jñātamantrabalena tu |</TEXT>
+<TEXT>pratyayair{ }bhavatā bhadrair{ }nirbījakaraṇādibhiḥ ||</TEXT>
+
+<TR>… and you should be (<skt>bhavatā</skt>) [equipped] with the excellent faith-inspiring miracles
+(<skt>pratyayaiḥ</skt>), beginning with that of making seeds infertile (<skt>{nirbījakaraṇa}</skt>), once you have accomplished
+the [mantra-propitiating] observance specific to the guru, and once you have mastered the power
+of the mantras.</TR>
+
+%%Note on Eight pratyayas: Ref. Saardhatri"satikaalottara devotes chapter 21, but there nirbiijakara.na is the penultimate member of the list.  Could Brahma"sambhu have had another list in mind?
+%%see also TAK, sv pratyaya, Vol.
+[4.90]
+<TEXT>itaḥprabhṛti saṃkrānto yo ’dhikāro mama tvayi |</TEXT>
+<TEXT>sa karttavyas{ }tvayā tāvad{ }yāvat{ }saṃkrāmito ’nyataḥ || 90 ||</TEXT>
+<NOTE>Alexis points out that 4.90 is quoted without attribution in KKP p. 377 (qu. in SŚP III 487).</NOTE>
+%% Is KKP meant to be Kriyaakramadyotikaa ? or Prabhaavyaakhyaa thereon ?
+
+<TR>From now onwards, these responsibilities of mine are transferred on to you.  They are to be performed by you until you have transferred them to someone else.</TR>
+
+%%check Svaayambhuvasuutrasa"ngraha for the wording of similar verses about transfer of responsibilities!
+
+15.10.2021
+[4.91]
+<TEXT>anīpsan sa punaḥ kartuṃ nijam eva samarpayet |</TEXT>
+<TEXT>samabhīpsaṃs tu tattulyam asamarthetaro thavā ||</TEXT>
+
+[4.92]
+pratipadya yathādiṣṭaṃ guruṇā nūtano guruḥ |
 brūyāt praṇamya (72v3) deveśam etan me stu śivecchayā ||
-[4.93] tato homaṃ prakurvīta sādhikāro guroḥ svayam |
+
+[4.93]
+tato homaṃ prakurvīta sādhikāro guroḥ svayam |
 kārayen nūtanenānyas tadās tasya pravṛttaye ||%
-%
-		\tika{Marg. note on \textit{kārayen nūtanenānyas}:
-		\textit{niradhikārāt.}}%
-%
-[4.94] yogapīṭhā(72v4)ṅgamantraiś ca mūrttibhyāñ ca daśāhutīḥ |
+\tika{Marg. note on \textit{kārayen nūtanenānyas}:
+\textit{niradhikārāt.}}%
+
+[4.94]
+yogapīṭhā(72v4)ṅgamantraiś ca mūrttibhyāñ ca daśāhutīḥ |
 tadvad aṅgai śivenānte pūrṇṇāhutyā satāhutīm ||
-[4.95] kāryaśeṣam ataḥ kuryāt pūrvvaśekavidher iva |%
-%
-		\tika{Marg. note on \textit{pūrvvaśekavidher iva}:
-		\textit{kriyāsamarpanādikaṃ}.}
-%
+
+[4.95]
+kāryaśeṣam ataḥ kuryāt pūrvvaśekavidher iva |%
+\tika{Marg. note on \textit{pūrvvaśekavidher iva}:
+\textit{kriyāsamarpanādikaṃ}.}
 atrāpi (72v5) deśikādhīśaḥ purāṇo vāthavā navaḥ ||
-[4.96] guruvaṃśaprarohātmā prāpyaitāṃ padavīm atha
+
+[4.96]
+guruvaṃśaprarohātmā prāpyaitāṃ padavīm atha
 ācāryavratam ācārya<ś> caret sarvavratottamam
-[4.97] sama(73r1)rpitabharaḥ śiṣye guruḥ pūrvvo 'parigrahaḥ
+
+[4.97]
+sama(73r1)rpitabharaḥ śiṣye guruḥ pūrvvo 'parigrahaḥ
 ātmārāmo bhyased yogaṃ tatrā vānyatrā vā yatiḥ || o ||
-[4.98] alabdhaguṇavacchiṣyo yadvā 'nekapa(73r2)rigrahaḥ |%
-%
-		\tika{Marg. note before \textit{alabdhaguṇavacchiṣyo}:
-		\textit{1 tato 'dhikārābhiṣekaṃ.}}%
-%
+
+[4.98]
+alabdhaguṇavacchiṣyo yadvā 'nekapa(73r2)rigrahaḥ |%
+\tika{Marg. note before \textit{alabdhaguṇavacchiṣyo}:
+\textit{1 tato 'dhikārābhiṣekaṃ.}}%
 gurur anyam api sthāne deśikaṃ hy abhiṣecayet ||
-[4.99] savarṇṇam ekasaṃtānam udāraṃ tulyagocaram |
+
+[4.99]
+savarṇṇam ekasaṃtānam udāraṃ tulyagocaram |
 santānānumataṃ dīkṣāvyākhyāsatrapra(73r3)varttakam ||
-[4.100] maṇḍale gnau ca deveśam iṣṭvā tatkarmasākṣiṇam |%
-%
-		\var{sākṣiṇam \conj : sākṣiṇaḥ A}%
-%
+
+[4.100]
+maṇḍale gnau ca deveśam iṣṭvā tatkarmasākṣiṇam |%
+\var{sākṣiṇam \conj : sākṣiṇaḥ A}%
 kumbhāṃs tu caturo ṣṭau vā stān vedyāsamalaṃkṛtān || 100 ||%
-%
-		\var{kumbhāṃs \corr : kumbhās A
-		\spot
-		tān vedyāṃ \conj : stānvedyā A}
+\var{kumbhāṃs \corr : kumbhās A
+\spot
+tān vedyāṃ \conj : stānvedyā A}
 %
 [4.101] abhimantrya svarair varggai(73r4)r antasthasoṣmabhiḥ kramāt%
 %
