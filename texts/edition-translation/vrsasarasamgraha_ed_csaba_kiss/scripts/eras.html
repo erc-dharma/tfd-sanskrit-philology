@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Indian Eras</title>
+	<!-- Google fonts: -->
+	<link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet'>
+	<link href='https://fonts.googleapis.com/css?family=Strait' rel='stylesheet'>
+
+</head>
+
+<body>
+
+<style>
+body {
+	background-color: #e6f7ff;
+	width: 40%;
+}
+
+p {
+	font-size: 80%;
+	padding: 10px;
+    	font-family: 'Strait';font-size: 20px;
+}
+
+buttn {
+	font-size: 80%;
+	padding: 10px;
+    	font-family: 'Strait';font-size: 20px;
+}
+
+h2 {    color: blue;
+    	font-family: 'Strait';
+}
+
+mono {  color: blue;
+	font-size: 100%;
+    	/*font-family: 'Inconsolata', 'Courier mono', 'courier'; */
+	font-family: monospace; 
+	font-size: 20px;
+}
+
+
+
+</style>
+
+<h2>
+Calculate the CE equivalent of a year in any Indian era
+</h2>
+
+
+<p>
+Type a year of an unknown era, then click on the button or press Enter.
+</p>
+
+<p>
+<input id="yearInput" type="text" name="era" placeholder="Type a year, e.g. 675" ></input>
+<button id="submit" name="submit"><buttn>Submit</buttn></button>
+</p>
+
+<p>
+The year '<span id="yearinquestion">675</span>' stands for approximately these CE years in the following eras: 
+</p>
+
+<mono>
+<div id="result"></div>
+</mono>
+
+<p>(Source: Salomon, Richard G. <i>Indian Epigraphy. 
+A Guide to the Study of Inscriptions in the Indo-Aryan Languages.</i>
+New York: Oxford University Press, 1998. pp. 180-195;
+Javascript programming by Csaba Kiss)</p>
+
+
+
+
+<script>
+
+function clickHandler() {
+
+const eras = {"Vikrama":  -57,
+	"Gupta-Valabhī": 319,
+	"Nepali": 879,
+	"Śaka"   :  78,
+	"Cālukya-Vikrama": 1076,
+	"Gāṅga"  :  498,
+	"Kalacuri": 248,
+	"Harṣa"   : 606,
+	"Mānadeva/Aṃśuvarman"   : 576,
+/*the above in Sanderson's Śaiva Age p. 51<!DOCTYPE html> */
+	"Siṃha": 1113,
+	"Lakṣmaṇasena": 1178,
+	"Kali"   :  1324,
+	"Bhāṭika":  624,
+	"Bhauma-Kara":  831,
+	"Kollam" :  824,
+	"Kaliyuga": -3102};
+
+
+// building the list
+var list = "";
+// what the user submits
+yearsought = yearInput.value;
+// default value
+if (yearsought === "") {
+		yearsought = 675;
+	}
+// calculate the years
+for (let i = 0; i < Object.keys(eras).length; i++) {
+	var era = Object.keys(eras)[i];
+	var resultYear =  Number(yearsought) + Number(eras[Object.keys(eras)[i]]);
+	// CE or BCE?
+	if (resultYear < 0) {
+		resultYear = 0-resultYear;
+		ce = " BCE";
+		} 
+	else {
+		ce = " CE";		
+		}
+	// appending data to the list
+	list = list + "&nbsp&nbsp" + era + " era " + ".".repeat(20-era.length) + "&nbsp".repeat(Math.abs(4-String(resultYear).length)+5-String(resultYear+1).length) + resultYear + "-" + (Number(resultYear)+1) + ce + "<br/>";
+	}
+
+// fill in the year in the message
+var yeardisplay = document.getElementById('yearinquestion');
+	yeardisplay.innerHTML = yearsought;
+// populate the 'table'
+var result = document.getElementById('result');
+	result.innerHTML = list;
+}
+
+
+
+// submit by button
+var button = document.getElementById('submit');
+button.addEventListener('click', clickHandler);
+// submit by enter
+var input = document.getElementById("yearInput");
+
+input.addEventListener("keyup", function(event) {
+  // Number 13 is the "Enter" key on the keyboard
+  if (event.keyCode === 13) {
+    // Cancel the default action, if needed
+    event.preventDefault();
+    // Trigger the button element with a click
+    document.getElementById("submit").click();
+  }
+}); 
+
+
+// on loading the page, we run it with year 675
+clickHandler() 
+
+
+
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+

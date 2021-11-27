@@ -1,6 +1,5 @@
 /* controls, i.e. switches on and off, the four panels */
 function showonlytext() {
-
  	t = document.getElementById('translation');
 	t.style.display = "none";
  	t.style.display = "none";	
@@ -14,10 +13,10 @@ function showonlytext() {
  	m.style.display = "none";		
 
  	s = document.getElementById('sanskrittext')
-	s.style.width = "100%";
+	s.style.width = "98%";
  	s.style.height = "100%";		
  	s.style.display = "block";
-        s.style.padding = "20px";	
+
 
  	b = document.getElementById('showonlytext');
 	b.style.backgroundColor  = "#cc8800";
@@ -45,16 +44,16 @@ function showtextandtranslation() {
 	s.style.width = "50%";
  	s.style.height = "100%";		
  	s.style.display = "block";	
-        s.style.padding = "20px";	
+
 	
 
  	t = document.getElementById('translation');
-	t.style.width = "50%";
+	t.style.width = "50.9%";
  	t.style.height = "100%";
- 	t.style.left = "50%";		
+ 	t.style.left = "46%";		
  	t.style.top = "0%";
  	t.style.display = "block";	
-        t.style.padding = "20px";
+
 
  	b = document.getElementById('showonlytext');
 	b.style.backgroundColor  = "black";
@@ -82,24 +81,24 @@ function showtexttrnotes() {
 	s.style.width = "50%";
  	s.style.height = "100%";		
  	s.style.display = "block";	
-        s.style.padding = "20px";	
+
 
 
  	n = document.getElementById('notes');
 	n.style.display = "block";
- 	n.style.height = "42%";	
- 	n.style.width = "50%";	
- 	n.style.top = "60%";	
- 	n.style.left = "50%";	
-        n.style.padding = "20px";	
+ 	n.style.height = "40%";	
+ 	n.style.width = "50.9%";	
+ 	n.style.top = "59%";	
+ 	n.style.left = "46%";	
+ 	n.style.display = "block";	
+
 	
  	t = document.getElementById('translation');
-	t.style.width = "50%";
+	t.style.width = "50.9%";
  	t.style.height = "100%";
- 	t.style.left = "50%";		
+ 	t.style.left = "46%";		
  	t.style.top = "0%";
  	t.style.display = "block";	
-        t.style.padding = "20px";	
 
  	b = document.getElementById('showonlytext');
 	b.style.backgroundColor  = "black";
@@ -126,27 +125,22 @@ function showtextANDnotes() {
 
  	s = document.getElementById('sanskrittext');
  	s.style.top = "0%";	
-	s.style.width = "50%";
+	s.style.width = "50.9%";
  	s.style.height = "100%";		
  	s.style.display = "block";	
-        s.style.padding = "20px";	
+
 
 
  	n = document.getElementById('notes');
 	n.style.display = "block";
  	n.style.height = "100%";	
- 	n.style.width = "50%";	
+ 	n.style.width = "50.9%";	
  	n.style.top = "0%";	
- 	n.style.left = "50%";	
-        n.style.padding = "20px";	
+ 	n.style.left = "46%";	
+
 	
  	t = document.getElementById('translation');
-	t.style.width = "50%";
- 	t.style.height = "100%";
- 	t.style.left = "50%";		
- 	t.style.top = "0%";
  	t.style.display = "none";	
-        t.style.padding = "20px";	
 
  	b = document.getElementById('showonlytext');
 	b.style.backgroundColor  = "black";
@@ -173,29 +167,29 @@ function showall() {
  	m.style.top = "60%";	
  	m.style.left = "0%";	
  	m.style.display = "block";
-        m.style.padding = "20px";	
+
 
  	n = document.getElementById('notes');
 	n.style.display = "block";
  	n.style.height = "42%";	
- 	n.style.width = "50%";	
- 	n.style.top = "60%";	
+ 	n.style.width = "50.9%";	
+ 	n.style.top = "55%";	
  	n.style.left = "50%";	
-        n.style.padding = "20px";	
+
 
  	s = document.getElementById('sanskrittext');
-	s.style.width = "50%";
+	s.style.width = "50.9%";
  	s.style.height = "58%";		
  	s.style.display = "block";	
-        s.style.padding = "20px";	
+
 
  	t = document.getElementById('translation');
 	t.style.height = "60%";
- 	t.style.width = "49%";
+ 	t.style.width = "50.9%";
  	t.style.top = "0%";
  	t.style.left = "50%";		
  	t.style.display = "block";	
-        t.style.padding = "20px";	
+
 	
  	b = document.getElementById('showonlytext');
 	b.style.backgroundColor  = "black";
@@ -220,11 +214,11 @@ document.onkeypress=function(e){
  /* To check character codes */
  /*alert("CharCode value: "+e.charCode)
  alert("Character: "+String.fromCharCode(e.charCode)) */
- /* d for Devanagari and back */
  
+ /* d for Devanagari and back */
  if (e.charCode === 100) {
  turnItDevnag();
- };
+ }
  
  /* s for Skt */
  if (e.charCode === 115) {
@@ -287,5 +281,6 @@ document.onkeypress=function(e){
  }
 
 }
+
 
 

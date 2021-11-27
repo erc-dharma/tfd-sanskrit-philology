@@ -4,7 +4,13 @@ function hideFunction(id) {
  document.getElementById(id).style.display = "none";
   /* on click on line, also de-highlight translation*/
 /* first change id format from e.g. '4.3cd' to 'tr4.3' */ 
-    id = id.replace(/[a-z]/g, '');    
+    if (id.includes("colophon")) {
+            id = id.replace(/[a-z]/g, '');    
+            id = id + 'colophon';
+    	}
+    else {
+        id = id.replace(/[a-z]/g, '');    
+        }
     var tr_id = 'tr' + id;
     var divid = document.getElementById(tr_id);
     divid.style.fontWeight = "normal";  
@@ -15,49 +21,37 @@ function hideFunction(id) {
     var divclass = document.getElementsByClassName(transl_class);
     	for (let y = 0; y < divclass.length; y++) {
 		divclass[y].style.fontWeight = 'normal';
-		divclass[y].style.color = 'gray';}
- 
-} 
+		//divclass[y].style.color = 'white';
+		}
+ } 
+
 
 /* on click on line, open apparatus entry for line*/
 function showApparatus(id) {
  document.getElementById(id).style.display = "block";
  /* on click on line, also highlight translation*/
 /* first change id format from e.g. '4.3cd' to 'tr4.3' */ 
-    id = id.replace(/[a-z]/g, '');    
+    if (id.includes("colophon")) {
+            id = id.replace(/[a-z]/g, '');    
+            id = id + 'colophon';
+    	}
+    else {
+        id = id.replace(/[a-z]/g, '');    
+        }
     var tr_id = 'tr' + id;
     var divid = document.getElementById(tr_id);
     divid.scrollIntoView({block: "center"});  
     divid.style.fontWeight = "bold";  
-    divid.style.color = "white";  
+    //divid.style.color = "white";  
     
      var transl_class = 'trnsl' + id;
     var divclass = document.getElementsByClassName(transl_class);
     	for (let y = 0; y < divclass.length; y++) {
 		divclass[y].style.fontWeight = 'bold';
-		divclass[y].style.color = 'white';
+		//divclass[y].style.color = 'white';
 			} 
 } 
 
-/* TO BE DELETED! Old function name; on click on line, open apparatus entry for line*/
-function showFunction(id) {
- document.getElementById(id).style.display = "block";
- /* on click on line, also highlight translation*/
-/* first change id format from e.g. '4.3cd' to 'tr4.3' */ 
-    id = id.replace(/[a-z]/g, '');    
-    var tr_id = 'tr' + id;
-    var divid = document.getElementById(tr_id);
-    divid.scrollIntoView({block: "center"});  
-    divid.style.fontWeight = "bold";  
-    divid.style.color = "white";  
-    
-     var transl_class = 'trnsl' + id;
-    var divclass = document.getElementsByClassName(transl_class);
-    	for (let y = 0; y < divclass.length; y++) {
-		divclass[y].style.fontWeight = 'bold';
-		divclass[y].style.color = 'white';
-			} 
-} 
 
 
 /* on click on translation line, scroll to and highlight Skt*/
@@ -74,23 +68,25 @@ function showSkt(skt_class) {
     	for (let y = 0; y < divclass.length; y++) {
     	
     	   if (divclass[y].style.fontWeight === 'bold') {
-		divclass[y].style.fontWeight = 'normal';
-		divclass[y].style.color = 'gray';
+		        divclass[y].style.fontWeight = 'normal';
+			divclass[y].style.fontSize = '100%';
+		        //divclass[y].style.color = 'white';
 			/* Unhighlighting the translation on which you clicked*/
 		    	for (let y = 0; y < trclass.length; y++) {
 	        			trclass[y].style.fontWeight = 'normal';
-				        trclass[y].style.color = 'gray';
+				        //trclass[y].style.color = 'white';
                 			}
 
                 }
 	   else {
-		divclass[y].style.fontWeight = 'bold';
-		divclass[y].style.color = 'white';
-                 divclass[y].scrollIntoView({block: "center"});     
+			divclass[y].style.fontWeight = 'bold';
+			//divclass[y].style.color = 'white';
+			divclass[y].style.fontSize = '102%';
+              		divclass[y].scrollIntoView({block: "center"});     
                  	/* Highlighting the translation on which you clicked*/  
 		    	for (let y = 0; y < trclass.length; y++) {
 	        			trclass[y].style.fontWeight = 'bold';
-				        trclass[y].style.color = 'white';
+				        //trclass[y].style.color = 'white';
                 			}
 		   }		
 	
@@ -136,7 +132,6 @@ function openallapp() {
 	if (elem.textContent=="Open all apparatus entries") {elem.textContent = "Close all apparatus entries";
 		for (let y = 0; y < t.length; y++) {
 		t[y].style.display = 'block';
-		t[y].style.margin = '2em';
 	}
 	texts = document.getElementsByTagName("RMTEXT");
 		for (let y = 0; y < texts.length; y++) {
@@ -150,7 +145,7 @@ function openallapp() {
 	else {elem.textContent = "Open all apparatus entries";
 		for (let y = 0; y < t.length; y++) {
 		t[y].style.display = 'none';
-		t[y].style.margin = '0em';}
+		}
 	texts = document.getElementsByTagName("RMTEXT");
 		for (let y = 0; y < texts.length; y++) {
 			texts[y].style.fontSize = "100%";
@@ -196,10 +191,10 @@ function showNote(id) {
 
 
 function turnItDevnag() {
-
 let elem = document.getElementById("switchbutton");
-		if (elem.textContent=="Switch to Devanāgarī") {elem.textContent = "Switch to Roman";
-		texts = document.getElementsByTagName("RMTEXT");
+		if (elem.textContent=="Switch to Devanāgarī") {
+			elem.textContent = "Switch to Roman";
+			texts = document.getElementsByTagName("RMTEXT");
 		for (let y = 0; y < texts.length; y++) {
 			texts[y].style.display = "none";
 			}
@@ -207,11 +202,11 @@ let elem = document.getElementById("switchbutton");
 		for (let y = 0; y < texts.length; y++) {
 			texts[y].style.display = "inline";
 			}
-		texts = document.getElementsByTagName("DNLEM");
+		texts = document.getElementsByTagName("DNAPP");
 		for (let y = 0; y < texts.length; y++) {
 			texts[y].style.display = "inline";
 			}
-		texts = document.getElementsByTagName("LEM");
+		texts = document.getElementsByTagName("RMAPP");
 		for (let y = 0; y < texts.length; y++) {
 			texts[y].style.display = "none";
 			}
@@ -226,16 +221,17 @@ let elem = document.getElementById("switchbutton");
 		for (let y = 0; y < texts.length; y++) {
 			texts[y].style.display = "none";
 			}
-		texts = document.getElementsByTagName("DNLEM");
+		texts = document.getElementsByTagName("DNAPP");
 		for (let y = 0; y < texts.length; y++) {
 			texts[y].style.display = "none";
 			}
-		texts = document.getElementsByTagName("LEM");
+		texts = document.getElementsByTagName("RMAPP");
 		for (let y = 0; y < texts.length; y++) {
 			texts[y].style.display = "inline";
 			}
 		document.getElementById("sanskrittext").style.fontSize="110%";		
 		}
+
 
 }
 

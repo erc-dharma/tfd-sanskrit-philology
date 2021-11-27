@@ -1,0 +1,108 @@
+\documentclass[noeledmac,12pt]{book}
+
+\renewcommand{\baselinestretch}{1.4}
+% XeLaTeX version!!!!
+
+\usepackage{xunicode} % Unicode support for LaTeX character names (accents, European chars, etc)
+\usepackage{xltxtra} % Extra customizations for XeLaTeX
+
+% watermark:
+%\usepackage{background}
+%\backgroundsetup{contents={DRAFT by CsK}, color=gray, opacity=.18}
+
+
+
+%\setmainfont{Charis SIL} % set the main body font (\textrm), assumes Charis SIL is installed
+%\setsansfont{Deja Vu Sans}
+%\setmonofont{Deja Vu Mono}
+
+\newcommand{\sonantr}{}
+\newcommand{\sonantrlong}{}
+\newcommand{\sonantl}{}
+
+
+\newcommand{\comm}[1]{{#1}}
+
+\input{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_macros_devnag.tex}
+
+\fancyhead[LE,RO]{\dnnum {\dn\thepage}}
+\fancyhead[LO]{{\dn \9{v}qsArs\2g\5h,}}
+\fancyhead[RE]{{\dn \9{v}qsArs\2g\5h,}}
+\headheight=14.8pt
+
+\makeatletter
+ \def\lemmaesszamnelkulfmt#1#2#3{%
+\tolerance=9999\normal@pars\rightskip=0pt\leftskip=0pt
+\parindent=0pt \parfillskip=0pt plus 1fil #3\penalty-10}
+\makeatother
+\let\Bfootfmt\lemmaesszamnelkulfmt
+\let\Cfootfmt\lemmaesszamnelkulfmt
+\let\Dfootfmt\lemmaesszamnelkulfmt % let's make layer D the same
+%\let\Dfootfmt\lemmaesszamnelkultwocolfmt % 2-col apparatus
+\let\Afootfmt\myparafootfmt
+
+%\usepackage{tgschola}
+%\PrerenderUnicode{¬∫}
+
+\makeindex
+
+%\pagestyle{plain}
+\begin{document}
+
+%%%%%%%% TITLE PAGE %%%%%%%%%
+
+
+\thispagestyle{empty}
+\
+
+\begin{center}
+\vskip3cm
+
+
+
+\textsc{\Large vr̥ṣasārasaṁgraha} 
+
+\bigskip
+
+{\large A Critical Edition in Progress} 
+
+\bigskip
+
+{Version of} \today
+
+\vskip5em
+Csaba \textsc{Kiss}
+
+
+
+\end{center}
+\vfill
+
+
+
+
+
+%\fejezet{Chapter One}
+%\addcontentsline{toc}{section}{stutiḥ}
+%NGMPP Access: 3\dandab 384 Reel: A 41\dandab 11
+
+
+\tableofcontents
+\vfill
+\ 
+\pagebreak
+
+
+
+\renewcommand{\rmapp}[1]{}
+\renewcommand{\dnapp}[1]{}
+
+\input{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_input_devnag.tex}
+
+
+\bekveg\szamveg
+\vfill
+\pagebreak
+
+\end{document}
+

@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<!--By Csaba Kiss, on 31 July 2020-->
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Csonverter</title>
+
+<script src="metre.js"></script>
+<script src="tamil.js"></script>
+</head>
+
+<body>
+
+<style>
+body {
+	background-color: #e6f7ff;
+	width: 100%;
+}
+
+.leftfield {
+        position: absolute;
+	background-color: #e6f7ff;
+	width: 40%;
+}
+
+.rightfield {
+        position: absolute;
+	background-color: #e6f7ff;
+	left: 50%;
+	top: 19%;
+}
+
+
+p {
+	font-size: 140%;
+	padding: 10px;
+    	font-family: 'Strait';
+}
+
+pp {
+	font-size: 100%;
+	padding: 10px;
+    	font-family: 'Strait';
+}
+
+buttn {
+	font-size: 130%;	
+	padding: 10px;
+    	font-family: 'Strait';
+	color: green;
+}
+
+button {
+        border-radius: 20px;
+}
+
+h1 {    color: green;
+    	font-family: 'Strait';
+}
+
+h2 {    color: green;
+    	font-family: 'Strait';
+}
+
+dnl {
+	padding: 10px;
+        font-size: 150%
+}
+
+mono {  color: blue;
+	font-size: 110%;
+        font-family: 'Inconsolata', 'Courier mono', 'courier';
+}
+
+#textinput { width: 650px; height: 300px; font-size: 110%}
+
+#resultsArea { width: 700px; height: 300px; font-size: 150%}
+</style>
+
+
+
+
+
+<h1>
+Sanskrit C(s)onverter
+</h1>
+
+
+
+<div class="leftfield">
+
+
+<p>
+Paste Sanskrit/Tamil text in this window
+and  click on one of the buttons below. Download this page and 
+open it in your browser to use
+the converter offline.
+(Skt. ṃ ṛ ṝ ḷ &LongRightArrow; ṁ r̥ r̥̄ l̥ ?
+	<input type="checkbox" id="transliteration" name="transliteration" value="yes">)
+</p>
+
+<p>
+<textarea id="textinput" type="text" name="text" spellcheck="false" placeholder="E.g.:
+
+tapaḥsvādhyāyanirataṃ tapasvī vāgvidāṃ varam|
+nāradaṃ paripapraccha vālmīkir munipuṃgavam||
+ko 'nv asmin sāmprataṃ loke guṇavān kaś ca vīryavān|
+dharmajñaś ca kṛtajñaś ca satyavākyo dṛḍhavrataḥ||
+
+or
+
+
+tapa.hsvaadhyaayanirata.m tapasvii vaagvidaa.m varam|
+naarada.m paripapraccha vaalmiikir munipu.mgavam||
+ko 'nv asmin saamprata.m loke gu.navaan ka&#34;s ca viiryavaan|
+dharmaj~na&#34;s ca k.rtaj~na&#34;s ca satyavaakyo d.r.dhavrata.h||" >
+</textarea>
+
+<br/>
+Convert IAST or Velthuis to
+<button id="switchbutton" name="submit1"><buttn>Devanāgarī</buttn></button>
+<button id="switchbuttonvelth" name="submit2"><buttn>Velthuis</buttn></button>
+<button id="switchbuttonvelth2iast" name="submit4"><buttn>IAST</buttn></button>
+<br/> 
+<button id="sort" name="submit6"><buttn>Sort lines according to the Sanskrit ABC (IAST)</buttn></button>
+<br/> 
+<button id="sandhi01" name="submit9"><buttn>Insert { } where the Devanāgarī has no space</buttn></button>
+<br/> 
+<button id="sandhi02" name="submit9"><buttn>Delete space where the Devanāgarī has no space</buttn></button>
+<br/>
+Convert Devanāgarī to
+<button id="fromDn" name="submit4"><buttn>IAST</buttn></button>
+<button id="DnIastVelth" name="submit5"><buttn>Velthuis</buttn></button>
+<br/>
+Convert Roman transliteration to
+<button id="translit2tamil" name="submitTamil"><buttn>Tamil script</buttn></button>
+<br/>
+Convert Tamil script to
+<button id="tamil2translit" name="submitTamil2trans"><buttn>Roman transliteration</buttn></button>
+<br/>
+Identify Sanskrit 
+<button id="identifymetre" name="submit10"><buttn>metre</buttn></button>
+(from IAST or Velthuis input)*
+</p>
+
+<pp>
+*at the moment recognizing <i>anuṣṭubh vipulā</i>s (checking 2 <i>laghu</i>s, iambic errors), <i>upajāti</i>, <i>jagatī</i>,
+<i>vasantatilaka</i>, <i>mālinī</i>, <i>śārdūlavikrīḍita</i>, <i>sragdharā</i>, <i>triṣṭubh</i>, and the 'muta cum liquida' licence
+</pp>
+
+<p>Javascript programming by Csaba Kiss</p>
+
+</div>
+
+
+
+
+
+<!-- RESULTS DISPLAY -->
+<div class="rightfield">
+
+<button id="clipboard" name="submit5"><buttn>Copy results to clipboard</buttn></button>
+<button id="clear" name="submitClear"><buttn>Clear results</buttn></button>
+<br/><br/><br/>
+
+<span id="counterSpan"></span>
+<br/><br/><br/>
+
+<textarea rows="30" cols="60" id="resultsArea" spellcheck="false">
+The result will be like this:
+
+तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।
+नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम् ।।
+को ऽन्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् ।
+धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ।। 
+
+or this:
+
+tapa.hsvaadhyaayanirata.m tapasvii vaagvidaa.m varam|
+naarada.m paripapraccha vaalmiikir munipu.mgavam||
+ko 'nv asmin saamprata.m loke gu.navaan ka"s ca viiryavaan|
+dharmaj~na"s ca k.rtaj~na"s ca satyavaakyo d.r.dhavrata.h||
+
+or, from text in Velthuis, this:
+
+tapaḥsvādhyāyanirataṃ tapasvī vāgvidāṃ varam|
+nāradaṃ paripapraccha vālmīkir munipuṃgavam||
+ko 'nv asmin sāmprataṃ loke guṇavān kaś ca vīryavān|
+dharmajñaś ca kṛtajñaś ca satyavākyo dṛḍhavrataḥ||
+
+or, if 'ṃ ṛ ṝ ḷ ⟶ ṁ r̥ r̥̄ l̥' is checked, this:
+
+tapaḥsvādhyāyanirataṁ tapasvī vāgvidāṁ varam|
+nāradaṁ paripapraccha vālmīkir munipuṁgavam||
+ko 'nv asmin sāmprataṁ loke guṇavān kaś ca vīryavān|
+dharmajñaś ca kr̥tajñaś ca satyavākyo dr̥ḍhavrataḥ||
+</textarea>
+
+</div>
+
+
+
+
+
+<script>
+
+// still in progress, to highlight corresponding buttons when IAST or Velthuis text has been entered/pasted
+// iast_chars = [257, 299, 363, 347, 7771, 7773, 7735, 7747, 7717, 7749, 241, 7789, 7751, 7779, 7693]
+
+/*let iast_letters = ["ṃ", "ḥ", 'ṛ', 'ḷ', 'ā', 'ī', 'ū', 'ṝ', 'ḹ', "ṅ", "ñ", "ṭ", "ḍ", "ṇ", "ś", "ṣ"]
+
+
+let velth_letters = ['aa', 'ii', 'uu', '.r', '.R', '.m', '.h', '"n', '~n', '.t', '.d', '.n', '"s',  '.s', '.a']
+
+
+document.getElementById("textinput").onkeypress = function(event){
+  		var enteredtext = document.getElementById("textinput").value;
+
+		for (let i = 0; i < iast_letters.length; i++) {
+			if (enteredtext.includes(iast_letters[i])) {
+		document.getElementById("switchbutton").style.backgroundColor = "white";
+		document.getElementById("switchbuttonvelth").style.backgroundColor = "white";
+		document.getElementById("switchbuttonvelth2dn").style.backgroundColor = "grey";
+ 		document.getElementById("switchbuttonvelth2iast").style.backgroundColor = "grey";
+			}
+		else {
+			if (enteredtext.includes(velth_letters[i])) {
+		document.getElementById("switchbutton").style.backgroundColor = "gray";
+		document.getElementById("switchbuttonvelth").style.backgroundColor = "gray";
+		document.getElementById("switchbuttonvelth2dn").style.backgroundColor = "white";
+ 		document.getElementById("switchbuttonvelth2iast").style.backgroundColor = "white";
+			}
+		}
+		}
+
+   };*/
+
+
+	// checks what key you pressed
+			//var x = event.which; 
+//			alert(x);
+			//if (iast_chars.includes(x)) {
+			//var iast = true;
+		         //   }
+
+
+
+//document.getElementById("textinput").onclick = function(event){
+//			var x = event.which; 
+  //                  alert("You are clicked " + x);
+    //        };
+let translit = false; 
+function transliteration() {
+translit = document.getElementById('transliteration').checked;
+}
+
+// transliteration changes
+function translitChange(text) {
+        		text = text.replace(/ṃ/g, 'ṁ');
+        		text = text.replace(/ṛ/g, 'r̥');
+        		text = text.replace(/ṝ/g, 'r̥̄');
+        		text = text.replace(/ḷ/g, 'l̥');        	
+			
+			return text;
+}
+
+function translitChangeBack(text) {
+        		text = text.replace(/ṁ/g, 'ṃ');
+        		text = text.replace(/r̥/g, 'ṛ');
+        		text = text.replace(/r̥̄/g, 'ṝ');
+        		text = text.replace(/l̥/g, 'ḷ');        	
+			return text;
+}
+
+
+function showMetre() {
+	document.getElementById('transliteration').checked = false;
+	changeLettersToIastFromVelth();
+	metre(document.getElementById("resultsArea").value);
+}
+
+
+		
+		
+
+let dic = [
+   // space:
+    [' ', ' '],
+    // initial vowels:
+    ['A','अ'],
+    ['Ā','आ'],
+    ['I', 'इ'],
+    ['Ī','ई'],
+    ['U', 'उ'],
+    ['Ū', 'ऊ'], 
+    ['Ṛ', 'ऋ'],
+    ['Ṝ', 'ॠ'],
+    ['E', 'ए'],
+    ['O', 'ओ'],
+    ['Đ', 'ऐ'],
+    ['Ő', 'औ'],
+    ["'", 'ऽ'],
+    ['Ó', 'ॐ'],
+    //  conjunct vowels:
+    ['a', ''], ['ā', 'ा' ], ['i', 'ि'], ['ī', 'ी'], ['u', 'ु'],
+    ['ū', 'ू'], ['ṛ', 'ृ'], ['ṝ', 'ॄ'], ['ḷ', 'ॢ'], 	 ['ḹ', 'ॣ'],
+    ['e', 'े'], ['o', 'ो'], ['đ', 'ै'], ['ő','ौ'], ['ṃ', 'ं'], ['ḥ', 'ः'],
+    // virāma:
+    ['V', '्'],
+    // consonants: 	 		 	
+    ['k', 'क'], ['Ɋ', 'ख'], ['g', 'ग'], ['G', 'घ'], ['ṅ', 'ङ'],
+    //
+    ['c', 'च'], ['Ȼ', 'छ'], ['j', 'ज'],  ['J', 'झ'], ['ñ', 'ञ'],
+    //	 	 	 	
+    ['ṭ', 'ट'], ['Ṭ', 'ठ'], ['ḍ', 'ड'], ['Ḍ', 'ढ'], ['ṇ', 'ण'],
+    // 
+    ['t', 'त'], ['T', 'थ'], ['d','द'], ['D', 'ध'], ['n', 'न'],
+    // 
+    ['p', 'प'], ['P', 'फ'], ['b', 'ब'], ['B', 'भ'], ['m', 'म'],
+    //
+    ['y','य'], ['r','र'], ['l','ल'], ['v','व'], ['ś', 'श'], ['ṣ', 'ष'],
+    ['s', 'स'], ['h', 'ह'], ['0', '०'],
+        ['1', '१'], ['2', '२'], ['3', '३'], ['4', '४'], ['5', '५'], ['6', '६'],
+        ['7', '७'], ['8', '८'], ['9', '९'] ] 
+
+let numbers = [['0','०'], ['1', '१'], ['2', '२'], ['3', '३'], ['4', '४'], ['5', '५'], ['6', '६'],
+        ['7', '७'], ['8', '८'], ['9', '९'] ] 
+
+// \n added only in this version of the script
+
+let vowels = ["ṃ", "ḥ", 'a', 'i', 'u', 'ṛ', 'ḷ', 'ā', 'ī', 'ū', 'ṝ', 'ḹ', 'e', 'ai', 'o', 'au', 'đ', 'ő']
+
+let consonants = ["k", "Ɋ", "g", "G", "ṅ", "c", "Ȼ", "j", "J", "ñ", "ṭ", "Ṭ", "ḍ", "Ḍ", "ṇ", "t", "T", "d", "D", "n", "p", "P", "b", "B", "m", "y", "r", "l", "v", "ś", "ṣ", "s", "h"] //, "<", ">"]
+
+//let preprocessing = [['ai', 'đ'], ['au', 'ő'], ['kh', 'Ɋ'], ['gh', 'G'], ['ṭh', 'Ṭ'], ['ḍh', 'Ḍ'], ['th', 'T'], ['dh', 'D'], ['ph', 'P'], ['bh', 'B'], ['ch', 'Ȼ'], ['jh', 'J'], ['\|\|', ' ।।'], ['\|', ' ।'], ['{ }', ''], ['\n', ' \n'], [',', ' ,'],]
+
+let preprocessing = {'ai': 'đ', 'au' :'ő', 'kh': 'Ɋ', 'gh': 'G', 'ṭh': 'Ṭ', 'ḍh': 'Ḍ', 'th': 'T', 'dh': 'D', 'ph': 'P', 'bh': 'B', 'ch': 'Ȼ', 'jh': 'J'}
+
+let cosmetics = [['\|\|',  ' ।। '], ['\|',  ' ।'], ['{ }', ''], ['\n', ' \n'], [',', ' ,']];
+// the last but one produces viraamas at the end of line; the last one is for <br/>, somehow the / is lost
+
+let velthchanges = [['ā', 'aa'], ['ī', 'ii'], ['ū', 'uu'], ['ṛ', '.r'], ['ṝ', '.R'], ['ṃ', '.m'], ['ḥ', '.h'], ['ṅ', '"n'], ['ñ', '~n'], ['ṭ', '.t'], ['ḍ', '.d'], ['ṇ', '.n'], ['ś', '"s'], ['ṣ', '.s'], 
+['Ā', 'AA'], ['Ī', 'II'], ['Ū', 'UU'], ['Ṃ', '.M'], ['Ḥ', '.H'], ['Ṅ', '"N'], ['Ñ', '~N'], ['Ṭ', '.T'], ['Ḍ', '.D'], ['Ṇ', '.N'], ['Ś', '"S'], ['Ṣ', '.S'], ["'", '.a']]
+
+
+
+
+
+
+// CHANGE IAST LETTERS TO DEVANAGARI
+function changeLetters(iastVersion) {
+
+let commandflag = false;
+let tagflag = false;
+
+	// collect Roman lines
+	let roman_elem = iastVersion.split('\n');
+	let results = "";
+	let roman_prep = [];
+
+        // preprocess
+        let preproc_keys = Object.keys(preprocessing);
+	for (let a = 0; a < roman_elem.length; a++) {   
+	        roman_elem[a] = roman_elem[a] + ' ';     
+                for (let b = 0; b < cosmetics.length; b++) {
+	         	 roman_elem[a] = roman_elem[a].split(cosmetics[b][0]).join(cosmetics[b][1]);
+	  	}
+	        let preprocessed_line = roman_elem[a].split('');
+	        let c = 0;
+	        let doubleChar = '';
+        	while (c < preprocessed_line.length) {
+
+        
+           	if (preprocessed_line[c] === '\\' || Number.isInteger(parseInt(preprocessed_line[c]))) {commandflag = true;}
+   		if (preprocessed_line[c] === '<' ) {tagflag = true; commandflag = true;}
+   		if (preprocessed_line[c] === '>' ) {tagflag = false; commandflag = false;}   		
+		if (preprocessed_line[c] === ' ' && tagflag === false) {commandflag = false;}
+
+                if (commandflag === false) {
+                        if (preproc_keys.includes(preprocessed_line[c] + preprocessed_line[c+1])) {
+                                doubleChar = preprocessed_line[c] + preprocessed_line[c+1];
+                                preprocessed_line[c] = preprocessing[doubleChar];
+                                preprocessed_line[c+1] = '';
+                        } 
+                } 
+                         c = c + 1;
+                }
+                roman_prep[a] = preprocessed_line.join('') + " ";
+          }
+          
+          
+
+// change
+	for (let d = 0; d < roman_prep.length; d++) {
+		let rsplit = roman_prep[d].split('');
+
+		let conjunct = false;
+	
+
+                 // go through this line letter by letter	
+		for (let l = 0; l < rsplit.length; l++) {
+		
+   		if (rsplit[l] === '\\' || Number.isInteger(parseInt(rsplit[l]))) {commandflag = true;}
+   		if (rsplit[l] === '<' ) {tagflag = true; commandflag = true}
+		if (rsplit[l] === ' ' && tagflag === false) {commandflag = false;}
+
+if (commandflag === false) {  // big if
+		    if (l < rsplit.length && consonants.includes(rsplit[l]) && consonants.includes(rsplit[l+1]) ) {
+			rsplit[l] = rsplit[l] + 'V';
+                  	}
+
+                // space
+          	if (rsplit[l] === " " || rsplit[l] === "-"){		
+		    conjunct = false ;
+ 	        }
+
+                // sandhi C + V
+          	if (l < rsplit.length-2 && consonants.includes(rsplit[l]) && rsplit[l+1] === " " && vowels.includes(rsplit[l+2])){		
+		rsplit[l+1] = '' ;
+		  }
+
+                // sandhi C + C
+          	if (l < rsplit.length-2 && consonants.includes(rsplit[l]) && rsplit[l+1] === " " && consonants.includes(rsplit[l+2])){		
+		rsplit[l+1] = 'V' ;
+		  }
+
+		// if it is an initial consonant
+		if (conjunct === false && consonants.includes(rsplit[l])) {
+			rsplit[l] = rsplit[l];
+			conjunct = true;
+         	  }
+
+		// if it is an initial vowel
+		if (conjunct === false && vowels.includes(rsplit[l])) {
+			rsplit[l] = rsplit[l].toUpperCase();
+			conjunct = true;
+
+		  }
+
+                // if it is a last consonant: put in virāma
+                if (l < rsplit.length && consonants.includes(rsplit[l]) && (rsplit[l+1] === " " || rsplit[l+1] === "<")){		    rsplit[l] = rsplit[l] + 'V';
+		  }
+
+} // end of big if
+else {
+  	          for (let b = 0; b < preprocessing.length; b++) {
+	          // a nice trick to change all occurences in line
+	          if (rsplit[l] === preprocessing[b][1]) {
+	          rsplit[l] = preprocessing[b][0];
+	  		}
+	  	}
+
+}
+		// change all into Devanagari
+	   	for (let rmchar = 0; rmchar < dic.length; rmchar++) {
+			if (rsplit[l] === dic[rmchar][0] && commandflag === false) {			
+			 	rsplit[l]  = dic[rmchar][1];
+			}
+			if (rsplit[l].length === 2 && rsplit[l][0] === dic[rmchar][0] && commandflag === false)  {			
+			 	rsplit[l] = dic[rmchar][1] + '्';
+			}
+                   }
+			if (rsplit[l] === '>') {tagflag = false; commandflag = false;}
+	        } // end of for 
+
+		rjoin = rsplit.join('');
+		// change numbers to Devanagari anyway
+		for (n = 0; n < numbers.length;n++) {
+			rjoin = rjoin.split(numbers[n][0]).join(numbers[n][1]);
+		}
+		results = results + rjoin + '\n';
+        } // end of for 
+		document.getElementById("resultsArea").value = results;
+} // end of function changeLetters()
+
+
+
+
+
+
+
+// change IAST letters to Velthuis
+function changeLettersToVelth() {
+
+	let roman_elem = document.getElementById("textinput").value;
+	roman_elem = translitChangeBack(roman_elem);	
+	for (let b = 0; b < velthchanges.length; b++) {
+	    roman_elem = roman_elem.split(velthchanges[b][0]).join(velthchanges[b][1]);
+	  }
+
+	document.getElementById("resultsArea").value = roman_elem;
+}
+
+
+// Velthuis to IAST
+function changeLettersToIastFromVelth() {
+	let roman_elem = document.getElementById("textinput").value;
+	roman_elem = translitChangeBack(roman_elem);
+	for (let b = 0; b < velthchanges.length; b++) {
+	    // a nice trick to change all occurences in line
+	    roman_elem = roman_elem.split(velthchanges[b][1]).join(velthchanges[b][0]);
+	  }
+	if (translit === true) {
+		roman_elem = translitChange(roman_elem);
+	}
+
+	document.getElementById("resultsArea").value = roman_elem;
+    }
+
+
+// VELTH to IAST and then to DN
+function turnItToDevnagFromVelth() {
+	changeLettersToIastFromVelth();
+	iastVersion = document.getElementById("resultsArea").value;	
+	iastVersion = translitChangeBack(iastVersion);	
+	changeLetters(iastVersion);
+}
+
+
+function fromDn() {
+let dnDic = [
+// initial vowels:
+    ['a','अ'],
+    ['ā','आ'],
+    ['i', 'इ'],
+    ['ī','ई'],
+    ['u', 'उ'],
+    ['ū', 'ऊ'], 
+    ['ṛ', 'ऋ'],
+    ['ṝ', 'ॠ'],
+    ['e', 'ए'],
+    ['o', 'ओ'],
+    ['ai', 'ऐ'],
+    ['au', 'औ'],
+ 	["'", 'ऽ'],
+    ['oṃ', 'ॐ'],
+    //  conjunct vowels:
+    ['+ā', 'ा' ], ['+i', 'ि'], ['+ī', 'ी'], ['+u', 'ु'],
+    ['+ū', 'ू'], ['+ṛ', 'ृ'], ['+ṝ', 'ॄ'], ['+ḷ', 'ॢ'], ['+ḹ', 'ॣ'],
+    ['+e', 'े'], ['+o', 'ो'], ['+ai', 'ै'], ['+au','ौ'], ['ṃ', 'ं'], ['ḥ', 'ः'],
+// virāma:
+    ['×VRM×', '्'],
+// consonants: 	 		 	
+    ['ka', 'क'], ['kha', 'ख'], ['ga', 'ग'], ['gha', 'घ'], ['ṅa', 'ङ'],
+    //
+    ['ca', 'च'], ['cha', 'छ'], ['ja', 'ज'],  ['jha', 'झ'], ['ña', 'ञ'],
+    //	 	 	 	
+    ['ṭa', 'ट'], ['ṭha', 'ठ'], ['ḍa', 'ड'], ['ḍha', 'ढ'], ['ṇa', 'ण'],
+    // 
+    ['ta', 'त'], ['tha', 'थ'], ['da','द'], ['dha', 'ध'], ['na', 'न'],
+    // 
+    ['pa', 'प'], ['pha', 'फ'], ['ba', 'ब'], ['bha', 'भ'], ['ma', 'म'],
+    //
+    ['ya','य'], ['ra','र'], ['la','ल'], ['va','व'], ['śa', 'श'], ['ṣa', 'ष'],
+    ['sa', 'स'], ['ha', 'ह'], ['0', '०'],
+        ['1', '१'], ['2', '२'], ['3', '३'], ['4', '४'], ['5', '५'], ['6', '६'],
+        ['7', '७'], ['8', '८'], ['9', '९'] 
+]
+
+        
+	let roman_elem = document.getElementById("textinput").value;
+	for (let b = 0; b < dnDic.length; b++) {
+	    // a nice trick to change all occurences in line
+	    roman_elem = roman_elem.split(dnDic[b][1]).join(dnDic[b][0]);
+	  }
+//	alert(roman_elem);
+        roman_elem = roman_elem.split('a×VRM×').join('');
+        roman_elem = roman_elem.split('a+').join('');
+	
+	if (translit === true) {
+		roman_elem = translitChange(roman_elem);
+	}
+
+	document.getElementById("resultsArea").value = roman_elem;
+	
+}
+
+
+
+// DN to IAST and then to Velth
+function DnIastVelth() {
+	fromDn();
+	let roman_elem = document.getElementById("resultsArea").value;
+	roman_elem = translitChangeBack(roman_elem);
+	for (let b = 0; b < velthchanges.length; b++) {
+	    // a nice trick to change all occurences in line
+	    roman_elem = roman_elem.split(velthchanges[b][0]).join(velthchanges[b][1]);
+	  }
+
+	document.getElementById("resultsArea").value = roman_elem;
+}
+
+
+function sortSkt() {               
+
+let dic = {"a":  "[00]", "ā": "[01]", "i": "[02]", "ī": "[03]", "u": "[04]", "ū": "[05]", "ṛ": "[06]",
+        "ṝ": "[07]",  "ḷ": "[08]", "ḹ": "[09]",
+        "e": "[10]", "ai": "[11]", "o": "[12]", "au": "[13]", "ṃ": "[14]", "ḥ": "[15]",
+        "k": "[16]", "kh": "[17]", "g": "[18]", "gh": "[19]", "ṅ": "[20]", 
+        "c": "[21]", "ch": "[22]", "j": "[23]", "jh": "[24]", "ñ": "[25]", 
+        "ṭ": "[26]", "ṭh": "[27]", "ḍ": "[28]", "ḍh": "[29]", "ṇ": "[30]", 
+        "t": "[31]", "th": "[32]", "d": "[33]", "dh": "[34]", "n": "[35]", 
+        "p": "[36]", "ph": "[37]", "b": "[38]", "bh": "[39]", "m": "[40]", 
+        "y": "[41]", "r" : "[42]", "l": "[43]", "v" : "[44]", 
+        "ś": "[45]", "ṣ" : "[46]", "s": "[47]", "h" : "[48]"}
+
+preprocessingSort = {"ai": "[11]", "au": "[13]", "kh": "[17]", "gh": "[19]", 
+                "ch": "[22]",  "jh": "[24]", "ṭh": "[27]", "ḍh": "[29]", 
+                "th": "[32]",  "dh": "[34]", "ph": "[37]", "bh": "[39]"}
+
+
+	let inputtext = document.getElementById("textinput").value;
+	inputtext = translitChangeBack(inputtext);	
+//	var inputtext = textinput.value;
+	// make array of it
+	let inputtextArray = inputtext.split("\n");
+	// console.log(inputtextArray);
+
+
+// preprocess th, dh, ai etc.
+   	let newtext = "";
+        for (let a = 0; a < inputtextArray.length; a++) {
+        	newtext =  inputtextArray[a].toLowerCase();
+        	for (let b in preprocessingSort) {
+        	         newtext = newtext.split(b).join(preprocessingSort[b]); 
+ 		}
+ 		inputtextArray[a] = newtext + "--DIV--" + inputtextArray[a];
+ 	}    
+ 		//console.log(inputtextArray);
+
+
+//
+	var newArray = [];	
+        for (let a = 0; a < inputtextArray.length; a++) {
+        	 newtext = "";
+	         for (let b = 0; b < inputtextArray[a].length; b++) {
+	        //  console.log(a, dic[inputtextArray[a][b].toLowerCase()]);
+		       if (dic[inputtextArray[a][b].toLowerCase()] !== undefined) {
+		       		newtext = newtext + dic[inputtextArray[a][b].toLowerCase()];	    			
+		       		}
+		       else {
+	    			newtext = newtext + inputtextArray[a][b];
+			    }
+	   		 }	
+	   		 
+	   	    newArray[a] = newtext + "--DIV--" + inputtextArray[a] + "\n"; 
+	           }
+         newArray = newArray.sort();
+	//   console.log(newArray);
+
+// turn back to Roman
+	for (let a = 0; a < newArray.length; a++) {
+		for (let b in dic) {
+	 		newArray[a] = String(newArray[a]).split(dic[b]).join(b);
+		}
+	}
+
+
+	result = "";
+	for (let a = 0; a < newArray.length; a++) {
+		
+		if (translit === true) {
+			newArray[a] = translitChange(newArray[a]);	
+		}
+		
+		result = result + newArray[a].replace(/.*--DIV--/, "");
+			 //console.log(result);
+	   }
+        
+        
+        
+        document.getElementById("resultsArea").value = result;
+	    
+} // END OF SORT FUNCTION
+
+function putInSandhiMarks01() {
+	putInSandhiMarks('{ }');
+}
+
+function putInSandhiMarks02() {
+	putInSandhiMarks('');
+}
+
+// to turn IAST or Velth text into a version where spaces are turned into { } when 
+// in Devanāgarī these spaces would disappear (devaś ca --> devaś{ }ca [--> devaśca in Devanāgarī])
+function putInSandhiMarks(m) {
+
+	let inputtext = document.getElementById("textinput").value;
+	// make array of it
+	let inputtextArray = inputtext.split("\n");
+	// go through it line by line
+	for (let l = 0; l < inputtextArray.length; l++) {
+	        // split line into letters
+		let inputtextSplitLine = inputtextArray[l].split('');
+		// character by character; we start at 1 because later we check c-1 for a Velthuis .m or .h
+		// that should not count here as consonants
+             for (let c = 1; c < inputtextSplitLine.length; c++) {
+                // sandhi C + ' ' + C --> CC; or C + ' ' + V --> CV;(special check for .m and .h)
+          	if (c < inputtextSplitLine.length-2 && inputtextSplitLine[c-1] !== '.' && consonants.includes(inputtextSplitLine[c]) && inputtextSplitLine[c+1] === " " && (consonants.includes(inputtextSplitLine[c+2])  || vowels.includes(inputtextSplitLine[c+2]) )){
+          	         // the main thing: put in { } in place of the space
+			inputtextSplitLine[c+1] = m;
+		}
+	     }	
+		// put line back together
+	        inputtextArray[l] = inputtextSplitLine.join('');	
+        }
+		// append to result
+		result = "";
+		for (let a = 0; a < inputtextArray.length; a++) {	
+		        // check if the translit checkbox is checked	
+			if (translit === true) {
+				inputtextArray[a] = translitChange(inputtextArray[a]);	
+			 }
+                         // add this line to output
+		        result = result + inputtextArray[a] + '\n';
+	        }
+                 // print output into textarea
+	        document.getElementById("resultsArea").value = result;
+}
+
+
+
+
+
+
+
+function translit2tamil() {
+
+        let tamilVowels = ['ai', 'au', 'ā', 'i', 'ī', 'u', 'ū', 'e', 'ē', 'o', 'ō', 'ṃ', 'a'];
+        let tamilConsonants = ['k', 'ṅ', 'c',  'ñ', 'ṭ', 'ṇ', 't', 'n', 'p', 'm', 'y', 'r', 'l', 'v', 
+                                'ḻ', 'ḷ', 'ṟ', 'ṉ', 'ś', 'j', 'ṣ', 's', 'h', 'ḥ', ' ', 'X'];
+        let tamilInitVowelChanges = [['ai', 'ஐ'], ['au', 'ஔ'], ['a', 'அ'],
+             ['ā', 'ஆ'], ['i', 'இ'], ['ī', 'ஈ'], ['u', 'உ'], ['ū', 'ஊ'], ['e', 'எ'],
+             ['ē', 'ஏ'],  ['o', 'ஒ'], ['ō', 'ஓ'], ['ṃ', 'அஂ'], ['ḥ', 'ஃ']];
+        let tamilVowelChanges = [['ā', 'ா'], ['i', 'ி'], ['ī', 'ீ'], ['u', 'ு'], ['ū', 'ூ'], ['e', 'ெ'],
+             ['ē', 'ே'],  ['o', 'ொ'], ['ō', 'ோ'], ['ṃ', 'ஂ']];
+        let tamilConsonantChanges = [['k', 'க', 'க்'], ['ṅ', 'ங', 'ங்'], ['c', 'ச', 'ச்'], ['ñ', 'ஞ', 'ஞ்'], 
+             ['ṭ', 'ட', 'ட்'], ['ṇ', 'ண', 'ண்'], ['t', 'த', 'த்'], ['n', 'ந', 'ந்'], ['p','ப', 'ப்'], ['m', 'ம', 'ம்'], 
+             ['y', 'ய', 'ய்'], ['r', 'ர', 'ர்'], ['l', 'ல', 'ல்'], ['v', 'வ', 'வ்'], ['ḻ', 'ழ', 'ழ்'],
+             ['ḷ', 'ள', 'ள்'], ['ṟ', 'ற', 'ற்'], ['ṉ', 'ன', 'ன்'], ['ḥ', 'ஃ', 'ஃ'], ['ś', 'ஶ', 'ஶ்'], 
+             ['j', 'ஜ', 'ஜ்'], ['ṣ', 'ஷ', 'ஷ்'], ['s', 'ஸ', 'ஸ்'], ['h', 'ஹ', 'ஹ்']  ];
+       
+	let roman_transcription_split = document.getElementById("textinput").value.split("\n");
+	let result = "";
+	let initVowel = true;
+
+	for (let l=0; l<roman_transcription_split.length; l++) {
+	        let line = roman_transcription_split[l] + "X";
+	        let newLine = '';
+
+	        let c = 0;               
+                while (c < line.length) {
+                
+                        if (line[c] === ' ') {
+                                initVowel = true;
+                                newLine = newLine + ' ';
+                                c = c + 1;
+                                continue;
+                         }
+
+                        // AI
+                        if (line.slice(c, c+2) === 'ai') {
+                                if (initVowel === true) {newLine = newLine + 'ஐ';}
+                                else {newLine = newLine + 'ை';}
+                                c = c + 2; continue;                        
+                        }
+                                        
+                        // AU
+                        if (line.slice(c, c+2) === 'au') {
+                                if (initVowel === true) {newLine = newLine + 'ஔ';}
+                                else {newLine = newLine + 'ௌ';}
+                                c = c + 2; continue;                        
+                        }
+
+                        // KṢA
+                        if (line.slice(c, c+2) === 'kṣ') {
+                                if (tamilConsonants.includes(line[c+2])) {newLine = newLine + 'க்ஷ்';}
+                                else {newLine = newLine + 'க்ஷ';}
+                                initVowel = false;                                
+                                c = c + 2; continue;                        
+                        }
+
+                                        
+                        // non-initial vowel
+                        if (tamilVowels.includes(line[c]) && initVowel === false) {
+                            for (let chang=0; chang<tamilVowelChanges.length; chang++) {
+                                if (tamilVowelChanges[chang][0] === line[c]){
+                                 newLine = newLine + tamilVowelChanges[chang][1];
+                                 }
+                             }
+                                c = c + 1; continue;                             
+                        } 
+
+                        // initial vowel
+                        if (tamilVowels.includes(line[c]) && initVowel === true) {
+                            for (let chang=0; chang<tamilInitVowelChanges.length; chang++) {
+                                if (tamilInitVowelChanges[chang][0] === line[c]){
+                                 newLine = newLine + tamilInitVowelChanges[chang][1];
+                                 }
+                             }
+                                c = c + 1; continue;                             
+                        } 
+
+
+                        // C + V
+                        if (tamilConsonants.includes(line[c]) && tamilVowels.includes(line[c+1])){
+                          for (let chang=0; chang<tamilConsonantChanges.length; chang++) {
+                                if (tamilConsonantChanges[chang][0] === line[c]){
+                                        newLine = newLine + tamilConsonantChanges[chang][1];
+                                }
+                                initVowel = false;
+                                }        
+                                c = c + 1; continue;
+                        }
+                        
+                        
+                        // C + C
+                        if (tamilConsonants.includes(line[c]) && tamilConsonants.includes(line[c+1])){
+                          for (let chang=0; chang<tamilConsonantChanges.length; chang++) {
+                                if (tamilConsonantChanges[chang][0] === line[c]){
+                                        newLine = newLine + tamilConsonantChanges[chang][2];
+                                }
+                           }
+                                c = c + 1; continue;
+                        }
+                                 
+                        c = c + 1;
+                }                
+  	        result = result + newLine + '\n';
+  	        initVowel = true;
+	}
+		        document.getElementById("resultsArea").value = result;
+}
+
+
+
+
+function tamil2translit() {
+
+       let tamilChanges = [['ai', 'ஐ'], ['au', 'ஔ'], 
+           ['a', 'அ'], ['ā', 'ஆ'], ['i', 'இ'], ['ī', 'ஈ'], ['u', 'உ'], ['ū', 'ஊ'], ['e', 'எ'],
+        ['ē', 'ஏ'],  ['o', 'ஒ'], ['ō', 'ஓ'], ['ṃ', 'அஂ'], ['ḥ', 'ஃ'], 
+           ['+ā', 'ா'], ['+i', 'ி'], ['+ī', 'ீ'], ['+u', 'ு'], ['+ū', 'ூ'], ['+e', 'ெ'],
+        ['+ē', 'ே'], ['+ai', 'ை'], ['+o', 'ொ'], ['+au', 'ௌ'], ['+ō', 'ோ'], ['ṃ', 'ஂ'],
+                  ['k', 'க்'], ['ṅ', 'ங்'], ['c', 'ச்'], ['ñ', 'ஞ்'], 
+        ['ṭ', 'ட்'], ['ṇ', 'ண்'], ['t', 'த்'], ['n', 'ந்'], ['p', 'ப்'], ['m', 'ம்'], 
+        ['y',  'ய்'], ['r',  'ர்'], ['l',  'ல்'], ['v',  'வ்'], ['ḻ', 'ழ்'],
+        ['ḷ',  'ள்'], ['ṟ',  'ற்'], ['ṉ', 'ன்'], ['ḥ', 'ஃ'], ['ś', 'ஶ்'], ['j', 'ஜ்'], ['ṣ', 'ஷ்'], 
+        ['s',  'ஸ்'], ['h',  'ஹ்'], ['kṣ', 'க்ஷ்'], 
+                   ['ka', 'க'], ['ṅa', 'ங'], ['ca', 'ச'], ['ña', 'ஞ'], 
+        ['ṭa', 'ட'], ['ṇa', 'ண'], ['ta', 'த'], ['na', 'ந'], ['pa','ப'], ['ma', 'ம'], 
+        ['ya', 'ய'], ['ra', 'ர'], ['la', 'ல'], ['va', 'வ'], ['ḻa', 'ழ'],
+        ['ḷa', 'ள'], ['ṟa', 'ற'], ['ṉa', 'ன'], ['śa', 'ஶ'], ['ja', 'ஜ'], ['ṣa', 'ஷ'], 
+        ['sa', 'ஸ'], ['ha', 'ஹ'], ['kṣa', 'க்ஷ']];
+
+	let tamil_split = document.getElementById("textinput").value.split("\n");
+	let result = "";
+	for (let l=0; l<tamil_split.length; l++) {
+	        let line = tamil_split[l];        
+	        for (c=0; c < tamilChanges.length; c++) {
+	                line = line.split(tamilChanges[c][1]).join(tamilChanges[c][0]);
+	             }
+	                // to turn e.g. 'ka + ā' into 'kā' (க ஆ --> கா)
+	                line = line.split('a+').join('');
+        	        result = result + line + '\n';
+	    }
+		        document.getElementById("resultsArea").value = result;
+}
+
+
+
+
+
+// BUTTONS
+// IAST to Devanagari button
+var button1 = document.getElementById('switchbutton');
+// button1.addEventListener('click', turnItToDevnag);
+button1.addEventListener('click', turnItToDevnagFromVelth);
+// IAST to Velthuis button
+var button2 = document.getElementById('switchbuttonvelth');
+button2.addEventListener('click', changeLettersToVelth);
+// VELTH to IAST
+var button3 = document.getElementById('switchbuttonvelth2iast');
+button3.addEventListener('click', changeLettersToIastFromVelth);
+
+// From DN to IAST!
+var button4 = document.getElementById('fromDn');
+button4.addEventListener('click', fromDn);
+// From DN to Velth!
+var button5 = document.getElementById('DnIastVelth');
+button5.addEventListener('click', DnIastVelth);
+
+// SORT
+var button6 = document.getElementById('sort');
+button6.addEventListener('click', sortSkt);
+
+// SANDHI 01
+var button9 = document.getElementById('sandhi01');
+button9.addEventListener('click', putInSandhiMarks01);
+
+// SANDHI 02
+var button10 = document.getElementById('sandhi02');
+button10.addEventListener('click', putInSandhiMarks02);
+
+//CLIPBOARD BUTTON
+var button7 = document.getElementById('clipboard');
+button7.addEventListener('click', copyfunc);
+
+// TRANSLITERATION CHECKBOX
+var button8 = document.getElementById('transliteration');
+button8.addEventListener('change', transliteration);
+
+// TRANSL 2 TAMIL BUTTON 
+var button20 = document.getElementById('translit2tamil');
+button20.addEventListener('click', translit2tamil);
+
+var button21 = document.getElementById('tamil2translit');
+button21.addEventListener('click', tamil2translit);
+
+// Identify the metre
+var button10 = document.getElementById('identifymetre');
+button10.addEventListener('click', showMetre);
+
+var button11 = document.getElementById('clear');
+button11.addEventListener('click', clearFunction);
+
+
+function copyfunc() {
+  let copy = document.getElementById("resultsArea").value;
+  // to handle linebreaks here
+  //elementText = copyText.split('<br>').join('\n');
+//  let elementText = copyText.textContent;
+  // alert("Text copied to clipboard.");
+  navigator.clipboard.writeText(copy);
+
+}
+
+function clearFunction() {
+	document.getElementById('resultsArea').value = "";
+	document.getElementById('counterSpan').innerHTML = "";
+	}
+
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
