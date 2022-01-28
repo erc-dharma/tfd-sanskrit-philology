@@ -1,60 +1,60 @@
-
-
 .text, .translation, .notes, .msimage {
 
-    width:47%;
     position: absolute;
     left: 0;
     right: 0;
     overflow: scroll;
-    line-height:1.2em;
+    line-height: 1.2em;
 
 }
 
 .text {
+
     top: 0;
     height: 100%;
     width: 50%;
-    color: grey;
-/*    background-color: #fdfde7;  */
     background-color: black;
-    padding-left:20px;
-    border-right-style: 10px white solid;
+    padding-left: 20px;
     font-size: 110%;
+    overflow-x: hidden;
 }
 
 .translation {
 
     top: 0%;
-    left: 50%;
-    width: 50%;
+    left: 46%;
     bottom: 0%;
     height: 100%;
-    color: grey;
-    background-color: black;  
-/*    background-color: #00134d, #e6f7ff;  */
+    width: 50.9%;
+    background-color: black;
     font-size: 100%;
     font-style: normal;  
-    padding-right: 30px;
-    display: block;
+    padding-right: 20px;
+    padding-left: 20px;
+    word-wrap: break-word;
+    overflow-x: hidden;
 }
 
 
 .notes {
     top: 54%;
-    left: 0%;
-    width: 50%;
+    left: 46%;
     bottom: 0%;
-    height: 52%;
-    color: grey;
-   /* background-color: #e6ffe6;  #00324d; */
-    background-color: #00003f; 
+    height: 50%;
+    width: 50%;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #e6ffaa; 
+    color: black; 
     font-style: normal;  
-    padding: 20px;
    /* font: normal 1em palatino; */
     display: none;
     overflow-x: hidden;
     overflow-y: scroll;
+}
+
+.notes .ms {
+    color: black; 
 }
 
 .msimage {
@@ -72,80 +72,9 @@
     display: none;
 }
 
-
-/*
-.tooltip-wrap {
-  display: block;
-  position: relative;
-  color: grey; 
+.ms {
+   color: lightskyblue;
 }
-
-.tooltip-wrap:active{
-  opacity: 1;
-  font-style: italic;
-transition: opacity 6s;
-}
-
-.tooltip-wrap .tooltip-content {
-  display: none;
-  position: relative;
-  top: 0%;
-  right: 10%;
-  left: 5%;
-  padding: .5em;
-  bottom: 125%;
-  width: 80%;
-  font-size: .8em;
-  border: dotted;
-  color: grey; 
-}
-
-
-
-
- @media only screen and (max-width: 700px) {
-.tooltip-wrap:hover .tooltip-content {
-
-	display: block;
-  font-weight: normal;
-  font-style: normal;
-}
-}
-
- @media only screen and (min-width: 701px) {
-.tooltip-wrap:active .tooltip-content {
-	display: block;
-  font-weight: normal;
-  font-style: normal;
-}
-}
-
-*/
-
-
-/* OLD, TO BE DELETED */
-.tooltip-content {
-  top: 0%;
-  right: 10%;
-  left: 5%;
-  padding: .5em;
-  bottom: 125%;
-  max-width: 80%;
-  font-size: .8em;
-  border: dotted;
-  color: grey; 
-}
-
-.tooltip-wrap {
-  display: block;
-  position: relative;
-  color: grey;
-  font-size: .9em;
-}
-/* OLD, TO BE DELETED */
-
-
-
 
 
 .wrap-main {
@@ -156,14 +85,17 @@ transition: opacity 6s;
 }
 
 .wrap-content {
- top: 0%;
-  right: 10%;
-  left: 5%;
+  position: relative;
+  top: 0%;
+  right: 0%;
+  left: 1%;
+  bottom: 3%;
   padding: .5em;
-  bottom: 125%;
-  max-width: 80%;
+  max-width: 70%;
   font-size: .8em;
-  border: dotted;
+  border: solid thin;
+  border-radius: 0%;
+  margin: .4em;
   color: grey;
   }
 
@@ -180,28 +112,46 @@ TEXT {
 
 RMTEXT {
 	display: inline;
-}
+	color: white;
+	}
 
 DNTEXT {
 	display:none;
+	color: white;
 }
 
-DNLEM {
-	display:none;
-}
 
 PARAL {
 	display: block;
 	color: #cc8100;
 }
 
+uvaca {
+
+}
+
+subchapter {
+	display: block;
+        font-weight: bold;
+	color: #cc8800;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+subsubchapter {
+	display: block;
+  font-weight: bold;
+	color: #cc8800;
+	font-size: 80%}
 
 
 trnsl {
 	display: inline;
-     font-weight: normal;
-	color: gray;
+        font-weight: normal;
+	color: white;
 	font-size: 100%;
+	width: 100%;
 }
 
 trnslchapter {
@@ -214,34 +164,34 @@ trnslchapter {
 trnslchapter:before {
 	content: "["}
 trnslchapter:after {
-	content: "]"}
+	content: " ]"}
 
 
 trnslsubchapter {
 	display: inline;
-     font-weight: bold;
+        font-weight: bold;
 	color: #cc8800;
 	font-size: 100%;
 }
 
 trnslsubchapter:before {
-	content: "["}
+	content: "[ "}
 trnslsubchapter:after {
-	content: "]"}
+	content: " ]"}
 
 
 
 trnslsubsubchapter {
 	display: inline;
-     font-weight: bold;
+        font-weight: bold;
 	color: #cc8800;
 	font-size: 80%;
 }
 
 trnslsubsubchapter:before {
-	content: "["}
+	content: "[ "}
 trnslsubsubchapter:after {
-	content: "]"}
+	content: " ]"}
 
 
 
@@ -249,7 +199,7 @@ trnslsubsubchapter:after {
 
 chapter {
 	display: block;
-  font-weight: bold;
+        font-weight: bold;
 	color: #cc8800;
 	font-size: 120%;
 	padding-top: 10px;
@@ -257,44 +207,27 @@ chapter {
 }
 
 
-chapter:before {
-	content: "["}
-chapter:after {
-	content: "]"}
+RMAPP {
+	display: inline;
+	color: white;
+		}
 
-APP {
-	display: block;
-	}
+DNAPP {
+	display:none;
+	color: white;
+		}
 
-
-
-subchapter {
-	display: block;
-  font-weight: bold;
+.instr {
+	display:block;
 	color: #cc8800;
-	padding-top: 10px;
-	padding-bottom: 10px;
-}
+		}
 
-subchapter:before {
-	content: "["}
-subchapter:after {
-	content: "]"}
-
-
-subsubchapter {
-	display: block;
-  font-weight: bold;
-	color: #cc8800;
-	font-size: 80%}
-
-subsubchapter:before {
-	content: "["}
-subsubchapter:after {
-	content: "]"}
 
 LEM {
+ 	/* color: #cc8800; */
  	color: #cc8800;
+	font-weight: bold; 
+ 	
 }
 
 LEM:after {
@@ -302,9 +235,6 @@ LEM:after {
  	color: #cc8800;
 }
 
-DNLEM {
- 	color: #cc8800;
-}
 
 DNLEM:after {
 	content: " ]";
@@ -316,11 +246,12 @@ sub {
 	font-size:70%;
 }
 sup {
-	font-size:10%;
+	font-size:70%;
 }
 
 
-vsnum {font-size: 1em;
+.vsnum {
+        font-size: 1em;
 	color: #cc8800;
 	}
 
@@ -331,11 +262,12 @@ spaceaftersloka {
 
 skt {
         font-style: italic;
-	}
+}
 
 corr {
         font-size: .7em;
-	}
+        color: lightskyblue;
+}
 
 button {
  	color: #cc8800;
@@ -367,17 +299,11 @@ colophon {
         text-align: right;
 }
 
-colophon:before {
-	content: "||"}
-colophon:after {
-	content: " ||"}
-
 
 trnslcolophon {
  	color: #cc8800;
         text-align: right;
 }
-
 
 
 blockquote q {
@@ -389,6 +315,7 @@ crux:before {
 	content: "†";
 	color: red;
 }
+
 crux:after {
 	content: "†";
 	color: red;
@@ -400,11 +327,13 @@ a  {
 	text-decoration: none; 
 	color: white;
 	}
+	
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
 	color: #cc8800;
 	}
+	
 a:hover, a:focus, a:active { 
 	text-decoration: none; 
 	color: orange;
@@ -413,59 +342,14 @@ a:hover, a:focus, a:active {
 
 
 
-/* Style The Dropdown Button */
-.dropbtn {
-  font-size: 10px;
-  border: none;
-  cursor: pointer;
-  background-color: #fdfde7;
-}
-
-/* The container <div> - needed to position the dropdown content */
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-/* Links inside the dropdown */
-.dropdown-content a {
-  color: black;
-  padding: 5px;
-  font-size: 1em;
-  text-decoration: none;
-  display: block;
-}
-
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #f1f1f1}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {
-  background-color: #3e8e41;
-}
-
 select {
   width: 40%;
   padding: 1px 2px;
   border: solid;
-  border-radius: 4px;
-  color: grey;
-  background-color: #00134d;
+  border-radius: 40px;
+  color: #cc8800;
+  background-color: #cc8800;
+  border-color: #cc8800;
 }
 
 input {

@@ -8,7 +8,8 @@
 <rt id="realtitle">Title</rt>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <link rel="stylesheet" href="style_scroll.css">
-</head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+ </head>
 
 <body onload="closeapp();">
 
@@ -17,7 +18,64 @@
 <script xmlns="http://www.w3.org/1999/xhtml" src="showhide.js"></script>
 <script xmlns="http://www.w3.org/1999/xhtml" src="onlytext.js"></script>
 
-<span style="color:green">[Version of 2021-03-06]</span>
+<span style="color:green">[Version of 2021-05-04]</span>
+
+
+<br/>
+
+<select id="themes"  style="background-color:black">
+ <option value="default">--Choose Colour Theme--</option>
+ <option value="dark">Dark</option>
+ <option value="light">Light</option>
+ <option value="dim">Dim</option>
+ </select>
+
+  <script>
+   $("select").change(function() {
+            if ($(this).val() === "dark") { 
+ 	     $("#sanskrittext").css("background-color", "black");
+ 	     $("RMTEXT").css("color", "white");	     
+ 	     $("DNTEXT").css("color", "white");	     
+ 	     $("APP").css("color", "white");	     
+ 	     $("LEM").css("color", "orange");	     
+ 	     $("h1").find("RMTEXT").css("color", "white");	     
+ 	     $("h1").find("DNTEXT").css("color", "white");	     
+   	     $("chapter").find("RMTEXT").css("color", "orange");	     
+   	     $("chapter").find("DNTEXT").css("color", "orange");	     
+   	     $("subchapter").find("RMTEXT").css("color", "orange");	     
+ 	     $("subchapter").find("DNTEXT").css("color", "orange");	     
+      }
+        if ($(this).val() === "light") {
+ 	     $("#sanskrittext").css("background-color", "white");
+ 	     $("RMTEXT").css("color", "black");	     
+ 	     $("DNTEXT").css("color", "black");	     
+ 	     $("APP").css("color", "blue");	     
+ 	     $("LEM").css("color", "red");	     
+ 	     $("h1").find("RMTEXT").css("color", "blue");	     
+ 	     $("h1").find("DNTEXT").css("color", "blue");	     
+   	     $("chapter").find("RMTEXT").css("color", "orange");	     
+   	     $("chapter").find("DNTEXT").css("color", "orange");	     
+ 	     $("subchapter").find("RMTEXT").css("color", "orange");	     
+ 	     $("subchapter").find("DNTEXT").css("color", "orange");	     
+ 	     	            }
+        if ($(this).val() === "dim") {
+ 	     $("#sanskrittext").css("background-color", "black");
+ 	     $("RMTEXT").css("color", "gray");	     
+ 	     $("DNTEXT").css("color", "gray");	     
+ 	     $("APP").css("color", "gray");	  
+      	     $("LEM").css("color", "orange");	        
+ 	     $("h1").find("RMTEXT").css("color", "orange");	     
+ 	     $("h1").find("DNTEXT").css("color", "orange");	     
+   	     $("chapter").find("RMTEXT").css("color", "orange");	     
+   	     $("chapter").find("DNTEXT").css("color", "orange");	     
+ 	     $("subchapter").find("RMTEXT").css("color", "orange");	     
+ 	     $("subchapter").find("DNTEXT").css("color", "orange");	     
+        }
+        });
+    </script>
+
+
+
 
 <div class="header">&nbsp&nbsp&nbsp&nbsp
 &nbsp&nbsp&nbsp&nbsp
@@ -109,20 +167,20 @@
 
 <div class="wrap-main">
 <TEXT id="20.2ab" class="sktvrs20.2" onclick="showApparatus('app20.2ab')" ondblclick="showNote('note20.2')" >
-<RMTEXT> sarvaṁ pratyakṣadarśitvaṁ kathaṁ māṁ praṣṭum arhasi |</RMTEXT>
-<DNTEXT>सर्वं प्रत्यक्षदर्शित्वं कथं मां प्रष्टुमर्हसि ।   </DNTEXT></TEXT>
+<RMTEXT> sarvapratyakṣadarśitvaṁ kathaṁ māṁ praṣṭum arhasi |</RMTEXT>
+<DNTEXT>सर्वप्रत्यक्षदर्शित्वं कथं मां प्रष्टुमर्हसि ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.2ab')" id="app20.2ab">
 
-        <APP>2a <LEM>sarvaṁ</LEM><DNLEM>सर्वं 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; sarva° <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms> •
+        <APP>2a <LEM>sarva°</LEM><DNLEM>सर्व° 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>10</sub></ms>; sarvaṁ <ms>K<sub>82</sub></ms><ms>E</ms> •
 
                  <LEM>°darśitvaṁ</LEM><DNLEM>°दर्शित्वं 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °darśītvaṁ <ms>C<sub>45</sub></ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °darśītvaṁ <ms>C<sub>45</sub></ms></APP>
 
         <APP>2b <LEM>māṁ</LEM><DNLEM>मां 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; maṁ <ms>K<sub>82</sub></ms></APP>
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>10</sub></ms><ms>E</ms>; maṁ <ms>K<sub>82</sub></ms></APP>
 
 
 </div>
@@ -137,7 +195,7 @@
 <div class="wrap-content" onclick="hideFunction('app20.2cd')" id="app20.2cd">
 
         <APP>2c <LEM>'smi</LEM><DNLEM>ऽस्मि 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; smī <ms>C<sub>45</sub></ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; smī <ms>C<sub>45</sub></ms></APP>
 
 
 </div>
@@ -168,11 +226,14 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.3ab')" id="app20.3ab">
 
-        <APP>3a <LEM>cāntaṁ</LEM><DNLEM>चान्तं 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; cāntaś <ms>E</ms></APP>
+        <APP>3a <LEM>°madhyaṁ</LEM><DNLEM>°मध्यं 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °madya <ms>K<sub>10</sub></ms> •
+
+                 <LEM>cāntaṁ ca</LEM><DNLEM>चान्तं च 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; cāntaś ca <ms>E</ms></APP>
 
         <APP>3b <LEM>surair api</LEM><DNLEM>सुरैरपि 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; surer api <ms>C<sub>45</sub></ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>E</ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; surer api <ms>C<sub>45</sub></ms></APP>
 
 
 </div>
@@ -185,6 +246,9 @@
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.3cd')" id="app20.3cd">
+
+        <APP>3c <LEM>hy ati°</LEM><DNLEM>ह्यति° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; hy adi° <ms>C<sub>02</sub></ms></APP>
 
 
 </div>
@@ -210,7 +274,8 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.4cd')" id="app20.4cd">
 
-        <APP>4cd <i>omitted in</i> <ms>E</ms></APP>
+        <APP>4cd <LEM>(sarvaḥ<SKT>...</SKT> tiṣṭhati)</LEM><DNLEM>(सर्वःł...</SKT> तिष्ठति) 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; <i>omitted in</i> <ms>E</ms></APP>
 
 
 </div>
@@ -224,7 +289,8 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.5ab')" id="app20.5ab">
 
-        <APP>5ab <i>omitted in</i> <ms>E</ms></APP>
+        <APP>5ab <LEM>sarve°<SKT>...</SKT> varjitaḥ</LEM><DNLEM>सर्वे°ł...</SKT> वर्जितः 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; <i>omitted in</i> <ms>E</ms></APP>
 
 
 </div>
@@ -239,7 +305,7 @@
 <div class="wrap-content" onclick="hideFunction('app20.5cd')" id="app20.5cd">
 
         <APP>5c <LEM>°jaḥ</LEM><DNLEM>°जः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; yaḥ <ms>E</ms></APP>
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; yaḥ <ms>E</ms></APP>
 
 
 </div>
@@ -254,7 +320,7 @@
 <div class="wrap-content" onclick="hideFunction('app20.6ab')" id="app20.6ab">
 
         <APP>6b <LEM>brahmā</LEM><DNLEM>ब्रह्मा 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>E</ms>; brahma <ms>K<sub>82</sub></ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>E</ms>; brahma <ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms></APP>
 
 
 </div>
@@ -269,12 +335,10 @@
 <div class="wrap-content" onclick="hideFunction('app20.6cd')" id="app20.6cd">
 
         <APP>6c <LEM>°viṁśaḥ</LEM><DNLEM>°विंशः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>E</ms>;
-
-                         °viṁśat <ms>K<sub>82</sub></ms><corr>ac</corr>, °viṁśa <ms>K<sub>82</sub></ms><corr>pc</corr> • 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °viṁśat <ms>K<sub>82</sub></ms><corr>ac</corr>, °viṁśa <ms>K<sub>82</sub></ms><corr>pc</corr> • 
 
                  <LEM>sa vijñeyo</LEM><DNLEM>स विज्ञेयो 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><corr>ac</corr><ms>E</ms>; sarvajñeyo <ms>K<sub>82</sub></ms><corr>pc</corr></APP>
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><corr>ac</corr><ms>K<sub>10</sub></ms><ms>E</ms>; sarvajñeyo <ms>K<sub>82</sub></ms><corr>pc</corr></APP>
 
 
 </div>
@@ -288,6 +352,12 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.7ab')" id="app20.7ab">
 
+        <APP>7a <LEM>°nirmukto</LEM><DNLEM>°निर्मुक्तो 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °lirmukto <ms>K<sub>10</sub></ms></APP>
+
+        <APP>7b <LEM>°pañcāśa°</LEM><DNLEM>°पञ्चाश° 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °pañcasa° <ms>K<sub>10</sub></ms></APP>
+
 
 </div>
 </div>
@@ -300,14 +370,16 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.7cd')" id="app20.7cd">
 
-        <APP>7cd <LEM>toyair na</LEM><DNLEM>तोयैर्न 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; toyī na <ms>C<sub>45</sub></ms><corr>ac</corr>, toyer na <ms>C<sub>45</sub></ms><corr>pc</corr>, toyai na <ms>K<sub>82</sub></ms></APP>
+        <APP>7cd <LEM>yathā toyair na</LEM><DNLEM>यथा तोयैर्न 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; yathā toyī na <ms>C<sub>45</sub></ms><corr>ac</corr>, 
+
+                        yathā toyer na <ms>C<sub>45</sub></ms><corr>pc</corr>, yathā toyai na <ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms>, yadā toyai nna <ms>K<sub>10</sub></ms></APP>
 
         <APP>7d <LEM>lipyeta</LEM><DNLEM>लिप्येत 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; lipyate <ms>E</ms> •
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; lipyate <ms>E</ms> •
 
                  <LEM>jale</LEM><DNLEM>जले 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; jalai <ms>C<sub>45</sub></ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; jalai <ms>C<sub>45</sub></ms></APP>
 
 
 </div>
@@ -321,6 +393,9 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.7ef')" id="app20.7ef">
 
+        <APP>7c <LEM>°ṣair na</LEM><DNLEM>°षैर्न 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °ṣai na <ms>C<sub>02</sub></ms>, °ṣai nna <ms>K<sub>10</sub></ms></APP>
+
 
 </div>
 </div>
@@ -332,14 +407,19 @@
 
 <div class="wrap-main">
 <TEXT id="20.8ab" class="sktvrs20.8" onclick="showApparatus('app20.8ab')" ondblclick="showNote('note20.8')" >
-<RMTEXT> caturviṁśati yat tattvaṁ prakr̥tir vidhiniścayaḥ |</RMTEXT>
-<DNTEXT>चतुर्विंशति यत्तत्त्वं प्रकृतिर्विधिनिश्चयः ।   </DNTEXT></TEXT>
+<RMTEXT> caturviṁśati yat tattvaṁ prakr̥tiṁ viddhi niścayam |</RMTEXT>
+<DNTEXT>चतुर्विंशति यत्तत्त्वं प्रकृतिं विद्धि निश्चयम् ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.8ab')" id="app20.8ab">
 
-        <APP>8a <LEM>yat</LEM><DNLEM>यत् 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; yan <ms>E</ms></APP>
+        <APP>8a <LEM>yat tattvaṁ</LEM><DNLEM>यत्तत्त्वं 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; ya tatvaṁ <ms>C<sub>02</sub></ms>, yan tatvaṁ <ms>E</ms></APP>
+
+        <APP>8b <LEM>prakr̥tiṁ viddhi niścayam</LEM><DNLEM>प्रकृतिं विद्धि निश्चयम् 
+  </DNLEM> <i>conj.</i>; prakr̥tir vidhiniścayaḥ <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>, 
+
+                                                                prakr̥ti vidhiniścayaḥ <ms>C<sub>02</sub></ms></APP>
 
 
 </div>
@@ -353,6 +433,12 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.8cd')" id="app20.8cd">
 
+        <APP>8c <LEM>vikr̥tiś ca</LEM><DNLEM>विकृतिश्च 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; vikr̥tiñ ca <ms>C<sub>02</sub></ms></APP>
+
+        <APP>8d <LEM>°jñeyas tattva°</LEM><DNLEM>°ज्ञेयस्तत्त्व° 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °jñeyos tatva° <ms>K<sub>10</sub></ms></APP>
+
 
 </div>
 </div>
@@ -365,10 +451,13 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.9ab')" id="app20.9ab">
 
-        <APP>9b <LEM>buddhyahaṁkāra-ādayaḥ</LEM><DNLEM>बुद्ध्यहंकार-आदयः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>;
+        <APP>9a <LEM>°bhavāḥ</LEM><DNLEM>°भवाः 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °bhāvaḥ <ms>K<sub>10</sub></ms></APP>
 
-                         buddhyāhaṁkārakādayaḥ <ms>E</ms></APP>
+        <APP>9b <LEM>buddhyahaṁkāra-ādayaḥ</LEM><DNLEM>बुद्ध्यहंकार-आदयः 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; bubuddhyahaṁkāra ādayaḥ <ms>C<sub>02</sub></ms>,
+
+                                                         buddhyāhaṁkārakādayaḥ <ms>E</ms></APP>
 
 
 </div>
@@ -382,8 +471,11 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.9cd')" id="app20.9cd">
 
-        <APP>9d <LEM>kramaśas tu</LEM><DNLEM>क्रमशस्तु 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>E</ms>; yaḥ kramas tu <ms>K<sub>82</sub></ms></APP>
+        <APP>9c <LEM>vikr̥tiṁ</LEM><DNLEM>विकृतिं 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>E</ms>; vikr̥ti <ms>K<sub>10</sub></ms></APP>
+
+        <APP>9d <LEM>kramaśas tu vai</LEM><DNLEM>क्रमशस्तु वै 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; yaḥ kramas tu vai <ms>K<sub>82</sub></ms>, kramasaṁs tu vaiḥ <ms>C<sub>02</sub></ms></APP>
 
 
 </div>
@@ -403,7 +495,7 @@
 <div class="wrap-content" onclick="hideFunction('app20.10ab')" id="app20.10ab">
 
         <APP>10b <LEM>°yutaḥ</LEM><DNLEM>°युतः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °yutam <ms>C<sub>45</sub></ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °yutam <ms>C<sub>45</sub></ms></APP>
 
 
 </div>
@@ -417,14 +509,14 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.10cd')" id="app20.10cd">
 
-        <APP>10c <LEM>°samutpanna</LEM><DNLEM>°समुत्पन्न 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °samutpanno <ms>C<sub>45</sub></ms></APP>
+        <APP>10c <LEM>°samutpanna°</LEM><DNLEM>°समुत्पन्न° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °samutpanno <ms>C<sub>45</sub></ms></APP>
 
         <APP>10d <LEM>°boddhāraṁ</LEM><DNLEM>°बोद्धारं 
-  </DNLEM> <i>em.</i>; °boddhā ta <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>E</ms>, °boddhā taṁ <ms>K<sub>82</sub></ms> •
+  </DNLEM> <i>em.</i>; °bodhāta <ms><b>C</b></ms><ms>K<sub>10</sub></ms>, °boddhātaṁ <ms>K<sub>82</sub></ms>, °boddhāta <ms>E</ms> •
 
                  <LEM>viddhi</LEM><DNLEM>विद्धि 
-  </DNLEM> <i>em.</i>; vidhi <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms></APP>
+  </DNLEM> <i>em.</i>; vidhi <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms></APP>
 
 
 </div>
@@ -444,7 +536,7 @@
 <div class="wrap-content" onclick="hideFunction('app20.11ab')" id="app20.11ab">
 
         <APP>11b <LEM>uktaṁ</LEM><DNLEM>उक्तं 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; ukta <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; ukta <ms>C<sub>02</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms></APP>
 
 
 </div>
@@ -459,13 +551,13 @@
 <div class="wrap-content" onclick="hideFunction('app20.11cd')" id="app20.11cd">
 
         <APP>11c <LEM>bhūtādi mama pañcāha</LEM><DNLEM>भूतादि मम पञ्चाह 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; bhūtādir nāma pañcāha <ms>E</ms></APP>
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; bhūtādir nāma pañcāha <ms>E</ms></APP>
 
         <APP>11d <LEM>rajā°</LEM><DNLEM>रजा° 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; rajo° <ms>E</ms> •
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; rajo° <ms>E</ms> •
 
                  <LEM>°dbhavam</LEM><DNLEM>°द्भवम् 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °dbhavaḥ <ms>C<sub>45</sub></ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °dbhavaḥ <ms>C<sub>45</sub></ms></APP>
 
 
 </div>
@@ -484,8 +576,16 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.12ab')" id="app20.12ab">
 
+        <APP>12a <LEM>yat tattvaṁ</LEM><DNLEM>यत्तत्त्वं 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; ya tatvaṁ <ms>C<sub>02</sub></ms></APP>
+
         <APP>12b <LEM>suṣiraṁ viddhi</LEM><DNLEM>सुषिरं विद्धि 
-  </DNLEM> <i>em.</i>; suśiraṁ viddhi <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>, susira vr̥ddhi <ms>C<sub>02</sub></ms></APP>
+  </DNLEM> <i>em.</i>; suśiraṁ viddhi <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>, susira vr̥ddhi <ms>C<sub>02</sub></ms>, 
+
+                                                        susiraṁ vr̥ddhi <ms>K<sub>10</sub></ms> •
+
+                 <LEM>dvija</LEM><DNLEM>द्विज 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>E</ms>; dvijaḥ <ms>K<sub>10</sub></ms></APP>
 
 
 </div>
@@ -500,10 +600,10 @@
 <div class="wrap-content" onclick="hideFunction('app20.12cd')" id="app20.12cd">
 
         <APP>12c <LEM>suṣiratvaṁ</LEM><DNLEM>सुषिरत्वं 
-  </DNLEM> <i>em.</i>; suśiratvaṁ <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms></APP>
+  </DNLEM> <i>em.</i>; suśiratvaṁ <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms></APP>
 
         <APP>12d <LEM>°lakṣaṇam</LEM><DNLEM>°लक्षणम् 
-  </DNLEM> <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °≀la≀×ṇam <ms>C<sub>94</sub></ms></APP>
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °≀la≀×ṇam <ms>C<sub>94</sub></ms></APP>
 
 
 </div>
@@ -523,10 +623,13 @@
 <div class="wrap-content" onclick="hideFunction('app20.13ab')" id="app20.13ab">
 
         <APP>13a <LEM>grāmā</LEM><DNLEM>ग्रामा 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; grāmāḥ <ms>E</ms></APP>
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; grāmāḥ <ms>E</ms></APP>
 
-        <APP>13b <LEM>°viṁśatiḥ</LEM><DNLEM>°विंशतिः 
-  </DNLEM> <ms>E</ms>; °viṁśati <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms></APP>
+        <APP>13b <LEM>mūrchanā°</LEM><DNLEM>मूर्छना° 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>E</ms>; mūrcchānā° <ms>K<sub>10</sub></ms> •
+
+                 <LEM>°viṁśatiḥ</LEM><DNLEM>°विंशतिः 
+  </DNLEM> <ms>C<sub>02</sub></ms><ms>E</ms>; °viṁśati <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms></APP>
 
 
 </div>
@@ -541,7 +644,7 @@
 <div class="wrap-content" onclick="hideFunction('app20.13cd')" id="app20.13cd">
 
         <APP>13c <LEM>°kona°</LEM><DNLEM>°कोन° 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; °kūna° <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; °kūna° <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms></APP>
 
 
 </div>
@@ -556,7 +659,10 @@
 <div class="wrap-content" onclick="hideFunction('app20.14ab')" id="app20.14ab">
 
         <APP>14b <LEM>°bhedā</LEM><DNLEM>°भेदा 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; °bhedān <ms>E</ms></APP>
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; °bhedān <ms>E</ms> •
+
+                 <LEM>°ttama</LEM><DNLEM>°त्तम 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °ttamaḥ <ms>C<sub>02</sub></ms></APP>
 
 
 </div>
@@ -570,8 +676,13 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.14cd')" id="app20.14cd">
 
-        <APP>14c <LEM>gāndharvasvara°</LEM><DNLEM>गान्धर्वस्वर° 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; gāndharvāsura <ms>C<sub>94</sub></ms></APP>
+        <APP>14c <LEM>gāndharvasvaratattva°</LEM><DNLEM>गान्धर्वस्वरतत्त्व° 
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; gāndharvvāsuratatva° <ms>C<sub>94</sub></ms>,
+
+                                                 gandharvvāsurastatva° <ms>C<sub>02</sub></ms></APP>
+
+        <APP>14cd <LEM>°jñair muninibhiḥ</LEM><DNLEM>°ज्ञैर्मुनिनिभिः 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °jñair munibhi <ms>C<sub>02</sub></ms>, °jñai munibhiḥ <ms>K<sub>10</sub></ms></APP>
 
 
 </div>
@@ -585,8 +696,14 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.15ab')" id="app20.15ab">
 
-        <APP>15b <LEM>svanāni</LEM><DNLEM>स्वनानि 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; stanāni <ms>C<sub>94</sub></ms></APP>
+        <APP>15a <LEM>°tantrīṇāṁ</LEM><DNLEM>°तन्त्रीणां 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °tantīnāṁ <ms>K<sub>10</sub></ms></APP>
+
+        <APP>15b <LEM>dundubhīnāṁ</LEM><DNLEM>दुन्दुभीनां 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>E</ms>; dundubhīnā <ms>K<sub>10</sub></ms> •
+
+                 <LEM>svanāni</LEM><DNLEM>स्वनानि 
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; stanāni <ms>C<sub>94</sub></ms></APP>
 
 
 </div>
@@ -600,8 +717,10 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.15cd')" id="app20.15cd">
 
-        <APP>15cd <LEM>kāṁsyānāṁ śabdāni</LEM><DNLEM>कांस्यानां शब्दानि 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; kāṁsyā≀nāṁ≀ ××ni <ms>C<sub>94</sub></ms></APP>
+        <APP>15cd <LEM>°kāhalakāṁsyānāṁ śabdāni</LEM><DNLEM>°काहलकांस्यानां शब्दानि 
+  </DNLEM> <ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °kāhalakāṁsyā≀nāṁ≀ ××ni <ms>C<sub>94</sub></ms>, 
+
+                                °kāhalakāsyānāṁ śabdāni <ms>C<sub>45</sub></ms>, °kāṁsyānāṁ śabdāni <ms>C<sub>02</sub></ms></APP>
 
 
 </div>
@@ -614,14 +733,14 @@
 
 <div class="wrap-main">
 <TEXT id="20.16ab" class="sktvrs20.16" onclick="showApparatus('app20.16ab')" ondblclick="showNote('note20.16')" >
-<RMTEXT> ākāśadhātuṁ viprendra śr̥ṇu vakṣyāmi te daśa |</RMTEXT>
-<DNTEXT>आकाशधातुं विप्रेन्द्र शृणु वक्ष्यामि ते दश ।   </DNTEXT></TEXT>
+<RMTEXT> ākāśadhātu viprendra śr̥ṇu vakṣyāmi te daśa |</RMTEXT>
+<DNTEXT>आकाशधातु विप्रेन्द्र शृणु वक्ष्यामि ते दश ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.16ab')" id="app20.16ab">
 
-        <APP>16a <LEM>°dhātuṁ</LEM><DNLEM>°धातुं 
-  </DNLEM> <ms>C<sub>94</sub></ms>; °dhātu <ms>K<sub>82</sub></ms><ms>E</ms></APP>
+        <APP>16a <LEM>°dhātu</LEM><DNLEM>°धातु 
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °dhātuṁ <ms>C<sub>94</sub></ms></APP>
 
 
 </div>
@@ -629,17 +748,17 @@
 
 <div class="wrap-main">
 <TEXT id="20.16cd" class="sktvrs20.16" onclick="showApparatus('app20.16cd')" ondblclick="showNote('note20.16')" >
-<RMTEXT> pāyūpasthodaraḥ kaṇṭhaśaṅkhalau mukhanāsikau ||<vsnum>20.16</vsnum>||</RMTEXT>
-<DNTEXT>पायूपस्थोदरः कण्ठशङ्खलौ मुखनासिकौ ॥२०:१६   </DNTEXT></TEXT>
+<RMTEXT> pāyūpasthodara kaṇṭha śaṅkhalau mukha nāsikau ||<vsnum>20.16</vsnum>||</RMTEXT>
+<DNTEXT>पायूपस्थोदर कण्ठ शङ्खलौ मुख नासिकौ ॥२०:१६   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.16cd')" id="app20.16cd">
 
-        <APP>16c <LEM>°daraḥ</LEM><DNLEM>°दरः 
-  </DNLEM> <ms>E</ms>; °dara° <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms></APP>
+        <APP>16c <LEM>°dara</LEM><DNLEM>°दर 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; °daraḥ <ms>E</ms></APP>
 
         <APP>16d <LEM>śaṅkhalau</LEM><DNLEM>शङ्खलौ 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; śrotau ca <ms>E</ms></APP>
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; śrotau ca <ms>E</ms></APP>
 
 
 </div>
@@ -654,7 +773,10 @@
 <div class="wrap-content" onclick="hideFunction('app20.17ab')" id="app20.17ab">
 
         <APP>17a <LEM>hr̥diṁ</LEM><DNLEM>हृदिं 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; hr̥diś <ms>E</ms></APP>
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; hr̥diś <ms>E</ms> •
+
+                 <LEM>daśamaṁ</LEM><DNLEM>दशमं 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; daśama <ms>C<sub>02</sub></ms></APP>
 
 
 </div>
@@ -668,8 +790,11 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.17cd')" id="app20.17cd">
 
-        <APP>17c <LEM>anyat</LEM><DNLEM>अन्यत् 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; anyaṁ <ms>K<sub>82</sub></ms></APP>
+        <APP>17c <LEM>anyat pra°</LEM><DNLEM>अन्यत्प्र° 
+  </DNLEM> <ms><b>C</b></ms><ms>E</ms>; anyaṁ pra° <ms>K<sub>82</sub></ms>, anya pra° <ms>K<sub>10</sub></ms></APP>
+
+        <APP>17d <LEM>dvijottama</LEM><DNLEM>द्विजोत्तम 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>E</ms>; jijottama <ms>K<sub>10</sub></ms></APP>
 
 
 </div>
@@ -682,6 +807,9 @@
 
 
 <div class="wrap-content" onclick="hideFunction('app20.18ab')" id="app20.18ab">
+
+        <APP>18b <LEM>°bhūtaḥ</LEM><DNLEM>°भूतः 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °bhūta <ms>C<sub>45</sub></ms></APP>
 
 
 </div>
@@ -696,9 +824,13 @@
 <div class="wrap-content" onclick="hideFunction('app20.18cd')" id="app20.18cd">
 
         <APP>18c <LEM>ākāśasya</LEM><DNLEM>आकाशस्य 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; ākāśa× <ms>C<sub>94</sub></ms></APP>
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; ākāśa× <ms>C<sub>94</sub></ms></APP>
 
-        <PARAL>18cd <SKT> ≈ MBh 12.247.7ab </SKT> </PARAL>
+        <APP>18d <LEM>vyāpitvaṁ</LEM><DNLEM>व्यापित्वं 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; vyāpitvāṁ <ms>C<sub>45</sub></ms></APP>
+
+------------------
+        <PARAL>18cd <SKT> ≈ MBh 12.247.7ab: </SKT>ākāśasya guṇaḥ śabdo vyāpitvaṁ chidratāpi ca</PARAL>
 
 
 </div>
@@ -724,6 +856,16 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.19cd')" id="app20.19cd">
 
+        <APP>19c <LEM>apratīghātitā</LEM><DNLEM>अप्रतीघातिता 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; apratīghātatā <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms></APP>
+
+------------------
+        <PARAL>19 <SKT> ≈ MBh 12.247.7cd–8ab: </SKT>
+
+                         anāśrayam anālambam avyaktam avikāritā||
+
+                         apratīghātatā caiva bhūtatvaṁ vikr̥tāni ca|</PARAL>
+
 
 </div>
 </div>
@@ -735,11 +877,14 @@
 
 <div class="wrap-main">
 <TEXT id="20.20ab" class="sktvrs20.20" onclick="showApparatus('app20.20ab')" ondblclick="showNote('note20.20')" >
-<RMTEXT> ākāśadhāto[r?] viprendra tato vāyusamudbhavaḥ |</RMTEXT>
-<DNTEXT>आकाशधातो[र?] ्विप्रेन्द्र ततो वायुसमुद्भवः ।   </DNTEXT></TEXT>
+<RMTEXT> ākāśadhātor viprendra tato vāyusamudbhavaḥ |</RMTEXT>
+<DNTEXT>आकाशधातोर्विप्रेन्द्र ततो वायुसमुद्भवः ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.20ab')" id="app20.20ab">
+
+        <APP>20a <LEM>°dhātor vi°</LEM><DNLEM>°धातोर्वि° 
+  </DNLEM> <ms>C<sub>45</sub></ms>; °dhāto vi° <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms></APP>
 
 
 </div>
@@ -753,20 +898,31 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.20cd')" id="app20.20cd">
 
+        <APP>20c <LEM>śabda°</LEM><DNLEM>शब्द° 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>E</ms>; śabdaḥ <ms>K<sub>10</sub></ms> •
+
+                 <LEM>°pūrva°</LEM><DNLEM>°पूर्व° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °pūrvaṁ <ms>C<sub>45</sub></ms></APP>
+
 
 </div>
 </div>
 
 <div class="wrap-main">
 <TEXT id="20.21ab" class="sktvrs20.21" onclick="showApparatus('app20.21ab')" ondblclick="showNote('note20.21')" >
-<RMTEXT> śabdapūrvaṁ mayākhyātaṁ śr̥ṇu sparśa dvijottama |</RMTEXT>
-<DNTEXT>शब्दपूर्वं मयाख्यातं शृणु स्पर्श द्विजोत्तम ।   </DNTEXT></TEXT>
+<RMTEXT> śabda pūrvaṁ mayākhyātaṁ śr̥ṇu sparśaṁ dvijottama |</RMTEXT>
+<DNTEXT>शब्द पूर्वं मयाख्यातं शृणु स्पर्शं द्विजोत्तम ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.21ab')" id="app20.21ab">
 
-        <APP>21b <LEM>dvijottama</LEM><DNLEM>द्विजोत्तम 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; ×jottama <ms>C<sub>94</sub></ms></APP>
+        <APP>21a <LEM>pūrvaṁ</LEM><DNLEM>पूर्वं 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; pūrva <ms>C<sub>02</sub></ms></APP>
+
+        <APP>21b <LEM>sparśaṁ dvijottama</LEM><DNLEM>स्पर्शं द्विजोत्तम 
+  </DNLEM> <ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms>; sparśa×jottama <ms>C<sub>94</sub></ms>, sparśaṁ dvijottamaḥ <ms>C<sub>45</sub></ms>,
+
+                                                        sparśa dvijottama <ms>K<sub>10</sub></ms><ms>E</ms></APP>
 
 
 </div>
@@ -774,15 +930,19 @@
 
 <div class="wrap-main">
 <TEXT id="20.21cd" class="sktvrs20.21" onclick="showApparatus('app20.21cd')" ondblclick="showNote('note20.21')" >
-<RMTEXT> kaṭhinaś cikkaṇaḥ ślakṣo mr̥dusnigdhakharadravāḥ ||<vsnum>20.21</vsnum>||</RMTEXT>
-<DNTEXT>कठिनश्चिक्कणः श्लक्षो मृदुस्निग्धखरद्रवाः ॥२०:२१   </DNTEXT></TEXT>
+<RMTEXT> kaṭhinaś cikkaṇaḥ ślakṣṇo mr̥dusnigdhakharadravāḥ ||<vsnum>20.21</vsnum>||</RMTEXT>
+<DNTEXT>कठिनश्चिक्कणः श्लक्ष्णो मृदुस्निग्धखरद्रवाः ॥२०:२१   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.21cd')" id="app20.21cd">
 
         <APP>21c <LEM>cikkaṇaḥ</LEM><DNLEM>चिक्कणः 
-  </DNLEM> <i>corr.</i>; cikkanaḥ <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; cikkaraḥ <ms>E</ms></APP>
+  </DNLEM> <i>corr.</i>; cikkanaḥ <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>, cikkalaḥ <ms>C<sub>02</sub></ms>, cikkaraḥ <ms>E</ms></APP>
 
+        <APP>21d <LEM>°snigdha°</LEM><DNLEM>°स्निग्ध° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °śnidha° <ms>C<sub>45</sub></ms></APP>
+
+------------------
         <PARAL>21cd <SKT> ≈ MBh 12.177.34ab: </SKT> kaṭhinaś cikkaṇaḥ ślakṣṇaḥ picchalo mr̥dudāruṇaḥ</PARAL>
 
 
@@ -797,14 +957,13 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.22ab')" id="app20.22ab">
 
-        <APP>22a <LEM>paruṣa°</LEM><DNLEM>परुष° 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; <i>omitted in</i> <ms>K<sub>82</sub></ms><corr>ac</corr>, paruṣā° <ms>K<sub>82</sub></ms><corr>pc</corr> •
+        <APP><LEM>paruṣas tīkṣṇaḥ</LEM><DNLEM>परुषस्तीक्ष्णः 
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>K<sub>10</sub></ms>; paruṣas trīkṣṇaś <ms>C<sub>94</sub></ms>, 
 
-                 <LEM>tīkṣṇaḥ</LEM><DNLEM>तीक्ष्णः 
-  </DNLEM> <ms>K<sub>82</sub></ms>; trīkṣṇaś <ms>C<sub>94</sub></ms>; tīkṣṇa <ms>E</ms></APP>
+                                tīkṣṇaḥ <ms>K<sub>82</sub></ms><corr>ac</corr>, paruṣā tīkṣṇaḥ <ms>K<sub>82</sub></ms><corr>pc</corr>, paruṣas tīkṣṇa <ms>C<sub>02</sub></ms><ms>E</ms></APP>
 
         <APP>22b <LEM>dvayam</LEM><DNLEM>द्वयम् 
-  </DNLEM> <ms>K<sub>82</sub></ms>; dvaya <ms>C<sub>94</sub></ms><ms>E</ms></APP>
+  </DNLEM> <ms>K<sub>82</sub></ms>; dvaya <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>, dvayaḥ <ms>C<sub>45</sub></ms></APP>
 
 
 </div>
@@ -818,6 +977,17 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.22cd')" id="app20.22cd">
 
+        <APP>22c <LEM>°dvaya°</LEM><DNLEM>°द्वय° 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °dvayo <ms>K<sub>10</sub></ms></APP>
+
+        <APP>22d <LEM>°gr̥hyate</LEM><DNLEM>°गृह्यते 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °gr̥hate <ms>C<sub>45</sub></ms></APP>
+
+------------------
+        <PARAL>22c <SKT> Folio 309v in <ms>C<sub>02</sub></ms> ends with </SKT> iṣṭāniṣṭadvaya <SKT> and the next folio is missing.
+
+                  <ms>C<sub>02</sub></ms> resumes on folio 311r with 20.51c </SKT>(mānsañ ca medañ ca)</PARAL>
+
 
 </div>
 </div>
@@ -829,11 +999,14 @@
 
 <div class="wrap-main">
 <TEXT id="20.23ab" class="sktvrs20.23" onclick="showApparatus('app20.23ab')" ondblclick="showNote('note20.23')" >
-<RMTEXT> prāṇopānaḥ samānaś ca udāno vyāna eva ca |</RMTEXT>
-<DNTEXT>प्राणोपानः समानश्च उदानो व्यान एव च ।   </DNTEXT></TEXT>
+<RMTEXT> prāṇo 'pānaḥ samānaś ca udāno vyāna eva ca |</RMTEXT>
+<DNTEXT>प्राणो ऽपानः समानश्च उदानो व्यान एव च ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.23ab')" id="app20.23ab">
+
+        <APP>23a <LEM>'pānaḥ</LEM><DNLEM>ऽपानः 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; pāna° <ms>C<sub>45</sub></ms><ms>K<sub>10</sub></ms></APP>
 
 
 </div>
@@ -848,12 +1021,15 @@
 <div class="wrap-content" onclick="hideFunction('app20.23cd')" id="app20.23cd">
 
         <APP>23c <LEM>nāga°</LEM><DNLEM>नाग° 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; nāma° <ms>C<sub>94</sub></ms> •
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; nāma° <ms>C<sub>94</sub></ms> •
 
                  <LEM>kr̥karo</LEM><DNLEM>कृकरो 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; kr̥kalo <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; kr̥kalo <ms>E</ms></APP>
 
-        <PARAL>23 <SKT> The next XX verses are parallel to a passage in the Br̥hatkālottara (NGMPP Reel No. B 29/59 Manuscript No. pra - 89): </SKT>
+------------------
+        <PARAL>23 <SKT> The next XX verses are parallel to a
+
+                         passage in the Br̥hatkālottara (NGMPP Reel No. B 29/59 Manuscript No. pra - 89): </SKT>
 
         prāṇopānaḥ samānaś ca udāno vyāna eva ca||
 
@@ -883,9 +1059,11 @@
 
         vyāno vināmayatyaṁgaṁ vyāno vyādhiprakopakaḥ|
 
-        prītecināsī kathito vāddhikyāt vyāna ucyate||;
+        prītecināsī kathito vāddhikyāt vyāna ucyate||
 
-        <SKT> cf. also Sārdhatriśatikālottara, Agnipurāṇa and Dīpikā by Aghoraśivācārya on the Mr̥gendra </SKT> </PARAL>
+        <SKT>...
+
+         cf. also Sārdhatriśatikālottara, Agnipurāṇa and Dīpikā by Aghoraśivācārya on the Mr̥gendra </SKT> </PARAL>
 
 
 </div>
@@ -893,16 +1071,14 @@
 
 <div class="wrap-main">
 <TEXT id="20.24ab" class="sktvrs20.24" onclick="showApparatus('app20.24ab')" ondblclick="showNote('note20.24')" >
-<RMTEXT> daśavāyupradhānaite kīrtitā dvijasattama |</RMTEXT>
-<DNTEXT>दशवायुप्रधानैते कीर्तिता द्विजसत्तम ।   </DNTEXT></TEXT>
+<RMTEXT> daśa vāyupradhānaite kīrtitā dvijasattama |</RMTEXT>
+<DNTEXT>दश वायुप्रधानैते कीर्तिता द्विजसत्तम ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.24ab')" id="app20.24ab">
 
         <APP>24b <LEM>kīrtitā</LEM><DNLEM>कीर्तिता 
-  </DNLEM> <ms>K<sub>82</sub></ms>;
-
-                         ≀kīrtti≀tā <ms>C<sub>94</sub></ms>, kīrtitāḥ <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; ≀kīrtti≀tā <ms>C<sub>94</sub></ms>, kīrtitāḥ <ms>E</ms></APP>
 
 
 </div>
@@ -916,8 +1092,8 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.24cd')" id="app20.24cd">
 
-        <APP>24c <LEM>ghoṣo</LEM><DNLEM>घोषो 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; yoṣo <ms>K<sub>82</sub></ms></APP>
+        <APP>24c <LEM>bhaved ghoṣo</LEM><DNLEM>भवेद्घोषो 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; bhaved yoṣo <ms>K<sub>82</sub></ms></APP>
 
 
 </div>
@@ -932,7 +1108,13 @@
 <div class="wrap-content" onclick="hideFunction('app20.25ab')" id="app20.25ab">
 
         <APP>25a <LEM>kr̥karaḥ</LEM><DNLEM>कृकरः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; kr̥kara <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; kr̥kara <ms>E</ms> •
+
+                 <LEM>°kr̥n nityaṁ</LEM><DNLEM>°कृन्नित्यं 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; kr̥n nitya <ms>C<sub>45</sub></ms></APP>
+
+        <APP>25b <LEM>kūrmonmīlitalocanaḥ</LEM><DNLEM>कूर्मोन्मीलितलोचनः 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; karmolmīnalocanaḥ <ms>C<sub>45</sub></ms>, kūrmonmīnalocanaḥ <ms>K<sub>10</sub></ms></APP>
 
 
 </div>
@@ -946,23 +1128,29 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.25cd')" id="app20.25cd">
 
+        <APP>25c <LEM>puṣyaṁ</LEM><DNLEM>पुष्यं 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; punsāṁ <ms>K<sub>10</sub></ms></APP>
+
+        <APP>25d <LEM>dvija</LEM><DNLEM>द्विज 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; dvijaḥ <ms>K<sub>10</sub></ms></APP>
+
 
 </div>
 </div>
 
 <div class="wrap-main">
 <TEXT id="20.26ab" class="sktvrs20.26" onclick="showApparatus('app20.26ab')" ondblclick="showNote('note20.26')" >
-<RMTEXT> prāṇaḥ svasati bhūtānāṁ niśvasanti ca nityaśaḥ |</RMTEXT>
-<DNTEXT>प्राणः स्वसति भूतानां निश्वसन्ति च नित्यशः ।   </DNTEXT></TEXT>
+<RMTEXT> prāṇaḥ śvasati bhūtānāṁ niśvasanti ca nityaśaḥ |</RMTEXT>
+<DNTEXT>प्राणः श्वसति भूतानां निश्वसन्ति च नित्यशः ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.26ab')" id="app20.26ab">
 
         <APP>26a <LEM>prāṇaḥ</LEM><DNLEM>प्राणः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; prāṇāḥ <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; prāṇāḥ <ms>E</ms></APP>
 
         <APP>26b <LEM>nityaśaḥ</LEM><DNLEM>नित्यशः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; nitya yaḥ <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; nitya yaḥ <ms>E</ms></APP>
 
 
 </div>
@@ -977,7 +1165,7 @@
 <div class="wrap-content" onclick="hideFunction('app20.26cd')" id="app20.26cd">
 
         <APP>26c <LEM>prayāṇaṁ</LEM><DNLEM>प्रयाणं 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; prayāṇā <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; prayāṇā <ms>E</ms></APP>
 
 
 </div>
@@ -985,17 +1173,19 @@
 
 <div class="wrap-main">
 <TEXT id="20.27ab" class="sktvrs20.27" onclick="showApparatus('app20.27ab')" ondblclick="showNote('note20.27')" >
-<RMTEXT> apanayaty apānas tu āhāraṁ manujāmadhaḥ |</RMTEXT>
+<RMTEXT> apanayaty apānas tu āhāraṁ manujām adhaḥ |</RMTEXT>
 <DNTEXT>अपनयत्यपानस्तु आहारं मनुजामधः ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.27ab')" id="app20.27ab">
 
         <APP>27a <LEM>apanaya°</LEM><DNLEM>अपनय° 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; a≀pa≀ × ya° <ms>C<sub>94</sub></ms></APP>
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; a≀pa≀ × ya° <ms>C<sub>94</sub></ms></APP>
 
-        <APP>27b <LEM>°madhaḥ</LEM><DNLEM>°मधः 
-  </DNLEM> <ms>C<sub>94</sub></ms>; °dhamaḥ <ms>K<sub>82</sub></ms>, °pavaḥ <ms>E</ms></APP>
+        <APP>27b <LEM>āhāraṁ manujām adhaḥ</LEM><DNLEM>आहारं मनुजामधः 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms>; āhāraṁ manujādhamaḥ <ms>K<sub>82</sub></ms>,
+
+                                        āhāra manujādhamaḥ <ms>K<sub>10</sub></ms>, āhāraṁ manujāpavaḥ <ms>E</ms></APP>
 
 
 </div>
@@ -1009,23 +1199,26 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.27cd')" id="app20.27cd">
 
+        <APP>27d <LEM>°pānas tena</LEM><DNLEM>°पानस्तेन 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °vānas tena <ms>C<sub>45</sub></ms></APP>
+
 
 </div>
 </div>
 
 <div class="wrap-main">
 <TEXT id="20.28ab" class="sktvrs20.28" onclick="showApparatus('app20.28ab')" ondblclick="showNote('note20.28')" >
-<RMTEXT> pītaṁ bhakṣitam āghrātaṁ raktapittakaphānilam |</RMTEXT>
-<DNTEXT>पीतं भक्षितमाघ्रातं रक्तपित्तकफानिलम् ।   </DNTEXT></TEXT>
+<RMTEXT> pītabhakṣitam āghrātaṁ raktapittakaphānilam |</RMTEXT>
+<DNTEXT>पीतभक्षितमाघ्रातं रक्तपित्तकफानिलम् ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.28ab')" id="app20.28ab">
 
-        <APP>28a <LEM>pītaṁ</LEM><DNLEM>पीतं 
-  </DNLEM> <i>corr.</i>; pīta° <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms> •
+        <APP>28a <LEM>°ghrātaṁ</LEM><DNLEM>°घ्रातं 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °ghrāti <ms>K<sub>82</sub></ms></APP>
 
-                 <LEM>°ghrātaṁ</LEM><DNLEM>°घ्रातं 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; °ghrāti <ms>K<sub>82</sub></ms></APP>
+        <APP>28b <LEM>raktapitta°</LEM><DNLEM>रक्तपित्त° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; raktaḥ pittaḥ <ms>K<sub>10</sub></ms></APP>
 
 
 </div>
@@ -1051,8 +1244,14 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.29ab')" id="app20.29ab">
 
+        <APP>29 <LEM>(spandayaty adharaṁ<SKT>...</SKT> mārutaḥ)</LEM><DNLEM>(स्पन्दयत्यधरंł...</SKT> मारुतः) 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; <i>omitted in</i> <ms>K<sub>10</sub></ms></APP>
+
         <APP>29a <LEM>°dharaṁ</LEM><DNLEM>°धरं 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; °dhara° <ms>E</ms> (<i>unmetrical</i>)</APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; <i>omitted in</i> <ms>K<sub>10</sub></ms>, °dhara° <ms>E</ms> (<i>unmetrical</i>)</APP>
+
+        <APP>29b <LEM>°gātrapra°</LEM><DNLEM>°गात्रप्र° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °gātram pra° <ms>C<sub>45</sub></ms>, <i>omitted in</i> <ms>K<sub>10</sub></ms></APP>
 
 
 </div>
@@ -1067,10 +1266,10 @@
 <div class="wrap-content" onclick="hideFunction('app20.29cd')" id="app20.29cd">
 
         <APP>29c <LEM>marmāṇi</LEM><DNLEM>मर्माणि 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; karmāṇi <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; <i>omitted in</i> <ms>K<sub>10</sub></ms>, karmāṇi <ms>E</ms></APP>
 
         <APP>29d <LEM>udāno nāma</LEM><DNLEM>उदानो नाम 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; ≀u≀×××× <ms>C<sub>94</sub></ms></APP>
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; ≀u≀×××× <ms>C<sub>94</sub></ms>, <i>omitted in</i> <ms>K<sub>10</sub></ms></APP>
 
 
 </div>
@@ -1084,6 +1283,12 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.30ab')" id="app20.30ab">
 
+        <APP>30a <LEM>vyāno vi°</LEM><DNLEM>व्यानो वि° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; vyāno pi <ms>K<sub>10</sub></ms></APP>
+
+        <APP>30b <LEM>°kopanaḥ</LEM><DNLEM>°कोपनः 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °kopamaḥ <ms>K<sub>10</sub></ms></APP>
+
 
 </div>
 </div>
@@ -1096,8 +1301,8 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.30cd')" id="app20.30cd">
 
-        <APP>30c <LEM>prīti°</LEM><DNLEM>प्रीति° 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; prītir <ms>E</ms></APP>
+        <APP>30c <LEM>prītivi°</LEM><DNLEM>प्रीतिवि° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; prītir vi° <ms>K<sub>10</sub></ms><ms>E</ms></APP>
 
 
 </div>
@@ -1112,7 +1317,7 @@
 <div class="wrap-content" onclick="hideFunction('app20.31ab')" id="app20.31ab">
 
         <APP>31b <LEM>me</LEM><DNLEM>मे 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; ye <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; ye <ms>E</ms></APP>
 
 
 </div>
@@ -1120,20 +1325,19 @@
 
 <div class="wrap-main">
 <TEXT id="20.31cd" class="sktvrs20.31" onclick="showApparatus('app20.31cd')" ondblclick="showNote('note20.31')" >
-<RMTEXT> daśavāyuguṇāṁś cānyāṁ chr̥nu kīrtayato mama ||<vsnum>20.31</vsnum>||</RMTEXT>
-<DNTEXT>दशवायुगुणांश्चान्यां छृनु कीर्तयतो मम ॥२०:३१   </DNTEXT></TEXT>
+<RMTEXT> daśavāyuguṇāṁś cānyāṁ chr̥ṇu kīrtayato mama ||<vsnum>20.31</vsnum>||</RMTEXT>
+<DNTEXT>दशवायुगुणांश्चान्यां छृणु कीर्तयतो मम ॥२०:३१   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.31cd')" id="app20.31cd">
 
-        <APP>31c <LEM>°vāyuguṇāṁś</LEM><DNLEM>°वायुगुणांश् 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; °dhātuguṇāś <ms>E</ms> •
+        <APP>31cd <LEM>°vāyuguṇāṁś cānyāṁ śr̥ṇu</LEM><DNLEM>°वायुगुणांश्चान्यां शृणु 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; °vāyuguṇāś cānyaṁ śr̥ṇu <ms>K<sub>10</sub></ms>,
 
-                 <LEM>cānyāṁ</LEM><DNLEM>चान्यां 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; cānyac <ms>E</ms></APP>
+                        °dhātuguṇāś cānyac chr̥ṇu <ms>E</ms></APP>
 
         <APP>31d <LEM>kīrtayato mama</LEM><DNLEM>कीर्तयतो मम 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; kīrtaya me dvija <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; kīrttiyato mama <ms>C<sub>45</sub></ms>, kīrtaya me dvija <ms>E</ms></APP>
 
 
 </div>
@@ -1141,14 +1345,14 @@
 
 <div class="wrap-main">
 <TEXT id="20.32ab" class="sktvrs20.32" onclick="showApparatus('app20.32ab')" ondblclick="showNote('note20.32')" >
-<RMTEXT> vāyor aniyamasparśo vātasthāne svatantratā |</RMTEXT>
-<DNTEXT>वायोरनियमस्पर्शो वातस्थाने स्वतन्त्रता ।   </DNTEXT></TEXT>
+<RMTEXT> vāyor aniyama sparśo vādasthānaṁ svatantratā |</RMTEXT>
+<DNTEXT>वायोरनियम स्पर्शो वादस्थानं स्वतन्त्रता ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.32ab')" id="app20.32ab">
 
-        <APP>32b <LEM>vātasthāne</LEM><DNLEM>वातस्थाने 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; vāta×ne <ms>C<sub>94</sub></ms></APP>
+        <APP>32b <LEM>vādasthānaṁ</LEM><DNLEM>वादस्थानं 
+  </DNLEM> <i>em.</i>; vāta×ne <ms>C<sub>94</sub></ms>, vātasthāne <ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms></APP>
 
 
 </div>
@@ -1156,11 +1360,18 @@
 
 <div class="wrap-main">
 <TEXT id="20.32cd" class="sktvrs20.32" onclick="showApparatus('app20.32cd')" ondblclick="showNote('note20.32')" >
-<RMTEXT> balaṁ śīghraṁ ca mokṣaṁ ca ceṣṭākarmātmanā bhavaḥ ||<vsnum>20.32</vsnum>||</RMTEXT>
-<DNTEXT>बलं शीघ्रं च मोक्षं च चेष्टाकर्मात्मना भवः ॥२०:३२   </DNTEXT></TEXT>
+<RMTEXT> balaṁ śīghraṁ ca mokṣaṁ ca ceṣṭā karmātmanā bhavaḥ ||<vsnum>20.32</vsnum>||</RMTEXT>
+<DNTEXT>बलं शीघ्रं च मोक्षं च चेष्टा कर्मात्मना भवः ॥२०:३२   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.32cd')" id="app20.32cd">
+
+------------------
+        <PARAL>32 <SKT> ≈ MBh 12.247.6: </SKT>
+
+                        vāyor aniyamaḥ sparśo vādasthānaṁ svatantratā|
+
+                        balaṁ śaighryaṁ ca mohaś ca ceṣṭā karmakr̥tā bhavaḥ||</PARAL>
 
 
 </div>
@@ -1173,11 +1384,17 @@
 
 <div class="wrap-main">
 <TEXT id="20.33ab" class="sktvrs20.33" onclick="showApparatus('app20.33ab')" ondblclick="showNote('note20.33')" >
-<RMTEXT> vāyunāpi sr̥jas tejas tadrūpaguṇam ucyate |</RMTEXT>
-<DNTEXT>वायुनापि सृजस्तेजस्तद्रूपगुणमुच्यते ।   </DNTEXT></TEXT>
+<RMTEXT> vāyunāpi sr̥jas tejas tadrūpaṁ guṇam ucyate |</RMTEXT>
+<DNTEXT>वायुनापि सृजस्तेजस्तद्रूपं गुणमुच्यते ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.33ab')" id="app20.33ab">
+
+        <APP>33ab <LEM>sr̥jas tejas ta°</LEM><DNLEM>सृजस्तेजस्त° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; sr̥jatvejatta° <ms>K<sub>10</sub></ms></APP>
+
+        <APP>33b <LEM>°rūpaṁ guṇa°</LEM><DNLEM>°रूपं गुण° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; °rūpaguṇa° <ms>E</ms></APP>
 
 
 </div>
@@ -1185,11 +1402,14 @@
 
 <div class="wrap-main">
 <TEXT id="20.33cd" class="sktvrs20.33" onclick="showApparatus('app20.33cd')" ondblclick="showNote('note20.33')" >
-<RMTEXT> śabdasparśasamajyotis triguṇaṁ samudāhr̥tam ||<vsnum>20.33</vsnum>||</RMTEXT>
-<DNTEXT>शब्दस्पर्शसमज्योतिस्त्रिगुणं समुदाहृतम् ॥२०:३३   </DNTEXT></TEXT>
+<RMTEXT> śabdasparśasama jyotis triguṇaṁ samudāhr̥tam ||<vsnum>20.33</vsnum>||</RMTEXT>
+<DNTEXT>शब्दस्पर्शसम ज्योतिस्त्रिगुणं समुदाहृतम् ॥२०:३३   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.33cd')" id="app20.33cd">
+
+        <APP>33cd <LEM>°jyotis tri°</LEM><DNLEM>°ज्योतिस्त्रि° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; °jyotitri° <ms>C<sub>45</sub></ms></APP>
 
 
 </div>
@@ -1204,13 +1424,13 @@
 <div class="wrap-content" onclick="hideFunction('app20.34ab')" id="app20.34ab">
 
         <APP>34a <LEM>śabdaḥ</LEM><DNLEM>शब्दः 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; śabda° <ms>C<sub>94</sub></ms> •
+  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; śabda° <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>10</sub></ms> •
 
                  <LEM>proktaḥ</LEM><DNLEM>प्रोक्तः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; proktāḥ <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>10</sub></ms>; proktāḥ <ms>C<sub>45</sub></ms><ms>E</ms></APP>
 
         <APP>34b <LEM>rūpaguṇaṁ</LEM><DNLEM>रूपगुणं 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; rūpaṁ guṇaṁ <ms>K<sub>82</sub></ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms>; rūpaṁ guṇaṁ <ms>K<sub>82</sub></ms></APP>
 
 
 </div>
@@ -1225,10 +1445,16 @@
 <div class="wrap-content" onclick="hideFunction('app20.34cd')" id="app20.34cd">
 
         <APP>34c <LEM>hrasvaṁ</LEM><DNLEM>ह्रस्वं 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; hrasva° <ms>E</ms> •
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; hrasva° <ms>C<sub>45</sub></ms><ms>K<sub>10</sub></ms><ms>E</ms> •
 
                  <LEM>dīrgham aṇu</LEM><DNLEM>दीर्घमणु 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; °dīrghalaghu <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; °dīrgham anu <ms>K<sub>10</sub></ms>, °dīrghalaghu <ms>E</ms> •
+
+                 <LEM>sthūlaṁ</LEM><DNLEM>स्थूलं 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; sthūla <ms>K<sub>10</sub></ms></APP>
+
+        <APP>34d <LEM>°maṇḍalam eva</LEM><DNLEM>°मण्डलमेव 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °maṇḍam eva <ms>C<sub>45</sub></ms></APP>
 
 
 </div>
@@ -1243,14 +1469,14 @@
 <div class="wrap-content" onclick="hideFunction('app20.35ab')" id="app20.35ab">
 
         <APP>35a <LEM>caturasraṁ dvirasraṁ</LEM><DNLEM>चतुरस्रं द्विरस्रं 
-  </DNLEM> <ms>K<sub>82</sub></ms>;
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>;
 
                                  caturaśran dvi×śraṁ <ms>C<sub>94</sub></ms>,
 
                                  caturasradvirasraś <ms>E</ms></APP>
 
         <APP>35b <LEM>tryasraṁ</LEM><DNLEM>त्र्यस्रं 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; tisraś <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; tisraś <ms>E</ms></APP>
 
 
 </div>
@@ -1265,10 +1491,13 @@
 <div class="wrap-content" onclick="hideFunction('app20.35cd')" id="app20.35cd">
 
         <APP>35c <LEM>śuklaḥ</LEM><DNLEM>शुक्लः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; śuklaṁ <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; śuklaṁ <ms>E</ms></APP>
 
         <APP>35d <LEM>nīlaḥ</LEM><DNLEM>नीलः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; nīla° <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; nīla° <ms>E</ms></APP>
+
+------------------
+        <PARAL>35cd <SKT> = MBh 12.177.32cd </SKT> </PARAL>
 
 
 </div>
@@ -1285,14 +1514,14 @@
         <APP>36a <LEM>śyāmaḥ piṅgala babhruś ca</LEM><DNLEM>श्यामः पिङ्गल बभ्रुश्च 
   </DNLEM> <ms>E</ms>; 
 
-                        śyāmaḥ piṅgalo babhruś ca <ms>C<sub>94</sub></ms>,
+                        śyāmaḥ piṅgalo babhruś ca <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms>,
 
                        śyāmaś ca piṅgalo babhruś ca <ms>K<sub>82</sub></ms><corr>ac</corr>,
 
                        śyāma piṅgalo bhruś ca <ms>K<sub>82</sub></ms><corr>pc</corr></APP>
 
         <APP>36b <LEM>raṅgāḥ</LEM><DNLEM>रङ्गाः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; raṅgaḥ <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; raṅgaḥ <ms>E</ms></APP>
 
 
 </div>
@@ -1307,7 +1536,7 @@
 <div class="wrap-content" onclick="hideFunction('app20.36cd')" id="app20.36cd">
 
         <APP>36d <LEM>smr̥tāḥ</LEM><DNLEM>स्मृताः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; smr̥taṁ <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; smr̥taṁ <ms>E</ms></APP>
 
 
 </div>
@@ -1322,7 +1551,7 @@
 <div class="wrap-content" onclick="hideFunction('app20.37ab')" id="app20.37ab">
 
         <APP>37a <LEM>tejodhātu daśa</LEM><DNLEM>तेजोधातु दश 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; 
 
                                 tejodhātur daśaṁ <ms>E</ms></APP>
 
@@ -1332,17 +1561,17 @@
 
 <div class="wrap-main">
 <TEXT id="20.37cd" class="sktvrs20.37" onclick="showApparatus('app20.37cd')" ondblclick="showNote('note20.37')" >
-<RMTEXT> kāmas tejokṣaṇaḥ krodho jaṭharāgniś ca pañcamaḥ ||<vsnum>20.37</vsnum>||</RMTEXT>
-<DNTEXT>कामस्तेजोक्षणः क्रोधो जठराग्निश्च पञ्चमः ॥२०:३७   </DNTEXT></TEXT>
+<RMTEXT> kāmas tejo kṣaṇaḥ krodho jaṭharāgniś ca pañcamaḥ ||<vsnum>20.37</vsnum>||</RMTEXT>
+<DNTEXT>कामस्तेजो क्षणः क्रोधो जठराग्निश्च पञ्चमः ॥२०:३७   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.37cd')" id="app20.37cd">
 
-        <APP>37c <LEM>tejokṣaṇaḥ</LEM><DNLEM>तेजोक्षणः 
-  </DNLEM> <ms>C<sub>94</sub></ms>; tejakṣaṇaḥ <ms>K<sub>82</sub></ms>, tejekṣaṇaḥ <ms>E</ms></APP>
+        <APP>37c <LEM>tejo kṣaṇaḥ</LEM><DNLEM>तेजो क्षणः 
+  </DNLEM> <ms>C<sub>94</sub></ms>; tejaḥ kṣaṇaḥ <ms>C<sub>45</sub></ms>, teja kṣaṇaḥ <ms>K<sub>82</sub></ms>, tejekṣaṇaḥ <ms>E</ms></APP>
 
-        <APP>37d <LEM>jaṭharāgniś</LEM><DNLEM>जठराग्निश् 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; jaṭha×gniś <ms>C<sub>94</sub></ms></APP>
+        <APP>37d <LEM>jaṭharāgniś ca</LEM><DNLEM>जठराग्निश्च 
+  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; jaṭha×gniś ca <ms>C<sub>94</sub></ms></APP>
 
 
 </div>
@@ -1356,8 +1585,8 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.38ab')" id="app20.38ab">
 
-        <APP>38b <LEM>viśvāgnir</LEM><DNLEM>विश्वाग्निर् 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; viśvāgni <ms>K<sub>82</sub></ms></APP>
+        <APP>38b <LEM>viśvāgnir da°</LEM><DNLEM>विश्वाग्निर्द° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>E</ms>; viśvāgni da° <ms>K<sub>82</sub></ms></APP>
 
 
 </div>
@@ -1371,8 +1600,8 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.38cd')" id="app20.38cd">
 
-        <APP>38c <LEM>daśa tejoguṇāṁś</LEM><DNLEM>दश तेजोगुणांश् 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; daṁśatejoguṇāś <ms>E</ms></APP>
+        <APP>38c <LEM>daśa tejoguṇāṁś cā°</LEM><DNLEM>दश तेजोगुणांश्चा° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; daśa tejoguṇāś cā° <ms>C<sub>45</sub></ms>, daṁśatejoguṇāś cā° <ms>E</ms></APP>
 
 
 </div>
@@ -1380,18 +1609,16 @@
 
 <div class="wrap-main">
 <TEXT id="20.39ab" class="sktvrs20.39" onclick="showApparatus('app20.39ab')" ondblclick="showNote('note20.39')" >
-<RMTEXT> agner durdharṣavāpnoti tāpapākaprakāśanaḥ |</RMTEXT>
-<DNTEXT>अग्नेर्दुर्धर्षवाप्नोति तापपाकप्रकाशनः ।   </DNTEXT></TEXT>
+<RMTEXT> agner durdharṣatāpnoti tāpapākaprakāśanaḥ |</RMTEXT>
+<DNTEXT>अग्नेर्दुर्धर्षताप्नोति तापपाकप्रकाशनः ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.39ab')" id="app20.39ab">
 
-        <APP>39a <LEM>agner durdharṣavāpnoti</LEM><DNLEM>अग्नेर्दुर्धर्षवाप्नोति 
-  </DNLEM> <ms>E</ms>; 
+        <APP>39a <LEM>agner durdharṣatāpnoti</LEM><DNLEM>अग्नेर्दुर्धर्षताप्नोति 
+  </DNLEM> <i>conj.</i>; agner durddhaṣatāpnoti <ms>C<sub>94</sub></ms>,
 
-                                agner durddhaṣatāpnoti <ms>C<sub>94</sub></ms>,
-
-                                agne durddhaṣatāpnoti <ms>K<sub>82</sub></ms></APP>
+                                agne durddhaṣatāpnoti <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>, agner durdharṣavāpnoti <ms>E</ms></APP>
 
 
 </div>
@@ -1399,38 +1626,52 @@
 
 <div class="wrap-main">
 <TEXT id="20.39cd" class="sktvrs20.39" onclick="showApparatus('app20.39cd')" ondblclick="showNote('note20.39')" >
-<RMTEXT> śaucaṁ rāgo laghus taikṣṇaṁ daśamaś cordhabhāṣitam ||<vsnum>20.39</vsnum>||</RMTEXT>
-<DNTEXT>शौचं रागो लघुस्तैक्ष्णं दशमश्चोर्धभाषितम् ॥२०:३९   </DNTEXT></TEXT>
+<RMTEXT> śaucaṁ rāgo laghus taikṣṇyaṁ daśamaṁ cordhvabhāgitā ||<vsnum>20.39</vsnum>||</RMTEXT>
+<DNTEXT>शौचं रागो लघुस्तैक्ष्ण्यं दशमं चोर्ध्वभागिता ॥२०:३९   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.39cd')" id="app20.39cd">
 
         <APP>39c <LEM>rāgo</LEM><DNLEM>रागो 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; gaṅgā <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; gaṅgā <ms>E</ms> •
 
-        <APP>39d <LEM>daśamaṁ cordhabhāṣitam</LEM><DNLEM>दशमं चोर्धभाषितम् 
-  </DNLEM> <ms>K<sub>82</sub></ms>; 
+                 <LEM>laghus taikṣṇyaṁ</LEM><DNLEM>लघुस्तैक्ष्ण्यं 
+  </DNLEM> <i>corr.</i>; laghus taikṣṇaṁ <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>, laghus tīkṣṇaṁ <ms>C<sub>45</sub></ms></APP>
 
-                 <LEM>daśapañcorddhabhāṣitam</LEM><DNLEM>दशपञ्चोर्द्धभाषितम् 
-  </DNLEM> <ms>C<sub>94</sub></ms>;
+        <APP>39d <LEM>daśamaṁ cordhvabhāgitā</LEM><DNLEM>दशमं चोर्ध्वभागिता 
+  </DNLEM> <i>em.</i>; daśapañcorddhabhāṣitam <ms>C<sub>94</sub></ms>, daśamaṁ cordhabhāṣitam <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>, 
 
-                                daśamaś cordhabhāṣitam <ms>E</ms></APP>
+                                                                daśamaś cordhabhāṣitam <ms>E</ms></APP>
 
+------------------
         <PARAL>39cd <SKT> ≈ MBh 12.247.5cd: </SKT> 
 
-                śaucaṁ rāgo laghus taikṣṇyaṁ daśamaṁ cordhvabhāgitā</PARAL>
+                agner durdharṣatā tejas tāpaḥ pākaḥ prakāśanam|
+
+                śaucaṁ rāgo laghus taikṣṇyaṁ daśamaṁ cordhvabhāgitā||</PARAL>
 
 
 </div>
 </div>
+<subchapter>
+<RMTEXT> āpo rasaś ca (15-14) 
+</RMTEXT>
+<DNTEXT> आपो रसश्च (१५-१४) 
+  </DNTEXT></subchapter>
 
 <div class="wrap-main">
 <TEXT id="20.40ab" class="sktvrs20.40" onclick="showApparatus('app20.40ab')" ondblclick="showNote('note20.40')" >
-<RMTEXT> jyotiḥ so 'pi sr̥jaś cāpi saraso guṇasaṁyutaḥ |</RMTEXT>
-<DNTEXT>ज्योतिः सो ऽपि सृजश्चापि सरसो गुणसंयुतः ।   </DNTEXT></TEXT>
+<RMTEXT> jyotiso 'pi sr̥jaś cāpaḥ saraso guṇasaṁyutaḥ |</RMTEXT>
+<DNTEXT>ज्योतिसो ऽपि सृजश्चापः सरसो गुणसंयुतः ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.40ab')" id="app20.40ab">
+
+        <APP>40a <LEM>jyotiso</LEM><DNLEM>ज्योतिसो 
+  </DNLEM> <ms>C<sub>45</sub></ms>; jyotiḥ so <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms> •
+
+                 <LEM>sr̥jaś cāpaḥ</LEM><DNLEM>सृजश्चापः 
+  </DNLEM> <ms>C<sub>45</sub></ms>; sr̥jaś cāpi <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms></APP>
 
 
 </div>
@@ -1444,7 +1685,8 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.40cd')" id="app20.40cd">
 
-        <APP>40d <i>omitted in</i> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms></APP>
+        <APP>40d <LEM>vijñeyā ca manīṣibhiḥ</LEM><DNLEM>विज्ञेया च मनीषिभिः 
+  </DNLEM> <ms>E</ms>; <i>omitted in</i> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms></APP>
 
 
 </div>
@@ -1459,8 +1701,9 @@
 <div class="wrap-content" onclick="hideFunction('app20.41ab')" id="app20.41ab">
 
         <APP>41a <LEM>rūpaṁ</LEM><DNLEM>रूपं 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; rūpaś <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; rūpaś <ms>E</ms></APP>
 
+------------------
         <PARAL>41ab ≈ <SKT> MBh 12.299.11ab: </SKT> 
 
                 śabdaḥ sparśaś ca rūpaṁ ca raso gandhaś ca pañcamaḥ</PARAL>
@@ -1478,16 +1721,11 @@
 <div class="wrap-content" onclick="hideFunction('app20.41cd')" id="app20.41cd">
 
         <APP>41c <LEM>pūrvokta</LEM><DNLEM>पूर्वोक्त 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; pūrvoktaṁ <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; pūrvoktaṁ <ms>E</ms></APP>
 
 
 </div>
 </div>
-<subchapter>
-<RMTEXT> āpo rasaś ca (15-14) 
-</RMTEXT>
-<DNTEXT> आपो रसश्च (१५-१४) 
-  </DNTEXT></subchapter>
 
 <div class="wrap-main">
 <TEXT id="20.42ab" class="sktvrs20.42" onclick="showApparatus('app20.42ab')" ondblclick="showNote('note20.42')" >
@@ -1497,8 +1735,8 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.42ab')" id="app20.42ab">
 
-        <APP>42a <LEM>lavaṇāmlas</LEM><DNLEM>लवणाम्लस् 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; lavaṇāntas <ms>E</ms></APP>
+        <APP>42a <LEM>lavaṇāmlas ta°</LEM><DNLEM>लवणाम्लस्त° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; lavaṇāntas ta° <ms>E</ms></APP>
 
 
 </div>
@@ -1512,8 +1750,8 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.42cd')" id="app20.42cd">
 
-        <APP>42c <LEM>rasān</LEM><DNLEM>रसान् 
-  </DNLEM> <i>corr.</i>; rasāṁ <ms>C<sub>94</sub></ms>, rasā <ms>K<sub>82</sub></ms><ms>E</ms></APP>
+        <APP>42c <LEM>rasān ṣaḍ vai</LEM><DNLEM>रसान्षड्वै 
+  </DNLEM> <i>corr.</i>; rasāṁ ṣaḍ vai <ms>C<sub>94</sub></ms>, rasā ṣaḍ vai <ms>K<sub>82</sub></ms><ms>C<sub>45</sub></ms><ms>E</ms></APP>
 
 
 </div>
@@ -1521,17 +1759,17 @@
 
 <div class="wrap-main">
 <TEXT id="20.43ab" class="sktvrs20.43" onclick="showApparatus('app20.43ab')" ondblclick="showNote('note20.43')" >
-<RMTEXT> ṣaḍrasāḥ ṣaḍvibhedena ṣaḍtriṁśaguṇa ucyate |</RMTEXT>
-<DNTEXT>षड्रसाः षड्विभेदेन षड्त्रिंशगुण उच्यते ।   </DNTEXT></TEXT>
+<RMTEXT> ṣaḍrasāḥ ṣaḍvibhedena ṣaṭtriṁśaguṇa ucyate |</RMTEXT>
+<DNTEXT>षड्रसाः षड्विभेदेन षट्त्रिंशगुण उच्यते ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.43ab')" id="app20.43ab">
 
         <APP>43a <LEM>°rasāḥ</LEM><DNLEM>°रसाः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; °rasā <ms>E</ms> •
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; °rasā <ms>E</ms> •
 
-                 <LEM>ṣaḍvi°</LEM><DNLEM>षड्वि° 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; ṣaḍbhir <ms>K<sub>82</sub></ms></APP>
+                 <LEM>ṣaḍvibhedena</LEM><DNLEM>षड्विभेदेन 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>E</ms>; ṣaḍbhir bhedena <ms>K<sub>82</sub></ms></APP>
 
 
 </div>
@@ -1539,17 +1777,20 @@
 
 <div class="wrap-main">
 <TEXT id="20.43cd" class="sktvrs20.43" onclick="showApparatus('app20.43cd')" ondblclick="showNote('note20.43')" >
-<RMTEXT> āpadhātudaśa tv anyān śr̥ṇu kīrtayato mama ||<vsnum>20.43</vsnum>||</RMTEXT>
-<DNTEXT>आपधातुदश त्वन्यान्शृणु कीर्तयतो मम ॥२०:४३   </DNTEXT></TEXT>
+<RMTEXT> āpadhātu daśa tv anyān śr̥ṇu kīrtayato mama ||<vsnum>20.43</vsnum>||</RMTEXT>
+<DNTEXT>आपधातु दश त्वन्यान्शृणु कीर्तयतो मम ॥२०:४३   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.43cd')" id="app20.43cd">
 
         <APP>43a <LEM>āpa°</LEM><DNLEM>आप° 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; ≀ā≀pa° <ms>C<sub>94</sub></ms> •
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; ≀ā≀pa° <ms>C<sub>94</sub></ms> •
 
-                 <LEM>°nyān</LEM><DNLEM>°न्यान् 
-  </DNLEM> <i>corr.</i>; °nyāṁ <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>, °nyā <ms>E</ms></APP>
+                 <LEM>daśa tv anyān</LEM><DNLEM>दश त्वन्यान् 
+  </DNLEM> <i>corr.</i>; daśa tv anyāṁ <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>, daśatvaṁnyāṁ <ms>C<sub>45</sub></ms>, daśa tv anyā <ms>E</ms></APP>
+
+        <APP>43b <LEM>kīrtayato</LEM><DNLEM>कीर्तयतो 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; kīrttiyato <ms>C<sub>45</sub></ms></APP>
 
 
 </div>
@@ -1563,16 +1804,17 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.44ab')" id="app20.44ab">
 
-        <APP>44a <LEM>siṅghāṇikā</LEM><DNLEM>सिङ्घाणिका 
-  </DNLEM> <i>corr.</i>;
+        <APP>44a <LEM>lālā</LEM><DNLEM>लाला 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; lalāṁ <ms>C<sub>45</sub></ms> •
 
-                        sighānikā <ms>C<sub>94</sub></ms>, siṁghānikā <ms>K<sub>82</sub></ms><ms>E</ms> • 
+                 <LEM>siṅghāṇikā</LEM><DNLEM>सिङ्घाणिका 
+  </DNLEM> <i>corr.</i>; sighānikā <ms>C<sub>94</sub></ms>, si≀ghā≀nikā <ms>C<sub>45</sub></ms>, siṁghānikā <ms>K<sub>82</sub></ms><ms>E</ms> • 
 
                  <LEM>śleṣmā</LEM><DNLEM>श्लेष्मा 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; śoṣmā <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; śoṣmā <ms>E</ms></APP>
 
         <APP>44b <LEM>raktaḥ</LEM><DNLEM>रक्तः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; rakta° <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; rakta° <ms>C<sub>45</sub></ms><ms>E</ms></APP>
 
 
 </div>
@@ -1586,11 +1828,14 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.44cd')" id="app20.44cd">
 
-        <APP>44c <LEM>rasaś</LEM><DNLEM>रसश् 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; rasaṁś <ms>K<sub>82</sub></ms></APP>
+        <APP>44c <LEM>rasaś caiva</LEM><DNLEM>रसश्चैव 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>E</ms>; rasaṁś caiva <ms>K<sub>82</sub></ms></APP>
 
-        <APP>44d <LEM>medaś</LEM><DNLEM>मेदश् 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; medaṁ <ms>E</ms></APP>
+        <APP>44d <LEM>medaś ca</LEM><DNLEM>मेदश्च 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; medaṁ ca <ms>E</ms> •
+
+                 <LEM>daśamaḥ</LEM><DNLEM>दशमः 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; madaḥ <ms>C<sub>45</sub></ms><corr>ac</corr>, madanaḥ <ms>C<sub>45</sub></ms><corr>pc</corr></APP>
 
 
 </div>
@@ -1598,20 +1843,20 @@
 
 <div class="wrap-main">
 <TEXT id="20.45ab" class="sktvrs20.45" onclick="showApparatus('app20.45ab')" ondblclick="showNote('note20.45')" >
-<RMTEXT> daśa āpaguṇāś cānyā kīrtayiṣyāmi tān śr̥ṇu |</RMTEXT>
-<DNTEXT>दश आपगुणाश्चान्या कीर्तयिष्यामि तान्शृणु ।   </DNTEXT></TEXT>
+<RMTEXT> daśa āpaguṇāś cānye kīrtayiṣyāmi tān śr̥ṇu |</RMTEXT>
+<DNTEXT>दश आपगुणाश्चान्ये कीर्तयिष्यामि तान्शृणु ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.45ab')" id="app20.45ab">
 
         <APP>45a <LEM>daśa āpa°</LEM><DNLEM>दश आप° 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; daśaś cāpa° <ms>E</ms> •
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; daśaś cāpa° <ms>E</ms> •
 
-                 <LEM>cānyā</LEM><DNLEM>चान्या 
-  </DNLEM> <ms>K<sub>82</sub></ms><ms>E</ms>; cānye <ms>C<sub>94</sub></ms></APP>
+                 <LEM>cānye</LEM><DNLEM>चान्ये 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms>; cānyā <ms>K<sub>82</sub></ms><ms>E</ms></APP>
 
         <APP>45b <LEM>tān</LEM><DNLEM>तान् 
-  </DNLEM> <ms>E</ms>; tāṁ <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms></APP>
+  </DNLEM> <ms>E</ms>; tāṁ <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms></APP>
 
 
 </div>
@@ -1619,14 +1864,14 @@
 
 <div class="wrap-main">
 <TEXT id="20.45cd" class="sktvrs20.45" onclick="showApparatus('app20.45cd')" ondblclick="showNote('note20.45')" >
-<RMTEXT> aṅgyaśaityaṁ rasakledo dravatvaṁ snehasaumyatā ||<vsnum>20.45</vsnum>||</RMTEXT>
-<DNTEXT>अङ्ग्यशैत्यं रसक्लेदो द्रवत्वं स्नेहसौम्यता ॥२०:४५   </DNTEXT></TEXT>
+<RMTEXT> adbhya śaityaṁ rasa kledo dravatvaṁ snehasaumyatā ||<vsnum>20.45</vsnum>||</RMTEXT>
+<DNTEXT>अद्भ्य शैत्यं रस क्लेदो द्रवत्वं स्नेहसौम्यता ॥२०:४५   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.45cd')" id="app20.45cd">
 
-        <APP>45c <LEM>aṅgyaśaityaṁ</LEM><DNLEM>अङ्ग्यशैत्यं 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; agnyaśaitya° <ms>E</ms></APP>
+        <APP>45c <LEM>adbhya śaityaṁ</LEM><DNLEM>अद्भ्य शैत्यं 
+  </DNLEM> <ms>C<sub>94</sub></ms>; aṅgaśaityaṁ <ms>C<sub>45</sub></ms>, aṅgyaśaityaṁ <ms>K<sub>82</sub></ms>, agnyaśaitya° <ms>E</ms></APP>
 
 
 </div>
@@ -1634,38 +1879,46 @@
 
 <div class="wrap-main">
 <TEXT id="20.46ab" class="sktvrs20.46" onclick="showApparatus('app20.46ab')" ondblclick="showNote('note20.46')" >
-<RMTEXT> jihvāviṣpandinī caiva bhaumān daśaguṇāñ śr̥ṇu |</RMTEXT>
-<DNTEXT>जिह्वाविष्पन्दिनी चैव भौमान्दशगुणाञ्शृणु ।   </DNTEXT></TEXT>
+<RMTEXT> jihvā viṣyandinī caiva bhaumānyaśravaṇādhamaḥ |</RMTEXT>
+<DNTEXT>जिह्वा विष्यन्दिनी चैव भौमान्यश्रवणाधमः ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.46ab')" id="app20.46ab">
 
-        <APP>46a <LEM>°viṣpandinī</LEM><DNLEM>°विष्पन्दिनी 
-  </DNLEM> <ms>K<sub>82</sub></ms>; °vi≀ṣ≀××nī <ms>C<sub>94</sub></ms>;
+        <APP>46a <LEM>viṣyandinī</LEM><DNLEM>विष्यन्दिनी 
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; °vi≀ṣ≀××nī <ms>C<sub>94</sub></ms>, °niṣpandinī <ms>E</ms></APP>
 
-                         °niṣpandinī <ms>E</ms></APP>
+        <APP>46b <LEM>bhaumānyaśravaṇādhamaḥ</LEM><DNLEM>भौमान्यश्रवणाधमः 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; bhaumān daśaguṇāñ śr̥ṇu <ms>E</ms></APP>
 
-        <APP>46b <LEM>bhaumān daśaguṇāñ śr̥ṇu</LEM><DNLEM>भौमान्दशगुणाञ्शृणु 
-  </DNLEM> <ms>E</ms>;
+------------------
+        <PARAL>46 <SKT>≈ MBh 12.247.4 (with </SKT> adbhyaḥ<SKT> as a variant in the critical edition): </SKT>
 
-                         bhaumānyaśravaṇādhamaḥ <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms></APP>
+                apāṁ śaityaṁ rasaḥ kledo dravatvaṁ snehasaumyatā|
+
+                jihvā viṣyandinī caiva bhaumāpyāsravaṇaṁ tathā||</PARAL>
 
 
 </div>
 </div>
+<subchapter>
+<RMTEXT> bhūmir gandhaś ca (13-12) 
+</RMTEXT>
+<DNTEXT> भूमिर्गन्धश्च (१३-१२) 
+  </DNTEXT></subchapter>
 
 <div class="wrap-main">
 <TEXT id="20.46cd" class="sktvrs20.46" onclick="showApparatus('app20.46cd')" ondblclick="showNote('note20.46')" >
-<RMTEXT> āpaś ca bījyajābhūmis tasyā gandhaguṇaḥ smr̥taḥ ||<vsnum>20.46</vsnum>||</RMTEXT>
-<DNTEXT>आपश्च बीज्यजाभूमिस्तस्या गन्धगुणः स्मृतः ॥२०:४६   </DNTEXT></TEXT>
+<RMTEXT> āpaś cāpy asr̥jad bhūmis tasyā gandhaguṇaḥ smr̥taḥ ||<vsnum>20.46</vsnum>||</RMTEXT>
+<DNTEXT>आपश्चाप्यसृजद्भूमिस्तस्या गन्धगुणः स्मृतः ॥२०:४६   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.46cd')" id="app20.46cd">
 
-        <APP>46c <LEM>āpaś ca bījya°</LEM><DNLEM>आपश्च बीज्य° 
-  </DNLEM> <ms>E</ms>;
+        <APP>46c <LEM>āpaś cāpy asr̥jad bhū°</LEM><DNLEM>आपश्चाप्यसृजद्भू° 
+  </DNLEM> <ms>C<sub>45</sub></ms>;
 
-                        āpaś cāpījya° <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms></APP> 
+                                āpaś cāpījyajā bhū° <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>, āpaś ca bījyajā bhū° <ms>E</ms></APP> 
 
 
 </div>
@@ -1679,8 +1932,8 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.47ab')" id="app20.47ab">
 
-        <APP>47a <LEM>°guṇān</LEM><DNLEM>°गुणान् 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; °guṇā <ms>K<sub>82</sub></ms></APP>
+        <APP>47a <LEM>°guṇān gr̥°</LEM><DNLEM>°गुणान्गृ° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>E</ms>; °guṇaṁ gr̥° <ms>C<sub>45</sub></ms>, °guṇā gr̥° <ms>K<sub>82</sub></ms></APP>
 
 
 </div>
@@ -1694,20 +1947,15 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.47cd')" id="app20.47cd">
 
-        <APP>47c <LEM>rūpaṁ</LEM><DNLEM>रूपं 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; rūpaś <ms>E</ms></APP>
+        <APP>47c <LEM>rūpaṁ ca</LEM><DNLEM>रूपं च 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; rūpaś ca <ms>C<sub>45</sub></ms><ms>E</ms></APP>
 
         <APP>47d <LEM>pañcamaḥ</LEM><DNLEM>पञ्चमः 
-  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; pañcama <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; pañcama <ms>E</ms></APP>
 
 
 </div>
 </div>
-<subchapter>
-<RMTEXT> bhūmir gandhaś ca (13-12) 
-</RMTEXT>
-<DNTEXT> भूमिर्गन्धश्च (१३-१२) 
-  </DNTEXT></subchapter>
 
 <div class="wrap-main">
 <TEXT id="20.48ab" class="sktvrs20.48" onclick="showApparatus('app20.48ab')" ondblclick="showNote('note20.48')" >
@@ -1718,16 +1966,16 @@
 <div class="wrap-content" onclick="hideFunction('app20.48ab')" id="app20.48ab">
 
         <APP>48a <LEM>āpaḥ°</LEM><DNLEM>आपः° 
-  </DNLEM> <ms>C<sub>94</sub></ms>; āpa° <ms>E</ms> •
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; āpa° <ms>E</ms> •
 
                  <LEM>proktā</LEM><DNLEM>प्रोक्ता 
-  </DNLEM> <ms>C<sub>94</sub></ms>; prokto <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; prokto <ms>E</ms></APP>
 
-        <APP>48b <LEM>bhūme°</LEM><DNLEM>भूमे° 
-  </DNLEM> <ms>C<sub>94</sub></ms>; bhūmi° <ms>E</ms> •
+        <APP>48b <LEM>bhūmer ga°</LEM><DNLEM>भूमेर्ग° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms>; bhūme ga° <ms>K<sub>82</sub></ms>, bhūmir ga° <ms>E</ms> •
 
                  <LEM>śr̥ṇu</LEM><DNLEM>शृणु 
-  </DNLEM> <ms>C<sub>94</sub></ms>; smr̥ta <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; smr̥ta <ms>E</ms></APP>
 
 
 </div>
@@ -1735,14 +1983,14 @@
 
 <div class="wrap-main">
 <TEXT id="20.48cd" class="sktvrs20.48" onclick="showApparatus('app20.48cd')" ondblclick="showNote('note20.48')" >
-<RMTEXT> iṣṭāniṣtadvayor gandhaḥ surabhir durabhis tathā ||<vsnum>20.48</vsnum>||</RMTEXT>
-<DNTEXT>इष्टानिष्तद्वयोर्गन्धः सुरभिर्दुरभिस्तथा ॥२०:४८   </DNTEXT></TEXT>
+<RMTEXT> iṣṭāniṣṭadvayor gandhaḥ surabhir durabhis tathā ||<vsnum>20.48</vsnum>||</RMTEXT>
+<DNTEXT>इष्टानिष्टद्वयोर्गन्धः सुरभिर्दुरभिस्तथा ॥२०:४८   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.48cd')" id="app20.48cd">
 
         <APP>48c <LEM>dvayor gandhaḥ</LEM><DNLEM>द्वयोर्गन्धः 
-  </DNLEM> <ms>E</ms>; dvayo×× <ms>C<sub>94</sub></ms></APP>
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; dvayo×× <ms>C<sub>94</sub></ms></APP>
 
 
 </div>
@@ -1756,11 +2004,11 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.49ab')" id="app20.49ab">
 
-        <APP>49a <LEM>kasturīkaṁ</LEM><DNLEM>कस्तुरीकं 
-  </DNLEM> <ms>C<sub>94</sub></ms>; kastūrīkaś <ms>E</ms> (<i>unmetrical</i>)</APP>
+        <APP>49a <LEM>kasturīkaṁ ca</LEM><DNLEM>कस्तुरीकं च 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; kastūrīkaś ca <ms>E</ms> (<i>unmetrical</i>)</APP>
 
         <APP>49b <LEM>°garu°</LEM><DNLEM>°गरु° 
-  </DNLEM> <ms>C<sub>94</sub></ms>; °guru° <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; °guru° <ms>E</ms></APP>
 
 
 </div>
@@ -1774,8 +2022,8 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.49cd')" id="app20.49cd">
 
-        <APP>49d <LEM>°kīrtitam</LEM><DNLEM>°कीर्तितम् 
-  </DNLEM> <ms>C<sub>94</sub></ms>; °kīrtitaḥ <ms>E</ms></APP>
+        <APP>49d <LEM>ghrāṇam iṣṭaṁ kīrtitam</LEM><DNLEM>घ्राणमिष्टं कीर्तितम् 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><corr>pc</corr>; <i>omitted in</i> <ms>K<sub>82</sub></ms><corr>ac</corr>, ghrāṇam iṣṭaṁ kīrtitaḥ <ms>E</ms></APP>
 
 
 </div>
@@ -1789,8 +2037,11 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.50ab')" id="app20.50ab">
 
-        <APP>50b <LEM>°gandhaṁ</LEM><DNLEM>°गन्धं 
-  </DNLEM> <ms>C<sub>94</sub></ms>; °gandhaś <ms>E</ms></APP>
+        <APP>50a <LEM>viṅmūtrasvedagandhāni</LEM><DNLEM>विङ्मूत्रस्वेदगन्धानि 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><corr>pc</corr><ms>E</ms>; <i>omitted in</i> <ms>K<sub>82</sub></ms><corr>ac</corr></APP>
+
+        <APP>50b <LEM>°gandhaṁ ca</LEM><DNLEM>°गन्धं च 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; °gandhaś ca <ms>E</ms></APP>
 
 
 </div>
@@ -1805,7 +2056,10 @@
 <div class="wrap-content" onclick="hideFunction('app20.50cd')" id="app20.50cd">
 
         <APP>50c <LEM>°sphoṭita°</LEM><DNLEM>°स्फोटित° 
-  </DNLEM> <ms>C<sub>94</sub></ms>; °sphoṭaka° <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>; °sphuṭita° <ms>C<sub>45</sub></ms>, °sphoṭaka° <ms>E</ms></APP>
+
+        <APP>50d <LEM>kīrtitam</LEM><DNLEM>कीर्तितम् 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><corr>pc</corr><ms>K<sub>82</sub></ms><ms>E</ms>; kītam <ms>C<sub>45</sub></ms><corr>ac</corr></APP>
 
 
 </div>
@@ -1819,14 +2073,14 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.51ab')" id="app20.51ab">
 
-        <APP>51a <LEM>bhūmer</LEM><DNLEM>भूमेर् 
-  </DNLEM> <ms>C<sub>94</sub></ms>; bhūme <ms>E</ms> •
+        <APP>51a <LEM>bhūmer dhā°</LEM><DNLEM>भूमेर्धा° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; bhūme dhā° <ms>E</ms></APP>
 
-                 <LEM>tv anyān</LEM><DNLEM>त्वन्यान् 
-  </DNLEM> <ms>C<sub>94</sub></ms>; tv anyā <ms>E</ms></APP>
+        <APP>51ab <LEM>tv anyān ka°</LEM><DNLEM>त्वन्यान्क° 
+  </DNLEM> <ms>C<sub>94</sub></ms>; tv anyāṁ <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>, tv anyā ka° <ms>E</ms></APP>
 
         <APP>51b <LEM>tac chr̥ṇu</LEM><DNLEM>तच्छृणु 
-  </DNLEM> <ms>E</ms>; ≀ta≀×ṇu <ms>C<sub>94</sub></ms></APP>
+  </DNLEM> <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; ≀ta≀×ṇu <ms>C<sub>94</sub></ms></APP>
 
 
 </div>
@@ -1841,13 +2095,18 @@
 <div class="wrap-content" onclick="hideFunction('app20.51cd')" id="app20.51cd">
 
         <APP>51c <LEM>tvacaṁ māṁsaṁ ca medaṁ ca</LEM><DNLEM>त्वचं मांसं च मेदं च 
-  </DNLEM> <ms>C<sub>94</sub></ms>; tvacā māṁsaś ca medaś ca <ms>E</ms></APP>
+  </DNLEM> <ms>C<sub>94</sub></ms>; tvacaṁ māṁsañ ca <ms>C<sub>45</sub></ms>, ×× mānsañ ca medañ ca <ms>C<sub>02</sub></ms>,
+
+                                tvacaṁ māsaṁ ca medaṁ ca <ms>K<sub>82</sub></ms>, tvacā māṁsaś ca medaś ca <ms>E</ms></APP>
 
         <APP>51d <LEM>snāyu</LEM><DNLEM>स्नायु 
-  </DNLEM> <ms>E</ms>; śnāyuṁ <ms>C<sub>94</sub></ms> •
+  </DNLEM> <ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; śnāyuṁ <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms> •
 
-                 <LEM>sirā</LEM><DNLEM>सिरा 
-  </DNLEM> <i>em.</i>;  śirās <ms>C<sub>94</sub></ms>; śiras <ms>E</ms></APP>
+                 <LEM>sirā tathā</LEM><DNLEM>सिरा तथा 
+  </DNLEM> <i>em.</i>;  śirās tathā <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms>, śiras tathā <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>E</ms></APP>
+
+------------------
+        <PARAL>51c <SKT><ms>C<sub>02</sub></ms> resumes here with </SKT> mānsañ ca medañ ca</PARAL>
 
 
 </div>
@@ -1862,7 +2121,7 @@
 <div class="wrap-content" onclick="hideFunction('app20.52ab')" id="app20.52ab">
 
         <APP>52b <LEM>keśa°</LEM><DNLEM>केश° 
-  </DNLEM> <ms>C<sub>94</sub></ms>; keśā° <ms>E</ms></APP>
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms>; keśā° <ms>E</ms></APP>
 
 
 </div>
@@ -1876,8 +2135,11 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.52cd')" id="app20.52cd">
 
-        <APP>52c <LEM>tv anyān</LEM><DNLEM>त्वन्यान् 
-  </DNLEM> <ms>E</ms>; tv anyām <ms>C<sub>94</sub></ms></APP>
+        <APP>52c <LEM>tv anyān pra°</LEM><DNLEM>त्वन्यान्प्र° 
+  </DNLEM> <ms>E</ms>; tv anyām pra° <ms>C<sub>94</sub></ms>, tv anyāṁ pra° <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms></APP>
+
+        <APP>52d <LEM>°guṇān dvi°</LEM><DNLEM>°गुणान्द्वि° 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °guṇā dvi° <ms>C<sub>45</sub></ms>, °guṇāṁ div° <ms>C<sub>02</sub></ms></APP>
 
 
 </div>
@@ -1885,17 +2147,23 @@
 
 <div class="wrap-main">
 <TEXT id="20.53ab" class="sktvrs20.53" onclick="showApparatus('app20.53ab')" ondblclick="showNote('note20.53')" >
-<RMTEXT> bhūmeḥ sthairyaṁ rajastvañca kāṭhinyaṁ prasavātmakam |</RMTEXT>
-<DNTEXT>भूमेः स्थैर्यं रजस्त्वञ्च काठिन्यं प्रसवात्मकम् ।   </DNTEXT></TEXT>
+<RMTEXT> bhūmeḥ sthairyaṁ rajastvaṁ ca kāṭhinyaṁ prasavātmakam |</RMTEXT>
+<DNTEXT>भूमेः स्थैर्यं रजस्त्वं च काठिन्यं प्रसवात्मकम् ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.53ab')" id="app20.53ab">
 
-        <APP>53a <LEM>rajastvañca</LEM><DNLEM>रजस्त्वञ्च 
-  </DNLEM> <ms>C<sub>94</sub></ms>; rajatvaś ca <ms>E</ms></APP>
+        <APP>53a <LEM>bhūmeḥ</LEM><DNLEM>भूमेः 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; bhūmiḥ <ms>C<sub>45</sub></ms> •
+
+                 <LEM>sthairyaṁ</LEM><DNLEM>स्थैर्यं 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; sthairya <ms>C<sub>02</sub></ms> •
+
+                 <LEM>rajastvaṁ ca</LEM><DNLEM>रजस्त्वं च 
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms>; rajatvaś ca <ms>E</ms></APP>
 
         <APP>53b <LEM>kāṭhinyaṁ</LEM><DNLEM>काठिन्यं 
-  </DNLEM> <ms>C<sub>94</sub></ms>; kaṭhinyaṁ <ms>E</ms></APP>
+  </DNLEM> <ms><b>C</b></ms><ms>K<sub>82</sub></ms>; kaṭhinyaṁ <ms>E</ms></APP>
 
 
 </div>
@@ -1909,20 +2177,30 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.53cd')" id="app20.53cd">
 
+        <APP>53d <LEM>°kr̥tiḥ</LEM><DNLEM>°कृतिः 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °kr̥ti <ms>C<sub>02</sub></ms></APP>
+
+------------------
+        <PARAL>53 <SKT>≈ MBh 12.247.3: </SKT>
+
+                        bhūmeḥ sthairyaṁ pr̥thutvaṁ ca kāṭhinyaṁ prasavātmatā|
+
+                        gandho gurutvaṁ śaktiś ca saṁghātaḥ sthāpanā dhr̥tiḥ||</PARAL>
+
 
 </div>
 </div>
 
 <div class="wrap-main">
 <TEXT id="20.54ab" class="sktvrs20.54" onclick="showApparatus('app20.54ab')" ondblclick="showNote('note20.54')" >
-<RMTEXT> guṇaṁ dhātuviśeṣaś ca utpattiś ca dvijottama |</RMTEXT>
-<DNTEXT>गुणं धातुविशेषश्च उत्पत्तिश्च द्विजोत्तम ।   </DNTEXT></TEXT>
+<RMTEXT> guṇadhātuviśeṣaś ca utpattiś ca dvijottama |</RMTEXT>
+<DNTEXT>गुणधातुविशेषश्च उत्पत्तिश्च द्विजोत्तम ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.54ab')" id="app20.54ab">
 
-        <APP>54a <LEM>guṇaṁ dhātu°</LEM><DNLEM>गुणं धातु° 
-  </DNLEM> <ms>E</ms>; ≀guṇandhā≀tu° <ms>C<sub>94</sub></ms></APP>
+        <APP>54a <LEM>guṇadhātu°</LEM><DNLEM>गुणधातु° 
+  </DNLEM> <ms>K<sub>82</sub></ms>; ≀guṇandhā≀tu° <ms>C<sub>94</sub></ms>, guṇātvātu° <ms>C<sub>45</sub></ms>, guṇaṁ dhātu° <ms>C<sub>02</sub></ms><ms>E</ms></APP>
 
 
 </div>
@@ -1936,22 +2214,8 @@
 
 <div class="wrap-content" onclick="hideFunction('app20.54cd')" id="app20.54cd">
 
-
-</div>
-</div>
-
-<div class="wrap-main">
-<TEXT id="20.55ab" class="sktvrs20.55" onclick="showApparatus('app20.55ab')" ondblclick="showNote('note20.55')" >
-<RMTEXT> vaikārikam ahaṁkāraṁ sattvodriktāt tu sāttvikaḥ |</RMTEXT>
-<DNTEXT>वैकारिकमहंकारं सत्त्वोद्रिक्तात्तु सात्त्विकः ।   </DNTEXT></TEXT>
-
-
-<div class="wrap-content" onclick="hideFunction('app20.55ab')" id="app20.55ab">
-
-        <APP>55f <LEM>sattvodriktāt tu</LEM><DNLEM>सत्त्वोद्रिक्तात्तु 
-  </DNLEM> <i>corr.</i>;
-
-                                 sattvodr̥ktāt tu <ms>C<sub>94</sub></ms>, sattvonuktānu <ms>E</ms></APP>
+        <APP>54cd <LEM>pūrvaṁ kīrtitaṁ</LEM><DNLEM>पूर्वं कीर्तितं 
+  </DNLEM> <ms>C<sub>94</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; pūrva kīrtita <ms>C<sub>45</sub></ms></APP>
 
 
 </div>
@@ -1961,6 +2225,28 @@
 </RMTEXT>
 <DNTEXT> बुद्धीन्द्रियाणि कर्मेन्द्रियाणि च (११-२) 
   </DNTEXT></subchapter>
+
+<div class="wrap-main">
+<TEXT id="20.55ab" class="sktvrs20.55" onclick="showApparatus('app20.55ab')" ondblclick="showNote('note20.55')" >
+<RMTEXT> vaikārikam ahaṁkāraṁ sattvodriktāt tu sāttvikaḥ |</RMTEXT>
+<DNTEXT>वैकारिकमहंकारं सत्त्वोद्रिक्तात्तु सात्त्विकः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app20.55ab')" id="app20.55ab">
+
+        <APP>55ab <LEM>sattvodriktāt tu</LEM><DNLEM>सत्त्वोद्रिक्तात्तु 
+  </DNLEM> <i>corr.</i>;
+
+                                 sattvodr̥ktāt tu <ms>C<sub>94</sub></ms>, sattvonuktānu <ms>E</ms></APP>
+
+------------------
+        <PARAL>55ab <SKT>≈ Liṅgapurāṇa 1.70.38cd (= Śivapurāṇa 7.1.10.14cd): </SKT>
+
+                vaikārikād ahaṁkārāt sattvodriktāt tu sāttvikāt</PARAL>
+
+
+</div>
+</div>
 
 <div class="wrap-main">
 <TEXT id="20.55cd" class="sktvrs20.55" onclick="showApparatus('app20.55cd')" ondblclick="showNote('note20.55')" >
@@ -2780,9 +3066,9 @@
 </div>
 </div>
 <subchapter>
-<RMTEXT> manaḥ (1) 
+<RMTEXT> manaś conmanaś ca (1) 
 </RMTEXT>
-<DNTEXT> मनः (१) 
+<DNTEXT> मनश्चोन्मनश्च (१) 
   </DNTEXT></subchapter>
 
 <div class="wrap-main">
@@ -2799,9 +3085,9 @@
 
 <div class="wrap-main">
 <TEXT id="20.83cd" class="sktvrs20.83" onclick="showApparatus('app20.83cd')" ondblclick="showNote('note20.83')" >
-<RMTEXT> calopapattiḥ sthairaṁ ca visargakalpanākṣamā ||<vsnum>20.83</vsnum>||</RMTEXT>
-<DNTEXT>चलोपपत्तिः स्थैरं च विसर्गकल्पनाक्षमा ॥२०:८३   </DNTEXT></TEXT>
-<spaceaftersloka/>
+<RMTEXT> calopapattiḥ sthairaṁ ca visargakalpanākṣamā |</RMTEXT>
+<DNTEXT>चलोपपत्तिः स्थैरं च विसर्गकल्पनाक्षमा ।   </DNTEXT></TEXT>
+
 
 <div class="wrap-content" onclick="hideFunction('app20.83cd')" id="app20.83cd">
 
@@ -2816,17 +3102,39 @@
 </div>
 
 <div class="wrap-main">
+<TEXT id="20.83ef" class="sktvrs20.83" onclick="showApparatus('app20.83ef')" ondblclick="showNote('note20.83')" >
+<RMTEXT> sad asac cāśutā caiva manaso nava vai guṇāḥ ||<vsnum>20.83</vsnum>||</RMTEXT>
+<DNTEXT>सदसच्चाशुता चैव मनसो नव वै गुणाः ॥२०:८३   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app20.83ef')" id="app20.83ef">
+
+        <APP>83e <LEM>cāśutā</LEM><DNLEM>चाशुता 
+  </DNLEM> <ms>E</ms>; cāśutāñ <ms>C<sub>94</sub></ms></APP>
+
+------------------
+        <PARAL>83cdef <SKT> = MBh 12.247.9 </SKT> </PARAL> 
+
+
+</div>
+</div>
+
+<div class="wrap-main">
 <TEXT id="20.84ab" class="sktvrs20.84" onclick="showApparatus('app20.84ab')" ondblclick="showNote('note20.84')" >
-<RMTEXT> sad asac cāśutā caiva manaso nava vai guṇāḥ |</RMTEXT>
-<DNTEXT>सदसच्चाशुता चैव मनसो नव वै गुणाः ।   </DNTEXT></TEXT>
+<RMTEXT> iṣṭāniṣṭavikalpaś ca vyavasāyaḥ samādhitā |</RMTEXT>
+<DNTEXT>इष्टानिष्टविकल्पश्च व्यवसायः समाधिता ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.84ab')" id="app20.84ab">
 
-        <APP>84a <LEM>cāśutā</LEM><DNLEM>चाशुता 
-  </DNLEM> <ms>E</ms>; cāśutāñ <ms>C<sub>94</sub></ms></APP>
+        <APP>84a <LEM>iṣṭā°</LEM><DNLEM>इष्टा° 
+  </DNLEM> <ms>E</ms>; ×ṣṭā° <ms>C<sub>94</sub></ms></APP>
 
-        <PARAL>84 <SKT> = MBh 12.247.9 </SKT> </PARAL> 
+        <APP>84b <LEM>samādhitā</LEM><DNLEM>समाधिता 
+  </DNLEM>  <ms>C<sub>94</sub></ms>; samādhinā <ms>E</ms></APP>
+
+------------------
+        <PARAL>84ab <SKT> = MBh 12.247.10ab </SKT></PARAL> 
 
 
 </div>
@@ -2834,33 +3142,13 @@
 
 <div class="wrap-main">
 <TEXT id="20.84cd" class="sktvrs20.84" onclick="showApparatus('app20.84cd')" ondblclick="showNote('note20.84')" >
-<RMTEXT> iṣṭāniṣṭavikalpaś ca vyavasāyaḥ samādhitā ||<vsnum>20.84</vsnum>||</RMTEXT>
-<DNTEXT>इष्टानिष्टविकल्पश्च व्यवसायः समाधिता ॥२०:८४   </DNTEXT></TEXT>
+<RMTEXT> manaso dvividhaṁ rūpaṁ manaś conmana eva ca ||<vsnum>20.84</vsnum>||</RMTEXT>
+<DNTEXT>मनसो द्विविधं रूपं मनश्चोन्मन एव च ॥२०:८४   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.84cd')" id="app20.84cd">
 
-        <APP>84c <LEM>iṣṭā°</LEM><DNLEM>इष्टा° 
-  </DNLEM> <ms>E</ms>; ×ṣṭā° <ms>C<sub>94</sub></ms></APP>
-
-        <APP>84d <LEM>samādhitā</LEM><DNLEM>समाधिता 
-  </DNLEM>  <ms>C<sub>94</sub></ms>; samādhinā <ms>E</ms></APP>
-
-        <PARAL>84cd <SKT> = MBh 12.247.10ab </SKT></PARAL> 
-
-
-</div>
-</div>
-
-<div class="wrap-main">
-<TEXT id="20.85ab" class="sktvrs20.85" onclick="showApparatus('app20.85ab')" ondblclick="showNote('note20.85')" >
-<RMTEXT> manaso dvividhaṁ rūpaṁ manaś conmana eva ca |</RMTEXT>
-<DNTEXT>मनसो द्विविधं रूपं मनश्चोन्मन एव च ।   </DNTEXT></TEXT>
-
-
-<div class="wrap-content" onclick="hideFunction('app20.85ab')" id="app20.85ab">
-
-        <APP>85b <LEM>conmana</LEM><DNLEM>चोन्मन 
+        <APP>84d <LEM>conmana</LEM><DNLEM>चोन्मन 
   </DNLEM> <ms>E</ms>; cotmana <ms>C<sub>94</sub></ms></APP>
 
 
@@ -2868,14 +3156,14 @@
 </div>
 
 <div class="wrap-main">
-<TEXT id="20.85cd" class="sktvrs20.85" onclick="showApparatus('app20.85cd')" ondblclick="showNote('note20.85')" >
-<RMTEXT> manas tv indriyabhāvatve unmanastvam atīndriya ||<vsnum>20.85</vsnum>||</RMTEXT>
-<DNTEXT>मनस्त्विन्द्रियभावत्वे उन्मनस्त्वमतीन्द्रिय ॥२०:८५   </DNTEXT></TEXT>
-<spaceaftersloka/>
+<TEXT id="20.85ab" class="sktvrs20.85" onclick="showApparatus('app20.85ab')" ondblclick="showNote('note20.85')" >
+<RMTEXT> manas tv indriyabhāvatve unmanastvam atīndriye |</RMTEXT>
+<DNTEXT>मनस्त्विन्द्रियभावत्वे उन्मनस्त्वमतीन्द्रिये ।   </DNTEXT></TEXT>
 
-<div class="wrap-content" onclick="hideFunction('app20.85cd')" id="app20.85cd">
 
-        <APP>85d <LEM>°tīndriye</LEM><DNLEM>°तीन्द्रिये 
+<div class="wrap-content" onclick="hideFunction('app20.85ab')" id="app20.85ab">
+
+        <APP>85b <LEM>°tīndriye</LEM><DNLEM>°तीन्द्रिये 
   </DNLEM> <i>em.</i>; °nīndriye <ms>C<sub>94</sub></ms>, °tīndriya <ms>E</ms></APP>
 
 
@@ -2883,14 +3171,27 @@
 </div>
 
 <div class="wrap-main">
+<TEXT id="20.85cd" class="sktvrs20.85" onclick="showApparatus('app20.85cd')" ondblclick="showNote('note20.85')" >
+<RMTEXT> nigr̥hītā visr̥ṣtaṁ ca bandhamokṣau tu sādhanam ||<vsnum>20.85</vsnum>||</RMTEXT>
+<DNTEXT>निगृहीता विसृष्तं च बन्धमोक्षौ तु साधनम् ॥२०:८५   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app20.85cd')" id="app20.85cd">
+
+        <APP>85cd <LEM>(nigr̥hītā<SKT>...</SKT> sādhanam)</LEM><DNLEM>(निगृहीताł...</SKT> साधनम) 
+  </DNLEM> <ms>C<sub>94</sub></ms>; <i>omitted in</i> <ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="wrap-main">
 <TEXT id="20.86ab" class="sktvrs20.86" onclick="showApparatus('app20.86ab')" ondblclick="showNote('note20.86')" >
-<RMTEXT> nigr̥hītā visr̥ṣtaṁ ca bandhamokṣau tu sādhanam |</RMTEXT>
-<DNTEXT>निगृहीता विसृष्तं च बन्धमोक्षौ तु साधनम् ।   </DNTEXT></TEXT>
+<RMTEXT> nigr̥hītendriyagrāmaḥ svargamokṣau tu sādhanam |</RMTEXT>
+<DNTEXT>निगृहीतेन्द्रियग्रामः स्वर्गमोक्षौ तु साधनम् ।   </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app20.86ab')" id="app20.86ab">
-
-        <APP>86ab <i>omitted in</i> <ms>E</ms></APP>
 
 
 </div>
@@ -2898,25 +3199,13 @@
 
 <div class="wrap-main">
 <TEXT id="20.86cd" class="sktvrs20.86" onclick="showApparatus('app20.86cd')" ondblclick="showNote('note20.86')" >
-<RMTEXT> nigr̥hītendriyagrāmaḥ svargamokṣau tu sādhanam ||<vsnum>20.86</vsnum>||</RMTEXT>
-<DNTEXT>निगृहीतेन्द्रियग्रामः स्वर्गमोक्षौ तु साधनम् ॥२०:८६   </DNTEXT></TEXT>
+<RMTEXT> visr̥ṣṭe indriyagrāme duḥkhasaṁsārasādhanam ||<vsnum>20.86</vsnum>||</RMTEXT>
+<DNTEXT>विसृष्टे इन्द्रियग्रामे दुःखसंसारसाधनम् ॥२०:८६   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
 <div class="wrap-content" onclick="hideFunction('app20.86cd')" id="app20.86cd">
 
-
-</div>
-</div>
-
-<div class="wrap-main">
-<TEXT id="20.87ab" class="sktvrs20.87" onclick="showApparatus('app20.87ab')" ondblclick="showNote('note20.87')" >
-<RMTEXT> visr̥ṣṭe indriyagrāme duḥkhasaṁsārasādhanam |</RMTEXT>
-<DNTEXT>विसृष्टे इन्द्रियग्रामे दुःखसंसारसाधनम् ।   </DNTEXT></TEXT>
-
-
-<div class="wrap-content" onclick="hideFunction('app20.87ab')" id="app20.87ab">
-
-        <APP>87b <LEM>duḥkha°</LEM><DNLEM>दुःख° 
+        <APP>86d <LEM>duḥkha°</LEM><DNLEM>दुःख° 
   </DNLEM> <i>corr.</i>; ×kha° <ms>C<sub>94</sub></ms>, duḥkhaṁ <ms>E</ms></APP>
 
 
@@ -2924,24 +3213,24 @@
 </div>
 
 <div class="wrap-main">
-<TEXT id="20.87cd" class="sktvrs20.87" onclick="showApparatus('app20.87cd')" ondblclick="showNote('note20.87')" >
+<TEXT id="20.87ab" class="sktvrs20.87" onclick="showApparatus('app20.87ab')" ondblclick="showNote('note20.87')" >
 <RMTEXT> sakalaṁ niṣkalaṁ caiva mana eva vidur budhāḥ |</RMTEXT>
 <DNTEXT>सकलं निष्कलं चैव मन एव विदुर्बुधाः ।   </DNTEXT></TEXT>
 
 
-<div class="wrap-content" onclick="hideFunction('app20.87cd')" id="app20.87cd">
+<div class="wrap-content" onclick="hideFunction('app20.87ab')" id="app20.87ab">
 
 
 </div>
 </div>
 
 <div class="wrap-main">
-<TEXT id="20.87ef" class="sktvrs20.87" onclick="showApparatus('app20.87ef')" ondblclick="showNote('note20.87')" >
+<TEXT id="20.87cd" class="sktvrs20.87" onclick="showApparatus('app20.87cd')" ondblclick="showNote('note20.87')" >
 <RMTEXT> sakalaṁ mananānātve ekatve mananiṣkalam ||<vsnum>20.87</vsnum>||</RMTEXT>
 <DNTEXT>सकलं मननानात्वे एकत्वे मननिष्कलम् ॥२०:८७   </DNTEXT></TEXT>
 <spaceaftersloka/>
 
-<div class="wrap-content" onclick="hideFunction('app20.87ef')" id="app20.87ef">
+<div class="wrap-content" onclick="hideFunction('app20.87cd')" id="app20.87cd">
 
 
 </div>
@@ -3177,7 +3466,43 @@
 </div></div><br/><br/><br/><br/></div>
 
 <div class="translation" id="translation">
-<h2>Translation</h2>
+
+
+
+
+<br/>
+<select id="trthemes"  style="background-color:black">
+ <option value="default">--Choose Colour Theme--</option>
+ <option value="dark">Dark</option>
+ <option value="light">Light</option>
+ <option value="dim">Dim</option>
+ </select>
+ <script>
+  $("#trthemes").change(function() {
+    trtexts = document.getElementsByTagName("trnsl");
+           if ($(this).val() === "dark") { 
+	     $(".translation").css("background-color", "black");
+        for (t = 0; t < trtexts.length; t++) { 
+ 		trtexts[t].style.color =  "white"; 
+ 	} 
+       }
+       if ($(this).val() === "light") {
+	     $(".translation").css("background-color", "white");
+       for (t = 0; t < trtexts.length; t++) { trtexts[t].style.color =  "black"; 
+  		} 
+       }
+       if ($(this).val() === "dim") {
+	     $(".translation").css("background-color", "black");
+       for (t = 0; t < trtexts.length; t++) { 
+ 		trtexts[t].style.color =  "gray"; 
+ 	} 
+       }
+       });
+   </script>
+
+
+
+<br/><br/><br/><br/><h2>Translation</h2>
 <br/><br/><br/><trnslchapter>Chapter Twenty</trnslchapter>
 <br/><br/>        
 <trnsl class="trnsl20.1" onclick="showSkt(&#39sktvrs20.1&#39)">Vigatarāga spoke:</trnsl>
@@ -3191,11 +3516,11 @@
 
 <br/><br/>
 |<vsnum id="tr20.2">20.2</vsnum>|         
-<trnsl class="trnsl20.2" onclick="showSkt(&#39sktvrs20.2&#39)">... </trnsl>
+<trnsl class="trnsl20.2" onclick="showSkt(&#39sktvrs20.2&#39)">How can you possibly ask me to reveal everything to be visible directly?</trnsl>
         
-<trnsl class="trnsl20.2" onclick="showSkt(&#39sktvrs20.2&#39)">... </trnsl>
+<trnsl class="trnsl20.2" onclick="showSkt(&#39sktvrs20.2&#39)">[But] I made a decision that [whenever being] questioned, I am to speak.</trnsl>
         
-<trnsl class="trnsl20.2" onclick="showSkt(&#39sktvrs20.2&#39)">Listen, I shall teach you the supreme essence of the Tattvas.</trnsl>
+<trnsl class="trnsl20.2" onclick="showSkt(&#39sktvrs20.2&#39)">Listen, I shall teach you the supreme essence of the reality levels/principles (<SKT>tattva</SKT>).</trnsl>
 <br/><br/><trnslsubchapter>The Puruṣa/Śiva/Brahmā (25th)</trnslsubchapter>
 
 <br/><br/>
@@ -3209,7 +3534,7 @@
 |<vsnum id="tr20.4">20.4</vsnum>|         
 <trnsl class="trnsl20.4" onclick="showSkt(&#39sktvrs20.4&#39)">inconceivable, immeasurable, imperishable, devoid of syllables,</trnsl>
         
-<trnsl class="trnsl20.4" onclick="showSkt(&#39sktvrs20.4&#39)">being everything and everywhere and being pervasive, 
+<trnsl class="trnsl20.4" onclick="showSkt(&#39sktvrs20.4&#39)">that which is everything and everywhere and that which is pervasive, 
                         exists covering everything.</trnsl>
 
 <br/><br/>
@@ -3240,15 +3565,14 @@
 |<vsnum id="tr20.8">20.8</vsnum>|         
 <trnsl class="trnsl20.8" onclick="showSkt(&#39sktvrs20.8&#39)">The twenty-fourth Tattva is Prakr̥ti ... </trnsl>
         
-<trnsl class="trnsl20.8" onclick="showSkt(&#39sktvrs20.8&#39)">It is in fact to be known as Vikr̥ti (‘Modification’) by
-                                the wise.</trnsl>
+<trnsl class="trnsl20.8" onclick="showSkt(&#39sktvrs20.8&#39)">It is in fact to be known as Vikr̥ti (‘Modification’) by the wise.</trnsl>
 
 <br/><br/>
 |<vsnum id="tr20.9">20.9</vsnum>|         
 <trnsl class="trnsl20.9" onclick="showSkt(&#39sktvrs20.9&#39)">All [the other Tattvas below Prakr̥ti], Buddhi, Ahaṁkāra etc.
                         originate in Prakr̥ti.</trnsl>
         
-<trnsl class="trnsl20.9" onclick="showSkt(&#39sktvrs20.9&#39)">[The elements] Earth etc. dissolve in Vikr̥ti one by one.</trnsl>
+<trnsl class="trnsl20.9" onclick="showSkt(&#39sktvrs20.9&#39)">Earth etc. [up to Buddhi?] dissolve in Vikr̥ti one by one.</trnsl>
 <br/><br/><trnslsubchapter>Mati (buddhi, intelligence, 23rd)</trnslsubchapter>
 
 <br/><br/>
@@ -3256,7 +3580,7 @@
 <trnsl class="trnsl20.10" onclick="showSkt(&#39sktvrs20.10&#39)">The Mati Tattva [= Buddhi] is the twenty-third.
                        It possesses qualities such as Dharma [dharmic?].</trnsl>
         
-<trnsl class="trnsl20.10" onclick="showSkt(&#39sktvrs20.10&#39)">Know it as the perciever of the soul, produced by an abundance of Sattva.[?]</trnsl>
+<trnsl class="trnsl20.10" onclick="showSkt(&#39sktvrs20.10&#39)">Know it as the perceiver of the soul, produced by an abundance of Sattva.[?]</trnsl>
 <br/><br/><trnslsubchapter>Ahaṁkāra (egoity, individualization, 22nd)</trnslsubchapter>
 
 <br/><br/>
@@ -3264,12 +3588,12 @@
 <trnsl class="trnsl20.11" onclick="showSkt(&#39sktvrs20.11&#39)">The twenty-second Tattva is Ahaṁkāra according to the wise.</trnsl>
         
 <trnsl class="trnsl20.11" onclick="showSkt(&#39sktvrs20.11&#39)">[This is the Tattva that] says: CHECK Parākhya...  are mine!
-                       It is prodiced by an abundance of Rajas.</trnsl>
+                       It is produced by an abundance of Rajas.</trnsl>
 <br/><br/><trnslsubchapter>Space (hollowness) and Sound (21st–20th)</trnslsubchapter>
 
 <br/><br/>
 |<vsnum id="tr20.12">20.12</vsnum>|         
-<trnsl class="trnsl20.12" onclick="showSkt(&#39sktvrs20.12&#39)">Know the twenty-first Tattva as Hollowness [= <SKT>ākāśa</SKT>], O Brahmin.</trnsl>
+<trnsl class="trnsl20.12" onclick="showSkt(&#39sktvrs20.12&#39)">Know the twenty-first Tattva as Hollowness (<SKT>suṣira</SKT>) [= <SKT>ākāśa</SKT>], O Brahmin.</trnsl>
         
 <trnsl class="trnsl20.12" onclick="showSkt(&#39sktvrs20.12&#39)">Hollowness is beyond Sound [but] it is characterised by the quality of Sound.</trnsl>
 <br/><br/><trnslsubsubchapter>Sound</trnslsubsubchapter>
@@ -3294,11 +3618,164 @@
         
 <trnsl class="trnsl20.15" onclick="showSkt(&#39sktvrs20.15&#39)">conch-shells, bass-drums and gongs.</trnsl>
 <br/><br/><trnslsubsubchapter>Space</trnslsubsubchapter>
+
+<br/><br/>
+|<vsnum id="tr20.16">20.16</vsnum>|         
+<trnsl class="trnsl20.16" onclick="showSkt(&#39sktvrs20.16&#39)">Listen, O excellent Brahmin, I shall teach you the element (<SKT>dhātu</SKT>) of space.</trnsl>
+        
+<trnsl class="trnsl20.16" onclick="showSkt(&#39sktvrs20.16&#39)">[Space is present in the following ten bodily locations:] 
+                the anus, the sexual organs, the stomach, the neck, the two ears[?], the mouth, the two
+                                        nostrils,</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.17">20.17</vsnum>|         
+<trnsl class="trnsl20.17" onclick="showSkt(&#39sktvrs20.17&#39)">and the tenth, the [cavity of the] heart. The body originates in space.</trnsl>
+        
+<trnsl class="trnsl20.17" onclick="showSkt(&#39sktvrs20.17&#39)">Next I shall teach you something else. Listen to it, O excellent Brahmin.</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.18">20.18</vsnum>|         
+<trnsl class="trnsl20.18" onclick="showSkt(&#39sktvrs20.18&#39)">Ten element-guṇas (<SKT>dhātuguṇa</SKT>) are to be known for each of the five elements[?] (<SKT>bhūta</SKT>).</trnsl>
+        
+<trnsl class="trnsl20.18" onclick="showSkt(&#39sktvrs20.18&#39)">The qualities of Space are Sound, pervasion and ‘perforatedness’ [being pervaded],</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.19">20.19</vsnum>|         
+<trnsl class="trnsl20.19" onclick="showSkt(&#39sktvrs20.19&#39)">its being supportless, independent and unmanifest, invariableness,</trnsl>
+        
+<trnsl class="trnsl20.19" onclick="showSkt(&#39sktvrs20.19&#39)">not being restrainable, being an element, and ...,  [?].</trnsl>
 <br/><br/><trnslsubchapter>Wind and Touch (19th–18th)</trnslsubchapter>
+
+<br/><br/>
+|<vsnum id="tr20.20">20.20</vsnum>|         
+<trnsl class="trnsl20.20" onclick="showSkt(&#39sktvrs20.20&#39)">The birth of Wind is then from the Space <SKT>dhātu</SKT>.</trnsl>
+        
+<trnsl class="trnsl20.20" onclick="showSkt(&#39sktvrs20.20&#39)">Together with the previous Sound <SKT>guṇa</SKT>, Wind has Touch as its guṇa.</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.21">20.21</vsnum>|         
+<trnsl class="trnsl20.21" onclick="showSkt(&#39sktvrs20.21&#39)">I have already described Sound, listen to Touch, O excellent Brahmin.</trnsl>
+        
+<trnsl class="trnsl20.21" onclick="showSkt(&#39sktvrs20.21&#39)">Hard, smooth, slippery, soft, sticky, sharp, fluid,</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.22">20.22</vsnum>|         
+<trnsl class="trnsl20.22" onclick="showSkt(&#39sktvrs20.22&#39)">rough, rugged, pointed[?], cold, hot: these are [the] twelve [<SKT>vāyuguṇa</SKT>s].</trnsl>
+        
+<trnsl class="trnsl20.22" onclick="showSkt(&#39sktvrs20.22&#39)">It is the body that senses both pleasant and unpleasant touches.</trnsl>
 <br/><br/><trnslsubsubchapter>The vital breaths</trnslsubsubchapter>
+
+<br/><br/>
+|<vsnum id="tr20.23">20.23</vsnum>|         
+<trnsl class="trnsl20.23" onclick="showSkt(&#39sktvrs20.23&#39)">Prāṇa, Apāna, Samāna, Udāna and Vyāna,</trnsl>
+        
+<trnsl class="trnsl20.23" onclick="showSkt(&#39sktvrs20.23&#39)">Nāga, Kūrma, Kr̥kara, Devadatta, Dhanaṁjaya:</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.24">20.24</vsnum>|         
+<trnsl class="trnsl20.24" onclick="showSkt(&#39sktvrs20.24&#39)">These are said to be the ten main Winds, O excellent Brahmin.</trnsl>
+        
+<trnsl class="trnsl20.24" onclick="showSkt(&#39sktvrs20.24&#39)">Dhanaṁjaya is [responsible for] noise, Devadatta [for] yawning,</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.25">20.25</vsnum>|         
+<trnsl class="trnsl20.25" onclick="showSkt(&#39sktvrs20.25&#39)">Kr̥kara constantly causes hunger, Kūrma is [is responsible for] the opening of the eyes.</trnsl>
+        
+<trnsl class="trnsl20.25" onclick="showSkt(&#39sktvrs20.25&#39)">Nāga constantly opens [up things] and nourishes, O Brahmin.</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.26">20.26</vsnum>|         
+<trnsl class="trnsl20.26" onclick="showSkt(&#39sktvrs20.26&#39)">Prāṇa makes living beings inhale and exhale.</trnsl>
+        
+<trnsl class="trnsl20.26" onclick="showSkt(&#39sktvrs20.26&#39)">It is called Prāṇa because it sets [beings] in motion (<SKT>prayāṇaṁ kurute</SKT>).</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.27">20.27</vsnum>|         
+<trnsl class="trnsl20.27" onclick="showSkt(&#39sktvrs20.27&#39)">Apāna takes people’s[?] food down.</trnsl>
+        
+<trnsl class="trnsl20.27" onclick="showSkt(&#39sktvrs20.27&#39)">It gets rid of semen and urine, that is why it is called
+                        Apāna [the ’down and out’ Wind].</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.28">20.28</vsnum>|         
+<trnsl class="trnsl20.28" onclick="showSkt(&#39sktvrs20.28&#39)">The Wind called Samāna brings into equilibrium that which has been drunk,
+                the food that has been eaten, the blood [and the three humours] Pitta,
+                        Kapha and Anila.</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.29">20.29</vsnum>|         
+<trnsl class="trnsl20.29" onclick="showSkt(&#39sktvrs20.29&#39)">The Wind called Udāna causes the lower lip and the mouth to tremble,
+                 it irritates the eyes and the limbs and
+                 it disturbs the vital organs.</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.30">20.30</vsnum>|         
+<trnsl class="trnsl20.30" onclick="showSkt(&#39sktvrs20.30&#39)">Vyāna bends the limbs, [it makes the body] deformed, [it causes] illness and irritaion.</trnsl>
+        
+<trnsl class="trnsl20.30" onclick="showSkt(&#39sktvrs20.30&#39)">It is said to destroy pleasure ... is called Vyāna.</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.31">20.31</vsnum>|         
+<trnsl class="trnsl20.31" onclick="showSkt(&#39sktvrs20.31&#39)">[Everything] concerning the section on the ten Winds has been
+                        taught by me, O excellent Brahmin.</trnsl>
+        
+<trnsl class="trnsl20.31" onclick="showSkt(&#39sktvrs20.31&#39)">[Now] listen as I teach you the ten other <SKT>guṇa</SKT>s of Wind.</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.32">20.32</vsnum>|         
+<trnsl class="trnsl20.32" onclick="showSkt(&#39sktvrs20.32&#39)">The Wind has [these <SKT>guṇa</SKT>s]: unsettledness, touch, presence in speech,
+                        independence,</trnsl>
+        
+<trnsl class="trnsl20.32" onclick="showSkt(&#39sktvrs20.32&#39)">strength, quickness, release, movement and performing actions and existence.</trnsl>
 <br/><br/><trnslsubchapter>Fire and Form (17th-16th)</trnslsubchapter>
+
+<br/><br/>
+|<vsnum id="tr20.33">20.33</vsnum>|         
+<trnsl class="trnsl20.33" onclick="showSkt(&#39sktvrs20.33&#39)">Fire is created by Wind. Its <SKT>guṇa</SKT> is Form.</trnsl>
+        
+<trnsl class="trnsl20.33" onclick="showSkt(&#39sktvrs20.33&#39)">There are three guṇas of Fire together with Sound and Touch.</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.34">20.34</vsnum>|         
+<trnsl class="trnsl20.34" onclick="showSkt(&#39sktvrs20.34&#39)">Sound and Touch have been discussed before, therefore [now] hear about the Form guṇa.</trnsl>
+        
+<trnsl class="trnsl20.34" onclick="showSkt(&#39sktvrs20.34&#39)">Short, tall, minute, gross and circular,</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.35">20.35</vsnum>|         
+<trnsl class="trnsl20.35" onclick="showSkt(&#39sktvrs20.35&#39)">square, ???, triangle and hexagon.</trnsl>
+        
+<trnsl class="trnsl20.35" onclick="showSkt(&#39sktvrs20.35&#39)">Light, dark, red, blue, yellow, brown,</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.36">20.36</vsnum>|         
+<trnsl class="trnsl20.36" onclick="showSkt(&#39sktvrs20.36&#39)">dark-blue, golden, deep-brown: these are the nine colours.</trnsl>
+        
+<trnsl class="trnsl20.36" onclick="showSkt(&#39sktvrs20.36&#39)">The ninefold guṇas of the nine colours make up 81.</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.37">20.37</vsnum>|         
+<trnsl class="trnsl20.37" onclick="showSkt(&#39sktvrs20.37&#39)">I am telling you the ten Fire dhātus, listen and be attentive.</trnsl>
+        
+<trnsl class="trnsl20.37" onclick="showSkt(&#39sktvrs20.37&#39)">Desire, heat, sight, anger, the digestive fire as the fifth,</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.38">20.38</vsnum>|         
+<trnsl class="trnsl20.38" onclick="showSkt(&#39sktvrs20.38&#39)">knowledge, yoga, penance, meditation, the fire of the universe[?] as the tenth.</trnsl>
+        
+<trnsl class="trnsl20.38" onclick="showSkt(&#39sktvrs20.38&#39)">I shall teach you the other ten <SKT>guṇa</SKT>s of Fire, O excellent Brahmin.</trnsl>
+
+<br/><br/>
+|<vsnum id="tr20.39">20.39</vsnum>|         
+<trnsl class="trnsl20.39" onclick="showSkt(&#39sktvrs20.39&#39)">Fire has [the following qualities:] unconquerable, ..., splendour, heat, cooking,
+                        illuminating, purity, passion, lightness, sharpness and the tenth, tending upwards.</trnsl>
 <br/><br/><trnslsubchapter>Water and Taste (15th–14th)</trnslsubchapter>
 <br/><br/><trnslsubchapter>Earth and Smell (13rd–12th)</trnslsubchapter>
+
+<br/><br/>
+|<vsnum id="tr20.54">20.54</vsnum>|         
+<trnsl class="trnsl20.54" onclick="showSkt(&#39sktvrs20.54&#39)">O Brahmin, I have taught you in a complete form the various <SKT>guṇa</SKT>s and <SKT>dhātu</SKT>s 
+                        and [their] origin as I heard it before.</trnsl>
 <br/><br/><trnslsubchapter>Sense capacities and action capacities (11th–2nd)</trnslsubchapter>
 <br/><br/><trnslsubsubchapter>The sense capacity of hearing (11th)</trnslsubsubchapter>
 <br/><br/><trnslsubsubchapter>The sense capacity of touch (10th)</trnslsubsubchapter>
@@ -3310,7 +3787,7 @@
 <br/><br/><trnslsubsubchapter>The action of the anus (4th)</trnslsubsubchapter>
 <br/><br/><trnslsubsubchapter>The action of the sexual organs (3rd)</trnslsubsubchapter>
 <br/><br/><trnslsubsubchapter>The action of speaking (2nd)</trnslsubsubchapter>
-<br/><br/><trnslsubchapter>The mind (1st)</trnslsubchapter>
+<br/><br/><trnslsubchapter>The mind and the non-mind (1st)</trnslsubchapter>
 <br/><br/><trnslsubchapter>The elimination of the mind</trnslsubchapter>
 
 
@@ -3319,15 +3796,47 @@
 <div class="notes" id="notes">
 <h2>Notes</h2>
 
-<br/><br/>|<vsnum id="note20.3">20.3</vsnum>|         <NOTE>Note that the key terms (<SKT>ādi, madhya, anta, sūkṣma</SKT>) in this verse are to be found in verse VSS 1.1ab:
+<br/><br/>|<vsnum id="note20.1">20.1</vsnum>|         <NOTE> This chapter echoes and is partly based on MBh 12.247.1-10 (Mokṣadharma, see
+                        parallel passages in the apparatus):
+                <br/><br/>
+                        <SKT>bhīṣma uvāca |<br/>
+                        bhūtānāṁ guṇasaṁkhyānaṁ bhūyaḥ putra niśāmaya |<br/>
+                        dvaipāyanamukhād bhraṣṭaṁ ślāghayā parayānagha ||</SKT>1<br/>
+                        <SKT>dīptānalanibhaḥ prāha bhagavān dhūmravarcase |<br/>
+                        tato ’ham api vakṣyāmi bhūyaḥ putra nidarśanam ||</SKT>2<br/>
+                        <SKT>bhūmeḥ sthairyaṁ pr̥thutvaṁ ca kāṭhinyaṁ prasavātmatā |<br/>
+                        gandho gurutvaṁ śaktiś ca saṁghātaḥ sthāpanā dhr̥tiḥ ||</SKT>3<br/>
+                        <SKT>apāṁ śaityaṁ rasaḥ kledo dravatvaṁ snehasaumyatā |<br/>
+                        jihvā viṣyandinī caiva bhaumāpyāsravaṇaṁ tathā ||</SKT>4<br/>
+                        <SKT>agner durdharṣatā tejas tāpaḥ pākaḥ prakāśanam |<br/>
+                        śaucaṁ rāgo laghus taikṣṇyaṁ daśamaṁ cordhvabhāgitā ||</SKT>5<br/>
+                        <SKT>vāyor aniyamaḥ sparśo vādasthānaṁ svatantratā |<br/>
+                        balaṁ śaighryaṁ ca mohaś ca ceṣṭā karmakr̥tā bhavaḥ ||</SKT>6<br/>
+                        <SKT>ākāśasya guṇaḥ śabdo vyāpitvaṁ chidratāpi ca |<br/>
+                        anāśrayam anālambam avyaktam avikāritā ||</SKT>7<br/>
+                        <SKT>apratīghātatā caiva bhūtatvaṁ vikr̥tāni ca |<br/>
+                        guṇāḥ pañcāśataṁ proktāḥ pañcabhūtātmabhāvitāḥ ||</SKT>8<br/>
+                        <SKT>calopapattir vyaktiś ca visargaḥ kalpanā kṣamā |<br/>
+                        sad asac cāśutā caiva manaso nava vai guṇāḥ ||</SKT>9<br/>
+                        <SKT>iṣṭāniṣṭavikalpaś ca vyavasāyaḥ samādhitā |<br/>
+                        saṁśayaḥ pratipattiś ca buddhau pañceha ye guṇāḥ ||</SKT>10<br/>
+        </NOTE>
+<br/><br/>|<vsnum id="note20.3">20.3</vsnum>|         <NOTE>Note that the key terms (<SKT>ādi, madhya, anta, sūkṣma</SKT>) in this verse are to be found in VSS 1.1ab:
                 <br/><br/>
                <SKT> anādimadhyāntam anantapāraṁ<br/>
                  susūkṣmam avyaktajagatsusāram</SKT></NOTE>
 <br/><br/>|<vsnum id="note20.5">20.5</vsnum>|         <NOTE>I take <SKT>ajarāmarajaḥ</SKT> in <SKT>pāda</SKT> a as <SKT>ajaro ’maro ’ajaś ca</SKT>.</NOTE>
-<br/><br/>|<vsnum id="note20.8">20.8</vsnum>|         <NOTE>Understand <SKT>caturviṁśati</SKT> as <SKT>caturviṁśaṁ</SKT></NOTE>
-<br/><br/>|<vsnum id="note20.10">20.10</vsnum>|         <NOTE>For my emendation of <SKT>viddhi</SKT> to <SKT>viddhi</SKT>, see <SKT>viddhi</SKT> in 20.12b below.</NOTE>
+<br/><br/>|<vsnum id="note20.8">20.8</vsnum>|         <NOTE>Understand <SKT>caturviṁśati</SKT> as <SKT>caturviṁśaṁ</SKT>.</NOTE>
+<br/><br/>|<vsnum id="note20.10">20.10</vsnum>|         <NOTE>For my emendation of <SKT>vidhi</SKT> to <SKT>viddhi</SKT>, see <SKT>viddhi</SKT> in 20.12b below.</NOTE>
 <br/><br/>|<vsnum id="note20.12">20.12</vsnum>|         <NOTE>Note that from now on in this chapter, <SKT>guṇa</SKT> is used in the sense of the <SKT>tanmātra</SKT> of Sāṁkhya philosophy
         and that the word <SKT>tanmātra</SKT> does not occur in the VSS.</NOTE>
+<br/><br/>|<vsnum id="note20.25">20.25</vsnum>|         <NOTE>Kr̥kara in other texts usually performs sneezing (<SKT>kṣut</SKT>), here
+                it seems that <SKT>kṣudha</SKT>° stands for <SKT>kṣudhā</SKT>° metri causa.</NOTE>
+<br/><br/>|<vsnum id="note20.32">20.32</vsnum>|         <NOTE>While I hesitate to emend this verse to fully correspond to the 
+                        very similar one in the MBh, my translation partly reflects the
+                        latter.</NOTE>
+<br/><br/>|<vsnum id="note20.33">20.33</vsnum>|         <NOTE>Understand <SKT>sr̥jas</SKT> as <SKT>sr̥ṣṭas</SKT> and <SKT>tadrūpaṁ guṇam ucyate</SKT> as <SKT>tadguṇaṁ rūpam ucyate</SKT></NOTE>
+        <NOTE>I understand <SKT>śabdasparśasama jyotis triguṇaṁ</SKT> as <SKT>śabdasparśena saha jyotis triguṇaṁ</SKT>.</NOTE>
 
 
 <br/>

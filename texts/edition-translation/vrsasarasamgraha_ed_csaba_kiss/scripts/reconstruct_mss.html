@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<!--By Csaba Kiss, on 17 Jul 2021-->
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Reconstruct MSS</title>
+</head>
+
+<body>
+
+<style>
+body {
+	background-color: #e66644;
+	width: 100%;
+}
+.leftfield {
+    position: absolute;
+	background-color: #e66644;
+	width: 40%;
+}
+.rightfield {
+    position: absolute;
+	background-color: white;
+	left: 55%;
+	top: 0%;
+	font-size: 120%;
+}
+p {
+	font-size: 80%;
+	padding: 1px;
+    	font-family: 'Strait';
+        font-size: 20px;
+}
+buttn {
+	font-size: 120%;
+	padding: 10px;
+    	font-family: 'Strait';
+	color: black;    	
+	font-weight: bold;
+}
+button {
+        border-radius: 5px;
+}
+h2 {    color: green;
+    	font-family: 'Strait';
+}
+textarea { font-size: 150%; 
+	color: white;
+	background-color: black}
+variant {
+	color: red;
+}
+acceptedReading {
+	color: green;
+}
+emend {
+	color: blue;
+}
+gray {
+	color: gray;
+}
+</style>
+
+
+<!-- START OF DISPLAY -->
+<h1>Reconstruct MSS</h1>
+
+<!-- LEFT SIDE OF THE SCREEN -->
+<div class="leftfield">
+
+<!-- CHOOSE MS -->
+<form id="myForm">
+        <p>Which MS to reconstruct?<br/>
+        <input type="radio"
+               name="mss" 
+               id="ms01"
+               value="#msCa">msCa
+               
+        <input type="radio"
+               name="mss" 
+               id="ms02"
+               value="#msCb">msCb
+
+        <input type="radio"
+               name="mss" 
+               id="ms03"
+               value="#msCc">msCc
+
+        <input type="radio"
+               name="mss" 
+               id="ms04"
+               value="#msNa">msNa
+
+        <input type="radio"
+               name="mss" 
+               id="ms05"
+               value="#msNb">msNb
+
+        <input type="radio"
+               name="mss" 
+               id="ms06"
+               value="#msNc">msNc
+
+        <input type="radio"
+               name="mss" 
+               id="ms07"
+               value="#msP">msP
+
+        <input type="radio"
+               name="mss" 
+               id="ms08"
+               value="#Ed">Ed
+              </p>
+    </form>
+
+
+
+<p>
+Compare MS to the Constituted Text?
+	<input type="checkbox" id="constitutedText" name="textusconstituted" value="yes"/>
+</p>
+
+<p>
+Devanāgarī output?
+	<input type="checkbox" id="dnCheckbox" name="dnCheckbox" value="yes"/>
+</p>
+
+<form id="myAntePostForm">
+        Choose (to see only <i>ac</i> or <i>pc</i> variants):
+
+        <br/>
+        <input type="radio"
+               name="antepost" 
+               id="ac">only <i>ante correctionem</i> forms (highlighted when differ from const. text)
+        <br/>
+        <input type="radio"
+               name="antepost" 
+               id="pc">only <i>post correctionem</i> forms (highlighted when differ from const. text)
+        <br/>
+        <input type="radio"
+               name="antepost" 
+               id="neither">neither (default; all normal variants + first variant entry when both <i>ac</i> and <i>pc</i> have been rejected)
+</form>
+
+
+
+
+<p>Experiment with the text in the window below (first choose a siglum above!), or clear window and paste your text into it and click 'Process':</p>
+
+<p>
+	<button id="Process" name="submit1"><buttn>Process</buttn></button>
+</p>
+
+
+
+
+<!-- SAMPLE TEXT IN TEXTAREA START--> 
+
+<textarea id="textinput" type="text" name="text" rows="30" cols="150" spellcheck="false" placeholder="">
+
+<startchapter-n="1"/> 
+
+<NOTANUSTUBH/> upajāti
+<TEXT> anādimadhyāntam{ }anantapāraṃ</TEXT>   
+        <APP>\va <LEM>°ntam{ }ananta°</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; °ntam{ }anta° \msCbacorr\oo
+                 <LEM>°pāraṃ</LEM> \mssCaCbCc\msNc\Ed; °pāragaṃ \msNa\msNb</APP>
+
+<TEXT> susūkṣmam{ }avyaktajagatsusāram|</TEXT>
+        <APP>\vb <LEM>susūkṣma°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; śusukṣma° \msCc\oo
+                 <LEM>°jagatsusāram</LEM> \msCa\msCb\msNa\msNc\Ed; °jagaśusāraṃ \msCc, °jagatsurāsuraṃ \msNb</APP>
+
+<TEXT> harīndrabrahmādibhir{ }āptam{ }agraṃ</TEXT>
+        <APP>\vc <LEM>°bhir{ }āpta°</LEM> \conj; °bhir{ }āsa° \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
+
+<TEXT> praṇamya vakṣye vṛṣasārasaṃgraham||</TEXT> 1.1
+
+<SUBCHAPTER>janamejayavaiśampāyanasaṃvādaḥ</SUBCHAPTER>
+
+<ANUSTUBH/>
+%1.2
+<TEXT> śatasāhasrikaṃ granthaṃ sahasrādhyāyam{ }uttamam|</TEXT>
+        <APP>\vb <LEM>sahasrādhyāyam{ }u°</LEM> \msCa\msCb\msNa\msNb\msNc; sahaśradhyāyam{ }u° \msCc,
+                                                        sahasrādhyāyar{ }u° \Ed</APP>
+
+
+<TEXT> parva cāsya śataṃ pūrṇaṃ śrutvā bhāratasaṃhitām||</TEXT> 1.2
+
+        <APP>\vc <LEM>parva cāsya</LEM> \msCa\msNa\msNb\msNc; parvañ{ }cāsya \msCb, parvvam{ }asya \msCc\Ed\oo
+                 <LEM>śataṃ pūrṇaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; ta \msCc</APP>
+        <APP>\vd <LEM>śrutvā</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; śraddhā \msCb\oo
+                 <LEM>bhāratasaṃhitām</LEM> \msCa\msCb\msNa\msNb\msNc; bhārasaṃhitā \msCc, nārādasaṃhitām \Ed</APP>
+        
+
+
+<ANUSTUBH/>
+% vipulā
+%1.3
+<TEXT> atṛptaḥ puna papraccha vaiśampāyanam{ }eva hi|</TEXT>
+        <APP>\va <LEM>atṛptaḥ puna papraccha</LEM> \eme;
+                a<UNCL>tṛptaḥ</UNCL>pu¤¤praccha \msCa, 
+                atṛptaḥ punaḥ papraccha \msCb\msNa\msNb\msNc,
+                atṛptaḥ punar{ }apracche \msCc,
+                atṛptā punaḥ papraccha \Ed</APP> 
+        <APP>\vb <LEM>vaiśampāyana°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; vesampāyana° \msCc</APP>
+ 
+
+<TEXT> janamejaya yat{ }pūrvaṃ tac{ }chṛṇu tvam{ }atandritaḥ||</TEXT> 1.3
+        <APP>\vc <LEM>janamejaya yat</LEM> \eme;
+                  janamejayena yat \msCapcorr\msCb\msNa\msNb\msNc\Ed,
+                  janamejaye yat \msCaacorr,
+                  janmejayena yam \msCc\oo
+                 <LEM>pūrvaṃ</LEM> \mssCaCbCc\msNc\Ed; pūrva \msNa, pūr<UNCL>va</UNCL> \msNb</APP>
+          <APP>\vd <LEM>tac{ }chṛṇu</LEM> \msCa\msCb\msNa\msNc\Ed; tac{ }chṛṇa \msCc, ××× \msNb\oo
+                   <LEM>°tandritaḥ</LEM> \msCc; °tandritam \msCa\msCb\msNc\Ed, °tandri<UNCL>tam</UNCL> \msNa, ××× \msNb</APP>
+                        %\msCc chruṇa ... atandritaḥ CHECK
+
+
+<TEXT> janamejaya uvāca|*</TEXT>
+        <APP>\vo <LEM>janamejaya</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; janmejaya \msCc</APP>
+
+<TEXT> bhagavan{ }sarvadharmajña sarvaśāstraviśārada|</TEXT>
+       <APP>\va <LEM>bhagavan{ }sa°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; bhacāvaṃ sa° \msCc\oo
+                <LEM>°dharma°</LEM> \mssCaCbCc\msNb\msNc\Ed; \om\ \msNa</APP>
+       <APP>\vb <LEM>°viśārada</LEM> \msCa\msNb\msNc; °visāradaḥ \msCb\msCc\msNa\Ed</APP>
+
+<TEXT> asti dharmaṃ paraṃ guhyaṃ saṃsārārṇavatāraṇam||</TEXT> 1.4
+        <APP>\vd <LEM>dharmaṃ</LEM> \msCa\msNa\msNb\msNc\Ed; dharmaḥ \msCb, dharma \msCc\oo
+                 <LEM>paraṃ guhyaṃ</LEM> \msCa\msNb\Ed; paro guhya \msCb, paraṃ guhya \msCc\msNa, paraguhyaṃ \msNc</APP>
+
+<TEXT> dvaipāyanamukhodgīrṇaṃ dharmaṃ yat{ }tad{ }dvijottama|</TEXT>
+        <APP>\va <LEM>dvaipāyana°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; dvepāyana° \msCc\oo
+                 <LEM>°mukhodgīrṇaṃ</LEM> \msCa\msCb\msNa\msNb\msNc; °mukhodgīrṇa \msCc, mukhād{ }gīrṇaṃ \Ed</APP>
+         <APP>\vb <LEM>dharmaṃ yat{ }tad{ }dvi°</LEM> \msCb; dharmaṃ vā yad{ }dvi° \msCa\msNa\msNb\msNc\Ed, 
+                                                                dharmavat{ }ya dvi° \msCc\oo 
+                  <LEM>°ttama</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °ttamaḥ \msCc</APP>  
+
+<TEXT> kathayasva hi me tṛptiṃ kuru yatnāt{ }tapodhana||</TEXT> 1.5
+        <APP>\vd <LEM>yatnāt{ }tapodhana</LEM> \msCb\msNa\msNb\msNc\Ed; yannāt{ }ta¤¤na \msCa,
+                                                        yatnā tapodhanaḥ \msCc</APP>
+
+<TEXT> vaiśampāyana uvāca|*</TEXT>
+
+<TEXT> śṛṇu rājann{ }avahito dharmākhyānam{ }anuttamam|</TEXT>
+        <APP>\vb <LEM>°khyānam{ }anuttamam</LEM> \msCa\msNa\msNb\msNc\Ed; °khyānam{ }uttamam \msCb,
+                                               °khyānam{ }utamam \msCc</APP>
+
+<TEXT> vyāsānugrahasamprāptaṃ guhyadharmaṃ śṛṇotu me||</TEXT> 1.6
+        <APP>\vc <LEM>°prāptaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °prāpta \msCc</APP>
+        <APP>\vd <LEM>°dharmaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °rmaṃ \msCc\oo
+                 <LEM>śṛṇotu</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; śṛṇota \msCc\oo
+                 <LEM>me</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; mai \msCb</APP>
+
+<TEXT> anarthayajñakartāraṃ tapovrataparāyaṇam|</TEXT>
+        <APP>\va <LEM>°kartāraṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; °karttantaṃ \msNb</APP>
+        <APP>\vb <LEM>°yaṇam</LEM> \msCa\msCb\msNb\msNc\Ed; °yana \msCc, °yaṇaḥ \msNa</APP>
+
+<TEXT> śīlaśaucasamācāraṃ sarvabhūtadayāparam||</TEXT> 1.7
+        <APP>\vd <LEM>°param</LEM> \msCa\msCb\msNa\msNc\Ed; °nvitam \msCc, °<UNCL>pa</UNCL>raṃ \msNb</APP>
+
+<TEXT> jijñāsanārthaṃ praśnaikaṃ viṣṇunā prabhaviṣṇunā|</TEXT>
+        <APP>\va <LEM>°rthaṃ praśnaikaṃ</LEM> \msCb\msNa\msNb\msNc; °rthaṃ praśnekaṃ \msCa, 
+                                        °rthapraśnekam \msCc\Ed</APP>
+        <APP>\vb <LEM>prabha°</LEM> \msCa\msCb\msNa\msNb\Ed; prabhu° \msCc, prābha° \msNc</APP>
+
+<TEXT> dvijarūpadharo bhūtvā papraccha vinayānvitaḥ||</TEXT> 1.8
+        <APP>\vc <LEM>°dharo</LEM> \msCb\msCc\msNa\msNc\Ed; °¤ro \msCa, °dharā \msNb</APP>
+        <APP>\vd <LEM>°nvitaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °nvitaṃ \msCc</APP>
+
+<SUBCHAPTER>brahmavidyā</SUBCHAPTER>
+<TRSUBCHAPTER>The knowledge of Brahman</TRSUBCHAPTER>
+<TEXT> [vigatarāga uvāca|*]</TEXT>
+
+<TEXT> brahmavidyā kathaṃ jñeyā rūpavarṇavivarjitā|</TEXT>
+        <APP>\va <LEM>jñeyā</LEM> \msCa\msNa\msNb\msNc; jñeyaṃ \msCb\msCc, bhūyo \Ed</APP>
+        <APP>\vb <LEM>°varṇa°</LEM> \mssCaCbCc\msNa\msNb\msNc; °varṇā° \Ed\oo
+                 <LEM>°varjitā</LEM>  \msCa\msCb\msNa\msNb\Ed; °varjitaṃ \msCc, °varjitāḥ \msNc</APP>
+
+<TEXT> svaravyañjananirmuktam{ }akṣaraṃ kimu tat{ }param||</TEXT> 1.9
+        <APP>\vc <LEM>°vyañjana°</LEM> \mssCaCbCc\msNa\msNb\msNc; °vyajjana° \Ed\oo
+                 <LEM>°muktam{ }akṣa°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °mukta akṣa° \msCb</APP>
+        <APP>\vd <LEM>kimu tat{ }param</LEM> \msCa\msNa\msNc\Ed; kim{ }ataḥ param \msCb\msCc, kim{ }atat{ }paraṃ \msNb</APP>
+
+<TEXT> anarthayajña uvāca|*</TEXT>
+
+<TEXT> anuccāryam{ }asandigdham{ }avicchinnam{ }anākulam|</TEXT>
+        <APP>\va <LEM>°ccārya°</LEM> \msCa\msCb\msNa\msNb\Ed; °cārya° \msCc\msNc</APP>
+        <APP>\vab <LEM>°sandigdham{ }avicchinnam{ }anākulam</LEM> \msCa\msCb\msNa\msNc\Ed;
+                                °vicchinnasandigdham{ }anākuna \msCc, °sandigdha\-m{ }anacchinnam{ }anākulam \msNb</APP>
+
+<TEXT> nirmalaṃ sarvagaṃ sūkṣmam{ }akṣaraṃ kimu tatparam||</TEXT> 1.10
+        <APP>\vd <LEM>kimu tatparam</LEM> \msCa\msNa\msNb\msNc\Ed; kim{ }ataḥ param \msCb,
+                                                kim{ }atatparaṃ \msCc</APP>
+
+
+<SUBCHAPTER>kālapāśaḥ</SUBCHAPTER>
+<TEXT> vigatarāga uvāca|*</TEXT>
+
+<TEXT> dehī dehe kṣayaṃ yāte bhūjalāgniśivādibhiḥ|</TEXT>
+        <APP>\va <LEM>dehe kṣa°</LEM> \msCa\msCc\msNc; dehāt{ }kṣa° \msCb, dehakṣa° \msNa\msNb\Ed</APP>
+        <APP>\vb <LEM>°śivādibhiḥ</LEM>  \msCa\msCb\msNa\msNb\msNc\Ed; °śivādibhi \msCc</APP>
+
+<TEXT> yamadūtaiḥ kathaṃ nīto nirālambo nirañjanaḥ||</TEXT> 1.11
+        <APP>\vc <LEM>°dūtaiḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °dūte \msCc\oo
+                 <LEM>nīto</LEM> \msCa\msCb\msNa\msNb\msNc; nītvā \msCc, nītā \Ed</APP>
+        <APP>\vd <LEM>nirañjanaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; nirañjana \msCc</APP>
+
+<TEXT> kālapāśaiḥ kathaṃ baddho nirdehaś{ }ca kathaṃ vrajet|</TEXT>
+        <APP>\va <LEM>°pāśaiḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °pāśe \msCc\oo
+                 <LEM>baddho</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; ba<UNCL>ddho</UNCL> \msCb</APP>
+        <APP>\vb <LEM>nirdehaś{ }ca</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; nirdahaḥ sa \msCc\oo
+                 <LEM>vrajet</LEM> \mssCaCbCc\msNa\msNc\Ed; bhavet \msNb</APP>
+
+<TEXT> svargaṃ vā sa kathaṃ yāti nirdeho bahudharmakṛt|</TEXT>
+        <APP>\vc <LEM>svargaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; svarga \msCc\oo
+                 <LEM>sa</LEM> \mssCaCbCc\msNa\msNc\Ed; saṃ \msNb\oo
+                 <LEM>yāti</LEM> \msNa\msNb\msNc; yānti \mssCaCbCc\Ed</APP>
+<TEXT> etan{ }me saṃśayaṃ brūhi jñātum{ }icchāmi tattvataḥ||</TEXT> 1.12
+        <APP>\ve <LEM>saṃśayaṃ</LEM> \mssCaCbCc\msNc\Ed; saṃśaye \msNa, saṃśayo \msNb</APP>
+        <APP>\vf <LEM>°tum{ }icchāmi</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °tum{ }i \msCb</APP>
+
+<TEXT> anarthayajña uvāca|*</TEXT>
+        <APP>\vo <LEM>anarthayajña uvāca</LEM> \mssCaCbCc\msNapcorr\msNb\msNc\Ed; \om\ \msNaacorr</APP>
+        
+<TEXT> atisaṃśayakaṣṭaṃ te pṛṣṭo 'haṃ dvijasattama|</TEXT>
+        <APP>\va <LEM>atisaṃśayakaṣṭaṃ te</LEM> \msCb\msNa\msNb\msNc;
+                atiśaṃsa<UNCL>ya</UNCL>kaṣṭan{ }te \msCa, atiśaṃsayakaṣṭam{ }me \msCc\Ed</APP>
+        <APP>\vb <LEM>dvijasattama</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; ca dvijottamaḥ \msCc</APP>
+
+<TEXT> durvijñeyaṃ manuṣyais{ }tu devadānavapannagaiḥ||</TEXT> 1.13
+        <APP>\vc <LEM>°jñeyaṃ</LEM> \msCa\msCb\msNa\msNc; °jñeya \msCc\msNb\Ed\oo
+                 <LEM>manuṣyais{ }tu</LEM> \msCa\msNa\msNb\msNc\Ed; manuṣaiś{ }ca \msCb, maṇukṣe<UNCL>ptu</UNCL> \msCc</APP>
+
+<TEXT> karmahetuḥ śarīrasya utpattir{ }nidhanaṃ ca yat|</TEXT>
+        <APP>\va <LEM>karma°</LEM> \msCa\msCb\msNa\msNb\msNc; anarthayajña uvāca|| karma° \msCc\Ed\oo
+                 <LEM>°hetuḥ</LEM> \msCb; °hetu \msCa\msNa\msNb\msNc\Ed, °heṃtu \msCc\oo
+                 <LEM>śarīrasya</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; śarīrasyaṃ \msCc</APP>
+        <APP>\vb <LEM>utpattir{ }ni°</LEM> \corr; utpattini° \msCa\msCb\msNa\msNb\msNc\Ed, utpatini° \msCc\oo
+                 <LEM>yat</LEM> \mssCaCbCc\msNa\msNc\Ed; yaḥ \msNb</APP>
+        
+<TEXT> sukṛtaṃ duṣkṛtaṃ caiva pāśadvayam{ }udāhṛtam||</TEXT> 1.14
+        <APP>\vc <LEM>sukṛtaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; sukṛtakṛtan \msCc</APP>
+        <APP>\vd <LEM>°hṛtam</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °hṛtaḥ \msCc</APP> 
+
+<TEXT> tenaiva saha saṃyāti narakaṃ svargam{ }eva vā|</TEXT>
+        <APP>\va <LEM>tenaiva</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; teneva \msCc\oo
+                 <LEM>saṃyāti</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; sā yānti \msCc</APP>
+        <APP>\vb <LEM>vā</LEM> \mssCaCbCc\msNb\msNc\Ed; ca \msNa</APP>
+
+<TEXT> sukhaduḥkhaṃ śarīreṇa bhoktavyaṃ karmasambhavam||</TEXT> 1.15
+        <APP>\vc <LEM>°duḥkhaṃ</LEM> \msCa\msCb\msNa\msNc; °duḥkha \msCc\msNb\Ed</APP>
+        <APP>\vd <LEM>°sambhavam</LEM> \msCa\msCb\msNa\msNb\msNc; °sambhavaḥ \msCc\Ed</APP>
+
+% \msCa f.194r 383.jpg
+<TEXT> hetunānena viprendra dehaḥ sambhavate nṛṇām|</TEXT>
+        <APP>\va <LEM>°ndra</LEM> \mssCaCbCc\msNa\msNc\Ed; °ndraḥ \msNb</APP>
+        <APP>\vb <LEM>dehaḥ</LEM> \msCa\msCb\msNa\msNc\Ed; dehe \msCc, deha \msNb\oo
+                 <LEM>nṛṇām</LEM> \msCa\msNa\msNb\msNc\Ed; nṛṇā \msCb\msCc</APP>
+
+% \msNc\ 212.jpg lower f.210r
+<TEXT> yaṃ kālapāśam{ }ity{ }āhuḥ śṛṇu vakṣyāmi suvrata||</TEXT> 1.16
+        <APP>\vc <LEM>yaṃ kālapāśam{ }ity{ }āhuḥ</LEM> \eme; yaṃ kālapāśam{ }ity{ }āha \msCa\msCb\msNa, 
+                kālapāseti satvāha \msCc, yaṃ kālapāśam{ }ity{ }āhu \msNb\msNc,
+                                        yaṃ kālapāśam{ }ity{ }āhu \Ed</APP>
+        <APP>\vd <LEM>°vrata</LEM> \msCa\msNa\msNb\msNc\Ed; °vrataḥ \msCb\msCc</APP>
+
+<TEXT> na tvayā viditaṃ kiñcij{ }jijñāsyasi kathaṃ dvija|</TEXT>
+        <APP>\va <LEM>viditaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; vidita \msCc</APP>
+        <APP>\vab <LEM>kiñcij{ }ji°</LEM> \msCb; kiñcid{ }vi° \msCapcorr\msNa\msNb\msNc\Ed, kid{ }vi° \msCaacorr, 
+                                                        kiñci ji° \msCc</APP>
+        <APP>\vb <LEM>kathaṃ dvija</LEM> \msCa\msCb\msNa\msNb\msNc\Ed;
+                                        ¤¤¤¤¤¤¤¤¤ <UNCL>ma tvayā viditaṃ kiñcid{ }vijñāsyasi</UNCL> 
+                                        \cancelled\ kathaṃ dvija \msCc</APP>
+
+<TEXT> kālapāśaṃ ca viprendra sakalaṃ vettum{ }arhasi||</TEXT> 1.17
+        <APP>\vd <LEM>vettum{ }arhasi</LEM> \mssCaCbCc\msNa\msNb; vettum{ }ūhasi \msNc, vaktum{ }arhasi \Ed</APP>
+
+<TEXT> kalākalitakālaṃ ca kālatattvakalāṃ śṛṇu|</TEXT>
+        <APP>\va <LEM>kalā°</LEM> \msCa\msCb\msNapcorr\msNb\msNc\Ed; kālā° \msCc\msNaacorr\oo
+                 <LEM>°kālaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; °kālaś \Ed</APP>
+        <APP>\vb <LEM>°kalāṃ</LEM> \msCa\msCc\msNb\Ed; °kalā \msCb\msNc, °vidhiṃ \msNa</APP>
+
+<TEXT> truṭidvayaṃ nimeṣas{ }tu nimeṣadviguṇā kalā||</TEXT> 1.18
+        <APP>\vc <LEM>truṭidvayaṃ</LEM> \msCa\msCc\msNc\Ed; tuṭidvaya \msCb\msNb, tuṭidvayaṃ \msNa\oo
+                 <LEM>°meṣas{ }tu</LEM> \msCb\msCc\msNb\msNc\Ed; °mevas{ }tu \msCa, °meṣadvi° \msNa</APP>
+
+<TEXT> kalādviguṇitā kāṣṭhā kāṣṭhā vai triṃśatiḥ kalā|</TEXT>
+        <APP>\vb <LEM>kāṣṭhā vai triṃśatiḥ</LEM> \msCa\msNa\msNb\msNc\Ed; vai triṃśatā \msCb, kāṣṭhā vai triṃśati \msCc</APP>
+
+<TEXT> triṃśatkalā muhūrtaś{ }ca mānuṣena dvijottama||</TEXT> 1.19
+        <APP>\vc <LEM>muhūrtaś{ }ca</LEM> \msCa\msCc\msNa\msNb\msNc; muhūrtta \msCb, muhūrtañ{ }ca \Ed</APP>
+        <APP>\vd <LEM>mānuṣena</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; mānu<UNCL>ṣaś{ }ca</UNCL> \msCc\oo
+                 <LEM>°ttama</LEM> \mssCaCbCc\msNa\msNcpcorr\Ed; °tamaḥ \msNb, °ttamaḥ \msNc</APP>
+</textarea>
+
+<!-- SAMPLE TEXT IN TEXTAREA END--> 
+
+
+<p>
+	(Javascript programming by Csaba Kiss)
+</p>
+
+</div> 
+<!-- END OF LEFT SIDE OF SCREEN -->
+
+
+<!-- RESULTS DISPLAY ON THE RIGHT-->
+<div class="rightfield">
+	
+<p>
+	<button id="clipboard" name="submit5"><buttn>Copy results to clipboard</buttn></button>
+	<button id="clear" name="submitClear"><buttn>Clear results</buttn></button>
+</p>
+
+<p>
+Color code:
+<br/>
+text corresponding to both the critically edited text and the witness
+<br/>
+<gray>the same as above in witness when witness is compared to critical edition</gray>
+<br/>
+<emend>an emendation/correction/conjecture in the critically constituted text</emend>
+<br/>
+<acceptedReading>a reading in the critically constituted text supported by at least one witness</acceptedReading>
+<br/>
+<variant>a reading in the witness that differs from the critically constituted text</variant>
+
+<!--THE AREA FOR THE RESULTS -->
+	<span id="rightfield"></rightfield>
+
+
+</div>
+
+
+<!-- JAVASCRIPT MAIN CODE -->
+<script type="text/javascript" src="iast2devanagari.js"></script>
+
+<script>
+"use strict";
+
+// for Devanagari
+let splitIntoLetters = [];  
+
+function getMs2Reconst() {
+	// determine which MS to reconstruct: which box is checked?
+	let mssButtons = document.getElementsByName('mss');
+	for (let i = 0, length = mssButtons.length; i < length; i++) {
+  		if (mssButtons[i].checked) {
+			return mssButtons[i].value;
+  	          	// only one radio button can be logically checked, don't check the rest
+    		  	break;
+	  	}
+	}
+	// if none of them are checked, there is a warning
+   	alert("Please choose one of the " + mssButtons.length + " sigla at the top");
+  	   	return "";
+}
+
+
+function checkIfOutputIsDevanagari(textLine, varLine) {
+			// do we want Devanāgarī output?
+	   		// if Devanāgarī option is checked
+			if (isResultToBeInDevanagari()) {
+				textLine = changeIastLettersToDevanagari(textLine);
+				varLine = changeIastLettersToDevanagari(varLine);
+			}
+
+                         // delete stuff that was inserted for halant consonants anyway
+			return [textLine.replace(/ ?\[ \] ?/g, ''), varLine.replace(/ ?\[ \] ?/g, '')];
+}
+
+function addPrevLineToResult(result, textLine, storeLine, varLine) {
+			// if there are no variants; at the first instance both are "";   
+			if (storeLine === varLine) { 
+			
+				// we want Devanāgarī output?
+				let textVarLine = checkIfOutputIsDevanagari(textLine, varLine);
+				textLine = textVarLine[0];
+				varLine = textVarLine[1];
+		   		// 'write out' to result the PREVIOUS line of the critical text (no variants here!)
+				// and it will print an emptyish line: this is the 0th line, so to say
+				result = result + "&nbsp;" + varLine + "<br/>";
+			}	
+	
+			// if there ARE variants
+			else { 			
+				// we want Devanāgarī output?
+				let textVarLine = checkIfOutputIsDevanagari(textLine, varLine);
+				textLine = textVarLine[0];
+				varLine = textVarLine[1];
+
+				// if constituted text is also to be displayed
+			        if (constitutedChecked() && textLine !== "") {
+		           	// both the constituted TEXT line and the corresponding MS reading are written out		
+		                result = result + "&nbsp;" + textLine.replace(/[\n\r]+/g, ' ') + 
+        	           		" <acceptedReading>[in: crit. ed.]</acceptedReading><br/>" + "-" + 
+        	           		varLine + "<variant> [in: " +  getMs2Reconst() + 
+        	           		antePostCorrNeeded() + "]</variant><br/>";
+			   }	
+		           else {
+	             	        // only the MS reading is written out		
+		           	result = result + "&nbsp;" + varLine + "<br/>";
+		           	}
+		           }
+		           return result;	
+
+}
+
+function getLemmaWitnesses(thisappArray_thsapp) {
+        		let lemmaWitnesses = '';
+        		if (thisappArray_thsapp.includes('<LEM>')) {
+				lemmaWitnesses = thisappArray_thsapp.split(/.*\<\/LEM\>/).join("");
+				lemmaWitnesses = lemmaWitnesses.split(/;.*/).join("");
+				lemmaWitnesses = lemmaWitnesses.replace(/\\eme/g, '\\em');
+				lemmaWitnesses = lemmaWitnesses.split('\\').join(" #").trim();	
+			}
+			return lemmaWitnesses;
+}
+
+function extractLemma(thisappArray_thsapp) {
+			let lemma = ''
+			lemma = thisappArray_thsapp.split(/.*\<LEM\>/).join("");
+			lemma = lemma.split(/\<\/LEM\>.*/).join("");
+			lemma = lemma.split('{ }').join(" ");
+			lemma = lemma.split('°').join("");						
+			lemma = lemma.trim();	
+			return lemma;
+}
+
+
+function getVariants(thisappArray_thsapp) {
+			let variants = thisappArray_thsapp.split(/.*;/).join();
+			// cosmetics
+			variants = variants.split('</APP>').join("");
+			variants = variants.split(/\<EYESKIP\>.*\<\/EYESKIP\>/).join("");
+			variants = variants.split('<UNCL>').join("≀");
+			variants = variants.split('</UNCL>').join("≀");
+			variants = variants.replace(/\\omits\\?/g, '---');
+			variants = variants.replace(/\\om\\?/g, '---');
+			variants = variants.replace(/\\\s/g, ' ');
+			variants = variants.replace(/Ł/g, '');
+			variants = variants.replace(/\$/g, '');
+			variants = variants.replace(/°/g, '');
+			variants = variants.split('{ }').join(" ");
+			// split them into separate entries
+			variants = variants.split(',');
+			return variants;
+}
+
+
+function markAsAcceptedReading(textLine, offsetMainLine, lemma){
+	       	  			textLine = textLine.slice(0,offsetMainLine) +
+	       	  				 textLine.slice(offsetMainLine).replace(lemma, 
+	       	  				 "<acceptedReading>" + lemma + " [ ]</acceptedReading>");  			
+					return textLine;
+}
+
+function markAsEmendation(offsetMainLine, textLine, lemma, appPada) {
+					  if (offsetMainLine === 0){
+		 	       	  		textLine = textLine.replace(lemma, 
+		 	       	  			"<emend>" + lemma + " [ ]</emend>");  
+					   }
+					   // if there is more than one instance of the lemma in the line
+					   else {
+						   
+						   if (appPada === "b" || appPada === "d" || appPada === "f"){
+		       	  				  textLine = textLine.slice(0,offsetMainLine) +
+		       	  				 textLine.slice(offsetMainLine).replace(lemma, "<emend>" + 
+		       	  				 lemma + " [ ]</emend>");
+		       	  			  	}
+		       	  			  	
+		       	  			   else {
+		       	  				 textLine = textLine.slice(0,offsetMainLine).replace(lemma, 
+		       	  				"<emend>" +
+		       	  				lemma + " [ ]</emend>") + 
+		       	  				textLine.slice(offsetMainLine);		   
+		       	  			   	}
+				  		 }
+				  		return textLine;
+}
+
+
+function isResultToBeInDevanagari() {return document.getElementById("dnCheckbox").checked === true;}
+
+function textCosmetics(currentLine) {
+        	// delete <TEXT> tags (+ perhaps space)
+        	let newText = currentLine.replace(/\<TEXT\> ?/g, '');
+        	// sandhi stuff
+        	newText = newText.replace(/{ }/g, ' ');
+                if (isResultToBeInDevanagari()) {
+                        newText = newText.replace(/{-}/g, "");
+                }
+                else {
+                        newText = newText.replace(/{-}/g, "-");
+                }
+                // delete </TEXT> and stuff after it
+        	newText = newText.replace(/\<\/TEXT\>.*/g, "");
+        	// delete * (in uvaca lines)
+        	newText = newText.replace(/\*/g, "");
+        return newText;
+
+}
+
+
+function antePostCorrNeeded() {
+	// checking checkboxes: ante and post correctionem stuff only?
+	if (document.getElementById("ac").checked === true) {
+	   	return "ac";
+   		}
+	if (document.getElementById("pc").checked === true) {
+	   	return "pc";
+   		}
+   	// this is the default, see above
+	if (document.getElementById("neither").checked === true) {
+	   	return "";
+  		}
+  	return "";
+}
+
+function constitutedChecked() {
+		if (document.getElementById("constitutedText").checked === true) {return true;}
+   		else {return false;}
+   	}
+
+	
+function determinePadaSign(line) {
+        		let padaSigns = {"\\va ": "a", "\\vb ": "b", "\\vc ": "c", "\\vd ": "d", "\\ve ": "e", 
+        				"\\vf ": "f", "\\vab ": "ab", "\\vcd ": "cd", "\\vef ": "ef", "\\vo ": ""}
+        		for (var p in padaSigns) {
+	        		if (line.includes(p)) {
+        				return padaSigns[p];		        		
+	        		}
+	        	}
+                                return "";
+	
+	        }
+
+
+function splitVariantsIntoVarAndSigla(line) {
+		        	 let variantSplit = line.trim().split(" \\").join("#"); 
+		        	 variantSplit = variantSplit.split("#"); 
+		        	 variantSplit[1] = "#" + variantSplit[1]
+		        	 variantSplit[1] = variantSplit[1].split("\\").join("#"); 				 
+		        	 variantSplit[1] = variantSplit[1].split("mssCaCbCc").join("msCa#msCb#msCc"); 		        
+				 return variantSplit;	                
+	}
+
+
+
+// main function when Process button is clicked on
+function process() {  
+	let result = "";
+	if (getMs2Reconst() === ""){return;}
+   	result = result + "<h1>Reconstructing " + getMs2Reconst() + "</h1>";
+	let dnOutput = isResultToBeInDevanagari();
+	let antePostCorr = antePostCorrNeeded();	
+	// adding '\n\n' in order to be able to print out last line 
+	// (lines get printed out after finding the beginning of the next line)
+	let inputtext = textinput.value + '\n\n';	
+	let inputTextArray = inputtext.split("\n");
+	// variables
+  	let textFlagOn = false;
+  	let appFlagOn  = false;
+	let finishedSloka = false;
+	let thisIsFirstAppHere = true;
+	let storeLine = "";
+	let textLine = "";
+	let varLine = "";
+  	let newText = "";
+	let ending = "";
+	let thisapp = "";
+	let thisappArray = [];
+	let appPada = "";
+	let lemma = "";
+	let lemmaWitnesses = "";
+	let variants = "";
+	let witOrEmendation = "witness";
+	let variantSplit = "";
+        let offset = 0;
+        let offsetMainLine = 0;                   
+        let chNum = 1;
+	let vsNum = 1;
+
+
+
+// go through text line by line
+for (let currentLineNum = 0; currentLineNum < inputTextArray.length; currentLineNum++) {
+        
+		// A new chapter starts here?
+                if (inputTextArray[currentLineNum].includes('<startchapter-n="')) {
+	        		chNum = inputTextArray[currentLineNum].replace(/.*startchapter-n=\"/, "").split(/\".*/).join("");
+        			vsNum = 1;
+        			continue;
+        	}
+
+		// Are we ready to print out to 'result' the previous line?
+		// The second part of OR is needed to print out the last <TEXT> line + apparatus
+		// if there is no STOP.
+        	if (inputTextArray[currentLineNum].includes("<TEXT>") || 
+           	     inputTextArray[currentLineNum].includes("<STOP/>") ||
+        	      currentLineNum === inputTextArray.length - 1) {
+        			  textFlagOn = true; 
+				  thisIsFirstAppHere = true;
+				  // let's print out the previous line of MS or 
+				  // that one plus first a corresp. line of const. text
+				  result = addPrevLineToResult(result, textLine, storeLine, varLine);	
+				  // clear current text line
+				  textLine = "";
+	        	   	  // if previously sloka was finished, i.e. we start a new one
+	        		  if (finishedSloka === true) {vsNum += 1; finishedSloka = false;}
+ 	                     	  // if this is the last line of the sloka, add verse numbers to current line
+	                     	  // it's here because we don't want the verse number ending in an APP LINE e.g. 
+	                     	  if (inputTextArray[currentLineNum].includes("||")) {
+	                     		ending = " ||" + chNum.toString() + "." + vsNum.toString() + "||";
+	        			inputTextArray[currentLineNum] = inputTextArray[currentLineNum].split("||").join(ending);
+	        			finishedSloka = true;
+	        		   }
+	        } 
+        	// Here are the changes to that TEXT line (cosmetics)
+        	newText = textCosmetics(inputTextArray[currentLineNum]);
+        	if (textFlagOn) {
+	        	textLine += newText;
+   			storeLine = newText;
+	        	varLine = storeLine;
+		}
+        	if (inputTextArray[currentLineNum].includes("</TEXT>")) {
+	        	textFlagOn = false;
+	       	}
+ 
+  
+  		  // APPARATUS
+        	  if (inputTextArray[currentLineNum].includes("<APP>")) {	
+	     		appFlagOn = true;
+	     		if (thisIsFirstAppHere) {varLine = storeLine;}
+		   }
+		   // collect apparatus lines
+          	   if (appFlagOn) {thisapp = thisapp + inputTextArray[currentLineNum];}
+	           
+	           if (inputTextArray[currentLineNum].includes("</APP>")) {
+	           	// we are not an APP section any more, or rather we have reached the end of one, time to process it
+	        	appFlagOn = false;
+			// first make an array of separate entries for the same pada (usually a dot in TeX)
+			thisappArray = thisapp.split('\\oo');
+			
+		     // now go through the entries for the same pada
+	             for (let thsapp = 0; thsapp < thisappArray.length; thsapp++){
+        		// determine the pāda signs in the apparatus
+        		appPada = determinePadaSign(thisappArray[thsapp]);
+			// entries in the same pāda: delete \oo sign
+			//thisapp = thisapp.split('\\oo').join(''); 
+			
+			// extract lemma
+			lemma = extractLemma(thisappArray[thsapp]);
+
+        		// extract the witnesses for the lemma
+        		lemmaWitnesses = getLemmaWitnesses(thisappArray[thsapp]);
+			if (lemmaWitnesses.includes('#corr') || lemmaWitnesses.includes('#em') ||
+			    lemmaWitnesses.includes('#conj')) {
+					 	witOrEmendation = 'emendation';
+			}
+			else {witOrEmendation = 'witness'}	
+					
+			// to get the rejected variants in the apparatus; delete the lemma bit of the entry
+			variants = getVariants(thisappArray[thsapp]);
+
+	        	// iterate through the rejected variants
+	        	for (let v=1; v < variants.length; v++){
+	        		 variantSplit = splitVariantsIntoVarAndSigla(variants[v]);
+
+		             // searching for ms siglum in variants + antePostCorr, which is either "" or "ac" or "pc"
+		             if ( variantSplit[1].includes(getMs2Reconst() + antePostCorr) ) {		       
+				       // checking if lemma is found multiple times in varLine: special case
+		               	       if (varLine.split(lemma).length > 2 && 
+		               			(appPada === "b" || appPada === "d" || appPada === "f")) {
+               					// offset is the index where the first 
+               					// instance of the lemma ends in the varLine
+               					offset = varLine.match(lemma).index + lemma.length+1;     
+               				}
+               		
+					// checking if lemma is found multiple times in textLine: special case
+	               			if (textLine.split(lemma).length > 2 && 
+               					(appPada === "b" || appPada === "d" || appPada === "f")){ 
+               					// offsetMainLine is the index where the first 
+               					// instance of the lemma ends in the textLine
+               					offsetMainLine = textLine.match(lemma).index + lemma.length+1;
+
+                			}
+                       			else {offset = 0;}
+                       		
+	               		// mark variant in MS line (varLine) in color                       		
+		               	if (offset === 0){
+	                                 // btw " [ ]" and "[ ] " inserted to restore halant consonants in Devanāgarī
+		          		varLine = varLine.replace(lemma, "<variant>" + "[ ] " 
+		          				+ variantSplit[0].trim() + " [ ]</variant>");
+				}
+				else{
+		          		varLine = varLine.slice(0, offset) + varLine.slice(offset).replace(lemma, 
+		          				"<variant>" + "[ ] " + variantSplit[0].trim() + " [ ]</variant>");
+					}		
+					
+				if (thisIsFirstAppHere){
+					if (constitutedChecked()) {varLine =  "<gray>" + varLine + "</gray>";}
+		 	       	        thisIsFirstAppHere = false;
+				 } 
+				 // if it's not a conj, em or corr, mark as accepted reading
+				 if (witOrEmendation !== "emendation") {textLine = markAsAcceptedReading(textLine, offsetMainLine, lemma);}
+			  	 // if it IS a conj, em, or corr, mark them as emendation in const. text
+				 else 			  {textLine = markAsEmendation(offsetMainLine, textLine, lemma, appPada);}
+		 	       	      
+			    } // if the siglum is there	
+
+		       } // end of FOR LOOP for iterating over rejected variants	
+		               	
+	} // end of FOR LOOP
+	
+	// clear the box in which we stored the apparatus for this particular verse line
+       	thisapp = "";
+   } // we have finished dealing with the apparatus  
+   
+   
+   
+   
+     
+}  // end of main iteration
+
+
+
+
+
+
+// DONE!
+// paste result to the screen
+document.getElementById('rightfield').innerHTML = result;
+}
+
+
+
+// submit buttons on the html page
+var button1 = document.getElementById('Process');
+button1.addEventListener('click', process);
+
+
+function copyfunc() {
+  let textToCopy = document.getElementById("rightfield").innerHTML;
+  textToCopy = textToCopy.replace(/&nbsp;/g, '');
+  textToCopy = textToCopy.replace(/\<br\/?\>/g, '\n');
+  textToCopy = textToCopy.replace(/\<variant\>/g, '¡');
+  textToCopy = textToCopy.replace(/\<\/variant\>/g, '!');
+  textToCopy = textToCopy.replace(/\<\/?acceptedreading\>/g, '');
+  textToCopy = textToCopy.replace(/\<\/?gray\>/g, '');
+  textToCopy = textToCopy.replace(/-\n/g, '');
+  // copy stuff in results window to clipboard
+  navigator.clipboard.writeText(textToCopy);
+  alert("Text copied to clipboard.\n Diffences from the critical edition will be enclosed thus: ¡...!;\n emendations in the critically edited text thus: <emend>...</emend>.");
+}
+
+function clearFunction() {
+	document.getElementById('rightfield').innerHTML = "";
+}
+
+var button2 = document.getElementById('clipboard');
+button2.addEventListener('click', copyfunc);
+
+var button3 = document.getElementById('clear');
+button3.addEventListener('click', clearFunction);
+</script>
+
+</body>
+</html>

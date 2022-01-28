@@ -1,0 +1,1044 @@
+<!DOCTYPE html>
+<!--By Csaba Kiss, on 13 Apr 2021-->
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>TextProcess</title>
+
+	<script src="process2tei.js"></script>
+	<script src="iast2devanagari.js"></script>
+</head>
+
+<body>
+
+<style>
+body {
+	background-color: #e6f7ff;
+	width: 100%;
+}
+.leftfield {
+    position: absolute;
+	background-color: #e6f7ff;
+	width: 50%;
+}
+.rightfield {
+    position: absolute;
+	background-color: #e6f7ff;
+	left: 50%;
+	top: 0%;
+	font-size: 80%;
+}
+p {
+	font-size: 80%;
+	padding: 10px;
+    	font-family: 'Strait';font-size: 20px;
+}
+buttn {
+	font-size: 100%;
+	padding: 10px;
+    	font-family: 'Strait';
+	color: green;
+}
+button {
+        border-radius: 20px;
+}
+select {
+	font-size: 60%;
+	padding: 3px;
+    	font-family: 'Strait';
+	color: green;
+}
+h2 {    color: green;
+    	font-family: 'Strait';
+}
+a {    color: green;
+       font-family: 'Strait';
+       font-weight: bold;	
+}
+mono {  color: blue;
+	font-size: 100%;
+        font-family: 'Inconsolata', 'Courier mono', 'courier';
+	font-size: 20px;
+}
+textarea { font-size: 100%; 
+}
+</style>
+
+
+
+
+<h2>TextProcess</h2>
+
+<!-- LEFT SIDE OF THE SCREEN -->
+<div class="leftfield">
+
+<p>Enter starting chapter and verse numbers (default is 1.1):</p>
+
+	<input id="chnum" placeholder="Chapter number" size="9"></input> .
+	<input id="vsnum" placeholder="Verse number" size="7"></input> &nbsp;&nbsp;&nbsp;&nbsp;
+		ṃ ṛ ṝ ḷ &LongRightArrow; ṁ r̥ r̥̄ l̥ ?
+	<input type="checkbox" id="transliteration" name="transliteration" value="yes"/>
+
+
+<script>
+"use strict";
+	let chnum = 1;
+	let vsnum = 1;
+	let chnumInput; 
+    	let vsnumInput; 
+    	let chnumNew;
+    	let vsnumNew;
+    	// these are for the split to 4 pādas part:
+    	let roman_vowels = ['a', 'ā', 'i', 'ī', 'u', 'ū', 'ṛ', 'ṝ', 'ḷ', 'e', 'o', 'r̥', 'l̥', 'r̥̄'];
+    	let diphtongFlag = false;
+        let num_vowels = 0;
+        //
+        let printed = false;
+        let storeLine = '';
+        let padas = '';
+
+
+// not needed    	
+/*
+function chnumHandler(e) {
+  if (e.keyCode == 13) {
+    chnumInput = document.getElementById('chnum'); 
+    vsnumInput = document.getElementById('vsnum'); 
+    chnumNew = parseInt(chnumInput.value);
+    vsnumNew = parseInt(vsnumInput.value);
+
+    if (!(chnumNew === chnum && vsnumNew === vsnum)) {
+   	    chnum = chnumNew;
+   	    vsnum = vsnumNew;   
+            // if fields are empty or not numbers:	
+	    if (chnumNew.toString() === "NaN") {chnum = 1;}
+ 	    else if (vsnumNew.toString() === "NaN") {vsnum = 1;}  
+   	    else {
+   	    alert("Starting with verse " + chnum.toString() + "." + vsnum.toString());
+   	    }
+	}
+   } 
+}
+*/
+
+// default for transliteration option
+let translit = false; 
+function transliteration() {
+	translit = document.getElementById('transliteration').checked;
+} 
+
+// default for translation option list
+let translationOption = "beginning";
+// function to set translation option
+function selectTr() {
+	translationOption = document.getElementById('TranslationOptions').value;
+}
+
+// default for notes option list
+let notesOption = "beginning";
+// function to set translation option
+function selectNotes() {
+	notesOption = document.getElementById('NotesOptions').value;
+}
+
+// default for dandas option
+let incldandas = false; 
+function includedandas() {
+incldandas = document.getElementById('includedandas').checked;
+if (incldandas === true) {
+	document.getElementById('splitpadas').checked = false;
+	spltpadas = false; 
+   }
+} 
+
+let inclvsnum = false; 
+function includevsnum() {
+inclvsnum = document.getElementById('includevsnum').checked;
+if (inclvsnum === true) {
+	document.getElementById('splitpadas').checked = false;
+	spltpadas = false; 
+	}
+} 
+
+let inclparal = false; 
+function includeparal() {
+	inclparal = document.getElementById('includeparal').checked;
+} 
+
+let incltr = false; 
+function includetr() {
+	incltr = document.getElementById('includetr').checked;
+} 
+
+let inclnotes = false; 
+function includenotes() {
+	inclnotes = document.getElementById('includenotes').checked;
+} 
+
+// split pādas?
+let spltpadas = false; 
+function splitpadas() {
+  spltpadas = document.getElementById('splitpadas').checked;
+  if (spltpadas === true) {
+	document.getElementById('includedandas').checked = false;
+	incldandas = false; // we don't want daṇḍas now
+	document.getElementById('includevsnum').checked = false;	
+	inclvsnum = false;  // we don't want verse numbers now
+	}
+} 
+
+// delete °s option
+let crcle = false; 
+function circle() {
+	crcle = document.getElementById('circle').checked;
+} 
+
+</script>
+
+
+
+
+
+<p>
+Then clear this window and paste your text in and click on any of the buttons below:</p>
+
+<textarea id="textinput" type="text" name="text" rows="30" cols="110" spellcheck="false" placeholder="">
+Our format is something like this (try clicking on the buttons below):
+<TEXT> anarthayajña uvāca|*</TEXT>
+        <APP>\vo <LEM>anarthayajña uvāca</LEM> \mssCaCbCc\msNapcorr\msNb\msNc\Ed; 
+        					\om\ \msNaacorr</APP>
+        <TR>Anarthayajña spoke:</TR>
+        
+<TEXT> atisaṃśayakaṣṭaṃ te pṛṣṭo 'haṃ dvijasattama|</TEXT>
+        <APP>\va <LEM>atisaṃśayakaṣṭaṃ te</LEM> \msCb\msNa\msNb\msNc;
+                atiśaṃsa<UNCL>ya</UNCL>kaṣṭan{ }te \msCa, atiśaṃsayakaṣṭam{ }me \msCc\Ed</APP>
+        <APP>\vb <LEM>dvijasattama</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; ca dvijottamaḥ \msCc</APP>
+        <PARAL>\vb ŁThis section is for parallels... cf. HVMK 763.21a:$ 
+        		atisaṃśayakaṣṭaṃ me</PARAL>
+        <TR>You are asking me about an extremely doubtful 
+                        and problematic matter, O great Brahmin.</TR>
+	<NOTE>This is a note for this part of the text: 
+		note the semicolon after the MS sigla for the lemma, and the 
+		commas after the other MS sigla. Put |* at the end of an uvāca-type line,
+			to indicate that it is not part of the śloka. At the moment I use Ł...$ 
+				for text in italics in the translation, and the same for 
+				Roman text in the parallels register (as opposed to text
+				that may become Devanāgarī). Use a nice text editor with XML highlighting 
+				to make your file more readable.</NOTE>
+
+<TEXT> durvijñeyaṃ manuṣyais{ }tu devadānavapannagaiḥ||</TEXT> 1.13
+        <APP>\vc <LEM>°jñeyaṃ</LEM> \msCa\msCb\msNa\msNc; °jñeya \msCc\msNb\Ed\oo
+                 <LEM>manuṣyais{ }tu</LEM> \msCa\msNa\msNb\msNc\Ed; 
+                 	manuṣaiś{ }ca \msCb, maṇukṣe<UNCL>ptu</UNCL> \msCc</APP>
+       <TR>It is difficult to understand by humans, and [even] by gods (Łdeva$), 
+                        demons (Łdānava$) and serpents (Łpannaga$).</TR>">
+</textarea>
+
+
+<!-- buttons -->
+<p>
+<button id="MainTextButton" name="submit1"><buttn>Process: Only Main Text</buttn></button>
+<br/>
+<button id="TranslationButton" name="submit2"><buttn>Process: Only translation...</buttn></button>
+
+<select id="TranslationOptions">
+ <option value="beginning">... with verse numbers at the beginning</option>
+ <option value="end">... with verse numbers at the end</option>
+ <option value="latexBeginning">... in LaTeX with verse numbers at the beginning</option>
+ <option value="latexEnd">... in LaTeX with verses number at the end</option>
+</select>
+ 
+<br/>
+<button id="NotesButton" name="submit2"><buttn>Process: Only notes...</buttn></button>
+
+<select id="NotesOptions">
+ <option value="beginning">... with verse numbers at the beginning</option>
+ <option value="end">... with verse numbers at the end</option>
+ <option value="latexBeginning">... in LaTeX with verse numbers at the beginning</option>
+ <option value="latexEnd">... in LaTeX with verse numbers at the end</option>
+</select>
+
+<br/>
+<button id="TextAndApparatus" name="submit3"><buttn>Process: Text with Simple Apparatus</buttn></button>
+<br/>
+<button id="TeXdnButton" name="submit4"><buttn>Process: TeX Devnag (an example)</buttn></button>
+<br/>
+<button id="TEIButton" name="submit4"><buttn>Process: TEI</buttn></button>
+<br/>
+<b>TEI options:</b>
+
+<br/>
+Leave <i>daṇḍa</i>s in main text?
+<input type="checkbox" id="includedandas" name="includedandas" value="yes">
+
+<br/>
+Insert verse numbers in text?
+<input type="checkbox" id="includevsnum" name="includevsnum" value="yes">
+
+<br/>
+Include parallels (&lt;PARAL&gt;)?
+<input type="checkbox" id="includeparal" name="includeparal" value="yes">
+
+<br/>
+Include translation (&lt;TR&gt;)?
+<input type="checkbox" id="includetr" name="includetr" value="yes">
+
+<br/>
+Include notes (&lt;NOTE&gt;)?
+<input type="checkbox" id="includenotes" name="includenotes" value="yes">
+
+<br/>
+Split anuṣṭubh into four pādas?
+<input type="checkbox" id="splitpadas" name="splitpadas" value="yes">
+
+<br/>
+Delete °s (and substitute them with <i>rend="circlefront/back/around"</i>)?
+<input type="checkbox" id="circle" name="splitpadas" value="yes">
+</p>
+
+<!-- buttons end -->
+
+<p>(Javascript programming by Csaba Kiss)</p>
+
+</div> 
+<!-- END OF LEFT SIDE OF SCREEN -->
+
+
+
+
+
+
+<!-- RESULTS DISPLAY ON THE RIGHT-->
+<div class="rightfield">
+	
+	<a href="https://filedn.com/lFSw9FGgUBpyrpsGtImyUHh/modest_proposal.pdf" target="_blank"><p>Help</p></a>
+	
+	<br/><br/><br/>
+	
+	<button id="clipboard" name="submit5"><buttn>Copy results to clipboard</buttn></button>
+
+	<br/><br/><br/>
+
+	<textarea id="result" rows="50" cols="100" placeholder="Results" spellcheck="false"></textarea>
+
+</div>
+
+
+
+
+<script>
+"use strict";
+
+// just display the main text	
+function processMainText() {       
+
+	// pasted text goes into inputtext variable
+	let inputtext = textinput.value;
+	// make an array of its lines
+	let inputtextArray = inputtext.split("\n");
+
+	
+	let result = "";
+  	let newtext = "";
+  	let textflag = false;
+  	let appflag  = false;
+	let finishedSloka = false;
+	let ending = "";
+
+	// chapter and verse numbers taken from input fields on the top
+        chnumInput = document.getElementById('chnum'); 
+        vsnumInput = document.getElementById('vsnum'); 
+        chnum = parseInt(chnumInput.value);
+        vsnum = parseInt(vsnumInput.value);
+        if (chnum.toString() === "NaN" || vsnum.toString() == "NaN") {  
+	    chnum = 1;
+	    vsnum = 1;
+	}
+
+
+        for (let a = 0; a < inputtextArray.length; a++) {
+        
+        	// new chapter?
+                if (inputtextArray[a].includes('<startchapter-n="')) {
+                                
+	        		chnum = inputtextArray[a].replace(/.*startchapter-n=\"/, "");
+        			chnum = chnum.split(/\".*/).join("");
+        			vsnum = 1;
+        			result = result + "\n\n%%%%%%%%%\n";
+        			continue;
+        	}
+
+		// deal with main text
+        	if (inputtextArray[a].includes("<TEXT>")) {
+        		textflag = true;
+        		
+        		// if previously sloka was finished, i.e. we start a new one
+        		if (finishedSloka === true) {
+        			vsnum += 1;
+        			finishedSloka = false;
+        			}
+                     	
+                     	// if this is the last line of the sloka
+                     	if (inputtextArray[a].includes("||")) {
+                     		ending = " ||" + chnum.toString() + "." + vsnum.toString() + "||";
+        			inputtextArray[a] = inputtextArray[a].split("||").join(ending);
+        			finishedSloka = true;
+        		   }
+	        }
+  
+        	//newtext = inputtextArray[a].split(/^ */).join("-");
+        	
+        	// change <TEXT> tags (+ perhaps space) to newline characters
+        	newtext = inputtextArray[a].replace(/\<TEXT\> ?/g, "\n");
+        	newtext = newtext.replace(/{ }/g, ' ');
+        	newtext = newtext.replace(/{-}/g, "-");
+        	newtext = newtext.replace(/\<\/TEXT\>.*/g, "");
+        	
+        	// transliteration changes
+        	if (translit === true) {
+        		newtext = newtext.replace(/ṃ/g, 'ṁ');
+        		newtext = newtext.replace(/ṛ/g, 'r̥');
+        		newtext = newtext.replace(/ṝ/g, 'r̥̄');
+        		newtext = newtext.replace(/ḷ/g, 'l̥');        	
+              	}
+
+        	if (textflag === true) {
+	        	result = result + newtext;
+			}
+
+        	if (inputtextArray[a].includes("</TEXT>")) {
+	        	textflag = false;
+	        	}
+	 	}    
+        document.getElementById('result').innerHTML = result;
+	    
+}
+
+
+
+
+
+
+
+
+
+
+
+function processNotes() {       
+	// just display the Notes lines in <NOTE> </NOTE>	
+	        
+	// pasted text goes into inputtext variable
+	var inputtext = textinput.value;
+	// make an array of it
+	var inputtextArray = inputtext.split("\n");
+	
+	let result = "";
+  	let newtext = "";
+  	let noteflag  = false;
+	let finishedSloka = false;
+	let nextNum = "";
+      	let finishedNotes = true;
+      	let justStarted = true;
+	let ending =  "";
+
+    // chapter and verse numbers taken from input fields on the top
+    chnumInput = document.getElementById('chnum'); 
+    vsnumInput = document.getElementById('vsnum'); 
+    chnum = parseInt(chnumInput.value);
+    vsnum = parseInt(vsnumInput.value);
+    if (chnum.toString() === "NaN" || vsnum.toString() == "NaN") {  
+	    chnum = 1;
+	    vsnum = 1;
+    }
+
+
+	// if it is a LaTeX output, put in LaTeX preamble
+	if (notesOption === "latexBeginning" || notesOption === "latexEnd") {
+		result = result + "\\documentclass{article}\n\\usepackage[utf8x]{inputenx}\n\\newcommand{\\vsnum}[1]{\\textbf{#1}}\n\\newcommand{\\skt}[1]{\\textit{#1}}\n\\begin{document}\n\n";
+	} 
+  	
+  	// go through the lines
+        for (let a = 0; a < inputtextArray.length; a++) { 
+               	
+        	// new chapter?
+        	if (inputtextArray[a].includes('<startchapter-n="')) {
+        		chnum = inputtextArray[a].split(/.*startchapter-n=\"/).join("");
+        		chnum = chnum.split(/\".*/).join("");
+        		vsnum = 1;
+        		result = result + "\n%%%%%%%%%\n";
+        	}
+        	
+        	// for a verse number at the end of the paragraph
+		ending =  " (" + chnum.toString() + ":" + vsnum.toString() + ")";
+        	// for a verse number at the beginning of the paragraph
+            	nextNum = chnum.toString() + "." + vsnum.toString() + ": ";
+        
+        	if (inputtextArray[a].includes("<TEXT>")) {
+        	     if (finishedSloka === true) {
+        			vsnum += 1;
+        			finishedSloka = false;
+	                     	nextNum = chnum.toString() + "." + vsnum.toString() + ": ";
+        			}
+        	
+                     if (inputtextArray[a].includes("||")) {
+                     	ending = " (" + chnum.toString() + ":" + vsnum.toString() + ")";
+        		finishedSloka = true;
+        		        }
+	         }
+	        	
+	        	
+	        	
+	        	
+        	if (inputtextArray[a].includes("<NOTE>")) {
+        		noteflag = true;
+        		
+        		// just for the first starting number
+        		if (justStarted === true && notesOption === "beginning") {
+        			inputtextArray[a] = inputtextArray[a].replace(/.*\<NOTE\>/g, chnum.toString() + "." + vsnum.toString() + ": ");
+        			justStarted = false;
+        		} 
+        		
+        		if (justStarted === true && notesOption === "latexBeginning") {
+        			inputtextArray[a] = inputtextArray[a].replace(/.*\<NOTE\>/g, '\\vsnum{' + chnum.toString() + "." + vsnum.toString() + ":} ");
+        			justStarted = false;
+        		} 
+        		
+        		
+        		
+        		if (finishedNotes === true && notesOption === "beginning") {
+        	            inputtextArray[a] = inputtextArray[a].split(/.*\<NOTE\>/g).join(nextNum);    
+        	            finishedNotes = false;    		
+        			}
+        			
+        		if (finishedNotes === true && notesOption === "latexBeginning") {
+        	            inputtextArray[a] = inputtextArray[a].split(/.*\<NOTE\>/g).join("\\vsnum{" + nextNum + "}");    
+        	            finishedNotes = false;    		
+        			}	        			
+	        }
+	        	
+	        	
+	        	
+        	newtext = inputtextArray[a].trim().replace(/\n/g, ' ') + " ";
+
+
+		// if we have passed the last padas after a ||
+		if (finishedSloka === true && newtext.includes('</NOTE>')) {
+			if (notesOption === "end" || notesOption === "latexEnd") {
+		        	newtext = newtext.split(/\<\/NOTE\>.*/).join(ending + "\n\n");
+		        	}
+		        else {
+		               	newtext = newtext.split(/\<\/NOTE\>.*/).join("\n\n");
+		        }
+	        	finishedNotes = true;
+        	}
+        	else {
+      	        	newtext = newtext.split(/\<\/NOTE\>.*/).join(" ");
+        	}
+        	
+        	newtext = newtext.split(/.*\<NOTE\>/).join('');
+        	newtext = newtext.replace(/^\s+/g,' ');    
+        	newtext = newtext.replace(/ +/g, ' ');    	
+
+        	// transliteration changes
+        	if (translit === true) {
+        		newtext = newtext.replace(/ṃ/g, 'ṁ');
+        		newtext = newtext.replace(/ṛ/g, 'r̥');
+        		newtext = newtext.replace(/ṝ/g, 'r̥̄');
+        		newtext = newtext.replace(/ḷ/g, 'l̥');        	
+              	}
+
+		// dealing with bits marked with Ł ... $ (e.g. Sanskrit words in the translation)
+        	if (notesOption === "latexBeginning" || notesOption === "latexEnd") {
+        		newtext = newtext.split("Ł").join("\\skt{");
+        	}
+        	else {
+        		newtext = newtext.split("Ł").join("{");
+        	}
+        	
+        	newtext = newtext.split("$").join("}");
+        		
+	 	if (noteflag === true) {
+	        	result = result + newtext;
+			}
+        	if (inputtextArray[a].includes("</NOTE>")) {
+	        	noteflag = false;
+	        	}
+
+	 	}  
+	 	
+	 	// if it is a LaTeX output, put in LaTeX footer  
+ 		if (notesOption === "latexBeginning" || notesOption === "latexEnd") {
+			result = result + "\n\\end{document}";
+		} 
+
+        document.getElementById('result').innerHTML = result;	    
+}
+
+
+
+
+
+function processTranslation() {       
+	// just display the translation lines in <TR> </TR>	
+	        
+	// pasted text goes into inputtext variable
+	var inputtext = textinput.value;
+	// make an array of it
+	var inputtextArray = inputtext.split("\n");
+	
+	let result = "";
+  	let newtext = "";
+  	let trflag  = false;
+	let finishedSloka = false;
+	let nextNum = "";
+      	let finishedTR = true;
+      	let justStarted = true;
+	let ending =  "";
+
+    // chapter and verse numbers taken from input fields on the top
+    chnumInput = document.getElementById('chnum'); 
+    vsnumInput = document.getElementById('vsnum'); 
+    chnum = parseInt(chnumInput.value);
+    vsnum = parseInt(vsnumInput.value);
+    if (chnum.toString() === "NaN" || vsnum.toString() == "NaN") {  
+	    chnum = 1;
+	    vsnum = 1;
+    }
+
+
+	// if it is a LaTeX output, put in LaTeX preamble
+	if (translationOption === "latexBeginning" || translationOption === "latexEnd") {
+		result = result + "\\documentclass{article}\n\\usepackage[utf8x]{inputenx}\n\\newcommand{\\vsnum}[1]{\\textbf{#1}}\n\\newcommand{\\skt}[1]{\\textit{#1}}\n\\begin{document}\n\n";
+	} 
+  	
+  	// go through the lines
+        for (let a = 0; a < inputtextArray.length; a++) { 
+               	
+        	// new chapter?
+        	if (inputtextArray[a].includes('<startchapter-n="')) {
+        		chnum = inputtextArray[a].split(/.*startchapter-n=\"/).join("");
+        		chnum = chnum.split(/\".*/).join("");
+        		vsnum = 1;
+        		result = result + "\n%%%%%%%%%\n";
+        	}
+        	
+        	// for a verse number at the end of the paragraph
+		ending =  " (" + chnum.toString() + ":" + vsnum.toString() + ")";
+        	// for a verse number at the beginning of the paragraph
+            	nextNum = chnum.toString() + "." + vsnum.toString() + ": ";
+        
+        	if (inputtextArray[a].includes("<TEXT>")) {
+        	     if (finishedSloka === true) {
+        			vsnum += 1;
+        			finishedSloka = false;
+	                     	nextNum = chnum.toString() + "." + vsnum.toString() + ": ";
+        			}
+        	
+                     if (inputtextArray[a].includes("||")) {
+                     	ending = " (" + chnum.toString() + ":" + vsnum.toString() + ")";
+        		finishedSloka = true;
+        		        }
+	         }
+	        	
+	        	
+	        	
+	        	
+        	if (inputtextArray[a].includes("<TR>")) {
+        		trflag = true;
+        		
+        		// just for the first starting number
+        		if (justStarted === true && translationOption === "beginning") {
+        			inputtextArray[a] = inputtextArray[a].replace(/.*\<TR\>/g, chnum.toString() + "." + vsnum.toString() + ": ");
+        			justStarted = false;
+        		} 
+        		
+        		if (justStarted === true && translationOption === "latexBeginning") {
+        			inputtextArray[a] = inputtextArray[a].replace(/.*\<TR\>/g, '\\vsnum{' + chnum.toString() + "." + vsnum.toString() + ":} ");
+        			justStarted = false;
+        		} 
+        		
+        		
+        		
+        		if (finishedTR === true && translationOption === "beginning") {
+        	            inputtextArray[a] = inputtextArray[a].split(/.*\<TR\>/g).join(nextNum);    
+        	            finishedTR = false;    		
+        			}
+        			
+        		if (finishedTR === true && translationOption === "latexBeginning") {
+        	            inputtextArray[a] = inputtextArray[a].split(/.*\<TR\>/g).join("\\vsnum{" + nextNum + "}");    
+        	            finishedTR = false;    		
+        			}	        			
+	        }
+	        	
+	        	
+	        	
+        	newtext = inputtextArray[a].trim().replace(/\n/g, ' ') + " ";
+
+
+		// if we have passed the last padas after a ||
+		if (finishedSloka === true && newtext.includes('</TR>')) {
+			if (translationOption === "end" || translationOption === "latexEnd") {
+		        	newtext = newtext.split(/\<\/TR\>.*/).join(ending + "\n\n");
+		        	}
+		        else {
+		               	newtext = newtext.split(/\<\/TR\>.*/).join("\n\n");
+		        }
+	        	finishedTR = true;
+        	}
+        	else {
+      	        	newtext = newtext.split(/\<\/TR\>.*/).join(" ");
+        	}
+        	
+        	newtext = newtext.split(/.*\<TR\>/).join('');
+        	newtext = newtext.replace(/^\s+/g,' ');    
+        	newtext = newtext.replace(/ +/g, ' ');    	
+
+        	// transliteration changes
+        	if (translit === true) {
+        		newtext = newtext.replace(/ṃ/g, 'ṁ');
+        		newtext = newtext.replace(/ṛ/g, 'r̥');
+        		newtext = newtext.replace(/ṝ/g, 'r̥̄');
+        		newtext = newtext.replace(/ḷ/g, 'l̥');        	
+              	}
+
+		// dealing with bits marked with Ł ... $ (e.g. Sanskrit words in the translation)
+        	if (translationOption === "latexBeginning" || translationOption === "latexEnd") {
+        		newtext = newtext.split("Ł").join("\\skt{");
+        	}
+        	else {
+        		newtext = newtext.split("Ł").join("{");
+        	}
+        	
+        	newtext = newtext.split("$").join("}");
+        		
+	 	if (trflag === true) {
+	        	result = result + newtext;
+			}
+        	if (inputtextArray[a].includes("</TR>")) {
+	        	trflag = false;
+	        	}
+
+	 	}  
+	 	
+	 	// if it is a LaTeX output, put in LaTeX footer  
+ 		if (translationOption === "latexBeginning" || translationOption === "latexEnd") {
+			result = result + "\n\\end{document}";
+		} 
+
+        document.getElementById('result').innerHTML = result;	    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+// Main text with simple apparatus
+function processTextAndApp() {
+
+	var inputtext = textinput.value;
+	// make an array of it
+	var inputtextArray = inputtext.split("\n");
+	let result = "";
+  	let newtext = "";
+  	let textflag = false;
+  	let appflag  = false;
+	let finishedSloka = false;
+	let ending = ""
+	let beginapp = true;
+
+    chnumInput = document.getElementById('chnum'); 
+    vsnumInput = document.getElementById('vsnum'); 
+    chnum = parseInt(chnumInput.value);
+    vsnum = parseInt(vsnumInput.value);
+    if (chnum.toString() === "NaN" || vsnum.toString() == "NaN") {  
+	    chnum = 1;
+	    vsnum = 1;
+    }
+
+
+  	
+        for (let a = 0; a < inputtextArray.length; a++) {
+        
+                	// new chapter?
+                	if (inputtextArray[a].includes('<startchapter-n="')) {
+	        		chnum = inputtextArray[a].split(/.*startchapter-n=\"/).join("");
+        			chnum = chnum.split(/\".*/).join("");
+        			vsnum = 1;
+        			result = result + "\n\n%%%%%%%%%\n";
+        		}
+
+        	if (inputtextArray[a].includes("<TEXT>")) {
+        		textflag = true;
+        		if (finishedSloka === true) {
+        			vsnum += 1;
+        			finishedSloka = false;
+        			}
+                     if (inputtextArray[a].includes("<TEXT>") && inputtextArray[a].includes("||")) {
+                     	ending = "||" + chnum.toString() + ":" + vsnum.toString() + "||";
+        		inputtextArray[a] = inputtextArray[a].split("||").join(ending);
+        		finishedSloka = true;
+        		   }
+	        	}
+        	if (inputtextArray[a].includes("<APP>")) {
+        		appflag = true;
+        		beginapp = true;
+	        	}
+	        else {
+	      		beginapp = false;
+	        }
+
+		if (beginapp === true) {
+		// indentation
+        	newtext = inputtextArray[a].replace(/^\s+/, '   ');
+        	}
+        	else {
+        	newtext = inputtextArray[a].replace(/^\s+/, '      ');
+        	}
+        	newtext = newtext.split("<TEXT>").join("\n");
+        	newtext = newtext.split(/\<\/TEXT\>.*/).join("");
+        	newtext = newtext.split("<APP>").join("");
+        	newtext = newtext.split(/\<\/APP\>.*/).join("");
+        	newtext = newtext.split("<EYESKIP>").join("eyeskip ");
+        	newtext = newtext.split("<LEM>").join("");
+        	newtext = newtext.split("</LEM>").join("] ");
+        	//newtext = newtext.split(/.*\<TR\>/).join("%%Translation: ");
+        	//newtext = newtext.split(/\<\/TR\>.*/).join(" %% END of TR");
+        	newtext = newtext.split("{ }").join(" ");
+        	newtext = newtext.split("{-}").join("-");
+
+        	// transliteration changes
+        	if (translit === true) {
+        		newtext = newtext.replace(/ṃ/g, 'ṁ');
+        		newtext = newtext.replace(/ṛ/g, 'r̥');
+        		newtext = newtext.replace(/ṝ/g, 'r̥̄');
+        		newtext = newtext.replace(/ḷ/g, 'l̥');        	
+              	}
+        	
+        	if (textflag === true) {
+	        	result = result + newtext + "\n\n";
+			}
+			
+        	if (appflag === true) {
+        		// paada signs
+          	        newtext = "              " + newtext;
+          	        newtext = newtext.split("\\va ").join(vsnum.toString() + "a ");
+          	        newtext = newtext.split("\\vb ").join(vsnum.toString() + "b ");
+          	        newtext = newtext.split("\\vc ").join(vsnum.toString() + "c ");
+          	        newtext = newtext.split("\\vd ").join(vsnum.toString() + "d ");
+          	        newtext = newtext.split("\\ve ").join(vsnum.toString() + "e ");
+          	        newtext = newtext.split("\\vf ").join(vsnum.toString() + "f ");
+          	        newtext = newtext.split("\\vab ").join(vsnum.toString() + "ab ");
+          	        newtext = newtext.split("\\vcd ").join(vsnum.toString() + "cd ");
+          	        newtext = newtext.split("\\vef ").join(vsnum.toString() + "ef ");
+          	        newtext = newtext.split("\\vo ").join(vsnum.toString() + " ");
+	        	result = result + newtext + "\n";
+			}
+
+        	if (inputtextArray[a].includes("</TEXT>")) {
+	        	textflag = false;
+	        	}
+        	if (inputtextArray[a].includes("</APP>")) {
+	        	appflag = false;
+	        	}
+	 	}    
+        document.getElementById('result').innerHTML = result;
+}
+
+
+
+
+
+function processTeXdn() {               
+
+	var inputtext = textinput.value;
+	// make an array of it
+	var inputtextArray = inputtext.split("\n");
+	let result = "";
+  	let newtext = "";
+  	let textflag = false;
+  	let appflag  = false;
+	let finishedSloka = false;
+	let ending = ""
+
+    chnumInput = document.getElementById('chnum'); 
+    vsnumInput = document.getElementById('vsnum'); 
+    chnum = parseInt(chnumInput.value);
+    vsnum = parseInt(vsnumInput.value);
+    if (chnum.toString() === "NaN" || vsnum.toString() == "NaN") {  
+	    chnum = 1;
+	    vsnum = 1;
+    }
+
+
+  	
+        for (let a = 0; a < inputtextArray.length; a++) {
+        	if (inputtextArray[a].includes("<TEXT>")) {
+        		textflag = true;
+        		if (finishedSloka === true) {
+        			vsnum += 1;
+        			finishedSloka = false;
+        			}
+                     if (inputtextArray[a].includes("<TEXT>") && inputtextArray[a].includes("||")) {
+                     	ending = " .." + chnum.toString() + ":" + vsnum.toString() + "..";
+        		inputtextArray[a] = inputtextArray[a].split("||").join(ending);
+        		finishedSloka = true;
+        		   }
+	        	}
+        	if (inputtextArray[a].includes("<APP>")) {
+        		appflag = true;
+	        	}
+
+        	newtext = inputtextArray[a].replace(/\n+/, ' ');
+        	newtext = newtext.split("<TEXT>").join("\n\n{\\dn ");
+        	newtext = newtext.split(/\<\/TEXT\>.*/).join("}");
+        	newtext = newtext.split("<APP>").join(" \\var{");
+        	newtext = newtext.split(/\<\/APP\>.*/).join("}}");
+        	newtext = newtext.split("<LEM>").join("{\\dn ");
+        	newtext = newtext.split("</LEM>").join("\\lem ");
+        	newtext = newtext.split(/.*\<TR\>/).join("%%Translation: ");
+        	newtext = newtext.split(/\<\/TR\>.*/).join(" %% END of TR");
+        	newtext = newtext.split("{ }").join("");
+        	newtext = newtext.split("{-}").join("");        	
+        	newtext = newtext.split(";").join(",");
+        	newtext = newtext.split("°").join("@");
+        	newtext = newtext.split("ā").join("aa");
+        	newtext = newtext.split("ī").join("ii");
+        	newtext = newtext.split("ū").join("uu");
+        	newtext = newtext.split("ṛ").join(".r");
+        	newtext = newtext.split("ṝ").join(".R");
+        	newtext = newtext.split("ṃ").join(".m");
+        	newtext = newtext.split("ḥ").join(".h");
+        	newtext = newtext.split("ṅ").join('"n');
+        	newtext = newtext.split("ñ").join("~n");
+        	newtext = newtext.split("ṭ").join(".t");
+        	newtext = newtext.split("ḍ").join(".d");
+        	newtext = newtext.split("ṇ").join(".n");
+        	newtext = newtext.split("ś").join('"s');
+        	newtext = newtext.split("ṣ").join(".s");
+        	if (textflag === true) {
+	        	result = result + newtext + "\n\n";
+			}
+        	if (appflag === true) {
+        		// paada signs
+          	        newtext = newtext.split("\\va ").join("\\textbf{" + vsnum.toString() + "a} ");
+          	        newtext = newtext.split("\\vb ").join("\\textbf{" + vsnum.toString() + "b} ");
+          	        newtext = newtext.split("\\vc ").join("\\textbf{" + vsnum.toString() + "c} ");
+          	        newtext = newtext.split("\\vd ").join("\\textbf{" + vsnum.toString() + "d} ");
+          	        newtext = newtext.split("\\ve ").join("\\textbf{" + vsnum.toString() + "e} ");
+          	        newtext = newtext.split("\\vf ").join("\\textbf{" + vsnum.toString() + "f} ");
+          	        newtext = newtext.split("\\vab ").join("\\textbf{" + vsnum.toString() + "ab} ");
+          	        newtext = newtext.split("\\vcd ").join("\\textbf{" + vsnum.toString() + "cd} ");
+          	        newtext = newtext.split("\\vef ").join("\\textbf{" + vsnum.toString() + "ef} ");
+          	        newtext = newtext.split("\\vo ").join("\\textbf{" + vsnum.toString() + "} ");
+	        	result = result + newtext;
+			}
+
+
+        	if (inputtextArray[a].includes("</TEXT>")) {
+	        	textflag = false;
+	        	}
+        	if (inputtextArray[a].includes("</APP>")) {
+	        	appflag = false;
+	        	}
+	 	}    
+        document.getElementById('result').innerHTML = result;
+	    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// submit buttons on the html page
+var button1 = document.getElementById('MainTextButton');
+button1.addEventListener('click', processMainText);
+
+var button2 = document.getElementById('TranslationButton');
+button2.addEventListener('click', processTranslation);
+
+var button22 = document.getElementById('NotesButton');
+button22.addEventListener('click', processNotes);
+
+var button3 = document.getElementById('TeXdnButton');
+button3.addEventListener('click', processTeXdn);
+
+var button4 = document.getElementById('TextAndApparatus');
+button4.addEventListener('click', processTextAndApp);
+
+var button5 = document.getElementById('TEIButton');
+button5.addEventListener('click', processTEI);
+
+var button6 = document.getElementById('TranslationOptions');
+button6.addEventListener('change', selectTr);
+
+var button66 = document.getElementById('NotesOptions');
+button66.addEventListener('change', selectNotes);
+
+// CHECKBOXES
+var check00 = document.getElementById('transliteration');
+check00.addEventListener('change', transliteration);
+
+var check01 = document.getElementById('includedandas');
+check01.addEventListener('change', includedandas);
+
+var check02 = document.getElementById('includevsnum');
+check02.addEventListener('change', includevsnum);
+
+var check03 = document.getElementById('includetr');
+check03.addEventListener('change', includetr);
+
+var check04 = document.getElementById('includeparal');
+check04.addEventListener('change', includeparal);
+
+var check05 = document.getElementById('includenotes');
+check05.addEventListener('change', includenotes);
+
+var check06 = document.getElementById('splitpadas');
+check06.addEventListener('change', splitpadas);
+
+var check07 = document.getElementById('circle');
+check07.addEventListener('change', circle);
+
+// COPY RESULTS BUTTON ON THE RIGHT
+var button20 = document.getElementById('clipboard');
+button20.addEventListener('click', copyfunc);
+
+function copyfunc() {
+  // copy stuff in results window to clipboard
+  navigator.clipboard.writeText(document.getElementById("result").value);
+  alert("Text copied to clipboard.");
+}
+
+
+</script>
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+

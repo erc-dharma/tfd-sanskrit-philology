@@ -1,0 +1,107 @@
+\documentclass[noeledmac,11pt]{book}
+
+% this seems to be the proper way of changing sizes
+\addtolength{\textwidth}{3.5cm}
+\addtolength{\oddsidemargin}{-1cm}
+\addtolength{\evensidemargin}{-2.5cm}
+
+
+% XeLaTeX version!!!!
+%\usepackage{xunicode} % Unicode support for LaTeX character names (accents, European chars, etc)
+%\usepackage{xltxtra} % Extra customizations for XeLaTeX
+%\setmainfont{Charis SIL} % set the main body font (\textrm), assumes Charis SIL is installed
+%\setsansfont{Deja Vu Sans}
+%\setmonofont{Deja Vu Mono}
+%\usepackage{tocstyle}
+
+\usepackage[utf8x]{inputenx}
+
+% watermark:
+%\usepackage{background}
+%\backgroundsetup{contents={DRAFT}, color=gray, opacity=.18}
+
+
+\PrerenderUnicode{¬∫}
+\PrerenderUnicode{āīūṛḷḥṃṁṅñṭḍṇśṣ}
+
+\newcommand{\comm}[1]{{#1}}
+
+\input{vrsasara_macros.tex}
+
+% for ring below r (\textsubring) and l (Dharma input/IAST):
+\usepackage{tipa}
+%\usepackage{tgschola}
+%\PrerenderUnicode{¬∫}
+
+\makeindex
+
+%\pagestyle{plain}
+\begin{document}
+
+
+%%%%%%%% TITLE PAGE %%%%%%%%%
+
+
+\thispagestyle{empty}
+\
+
+\begin{center}
+\vskip3cm
+
+
+
+        {\Huge\textsc{v\textsubring{r}\d sas\=arasaṁgraha\d h}}
+
+\bigskip
+
+{\large A Critical Edition in Progress} 
+
+\bigskip
+
+{Version of} \today
+
+\vskip5em
+Csaba \textsc{Kiss}
+
+
+
+\end{center}
+\vfill
+
+
+
+
+
+%\fejezet{Chapter One}
+%\addcontentsline{toc}{section}{stutiḥ}
+%NGMPP Access: 3\dandab 384 Reel: A 41\dandab 11
+
+
+\tableofcontents
+\vfill
+\ 
+\pagebreak
+%\begin{center}
+%{\textbf{Vṛṣasārasaṃgrahaḥ}}
+%\end{center}
+%\chapter{Introduction}
+%\includepdf[pages=-]{conspectus_siglorum.pdf}
+
+\vfill
+\pagebreak
+
+
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[LO]{{\textit{V\textsubring{r}ṣasārasaṁgrahaḥ}}}
+\fancyhead[RE]{{\textit{V\textsubring{r}ṣasārasaṁgrahaḥ}}}
+
+\chapter{Edition}
+\input{vrsasara_input.tex}
+\bekveg\szamveg
+
+\vfill
+\pagebreak
+
+
+\end{document}
+

@@ -1,0 +1,879 @@
+\usepackage{libertine}
+% \usepackage{hyperref}
+%\usepackage{kpfonts}
+%\usepackage[osf]{Alegreya,AlegreyaSans}
+\renewcommand{\baselinestretch}{1.05}
+\usepackage{pdfpages}
+\usepackage{dev}
+\dnnum
+%this one used only for the LaTeX version, see it there:
+%\usepackage[utf8x]{inputenx}
+
+% for ring below r (\textsubring) and l (Dharma input/IAST):
+% \usepackage{tipa}
+
+%%%HEADERS%%%%%%%%%%%%
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+%\renewcommand{\chaptermark}[1]{% 
+%\markboth{#1}{}} 
+%\newcommand{\csabafont}{% 
+%\fontfamily{ppl}\fontsize{11}{12}\selectfont} 
+
+%\lhead{Bal}\rhead{Jobb}
+%\fancyhead[RE]{\csabafont\nouppercase{The Rel. Observ. \&\
+%Sexual Rit. of the Tantric Pract.: BraY\=a 3, 21, 45}}
+\fancyfoot{}
+%\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\headrulewidth}{0pt}
+\headheight14.5pt
+\usepackage[noeledmac]{ledmac}
+
+\usepackage[english]{babel}
+\usepackage{graphicx}
+%\usepackage{marvosym} % for moon and sun
+%\usepackage[T1]{fontenc}
+\usepackage{pdflscape}
+\usepackage{ulem}
+\normalem
+\usepackage{index}
+\usepackage{amsmath,amssymb,amsfonts,textcomp}
+%\usepackage{ledpar}
+%\usepackage{boxedminipage}
+
+%\renewcommand{\rmdefault}{ppl}
+%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\blankpage}{%
+\pagebreak
+\thispagestyle{empty}
+\ \vskip3cm
+{\huge {This page is  intentionally left blank.}}
+\vfill\pagebreak}
+
+\newcommand{\twopageedbreak}{%
+\bekveg\szam
+\newpage\addtocounter{page}{1}
+\szam\bek}
+%\noindent
+%%%%%%%%%%verse no. counting and printing
+\newcount\fejno
+\newcount\versno
+\newcount\ajsa
+
+\fejno=1
+\versno=0
+\newcommand{\ujvers}{\global\advance\versno by1}
+\newcommand{\ujfej}{\versno=0\global\advance\fejno by1}
+\newcommand{\newchapter}{\ujfej}
+%\newcommand{\fejversnoird}{\oldstylenums{\the\fejno} .\oldstylenums{\the\versno}}
+%\newcommand{\versnolabj}{\textbf{\oldstylenums{\the\fejno}}{\textbf{.}}
+%\the\versno\rm\ }
+%\newcommand{\ljvs}{\versnolabj}
+%\newcommand{\trvs}{\norm \the\fejno .\the\versno\ }
+%\newcommand{\ujtr}{\ujvers\trvs\hskip 1cm}
+\newcommand{\vsveg}{{\the\fejno.\the\versno}}
+\newcommand{\vs}{\the\versno}
+
+%%%%% Sections: from--to
+\newcount\innen%Pl. 14.24-46
+\newcommand{\tolig}{{\bf\the\fejno .\the\innen --\the\versno\ }}
+\newcommand{\innentol}{\global\innen=\versno}
+\newcount\innenn%Pl. 14.24-46
+\newcommand{\toligg}{{\bf\the\fejno .\the\innenn --\the\versno\ }}
+\newcommand{\innentoll}{\global\innenn=\versno}
+
+%%%%  Types of paragraph
+\newcommand{\proza}{\leftskip 4em\noindent}
+\newcommand{\ujproza}{\global\advance\versno by1\leftskip 4em\noindent}
+\newcommand{\vers}{\leftskip 2em}
+\newcommand{\dnvers}{\leftskip 3em}
+
+\newcommand{\sloka}{\vers}
+
+\newcommand{\nemsloka}{\leftskip 3em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\newcommand{\nemslokab}{\leftskip 4em} % pada b
+\newcommand{\nemslokac}{\leftskip 3em} % pada c
+\newcommand{\nemslokad}{\leftskip 4em} % pada d
+
+
+\newcommand{\dnnemsloka}{\leftskip 3em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\newcommand{\dnnemslokab}{\leftskip 4em} % pada b
+\newcommand{\dnnemslokac}{\leftskip 3em} % pada c
+\newcommand{\dnnemslokad}{\leftskip 4em} % pada d
+
+\newcommand{\nemslokalong}{
+\renewcommand{\nemsloka}{\leftskip 2em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\renewcommand{\nemslokab}{\leftskip 3em} % pada b
+\renewcommand{\nemslokac}{\leftskip 2em} % pada c
+\renewcommand{\nemslokad}{\leftskip 3em} % pada d
+\renewcommand{\dnnemsloka}{\leftskip 1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\renewcommand{\dnnemslokab}{\leftskip 2em} % pada b
+\renewcommand{\dnnemslokac}{\leftskip 1em} % pada c
+\renewcommand{\dnnemslokad}{\leftskip 2em} % pada d
+}
+
+\newcommand{\nemslokanormal}{
+\renewcommand{\nemsloka}{\leftskip 3em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\renewcommand{\nemslokab}{\leftskip 4em} % pada b
+\renewcommand{\nemslokac}{\leftskip 3em} % pada c
+\renewcommand{\nemslokad}{\leftskip 4em} % pada d
+\renewcommand{\dnnemsloka}{\leftskip 2em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\renewcommand{\dnnemslokab}{\leftskip 3em} % pada b
+\renewcommand{\dnnemslokac}{\leftskip 2em} % pada c
+\renewcommand{\dnnemslokad}{\leftskip 3em} % pada d
+}
+
+%\newcommand{\prose}{\noindent} % pada d
+\newcommand{\prose}{\leftskip 0em\noindent\advanceline{0}}
+%\newcommand{\dontdisplaylinenum}{\advanceline{1}\skipnumbering}
+\newcommand{\dontdisplaylinenum}{\skipnumbering}
+%%%% Apparatus
+
+\newcommand{\var}[1]{\edtext{}{\Dfootnote{#1}}}
+
+%%%%% Nirajan's apparatus %%%%%%%%%%
+%\newcommand{\var}[1]{
+%\ugras
+%\noindent
+%{\footnotesize #1}
+%
+%\ \ \ \ \ \ }
+
+%\newcommand{\var}[1]{ 
+%
+%\begin{minipage}{0.7\textwidth}
+%\footnotesize $\rightarrow$ #1\end{minipage}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\paral}[1]{\edtext{}{\Cfootnote{#1}}}
+\newcommand{\marginalia}[1]{\edtext{}{\Bfootnote{#1}}}
+\newcommand{\prosevar}[1]{\edtext{}{\Afootnote{#1}}}
+
+%%%%%%%  Dandas
+\newcommand{\padaA}{a}
+\newcommand{\padaB}{b}
+\newcommand{\padaAB}{ab}
+\newcommand{\dandab}{\ujvers\danda\renewcommand{\padaA}{a}\renewcommand{\padaB}{b}\renewcommand{\padaAB}{ab}}
+\newcommand{\dandad}{\danda\renewcommand{\padaA}{c}\renewcommand{\padaB}{d}\renewcommand{\padaAB}{cd}}
+\newcommand{\danda}{$\cal j$}
+\newcommand{\ketdanda}{$\cal k$}
+\newcommand{\ketdandadn}{{\dn ..}}
+\newcommand{\dnd}{\danda}
+\newcommand{\dnddnd}{\ketdanda}
+\newcommand{\veg}{{\rm\ketdanda\vsveg\ketdanda}\renewcommand{\padaA}{c}\renewcommand{\padaB}{d}\renewcommand{\padaAB}{cd}}
+\newcommand{\vsvegdn}{\the\fejno\kern-0.3em{\rm\ :}\kern0.1em\the\versno\kern-0.15em}
+\newcommand{\vegdn}{{\dn ..}$~${\dn\vsvegdn}{\dn ..} \vrule depth6pt width0pt}
+\newcommand{\sixlsloka}{\renewcommand{\padaA}{e}\renewcommand{\padaB}{f}\renewcommand{\padaAB}{ef}}
+\newcommand{\vegg}[1]{{\rm \ketdanda#1\ketdanda}}
+\newcommand{\dandadn}{{\dn .}}
+\newcommand{\dandabdn}{\ujvers{\dn .}}
+
+
+%%%%%%%%%%%
+\newcommand{\tart}[1]{\ugras
+\leftskip5em
+
+\noindent
+[= {\footnotesize #1}]
+\ugras
+\vers}
+\newcommand{\jump}{\ugras}
+%%%%%%%%%% MSS
+\newcommand{\Nob}{N}
+\newcommand{\BORIPRP}{{B$_{1}$}}
+\newcommand{\Pollytextii}{{\sc Sharma}~1942}
+\newcommand{\A}{{\normalfont A}}
+%\newcommand{\B}{{\normalfont B}}
+\newcommand{\AB}{AB}
+%\newcommand{\C}{C}
+\newcommand{\AC}{AC}
+\newcommand{\BC}{BC}
+\newcommand{\ABC}{ABC}
+\newcommand{\D}{D}
+\newcommand{\AD}{AD}
+\newcommand{\BD}{BD}
+\newcommand{\CD}{CD}
+\newcommand{\ABD}{ABD}
+\newcommand{\ACD}{ACD}
+\newcommand{\BCD}{BCD}
+\newcommand{\ABCD}{ABCD}
+\newcommand{\E}{E}
+\newcommand{\ab}{{\rm ab}}
+\newcommand{\cd}{{\rm cd}}
+\newcommand{\pont}{{\rm .}}
+
+
+% original:
+%\newcommand{\msCa}{{\normalfont C$_\textrm{a}$}}
+%\newcommand{\msCaacorr}{{\normalfont C$_\textrm{a}$\kern-.4em$^{ac}$\/}}
+%\newcommand{\msCapcorr}{{\normalfont C$_\textrm{a}$\kern-.5em$^{pc}$\/}}
+% Peter Bisschop etc.:
+%\newcommand{\msCa}{{\rm N$^{\scriptscriptstyle C}_{\scriptscriptstyle 94}$}}
+%\newcommand{\msCaacorr}{{\rm N$^{\scriptscriptstyle Cac}_{\scriptscriptstyle 94}$}}
+%\newcommand{\msCapcorr}{{\rm N$^{\scriptscriptstyle Cpc}_{\scriptscriptstyle 94}$}}
+% my try:
+\newcommand{\msCa}{{\rm C$_{\scriptscriptstyle 94}$}\allowbreak}
+\newcommand{\msCaacorr}{{\rm C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 94}$}\allowbreak}
+\newcommand{\msCapcorr}{{\rm C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 94}$}\allowbreak}
+
+% original
+%\newcommand{\msCb}{{\normalfont C$_\textrm{b}$}}
+%\newcommand{\msCbacorr}{{\normalfont C$_\textrm{b}$\kern-.4em$^{ac}$\/}}
+%\newcommand{\msCbpcorr}{{\normalfont C\raisebox{-.1em}{$_\textrm{b}$}\kern-.57em$^{pc}$\/}}
+%\newcommand{\msCb}{{\rm N$^{\scriptscriptstyle C}_{\scriptscriptstyle 45}$}}
+%\newcommand{\msCbacorr}{{\rm N$^{\scriptscriptstyle Cac}_{\scriptscriptstyle 45}$}}
+%\newcommand{\msCbpcorr}{{\rm N$^{\scriptscriptstyle Cpc}_{\scriptscriptstyle 45}$}}
+\newcommand{\msCb}{{\rm C$_{\scriptscriptstyle 45}$}\allowbreak}
+\newcommand{\msCbacorr}{{\rm C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 45}$}\allowbreak}
+\newcommand{\msCbpcorr}{{\rm C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 45}$}\allowbreak}
+
+%\newcommand{\msCc}{{\normalfont C$_\textrm{c}$}}
+%\newcommand{\msCcacorr}{{\normalfont C$_\textrm{c}$\kern-.16cm$^{ac}$\/}}
+%\newcommand{\msCcpcorr}{{\normalfont C$_\textrm{c}$\kern-.16cm$^{pc}$\/}}
+%\newcommand{\msCc}{{\rm N$^{\scriptscriptstyle C}_{\scriptscriptstyle 02}$}}
+%\newcommand{\msCcacorr}{{\rm N$^{\scriptscriptstyle Cac}_{\scriptscriptstyle 02}$}}
+%\newcommand{\msCcpcorr}{{\rm N$^{\scriptscriptstyle Cpc}_{\scriptscriptstyle 02}$}}
+\newcommand{\msCc}{{\rm C$_{\scriptscriptstyle 02}$}\allowbreak}
+\newcommand{\msCcacorr}{{\rm C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 02}$}\allowbreak}
+\newcommand{\msCcpcorr}{{\rm C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 02}$}\allowbreak}
+
+%\newcommand{\msNa}{{\normalfont N$_\textrm{a}$}}
+%\newcommand{\msNaacorr}{{\normalfont N$_\textrm{a}$\kern-.10cm$^{ac}$\/}}
+%\newcommand{\msNapcorr}{{\normalfont N$_\textrm{a}$\kern-.13cm$^{pc}$\/}}
+%\newcommand{\msNa}{{\rm N$^{\scriptscriptstyle K}_{\scriptscriptstyle 82}$}}  
+%\newcommand{\msNaacorr}{{\rm N$^{\scriptscriptstyle Kac}_{\scriptscriptstyle 82}$}}
+%\newcommand{\msNapcorr}{{\rm N$^{\scriptscriptstyle Kpc}_{\scriptscriptstyle 82}$}}
+\newcommand{\msNa}{{\rm K$_{\scriptscriptstyle 82}$}\allowbreak}  
+\newcommand{\msNaacorr}{{\rm K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 82}$}\allowbreak}
+\newcommand{\msNapcorr}{{\rm K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 82}$}\allowbreak}
+
+\newcommand{\msNb}{{\rm K$_{\scriptscriptstyle 10}$}\allowbreak}  
+\newcommand{\msNbacorr}{{\rm K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 10}$}\allowbreak}
+\newcommand{\msNbpcorr}{{\rm K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 10}$}\allowbreak}
+
+\newcommand{\msNc}{{\rm K$_{\scriptscriptstyle 07}$}\allowbreak}  
+\newcommand{\msNcacorr}{{\rm K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 07}$}\allowbreak}
+\newcommand{\msNcpcorr}{{\rm K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 07}$}\allowbreak}
+
+\newcommand{\msNd}{{\rm K$_{\scriptscriptstyle 03}$}\allowbreak}  
+\newcommand{\msNdacorr}{{\rm K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 03}$}\allowbreak}
+\newcommand{\msNdpcorr}{{\rm K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 03}$}\allowbreak}
+
+\newcommand\msBod{{\rm B}\allowbreak}
+\newcommand\msBodacorr{{\rm B}$^{\scriptscriptstyle ac}$\allowbreak}
+\newcommand\msBodpcorr{{\rm B}$^{\scriptscriptstyle pc}$\allowbreak}
+
+\newcommand\msL{{\rm L}\allowbreak}
+\newcommand\msLacorr{{\rm L}$^{\scriptscriptstyle ac}$\allowbreak}
+\newcommand\msLpcorr{{\rm L}$^{\scriptscriptstyle pc}$\allowbreak}
+
+\newcommand\msP{{\rm P}\allowbreak}
+\newcommand\msPacorr{{\rm P}$^{\scriptscriptstyle ac}$\allowbreak}
+\newcommand\msPpcorr{{\rm P}$^{\scriptscriptstyle pc}$\allowbreak}
+
+%\newcommand{\Ed}{{\normalfont Ed$_\textrm{N}$}}
+%\newcommand{\Ed}{{\rm E$^{\scriptscriptstyle N}$}\allowbreak}
+\newcommand{\Ed}{{\rm E}\allowbreak}
+
+
+
+
+\newcommand{\msCaNa}{{\normalfont C$_\textrm{a}$N$_\textrm{a}$}\allowbreak}
+\newcommand{\msCbNa}{{\normalfont C$_\textrm{b}$N$_\textrm{a}$}\allowbreak}
+\newcommand{\msCcNa}{{\normalfont C$_\textrm{c}$N$_\textrm{a}$}\allowbreak}
+\newcommand{\msCabNa}{{\normalfont C$_\textrm{a}$C$_\textrm{b}$N$_\textrm{a}$}\allowbreak}
+\newcommand{\msCbcNa}{{\normalfont C$_\textrm{b}$C$_\textrm{c}$N$_\textrm{a}$}\allowbreak}
+\newcommand{\msCabcNa}{{\normalfont C$_\textrm{a}$C$_\textrm{b}$C$_\textrm{c}$N$_\textrm{a}$}\allowbreak}
+\newcommand{\msCab}{{\normalfont C$_\textrm{a}$C$_\textrm{b}$}\allowbreak}
+\newcommand{\msCac}{{\normalfont C$_\textrm{a}$C$_\textrm{c}$}\allowbreak}
+\newcommand{\msCbc}{{\normalfont C$_\textrm{b}$C$_\textrm{c}$}\allowbreak}
+\newcommand{\msCabc}{{\normalfont C$_\textrm{a}$C$_\textrm{b}$$_\textrm{c}$}\allowbreak}
+
+\newcommand{\mssCaCbCc}{{\normalfont C}\allowbreak}
+\newcommand{\mssNaNbNc}{{\normalfont N}\allowbreak}
+
+\newcommand{\Cod}{\textit{Cod.}\allowbreak}
+\newcommand{\Codd}{$\Sigma$\allowbreak}
+
+\newcommand{\AP}{AP\index{Agnipurana@\textsl{Agnipur\=a\d na}}}
+\newcommand{\APP}{ĀPP\index{Atmarthapujapaddhati@\textsl{\=Atm\=arthap\=uj\=apaddhati}}}
+\newcommand{\RV}{\d RV\index{Rigveda@\textsl{\d Rgveda}}}
+\newcommand{\BhG}{BhG\index{Bhagavadgita@\textsl{Bhagavadg\=\i t\=a}}}
+\newcommand{\BhP}{BhP\index{Bhagavatapurana@\textsl{Bh\=agavatapur\=a\d na}}}
+\newcommand{\GS}{GS\index{Gherandasamhita@\textsl{Ghera\d n\d dasa\d mhit\=a}}}
+\newcommand{\GorakSatBriggs}{{G\'S$_\textrm{B}$}\index{Goraksasataka@\textsl{Gorak\d sa\'sataka}}}
+\newcommand{\GorakSatLonavla}{{G\'{S}}$_\textrm{L}$\index{Goraksasataka@\textsl{Gorak\d sa\'sataka}}}
+\newcommand{\GorakSatNowotny}{{G\'{S}}$_\textrm{N}$\index{Goraksasataka@\textsl{Gorak\d sa\'sataka}}}
+\newcommand{\HYP}{HYP\index{Ha\d thayogaprad\=\i pik\=a@\textsl{Ha\d thayogaprad\=\i pik\=a}}}
+\newcommand{\JAT}{JAT\index{Jnanarnavatantra@\textsl{J\~n\=an\=ar\d navatantra}}}
+\newcommand{\KAN}{K\=AN\index{Kaulavalinirnaya@\textsl{Kaul\=aval\=\i nir\d naya}}}
+\newcommand{\KAT}{KAT\index{Kularnavatantra@\textsl{Kul\=ar\d navatantra}}}
+\newcommand{\KMT}{KMT\index{Kubjikamatatantra@\textsl{Kubjik\=amatatantra}}}
+\newcommand{\KJN}{KJN\index{Kaulajnananirnaya@\textsl{Kaulaj\~n\=ananir\d naya}}}
+\newcommand{\KRU}{KRU\index{Kularatnodaya@\textsl{Kularatnodaya}}}
+\newcommand{\KP}{KP\index{Kulapradipa@\textsl{Kulaprad\=\i pa}}}
+\newcommand{\KUp}{KUp\index{Kubjikopanisad@\textsl{Kubjikopani\d sad}}}
+\newcommand{\KhV}{KhV\index{Khecarividya@\textsl{Khecar\=\i vidy\=a}}}
+\newcommand{\LP}{{\rm Li\.nPu}\index{Lingapurana@\textsl{Li\.ngapur\=a\d na}}}
+\newcommand{\MKS}{MKS\index{Mahakalasamhita@\textsl{Mah\=ak\=alasa\d mhit\=a}}}
+\newcommand{\MP}{MatPu\index{Matsyapurana@\textsl{Matsyapur\=a\d na}}}
+\newcommand{\MUT}{MUT\index{Matottaratantra@\textsl{Matottaratantra}}}
+\newcommand{\MVUT}{MVUT\index{Malinivijayottaratantra@\textsl{M\=alin\=\i vijayottaratantra}}}
+\newcommand{\MaSam}{MaSa\d m} %\index{Matsyendrasamhita@\textsl{Matsyendrasa\d mhit\=a}}}
+\newcommand{\MBh}{MBh\index{Mahabharata@\textsl{Mah\=abh\=arata}}}
+\newcommand{\NAT}{N\=AT\index{Nityahnikatilaka@\textsl{Nity\=ahnikatilaka}}}
+\newcommand{\Nisv}{Ni\'sv\index{Nisvasatattvasamhita@\textsl{Ni\'sv\=asatattvasa\d mhit\=a}}}
+\newcommand{\NSA}{N\d SA\index{Nityasodasikarnava@\textsl{Nity\=a\d so\d da\'sik\=ar\d nava} alias\\ \textsl{V\=amake\'svar\=\i mata}}}
+\newcommand{\PrS}{PrS\index{Prapancasara@\textsl{Prapa\~ncas\=ara}}}
+\newcommand{\PS}{PS\index{Pasupatasutra@\textsl{P\=a\'supatas\=utra}}}
+\newcommand{\RY}{RY\index{Rudrayamala@\textsl{Rudray\=amala}}}
+\newcommand{\SNT}{\'SNT\index{Sambhunirnayatantra@\textsl{\'Sambhunir\d nayatantra}}}
+\newcommand{\SP}{SP\index{Svacchandapaddhati@\textsl{Svacchandapaddhati}}}
+\newcommand{\SSK}{\d S\'SK\index{Sadanvayasambhavakrama@\textsl{\d Sa\d danvaya\'s\=ambhavakrama}}}
+\newcommand{\SSP}{S\'SP\index{Somasambhupaddhati@\textsl{Soma\'sambhupaddhati}}}
+\newcommand{\SSS}{\d SSS\index{Satsahasrasamhita@\textsl{\d Sa\d ts\=ahasrasa\d mhit\=a}}}
+\newcommand{\SYM}{SYM\index{Siddhayogesvarimata@\textsl{Siddhayoge\'svar\=\i mata}}}
+\newcommand{\ST}{\'ST\index{Saradatilaka@\textsl{\'S\=arad\=atilaka}}}
+\newcommand{\STKU}{STKU\index{Sardhatrisatikalottara@\textsl{S\=ardhatri\'satik\=alottara}}}
+\newcommand{\STcomm}{\'ST$_\textrm{comm}$\index{Saradatilaka@\textsl{\'S\=arad\=atilaka}!Raghavabhatta's comm.@ R\=aghavabha\d t\d ta's comm.}}
+\newcommand{\SU}{SU\index{Subhagodaya@\textsl{Subhagodaya}}}
+\newcommand{\Skandapurana}{\textsl{Skanda\-pur\=a\d na}\index{Skandapurana@\textsl{Skandapur\=a\d na}}}
+\newcommand{\SvT}{SvT\index{Svacchandatantra@\textsl{Svacchandatantra}}}
+\newcommand{\YHcomm}{YH$_\textrm{c}$\index{Yoginihridaya@\textsl{Yogin\=\i h\d rdaya}!comm.}}
+\newcommand{\YH}{YH\index{Yoginihridaya@\textsl{Yogin\=\i h\d rdaya}}}
+\newcommand{\YS}{YS\index{Yogasutra@\textsl{Yogas\=utra}}}
+\newcommand{\YBh}{YBh\index{Yogabhāṣya@\textsl{Yogabh\=a\d sya}}}
+\newcommand{\YSS}{YSS\index{Yogasarasamgraha@\textsl{Yogas\=arasa\d mgraha}}}
+\newcommand{\TAK}{TAK} %\index{Tantrikabhidhanakosa@\textsl{T\=antrik\=abhidh\=anako\'sa}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Śaṅkaradigvijayas
+
+\newcommand{\VSV}{ŚVV\index{Sankaravijaya@\textsl{\'Sa\.nkaravijaya} of Vy\=as\=acala}}
+\newcommand{\SDV}{ŚDV\index{Sankaradigvijaya@\textsl{\'Sa\.nkaradigvijaya} of\\ M\=adhva/Vidy\=ara\d nya}}
+\newcommand{\ASV}{ŚVA\index{Sankaravijaya@\textsl{\'Sa\.nkaravijaya} of (Anant)\=anandagiri}}
+\newcommand{\RSA}{ŚAR\index{Sankarabhyudaya@\textsl{\'Sa\.nkar\=abhyudaya} of R\=ajac\=u\d d\=ama\d ni D\=\i k\d sita}}
+\newcommand{\SSD}{SŚD\index{Samksiptasankaradigvijaya@\textsl{Sa\d mk\d sipta\'sa\.nkaradigvijaya} of\\ \=Aditya\'sa\.nkar\=ac\=arya}}
+
+
+
+
+\newcommand{\thdanda}{{\thinspace$\cal j$}}
+\newcommand{\thketdanda}{\thinspace$\cal k$}
+%%%%%%%%% Padas
+\newcommand{\vo}{{\normalfont\textbf{\vs~}}}
+\newcommand{\vA}{\textbf{\vs \padaA~}} % I dont use these any more
+\newcommand{\vB}{\textbf{\vs \padaB~}} % I dont use these any more
+\newcommand{\p}{\textbf{\vs \padaA~}}
+\newcommand{\pp}{\textbf{\vs \padaB~}}
+\newcommand{\ppp}{\textbf{\vs \padaAB~}}
+\newcommand{\va}{{\normalfont \textbf{\vs a~}}} % I dont use these any more, only in non-anu.s.tubh
+\newcommand{\vb}{{\normalfont \textbf{\vs b~}}} % I dont use these any more, only in non-anu.s.tubh
+\newcommand{\vc}{{\normalfont \textbf{\vs c~}}} % I dont use these any more, only in non-anu.s.tubh
+\newcommand{\vd}{{\normalfont\textbf{\vs d~}}} % I dont use these any more, only in non-anu.s.tubh
+\newcommand{\ve}{{\normalfont\textbf{\vs e~}}} % I dont use these any more
+\newcommand{\vf}{{\normalfont\textbf{\vs f~}}} % I dont use these any more
+\newcommand{\vab}{{\normalfont\textbf{\vs ab~}}} % I dont use these any more
+\newcommand{\vcd}{{\normalfont\textbf{\vs cd~}}} % I dont use these any more
+\newcommand{\vef}{{\normalfont\textbf{\vs ef~}}} % I dont use these any more
+\newcommand{\vabce}{{\normalfont\textbf{\vs a--d~}}} % I dont use these any more
+\newcommand{\vcdef}{{\normalfont\textbf{\vs c--f}}} % I dont use these any more
+
+\newcommand{\subb}[1]{\bigskip\textbf{#1}\medskip}
+%\newcommand{\jati}[1]{{\fbox{\parbox{\linewidth}{#1}}}}
+%\newcommand{\jati}[2][]{\tikz[overlay]\node[fill=blue!20,inner sep=2pt, anchor=text, rectangle, rounded corners=1mm,#1] {#2};\phantom{#2}}
+\newcommand{\jati}[1]{\textbf{#1}}
+\newcommand{\Notes}{\textit{Textual Notes}}
+\newcommand{\Colo}{{\normalfont\textbf{Colophon}}}
+\newcommand{\notelemm}[2]{#1: \textbf{#2}~]}
+\newcommand{\lem}{{\normalfont \thinspace \textbf{]} }}
+\newcommand{\note}[1]{#1:}
+%\newcommand{\AD}{\textsc{ad}}
+\newcommand{\CE}{\textsc{ce}}
+\newcommand{\dik}{\textsuperscript{th}}
+%\newcommand{\rovidb}{\char23\kern-.25em}%abbrev in Skt words left
+%\newcommand{\rovidj}{\kern-.25em\char23\kern-.45em}%abbrev in Skt words right
+\newcommand{\rovidb}{{\textdegree}}%abbrev in Skt words left % I dont use these any more
+\newcommand{\rovidj}{{\textdegree}}%abbrev in Skt words right % I dont use these any more
+\newcommand{\rovid}{{\textdegree}}%abbrev in Skt words right
+
+
+
+\newcommand{\pusp}{${\oplus}$}
+\newcommand{\puspika}{${\otimes}$}
+\newcommand{\abbr}{\char23}
+\newcommand{\Patala}{\skt{Pa{\d t}ala}}
+\newcommand{\patala}{\skt{pa{\d t}ala}}
+\newcommand{\sasm}[1]{!SĀŚM: #1!}
+
+
+%\newcommand{\New}[1]{\begin{center}\textbf{+++++\hbox{N\lower0.2em\hbox{E}\hbox{W}}!!!+++++}#1
+%\textbf{+++++ END of \hbox{N\lower0.2em\hbox{E}\hbox{W}} +++++}\end{center}}
+
+\newcommand{\New}{\textbf{\hbox{N\lower0.2em\hbox{E}\hbox{W}}!!!}}
+%%% Apparatus signs
+\newcommand{\corrKiss}{{\normalfont\corr}}
+\newcommand{\emeKiss}{{\normalfont\eme}}
+\newcommand{\conjKiss}{{\rm\conj}}
+\newcommand{\corrHaru}{\corr~\Haru}
+\newcommand{\emeHaru}{{\normalfont\eme~\Haru}}
+\newcommand{\conjHaru}{\conj~\Haru}
+%\newcommand{\corrHidas}{\corr~\textsc{Hidas}}
+%\newcommand{\emeHidas}{\eme~\textsc{Hidas}}
+%\newcommand{\conjHidas}{\conj~\textsc{Hidas}}
+\newcommand{\corrHidas}{\corr}
+\newcommand{\emeHidas}{\eme}
+\newcommand{\conjHidas}{\conj}
+\newcommand{\corrSzanto}{\corr~\textsc{Sz\'ant\'o}}
+\newcommand{\emeSzanto}{\eme~\textsc{Sz\'ant\'o}}
+\newcommand{\conjSzanto}{\conj~\textsc{Sz\'ant\'o}}
+\newcommand{\corrTorzsok}{{\normalfont\corr~\Torzsok}}
+\newcommand{\emeTorzsok}{{\normalfont\eme~\Torzsok}}
+\newcommand{\conjTorzsok}{{\normalfont\conj~\Torzsok}}
+\newcommand{\corrHatley}{\corr~\Hatley}
+\newcommand{\emeHatley}{\eme~\Hatley}
+\newcommand{\conjHatley}{\conj~\Hatley}
+\newcommand{\corrGoodall}{{\normalfont\corr~\Goodall}}
+\newcommand{\emeGoodall}{{\normalfont\eme~\Goodall}}
+\newcommand{\conjGoodall}{{\normalfont\conj~\Goodall}}
+\newcommand{\corrKafle}{{\normalfont\corr~\Kafle}}
+\newcommand{\emeKafle}{{\normalfont\eme~\Kafle}}
+\newcommand{\conjKafle}{{\normalfont\conj~\Kafle}}
+\newcommand{\corrSanderson}{\corr~\Sanderson}
+\newcommand{\emeSanderson}{\eme~\Sanderson}
+\newcommand{\conjDiwakar}{\conj~Diwakar}
+\newcommand{\corrDiwakar}{\corr~Diwakar}
+\newcommand{\emeDiwakar}{\eme~Diwakar}
+\newcommand{\conjSanderson}{\conj~\Sanderson}
+\newcommand{\oo}{{\normalfont\ \ ${\bullet}$\ \ }}
+\newcommand{\unmetr}{{\normalfont (unmetr.)}}
+\newcommand{\conj}{{\normalfont conj.}}
+\newcommand{\corr}{{\normalfont corr.}}
+\newcommand{\eme}{{\normalfont em.}}
+\newcommand{\kozep}[1]{\begin{center}{#1}\end{center}}
+\newcommand{\paralid}{}
+\newcommand{\crux}[1]{{\dag #1\dag}}
+\newcommand{\cruxdn}[1]{{$\dag\thinspace$#1$\dag$}}
+\newcommand{\fejezet}[1]{\subsection{#1}
+				
+}
+
+
+
+\newcommand{\alfejezet}[1]{\begin{center}
+        {\textbf{{{\normalfont\textbf{\large[}}{\large#1}{\normalfont  \textbf{\large]}}}}}\dontdisplaylinenum
+\addcontentsline{toc}{subsection}{#1}
+\end{center}
+
+}
+
+\newcommand{\alalfejezet}[1]{\begin{center}
+\textbf{{{\normalfont\textbf{[}}{#1}{\normalfont\textbf{]}}}}\dontdisplaylinenum
+\addcontentsline{toc}{subsubsection}{#1}
+\end{center}
+
+}
+
+\newcommand{\alalalfejezet}[1]{\begin{center}
+\textbf{{{\normalfont\textbf{[}}{\footnotesize#1}{\normalfont\textbf{]}}}}\dontdisplaylinenum
+\addcontentsline{toc}{subsubsection}{#1}
+\end{center}
+
+}
+
+
+\newcommand{\alfejezetdn}[1]{\begin{center}
+        {\textbf{{{\normalfont\Large [}{\dn#1}{\normalfont\Large  ]}}}}\dontdisplaylinenum 
+\addcontentsline{toc}{subsection}{#1}
+\end{center}
+
+}
+
+\newcommand{\alalfejezetdn}[1]{\begin{center}
+\textbf{{{\normalfont\large [}{\dn#1}{\normalfont\large  ]}}}\dontdisplaylinenum 
+\addcontentsline{toc}{subsubsection}{#1}
+\end{center} 
+
+}
+
+
+%\newcommand{\alfejezet}[1]{\subsubsection[#1]{{\textbf{{#1}}}}\vers}
+%\newcommand{\fejezet}[1]{\begin{center}{\textbf{\suppl{#1}}}\end{center}}
+
+\newcommand{\atugras}[2]{\begin{center}{\dots}\end{center}\ugras\ugras\begin{center}
+(\textit{#1})
+\end{center}\begin{center}{\dots}\end{center}}
+\newcommand{\atugr}[2]{\begin{center}(\textit{#1})\end{center}}
+\newcommand{\urescim}[1]{\thispagestyle{empty}\ \vskip8cm{\begin{center}\huge\textsc{#1}\end{center}}}
+\newcommand{\gap}{${\sqcup}$}
+\newcommand{\Exeme}{\textit{Ex em.}}
+\newcommand{\Exconj}{\textit{Ex conj.}}
+\newcommand{\exeme}{\textit{ex em.}}
+\newcommand{\exconj}{\textit{ex conj.}}
+\newcommand{\nagy}{}
+ \sidenotemargin{outer}
+%\newcommand{\folio}[1]{\ledsidenote{\tiny #1}\vers}
+
+%\newcommand{\folio}[1]{{\tiny {\textsc{$\rightarrow$}} #1}
+
+%\vers}
+
+%\newcommand{\folio}[1]{}
+%\newcommand{\folioo}[1]{\textbf{[f.~#1]}}
+%\newcommand{\folio}[1]{\textbf{[#1]}}
+\newcommand{\folioo}[1]{}
+%\newcommand{\folio}[1]{}
+
+\newcommand{\folio}[1]{\begin{center}{\tiny {\textsc{$\rightarrow$}} #1}
+\end{center}
+
+\vers}
+
+
+\newcommand{\csbreve}{} %CHECK for Roman version
+\newcommand{\csa}{{A}} %only mātrā
+\newcommand{\csr}{{\dn \0}} %only superscript r
+\newcommand{\csi}{{\dn E}} %only i
+\newcommand{\csI}{{\dn F}} %only ī
+\newcommand{\cse}{{\dn \?}} %only e
+\newcommand{\csai}{{\dn \4}} %only ai
+\newcommand{\cso}{{\dn o}} %only o
+\newcommand{\csuil}{{\dn \7{\il}}} % u plus \il
+\newcommand{\csdh}{{\dn @}} % dh 
+\newcommand{\cst}{{\dn (}} % t 
+
+
+\newcommand{\rem}[1]{\ledrightnote{\tiny [#1]}\vers}
+\newcommand{\frecto}[1]{\ledleftnote{\tiny{#1\recto}}\vers}
+\newcommand{\fverso}[1]{\ledleftnote{\tiny{#1\verso}}\vers}
+\newcommand{\kkicsi}{}
+%\newcommand{\toplost}{{\normalfont(\textit{top of akṣaras lost})}}
+\newcommand{\toplost}{{\normalfont(top of akṣaras lost)}}
+\newcommand{\vverso}{\verso}
+\newcommand{\rrecto}{\recto}
+\newcommand{\trvers}[1]{$^{{\textnormal{\scriptsize [#1]}}}$}
+\newcommand{\prefn}[3]{$^{\scriptsize\textnormal{[}}$\footnote[#1]{$^{\scriptsize 
+		\textnormal{#2}}$#3}{$^{\textnormal{\scriptsize #2]}}$}}
+%\newcommand{\slokawithfn}[4]{
+%
+%$^{\scriptsize\textnormal{[}}$\footnote[#1]{$^{\scriptsize 
+%		\textnormal{#2}}$#4}{$^{\textnormal{\scriptsize#2]}}$}#3}
+
+
+
+
+%\newcommand{\slokawithfn}[4]{
+%
+%$^{\scriptsize\textnormal{}}$\footnote[#1]{$^{\scriptsize 
+%		\textnormal{#2}}$#4}{$^{\textnormal{\scriptsize#2}}$}#3}
+
+
+%\newcommand{\slokawithfn}[4]{$^{\the\fejno.}$\footnote[#1]{$^{\scriptsize\textnormal{#2}}$#4}$^{\textnormal{#2}}$#3}
+%\newcommand{\slokawithoutfn}[2]{$^{\textnormal{\the\fejno.#1}}$#2}
+
+\newcommand{\slokawithfn}[4]{\footnote[#1]{$^{\scriptsize\textnormal{#2}}$#4}$^{\textnormal{#2}}$#3}
+\newcommand{\slokawithoutfn}[2]{$^{\textnormal{#1}}$#2}
+
+
+%\newcommand{\slokawithoutfn}[3]{
+%
+%{$^{\scriptsize\textnormal{[}}${$^{\textnormal{\scriptsize #1]}}$}}#2}
+
+%\newcommand{\slokawithoutfn}[3]{
+%
+%{$^{\scriptsize\textnormal{}}${$^{\textnormal{\scriptsize #1}}$}}#2}
+
+
+\newcommand{\trlemm}[1]{\textbf{\textit{#1}}}
+\newcommand{\trlemmindex}[1]{\textbf{\textit{#1}}\index{#1}}
+
+%\newcommand{\Grammar}{${\rhd}$ }
+%\newcommand{\Meaning}{${\bigtriangleup}$ }
+%\newcommand{\Grammar}{\Moon\ }
+%\newcommand{\Meaning}{\Sun\ }
+\newcommand{\Grammar}{}
+\newcommand{\Meaning}{}
+
+\newcommand{\upadhm}{f}
+
+
+\newcommand{\dnapp}[1]{}
+\newcommand{\rmapp}[1]{#1}
+
+%\newcommand{\trvers}[1]{$^{\textcircled{#1}}$}
+\newcommand{\trfejezet}[1]{\begin{center}{\large \textbf{[{Chapter #1}]}}\end{center}\bigskip}
+%\newcommand{\tralfejezet}[1]{\begin{center}\textsc{[#1]}\end{center}}
+\newenvironment{trnemsloka}{\begin{quotation}\noindent}{\end{quotation}}
+\newcommand{\ie}[1]{(\skt{#1})\index{#1}}
+\newcommand{\ienoindex}[1]{(\skt{#1})}%no indexing
+\newcommand{\suppl}[1]{$<${#1}$>$}
+\newcommand{\error}[1]{{\sout{#1}}}
+%\newcommand{\om}{{\normalfont\textit{omitted in}}}
+\newcommand{\om}{{\normalfont omitted in}}
+\newcommand{\uncl}[1]{${\wr}$#1${\wr}$}
+\newcommand{\cancelled}{{\normalfont(\textit{cancelled})}}
+\newcommand{\isitcancelled}{{\normalfont(\textit{cancelled?})}}
+\newcommand{\eyeskip}[1]{{\normalfont (eyeskip to #1)}}
+\newcommand{\recto}{$^r$\/}
+\newcommand{\verso}{$^v$\/}
+\newcommand{\pcorr}{{\normalfont $^{pc}$\/}}
+\newcommand{\acorr}{{\normalfont $^{ac}$\/}}
+\newcommand{\sadhaka}{S{\=a}\-dha\-ka\index{sādhaka}}
+\newcommand{\mantrin}{Mantrin\index{mantrin}}
+%\newcommand{\kalpa}{Kalpa\index{kalpa}}
+%\newcommand{\Skt}[1]{#1}\index{#1}}%\index{#1}}%Sanskrit in italics
+\newcommand{\skt}[1]{\textit{#1}}%}%\index{#1}}%Sanskrit in italics
+\newcommand{\sktindex}[1]{\textit{#1}\index{#1}}%}%\index{#1}}%Sanskrit in italics
+\newcommand{\pskt}[1]{\textit{#1}}%parallels
+\newcommand{\cim}[1]{\textsl{#1}\index{#1}}%Titles in slanted
+\newcommand{\titl}[1]{\textsl{#1}}%Titles in slanted
+\newcommand{\cimnoindex}[1]{\textsl{#1}}%Titles in slanted
+\newcommand{\il}{${\star}$}
+\newcommand{\lost}{\normalfont{×}}
+\newcommand{\chapp}[1]{\textit{#1}}
+\newcommand{\att}[1]{\underline{#1}}
+\newcommand{\allpatalas}[1]{\textit{Pa\d{t}ala} #1}
+\newcommand{\mntr}[1]{{\textsc{#1}}}%}%\index{#1}}%Mantras in small capitals
+\newcommand{\mntrdn}[1]{#1}%Mantras in devnag
+\newcommand{\mntrindex}[1]{\textsc{#1}\index{#1}}%Mantras in small capitals
+\newcommand{\dialog}[1]{{\textsc{#1}}}%Dialogue in small capitals
+\newcommand{\edmntrsmall}[1]{{\textsc{#1}}}%Mantras in small capitals
+\newcommand{\vegeadalnak}{\bekveg\szamveg\vfill\pagebreak}
+\newcommand{\kb}{${\approx}$}
+\newcommand{\scsmall}{\mntr} % outdated
+\newcommand{\verbalroot}[1]{$\sqrt{#1}$}
+\newcommand{\fb}{${\Rsh}$} %folio break
+\newcommand{\upperfol}{${\uparrow}$} %folio break
+\newcommand{\lowerfol}{${\downarrow}$} %folio break
+\newcommand{\aisa}[1]{$^\textnormal{\tiny #1}$}
+\newcommand{\Aisa}[1]{~${\rightarrow}~\S$#1\index{Ai{\'sa} #1}}
+\newcommand{\kep}[1]{\includegraphics[scale=2.5]{$HOME/indology/early_tantra_project/edition/byeditionmainfiles/images/#1}}
+\newcommand{\kepp}[1]{\includegraphics[scale=2]{$HOME/indology/early_tantra_project/edition/byeditionmainfiles/images/#1}}
+\newcommand{\keppp}[1]{\includegraphics[scale=1]{$HOME/indology/early_tantra_project/edition/byeditionmainfiles/images/#1}}
+%%%AUTHORS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\csindex}[1]{#1\index{#1}}
+
+\newcommand{\Kiss}{\textsc{Kiss}\index{Kiss, Csaba}}
+\newcommand{\Bader}{\textsc{Bader}}%\index{Bader}}
+\newcommand{\Clark}{\textsc{Clark}}%\index{Clark}}
+\newcommand{\Jowett}{\textsc{Jowett}}%\index{Jowett}}
+\newcommand{\Goodall}{{\normalfont\textsc{Good\-all}}\index{Goodall, Dominic}}
+\newcommand{\Kloppenborg}{\textsc{Kloppenborg}}%\index{Kloppenborg}}
+\newcommand{\Dehejia}{\textsc{Dehejia}}%\index{Dehejia}}
+\newcommand{\Pandeya}{\textsc{P\={a}\d{n}\d{d}eya}}%\index{{P\={a}\d{n}\d{d}eya}}}
+\newcommand{\Sanderson}{\textsc{Sand\-erson}\index{Sanderson, Alexis}}
+\newcommand{\Hatley}{\textsc{Hat\-ley}\index{Hatley, Shaman}}
+\newcommand{\Wise}{\textsc{Wise}}%\index{Wise}}
+\newcommand{\Dey}{\textsc{Dey}}%\index{Dey}}
+\newcommand{\Torzsok}{\textsc{T\"or\-zs\"ok}\index{Törzsök, Judit}}
+\newcommand{\Haru}{\textsc{Isa{a}cson}\index{Isa{a}cson, Harunaga}}
+\newcommand{\Nirajan}{{\rm \textsc{Kafle}}\index{Kafle, Nirajan}}
+\newcommand{\Kafle}{{\rm \textsc{Kafle}}\index{Kafle, Nirajan}}
+\newcommand{\Mallinson}{\textsc{Mallin\-son}\index{Mallin\-son, James}}
+\newcommand{\White}{\textsc{White}\index{White}}
+\newcommand{\Goudr}{\textsc{Goudria{a}n}\index{Goudria{a}n, Teun}}
+\newcommand{\Kale}{\textsc{Kale}\index{Kale}}
+\newcommand{\Bagchi}{\textsc{Bagchi}}%\index{Bagchi}}
+\newcommand{\Briggs}{\textsc{Briggs}}%\index{Briggs}}
+\newcommand{\Brunner}{\textsc{Brunner}\index{Brunner, H\'el\`ene}}
+\newcommand{\Dyczkowski}{\textsc{Dyczkowski}}%\index{Dyczkowski}}
+\newcommand{\Finn}{\textsc{Finn}}%\index{Finn}}
+\newcommand{\Garzilli}{\textsc{Garzilli}}%\index{Garzilli}}
+\newcommand{\Heilijgers}{\textsc{Heilijgers}}%\index{Heilijgers}}
+\newcommand{\Mallik}{\textsc{Mallik}}%\index{Mallik}}
+\newcommand{\McGregor}{\textsc{McGregor}}%\index{McGregor}}
+\newcommand{\Rao}{\textsc{Rao}}%\index{Rao}}
+\newcommand{\Vasudeva}{\textsc{Vasudeva}\index{Vasudeva, Somadeva}}
+\newcommand{\Vyas}{\textsc{Vyas \&\ Kshirsagar}}%\index{Vyas \&\ Kshirsagar}}
+\newcommand{\Bouy}{\textsc{Bouy}}%\index{Bouy}}
+\newcommand{\Sensharma}{\textsc{Sensharma}}%\index{Sensharma}}
+\newcommand{\Bisschop}{\textsc{Bisschop}}%\index{Bisschop}}
+\newcommand{\Schoterman}{\textsc{Schoterman}}%\index{Schoterman}}
+\newcommand{\Gonda}{\textsc{Gonda}}%\index{Gonda}}
+\newcommand{\Brooks}{\textsc{Brooks}}%\index{Brooks}}
+\newcommand{\Buhnemann}{\textsc{B\"uhnemann}}%\index{B\"uhnemann}}
+\newcommand{\Khanna}{\textsc{Khanna}}%\index{Khanna}}
+\newcommand{\Gupta}{\textsc{Gupta}}%\index{Gupta}}
+\newcommand{\Hoens}{\textsc{Hoens}}%\index{Hoens}}
+\newcommand{\Padoux}{\textsc{Padoux}}%\index{Padoux}}
+\newcommand{\Avalon}{\textsc{Avalon}}%\index{Avalon}}
+\newcommand{\MookerjeeKhanna}{\textsc{Mookerjee \&\ Khanna}}%\index{Mookerjee \&\ Khanna}}
+\newcommand{\Rawson}{\textsc{Rawson}}%\index{Rawson}}
+\newcommand{\Uberoi}{\textsc{Uberoi}}%\index{Uberoi}}
+\newcommand{\Tapasyananda}{\textsc{Tapasyananda}}%\index{Tapasyananda}}
+\newcommand{\Dvivedi}{\textsc{Dvivedi}}%\index{Dvivedi}}
+\newcommand{\Mallman}{\textsc{Mallman}}%\index{Mallman}}
+\newcommand{\West}{\textsc{West}}%\index{West}}
+\newcommand{\Dearing}{\textsc{Dearing}}%\index{Dearing}}
+\newcommand{\Chaudhuri}{\textsc{Chaudhuri}}%\index{Chaudhuri}}
+\newcommand{\Deshpande}{\textsc{Deshpande}}%\index{Deshpande}}
+\newcommand{\Digby}{\textsc{Digby}}%\index{Digby}}
+\newcommand{\Levi}{\textsc{Levi}}%\index{Levi}}
+\newcommand{\Dupuche}{\textsc{Dupuche}}%\index{Dupuche}}
+\newcommand{\Rukmini}{\textsc{Rukmini}}%\index{Rukmini}}
+\newcommand{\Rose}{\textsc{Rose}}%\index{Rose}}
+\newcommand{\Bunce}{\textsc{Bunce}}%\index{Bunce}}
+\newcommand{\Antarkar}{\textsc{Antarkar}}%\index{Antarkar}}
+\newcommand{\Locke}{\textsc{Locke}}%\index{Locke}}
+\newcommand{\Upadhyay}{\textsc{Upadhyay}}%\index{Upadhyay}}
+\newcommand{\Diwakar}{\textsc{Diwakar}}%\index{Diwakar}}
+\newcommand{\Wallis}{\textsc{Wallis}\index{Wallis, Christopher}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\newcommand{\szam}{\beginnumbering}
+\newcommand{\bek}{\pstart}
+\newcommand{\szamveg}{\endnumbering}
+\newcommand{\bekveg}{\pend}
+\newcommand{\ugras}{%
+
+\  
+\dontdisplaylinenum
+
+}
+
+\newcommand{\edmntr}[1]{\textsc{#1}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeatletter
+% I'd like a spaced out colon after the lemma:
+\def\spacedcolon{{\rm\thinspace:\thinspace}}
+\def\normalfootfmt#1#2#3{%
+  \normal@pars
+  \parindent=0pt \parfillskip=0pt plus 1fil
+  {\notenumfont\printlines#1|}\strut\enspace
+  {\select@lemmafont#1|#2}\spacedcolon\enskip#3\strut\par}
+
+% And I'd like the 3-col notes printed with a hanging indent:
+\def\threecolfootfmt#1#2#3{%
+  \normal@pars
+  \hsize .3\hsize
+  \parindent=0pt
+  \tolerance=5000       % high, but not infinite
+  \raggedright
+  \hangindent1.5em \hangafter1
+  \leavevmode
+  \strut\hbox to 1.5em{\notenumfont\printlines#1|\hfil}\ignorespaces
+  {\select@lemmafont#1|#2}\rbracket\enskip
+  #3\strut\par\allowbreak}
+
+% And I'd like the 2-col notes printedf with a double colon:
+\def\doublecolon{{\rm\thinspace::\thinspace}}
+\def\twocolfootfmt#1#2#3{%
+  \normal@pars
+  \hsize .45\hsize
+  \parindent=0pt
+  \tolerance=5000
+  \raggedright
+  \leavevmode
+  \strut{\notenumfont\printlines#1|}\enspace
+  {\select@lemmafont#1|#2}\doublecolon\enskip
+  #3\strut\par\allowbreak}
+
+% And in the paragraphed footnotes, I'd like a colon too:
+\def\parafootfmt#1#2#3{%
+  \normal@pars
+  \parindent=0pt \parfillskip=0pt plus 1fil
+  {\notenumfont\printlines#1|}%
+  {\select@lemmafont#1|#2}:%
+  #3\penalty-10 }
+\makeatother
+
+% I'd like the line numbers picked out in bold.
+%\let\notenumfont=\eightbf
+%\lineation{page}
+%\linenummargin{inner}
+%\firstlinenum=3       % just because I can
+%\linenumincrement=1
+%%%% lemma es szam nelkul%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeatletter
+ \def\lemmaesszamnelkulfmt#1#2#3{%
+\tolerance=9999\normal@pars\rightskip=0pt\leftskip=0pt
+\parindent=0pt \parfillskip=0pt plus 1fil\textit{#3}\penalty-10}
+\makeatother
+
+
+\makeatletter
+ \def\lemmaesszamnelkulparallelsfmt#1#2#3{%
+\tolerance=9999\normal@pars\rightskip=0pt\leftskip=0pt
+\parindent=0pt \parfillskip=0pt plus 1fil #3\penalty-10}
+\makeatother
+
+%NEW
+\makeatletter
+ \def\lemmaesszamnelkultwocolfmt#1#2#3{%
+\tolerance=999\normal@pars
+  \hsize .47\hsize
+\rightskip=0pt\leftskip=1pt
+\parindent=10pt \parfillskip=0pt plus 1fil\textit{#3}\penalty-10}
+%%%% lemma nelkul%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\def\lemmanelkulfmt#1#2#3{%
+ \normal@pars\rightskip=0pt\leftskip=0pt
+\parindent=0pt \parfillskip=0pt plus 1fil
+{{\bf\printlines#1| }}%
+{\select@lemmafont#1|#2}#3 \penalty-10}
+
+\makeatother
+\footparagraph{A}
+\footparagraph{B}
+\footparagraph{C}
+\footparagraph{D}
+%\foottwocol{D} % if you want 2-col apparatus
+\footparagraph{E}
+
+% register separators
+%\usepackage{bbding} % for the lohere symbol
+%\renewcommand{\normalfootnoterule}{\begin{center}{\tiny\CrossClowerTips}\end{center}}
+%\newcommand{\paranormalfootnoterule}{\begin{center}{\rule{3em}{.1pt}}\end{center}\vskip-.1em}
+
+\let\Dfootnoterule=\normalfootnoterule
+%\let\Cfootnoterule=\paranormalfootnoterule
+\let\Cfootnoterule=\normalfootnoterule
+
+\makeatletter
+\def\myparafootfmt#1#2#3{%
+\tolerance=9999\normal@pars\rightskip=0pt\leftskip=0pt
+\parindent=0pt \parfillskip=0pt plus 1fil{\bf l}$_{\bf\printlines#1|}$\thinspace #3\penalty-10}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\let\Afootfmt\lemmaesszamnelkulfmt % without automatic lemma and any number; these you add manually; for Sanskrit, automatic lemma is a nightmare 
+\let\Bfootfmt\lemmaesszamnelkulfmt
+\let\Cfootfmt\lemmaesszamnelkulparallelsfmt
+\let\Dfootfmt\lemmaesszamnelkulfmt % let's make layer D the same
+%\let\Dfootfmt\lemmaesszamnelkultwocolfmt % 2-col apparatus
+\let\Afootfmt\myparafootfmt
+%\let\Dfootfmt\parafootfmt % another type of apparatus layer
+
+\lineation{page}
+\linenummargin{outer}
+\firstlinenum{10000} % 10000 to eliminate
+\linenumincrement{1}
+
+
+\newcommand{\phpspagebreak}{\pagebreak}
+
+
+
+
+\makeatletter
+\renewcommand\section{\@startsection{section}{1}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {2.3ex \@plus.2ex}%
+                                   {\normalfont\LARGE\bfseries}}% from \Large
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\normalfont\Large\bfseries}}% from \large
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+                                     {-0ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\normalfont\large\bfseries}}% from \normalsize
+\makeatother
+
+% Linux Tamil font
+%\newfontfamily\tamilfont{Lohit Tamil}
+
+
