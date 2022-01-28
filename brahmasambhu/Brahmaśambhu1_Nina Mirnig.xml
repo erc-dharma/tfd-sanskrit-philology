@@ -279,7 +279,7 @@ placed on top of a pile of all types of grain, its body smeared with white sanda
 % ms: yasyordha.mto ; but we should probably adopt the orthography yasyorddhato !
 <TEXT>udbhinnaṃ tad{ }iti jñeyam{ }amātyabhavanaṃ śubham ||</TEXT>
 
-<APP>\vb<LEM>yasyorddhvato</LEM> \emend; yasyorddhaṃto \A<\APP>
+<APP>\vb<LEM>yasyorddhvato</LEM> \emend; yasyorddhaṃto \msA<\APP>
 
 
 <TR>That house of catuḥśāla type that has a door above, at the top of a staircase, is to be known to be the Udbhinna type of house: it is auspicious as a home for a minister.</TR>
@@ -298,11 +298,7 @@ placed on top of a pile of all types of grain, its body smeared with white sanda
 <APP>\vc <LEM>tad dvāram°</LEM> \msApc?; ta dvāram \msAac</APP>
 
 
-<TR>A Samasta house [house] is square, [measuring] all around the same [amount of] hastas. A door in the middle is not desirable; that door, if it is somewhere else, it is fine.</TR>
-
-
-
-
+<TR>A Samahasta house [house] is square, [measuring] all around the same [amount of] hastas. A door in the middle is not desirable; that door, if it is somewhere else, it is fine.</TR>
 
 % 21
 <TEXT>ubhayor{ }viṣamair{ }hastaiś{ }caturaśrā śubhā smṛtā |</TEXT>
@@ -313,15 +309,20 @@ placed on top of a pile of all types of grain, its body smeared with white sanda
 <TEXT>tribhāganirgatair{ }bhadrair{ }upetā madhyanirggamā ||</TEXT>
 
 
-
-<TR>[A house (<skt>śālā</skt>)] that has four right-angles but with a different measurement of cubits on each side is held to be fine.  It should have a central projection (<skt>madhyanirggamā</skt>) [and be] equipped with Bhadras (?) which should project three-quarters [of the way out(?)].
-  [Second half not clear !!]
+<TR>[A house (<skt>śālā</skt>)] that has four right-angles but with a different measurement of cubits on each [pair of sides] is held to be fine.  It should have a central projection (<skt>madhyanirggamā</skt>) [and be] equipped with Bhadras (?) which should project three-quarters [of the way out(?)]/ which should project one third of the [total depth/length of the principal projection ?/ which should project from a point that is one third of the way along the side of the central projection ? ].
 </TR>
+<!-- [Second half not clear !!] -->
+
+<NOTE>For <skt>tribhāga°</skt>, see e.g. Raghuvaṃśa 3:26 in Vallabha's text and the note of Goodall and Isaacson (2003:319–320) ad loc., in which it is clear that different commentators understand the expression to mean “one third” or “three quarters”.
+
+The meaning of bhadra is not entirely certain, but we think it may refer to a small projection.  Note that the NWS mentions the meaning “a particular part of a house”.
+</NOTE>
 
 % Perhaps one should emend to madhyanirgamāḥ and undertand
 
 cf. Mayasa"ngraha 5:73 on madhyanirgama (Check Libbie's book, p. 396)
 
+%%12.11.2021
 
 %%22.10.2021
 % 6. Bahula/Bāhulaka:
@@ -503,8 +504,6 @@ cf. Mayasa"ngraha 5:73 on madhyanirgama (Check Libbie's book, p. 396)
 % 42
 <TEXT>bhadrakumbhaṃ baliṃ citraṃ kudālaṃ madhusarpiṣī |</TEXT>
 <TEXT>sarvvam{ }ekatra saṃbhṛtya tato vāstuṃ purā yajet ||</TEXT>
-
-
 
 
 % 43

@@ -1044,8 +1044,14 @@ of the mantras.</TR>
 [4.90]
 <TEXT>itaḥprabhṛti saṃkrānto yo ’dhikāro mama tvayi |</TEXT>
 <TEXT>sa karttavyas{ }tvayā tāvad{ }yāvat{ }saṃkrāmito ’nyataḥ || 90 ||</TEXT>
-<NOTE>Alexis points out that 4.90 is quoted without attribution in KKP p. 377 (qu. in SŚP III 487).</NOTE>
-%% Is KKP meant to be Kriyaakramadyotikaa ? or Prabhaavyaakhyaa thereon ?
+<NOTE>Alexis points out that 4.90 is quoted without attribution in KKP p. 377 (qu. in SŚP III 487).;
+the verse is quoted with minor variants:
+adyaprabhṛti saṃkrānto yo ’dhikāro mayā tvayi |</TEXT>
+sa karttavyas{ }tvayā tāvad{ }yāvat{ }saṃkramito ’nyataḥ
+</NOTE>
+%% Is KKP meant to be Kriyaakramadyotikaa ? or Prabhaavyaakhyaa thereon ?(dominic)
+%%seems to be to be KKD, since SP quotes KKD with 'A' abb and 'N' for Niramalamaṇi
+and at this place SP gives only 'A' (SAS)
 
 <TR>From now onwards, these responsibilities of mine are transferred on to you.  They are to be performed by you until you have transferred them to someone else.</TR>
 
@@ -1053,61 +1059,131 @@ of the mantras.</TR>
 
 15.10.2021
 [4.91]
-<TEXT>anīpsan sa punaḥ kartuṃ nijam eva samarpayet |</TEXT>
-<TEXT>samabhīpsaṃs tu tattulyam asamarthetaro thavā ||</TEXT>
+<TEXT>anīpsan{ }sa punaḥ kartuṃ nijam{ }eva samarpayet |</TEXT>
+<TEXT>samabhīpsaṃs{ }tu tattulyam{ }asamarthetaro ’thavā ||</TEXT>
+
+<TR>If that [original guru] is unwilling further to perform [duties], then [it is] his own [body of responsibilities that] he passes on [with the above speech]. But, alternatively (<skt>athavā</skt>), if he is [still] willing [to peform them], and if he is not incompetent [because of old age or infirmity], then he may [only pass on] similar responsibilities [without passing on his own].</TR>
+
+EARLIER UNACCEPTABLE TRANSLATION:
+ If however (<skt>punaḥ</skt>) that person [whom he first chose as successor] (<skt>sa</skt>) is unwilling to perform (<skt>kartum</skt>)[these duties as] his own (<skt>nijam</skt>), he should pass them on [to someone else].  Optionally (<skt>athavā</skt>), if there is [someone else] who is willing [to perform those responsibilities, then the guru may pass them on] simililarly [to that person if that person] is otherwise than incompetent (<skt>asamarthetaraḥ</skt>).
+
+<NOTE>Interpretation somewhat uncertain.  But the verse seems to envisage the alternative possibility that the guru may both nominate a successor and at the same time hold on to his duties.  In our discussion, we disagreed about this interpretation.  Some participants believed that <skt>anīpsan</skt> should instead refer to the new nominees.  But, as \JT\ points out, if no option is given for the guru to hold on to his duties while also creating new gurus, then the number of gurus would be finite and very small !
+</NOTE>
+
 
 [4.92]
-pratipadya yathādiṣṭaṃ guruṇā nūtano guruḥ |
-brūyāt praṇamya (72v3) deveśam etan me stu śivecchayā ||
+<TEXT>pratipadya yathādiṣṭaṃ guruṇā nūtano guruḥ |</TEXT>
+<TEXT>brūyāt{ }praṇamya deveśam{ }etan{ }me ’stu śivecchayā ||</TEXT>
+
+<TR>The new guru, having accepted (<skt>pratipadya</skt>) [this responsibility] as given by the [earlier] guru should bow before the Lord of gods and should say: “May this [responsibility] be mine in accordance with Śiva's will.”</TR>
 
 [4.93]
-tato homaṃ prakurvīta sādhikāro guroḥ svayam |
-kārayen nūtanenānyas tadās tasya pravṛttaye ||%
-\tika{Marg. note on \textit{kārayen nūtanenānyas}:
-\textit{niradhikārāt.}}%
+<TEXT>tato homaṃ prakurvīta sādhikāro guroḥ svayam |</TEXT>
+<TEXT>kārayen{ }nūtanenānyas tadā tasya pravṛttaye ||</TEXT>
+<APP> \vd <LEM>tadā</LEM> \conj; tadās \msA</APP>
 
+<TR>Then, if [the original guru is] retaining his responsibilities (<skt>sādhikāraḥ</skt>), then he should peform an oblation himself for [the new] guru.
+The other [type of guru, viz. the guru who has entirely handed over his own responsibilities] should cause [the oblation] to be performed by the new [guru], for the sake of making him active (<skt>tasya pravṛttaye</skt>) at that time (<skt>tadā</skt>).</TR>
+
+<NOTE>Marginal note on <skt>kārayen nūtanenānyas<skt>:
+<skt>niradhikārāt. Perhaps what was meant was rather <skt>niradhikāraḥ</skt>.</skt>%
+
+Cf. Aghoraśiva in the same context in the KKD (p.380) quoted in SP, III, p. 489:
+guruśca prāyaścittaṃ kṛtvā yāgaṃ samāpayet.
+niradhikārasamarpaṇe kṛte'pi punarapyadhikāranirvahaṇecchuś cet śivena sahasraṃ hutvā,
+śivāllabdhādhikāra.h adhikāra.m kuryāt.
+%%21.1.2022
 [4.94]
-yogapīṭhā(72v4)ṅgamantraiś ca mūrttibhyāñ ca daśāhutīḥ |
-tadvad aṅgai śivenānte pūrṇṇāhutyā satāhutīm ||
+<TEXT>yogapīṭhāṅgamantraiś{ }ca mūrttibhyāñ{ }ca daśāhutīḥ |</TEXT>
+<TEXT>tadvad{ }aṅgaiḥ śivenānte pūrṇṇāhutyā satāhutīm ||</TEXT>
+<APP> \vc <LEM>aṅgaiḥ</LEM> \emend; aṅgai \msA</APP>
+<APP> \vd <LEM>śatahutīḥ</LEM> \conj; satāhutīm \msA</APP>
+
+<TR>[He should perform] ten oblations [each] with the mantras for the parts of the yogapīṭha, and with the two mūrti mantras, similarly with the aṅgamantras and, at the end, [he should perform] with the Śiva-mantra one hundred oblations, along with a pūrṇṇāhuti.</TR>
+
+<NOTE>What are the two mūrtimantras ?
+or is it mūrti and mūla?</NOTE>
 
 [4.95]
-kāryaśeṣam ataḥ kuryāt pūrvvaśekavidher iva |%
-\tika{Marg. note on \textit{pūrvvaśekavidher iva}:
-\textit{kriyāsamarpanādikaṃ}.}
-atrāpi (72v5) deśikādhīśaḥ purāṇo vāthavā navaḥ ||
+<TEXT>kāryaśeṣam ataḥ kuryāt pūrvvasekavidher{ }iva |</TEXT>
+<TEXT>atrāpi deśikādhīśaḥ purāṇo vāthavā navaḥ ||</TEXT>
+<APP> \vb <LEM>°seka°</LEM> \emend; °śeka° \msA</APP>
+<NOTE>Marginal note on <skt>pūrvvaśekavidher{ }iva<skt>:
+<skt>kriyāsamarpanādikaṃ</skt>.</NOTE>
+
+<TR>Next, in this context too, the older superior teacher, or alternatively the new one, should perform whatever remains to be performed as if it belonged to the preceding ritual of consecration.</TR>
+
+<NOTE>What is the earlier consecration here? Does it refer to the <skt>sādhakābhiṣeka</skt>? If so, then <skt>pūrvva</skt> means <skt>pūrvvokta</skt>.</NOTE>
+
+
 
 [4.96]
-guruvaṃśaprarohātmā prāpyaitāṃ padavīm atha
-ācāryavratam ācārya<ś> caret sarvavratottamam
+<TEXT>guruvaṃśaprarohātmā prāpyaitāṃ padavīm{ }atha</TEXT>
+<TEXT>ācāryavratam{ }ācāryaś{ }caret{ }sarvavratottamam</TEXT>
+<APP> \vc <LEM>ācāryaś</LEM> \conj; ācārya \msA</APP>
 
+<TR>Next, having reached this position as a sprout in the lineage of his guru, the [new] guru should perform the <skt>ācāryavrata</skt>, the best of all observances.</TR>
+
+<NOTE>%% Svayambhuvasuutrasa"ngraha typed in from Mysore edition
+%% athaabhi.sekapa.tala.h
+%% pp.41--5
+
+tato homa.m prakurviita yathoktena padaadhvanaa|
+"sivapuur.naahuti.m hutvaa brahmabhirhomamaacaret|| 23||
+"sivaa"ngai"scaiva vidyaa"ngairvidye"sairmuulavidyayaa|
+triraahutirato homa.h kartavya.h padavartinaa|| 24||
+guruparvaprarohaatmaa praapyaitaa.m padavii.m dvija.h|
+aacaaryavratamaacaarya"scaretsarvavratottamam|| 25||
+
+%%ācāryavrata is also known as guruvrata, see TAK I, p. 177.
+see also: ĪśgP II kp 19.31-41b, cité SP3, p. 457 sous [1b])?
+see also: TAK I, pp. 177-178</NOTE>
+
+% \msA, f.73r
 [4.97]
-sama(73r1)rpitabharaḥ śiṣye guruḥ pūrvvo 'parigrahaḥ
-ātmārāmo bhyased yogaṃ tatrā vānyatrā vā yatiḥ || o ||
+<TEXT>samarpitabharaḥ śiṣye guruḥ pūrvvo 'parigrahaḥ</TEXT>
+<TEXT>ātmārāmo ’bhyased{ }yogaṃ tatra vānyatra vā yatiḥ || o ||</TEXT>
+
+<TR>Once he has passed his burden on to his disciple, the previous guru, being now without occupation/retinue/constraint/responsibility (<skt>aparigrahaḥ</skt>) and an ascetic (<skt>yatiḥ</skt>), should practise <skt>yoga</skt>, delighting in himself, either in that place or elsewhere.</TR>
 
 [4.98]
-alabdhaguṇavacchiṣyo yadvā 'nekapa(73r2)rigrahaḥ |%
-\tika{Marg. note before \textit{alabdhaguṇavacchiṣyo}:
-\textit{1 tato 'dhikārābhiṣekaṃ.}}%
-gurur anyam api sthāne deśikaṃ hy abhiṣecayet ||
+<TEXT>alabdhaguṇavacchiṣyo yadvā 'nekaparigrahaḥ |</TEXT>
+<TEXT>gurur{ }anyam{ }api sthāne deśikaṃ hy{ }abhiṣecayet ||</TEXT>
+<NOTE>Marginal note before <skt>alabdhaguṇavacchiṣyo</skt>:
+1 <skt>tato 'dhikārābhiṣekaṃ.</skt></NOTE>
+
+<TR>Alternatively, if the guru has not found a virtuous disciple, the guru, retaining many responsibilities, may consecrate also another guru (<skt>deśikam</skt>) in his place/fittingly (<skt>sthāne</skt>).<
+/TR>
 
 [4.99]
-savarṇṇam ekasaṃtānam udāraṃ tulyagocaram |
-santānānumataṃ dīkṣāvyākhyāsatrapra(73r3)varttakam ||
+<TEXT>savarṇṇam{ }ekasaṃtānam{ }udāraṃ tulyagocaram |</TEXT>
+<TEXT>santānānumataṃ dīkṣāvyākhyāsatrapravarttakam ||</TEXT>
+
+<TR>[He should be] of the same <skt>varṇa</skt>, of the same lineage, noble, of a similar <skt>gocara</skt>, approved by [?the other members of] his lineage, [capable as a] performer of initiation, exposition and sacrifice.</TR>
+
+<NOTE>What kind of <skt>gocara</skt> is meant here?  Is it a brahminical <skt>gocara</skt>, or a Śaiva <skt>gocara</skt>, or simply a geographical area?
+Various other interpretations are no doubt possible of this list.  For instance, one could supply “or” in between each member of the list rather than assuming that all these qualities could be required simultaneously.
+</NOTE>
 
 [4.100]
-maṇḍale gnau ca deveśam iṣṭvā tatkarmasākṣiṇam |%
-\var{sākṣiṇam \conj : sākṣiṇaḥ A}%
-kumbhāṃs tu caturo ṣṭau vā stān vedyāsamalaṃkṛtān || 100 ||%
-\var{kumbhāṃs \corr : kumbhās A
-\spot
-tān vedyāṃ \conj : stānvedyā A}
-%
-[4.101] abhimantrya svarair varggai(73r4)r antasthasoṣmabhiḥ kramāt%
-%
-		\tika{Marg. note: antasthaṃ yavarggaṃ ūṣmāṇaṃ śavarggam.}%
-%
+<TEXT>maṇḍale ’gnau ca deveśam{ }iṣṭvā tatkarmasākṣiṇam |</TEXT>
+<TEXT>kumbhāṃs{ }tu caturo ’ṣṭau vā tān vedyāṃ samalaṃkṛtān || 100 ||</TEXT>
+<APP> \vb <LEM>sākṣiṇam</LEM> \conj; sākṣiṇaḥ \msA</APP>
+<APP> \vc <LEM>kumbhāṃs</LEM> \emend; kumbhās \msA</APP>
+<APP> \vd <LEM>tān vedyāṃ</LEM> \conj; stānvedyā \msA</APP>
+
+<TR>Having worshipped the Lord of gods, who is witness to that ritual, in the maṇḍala and in the fire, [he should recite mantras over] the four or eight decorated pots on the ritual platform.</TR>
+
+<NOTE>The use of the pronoun <skt>tān</skt> seems odd, since we have not referred to these pots earlier.</NOTE>
+
+
+[4.101]
+abhimantrya svarair varggai(73r4)r antasthasoṣmabhiḥ kramāt%
+\tika{Marg. note: antasthaṃ yavarggaṃ ūṣmāṇaṃ śavarggam.}%
 avarggādibhir aṣṭābhir yadvaikaṃ mūlavidyayā ||
-[4.102] tatsaṃkhyātair ahīnāṅgair ācāryais tu yathāyatham |%
+
+[4.102]
+tatsaṃkhyātair ahīnāṅgair ācāryais tu yathāyatham |%
 %
 		\tika{Marg. note before tatsaṃkhyātair: 3 mātṛkā.}%
 %
