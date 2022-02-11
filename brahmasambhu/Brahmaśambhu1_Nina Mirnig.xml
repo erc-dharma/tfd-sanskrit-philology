@@ -324,23 +324,16 @@ cf. Mayasa"ngraha 5:73 on madhyanirgama (Check Libbie's book, p. 396)
 
 %%12.11.2021
 
-%%22.10.2021
 % 6. Bahula/Bāhulaka:
 % 22
 % (8r5)
 <TEXT>atidīrghaṃ gṛhaṃ yat{ }tu nāmnā bāhulakaṃ hi tat |</TEXT>
-%AS: atidīrghagṛhaṃ
-%                <ḥ>
-<TEXT>virodha(ḥ) svāmino mātyair{ }vasatas{ }tatra jāyate ||</TEXT>
+%AS: atidīrghagṛhaṃ (the MS is perhaps a bit ambiguous here)
 
+<TEXT>virodhaḥ svāmino ’mātyair{ }vasatas{ }tatra jāyate ||</TEXT>
+<APP> \vc <LEM>virodhaḥ</LEM> \emend; virodha \msA</APP>
 
-
-
-<TR>As for a house that is too long, that is called the Bahulaka.  Discord will arise there between the owner living there and his co-residents.</TR>
-
-
-
-
+<TR>As for a house that is too long, that is called the Bāhulaka.  Discord will arise there between the owner living there and his co-residents.</TR>
 
 
 % AS: The functions of the eight rooms of an aṣṭaśāla house: dining (E), kitchen (SE), S (sleeping), weapons or pādaśilāgṛha (SW), Śrīgṛha and water (W), granary/storeroom (NW), treasure (N), Yāgamaṇḍapa (NE):
@@ -351,22 +344,20 @@ cf. Mayasa"ngraha 5:73 on madhyanirgama (Check Libbie's book, p. 396)
 % ms: sayanīyakaṃ
 % 24
 
-
 <TR>In the east of an Aṣṭaśāla house should be the dining hall. In the South-East the kitchen. In the South the bedroom.</TR>
-
-
-
 
 <TEXT>nairṛtyām āyudhasthānaṃ yad{ }vā pādaśilāgṛham |</TEXT>
 <TEXT>śrīgṛhaṃ codakasthānaṃ vāruṇyāṃ parikalpayet ||</TEXT>
-
 
 %NM:
 <TR>In the South-West the weapon-storage or house for corner-stones and ? (pādaśilāgṛham?). In the West the house for śrī (rice storage?)? and the water storage.</TR>
 
 
 %% Sathyanarayan suggested that śrīgṛha refers to a treasure house, but that overlaps with dhanāśraya.   NOTE that pādaśilā occurs, probably in the same sense, also in Guhyasūtra 3:11.
-
+% Elsewhere, paada"silaa is of course common in the sense of a foundation stone (usually of a set of 5 or 8), but this seems not to be an appropriate sense here.
+% Note that in the plan of an ashram given in the Śivadharmottara, the SW is either for weapons or for kindling, firewood and the like:
+samitku"sendhanasthaanam aayudhaanaa~nca nair.rte|| 2.133||
+% Same half-line in Garu.dapuraa.na 1,46.16
 
 % 25
 % (8v2)
@@ -406,20 +397,26 @@ cf. Mayasa"ngraha 5:73 on madhyanirgama (Check Libbie's book, p. 396)
 
 % 28
 % (8v4)
-<TEXT>vasvadrirasabāṇānāṃ \?sarvo\?petaṃ cobhayor{ }api |</TEXT>
-%ms:vasvadrirasabāṇāṃ?air?pataṃ
-% MS (according to us:) vasvadrirasabāṇāṃsair vāyataṃ cobhayor api
+<TEXT>vasvadrirasabāṇāṃśair{ }vāyataṃ cobhayor{ }api |</TEXT>
 <TEXT>varddhitaṃ viṣamair{ }hastair{ }āyavyayaviśuddhaye ||</TEXT>
 
 
 %DG:
-<TR> Optionally (vā), it may be eight, seven, six or five times that in length [as one moves through it from front to back] at both ends [? ]
+<TR> Optionally (vā), it should be [the same] along with an eighth, seventh, sixth and fifth part [respectively] in length or (?) in  both [length and breadth(?)]
+   [as one moves through it from front to back] at both ends [? ]
 …. </TR>
 
+% on the basis of 29, perhaps the first half means that we take the
+% width of the brahmin's house (32), and increase that by an eighth of
+% 32 to get the length.  And so on for the other var.nas' houses.
 
 %Chakrabarti 1998: Āyadi-formulae: Āya and Vyaya are categories to assess the qualities (guṇa) of the house and are calculated by linking measurements of the house with nakṣatras or spatial/directional components the measurement of the site linked to the nakṣatra.
 %Āya: the remainder obtained from the division of the area by eight and calculates the quality of direction that presides over the site. Odd remainders are auspicious.
 % NB There is some discussion in Dagens’ book of 1977 (PIFI 57), paragraph 2.6.  See also Ajita chapter 36.
+
+
+
+
 
 
 % The size of the rājamandira:
@@ -430,7 +427,7 @@ cf. Mayasa"ngraha 5:73 on madhyanirgama (Check Libbie's book, p. 396)
 
 
 %NM:
-<TR>A royal palace is 108 hastas broad and stretches (in length?) nine times of that [and] has an enclosure wall and moat (parikhā)..</TR>
+<TR>A royal palace is 108 hastas broad and stretches [the same] along with a ninth part [of the length that, viz. 12 hastas, and] has an enclosure wall and a moat (<skt>parikhā</skt>)..</TR>
 
 
 % 30
@@ -438,38 +435,60 @@ cf. Mayasa"ngraha 5:73 on madhyanirgama (Check Libbie's book, p. 396)
 <TEXT>āyaiś{ }ca viṣamair{ }yuktaṃ gṛhaṃ stokavyayaṃ śubham ||</TEXT>
 
 
-
-
-
-
 % 31
 % (9r1)
-<TEXT>samāyasaṃmitaṃ vāstu padair{ }api samair{ }yadi |</TEXT>
+<TEXT>samāyasaṃmitaṃ vāstupadair{ }api samair{ }yadi |</TEXT>
 <TEXT>yuktaṃ vyayādhikañ{ }ca syāt{ }tadā gṛham{ }aśobhanaṃ ||</TEXT>
 
-
-
-
-
-
 % 32
-<TEXT>dairghyeṇa hastasaṃkhyātā vyāsena guṇitā tu sā |</TEXT>
+<TEXT>dairghyeṇa hastasaṃkhyā yā vyāsena guṇitā tu sā |</TEXT>
 % (9r2)
 <TEXT>āvedayati sarveṣāṃ gṛhāṇām{ }āyapaddhatim ||</TEXT>
+
 % 33
 <TEXT>ekatripañcasaptāṃkadhvajasiṃhavṛṣadvipāḥ |</TEXT>
 <TEXT>pūrvvādyāsu śubhā hy{ }ete āyā dikṣv{ }anulomataḥ ||</TEXT>
+
+<TR>These are the aayas: marked by one is Dhvaja, marked by three is Siṃha,
+marked by five is Vṛṣa, marked by seven is Dvipa. They are auspicious in
+the directions of East [South, West] and [North] respectively.</TR>
+
+
+<NOTE>Kāmikāgama Pūrvabhāga 37 [35 in Sabharatnam's text] (śālālakṣaṇavidhiḥ)
+
+= 37.170c–173b
+dvicatu.h .sa.dvasusthaanaa.m dhuuma"svakharavaayasaa.h || 37/170 ||
+aagneyaadividik.svete varjaniiyaa bubhuk.subhi.h |
+dhvaja.h si.mho v.r.so hastii yasya tadve"smano mukham || 37/171 ||
+tasya pratyagudakpraacii.m dak.si.na.m svaamino g.rham |
+dhvajo yaati haristhaana.m gajasthaana.m ca kesarii || 37/172 ||
+sarvepyuk.sapada.m yaanti na cok.saa yaanti kutracit |</NOTE>
+
 % 34
 % (9r3)
-<TEXT>dvicatuḥṣaḍaṣṭasthānā dhūmamukharavāyasāḥ |</TEXT>
-<TEXT>āgneyādividikṣv{ }ete  varjjanīyā bubhukṣubhiḥ ||</TEXT>
+<TEXT>dvicatuḥṣaḍaṣṭasthānā dhūmaśvakharavāyasāḥ |</TEXT>
+<APP>A marginal note is added here to insert the letter °maṃ before °sthānā,
+which would render the line unmetrical.</APP>
+<TEXT>āgneyādividikṣv{ }ete varjjanīyā bubhukṣubhiḥ ||</TEXT>
+
+<TR>Dhūma, Śva, Khara, Vāyasa have as their places (?) two, four, six, eight.
+These are in the intermediate directions beginning with the SE. They are
+to be avoided by those desirous of special powers.</TR>
+
+
+
+
 % 35
 <TEXT>dhvajeyātiharisthānaṃ gajasthānañ{ }ca keśarī |</TEXT>
 % (9r4)
 <TEXT>sarvve py{ }ukṣṇaḥ padaṃ yānti nacokṣā yti kutracit ||</TEXT>
+
+
 % 36
 <TEXT>avicchinnair{ }yadā hastair{ }bhūmibhāgavaśād{ }gṛhe |</TEXT>
 <TEXT>āyo na śakyate labdhuṃ yo bhipretaḥ kathañcana ||</TEXT>
+
+
 % 37
 % (9r5)
 <TEXT>sādhayitvā tadā hastam{ }abhipretāyapūraṇam |</TEXT>
