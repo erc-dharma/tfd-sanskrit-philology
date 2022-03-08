@@ -91,6 +91,48 @@
 </lg>
 
 
+<!-- should look like this-->
+<lg n="1.2" met="anuṣṭubh">
+
+<l n="a">śatasāhasrikaṁ granthaṁ</l>
+
+
+<l n="b">sahasrādhyāyam uttamam</l>
+
+<app loc="1.2b">
+<lem wit="#msCa #msCb #msNa #msNb #msNc">sahasrādhyāyam u°</lem>
+<rdg wit="#msCc">sahaśradhyāyam u°</rdg>
+<rdg wit="#Ed">sahasrādhyāyar u°</rdg>
+</app>
+
+<l n="c">parva cāsya śataṁ pūrṇaṁ</l>
+
+<app loc="1.2c">
+<lem wit="#msCa #msNa #msNb #msNc">parva cāsya</lem>
+<rdg wit="#msCb">parvañ cāsya</rdg>
+<rdg wit="#msCc">parvvam asya</rdg>
+<rdg wit="#Ed">pūrvam asya</rdg>
+</app>
+<app loc="1.2c">
+<lem wit="#msCa #msCb #msNa #msNb #msNc #Ed">śataṁ pūrṇaṁ</lem>
+<rdg wit="#msCc">ta</rdg>
+</app>
+
+<l n="d">śrutvā bhāratasaṁhitām</l>
+
+<app loc="1.2d">
+<lem wit="#msCa #msCc #msNa #msNb #msNc #Ed">śrutvā</lem>
+<rdg wit="#msCb">śraddhā</rdg>
+</app>
+<app loc="1.2d">
+<lem wit="#msCa #msCb #msNa #msNb #msNc">bhāratasaṁhitām</lem>
+<rdg wit="#msCc">bhārasaṁhitā</rdg>
+<rdg wit="#Ed">nārādasaṁhitām</rdg>
+</app>
+</lg>
+
+<!-- delete the above verse -->
+
 
 
 <lg n="1.3" met="anuṣṭubh">
