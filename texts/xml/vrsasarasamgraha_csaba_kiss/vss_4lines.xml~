@@ -24,7 +24,10 @@
 <lg n="1.1" met="upajāti">
 
 <l n="a"> anādimadhyāntam anantapāraṁ</l>
-<listApp>
+<l n="b"> susūkṣmam avyaktajagatsusāram</l>
+<l n="c"> harīndrabrahmādibhir āsamagraṁ</l>
+<l n="d"> praṇamya vakṣye vr̥ṣasārasaṁgraham </l>
+<listApp type="apparatus">
 <app loc="a">
     <lem wit="#msCa #msCb #msCc #msNa #msNb #msNc #msNd #msM #Ed">°ntam ananta°</lem>
             <witDetail wit="#msCb" type="pc"/>
@@ -35,10 +38,6 @@
     <lem wit="#mssCaCbCc #msNc #msM #Ed">°pāraṁ</lem>
     <rdg wit="#msNa #msNb #msNd">°pāragaṁ</rdg>
 </app>
-</listApp>
-
-<l n="b"> susūkṣmam avyaktajagatsusāram</l>
-<listApp>
 <app loc="b">
     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">susūkṣma°</lem>
     <rdg wit="#msCc">śusukṣma°</rdg>
@@ -49,18 +48,10 @@
     <rdg wit="#msNb">°jagatsurāsuraṁ</rdg>
     <rdg wit="#msNd">°jagatasusāram</rdg>
 </app>
-</listApp>
-
-<l n="c"> harīndrabrahmādibhir āsamagraṁ</l>
-<listApp>
 <app loc="c">
     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msNd #Ed">°bhir āsamagraṁ</lem>
     <rdg wit="#msM">°bhir yat samagraṁ</rdg>
 </app>
-</listApp>
-
-<l n="d"> praṇamya vakṣye vr̥ṣasārasaṁgraham </l>
-<listApp>
 <app loc="c">
     <lem wit="#msCa #msCb #msCc #msNa #msNb #msNc #msNd #msM #Ed">vr̥ṣa°</lem>
             <witDetail wit="#msCa" type="pc"/>
@@ -73,16 +64,13 @@
 <lg n="1.2" met="anuṣṭubh">
 
 <l n="a">śatasāhasrikaṁ granthaṁ</l><l n="b">sahasrādhyāyam uttamam</l>
-<listApp>
+<l n="c">parva cāsya śataṁ pūrṇaṁ</l><l n="d">śrutvā bhāratasaṁhitām</l>
+<listApp type="apparatus">
 <app loc="b">
     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM">sahasrādhyāyam u°</lem>
     <rdg wit="#msCc">sahaśradhyāyam u°</rdg>
     <rdg wit="#Ed">sahasrādhyāyar u°</rdg>
 </app>
-</listApp>
-
-<l n="c">parva cāsya śataṁ pūrṇaṁ</l><l n="d">śrutvā bhāratasaṁhitām</l>
-<listApp>
 <app loc="c">
     <lem wit="#msCa #msNa #msNb #msNc #msM">parva cāsya</lem>
             <witDetail wit="#msM" type="pc"/>
@@ -109,8 +97,9 @@
 
 <lg n="1.3" met="anuṣṭubh">
 
-<l n="ab"> atr̥ptaḥ puna papraccha vaiśampāyanam eva hi</l>
-<listApp>
+<l n="a">atr̥ptaḥ puna papraccha</l><l>vaiśampāyanam eva hi</l>
+<l n="c">janamejaya yat pūrvaṁ</l><l n="d">tac chr̥ṇu tvam atandritaḥ</l>
+<listApp type="apparatus">
 <app loc="a">
     <lem type="#emn">atr̥ptaḥ puna papraccha</lem>
     <rdg wit="#msCa">a<unclear>tr̥ptaḥ pu</unclear><gap quantity="2" unit="char" reason="illegible"/>praccha</rdg>
@@ -124,10 +113,6 @@
     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">vaiśampāyana°</lem>
     <rdg wit="#msCc">vesampāyana°</rdg>
 </app>
-</listApp>
-
-<l n="c">janamejaya yat pūrvaṁ</l><l n="d">tac chr̥ṇu tvam atandritaḥ</l>
-<listApp>
 <app loc="c">
     <lem type="#emn">janamejaya yat pūrvaṁ</lem>
     <rdg wit="#msCa #msCb #msNc #msNd #Ed">janamejayena yat pūrvaṁ</rdg>
