@@ -32,7 +32,7 @@
     <git-clone-pull repository="https://github.com/erc-dharma/project-documentation.git" dest="project-documentation" />
 
     <!-- based to apply moving-app -->
-    <fileset id="critical-siva-normed" dir="./texts/xml/**" includes="*_tei.xml" excludes="*_parallel.xml *_apparatus.xml"/>
+    <fileset id="critical-siva-normed" dir="./texts/xml" includes="**/*_tei.xml" excludes="*_parallel.xml *_apparatus.xml"/>
     <!-- based to apply ids -->
     <fileset id="critical-dharma-normed" dir="./output/dharma-normed" includes="*.xml"/>
     <!-- based to run the dispaly -->
