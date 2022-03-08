@@ -34,9 +34,9 @@
     <!-- based to apply moving-app -->
     <fileset id="critical-siva-normed" dir="./texts/xml" includes="**/*_tei.xml" excludes="*_parallel.xml *_apparatus.xml"/>
     <!-- based to apply ids -->
-    <fileset id="critical-dharma-normed" dir="./output/dharma-normed" includes="*.xml"/>
+    <fileset id="critical-dharma-normed" dir="./output/dharma-normed" includes="**/*.xml"/>
     <!-- based to run the dispaly -->
-    <fileset id="critical-display" dir="./output/ids" includes="*.xml"/>
+    <fileset id="critical-display" dir="./output/ids" includes="**/*.xml"/>
 
     <!-- Transformation from xml vers XML avec application de moving-app-->
     <xslt force="true" style="./project-documentation/stylesheets/sivadharma/moving-app.xsl" destdir="./output/dharma-normed" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
