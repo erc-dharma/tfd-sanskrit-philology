@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-            <listWit>
+<?xml version="1.0" encoding="UTF-8"?>       
+    <listWit xmlns="http://www.tei-c.org/ns/1.0">
                 <witness xml:id="msCa">
                     <abbr type="siglum">C<hi rend="subscript">94</hi>
                     </abbr>
@@ -43,4 +43,4 @@
                     Naraharinath, Yogin. Śivadharma Paśupatimatam Śivadharmamahāśāstram Paśupatināthadarśanam. Ed. by Yogin Naraharinatha. Kathmandu, saṃvat 2055 (1998 CE).</witness> 
                 
             </listWit>
-        
+       
