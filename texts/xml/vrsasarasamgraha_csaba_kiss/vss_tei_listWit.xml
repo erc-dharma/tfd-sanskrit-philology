@@ -12,16 +12,16 @@
             <sourceDesc>
     <listWit>
         <witness xml:id="msCa">
-            <abbr type="siglum">C<hi rend="subscript">94</hi>
+            <abbr type="siglum">C<hi rend="superscript">94</hi>
             </abbr>
             Palm-leaf manuscript ULC Add. 1694</witness>
         
         <witness xml:id="msCb">
-            <abbr type="siglum">C<hi rend="subscript">45</hi></abbr>
+            <abbr type="siglum">C<hi rend="superscript">45</hi></abbr>
             Palm-leaf manuscript ULC Add. 1645</witness>
         
         <witness xml:id="msCc">
-            <abbr type="siglum">C<hi rend="subscript">02</hi></abbr>
+            <abbr type="siglum">C<hi rend="superscript">02</hi></abbr>
             Palm-leaf manuscript ULC Add. 2102</witness> 
         
         <witness xml:id="mssCaCbCc">
@@ -29,23 +29,23 @@
             #msCa + #msCb + #msCc</witness>
         
         <witness xml:id="msNa">
-            <abbr type="siglum">K<hi rend="subscript">82</hi></abbr>
+            <abbr type="siglum">K<hi rend="superscript">82</hi></abbr>
             Palm-leaf manuscript NAK 3-393, NGMPP A 1082/3</witness>
         
         <witness xml:id="msNb">
-            <abbr type="siglum">K<hi rend="subscript">10</hi></abbr>
+            <abbr type="siglum">K<hi rend="superscript">10</hi></abbr>
             Palm-leaf manuscript NAK 1-1261, NGMPP A 10/5.</witness>
         
         <witness xml:id="msNc">
-            <abbr type="siglum">K<hi rend="subscript">7</hi></abbr>
+            <abbr type="siglum">K<hi rend="superscript">7</hi></abbr>
             Palm-leaf manuscript NAK 1-1075, NGMPP B 7/3</witness>
         
         <witness xml:id="msNd">
-            <abbr type="siglum">K<hi rend="subscript">81</hi></abbr>
+            <abbr type="siglum">K<hi rend="superscript">81</hi></abbr>
             Palm-leaf manuscript NGMPP A 3/3 (= A 1081/5), NAK 5-737.</witness>
         
         <witness xml:id="msL">
-            <abbr type="siglum">L<hi rend="subscript">657</hi></abbr>
+            <abbr type="siglum">L<hi rend="superscript">657</hi></abbr>
             Paper manuscript no. 657 in the Wellcome Institute for the History
             of Medicine. Shelved at δ 16 (vii).</witness>
         
