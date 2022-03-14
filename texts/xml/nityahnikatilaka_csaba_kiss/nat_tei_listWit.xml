@@ -10,7 +10,10 @@
                 <idno type="filename">0001</idno>
             </publicationStmt>
             <sourceDesc>
-                <listWit/>
+                <listWit>
+                    <witness>
+                        <abbr type="siglum"/>Palm-leaf manuscript</witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
