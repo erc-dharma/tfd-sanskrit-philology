@@ -11,8 +11,10 @@
             </publicationStmt>
             <sourceDesc>
                 <listWit>
-                    <witness>
-                        <abbr type="siglum"/>Palm-leaf manuscript</witness>
+                    <witness xml:id="id">
+                        <abbr type="siglum">ms<hi rend="subscript">xx</hi>
+                        </abbr>
+                        Palm-leaf manuscript</witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
