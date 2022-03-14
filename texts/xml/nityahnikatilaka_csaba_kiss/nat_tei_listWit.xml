@@ -10,7 +10,9 @@
                 <idno type="filename">0001</idno>
             </publicationStmt>
             <sourceDesc>
-                <listWit/>
+                <listWit>
+                    <witness/>
+                </listWit>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
