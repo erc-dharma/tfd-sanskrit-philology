@@ -38,6 +38,10 @@
     <!-- based to run the dispaly -->
     <fileset id="critical-display" dir="./output/ids" includes="**/*.xml"/>
 
+    <!-- file set for dharma -->
+    <fileset id="dharma-crited" dir="./texts/xml" includes="DHARMA_CritEd*.xml" excludes="*_biblio.xml *_trans*.xml _com*.xml"/>
+    <fileset id="dharma-dipled" dir="./texts/xml" includes="DHARMA_DiplEd*.xml" excludes="*_biblio.xml *_trans*.xml _com*.xml"/>
+
     <!-- Transformation from xml vers XML avec application de moving-app-->
     <xslt force="true" style="./project-documentation/stylesheets/shivadharma/moving-app.xsl" destdir="./output/dharma-normed" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <fileset refid="critical-shiva-normed"/>
@@ -56,4 +60,17 @@
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
     </xslt>
 
+     <!-- Transformation XML vers HTML pour crit ed  -->
+     <xslt force="true" style="./project-documentation/stylesheets/criticalEditions/start-edition.xsl" destdir="./docs/html" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+        <fileset refid="dharma-crited"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+    </xslt>
+
+      <!-- Transformation XML vers HTML -->
+      <xslt force="true" style="./project-documentation/stylesheets/diplomaticEditions/start-diplEd.xsl" destdir="./docs/html" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+        <param name="edition-type" expression="physical"/>
+        <param name="corpus-type" expression="nusantara"/>
+        <fileset refid="dharma-dipled"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+    </xslt>
 </project>
