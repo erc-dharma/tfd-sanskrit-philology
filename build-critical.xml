@@ -62,10 +62,11 @@
     </xslt>
 
      <!-- Transformation XML vers HTML pour crit ed  -->
-     <xslt force="true" style="./project-documentation/stylesheets/criticalEditions/start-edition.xsl" destdir="./docs/html" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+     <!-- TO BE ADDED WHEN NECESSARY -->
+     <!--<xslt force="true" style="./project-documentation/stylesheets/criticalEditions/start-edition.xsl" destdir="./docs/html" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <fileset refid="dharma-crited"/>
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
-    </xslt>
+    </xslt>-->
 
       <!-- Transformation XML vers HTML -->
       <xslt force="true" style="./project-documentation/stylesheets/diplomaticEditions/start-diplEd.xsl" destdir="./docs/html" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
