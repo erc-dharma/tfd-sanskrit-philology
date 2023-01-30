@@ -141,7 +141,7 @@
         filter = filter.toLowerCase()
         return (file) => {
           const filePath = file.path;
-          const fileName = filePath.replace('.html', '').toLowerCase().replace(/-/g, '');
+          const fileName = filePath.replace('docs/', '').replace('.html', '').toLowerCase().replace(/-/g, '');
           const isHtml = (/.html$/).test(filePath);
           const isNotLicense = filePath !== 'LICENSE.md';
           const isNotTemplate = filePath !== 'template';
