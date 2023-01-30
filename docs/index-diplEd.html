@@ -176,9 +176,9 @@
       const updateList = (data, filter = '') => {
         let htmlString = '';
         for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
-          const fileName = file.path.replace('.md', '');
+          const fileName = file.path.replace('docs/', '');
           const fileDisplayName = fileName.split('-').join(' ').replace('diplEd/', '').replace('.html', '');
-          htmlString += `<li class="list-group-item"><a href="${fileName.replace('docs/', '')}">${fileDisplayName}</a></li>`;
+          htmlString += `<li class="list-group-item"><a href="${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
         document.getElementById('lenght').innerHTML = data.length;
