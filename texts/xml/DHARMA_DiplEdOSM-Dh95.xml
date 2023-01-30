@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_DiplEDSchema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_DiplEDSchema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Odisha State Museum Dh/95</title>
+                <title type="sub">Digital Diplomatic Edition of a <foreign>dharmanibandha</foreign> from Orissa</title>
+        <editor ref="part:argr">
+			<forename>Arlo</forename>
+			<surname>Griffiths</surname>
+		</editor>
+                <respStmt>
+                    <resp>diplomatic edition of a part of the manuscript</resp>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Bhubaneswar</pubPlace>
+                <idno type="filename">DHARMA_DiplEdOSM-Dh95</idno>                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                        <!-- Give your witness an unique identifier -->
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Bhubaneswar</settlement>
+                                <institution>Odisha State Museum</institution>
+                                <repository>Palmleaf Manuscripts</repository>
+                                <idno>Dh/95</idno>
+                            </msIdentifier>
+                           <!-- the msContents isn't mandatory 
+                                <msItem>
+                                    <author>Śāntarakṣita</author>
+                                    <title>Vipañcitārthā</title>
+                                </msItem>
+                            </msContents> -->
+                            <physDesc>
+                                <objectDesc>
+                                    <!-- Here you can give a physical description of the manuscript in prose-->
+                                    <p>Palm-leaf manuscript. 167 leaves in Oriya script. Apparently written in ... CE.</p>
+                                </objectDesc>
+                            </physDesc>
+                            <history>
+<!-- Here you can decribe the history of the manuscript in prose. Use <origDate> and <origPlace> to emphasize the place and date of creation -->
+                                <p>Purchased in 1956 from a certain Narasingha Misra.</p>
+                            </history>
+                        </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <!-- Part mandatory -->
+                <p>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+                <!-- Optionally add here a second <p> to describe the specifics of the subproject that has led to this edition. -->
+            </projectDesc>
+            <editorialDecl>
+                <!-- As stated in the EGC, this element shall be used only if your edition follows principles that are different from or more fine-grained than those established in the project's guides. Among the following elements, you may keep only the ones your need for your edition. If you use one, its contents must be contained in at least one <p> of free text. If you don't need any <editorialDecl> at all, you may eventually remove this entire section of the file. -->
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p>None. The difference between ẏ and y, ḷ and l, ṛ and ḍ, and between capital and lower-case vowels needs to be removed to obtain more normal Sanskrit spelling. Numerous (all?) cases of intervocalic ch need to be changed to cch. Distinction between b and v needs to be introduced.</p>
+                </normalization>
+                <punctuation>
+                    <p/>
+                </punctuation>
+            </editorialDecl>
+            <samplingDecl>
+                <!-- To be kept only to explain in prose the method to choose the corpus, e.g. ommission of the material ...-->
+                <p/>
+            </samplingDecl>
+            <!--schemaRef  will need to be added once a  official realase is done -->
+            <!-- variantEncoding is a  mandatory element. You have to select one of the two solutions given in DHARMA depending how you chave chosen to encode your apparatus. If inline, select @method="parallel-segmentation" as per section §5 of EGC, but if you are encoding your apparatus after any section, mostly being stanza, use  @method="location-referenced". 
+				
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+			<variantEncoding method="location-referenced" location="internal"/>.
+			
+			Note that the current by default behaviour is set on parallel-segmentation -->
+            <variantEncoding method="parallel-segmentation" location="internal"/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <!-- choose the language(s) of your text, remove the others -->
+                <language ident="san-Latn">Sanskrit, romanized</language>
+                <language ident="ori-Latn">Oriya, romanized</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <!-- In due course we will can use this element to declare keywords as <term>s, but at the moment please ignore <keywords>  -->
+                    <term/>
+                    <!-- Ignore this element for the time being. -->
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="part:argr" when="2023-01-28" status="draft">started encoding of the manuscript</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve" xml:lang="san-Latn">
+      <body>
+         <div>
+           <ab><!-- beginning of diplomatic edition -->
+ <pb n="153r"/>
+<!-- image00124  -->
+    <lb n="153r1"/>yaẏa punarāgamanāya ca|| Om̐ namo Anantāẏa svasthānaṁ gacha|| kalaśadevatāsvasthānaṁ gacha|| pīṭhadevatāsvasthānaṁ gacha|| varddhinyāẏaisvasthānaṁ gacha|| pārśvadevatāsvasthānaṁ gacha|| va<unclear>stravi</unclear>bhyo svasthānaṁ gacha|| Om̐ Agnidevatāsvasthānaṁ gacha|| kalaśe caturdaśadevatāṁsvasthānaṁ gacha|| navaśaktisvasthānaṁ gaccha|| Indrādibhyo svasthānaṁ gacha|| viśvaksenāya svasthānaṁ gacha|| ghaṭadevatāvisarjanaṁ|| <g type="floret"/> || tata Ācāryaṁ Āsanād dvigandapu
+<lb n="153r2" break="no"/>ṣpādibhiḥ vastrayugmakuṇḍalamudrikābhiḥ saṁpūjya|| || Anantasvasthānaṁ gacha|| Iti sapuṣpābhyāṁ hastābhyāṁ  <space type="binding-hole"/> deviṁ dhyāẏan·|| dakṣiṇanāsāpuṭena hr̥tpadmaṁ naẏet·|| || saṁhāramudrāṁ darśaẏitvā|| sa
+<lb n="153r3" break="no"/>māpinī<damage>m</damage>u<damage>d</damage>ra<damage>ẏ</damage>ā namaskuryāt·|| 
+<foreign xml:lang="ori-Latn">vāmadakṣiṇa ducci hastapr̥ṣṭha duhe Ekatra karitāṅgu<add place="below">ḷi</add>mānaṅkuṁ paraspare yo<space type="binding-hole"/>ṛi kari yugaḷa khiva|| namaskāra kariva|| Ehi samāpinīmudrā helā||</foreign> || vaḷir vibhīṣaṇo bhī<del rend="strikeout">sma</del>
+<lb n="153r4" break="no"/>ṣmaḥ pra<unclear>drācadāma</unclear>raḥ dā'rśunaḥ|| kapiḷaś <damage>c</damage>ām<damage>v</damage>arīṣaś ca vasurdāyusutaḥ śivaḥ|| viśvakseno dhruvo krūraḥ sanakādyāsurarṣayaḥ|| prasādaṁ vāsudevasya sarve gr̥hṇantu vaiṣṇavāḥ|| Iti mantreṇa prasādaṁ bhūmau
+<pb n="153v"/><fw n="153v" place="left"><num value="153">153</num></fw><fw n="153v" place="right"><num value="153">153</num></fw>
+<lb n="153v1"/>kṣipya|| Om̐ śrī<unclear>ś</unclear> ca <unclear>ta</unclear>c ca lakṣmīś ca patnyārṣahorātre pārśvena yatrāṇirūpamaśvinau vyāttaṁ|| Iṣṇaṁ niśāśāmumma Iṣāṇaḥ sarvalokaṁ ma Iṣāṇa|| Iti svaśirasi nirmālyagrahaṇaṁ|| pūrvavac ca Ācāryaṁ gandhapuṣpādibhi
+<lb n="153v2"/>saṁpūjya <gap reason="illegible" quantity="1" unit="character"/>sa<unclear>na</unclear>ṁ vadāmi vadiṣya|| pādāsana Arccya|| gandha<supplied reason="omitted">pu</supplied>ṣpaṁ datvā|| pūrvokta Anantapratimāṁ dadyāt·|| yugmavastraṁ dadyāt·|| kuṇḍaḷamudrikāṁ dadyāt·|| dhenudakṣiṇāṁ dadyāt·|| vrāhmaṇaṁ vada<unclear>nt</unclear>u svasti <num value="3">3</num>|| <foreign xml:lang="ori-Latn">Āgare 
+<lb n="153v3"/>lekhā Achi puṇyāhavācanaṁ||</foreign> Āśīrvādaḥ|| tataḥ caturdaśavrāhmaṇabhojanaṁ|| vrāhmaṇabhojanā<space type="binding-hole"/>nantaraṁ tebhyo vrāhmaṇebhyo caturdaśakalaśān· phaḷayajñopavītadakṣiṇāsahitān· da
+<lb n="153v4" break="no"/>dyāt·|| <g type="floret"/>|| yathāśaktivrāhmaṇabhojanaṁ|| <foreign xml:lang="ori-Latn">kichi nohile caturdaśavrāhmaṇabhojana niścaẏa karāIba||</foreign> svaẏaṁ vandubhi saha Ekaṁ pūpaṁ bhuñjīta|| <g type="floret"/>|| Ity anantaUdyāpanavidhiḥ samāptaṁ|| <g type="floret"/>|| govindaratha
+<lb n="153v5"/>śarmāvrāhmaṇapustaka Udyāpanavidhi va<unclear>hu</unclear>saṁgrahe likhitaṁ|| <g type="floret"/> <g type="beast"/> <g type="beast"/> <g type="beast"/>|| <add place="below">Indriyasparśaḥ||</add> <foreign xml:lang="ori-Latn">prathamare</foreign> ghaṇṭāsaṁskāraḥ|| Āsanaśuddhi bhūtaśuddhi praṇava|| mātr̥kā|| vaR̥
+<pb n="154r" break="no"/><lb n="154r1" break="no"/>ṇapūjā|| Ābhyudaẏikasaṁkalpaḥ|| caturdaśadravyepratimāsnāna Upāṅga|| pratimāprāṇapratiṣṭhā|| Ācamana|| dīpa|| Ācamana|| suvāsitakarpūrajalaṁ mukhasamipe dadyāt· || vaiṣṇavāgnisaṁskāraḥ|
+<lb n="154r2"/>svasthivācana|| Ābhyudaẏika Utgargaḥ|| vidhiḥ|| Arghyasaṁskāraḥ|| vrahmāṅga|| puR̥ṣas<unclear>ū</unclear>ktamantreṇa vastra|| naivedyasaṁskāraḥ|| tāmbūḷaṁ dadyāt·|| Āvaraṇapūjā|| Agnipūjā
+<lb n="154r3"/>saṅkalpaḥ|| bhadramaṇḍaḷacatuḥkoṇe puR̥ṣasūktaR̥syādi|| varddhanīpūjā|| ṣoṛaśanyāsaḥ|| gandha|| naivedyamudrā|| dravyamudrā|| Aṅgadevatā|| Upāṅgadevatā|| kuṇḍe <foreign xml:lang="ori-Latn">Anantaku</foreign> pūjā
+<lb n="154r4"/><supplied reason="lost">mā</supplied>t<damage>r̥</damage>kā<damage>pūjā</damage>|| catuḥkalaśaṁ pūjaẏitvā|| dvādaśāvr̥tte prāṇāẏāma|| sahasraśirṣāmantre<add place="below">ṇa Anantaṁ Āvāhaẏāmi||</add> Arghya|| Āca<add place="below">mana||</add> yajñopavīta||<add place="below">Ācamanaṁ||</add> Anantasaṁs<supplied reason="omitted">k</supplied>āra<add place="below">mantreṇa japaḥ||</add> vajrāṅga||Indrādidaśadikpāḷapūjā| R̥ṣyādi|| dhyāna|| Āvāhana<add place="below">caturdaśadevatāpūjā|| yathāśaktijapa|| <foreign xml:lang="ori-Latn">Anantaṅku</foreign> pañcāhuti||</add>
+<lb n="154r5"/>vasorddhārā|| <unclear>ca</unclear> pūrve ca daśakalaśasthā<add place="below">panaṁ|| pūjanaṁ|| phaḷapalava<unclear>y</unclear>uktān·|| Aṅga||</add> dehapīṭhapūjā|| Āvāhanamudrādarśanaṁ|| snāna|| puṣpa|| dhūpa|| Amr̥tāpidhānam asi|| puṣpāñjaḷipañcakaṁ|| varddhanīpūjā||
+<pb n="154v"/><fw n="154v" place="left"><num value="154">154</num></fw><fw n="154v" place="right"><num value="154">154</num></fw>
+    <lb n="154v1"/><!-- elements of Anantapūjā continue -->
+    <lb n="154v5"/>... Ity ananta Udyā<supplied reason="omitted">pa</supplied><add place="below">na</add>vidhi sa<supplied reason="omitted">mā</supplied>ptaṁ||
+<pb n="155r"/>
+    <lb n="155r1"/>Atha somanāthavratapūjā likhyate|| prathamataḥ vaR̥ṇapūjā
+<pb n="155v"/><fw n="..." place="left"><num value="0">...</num></fw><fw n="..." place="right"><num value="0">...</num></fw>
+    <lb n="155v1"/>
+<pb n="156r"/>
+    <lb n="156r1"/>
+<pb n="156v"/><fw n="..." place="left"><num value="0">...</num></fw><fw n="..." place="right"><num value="0">...</num></fw>
+    <lb n="156v1"/>
+<pb n="157r"/>
+    <lb n="157r1"/>
+    <lb n="157r2"/>
+    <lb n="157r3"/> ... || Iti prārthanā|| || <g type="floret"/> tataḥ kathāṁ śr̥ṇuyāt·|| Om̐ namaḥ śivāẏa|| || namo '
+    <lb n="157r4" break="no"/>s<unclear>tu</unclear> tasmai śakaḷendudhāriṇe phaṇīndraratnadyutikaṇṭhabhāriṇe|| harāẏa śubhrāẏa kapālamāline vibhinnadaityasphuritāgraśūḷine|| || sukhāsīnaṁ mahādevaṁ pārvatī paripr̥chati|| manasā hr̥ṣṭabhāvena vinayāt saṁ
+    <lb n="157r5" break="no"/>hitāñjaḷiḥ|| devy uvāca|| vratāny anekaR̥pāṇi kathitāni tvaẏā vibho|| kiṁ cānyac ca vrataṁ deva śaṁsa me 'sti tava prabho|| || Iti śrutvā vaco devyāḥ somaḥ somārddhaśekharaḥ|| tām āha saṁprahr̥ṣṭena mana
+<pb n="157v"/><fw n="157v" place="left"><num value="157">157</num></fw><fw n="157v" place="right"><num value="157">157</num></fw>
+    <lb n="157v1"/>sā girijāpatiḥ|| Iśvara Uvāca|| śr̥ṇu devi mahāprājñe mayoktaṁ vratam uttamaṁ|| Anāyāsena yat kr̥tvā pujyate parame pade|| Asti me nyāc ca somākhyaṁ vrataṁ ca daśavārṣikaṁ|| praẏātā Iva tīrtheṣu
+<lb n="157v2"/>devatāsv iva vāsavaḥ|| nadīṣv iva yathā gaṅgā vrateṣv idam anuttamaṁ|| Āyuṣyaṁ ca yaśasyaṁ ca dhanya Apatyam eva ca|| mama prasādātrailokye bhuṁkte rājyam akaṇṭakaṁ|| devy uvāca|| || Anyad astīti ⌈
+<lb n="157v3" break="no"/>somākhyaṁ vratam uktaṁ tvaẏā vibho|| karttavyaṁ kīdr̥śair eva kīdr̥k· vāpi vidhir bhavet·|| karttavyaṁ śaṁsa me sthāṇo Ārambhodyāpane kadā|| Īśvara Uvāca|| bhādrave śuklapakṣasya ṣaṣṭhyāṁ vai pūjaẏe
+<lb n="157v4" break="no"/>t śivaṁ|| dūrvāpradaśakāṇḍāni Akṣatāni daśaiva tu|| kārpāsya daśa sūtrāṇi daśagranthiyutāni ca|| namaḥ śivāẏeti mantreṇa pratigranthy abhimantritaṁ|| ṛoraṁ nirmāẏa tatsutraṁ pūjaẏet parameśvaraṁ|| vaddhvā tu da
+<lb n="157v5" break="no"/>kṣiṇe vāhau snātvā śambhoḥ padāmvunā|| pūjaẏet vāsureśānaṁ kathāṁ śrutvā guror mukhāt·|| yāvac ca śukladaśamī Āśvineyī tithir bhavet·|| tāvat paraṁ ca śr̥ṇuyāt somanāthakathām imāṁ|| devy uvāca|| kena cā⌈
+<pb n="158r" break="no"/>
+   <lb n="158r1"/>ṣṭīṁ jānamantraṁ dadyāt·|| phaḷāni daśa <gap reason="illegible" quantity="1" unit="character"/>nyāni praśasthāni maheśvara|| gr̥hāṇa tvaṁ mahādevaṁ bhakti me 'caḷāṁ kuR̥|| Iti daśaphaḷāni samarpaṇaṁ|| ṛoravandhanamantra|| sarvakāmamayaṁ ṛoraṁ sarvakāmaphaḷapradaṁ|| śa
+  <lb n="158r2" break="no"/>vaṛorakarūpeṇa putrapautrapravarddhanaṁ|| Iti ṛoravandhanaṁ|| || kathān te durvākṣatadānaṁ|| purātanaṛorasamarpaṇamantra||purāṇaṛorajaṁ śubhraṁ daśagranthisusaṁyutaṁ|| gr̥hyatāṁ pārvatīnātha yan ma
+  <lb n="158r3" break="no"/>ẏā pūrvadhāritaṁ|| ...
+  <lb n="158r4"/>
+  <lb n="158r5"/>
+<pb n="158v"/><fw n="..." place="left"><num value="0">...</num></fw><fw n="..." place="right"><num value="0">...</num></fw>
+    <lb n="158v1"/>
+<pb n="159r"/>
+    <lb n="159r1"/>
+<pb n="159v"/><fw n="..." place="left"><num value="0">...</num></fw><fw n="..." place="right"><num value="0">...</num></fw>
+    <lb n="159v1"/>
+<pb n="160r"/>
+    <lb n="160r1"/>
+<pb n="160v"/><fw n="..." place="left"><num value="0">...</num></fw><fw n="..." place="right"><num value="0">...</num></fw>
+    <lb n="160v1"/>
+<pb n="161r"/>
+    <lb n="161r1"/>
+<pb n="161v"/><fw n="..." place="left"><num value="0">...</num></fw><fw n="..." place="right"><num value="0">...</num></fw>
+    <lb n="161v1"/>
+<pb n="162r"/>
+    <lb n="162r1"/>
+<pb n="162v"/><fw n="..." place="left"><num value="0">...</num></fw><fw n="..." place="right"><num value="0">...</num></fw>
+    <lb n="162v1"/>
+<pb n="163r"/>
+    <lb n="164r1"/>
+<pb n="163v" break="no"/><fw n="163v" place="left"><num value="163">163</num></fw><fw n="163v" place="right"><num value="163">163</num></fw>
+   <lb n="163v1" break="no"/>hārājaḥ|| Idānīm ānaẏatva<unclear>raṁ</unclear> bhojaẏethā yathāvidhiḥ|| vipra Uvāca|| || na bhojanaṁ me 'dya niśa samāgatān ahaṁ purāreś ca kathāṁ pravarttaẏe|| Ante kathāẏī mama bhojanaṁ ra
+   <lb n="163v2" break="no"/>vavastraḥ prāntare jābhyudite divākare|| tataḥ prabhāte saṁprāpte vipro vrataparāyaṇaḥ|| maṇḍitaṁ ca gr̥haṁ sarvaṁ vedikoparimaṇḍaḷaṁ|| padmākāraṁ jātaR̥paṁ kala
+   <lb n="163v3" break="no"/>śaṁ pūrvato nyaset·
+   <lb n="163v4"/>
+   <lb n="163v5"/>
+<pb n="164r"/>
+    <lb n="164r1"/>nabhittaẏā|| maẏā yad uktaṁ praṇaẏāt prasādita labhasva putrān· vividhāṁś ca puṣkaḷān·|| bhaktyā manorathān· bhogān· Ante yānti puraṁ mama<damage>||</damage> Idaṁ vratavaraṁ puṇyaṁ ye vai kurvanti
+    <lb n="164r2"/>mānavāḥ|| Iha bhuktim anuprāpya muktibhāgina Eva te|| Ādyantabhogaḥ paṭhatāṁ sadā <space type="binding-hole"/> bhavet tathā kathāṁ caiva tuṇṭhaścatāṁ sadā|| bhogāni sarvāṇi tathāpnuẏāś ca te dvijā
+   <lb n="164r3" break="no"/>gryadaryeṇa kathā samarpitāṁ|| mantrahīnaṁ kriẏāhinaṁ bhaktihīnaṁ trilocanaṁ|| <space type="binding-hole"/> yat pūjitaṁ maẏā deva paripūrṇṇaṁ tad astu me|| <g type="floret"/>|| Iti śrīśivadharmottare
+   <lb n="164r4"/>somanāthavratakathā samāptā|| <g type="floret"/>|| <g type="beast"/>
+<pb n="164v"/><fw n="164v" place="left"><num value="164">164</num></fw><fw n="164v" place="right"><num value="164">164</num></fw>
+    <lb n="164v1"/>sna <num value="1935">1935</num> masihā pūrvaR̥ <num value="5">5</num> varṣa ĀgaR̥ E pustaka lekhā hele sarakiĀ vīrakeśarīpuraśāsana govindarathaśarmā brāhmaṇalikhitaṁ pustakaṁ|| sna <num value="113">113</num> <num value="42">42</num> slā E pustaka māgi neI rakhile tāhāra kuḷare pāṇi davāku kehi rahīve nāhiṁ raurava narkare paṛiva
+<pb n="165r"/>
+    <lb n="165r1"/>
+           </ab>
+         </div>
+      </body>
+  </text>
+</TEI>
