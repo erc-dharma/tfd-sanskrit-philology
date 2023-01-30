@@ -31,6 +31,7 @@
     <!-- git clone then pull -->
     <git-clone-pull repository="https://github.com/erc-dharma/project-documentation.git" dest="project-documentation" />
 
+    <!-- file set for shivadharma -->
     <!-- based to apply moving-app -->
     <fileset id="critical-shiva-normed" dir="./texts/xml" includes="**/*_tei.xml" excludes="*_parallel.xml *_apparatus.xml *_listWit.xml"/>
     <!-- based to apply ids -->
