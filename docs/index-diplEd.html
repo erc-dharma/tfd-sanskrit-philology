@@ -130,12 +130,14 @@
 
         <p>Diplomatic editions made by DHARMA project</p>
       <p><span  class="badge badge-warning">Number of files <b id="lenght"></b> </span> </p>
-      <ul id="list" class="list-group"></ul>
+      <ul id="list" class="list-group">
+        <li class="list-group-item"><a href="https://erc-dharma.github.io/tfd-sanskrit-philology/diplEd/DHARMA_DiplEdOSM-Dh95.html">DHARMA_DiplEdOSM-Dh95.html</a></li>
+      </ul>
     </div>
     </div>
     </div>
 
-   <script>
+  <!--<script>
 
       const filterFiles = (filter) => {
         filter = filter.toLowerCase()
@@ -177,7 +179,7 @@
         let htmlString = '';
         for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
           const fileName = file.path.replace('docs/', '');
-          const fileDisplayName = fileName.split('-').join(' ').replace('diplEd/', '').replace('.html', '');
+          const fileDisplayName = fileName.join(' ').replace('diplEd/', '').replace('.html', '');
           htmlString += `<li class="list-group-item"><a href="${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
@@ -215,6 +217,6 @@
         })
       })()
 
-    </script>
+    </script>--> 
   </body>
 </html>
