@@ -1,0 +1,111 @@
+% XeLaTeX can use any Mac OS X font. See the setromanfont command below.
+% Input to XeLaTeX is full Unicode, so Unicode characters can be typed directly into the source.
+
+% The next lines tell TeXShop to typeset with xelatex, and to open and save the source with Unicode encoding.
+
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=1in,landscape]{geometry}
+%\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+% To experiment, open /Applications/Font Book to examine the fonts provided on Mac OS X,
+% and change "Hoefler Text" to any of these choices.
+% \newfontfamily{\A}{Geeza Pro}
+% \newfontfamily{\H}[Scale=0.9]{Lucida Grande}
+% \newfontfamily{\J}[Scale=0.85]{Osaka}
+
+\usepackage{fontspec,xltxtra,xunicode}
+\defaultfontfeatures{Mapping=tex-text}
+\setromanfont[Mapping=tex-text]{Noto Serif}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Noto Sans}
+\setmonofont[Scale=MatchLowercase]{Andale Mono}
+
+\newcommand{\italicschwa}{\textit{\textschwa}}
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\baris}[1]{{\bfseries(#1)}}
+\newcommand{\jarbar}{\\}%{ââ}%{â¯ÂÂ}
+\newcommand{\panjang}{\hspace{0.1em}\negthinspace:}
+\newcommand{\lempir}[1]{\hfill{\small{[#1]}}}% --- isi nomor urut lempir yang semestinya, lalu \recto atau \verso
+\newcommand{\pinggir}[1]{\ledleftnote{#1}}
+%\newcommand{\pinggir}[1]{\ledleftnote{\setromanfont[Numbers=OldStyle]{MinionProIE-Regular}{#1}}}
+\newcommand{\linef}{Â§}%--- satu tanda "line filler"
+\newcommand{\ragu}[1]{(#1)}
+\newcommand{\sisip}[1]{\superscript{\small{#1}}}
+\newcommand{\coret}[1]{\sout{#1}}
+\newcommand{\ui}[1]{\sout{#1}}
+
+\newcommand{\emend}{\textit{em}.~}
+\newcommand{\conj}{\textit{conj}.~}
+\newcommand{\emt}{\textit{em}.\thinspace}
+\newcommand{\cjt}{\textit{conj}.\thinspace}
+\newcommand{\ems}{\emend(\textit{silent})}
+\newcommand{\cjs}{\conj(\textit{silent})}
+\newcommand{\degree}{\ensuremath{^\circ}}
+\newcommand{\aks}{\textit{ak\-á¹Â£a\-ra}}
+\newcommand{\pang}{\textit{vi\-rÃÂ\-ma}}
+\newcommand{\pas}{\textit{pasangan}}
+\newcommand{\pepet}{\textit{pe\-pet}}
+\newcommand{\dhp}{\textit{Dhar\-ma PÃÂ\-taÃÂ±\-ja\-la}}
+\newcommand{\cec}{\textit{a\-nu\-svÃÂ\-ra}}
+\newcommand{\lyr}{\textit{re\-pha}}
+\newcommand{\ulu}{\textit{i} vocalization}
+\newcommand{\tal}{\textit{e} vocalization}
+\newcommand{\suku}{\textit{u} vocalization}
+\newcommand{\wsg}{\textit{vi\-sar\-ga}}
+\newcommand{\spacet}{ }
+\newcommand{\ttl}[1]{\textsl{#1}}
+\newcommand{\ita}[1]{\textit{#1}}
+\newcounter{para}\setcounter{para}{0}
+\newcommand{{\vir}}{ÃÂ}
+\newcommand{{\danda}}{,}
+\newcommand{{\lungsi}}{,}
+
+%%%
+\newcommand{{\maum}}{m?}
+%%%
+
+\newcommand{\dotincircle}{{\char"25C9}}
+\newcommand{\wajik}{{\char"25C6}}
+
+\newcommand{\cf}{cf.}
+\newcommand{\Cf}{Cf.}
+\newcommand{\verso}{\textit{v}}
+\newcommand{\recto}{\textit{r}}
+
+\newcommand\marginlabel[1]{\mbox{}\marginpar{\raggedleft\hspace{0pt}#1}}
+\newcommand\marginlabelr[1]{\mbox{}\marginpar{\raggedright\hspace{0pt}#1}}
+\newcommand{\marginal}[1]{
+\leavevmode\marginpar{\raggedright#1\par}}
+
+\newcommand{\diplineref}[3]{{\setromanfont{Noto Serif-Bold}\bfseries#1\textit{#2}.#3\enskip}}
+\newcommand{\eddiptext}[3]{{\edtext{#1}{\lemma{#2}\killnumber\Dfootnote{#3}}}}%%NB \lemma{} must contain \diplineref first
+\newcommand{\edcritext}[2]{{\edtext{#1}{\Afootnote{#2}}}}
+\newcommand{\lemcritext}[3]{{\edtext{#1}{\lemma{#2}\Afootnote{#3}}}}
+
+
+\title{Sarvavajrodayā Maṇḍalopayikā}
+\author{Arlo Griffiths \& Ryugen Tanemura}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+
+%\begin{landscape}
+
+\noindent
+
+\baris{5} vihārārāmagrāmānagarāṇāṁ pūrvottaradigbhāge yattra vā maneso nu\\
+	%maneso: manaiso MSK; em. manaso, with MSK.
+	%-supramāṇā◯bhūṣare: em. -supramāṇānūṣare, with Tib. (tsha sgo can ma yin pa) and Padmaśrīmitra's Maṇḍalopāyikā 2.17: supramāṇe same snigdhe 'nūṣare doṣavarjite | pūrvottaraplave ramye bhūbhāge śodhayet punah ||.
+\baris{6} kūlam bhavati | tatra susamasnigdhasuplavasupramāṇā◯bhūṣare bhūbhāge rājño hastaśataṁ pañcāśaddhastam vā |
+
+%\end{landscape}
+
+
+\end{document}  

@@ -1,0 +1,29 @@
+% bxjsartcle.cls等のクラスファイルを使うためのpreamble
+
+%%%%%%%%%%%%%%%%%%%%%% necessary for Jap and diacritique (UTF-8) 
+\usepackage{zxjatype}
+\setromanfont{TeX Gyre Termes}
+% ↓ ヒラギノ明朝の場合、等幅指定（RawFeature=-palt）に注意
+\setjamainfont[BoldFont=Hiragino Mincho Pro W6,RawFeature=-palt]
+              {Hiragino Mincho Pro W3}
+                            
+
+%%%%%%%%%%%%%%%%%%%%%% If we wanna use Tibetan fonts and Devanāgarī .. add this
+
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setmainlanguage[variant=american]{english}
+\setotherlanguages{sanskrit}
+
+\newfontfamily\sanskritfont[Script=Devanagari,Mapping=romantodevanagari,Scale=1.3]{Sanskrit 2003}%\sanskritfont[Script=Devanagari,Mapping=romantodevanagari,Scale=1.15]{CDAC-GISTSurekh}%
+\doublehyphendemerits=-10000
+\newcommand\Skt[1]{\begin{sanskrit}#1\end{sanskrit}}
+
+\newfontfamily\tibetanfont[Script=Tibetan,Mapping=romantotibetan,Scale=1.0,WordSpace=0.4]{Jomolhari}
+\newcommand{\Tib}[1]{{\tibetanfont#1}}
+
+% quote環境を左右に余白を取るように変更
+% jarticle.clsより
+\renewenvironment{quote}
+	{\list{}{\rightmargin\leftmargin}%
+		\item\relax}{\endlist}

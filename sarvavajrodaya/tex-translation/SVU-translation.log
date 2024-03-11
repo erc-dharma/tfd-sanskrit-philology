@@ -1,0 +1,708 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.15)  31 JAN 2022 09:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**SVU-translation.tex
+(./SVU-translation.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@chapter=\count164
+\c@section=\count165
+\c@subsection=\count166
+\c@subsubsection=\count167
+\c@paragraph=\count168
+\c@subparagraph=\count169
+\c@figure=\count170
+\c@table=\count171
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count172
+\Gm@cntv=\count173
+\c@Gm@tempcnt=\count174
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 147.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count175
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count176
+\g__pdf_backend_annotation_int=\count177
+))
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count178
+\g__xparse_grabber_int=\count179
+\l__xparse_m_args_int=\count180
+\l__xparse_v_nesting_int=\count181
+)
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count182
+\l__fontspec_language_int=\count183
+\l__fontspec_strnum_int=\count184
+\l__fontspec_tmp_int=\count185
+\l__fontspec_tmpa_int=\count186
+\l__fontspec_tmpb_int=\count187
+\l__fontspec_tmpc_int=\count188
+\l__fontspec_em_int=\count189
+\l__fontspec_emdef_int=\count190
+\l__fontspec_strong_int=\count191
+\l__fontspec_strongdef_int=\count192
+\l__fontspec_tmpa_dim=\dimen145
+\l__fontspec_tmpb_dim=\dimen146
+\l__fontspec_tmpc_dim=\dimen147
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2020/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+Package: xltxtra 2018/12/31 v0.7 Improvements for the "XeLaTeX" format
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/realscripts/realscripts.sty
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
+ts
+\subsupersep=\dimen148
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks18
+\xl@@everylogo=\toks19
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\l__xetex_show_hyphens_wrapping_box=\box46
+\l__xetex_show_hyphens_temp_box=\box47
+\l__xetex_show_hyphens_final_box=\box48
+\g__xetex_show_hyphens_word_box=\box49
+)
+(/usr/local/texlive/2020/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+)
+\tipaTiiicode=\count193
+\tipasavetokens=\toks20
+\tipachecktokens=\toks21
+)
+
+Package fontspec Info: Font family 'NotoSerif(0)' created for font 'Noto
+(fontspec)             Serif' with options
+(fontspec)             [Mapping=tex-text,Ligatures=TeX,Mapping=tex-text].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto
+(fontspec)             Serif/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Noto
+(fontspec)             Serif/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto
+(fontspec)             Serif/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Noto
+(fontspec)             Serif/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Noto
+(fontspec)             Serif/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Noto
+(fontspec)             Serif/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto
+(fontspec)             Serif/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Noto
+(fontspec)             Serif/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+
+Package fontspec Info: Noto Sans scale = 0.9999974002001847.
+
+
+Package fontspec Info: Noto Sans scale = 0.9999974002001847.
+
+
+Package fontspec Info: Noto Sans scale = 0.9999974002001847.
+
+
+Package fontspec Info: Noto Sans/B scale = 0.9999974002001847.
+
+
+Package fontspec Info: Noto Sans/B scale = 0.9999974002001847.
+
+
+Package fontspec Info: Noto Sans/I scale = 0.9999974002001847.
+
+
+Package fontspec Info: Noto Sans/I scale = 0.9999974002001847.
+
+
+Package fontspec Info: Noto Sans/BI scale = 0.9999974002001847.
+
+
+Package fontspec Info: Noto Sans/BI scale = 0.9999974002001847.
+
+
+Package fontspec Info: Font family 'NotoSans(0)' created for font 'Noto Sans'
+(fontspec)             with options
+(fontspec)             [Mapping=tex-text,Ligatures=TeX,Scale=MatchLowercase,Map
+ping=tex-text].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999974002001847]"Noto
+(fontspec)             Sans/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[0.9999974002001847]"Noto
+(fontspec)             Sans/OT:script=latn;language=dflt;+smcp;mapping=tex-text
+;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999974002001847]"Noto
+(fontspec)             Sans/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[0.9999974002001847]"Noto
+(fontspec)             Sans/B/OT:script=latn;language=dflt;+smcp;mapping=tex-te
+xt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[0.9999974002001847]"Noto
+(fontspec)             Sans/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[0.9999974002001847]"Noto
+(fontspec)             Sans/I/OT:script=latn;language=dflt;+smcp;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.9999974002001847]"Noto
+(fontspec)             Sans/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[0.9999974002001847]"Noto
+(fontspec)             Sans/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+
+
+Package fontspec Info: Andale Mono scale = 1.045390182718519.
+
+
+Package fontspec Info: Could not resolve font "Andale Mono/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Andale Mono/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Andale Mono/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Andale Mono scale = 1.045390182718519.
+
+
+Package fontspec Info: Font family 'AndaleMono(0)' created for font 'Andale
+(fontspec)             Mono' with options
+(fontspec)             [Mapping=tex-text,WordSpace={1,0,0},HyphenChar=None,Punc
+tuationSpace=WordSpace,Scale=MatchLowercase].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1.045390182718519]"Andale
+(fontspec)             Mono/AAT:mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+\fake@f=\skip49
+\fake@c=\skip50
+
+(./SVU-translation.aux)
+\openout1 = `SVU-translation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
+7.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 97.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 97
+.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 97.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(73.71613pt, 430.00462pt, 110.57425pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=1.44614pt
+* \evensidemargin=38.30426pt
+* \topmargin=-8.74641pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=116.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 97.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 97.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 97.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 97.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 97.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 97.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 97.
+LaTeX Font Info:    Redeclaring math accent \check on input line 97.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 97.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 97.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 97.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 97.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 97.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/NotoSerif(0)/m/n on input line 97.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 97.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(0)/m/n on input line 97.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/m/n on input li
+ne 97.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/NotoSerif(0)/m/it on input line 97.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(0)/b/n on input line 97.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/NotoSans(0)/m/n on input line 97.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/AndaleMono(0)/m/n on input line 97.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/b/n on input li
+ne 97.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/NotoSerif(0)/b/it on input line 97
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/NotoSans(0)/b/n on input line 97.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/AndaleMono(0)/b/n on input line 97.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 98.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 98.
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+]
+LaTeX Font Info:    Font shape `TU/NotoSerif(0)/m/sl' in size <10.95> not avail
+able
+(Font)              Font shape `TU/NotoSerif(0)/m/it' tried instead on input li
+ne 106.
+ [2
+
+]
+Chapter 1.
+[3] [4
+
+]
+Chapter 2.
+
+Package fontspec Info: Font family 'NotoSerif(1)' created for font 'Noto
+(fontspec)             Serif' with options
+(fontspec)             [Mapping=tex-text,Ligatures=TeX,Mapping=tex-text,Vertica
+lPosition=Superior].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto
+(fontspec)             Serif/OT:script=latn;language=dflt;+sups;mapping=tex-tex
+t;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Noto
+(fontspec)             Serif/OT:script=latn;language=dflt;+sups;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto
+(fontspec)             Serif/B/OT:script=latn;language=dflt;+sups;mapping=tex-t
+ext;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Noto
+(fontspec)             Serif/B/OT:script=latn;language=dflt;+sups;+smcp;mapping
+=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Noto
+(fontspec)             Serif/I/OT:script=latn;language=dflt;+sups;mapping=tex-t
+ext;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Noto
+(fontspec)             Serif/I/OT:script=latn;language=dflt;+sups;+smcp;mapping
+=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto
+(fontspec)             Serif/BI/OT:script=latn;language=dflt;+sups;mapping=tex-
+text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Noto
+(fontspec)             Serif/BI/OT:script=latn;language=dflt;+sups;+smcp;mappin
+g=tex-text;"
+
+[5]
+Underfull \hbox (badness 2538) in paragraph at lines 128--128
+[][]\TU/NotoSerif(0)/m/n/9 The rest alluded to here with \TU/NotoSerif(0)/m/it/
+9 ādi \TU/NotoSerif(0)/m/n/9 seems to be the list \TU/NotoSerif(0)/m/it/9 sarva
+tathāgatamahābodhicittotpā-
+ []
+
+
+Overfull \hbox (13.58743pt too wide) in paragraph at lines 131--132
+[]\TU/NotoSerif(0)/m/n/10.95 Oh, I am Samantabhadra, the solid being of the Sel
+f-born [Buddhas]. Though
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
+[][]\TU/NotoSerif(0)/m/n/9 It seems that the term abhisamaya (as seen in STTS §
+42 \TU/NotoSerif(0)/m/it/9 yāvat-sarvatathāgata-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
+\TU/NotoSerif(0)/m/it/9 samatājñānābhijñānuttara-mahāyānābhisamayottamasiddhy-a
+vāpti-phala-hetos\TU/NotoSerif(0)/m/n/9 ) and abhisam-
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\TU/NotoSerif(0)/m/it/9 itvā vītarāgarūpam abhinirmāya hīnādhimuktikānāṁ caturā
+ryasatyādhigamaṁ virāgacaryāṁ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\TU/NotoSerif(0)/m/it/9 ca pratipādya punar mahāyānābhiniviṣṭānām aṣṭavijñānakā
+yādidharmanairātmyādhigamaṁ
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 189--189
+\TU/NotoSerif(0)/m/it/9 bhūmipāramitādicaryāṁ ca pratipādya punaś cakravartirūp
+am abhinirmāya gambhīrādhimuk-
+ []
+
+[7] [8] [9]
+Overfull \hbox (33.3592pt too wide) in paragraph at lines 275--276
+\TU/NotoSerif(0)/m/n/10.95 into my (i.e., Vajrakarma’s) hand, fixed as the Viśv
+a(vajra) in the Viśva(vajra)! 
+ []
+
+
+Overfull \hbox (5.09363pt too wide) in paragraph at lines 290--291
+[]\TU/NotoSerif(0)/m/n/10.95 This is that best fetter used by All Buddhas for e
+very evil, the sharp weapon
+ []
+
+[10] [11]
+Overfull \hbox (6.54266pt too wide) in paragraph at lines 350--350
+\TU/NotoSerif(0)/m/n/10.95 which [the Buddhas] instruct the excellent kingdom o
+f the Three World-
+ []
+
+[12] [13]
+Missing character: There is no 敬 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 儀 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no に in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 関 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no し in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no て in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no は in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ， in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no は in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no に in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 対 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no す in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no る in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 註 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 釈 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no で in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 「 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no と in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no は in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 心 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 臓 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no の in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 月 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 輪 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no に in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no あ in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no る in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 金 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 剛 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 杵 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 」 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no で in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no あ in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no る in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no と in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no し in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no て in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no い in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no る in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ． in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 伊 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 集 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 院 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 註 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no を in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 参 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 照 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+
+Underfull \hbox (badness 5388) in paragraph at lines 436--436
+[][]\TU/NotoSerif(0)/m/n/9 The Tattvālokakarī suggests that Sattvavajra is the 
+name of the five-pronged vajra in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--436
+\TU/NotoSerif(0)/m/n/9 the heart of Vairocana. See Tanemura (2019): “sattvavajr
+aに関しては，ĀnandagarbhaはSTTS
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 436--436
+\TU/NotoSerif(0)/m/n/9 §127に対する註釈で「sattvavajraとは[心臓の]月輪にある金剛杵」であるとしている．STTS §12
+7: \TU/NotoSerif(0)/m/it/9 atha yāvantaḥ sarvākāśad-
+ []
+
+
+Overfull \hbox (15.70047pt too wide) in paragraph at lines 447--448
+[]\TU/NotoSerif(0)/m/n/10.95 stimulation of the Thought of Awak-
+ []
+
+[14]
+Overfull \hbox (2.41454pt too wide) in paragraph at lines 459--460
+[]\TU/NotoSerif(0)/m/n/10.95 veneration of All Tathāgatas with every form of wo
+rship without omis-
+ []
+
+
+Overfull \hbox (14.86461pt too wide) in paragraph at lines 463--464
+[]\TU/NotoSerif(0)/m/n/10.95 producing liberality, good con-
+ []
+
+[15]
+Overfull \hbox (12.83896pt too wide) in paragraph at lines 477--478
+\TU/NotoSerif(0)/m/n/10.95 Then, with fragrant water that has been []empowered[
+] with the [mantra of] Vajrayakṣa,[]
+ []
+
+[16] [17] (./SVU-translation.aux) ) 
+Here is how much of TeX's memory you used:
+ 8126 strings out of 479418
+ 176126 string characters out of 5884585
+ 453272 words of memory out of 5000000
+ 25535 multiletter control sequences out of 15000+600000
+ 539589 words of font info for 103 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 49i,6n,119p,1477b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on SVU-translation.pdf (17 pages).

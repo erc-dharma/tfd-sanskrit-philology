@@ -1,0 +1,805 @@
+\documentclass[a4paper,12pt,twoside]{article}
+\usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{eurosym}
+\usepackage[francais]{babel} 
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage{apacite}
+\setlength{\columnsep}{1cm}
+\usepackage[a4paper,left=3cm,right=3cm,top=3cm,bottom=3cm]{geometry}
+\usepackage[T1]{tipa}
+\pagenumbering{empty}
+\usepackage{lmodern}% http://ctan.org/pkg/mathptmx
+\vskip 0.5cm
+\setlength{\parindent}{0.5em}
+\setlength{\parskip}{0.5em}
+\renewcommand{\baselinestretch}{1.13}
+\usepackage{subcaption}
+\usepackage{scrextend}
+\documentclass[a4paper,10pt,twoside]{article}
+\usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{eurosym}
+\usepackage[francais]{babel} 
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage{apacite}
+\setlength{\columnsep}{1cm}
+\usepackage[a4paper]{geometry}
+\usepackage[T1]{tipa}
+\pagenumbering{empty}
+\usepackage{lmodern}% http://ctan.org/pkg/mathptmx
+\vskip 0.5cm
+\setlength{\parindent}{0.5em}
+\setlength{\parskip}{0.5em}
+\usepackage{geometry}
+\usepackage{lscape}
+\usepackage{pdflscape}
+\usepackage{color}
+\usepackage[normalem]{ulem}
+\usepackage{afterpage}
+\usepackage{tipa}
+\usepackage{titlesec}
+\usepackage{textcomp}
+\usepackage[?encoding?]{fontenc}
+\usepackage{tipa}
+\usepackage[tone]{tipa}
+\usepackage[extra]{tipa}
+\usepackage[safe]{tipa}
+\usepackage[noenc]{tipa}
+\usepackage[T3,OT2,T1]{fontenc}
+\usepackage{noto}
+\usepackage[toc,page]{appendix}
+\usepackage{fourier, erewhon}
+\usepackage{geometry}
+\usepackage{array, caption, floatrow, tabularx, makecell, booktabs}%
+\captionsetup{labelfont = sc}
+\setcellgapes{3pt}
+
+\titleformat{\part}[block]{\Large\bfseries\filcenter}{}{1em}{}
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
+
+\newcommand{\italicschwa}{\textit{\textschwa}}
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\baris}[1]{{\setromanfont\bfseries(#1)}}
+\newcommand{\jarbar}{\\}%{ââ}%{â¯ÂÂ}
+\newcommand{\panjang}{\hspace{0.1em}\negthinspace:}
+\newcommand{\lempir}[1]{\hfill{\small{[#1]}}}% --- isi nomor urut lempir yang semestinya, lalu \recto atau \verso
+\newcommand{\pinggir}[1]{\ledleftnote{#1}}
+%\newcommand{\pinggir}[1]{\ledleftnote{\setromanfont[Numbers=OldStyle]{MinionProIE-Regular}{#1}}}
+\newcommand{\linef}{Â§}%--- satu tanda "line filler"
+\newcommand{\ragu}[1]{(#1)}
+\newcommand{\sisip}[1]{\superscript{\small{#1}}}
+\newcommand{\coret}[1]{\sout{#1}}
+\newcommand{\ui}[1]{\sout{#1}}
+
+
+
+\newcommand{\emend}{\textit{em}.~}
+\newcommand{\conj}{\textit{conj}.~}
+\newcommand{\emt}{\textit{em}.\thinspace}
+\newcommand{\cjt}{\textit{conj}.\thinspace}
+\newcommand{\ems}{\emend(\textit{silent})}
+\newcommand{\cjs}{\conj(\textit{silent})}
+\newcommand{\degree}{\ensuremath{^\circ}}
+\newcommand{\aks}{\textit{ak\-á¹Â£a\-ra}}
+\newcommand{\pang}{\textit{vi\-rÃÂ\-ma}}
+\newcommand{\pas}{\textit{pasangan}}
+\newcommand{\pepet}{\textit{pe\-pet}}
+\newcommand{\dhp}{\textit{Dhar\-ma PÃÂ\-taÃÂ±\-ja\-la}}
+\newcommand{\cec}{\textit{a\-nu\-svÃÂ\-ra}}
+\newcommand{\lyr}{\textit{re\-pha}}
+\newcommand{\ulu}{\textit{i} vocalization}
+\newcommand{\tal}{\textit{e} vocalization}
+\newcommand{\suku}{\textit{u} vocalization}
+\newcommand{\wsg}{\textit{vi\-sar\-ga}}
+\newcommand{\spacet}{ }
+\newcommand{\ttl}[1]{\textsl{#1}}
+\newcommand{\ita}[1]{\textit{#1}}
+\newcounter{para}\setcounter{para}{0}
+\newcommand{{\vir}}{ÃÂ}
+\newcommand{{\danda}}{,}
+\newcommand{{\lungsi}}{,}
+
+%%%
+\newcommand{{\maum}}{m?}
+%%%
+
+\newcommand{\dotincircle}{{\char"25C9}}
+\newcommand{\wajik}{{\char"25C6}}
+
+
+\newcommand{\vrh}{\textit{VrÌ¥\-has\-pa\-ti\-tat\-tva}}
+
+\newcommand{\cf}{cf.}
+\newcommand{\Cf}{Cf.}
+\newcommand{\verso}{\textit{v}}
+\newcommand{\recto}{\textit{r}}
+
+\newcommand\marginlabel[1]{\mbox{}\marginpar{\raggedleft\hspace{0pt}#1}}
+\newcommand\marginlabelr[1]{\mbox{}\marginpar{\raggedright\hspace{0pt}#1}}
+\newcommand{\marginal}[1]{
+\leavevmode\marginpar{\raggedright#1\par}}
+
+\newcommand{\diplineref}[3]{{\setromanfont{Noto Serif-Bold}\bfseries#1\textit{#2}.#3\enskip}}
+\newcommand{\eddiptext}[3]{{\edtext{#1}{\lemma{#2}\killnumber\Dfootnote{#3}}}}%%NB \lemma{} must contain \diplineref first
+\newcommand{\edcritext}[2]{{\edtext{#1}{\Afootnote{#2}}}}
+\newcommand{\lemcritext}[3]{{\edtext{#1}{\lemma{#2}\Afootnote{#3}}}}
+\usepackage{subcaption}
+\usepackage{scrextend}
+
+\begin{titlepage}
+	\centering
+	\includegraphics[width=0.15\textwidth]{EPHE}\par\vspace{1cm}
+	{\scshape\Large CHANDA\d HKARA\d NA \par le plus ancien guide de prosodie vieux-javanaise \par}
+	\vspace{1cm}
+\begin{figure}[!htbp] 
+\centering
+\includegraphics[width=5cm,height=7.5cm]{cover}
+%\caption{}
+%\label{}
+\end{figure}	\vspace{1cm}
+	{\scshape par\par Zakariya Pamuji Aminullah\par}
+	\vspace{1.5cm}
+	{\bfseries mini-mémoire soumis à l'École pratique des hautes études en vue de l'obtention du M1\par}
+	\vspace{2cm}
+	{\Large Directeur du recherche : Arlo Griffiths\par}
+	{\large \today\par}
+\end{titlepage}
+
+\begin{document}
+\pagebreak
+\begin{document}
+\thispagestyle{empty}
+\listoffigures
+\renewcommand*\contentsname{TABLE DES MATIÈRES\centering}
+\pagenumbering{roman}
+\phantomsection
+\tableofcontents
+\vfill
+\pagebreak
+\pagestyle{headings}
+\pagenumbering{arabic}
+\begin{document}
+\setlength{\parindent}{8ex}
+\vfill
+\deffootnote[1.5em]{1.5em}{1em}{\textsuperscript{\thefootnotemark}\,}
+\part{INTRODUCTION}\\
+\vfill
+\pagebreak
+
+%\afterpage{\blankpage}
+\thispagestyle{empty}
+\part{MS B (L298) : ÉDITION DIPLOMATIQUE}
+\newgeometry{left=1in,right=1in,top=1in,bottom=1in}
+\newlength{\FSize}
+\setlength{\FSize}{7.7pt}
+\newlength{\Baselineskip}
+\setlength{\Baselineskip}{1.2\FSize}
+\fontsize{\FSize}{\Baselineskip}\selectfont
+\begin{landscape}
+\begin{center}
+\setcounter{footnote}{0}
+\centering
+\includegraphics[width=21cm, height=3.2cm]{001r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{001v.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{002r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{002v.jpg}
+\end{center}
+\vfill
+
+\pagebreak
+
+\begin{enumerate}
+\baris{1} // 0\. r // °o\textipa{\textdotbreve{m}}°avi\. gnamastu // 0\. r // k\={\i}ra\d na\d hviyakti\d hcandra\. gni\d h, dvijoda\d hkovi\d hmarutara\d h, nahan\textperiodcentered \. byaktapinaka\' sarira\. ba\d t\= a\lempir{1\recto}\\
+\hspace*{0.45cm}ra, milvaja{\panjang}nmagave\. buva\d na \o\hspace{0.1cm}\. r sirata{\panjang}\d svatanu\. naranira, s\={\i}rata{\panjang}\d svade\' somid\u e\. rpinakav\u e\. nku, siratahuripnika\. mrat\textperiodcentered, siradumadyak\u en\textperiodcentered v\textsubring{r}\\
+\baris{2} d\d dini\. mjanmakabe\d h, pra\d napra\d n\={\i}sa\. rvvahurip\textperiodcentered °ikana\. nu{\panjang}rip\textperiodcentered lavanavak\textperiodcentered, sarirapamisanyari\. msa\d daradeya, \ui{ma}gumavayika\. msa\. rvvadad\={\i}, sira\ragu{{\panjang}} \\
+\hspace*{0.45cm}sina\. ngu\d hpurvvani\. mjanma \o\hspace{0.1cm}°umijilta\. na{\panjang}\ragu{\d s\d t\= a}tan\= urat\textperiodcentered, naram\ragu{°\textsubring{r}}\. gapa\' sujanmasvara, pak\d s\={\i}sar\={\i}\' s\textsubring{r}pami\d na, pra\. bavani\. na\d daradeya \o\hspace{0.1cm}pra\. bura{\panjang}ma°\textsubring{r}\d s\={\i}\\
+\baris{3} tigasira, prammanari\. mrat\textperiodcentered, pak\u eni\. m\. buva\d na, tuvis\={\i}ratandu\d hkapi\' sik\={\i}guruni\. mjanma{\panjang}kabe\d h, l\={\i}nraniki\. mcandanira\. nka\d na, siratikasidaguru, s\={\i}\\
+\hspace*{0.45cm}raha\d s\d ta{\panjang}ga\d nagumavayika\. mva\. rna{\panjang}s\u eklumra\d h \o\hspace{0.1cm}\ragu{vma m} \o\hspace{0.1cm}°ika\. na{\panjang}k\d saropamavak\textperiodcentered, °ikataguru\. naranya, yek\={\i}tuvina{\panjang}stuhurip\textperiodcentered, yasina\. ngu\d hgurula\. gu \o\hspace{0.1cm}\\
+\baris{4} yapanakamulacanda, °avakni\. mkagurula{\panjang}\. gu, lavannuripmasa\. myoga, °umijiltika\. mtriga\d na \o\hspace{0.1cm}°ad\={\i}\. gnika\. mgurula{\panjang}\. gu, haniganige\. msaga\d na, yeka\\
+\hspace*{0.45cm}{\panjang}\d s\d taga\d na\. naranya, samaha{\panjang}dyaparevatva{\panjang}\. r \o\hspace{0.1cm}mva\. mlaku\' slokanihanlen\textperiodcentered, // \ragu{vma m} // sakve\d hsa\. msujana{\panjang}diha\. r\d sahirika\. mcanda{\panjang}nihankavruh\={\i}, yanma\\
+
+\vskip
+
+\baris{1} hyun\textperiodcentered vruharupani\. mla\. gulavantika{\panjang}sina\. ngu\d hguru, \. baid\d da{\panjang}ni\. mgurula{\panjang}\. guye\. ntakna{\panjang}mva\. mhu\. ngvani\. mhak\d sara, sakve\d hni\. mguruyeri\. n\u e{\panjang}n\ragu{hi}lahil\lempir{1\verso}\\
+\hspace*{0.45cm}eka{\panjang}yan\textperiodcentered sala\d hka{\panjang}svanan\textperiodcentered \o\hspace{0.1cm}\. byakta{\panjang}ni\. mgurusa\. rvvadi\. r\. gataru\. na{\panjang}sa\. myogapa{\panjang}ran\. n\u en\textperiodcentered, lavan\textperiodcentered \ui{va}ka\. r\d nnavisa\. rjjaka{\panjang}ni\' surahan\textperiodcentered \' svara{\panjang}vat\u e\\
+\baris{2} k\textperiodcentered vya\~ njana, °e°o\ragu{{\panjang}}nahananu\. mkayatnaknalen\textperiodcentered hohovkasni\. mguru, vusme\. n\u e{\panjang}tpvakiterika{\panjang}niyatayan\textperiodcentered \' sotantadadyavacan\textperiodcentered \o\hspace{0.1cm}lvi\. r\\
+\hspace*{0.45cm}ni\. mhak\d saragantu\. n\u enmapaknevaktamva\. na\. ngantu\. na, sa\. myoga{\panjang}para\' s\= uk\d smalak\d sma\d na\' siva\. gn\={\i}kle\d salak\d smikuna\. m, nda{\panjang}n\textperiodcentered gla{\panjang}nastula\d na\. gnavi\. gnamam\u ev\u e{\panjang}ni\. r\\
+\baris{3} vi\. gnama{\panjang}rastit\={\i}, svapnasneharika\. mdvitiyakaha\d da\. mri\. mdla{\panjang}haya\ragu{npa}\. pala \o\hspace{0.1cm}\. nahni\. mtik\d s\d namurub\textperiodcentered ri\. nagniyakaton\textperiodcentered rasminyasatejaya, \\
+\hspace*{0.45cm}masna{\panjang}napvakite\. mnad\={\i}mas\={\i}hika\. msaslesma\ragu{t}umla{\panjang}\. na{\panjang}k\u en\textperiodcentered, ri\. msma{\panjang}ru\. ngvasahi\d snunorapina\. nan\textperiodcentered ma\. nli\d hma\. na\. ngantu\. na, yapvan\textperiodcentered \. bed\d dasakoja\\
+\baris{4} rojaraknama\. nke\. naliknyavacan\textperiodcentered, // 0 // g\u ela\d nasa\. mlag\u enan\textperiodcentered parari\. ms\u ema, vi\. g\u enatik\ragu{sa}\d nayogiri\. mtulyaya, divada\' se\\
+\hspace*{0.45cm}ka\ragu{\d da}hunyasani\. r\coret{ypa}\. g\u ena, masup\u enapvavadusum\u enehaya \o\hspace{0.1cm}vag\u emiyan\ragu{sa}\d d\u emi\. nah\u emiha\d di, tuvik\u ele\d savina\. m\' sa\d salak\d s\u emi, s\u epinika\. m\\
+
+\vskip
+
+\baris{1} bratama\. rgganikan\textperiodcentered k\u e°\textsubring{l}m\textperiodcentered, kramani\. nak\d sarayan\textperiodcentered jinaja{\panjang}rika // 0 // lv\={\i}\. rni\. msa\. myogaparek\={\i}, kakyankakyankakvankakvan\textperiodcentered, ka\lempir{2\recto}\\
+\hspace*{0.45cm}kran\ragu{ha}n\. n\u ena\. ngantu\. m, kayatnak\u en\textperiodcentered tm\u en\textperiodcentered tm\u en\textperiodcentered \o\hspace{0.1cm}°anta\d hpadaguruyati, kalavan\textperiodcentered \' svarakamadya, di\ragu{\. r\. ga{\panjang}}di\ragu{\. r\. ga{\panjang}}vattavat\={\i}, tavat\textperiodcentered guru\\ 
+\baris{2} pra\' sid\d daya \o\hspace{0.1cm}di\ragu{\. r\. ga{\panjang}}turu\. nasurahan\textperiodcentered, visa\. rjja{\panjang}lavannaju\. mju\. m, kalavan\textperiodcentered gurusa\. myoga, nahanta\. msina\. ngu\d hguru \o\hspace{0.1cm}nihanta\. m\' svarakamadya, °a°a°i\\
+\hspace*{0.45cm}°i°u\ragu{°\= u}°e°o\ragu{{\panjang}}, tandadimu\. ngu\d hri\. mt\. na\d h, vvittanjugapaknanya // 0 // sampunika\. mpratekanikana\. mgurudinli\. nak\u en\textperiodcentered, nyataja°\textsubring{r}nmuva\d hpadulu\\
+\baris{3} ri\. mgurula\. guvuvus\u en\textperiodcentered, kve\d hnyasava\. rggamu\. nguhikana\. mvacananiganiga, yekasina\. nguhanga\d na\. naranyasipati\. nakavi \o\hspace{0.1cm}pu\. rvvanihanmaka{\panjang}\\
+\hspace*{0.45cm}ra\. narani\. mgurutigasaga\d na, la{\panjang}\. gukuna\. mpan\u e\d n\d dasanilu\. nguhiyakaraga\d na, yapvanika\. mraka{\panjang}raga\d nala{\panjang}\. guma\d du\d dukit\. na\d h, hetunika\. m\' saka{\panjang}raga\\
+\baris{4} \d namaty\u e\. naguruvkasan\textperiodcentered \o\hspace{0.1cm}vrupvakita{\panjang}taka{\panjang}ra\. narani\. mla\. gutpikavur\={\i}, ja{\panjang}tinka\. mjaka{\panjang}raga\d nama\. nkanagururi\. mt\. na\d h, \. baktijuga\. m\. baka{\panjang}ra\\
+\hspace*{0.45cm}ga\d nari\. mgurusirarumuhun\textperiodcentered, na{\panjang}karaga{\panjang}\d natlvamadulu\. rtikayala\. gupa\d da \o\hspace{0.1cm}nyala\. gukarvasa\. mgurupasa\. ngahan\={\i}ka\' silalo, \' se\d sani\. na{\panjang}ga\\
+
+\vskip
+
+\baris{1} \d nekivkas\={\i}\. mgurula\. guvinuvus\textperiodcentered, ri\. mhajicandatekiyanavas\textperiodcentered \' sivahajipiturun\textperiodcentered, sa\. m°\textsubring{r}\d si\. ba\. n\' sapatramanita\d hsiratikimana\. ta //\lempir{2\verso} \\
+\hspace*{0.45cm}0\. r // nihanga\d nanihayyaye\. ntakna, jakara{\panjang}kalavan\textperiodcentered \. bakara{\panjang}\' sakara, catu\. rla\. gugururvayekatalima, lvi\d hnyagurula{\panjang}\. guka{\panjang}n\u emikah\u en\textperiodcentered \\
+\baris{2} \o\hspace{0.1cm}lavan\ragu{ha}natamatraye\. ntakna, vila\. nnyarikana\. msapadamat\u et\u eg\textperiodcentered, °ika\. mpa\d dakapu\. rvvaka{\panjang}tlukuna\. m, gn\u ep\textperiodcentered rvavlasa\. ng\u epanyatuturan\textperiodcentered \o\hspace{0.1cm}kapi\. mrvaniki\\
+\hspace*{0.45cm}h\u enpvayavvaluvlas\textperiodcentered, tumutlima\. mvlas\textperiodcentered pa\d danyavkasan\textperiodcentered, tanevatiyatapata\. rlyavinuvus\textperiodcentered, sama\. nkanavila\. mnimatranikih\u en\textperiodcentered \o\hspace{0.1cm}mva\. nu\. ngvanikana\. m\\
+\baris{3} na\. mjakara{\panjang}mat\u et\u eg\textperiodcentered, kapirvama\. nn\u em\textperiodcentered dvitiyaka\' sulam\textperiodcentered, pa\d darvayatah\={\i}\. nani\. nva\. namila\. m, kayatnaknasa\. mvat\u ekkavivara // 0 // triga\\
+\hspace*{0.45cm}\d nagu\d naga\d nitayagu\d nitan\textperiodcentered, prakara\d nava\d nakaru\d na, °aru\d nadaru\d na\. baru\d na\' sara\d na, °avara\d na\. bara\d nahapa\d na\d nag\u e\. m \o\hspace{0.1cm}\ragu{vma m} \o\hspace{0.1cm}gu\d naku\d niku\d na\\
+\baris{4} ka\d nvika\d nika\d nikalen\textperiodcentered, \. gra\d nahaga\d na\. graha\d nasamira\d na, pra\d navava\d niyava\d niyapa\d nita\d nitan\textperiodcentered, saha\d nahurutapa{\panjang}\d na\d nagi\. na\\
+\hspace*{0.45cm}yatika \o\hspace{0.1cm}vma m \o\hspace{0.1cm}pa\d n\d ditapa\d n\d davapa\d n\d durapa\d n\d du, pi\d n\d da\. napi\d n\d damapa\d n\d damapi\d n\d da, la\d n\d dapala\d n\d d\u epala\d n\d dupale\d n\d do, ga\d n\d digi\d na\d n\d d\={\i}\d di\d n\u e\d n\d da\d nama\\
+
+\vfill
+%% ag+ak membaca sampai sini tgl. 25/9/2014
+\pagebreak
+\begin{center}
+\centering
+\includegraphics[width=21cm, height=3.2cm]{003r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{003v.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{004r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{004v.jpg}
+\end{center}
+\vfill
+\pagebreak
+
+\baris{1} g\u e\. m \o\hspace{0.1cm}\ragu{vma m} \o\hspace{0.1cm}\d dara\d nava{\panjang}ra\d nataha\d na\. ba\d na, ve\' sra\d nava\. r\d nnava\d ni\d sa\d naka\. r\d nna, °a\. r\d nnavava\. r\d nnasupa\. r\d nnayave\. r\d nna, ve\. r\d nnatapu\. r\d nnama\. gu\. r\d nnita\d nag\u e\. m \o\hspace{0.1cm}\ragu{vma m} \o\hspace{0.1cm}\lempir{3\recto}\\
+\hspace*{0.45cm}kagantu\. nadeni\. m\d nag\u e\. m, \ragu{\d t\= a}\d ta\d da\d da{\panjang}\d nari\. m\d nagu\. m, ta\. tada\d danari\. mnalit\textperiodcentered, va\. r\d nnado\d hyasasava\. rgga \o\hspace{0.1cm}\ragu{vma m} \o\hspace{0.1cm}li\. msa\. m, ka{\panjang}vi, vote\. m, ma\. rgga // \ragu{vma m} // \\
+\baris{2} °u\. ngvanika\. mnalittapaknek\={\i}, nda{\panjang}savane\d hnyarika\. mpaknanta, sa\. mna\. tama\. nkanatekana\d dmit\textperiodcentered, kapvamasakyanihansavane\d hnya \o\hspace{0.1cm}\ragu{vma m} \o\hspace{0.1cm}munimunananasa\\
+\hspace*{0.45cm}manu\d sya, °anumanahananam\={\i}nam\={\i}, dina\d dananadina\d dana{\panjang}na, hanihinatananahi\ragu{\d h}n\={\i}tu\. m \o\hspace{0.1cm}\ragu{\d h} \o\hspace{0.1cm}prana\. tana\. tapratapatinitananya, tanahatuna\d hpina, \\
+\baris{3} tatvatanatanya, ni\ragu{na/\. ta}vani\. ta{\panjang}nininin\={\i}tanutan\={\i}, mananavana{\panjang}malin\={\i}nalihikah\u en\textperiodcentered \o\hspace{0.1cm}\ragu{\d h} \o\hspace{0.1cm}vane\d hpaknani\. mnalit\textperiodcentered, na{\panjang}gapunaganagunu\. m, na{\panjang}ga\\
+\hspace*{0.45cm}nagendranagendr\={\i}, na{\panjang}garinaganagini \o\hspace{0.1cm}\ragu{vma m} \o\hspace{0.1cm}mvahniha\. gniha\. gneya, gagana{\panjang}\d dinina{\panjang}\d danadina, ganava{\panjang}\. rhanava{\panjang}hiviva{\panjang}na, nitinityayanu\. mnaliti\\
+\baris{4} ka \o\hspace{0.1cm}\ragu{\d h} \o\hspace{0.1cm}dahana{\panjang}jvalanapana, kamin\={\i}\ragu{\d h}vahin\={\i}nin\={\i}, punovinavanivana, vinavaninalitika \o\hspace{0.1cm}\ragu{\d h} \o\hspace{0.1cm}sa\. mk\d sepanyayan\textperiodcentered vuvus\u en\textperiodcentered, yavat\\
+\hspace*{0.45cm}\textperiodcentered rakva°\textsubring{r}\. bapu\. rvva, pa\. bamadikuna\. mpu\. rvva, dadinalit\textperiodcentered dadi\d nag\u e\. m \o\hspace{0.1cm}na\. byaktanyanhuvaskojar\textperiodcentered, kekade\' sanyakottaya, kocapateki\' sa\d sasa, \\
+
+\vskip
+
+\baris{1} \. byaktanyamatrava\. r\d nnan\u en\textperiodcentered, // 0 // \' sambu\' sa\. nkara\' sara\d h\' sara\d na\' sa\' s\={\i}, de\' sade\' s\={\i}ka\' sa\' sa\d h\' savalaka\' sa\d h, \' sva{\panjang}\' suci\' suna\' sura\d h\' sivaca\' sa\d na, \' sa\lempir{3\verso}\\
+\hspace*{0.45cm}nti\' sokapa\' sa\' sastra\' suna\' si\' su\d h \o\hspace{0.1cm}\ragu{\d h} \o\hspace{0.1cm}\' samu\. rd\d danya, teka{\panjang}\' saku°\textsubring{r}\ragu{b}umunivuntunikah\u en\textperiodcentered, \' sa\' sa\. nka\d h\' sa\. nka\d h\' sa\. nkaraku\' saku\' sa\d hke\' siku\' sika, ku\' sa\ragu{\coret{na}\' sre}kakro\\
+\baris{2} \' sa\d hkranikikata\' sabde\. m\' s\={\i}ri\d n\={\i}, \' siki\. mke\' s\={\i}ke\' sa{\panjang}\ragu{p}\' saku\' sikake\' siku\' sa\ragu{k/l}u\' sa \o\hspace{0.1cm}\' sane\' sunya\' srenig\textsubring{r}\d napi\' sunane\' sr\={\i}ha\' sani\' sa, vi\ui{na}na\' sa{\panjang}\\
+\hspace*{0.45cm}mvama{\panjang}\' sada\' sadi\' si\' sarat\textperiodcentered \' surara\' sika, \' siva{\panjang}\' sambu\d h\' sulatri\' sula\' su\' sali\' sr\={\i}vava\' siva, \' sava\d hva\. n\' sa{\panjang}ve\' sa\d h\' savari\' sivira{\panjang}ka\' sa\' sacaya \o\hspace{0.1cm}\ragu{\d h} \o\hspace{0.1cm}k\d sa\d nak\d si\\
+\baris{3} \d nikapak\d salak\d smi\d sa\d naya{\panjang}hah\u emma{\panjang}nidi, kagantu\. m\. nagumantu\. ne\. m\d da\d dakana\. m\d sap\textsubring{r}titala, prah\textsubring{r}\d s\d t\={\i}paritu\d s\d taro\d sako\d sak\textsubring{r}\d s\d na\\
+\hspace*{0.45cm}v\textsubring{r}\d s\d ta\d saluma\d h\d sap\textsubring{r}ttitika \o\hspace{0.1cm}maha\. r\d sima\ragu{h}o\d sa\d damehe\d same\d sanu\d sa, °\textsubring{r}\d sa\d hmu\d sikapu\' syapo\d syakapu\d sa\d hpra\d sa\d s\d ta{\panjang}ma\d sa, \d sa\d da\. nguli\\
+\baris{4} \d sa\d da\. nga\. bu\d sa\d na\d su\. ba{\panjang}\d sadu\. r\. ba{\panjang}\d sita, °a\d sa{\panjang}pa\d sa\d dayo\d sa\d dipuvi\d sam\textperiodcentered dvipa\d da{\panjang} \d sa\d na \o\hspace{0.1cm}\. bavi\d syatihiri\d syahi\. r\d sa{\panjang}\d napu\d sa\d hhu\d sa\d h\d sad\d dal\\
+\hspace*{0.45cm}en\textperiodcentered, vi\d savi\d sayayomi\' se\d sa{\panjang}dadima{\panjang}nu\d saka{\panjang}\d saya, nyata\. mkalu\d sak\={\i}lvi\d sa\. nalu\d saka\d smala{\panjang}ka{\panjang}ma\d sa, nyata\. mmami\d sayo\. ngvani\. m\d sama°\textsubring{r}\\
+
+\vskip
+
+\baris{1} na\d hna\. ninta{\panjang}taya \o\hspace{0.1cm}\ragu{\d h} \o\hspace{0.1cm}\' sa{\panjang}ka{\panjang}\' sam\ragu{v}a\. m\d sap\textsubring{r}tvisadulurika°\textsubring{r}\. n\u en\textperiodcentered yekah\u en\textperiodcentered, va\. r\d nnan\u enta, \' su\' sru\' sa{\panjang}\' si\d sya\' sik\d sya\' svi\' sitavtunika\. mha\' sva\d sa{\panjang}\' se\d sa{\panjang} \lempir{4\recto}\\
+\hspace*{0.45cm}\' se\d sa{\panjang}n\textperiodcentered, \' su\' svat\textperiodcentered \' si\d sinya\' so\' svi\' sva\d sinaka\d sa\' sideka{\panjang}va\' si\d s\d ta\' savi\d s\d t\={\i}, ma\. nkateka{\panjang}\. m\' sa\d tavo\. r\d satayati\. nti\. n\u et\textperiodcentered yeki\' sak\d sat\textperiodcentered vtunya\\
+\baris{2} \ragu{vma m} // ma{\panjang}sa{\panjang}nika\. msatanihan\textperiodcentered vuvus\u enpa\d danya, sa{\panjang}\d dusada{\panjang}satasa\. ba{\panjang}sisita{\panjang}sita{\panjang}s\={\i}, sita{\panjang}susatyarasasatr\={\i}yasa{\panjang}risa\. mhya\. m, sv\\
+\hspace*{0.45cm}era{\panjang}sa\. ba{\panjang}sarisarisatisa{\panjang}rasari \o\hspace{0.1cm}mva{\panjang}sava{\panjang}\. nasumat\={\i}\.basusenasunu, mva\. m\. nekava{\panjang}sahupava{\panjang}savin\={\i}savasa, du\. r\. ba{\panjang}sidu\. ryyasanadu\. r\. nyasa\\
+\baris{3} naprasasta, byasa{\panjang}sasa{\panjang}dusasivinsapujinsapuja{\panjang} \o\hspace{0.1cm}sasva\. ngasa\. ngasigise\. ngitasa\. rggasajja, s\u e{\panjang}g\u e{\panjang}sga\ragu{\. m}sigasugi\d hsigirinsagasor\textperiodcentered, \\
+\hspace*{0.45cm}sasva\. rggasa{\panjang}garasa{\panjang}goravasa{\panjang}\d dakasya\. m, rat\textperiodcentered kosvani\. msatasarat\textperiodcentered paknanyas\textperiodcentered k\d sat\textperiodcentered \o\hspace{0.1cm}\ragu{\d h} \o\hspace{0.1cm}surasaptasara\d hsurasasirasada, samasi\d hmapas\u e\\
+\baris{4} n\textperiodcentered savarasutasaha, savina\. msavan\u en\textperiodcentered sakalasakavasa, praja{\panjang}nanmisadantyanitikamivara \o\hspace{0.1cm}°iti\d hparu\. nguni\. nha{\panjang}k\d sara // \ragu{vma m} \\
+\hspace*{0.45cm}\ragu{°\textsubring{l}} // nyansutrasand\={\i}vuvus\u en\textperiodcentered, parak\textsubring{r}t\coret{i}alvi\. rnikaprati\. nka\d hnya, °atambayan\textperiodcentered, havkasan\textperiodcentered, na{\panjang}hantayasina\. ngu\d hhan\textperiodcentered va\. r\d nna \o\hspace{0.1cm}tini\. nka\d hpina\\
+
+\vskip
+
+\baris {1} rvavkasan\textperiodcentered, °ika\. mnama\d hyekih\u en\textperiodcentered \' svara\. naranya, yapvankapu\. rvyahanta, sina\. nguhan\textperiodcentered vya\~ njanana{\panjang}ma \o\hspace{0.1cm}°\textsubring{l}, yantahadisamana, tumutsinami, °i, \lempir{4\verso}\\
+\hspace*{0.45cm}pu\. rvyaka, vkasan\textperiodcentered \. go\d sa, sahlesatr\ragu{\={\i}}svisabat\ragu{\u e}k\textperiodcentered, °\= a°\={\i}°\= u°{\textsubring{\=r}}°{\textsubring{\=l}}, lvi\. rnyakavruhana \o\hspace{0.1cm}di\. r\. ga{\panjang}\. naranyamanh\u er\textperiodcentered, °a°i°u°\textsubring{r}°\textsubring{l}, lima\. mvij\={\i}, sahaya,\\
+\baris{2} sandya{\panjang}k\d saramuvaha\. ng\u epan\textperiodcentered, °e°ai, °o°o, nahan\textperiodcentered lvi\. rnya \o\hspace{0.1cm}\ragu{\d h} \o\hspace{0.1cm}kaka{\panjang}caka{\panjang}ta\. ta{\panjang}pa\. pa{\panjang}, sakatlunahansahayani\. na\. go\d sa, ga\. ga\d tadiyaralava\\
+\hspace*{0.45cm}ha, silo\d san\textperiodcentered rakvana{\panjang}manika \o\hspace{0.1cm}va\. rgga\. naranyalimalikur\textperiodcentered, kapinakapu\. rvyanikama, mavkasanpinakavkasnya, kagakalimanyaya\' sud\d dan\textperiodcentered, ra\' sa\d sa{\panjang}saha\\
+\baris{3} yanyavuvu\d da\d h \o\hspace{0.1cm}°anunasika\. m\. na\~ nanana{\panjang}ma, °antasta\. naranika\. myaralavatuta, °usmana\' sa\d sasa{\panjang}hasimida\d h, pati\. nka\d hni\. msutrasandike \o\hspace{0.1cm}\ragu{vma m} \o\hspace{0.1cm}sampu\\
+\hspace*{0.45cm}npra\ragu{tye}kani\ragu{ka}na\ragu{\. m}\. nak\d sar\ragu{i}ri\. mvya\~ njanalavan\textperiodcentered \' syara, tucapatasa\~ njatanikah\u en\textperiodcentered, prakarani\. naranyakavruhana \o\hspace{0.1cm}\. narani\. nulusavane\d h, maku\d taruku\\
+\baris{4} ha\' sramastakakapa\. pala, tijakula\' sekarama\' sira, nahantaparina{\panjang}mani\. m\' s\textsubring{r}\. nga \o\hspace{0.1cm}d\={\i}\. r\. ga{\panjang}hulumapalenan\textperiodcentered, °ut\u eklavan\textperiodcentered kambaraku\~ nc\={\i}r\textperiodcentered, maja\d ta\\
+\hspace*{0.45cm}, hagumbak\textperiodcentered jambula\ragu{\. nu{\panjang}}rai, syana{\panjang}manidi\. r\. ga{\panjang}yan\textperiodcentered ri\. mhulu \o\hspace{0.1cm}vindulavanmadanakuna\. m, kuna\. mkuna\. mlentaralavan\textperiodcentered vinta\. m, tilakatitikka\d nisuraha\\
+
+\vfill
+
+\pagebreak
+\begin{center}
+\centering
+\includegraphics[width=21cm, height=3.2cm]{005r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{005v.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{006r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{006v.jpg}
+\end{center}
+\vfill
+\pagebreak
+
+\baris{1} n\textperiodcentered, nahantaparina{\panjang}mani\. mnan\d da \o\hspace{0.1cm}nyanta\. mcakrajantragulu\. na{\panjang}n\textperiodcentered, suda\. r\d sa\d nayud\d dak\textsubring{r}\d s\d nalensaka\d ta, da\' sana{\panjang}mayekihuni\. na{\panjang}n\textperiodcentered, mva\. na\~ nakrahulu\lempir{5\recto}\\
+\hspace*{0.45cm}yukt\={\i}kavruhana \o\hspace{0.1cm}yapyanika\. mtali\. nanihan\textperiodcentered, ku\d n\d dalacapi\. msumpi\. mleka\. r\d nna, \' srotasuv\u e\. mmya\. ni\. nti\. n\u e{\panjang}t\textperiodcentered, \. palagasuna{\panjang}mani\. mtali\. na \o\hspace{0.1cm}di\. r\. ga{\panjang}\. na{\panjang}\\
+\baris{2} ranya, tulalai, °ikuta\. nan\textperiodcentered vastralen\textperiodcentered galahadava{\panjang}, kirivil\={\i}ku\~ ncayasavane\d h, °asi\. na{\panjang}dava{\panjang}di\. r\. ga{\panjang}rakveka \o\hspace{0.1cm}°ara\' suk=hagoduvvak\\
+\hspace*{0.45cm}e\' sa\sisip{ma}vaju, kat\ragu{i\. r}kuna\' sa\. nkalenkuru\. na{\panjang}n\textperiodcentered, °ika\. mkalamb\={\i}lavan\ragu{h}anamanu\. nga\. m, ma\. tapatapuhanamapayu\. m, da\' sana{\panjang}mani\. mtaru\. na{\panjang}ranyanahan\textperiodcentered \o\hspace{0.1cm}yapya\\
+\baris{3} n\ragu{h}atikmaga\d nitr\={\i}lavangu\ui{d}duha, vajasaharuha, masurati\. ba{\panjang}hu, \. bamanajnuvane\d h, visa\. rjjaniyekinahansabat\ragu{\u e}k\textperiodcentered \o\hspace{0.1cm}ma{\panjang}t\={\i}pja\d h\' sunyaturuku\\
+\hspace*{0.45cm}na\. m, paratrakna\. bajral\={\i}naguli\. nan\textperiodcentered, hanamaruku\d hlenaso\. mso\. m, nahankat\. n\u enika{\panjang}yati\. na{\panjang}k\u ensa\. na\ragu{\~ njna}\d nanya, \o\hspace{0.1cm}matk\u en\textperiodcentered ga\d da\' suku\' suku, \. palu\. pa\\
+\baris{4} ludanasahaga\d da, v\u entisyalarisyakakuritan\textperiodcentered, °asi\. na{\panjang}dava{\panjang}j\u e\. mnyayekiknak\u en\textperiodcentered \o\hspace{0.1cm}vat\u ekalu\ragu{\. ni}d\textperiodcentered mva\. mpa\d n\d d\={\i}, curiga{\panjang}ga\d di\. mcandraha{\panjang}\d sasu\. nu\\
+\hspace*{0.45cm}tinyun\textperiodcentered, sihu\. nu{\panjang}mi\. nis\textperiodcentered, curiknahanyukt\ragu{\u e/\={\i}}kakyakyan\textperiodcentered \o\hspace{0.1cm}\' siva{\panjang}patrayatatinam\. pil\textperiodcentered, masidku\. na{\panjang}ty\u e\. na{\panjang}namluksi\. n\u el\textperiodcentered, mu\. ngvi\. mpatara\d na,\\
+
+\vskip
+
+\baris{1} nban\textperiodcentered talkara\. nuluyayatakvakvan\textperiodcentered, \o\hspace{0.1cm}hanatahi\. rv\d dihana\d de\. m, k\textsubring{r}tala\. bujagana{\panjang}gap\textperiodcentered \' sapinut\u e\. rnya, kadiva\. nkava{\panjang}yalumma\. nku\ragu{\. m}, laras\textperiodcentered \ragu{vin\u e}\d n\d ta\. m\lempir{5\verso}\\
+\hspace*{0.45cm}nyakakrakran\textperiodcentered \o\hspace{0.1cm}°a\. nkus\textperiodcentered gala\d hnya\. bu\d nala, kukumano\ragu{lsa}gayu\. mj\ragu{\u e}\. na{\panjang}sivur\textperiodcentered, pahat\textperiodcentered ya\ragu{hi\. r}navanya, nahanpasidku\. namluk\ragu{t}ur\textperiodcentered, kukunyatu\ragu{na/ma}\\
+\baris{2} kulkad\={\i}\ragu{k\= uk\= u} \o\hspace{0.1cm}hanaka\. ni\d n\d dit\textperiodcentered \ragu{g}u\. rlavak\textperiodcentered, hananpamavaga\d da{\panjang}nakakonta, tuhuklimpu\. mk\textsubring{r}talapa\d n\d dicurik\textperiodcentered, salvi\. rnika\. mhi\. nu\d n\d da, yayanyan\textperiodcentered ra\\
+\hspace*{0.45cm}jinu\~ nju\. mhika, // 0 // sa\. mhya\. mjagatr\={\i}puru\d sa, namasivayata\. nhulun\textperiodcentered, °amvitumastavak\ragu{i/\u e}ta, °ama\. r\d nnanava\. rvavtun\textperiodcentered \o\hspace{0.1cm}guruni\. mjagatkitaya, mulak\d sa{\panjang}\\
+\baris{3} ra\ragu{gu\coret{?}}rula\. gu, matraha\. ryyata\. nga\d na, nahan\textperiodcentered \. narantane\. mca\sisip{\ragu{ca}}na \o\hspace{0.1cm}k\={\i}tama\. nkarupacanda, gavetit\={\i}\ragu{npva}\. msloka, yatava\. r\d nnan\={\i}nkyavtun\textperiodcentered, yapinaka\d su\\
+\hspace*{0.45cm}luhirat\textperiodcentered \o\hspace{0.1cm}lvi\. rni\. mcandata\. naranya, kve\d hni\. mvila\. mni\. nak\d sara, rikana\. mpadasayat\={\i}, pa\ragu{\d da/ca}\. naranyasaka\d n\d da\d h \o\hspace{0.1cm}pata\. mpadasa\' sloka \o\hspace{0.1cm}mulanyake\. ntakna, \\
+\baris{4} °ak\d saratu\. ngali\. myati, yekasina\. ngu\d hhantyanta, rva\. nak\d sarapuya\ragu{ki{\panjang}/ki\d h}ta \o\hspace{0.1cm}\. r tryak\d saramadyamanama, prati\d s\d tapata\. nak\d sara, \' si\d saprati\d s\d tayanli\\
+\hspace*{0.45cm}ma, nma\. nak\d sarajagatr\={\i} \o\hspace{0.1cm}°u\d s\d nikripitu\. nak\d sara, vyalupyayapadanu\d s\d tup\textperiodcentered, vruhatisa\. na{\panjang}\. nak\d sara, sapulu\d hpyasipak\d sat\={\i} \o\hspace{0.1cm}\. r sasam\ragu{\. n/b}ahapyasavlas\textperiodcentered, \\
+
+%% ag+ak membaca sampai sini tgl. 02/10/2014
+
+\vskip
+
+\baris{1} ryavlaspyayajagat\ragu{i}, °atijagattigavlas\textperiodcentered, saka\. ryya\d hpad\textperiodcentered blasika \o\hspace{0.1cm}sakoriyalimavlas\textperiodcentered, °a\d s\d t\={\i}\d hn\u em\textperiodcentered blasikah\u en\textperiodcentered, tya\d s\d t\={\i}\d hnahanpituvlas\textperiodcentered \lempir{6\recto}\\
+\hspace*{0.45cm}, nadrutiyavyaluvlas\textperiodcentered \o\hspace{0.1cm}sivrud\d di\d hyatasalapan\textperiodcentered, rva\. mpulu\d hpyayanak\ragu{°\textsubring{r}}tiprak\textsubring{r}tiyatasalikur\textperiodcentered, rvalikurika\. nak\textsubring{r}t\={\i}\d h \o\hspace{0.1cm}tlulikuri\. mvak\textsubring{r}t\={\i}\d h\\
+\baris{2}, pad\textperiodcentered liku\. rsuna{\panjang}mak\textsubring{r}t\={\i}\d h, \. bak\textsubring{r}t\={\i}\d hyalimalikur\textperiodcentered, hanutk\textsubring{r}ti\d hyan\u emlikur\textperiodcentered // 0 // nahanprati\. nka\d hnya, sampunika, sama\. nkanavi\\
+\hspace*{0.45cm}la\. mni\. mvrutini\. mcanda, yapyan\textperiodcentered vli\d hsake\. mn\u emlikur\textperiodcentered, \d da\d n\d darakya\. naranya, lvi\d hsa\. nkerika, kalalu\. naranya, \d da\d n\d dakahiruhunya \o\hspace{0.1cm}padulu\. rnika\. m\\ 
+\baris{3} v\textsubring{r}ttign\u ep\textperiodcentered, javajavani\. mcandasampunenakatut\textperiodcentered, dinl\ragu{\u e}\. nak\u en\textperiodcentered vinlavla, \. byaktanyayava\. r\d nnan\u ensumili\. na{\panjang}rani\. mlakunihan\textperiodcentered \o\hspace{0.1cm}\ragu{vma m} \o\hspace{0.1cm}nad\d da,\\
+\hspace*{0.45cm}\. badra, \. badroti\d h, va\d nam\textsubring{r}g\={\i}, vijayant\={\i}, tanumad\d dya, kusumitagan\d da, ma\d dukaralal\={\i}ta, vatapatya, pad\d danu\d s\d tup\textperiodcentered, sapantika, kakri\d dita,\\
+\baris{4} vidyutmala, \. ba{\panjang}vacakra, \. bramaravi°\textsubring{l}mbita, vikridita, kumaravi°\textsubring{l}mb\={\i}ta, \. buja\. ngasuk\textsubring{r}ta, °ayamuka, turidagat\={\i}, °amb\u eksuda, vahirat\textperiodcentered \\
+\hspace*{0.45cm}, \' sa\sisip{da}na\' sr\={\i}, °anuntun\textperiodcentered, jayendra\. bajra, °upastita, do\d hdu\d hka, \' salisir\textperiodcentered, vima{\panjang}la, \. bramaravila\' sita, \' svagata, ratodaka, maduvulam\textsubring{r}ta\ragu{\hilang{1}}\\
+
+\vskip
+
+\baris{1} \. bik\d suka, drutavi°\textsubring{l}mbita, \. ba\. n\' sapatra, viralal\={\i}ta, ra\d sanetra, \' sr\={\i}puca\' sa, giri\' sa, ku\' sumavicita, citralit\={\i}, paraj\ragu{\={\i}}ta, \. buja\. ngaprayatna, \. bra\lempir{6\verso}\\
+\hspace*{0.45cm}mitak\d sa, \' satyadev\={\i}, navamali\d n\={\i}, ku\' su\ragu{ma}pad\d danta, praha\ragu{si\d n\={\i}}, \' sasadana, ma\. ta{\panjang}mayura, sam\ragu{b}ada, para\d na\' sara, prahara\d nakal\={\i}ka, gu\d nanikara, mal\={\i}\\
+\baris{2} \d n\={\i}, \. ba\d santatila\sisip{ka}\ui{ta}, m\textsubring{r}\d dukaralal\={\i}ta, meri\. m, kusumayud\d da, jagatpramo\d d\={\i}ta, \. buja\. ngavila\' s\={\i}ta, gajavila\' s\={\i}ta, mandrakan\ragu{\. ta}, °avitana, \' sika\\
+\hspace*{0.45cm}ri\d n\={\i}, °ari\d n\={\i}pluta, sa\ragu{p\textsubring{r}}ttitala, ku\' sum\={\i}talata, mala\' sikik\d sa\d na, sa\. rdulavikri\d dita, \' s\textsubring{r}d\d dara, \' suvadana, m\textsubring{r}ga\. n\' sarajan\={\i}, man\d daradr\={\i}, mandrakahni\ragu{\. m}, \\
+\baris{3} °a\' svalal\={\i}ta, m\ragu{\={\i}}ttakrid\d d\={\i}, kendran\textperiodcentered, \' si\. gragat\={\i}, tura\. ngagat\={\i}, pa\d davi\' sala, \' sakro\~ nca, vavahi\. mrat\textperiodcentered, \. buja\. ngavij\textsubring{r}mbita, jayavikrama, sam\\
+\hspace*{0.45cm}e\d n\={\i}, sama\. b\={\i}\d sama, candrakanta, \' si\. nha{\panjang}\' sar\={\i}, vi\ragu{ja}yadr\={\i}, vi\d salata, talakusuma, klikli\. nan\textperiodcentered, \d dayak\d dayakan\textperiodcentered, jayakusuma, lalu, \d da\d n\d da, \d da\d n\d daka, \\
+\baris{4} \ragu{la}kupisan\textperiodcentered, matra, °a\. ryya \o\hspace{0.1cm}nda{\panjang}sama\. nkana\. naranilaku, \ragu{°i}c\ragu{ca}nira\. nkama, mv\ragu{e}\. mhame\sisip{ta}lakulenasa\. nkerika \o\hspace{0.1cm}nihan\textperiodcentered va\. rtyanya // \ragu{vma m} \\
+\hspace*{0.45cm}// °o m, na, nda{\panjang}, stu, \o\hspace{0.1cm}\ragu{vma m} \o\hspace{0.1cm}samba\d h, kva{\panjang}g\ragu{\u e}\. m, ri\. mhya\. m, \. badra \o\hspace{0.1cm}\ragu{vma m} \o\hspace{0.1cm}ta\d n\d dasku, jna{\panjang}\d na\. nku, \. baktyag\ragu{\u e}\. m, \. badroti\d h \o\hspace{0.1cm}\ragu{vma m} \o\hspace{0.1cm}skaras\ragu{\u e}p\textperiodcentered, pa\d daniki, vacava\\
+
+\vfill
+
+\pagebreak
+\begin{center}
+\centering
+\includegraphics[width=21cm, height=3.2cm]{007r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{007v.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{008r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{008v.jpg}
+\end{center}
+\vfill
+\pagebreak
+
+\baris{1} can\textperiodcentered, va\d nam\textsubring{r}\. g\={\i} \o\hspace{0.1cm}\ragu{vma \. r} \o\hspace{0.1cm}sa\. mhya\. m\. naka\' sa, \. bu\d hkira\d nonda\d h, °agn\={\i}marutvai,  °o{\panjang}\textipa{\textdotbreve{m}}vijayanti \o\hspace{0.1cm}\ragu{vma \. r} \o\hspace{0.1cm}sakve\d htavat\u ek=hya\. m, mu\. ngvi\. mva\d nade\' sa, tonte\lempir{7\recto}\\
+\hspace*{0.45cm}onprana\. ta\. nku, mu\. ngvi\. mtanumad\d dya \o\hspace{0.1cm}@ \o\hspace{0.1cm}li\d n\d dumarasa\. mhya\. m, °o{\panjang}ga\d hk\d si\. timola\d h, ke\. ng\u ek\textperiodcentered vavata\. mnya, ka\d nya{\panjang}tanumad\d dya \o\hspace{0.1cm}@ \o\hspace{0.1cm}sahananiki\. mrat\textperiodcentered, \\
+\baris{2} narataru\' satya, pa\d data\ragu{v}inuje\. m, ku\' sumitaganda \o\hspace{0.1cm}@ \o\hspace{0.1cm}ma\. tamulatahn\={\i}\. m, damarupamanika, vuvusamanisarum\textperiodcentered, madukaralalita \o\hspace{0.1cm}@ \o\hspace{0.1cm}\\
+\hspace*{0.45cm}sakve\d hnyavakukam\. ba\. m, yekyanu\. mpamuja{\panjang}\. m\. nku, kle\' sa{\panjang}lo\. na\. palanya, na\d s\d ta{\panjang}ni\. mmadaleka \o\hspace{0.1cm}@ \o\hspace{0.1cm}tlasta\. nulunamuja{\panjang}, niroga\ragu{y}unavi\. gna, \. pala\\
+\baris{3} \. nkyakanuku\' sala, kuma{\panjang}ralalitahato\. m \o\hspace{0.1cm}@ \o\hspace{0.1cm}nahansamba\d hkyari\. mdeva, karuhunri\. mmunivara, °am\={\i}ttuma\. r\d nna{\panjang}\~ njna{\panjang}\d na, vata{\panjang}patyat=h\u e\. rvtuna\\
+\hspace*{0.45cm}\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}sakve\d hni\. mpa\d da{\panjang}yanpatya, kala\. pala\. gu\. nak\d sara, pa\d dakapirvakapi\. mpat\textperiodcentered, pa\d danu\d s\d tup\textperiodcentered lvi\. rni\. mlaku \o\hspace{0.1cm}@ \o\hspace{0.1cm}°apan\textperiodcentered yatikalv\={\i}\d h, jna{\panjang}\\
+\baris{4} \d nahayulavanula\d h, puja{\panjang}\' sakala\ui{pa}tanalum\textperiodcentered, sapantikalagilagin\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}lvi\. rnikana\. mhayulagin\textperiodcentered, yekadl\u en\coret{la}\textperiodcentered tula\d dana, \\
+\hspace*{0.45cm}so\. navna\. msapara\d na, divyakad\={\i}pyavitana \o\hspace{0.1cm}@ \o\hspace{0.1cm}yapyanulu\d hlagitivas\textperiodcentered, °ayyagin\={\i}byat=hantukan\textperiodcentered, do\' sanikapri\d hka\' sulam\textperiodcentered, ma{\panjang}\\
+
+\vskip
+
+\baris{1} navakakrid\d ditaya \o\hspace{0.1cm}@ \o\hspace{0.1cm}°ayya\ragu{\. nva}\. mtanpamri\d hyatna, °akve\d hlvi\. rni\. mma\. ndedu\d hka, yavatkevatsabdante\. mlen\textperiodcentered, tavat\textperiodcentered m\textsubring{r}tyuvidyutma{\panjang}la \o\hspace{0.1cm}@ \lempir{7\verso}\\
+\hspace*{0.45cm}\o\hspace{0.1cm}°apanikasa\. mvihikan\textperiodcentered, tanalupari\. mpitutur\textperiodcentered, nagatatamangigi°\textsubring{r}n\textperiodcentered, \. bramaravi°\textsubring{l}mbitaya \o\hspace{0.1cm}@ \o\hspace{0.1cm}sa\. palaknahuripni\. nva\. m, magava{\panjang}\\
+\baris{2} yahayusambega, yata\. nusiranura{\panjang}ge\. mrat\textperiodcentered, \. bujagasi\' suk\textsubring{r}ta{\panjang}gurva \o\hspace{0.1cm}@\. r \o\hspace{0.1cm}°ayvakparu\d saca\. pala, yeka\. na\. bya\d sakaviratin\textperiodcentered, \. byaktam\\
+\hspace*{0.45cm}ohapuharanika, doparanyana\. nayamuka \o\hspace{0.1cm}@\. r \o\hspace{0.1cm}yatikanavastuni\. nav\ragu{\={\i}/\u e}°\textsubring{r}, °ika\. na{\panjang}vama{\panjang}\d napujaj\={\i}va, g\u e°\textsubring{r}m\u et\u eb\u e\. mmanmu\' suka, turi\d dagat\={\i}nya\\
+\baris{3} va°\textsubring{r}gup\={\i}t\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}sakve\d hni\. m\' sukadu\d hkatanmado\d h, pet\u enkeri\. navaklavanmana\d h, nahanhetunisa\. mmaha{\panjang}mun\={\i}, °amb\u eksud\d dapinetisa\. mmaha\\
+\hspace*{0.45cm}n\textperiodcentered \o\hspace{0.1cm}@\. r \o\hspace{0.1cm}deyanika{\panjang}sa\. msajna{\panjang}\d na\. bu\d di, sa\. n\' saramahyan\textperiodcentered ri\. m\' sukavahya, mamrihamuja{\panjang}sa\d dakari\. mhya\. m, rukmavat\={\i}sadyanta\' sada\' sr\={\i} \o\hspace{0.1cm}@\. r \o\hspace{0.1cm}°apansa\. m\\
+\baris{4} \' sukatum\ragu{\={\i}}mupri\d hnya, vva\. mvi\d dagdayara\' sika{\panjang}\. nun\ragu{i}, \. bakt\={\i}hya\. mk\textsubring{r}taya\' satanse\. mvva\. m, g\u e\. mni\. mpunya\d nyapava\d nayanuntun\textperiodcentered, \o\hspace{0.1cm}@\. r \o\hspace{0.1cm}lvi\. rni\. mdad\={\i}vvitti\\
+\hspace*{0.45cm}kanaja{\panjang}tinya, ma\. ng\u e\d hgavenyaparipu\. r\d nnajanma, hetunyamamri\d hmagavepara\. r\. ta, rapyan\textperiodcentered tmu\. mvi\. ryyajayendra\. bajra \o\hspace{0.1cm}@\. r \o\hspace{0.1cm}°ika\. mkavi\. ryyankala \\
+
+\vskip
+
+\baris{1} vansukag\u e\. m, kapa\d n\d ditandibyalv\={\i}\d hriki\. mrat\textperiodcentered, °asi\. msakoja\. rniratankapa{\panjang}pa, °upendra\. bajrotipama{\panjang}sala{\panjang}\. ba \o\hspace{0.1cm}@ \o\hspace{0.1cm}svajatini\. mratmaha°\textsubring{r}pka\lempir{8\recto}\\
+\hspace*{0.45cm}vi\. ryyan\textperiodcentered, pa\d da{\panjang}\. najap\textperiodcentered \. byadayalensukag\u e\. m, mana\d hjugahyuntamatanparatra, °upasvika{\panjang}do\d hrisa\d da\. rmmasa\. mhya\. m \o\hspace{0.1cm}@\. r \o\hspace{0.1cm}ja{\panjang}tinika\. mvva\. nag\u e\. mmada{\taling}\\
+\baris{2} moha, kevala\. bud\d d\={\i}tam\textperiodcentered n\textperiodcentered vruhisonya, tansakaya{\panjang}sigaca\. nka\sisip{ka}ca\. nkak\textperiodcentered, dod\d dakadu\d hkamag\u e\. mtinmunya \o\hspace{0.1cm}@\. r \o\hspace{0.1cm}na{\panjang}lvi\. rni\. mvvahinayonihane\. m\\
+\hspace*{0.45cm}rat\textperiodcentered, \. bed\d damva\. msa\. mpu\d nyamva\. mdevayen\={\i}, v\={\i}\. ryyama{\panjang}san\textperiodcentered rupavanyapane\d s\d tin\textperiodcentered, si\. m\' sola\d hnyansali\' si\. rtanpava\. r\d nna \o\hspace{0.1cm}\ragu{@}\. r \o\hspace{0.1cm}durapveka\. mmadamoha\\
+\baris{3} \. n\ragu{\u e}p\ragu{\u e}{\panjang}pa, ma\. nkinhumvatka\' sujanmaniravan\textperiodcentered, kendrankad\d d\ragu{i}\d hkalivatyaka\. bukti, \' svecca{\panjang}ri\. mratsiratovivimala \o\hspace{0.1cm}@ \o\hspace{0.1cm}yogya\. nva\ragu{\. m}ma\. bya\d sa\' sukavira\\
+\hspace*{0.45cm}tin\textperiodcentered, °atyantev\u e\d hrivna\. m\. naku\' sala, \' sabdanta{\panjang}rum\textperiodcentered kusumapa\d danika, deva°\textsubring{r}\. ny\u e\. bramaravila\' sita \o\hspace{0.1cm}@ \o\hspace{0.1cm}masma\d nik\textperiodcentered jugavi\' se\d sariki\. mrat\textperiodcentered, nda\\
+\baris{4} lv\={\i}\d htm\u enika\. mka\' su\d sila, \. bud\d dipa\d n\d ditalavanhupa\' santa, \' sva{\panjang}gate\. mparata\. nanmatala\. nkup\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}sa\. mnarendrasirami\. nki\. mjagat\textperiodcentered, ta\. rvna\. nmapakari\\
+\hspace*{0.45cm}hisa\. mviku, \. byaktani\. mkaviratinmaha\. rd\d dika, ya{\panjang}m\textsubring{r}ta{\panjang}su\. navna\. mratodaka \o\hspace{0.1cm}@ \o\hspace{0.1cm}kira\d napinaka\' suluhi\. mloka, vulanamuhara\' sukani\. mccitta, \\
+
+\vskip
+
+\baris{1}, \' sakalakira\d nahatisa\. mprajna{\panjang}, vuvusiramaduyavula{\panjang}m\textsubring{r}tta \o\hspace{0.1cm}@ \o\hspace{0.1cm}yekama\. rggani\. nan\u emvannak\u ennayu, sa\. mvna\. mmakadulu\. rhaj\u e\. mnira, nittina{\panjang}ga\lempir{8\verso}\\
+\hspace*{0.45cm}tasire\. mtam\ragu{e}g\={\i}ta, sva{\panjang}nicihnanimana\d hka\. bik\d sukan\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}pa\. naninumsiturusukani\. mdad\={\i}, va\' sayara{\panjang}gatumutyalavantuha, situhaye\\
+\baris{2} katinutnikana\. mpat\={\i}, drutavi°\textsubring{l}mbitajanmapu\d na\d hpu\d na\d h \o\hspace{0.1cm}@ \o\hspace{0.1cm}nahantinonsa\. mvikuni\d scayepat\={\i}, dume\d hsiramri\d hma\. nusinguha{\panjang}gunu\. m, °ava\\
+\hspace*{0.45cm}kpinuccapanavashila\. mnika, kadipya\. ba\. n\' sastisiramuda{\panjang}\. ni{\panjang}da\. m \o\hspace{0.1cm}@ \o\hspace{0.1cm}pa\d na\d da\d htaga\. nanma\. tava{\panjang}mira\d sa, \. bira\d sandanave\d h\' sukacintyara\d sa, ra\d sa{\panjang}\\
+\baris{3} ni\. mmahurip\textperiodcentered yakatonrina\d sa, ra\d samatrayatodakatulyakilat\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}pa\. ngagapa\. mpu\. m, pa\. ngagapet\u en\textperiodcentered, pa\d n\d dulatulya, ri\. mra\d sanetra\\
+\hspace*{0.45cm}\o\hspace{0.1cm}@ \o\hspace{0.1cm}tuhumataya\' suke\d nak\textperiodcentered \. bogani\. mrat\textperiodcentered, ri\. mtutukikatana\. ng\u e\d htu\d s\d tar\={\i}he\. m, vi\' saya\' sina\. mtamahumvat\textperiodcentered ra{\panjang}gav\textsubring{r}d\d d\={\i}, ri\. nava\' sanakat\textsubring{r}\d sna\\
+\baris{4} n\textperiodcentered \' sr\={\i}puca{\panjang}\' sa \o\hspace{0.1cm}@ \o\hspace{0.1cm}°\textsubring{l}h\u e\. na{\panjang}t\u ekasa\. mparahitabud\d d\={\i}, maya\' sa\d sinambima\. nuluyida\. rmma, matimahurip\textperiodcentered kastavanirala\. ng\u e\. m, siratapinuje\. mkusu\\
+\hspace*{0.45cm}mavicitra \o\hspace{0.1cm}@ \o\hspace{0.1cm}pja\d hpvekasa\. mvuslana{\panjang}pu\d nyari\. mrat\textperiodcentered, °umantuksire\. msa\. rggalokahya\. nindra, yayan\textperiodcentered \. bavacakrandanoli\d hsalamby\u en\textperiodcentered, °\textsubring{l}h\u e\. m\\
+
+%% ag+ak membaca sampai sini tgl. 09/10/2014
+
+\vfill
+
+\pagebreak
+\begin{center}
+\centering
+\includegraphics[width=21cm, height=3.2cm]{009r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{009v.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{010r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{010v.jpg}
+\end{center}
+\vfill
+\pagebreak
+
+\baris{1} sa\. nkaricrol\textperiodcentered \. buja\. ngaprayatna \o\hspace{0.1cm}@ \o\hspace{0.1cm}°aparankuna\. m\. palan\={\i}ka\. mkuhaka, bana°\textsubring{l}mtaha{\panjang}\' sukamado\d hma\. taya, \' satajanmajanmasaparanyacm\u er\textperiodcentered, \. bramitak\d sa\lempir{9\recto}\\
+\hspace*{0.45cm}ranyasaparanyativas\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}hetunyanprih\u enta\. m\. nula\d hsadu\. bud\d d\={\i}, °apan\textperiodcentered vya\. r\. tata{\panjang}pa\' su\' silavruheri\. m, si\. n\d ta\. msanvatamb\u ehari\. mramare\d na, \\
+\baris{2} ma\. nkastr\={\i}ya\' satyayatavi\' svadev\={\i} \o\hspace{0.1cm}@ \o\hspace{0.1cm}dvanani\. nva\. nahurip\textperiodcentered \' sara\d nagata, masihe\. nagatisa\. rvyakasiha°\textsubring{r}p\textperiodcentered, yapatan\textperiodcentered vna\. m\. na\' sa{\panjang}matapa\\
+\hspace*{0.45cm}sana, vyak\textperiodcentered °\textsubring{l}h\u e\. mmatmahanturagagat\={\i} \o\hspace{0.1cm}@ \o\hspace{0.1cm}sapasiratanpa\. nas\ragu{\. ta}va\' su\' s\={\i}la, matuhararepa\d davruhikatansor\textperiodcentered, kun\u e\. nivh\={\i}\. mvna\. mpra\d na{\panjang}\\
+\baris{3} \. ta\. bakt\={\i}, kadinavama{\panjang}li\d n\={\i}juga\. bi\d sojar\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}mata\. nikasa\. mvru\d hgumagapika\. mme, v\u ehanumane\. mrat\textperiodcentered \. nun\={\i}\. nu{\panjang}n\={\i}\. na{\panjang}pu\. m, gu\. napanika\. mvru\d hma\\
+\hspace*{0.45cm}varavara\d hdo\d h, payatanas\={\i}ka\. mku\' sumapadanta \o\hspace{0.1cm}@ \o\hspace{0.1cm}lvi\. rnivva\. mvarasagl\u em\textperiodcentered lanavinasvas\textperiodcentered, vru\d hmoja{\panjang}ri\. nalaratantaheka\. nev\u e\d h, vva\. mpra\\
+\baris{4} \~ njna{\panjang}sugiha\. najap\textperiodcentered jugul\textperiodcentered dar\={\i}dra, mev\u e\d h\. nva\. mma\. na{\panjang}numa\. ta{\panjang}praha{\panjang}\' si\d n\={\i}len\textperiodcentered, \o\hspace{0.1cm}@ \o\hspace{0.1cm}yahetusa\. mvruhakulam\={\i}trag\u e\. mtaha, °u\d sa{\panjang}\d datapvahi\\
+\hspace*{0.45cm}nanak\u enpasa\. ngrahan\textperiodcentered, °iv\u eniki\. mgi\d namahuripsa\d da{\panjang}\' suka, nahankatonsuc\={\i}rasnahasa{\panjang}\d dana \o\hspace{0.1cm}@ \o\hspace{0.1cm}tanmev\u e\d hli\. rni\. mya\' sade\' sa\. nkaru\d ne\. m \\
+
+\vskip
+
+\baris{1} rat\textperiodcentered, vvat\textperiodcentered vves\u e\d n\d da\. msalavihara\' srama\. bod\d d\={\i}, p\={\i}{\panjang}mantramva\. mta\. mguliga{\panjang}ka{\panjang}y\coret{e}asadonya, ka\' sya\d s\={\i}\d hni\. mm\u ettamayuratakini\. nk\={\i}n\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}sugyeka\lempir{9\verso}\\
+\hspace*{0.45cm}sa\. mvru\d hha°\textsubring{l}paknakinaty\u e\. nan\textperiodcentered, °apansud\d da{\panjang}mb\u ekniraka{\panjang}divari\. ninmavan\textperiodcentered, m\={\i}b\u eka\. mrat\textperiodcentered kapvatasihiratkesatva, pu\~ ncaknika\. mcrol\textperiodcentered \. nva\. mgumava\\
+\baris{2} yasirasambad\d da \o\hspace{0.1cm}@ \o\hspace{0.1cm}ta\' sikupamanisa\. m\d dane\d s\d t\={\i}tama\. rpah\={\i}, papu\. pulani\. nmasla\d na{\panjang}tkatanpinet\textperiodcentered, sujanagunu\. na{\panjang}pu\d n\d daka\d nyamamtyak\u en\textperiodcentered, kalu\\
+\hspace*{0.45cm}\d satvasa\. nol\textperiodcentered kd\u e\d hmapara{\panjang}jita \o\hspace{0.1cm}@ \o\hspace{0.1cm}narapatakadibahn\={\i}dumilahapanas\textperiodcentered, °asi\. numulata°\textsubring{r}smavd\={\i}gir\={\i}girin\textperiodcentered, varagalayags\={\i}\. mkala\d napa{\panjang}\\
+\baris{3} rava\' sa, kaditapinususi\. mprahara\d nakalika \o\hspace{0.1cm}@ \o\hspace{0.1cm}tulyaprasa\d dasirasa\. mmunimanpinuja{\panjang}, ta\. rsa\d htamolahasama{\panjang}\d disakalali\. nga, si\. mvva\. mmula{\panjang}\\
+\hspace*{0.45cm}tpranata\. baktimanojava{\panjang}ty\u e\. m, °apan\textperiodcentered \. ba\d santatilaka{\panjang}mb\u ekayunyatinvan\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}syapatanatakutamulatimunivara, tkapisamahita\\
+\baris{4} yakadigunu\. na{\panjang}puy\textperiodcentered, bratajapaginlaramamnuhirat\textperiodcentered, kala\d nak\d dikikamamigu\d nanikara \o\hspace{0.1cm}@ \o\hspace{0.1cm}saha\d naha\d nanike\. mrat\textperiodcentered \coret{,}rakvatan\textperiodcentered \\
+\hspace*{0.45cm}yama\. bakt\={\i}, riyativaranihanta{\panjang}de\. nkvana{\panjang}natala\. nkup\textperiodcentered, sakaha°\textsubring{r}pirasid\d da{\panjang}\. bakt\={\i}ra\. mhya\. mpa\d daty\u e\. m, malakalu\d sanire\. mjromali\d n\={\i}na\\
+
+\vskip
+
+\baris{1} makum\coret{b}\textperiodcentered lab\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}sakve\d htamri\d hmatak\={\i}tak\={\i}ka\' santosanlvamb\u ek\textperiodcentered, °ayvapra\~ njna{\panjang}kativasikatana\. ngvakorurva, pu\. ngu\. mg\u e\. n\u entivasatika°\textsubring{l}°\textsubring{l}\lempir{10\recto}\\
+\hspace*{0.45cm}b\textperiodcentered \ui{m}ma\. nk\={\i}n\textperiodcentered kle\d sa, yogya{\panjang}\. namb\u ek\textperiodcentered m\textsubring{r}\d dukaralalita{\panjang}g\u egy\u entamri\d h \o\hspace{0.1cm}@\. r \o\hspace{0.1cm}vva\. mniccamitrasujana\' saka°\textsubring{r}\. mbud\d dinya{\panjang}tut\textperiodcentered, tanma\. mgayanpa\d dasu\\
+\baris{2} janapa\d dacrol\textperiodcentered \' satya{\panjang}tut\textperiodcentered, \' sojanyatutsilihira\. na\. nasi\d hnapa\. no\d s\d tan\textperiodcentered, kum\. ba\. mlavankamalayaku\' sumalvi\. rnyameri\. m \o\hspace{0.1cm}@ \o\hspace{0.1cm}munivara\\
+\hspace*{0.45cm}sira\' satya\d sad\d dya{\panjang}\. na\. rcca\d nasatata, tanalupasatata{\panjang}mri\d hma\.bratta{\panjang}tayagin\u eg\u en\textperiodcentered, mara\d dana\' sukani\. mratsi\d hsa\. mhya\. mtulu\d samas\={\i}\d h, brata{\panjang}tapasi \\
+\baris{3},,,,,,,\footnote{un certain nombre de ces marques ont été installées ici car la matière était fissuré pendant la copie.} samad\d dinitya\' seva\d nagira\d sa \o\hspace{0.1cm}@ \o\hspace{0.1cm}yasatata\. na{\panjang}yutinakitak\={\i}n\textperiodcentered, °ila\. nanika\d da\' samalama\d dana, yajugasud\u eramatayalina\\
+\hspace*{0.45cm}gan\textperiodcentered, kadiku\' suma{\panjang}yu\d dama\. na{\panjang}nihat\={\i} \o\hspace{0.1cm}@ \o\hspace{0.1cm}ndanahan\textperiodcentered vi\. gnani\. na{\panjang}gavetapabratalana{\panjang}marupuhiriyat\={\i}, ya\ui{t}kad\u enhananira\\
+\baris{4} ta\. na{\panjang}d\u e\d hla\d na{\panjang}riv\. n\={\i}ya{\panjang}tikakinatuturan\textperiodcentered, niyata{\panjang}manahiramagavay\textperiodcentered tahantulakn\={\i}\. mjapasamad\={\i}la\d na, °apa\d nakarahimama\' sa\\
+\hspace*{0.45cm}k\={\i}tasa\. mmunivara{\panjang}\. bujagavilasita \o\hspace{0.1cm}@ \o\hspace{0.1cm}sa\. mmagavehala{\panjang}hayulavan\textperiodcentered bratamrihatapa, matiparanyanorahambanhika\. mdadika{\taling}\\
+
+\vskip
+
+\baris{1} be\d h, nda{\panjang}ka°\textsubring{l}h\u e\. mni\. mka{\panjang}sa\. nagavaiyasaparahita, ratma\. na°\textsubring{l}m\textperiodcentered vva\. nambavahika\. mjagatpram\coret{e}ud\d di\. ta \o\hspace{0.1cm}@ \o\hspace{0.1cm}ma\. nka\d narakvacihnanirasa\. m\. na{\panjang}nmuka\lempir{10\verso}\\
+\hspace*{0.45cm}vikun\textperiodcentered, \. byaktaniranhuvusnipu\d na{\panjang}tuhutuhuvirat\={\i}, raga{\panjang}s\={\i}mohama{\panjang}riyatinuhaga\d navanatun\textperiodcentered, mu\. rvinurug\textperiodcentered kadipvajagav\textsubring{r}\' sa\. bavi \\
+\baris{2} lasita \o\hspace{0.1cm}@ \o\hspace{0.1cm}\' sola\d hni\. nva\. mhala{\panjang}ahayukatondenikasa\. mvidad\d da, samb\u ekni\. m\. nva\. mjuga{\panjang}katp\u etandenika{\panjang}saprave\d sya, \' soja\. r\coret{b}\footnote{le copiste a commencé à écrire \textit{ba}, mais il l'a barré avant que cela ne soit fait.}ni\. nva\. mjuga\\
+\hspace*{0.45cm}{\panjang}karuhunandenika{\panjang}sa\. mhuvus\textperiodcentered vru\d h, \. nkanhya\. m\' sak\d sat=hat\={\i}nirahi\. n\u ek\textperiodcentered catralit\={\i}\' s\={\i}\d s\={\i}nya \o\hspace{0.1cm}@ \o\hspace{0.1cm}ya{\panjang}vatpva\. nva\. mvruhumujarak\u endenika{\panjang}\. b\ragu{u}\\
+\baris{3} va\. ba\. nga, °amb\u ek\textperiodcentered moha{\panjang}\. na{\panjang}yamayami\d nak\textperiodcentered \. budi\' santo\' saya{\panjang}d\d do\d h, vru\d htapvayan\textperiodcentered vruhumujarak\u en\textperiodcentered \coret{, }\' sojari\. mpustaka{\panjang}j\={\i}, mandraka\\
+\hspace*{0.45cm}nta{\panjang}jali\d nisibadumo\d naya{\panjang}panmapu\. ngu\. m \o\hspace{0.1cm}@ \o\hspace{0.1cm}yekala\d navva\. na{\panjang}mbavahika{\panjang}gl\u emanayanaya, \' sastragla\. rbrata{\panjang}jivinija{\panjang}vijahapajamujit\textperiodcentered, \\
+\baris{4} yapvagin\u e\. mrasa{\panjang}ni\. najatatvapayamurukutut\textperiodcentered, lvi\. rkadi\. ba\. n\' sapatrapatita{\panjang}\ui{vd}karuhunana \o\hspace{0.1cm}@ \o\hspace{0.1cm}vi\. palatkaptamamrihanakulas\d da\. mta\\
+\hspace*{0.45cm}rarai, yanasayatankatolihavuvusnirasa\. mmatuha, lv\={\i}\d hhatika{\panjang}yake\' syankabe\d htikana\. msapakon\textperiodcentered, °avitanari\. mpisanpvasatahu\\
+
+\vfill
+
+\pagebreak
+\begin{center}
+\centering
+\includegraphics[width=21cm, height=3.2cm]{011r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{011v.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{012r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{012v.jpg}
+\end{center}
+\vfill
+\pagebreak
+
+\baris{1} nda°\textsubring{l}h\u e\. natika \o\hspace{0.1cm}@ \o\hspace{0.1cm}\' salakla\. m\d s\u eb\textperiodcentered po\d hna\. nkara\d salinv\={\i}\d hhika{\panjang}si\. nama\d nis\textperiodcentered, ka\' sevankopadyan°\textsubring{r}\d s\={\i}mutimutil\textperiodcentered \coret{, d}go\d dakuhara, °a \lempir{11\recto}\\
+\hspace*{0.45cm}\' si\. m\d santakaru\d nyasiralinv\={\i}\d hpa\d n\d ditatm\u en\textperiodcentered, mata\. mnyeka{\panjang}sa\. mvru\d hmak\u ek\u esa{\panjang}yavak\textperiodcentered ri\. m\' sikari\d n\={\i} \o\hspace{0.1cm}@ \o\hspace{0.1cm}kadalitint\u el\textperiodcentered mu\. ngvi\. mdyunpatku°\textsubring{l}mnya\\
+\baris{2} ntasaktaya, sura\d sapina\. nanma\. nkasa\. mvru\d hkum\u elmatape\. mvukir\textperiodcentered, mta\sisip{ha}yasimohamb\u ekrod\d data\' sakmabalik\textperiodcentered \. b\textsubring{r}si\d h, manahira\' su\. ba\d svecca{\panjang}m\\
+\hspace*{0.45cm}e\d nakmanohari\d n\={\i}pluta \o\hspace{0.1cm}@ \o\hspace{0.1cm}tanadvakatikavuvusni\. numakukaloke\' svaran\textperiodcentered, vuvus\textperiodcentered kna\' salahalahayuhula\d hka\. nk\u en\textperiodcentered gunu\. m, nahansusu{\panjang}\\
+\baris{3} panantahayyahuni\. nan\textperiodcentered ri\. mli\. mni\. m\' sarat\textperiodcentered mulat=humn\u e\. namrihabrata{\panjang}kum\u elsap\textsubring{r}titala \o\hspace{0.1cm}@ \o\hspace{0.1cm}°apan\textperiodcentered yeka{\panjang}kle\d sanisikadadinyanpra\\
+\hspace*{0.45cm}madehuripnya, g\u e\. mkrod\d da{\panjang}g\u e\. mmohama\. napakari\d htan\textperiodcentered vna\. mnyamg\u e\. mhyun\textperiodcentered, vus\textperiodcentered vru\d hpa\. nva\. mhayvapa°\textsubring{l}pa°\textsubring{l}pri\d hba\. badri\. mprayap\u es\textperiodcentered, ve\d htah\u elya\\
+\baris {4} {\panjang}mb\u eku\' sumitalata{\panjang}me\d sitarumkaru\d nya \o\hspace{0.1cm}@ \o\hspace{0.1cm}yansampunpvaritu\d s\d tani\. rmala{\panjang}\' suka\. namb\u ek\textperiodcentered t\d du\d h\ui{c}tancala, \. byakteka\. mpad\d damok\d sanityama\\
+\hspace*{0.45cm}mabn\u e\. rmaluy\textperiodcentered kapa\. ngu\d hm\. na, kle\d sa{\panjang}kimp\u elasimp\u eni\. mdulurak\u enmilvavara\d hri\. na{\panjang}van\textperiodcentered, noranampatatankava{\panjang}d\d datkapi\. msa\. rdula{\panjang}vikridita \o\hspace{0.1cm}@ \o\hspace{0.1cm}\\
+
+\vskip
+
+\baris{1} duranpva\. mvva\. mvna\. mma\. nka\d natumuladasa{\panjang}\. bagyak\textsubring{r}tavara, °apa\footnote{le copiste veut écrire \textit{{°\textsubring{r}}}, puis le bas de l'\textit{ak\d sara} est barré pour devenir \textit{pa}}nmakralmati\. nga\. rkadivatulumut\u en\textperiodcentered \. byaktakasa°\textsubring{l}y\u e, nyatavahyatrika{\panjang}yaka \lempir{11\verso}\\
+\hspace*{0.45cm}vna\. m\. nasaka°\textsubring{r}\. mgam\. b\={\i}ratahat\u en\textperiodcentered, \' sabdola\d hvaihi\' somya{\panjang}lm\u esasmuguyulv\={\i}\. rni\. m\' suvadana \o\hspace{0.1cm}@ \o\hspace{0.1cm}sakve\d hniki\. mdadikabe\d htanorakatunanhala\\
+\baris{2} {\panjang}lavanayu, ndansa\. mpina\d n\d dita\. naranyatankaluputan\textperiodcentered vruha{\panjang}h\textsubring{r}tanaha, °enaktadu\. r\. buganika\. nu{\panjang}la\d hmahalayan\textperiodcentered vima\. rggaginavai, masi\\
+\hspace*{0.45cm}\d hsirai\. nagat\={\i}sa\. rvvajanma\. nunive\d hm\textsubring{r}ga\. n\' sarajan\={\i} \o\hspace{0.1cm}@ \o\hspace{0.1cm}tamba{\panjang}ro\d n\d donlatamva\. mkakayukayuvane\d hri\. mgunu\. mvvitnikado\d h, sivvitpinripin\\
+\baris{3} etsa\. mvruhipaknanika{\panjang}pa\. ni{\panjang}la\. mrogado\d hnya, ma\. nka{\panjang}sa\. mvru\d hvna\. mpa\d n\d ditasara\d naniki\. msa\. rvvajanma{\panjang}sihi\. mrat\textperiodcentered, tya{\panjang}giyogisahi\d snumara\\
+\hspace*{0.45cm}manusunusup\textperiodcentered ri\. mgunu\. mman\d daradr\={\i} \o\hspace{0.1cm}@ \o\hspace{0.1cm}yapvanmap\u esmana\d h\ui{ny}ta{\panjang}calacalavna\. nanora\. ba\. nga\. ngakara, ta\. bya\d sa{\panjang}ta\. mhasi\d hmehika\d di\d dikavkas\textperiodcentered vva\\
+\baris{4} tpisanni\' sraya\d san\textperiodcentered, \' sveccanteratsakahyun\textperiodcentered tkaniyatanika{\panjang}nda{\panjang}naty\u ennya\d d\={\i}ra, tan\textperiodcentered rakvatan\textperiodcentered dlaha{\panjang}paramakalpas\u en\textperiodcentered \' s\textsubring{r}d\d dara{\panjang}\\
+\hspace*{0.45cm}ri\. mvat\u ek=hya\. m \o\hspace{0.1cm}@ \o\hspace{0.1cm}byakta, lkashuvuskagavay\u entikaparahite\. mparampara°\textsubring{r}g\u ep\textperiodcentered, °a\' srama\d setratulyani\. navak\textperiodcentered ska\. rkumulil\={\i}\. mvuvus\textperiodcentered ta \\
+
+%% ag+ak membaca sampai sini tgl. 23/10/2014
+
+\vskip
+
+ \baris{1} rahayu, vvaiyumid\u e\. mpisatbuvna\. mta\. nantamanala\. nkupa\. na{\panjang}lapasor\textperiodcentered, t\={\i}\. r\. tapavitratulyanimana\d htani\. rmalakadipvamandrakahni \o\hspace{0.1cm}@ \o\hspace{0.1cm}sapa{\panjang} \lempir{12\recto}\\
+\hspace*{0.45cm}ra\d nanivana\. mtuhaga\d na{\panjang}brata{\panjang}pa\' su\d satyarika\. mviratin\textperiodcentered, °\textsubring{l}h\u e\. m\. natika\. msake\. mguraga\d da, \. nakavruhi\. nacintyarikalas\u en\textperiodcentered, sa\. napakuna\. msi\\
+\baris{2} ravruhiparannani\. mpja\d hhata\. tava{\panjang}\d nima\. na{\panjang}ku, duvigulihantari\' sakalalokamamrihagavebrata\' syalalita \o\hspace{0.1cm}@ \o\hspace{0.1cm}°ayvata\' sakte\. bogabvat\\
+\hspace*{0.45cm}\textperiodcentered pa°\textsubring{l}pa°\textsubring{l}haluparipavkasa\. natuha, nidrapa{\panjang}ru\d sya\. nva\. mda\. rpa\. na{\panjang}namayakura\. nanasinku\. ni\. na{\panjang}yu, lo\. bantomvab\textperiodcentered t\textsubring{r}\d s\d natamb\u e\d hya\. nu\d dira{\panjang}\\
+\baris{3} \' sukapiduv\u eganata\. navak\textperiodcentered, raganta{\panjang}g\u emittatri\ragu{d}\d da\ragu{\. n}va\. nulayanaktiniyatakita°\textsubring{l}°\textsubring{l}b\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}yekatasavru\d hm\u e\. ng\u epapu\. ngu\. mritakuti\. mrata\\
+\hspace*{0.45cm}tanalahatinahakve\d h, °apanika\. mmelyanvi\d nakabyat\textperiodcentered paritasa\. nagl\={\i}sa\. namuharadava, \' sojarikabvat\textperiodcentered yenanumoda{\panjang}nanapiha°\textsubring{l}mm\u e\\
+\baris{4} hi\. nujarapañja\. m, jna{\panjang}\d nanira{\panjang}lotcitrapa\d datrushasi\. nulahulahina\. bima\. tayakendran\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}sa\. rpa\. bi\d sanda{\panjang}tankamakara{\panjang} °\textsubring{l}k\u erasi\. na\\
+\hspace*{0.45cm}udukiriyakavi\d sanma\. nk\u ep\textperiodcentered, ma\. nka\d nasa\. mvru\d hmamrihumi\. nkusmosavakara{\panjang}yamavd\={\i}ka\' sahava\. mdodo\d h, sa\. mvva\. nasampekoliyanakvatkapiguna \\
+
+\vskip
+
+\baris{1} niraya\' sanira\' samara{\panjang}ri\. mrat\textperiodcentered, pa{\panjang}\d davi\d sa{\panjang}lalvi\. rnikanasa\. mvru\d hhina°\textsubring{l}paknasiratatumahahev\u e\d hnya \o\hspace{0.1cm}@ \o\hspace{0.1cm}kalihika\. mvna\. mma{\panjang}l\textperiodcentered bvatanu\. mtu\. mguraga\lempir{12\verso} \\
+\hspace*{0.45cm}\d damahasika\. ntahinupaya, ma\. nkakinu\d n\d da{\panjang}g\u e\. m\. nika\. na{\panjang}mb\u ekpinuj\={\i}puj\={\i}paraji\. bi\d samacatula\. m, tatyasah\={\i}ntuttan\textperiodcentered tkasaciyapa\. nayammayamanaya\. mta\\
+\baris{2} yamav\u e°\textsubring{r}, kroccapaca{\panjang}rat\textperiodcentered denyapa\d dahyun\textperiodcentered lumvi\d hhaknamavtuktayalñok\textperiodcentered, \o\hspace{0.1cm}@ \o\hspace{0.1cm}tanma\. nkamb\u ekirasa\. na\. nu\. ms\={\i}kavikunanmura\d sanika{\panjang}kavirat\={\i}\\
+\hspace*{0.45cm}n\textperiodcentered rakva, sayog\={\i}\' syarasirasa\. nanusupa\. nalagivi\d sayasiratuhulicintya{\panjang}ga, va\. nketulyaniravuta{\panjang}tul\={\i}\. bi\d su{\panjang}havakalupari\. mhalahayuni\\
+\baris{3} ka\. mloka, \' sud\d da{\panjang}mb\u ekniravara\d na{\panjang}humid\u e{\panjang}\. nalilahavasuluhirahamava{\panjang}hirat\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}na{\panjang}hanli\. rnyamb\u eksa\. myog\={\i}sa\. nanmusukayatavi\' se\d sa{\panjang}\\
+\hspace*{0.45cm}masma\d n\={\i}ki\. mviku, la\. ng\u e\. mtanpola\d hpyasamahihanirakidita\' sik\textperiodcentered t\d du\d hmalbahi°\textsubring{r}\. m, vastunya{\panjang}vaksa\. mhya\. m\' sunyatmakaniraya\' sakalayaya\. ba\d t\= ara\\
+\baris{4} jagataguru, \' svecca{\panjang}dadya{\panjang}more\. m\. bayva{\panjang}napakagaga\d na{\panjang}mahava\d na\. buja\. ngavijnambita \o\hspace{0.1cm}@ \o\hspace{0.1cm}li\. rni\. mdevivila{\panjang}\' si\d nik\={\i}tayata{\panjang}pa°\textsubring{r}kmapakata\d h, \\
+\hspace*{0.45cm}\o\hspace{0.1cm}@ \o\hspace{0.1cm}ma\. nka\d narakvabud\d dinirasa\. m\. buja\. ngavilalita \o\hspace{0.1cm}@ \o\hspace{0.1cm}\' sakti\. ba\d t\=arama\d na\' sijanmaka\' sara\d na{\panjang}ku\' sumavila\' sita \o\hspace{0.1cm}@ \o\hspace{0.1cm}\. bu\ui{j}ja\. nga\' sisuk\textsubring{r}tajugapa\d da \\
+
+\vfill
+
+\pagebreak
+\begin{center}
+\centering
+\includegraphics[width=21cm, height=3.2cm]{013r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{013v.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{014r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{014v.jpg}
+\end{center}
+\vfill
+\pagebreak
+
+\baris{1} nika{\panjang}kagir\={\i}gir\={\i} \o\hspace{0.1cm}@ \o\hspace{0.1cm}jatinikaru\d na{\panjang}lalitamulat\={\i}kan\textperiodcentered vuti\. natanu \o\hspace{0.1cm}@ \o\hspace{0.1cm}jayaku\' suma\. naranilakuyati\. nkah\u enparakavi \o\hspace{0.1cm}@ \o\hspace{0.1cm}hana\lempir{13\recto}\\
+\hspace*{0.45cm}talakuni\. ncandayeka°\textsubring{r}\. n\u en\textperiodcentered kusuma\' sari\. naranyayejavulat\={\i} \o\hspace{0.1cm}@ \o\hspace{0.1cm}manahalma{\panjang}pinakavaha\d nasa\. mmunivarasatatana{\panjang}gaku\' suma \o\hspace{0.1cm}@ \o\hspace{0.1cm}praca\\
+\baris{2} litasumawu\. rsurakusumalavan\textperiodcentered jnumava\. nivadarayagunulu\. m \o\hspace{0.1cm}@ \o\hspace{0.1cm}kadisi\. narupanyayakagir\={\i}gir\={\i} \o\hspace{0.1cm}@ \o\hspace{0.1cm}kadihudanikana\. mkusumasadara{\panjang}ru\\
+\hspace*{0.45cm}rusiniriri\. na\. ninad\textsubring{r}sma\. mpamaja°\textsubring{r}\d siga\d nari\. ba\d ta\. rrapa\' supat\={\i}nahan\textperiodcentered lalu\. naranekih\={\i}n\textperiodcentered \o\hspace{0.1cm}@ \o\hspace{0.1cm}sampunikara\d sacandalalunyatlas\textperiodcentered ginla\. r\\
+\baris{3} hanari\. mgurula{\panjang}\. guvtunya\' sa\d sat\textperiodcentered yata\d da\d n\d da\. naran\textperiodcentered ti\. nal\={\i} // 0 // k\d samaknamatikevuvusni\. mhulunda\d hkamuhya\. mya\' sakve\d hta\' su\coret{ma}k\d sma{\panjang} \\
+\hspace*{0.45cm}gaka{\panjang}l\textperiodcentered mu\. mguhida{\panjang}\' sadenantareso\. rri\. nu\. rdva\d hlavanmadyade\' sakmaka{\panjang}dijagatlyab\textperiodcentered \' saka{\panjang}lantadeva\d s\textsubring{r}mu\. rtiprati\d s\d tanta\d saksat°\textsubring{r}\. n\u etak\d sama \\
+\baris{4} {\panjang}ni\. mhulun\textperiodcentered \' svastadi\. r\. gayu\d sa{\panjang}ma\. nguhenaksada{\panjang}yova\d na, \. nuni\. nunitamaha{\panjang}munisa\. mvna\. mni\' sraya{\panjang}\' sa{\panjang}nucapsa\. mkavipa\d n\d ditamva\. mtasa\. mvagmiri\. m \\
+\hspace*{0.45cm}tatvav\={\i}ti\. mvat\u ekbalavidya{\panjang}lavansa\. mmaha{\panjang}sajñana{\panjang}°\textsubring{r}mbari\d da\. rmmaka\. ryyenamb\u ek\textperiodcentered ya\' sa\d silavan\d da{\panjang}napu\d nya, pra\d namya\. nkuton\u en\textperiodcentered °\textsubring{r}\. n\u e\d da \\
+
+\vskip
+
+\baris{1} stutinkunavruhantekatu\d s\d ti\. nku, \. baktya{\panjang}da°\textsubring{l}m\textperiodcentered tkaripusapusu\d hkusumsum\textperiodcentered hut\u ekty\u esdagi\. mra\d hku\'sakve\d hnya{\panjang}vakni\. nulun\textperiodcentered \. baktiri\. mvahya\. mgohya\. mku°\textsubring{l}m\textperiodcentered \lempir{13\verso} \\
+\hspace*{0.45cm}sar\={\i}sar\={\i}pranava{\panjang}sata{\panjang}kapradiptojvala{\panjang}mb\u ekutanpatara{\panjang}\. nusap\={\i}°\textsubring{l}mmabinta{\panjang}la haty\u e\. mmag\u e\. mprastavanyan\textperiodcentered vna\. nmar\d nnana{\panjang} jña{\panjang}\d nasa\. mpa\d n\d dita{\panjang}mu\d sva{\panjang} \\
+\baris{2} k\u en\textperiodcentered sotavaksa\. m tapa{\panjang}sidiyog\={\i}\' svara{\panjang}nu\. mtuatu\. rhetuka, pujupusatapa{\panjang}tratuñju\. mhijodupa\d di{\panjang}pa\. rccana{\panjang}sa\. nka\. ga\d n\d ta{\panjang}sata{\panjang}ta{\panjang} \\
+\hspace*{0.45cm}ska\. r°\textsubring{r}b\textperiodcentered rinokri\. mjnuv\textsubring{r}kti\' sa{\panjang}tejana{\panjang}hantalimy\u enniki\. nka{\panjang}vika\. bya\d sasa\. nhya\. nkacanda{\panjang}yava\. rtva{\panjang}ska\. rtan\textperiodcentered kne\. mlumpamuja{\panjang}\. nkyamu\. ngvi\. mri \\
+\baris{3} ka\d da\d n\d daka{\panjang}candana{\panjang}hantav\textsubring{r}\d s\d t\={\i}prayatna{\panjang}stutini\. nulunri\. mvat\u ekdevata // 0 // °\textsubring{r}vasampuni\. mka\. mgurula{\panjang}\. gulavan\textperiodcentered ga\d na{\panjang}matra \\
+\hspace*{0.45cm}yatinyapa\d danyasacandamava\. rt\d tamatutma\. naranpinara{\panjang}k\textsubring{r}tadenikasa\. mkavida{\panjang}\' sana{\panjang}ma{\panjang}ma{\panjang}numa{\panjang}\d narisa\. mmaha°\textsubring{r}pvruhari\. mpari\. ba\d sa{\panjang} \\
+\baris{4} yati\' svarakavyavuvus\textperiodcentered kinara\. myatadena{\panjang}nikanpanet\={\i}rvanayanpa\. nnematika{\panjang}pinara\d htk\u enantamare\. mkaviv\={\i}hikananyavane\d h \\
+\hspace*{0.45cm}ku\. n\u e\. nut\textperiodcentered pnani\. nhulunak\d samak\u enatm\u en\textperiodcentered matikemava, yasaha\d nanta maha{\panjang}jana\. msi\. msiramahyunatvassisinahva\. nus\={\i}\. rtikana\. mra\d sa \\
+
+\vskip
+
+\baris{1} gitakakavyarasa\. mrahatiparapet\textperiodcentered rupiti\. mpari\. ba\d sa{\panjang}naransa\. pala{\panjang}ti\' sayantakatonsatirunsig\u eg\u enta°\textsubring{r}\. n\u ensapujinhatik\={\i} \lempir{14\recto}\\
+\hspace*{0.45cm}prihni\. mmagavaiyatadevatayoni\. naranyavna\. mkavinan\textperiodcentered vihikantuhu\. bud\d dimahankadi\d da\d n\d dakana{\panjang}mamala{\panjang}hatiyojvala°\textsubring{l}\. mnya mad\u e \\
+\baris{2} g\textperiodcentered // 0 // p\u ep\u ep\u e\. mtekuhuripta{\panjang}mrihatapa{\panjang}\. nuratanakavikun\. pala{\panjang}\. bi\d sa{\panjang}°ayva\. ng\u eya\' sav\={\i}rya\' sastrakavi°\textsubring{l}t\textperiodcentered \. nva\. m\. nikaka\' samaya{\panjang} \\
+\hspace*{0.45cm}npuna\. r\. bava{\panjang}tontondu\d hkaniki\. mdad\={\i}vva\. nadulu\. rprihatika\' sakitanmametsuka{\panjang}mva\. mra\. nkal\textperiodcentered vi\' sayanyapanpinakava{\panjang}\' sanikavulat\textperiodcentered \\
+\baris{3} nantatantirun\textperiodcentered \o\hspace{0.1cm}posikniprihanuttak\u en\textperiodcentered bratasama{\panjang}\d dikara\d nani\d data\. nnika\. nsuka, tansa\. nke\. mkalu\d sa{\panjang}lm\u e\d hpa°\textsubring{l}pa°\textsubring{l}\d hkarukaruku \\
+\hspace*{0.45cm}haka{\panjang}ptini\. mturu, yadyanpaprañavikvatovimadaga\. mtarupirupirika{\panjang}tketkan\textperiodcentered, puja{\panjang}mva\. m\. byavasa{\panjang}yata\. nipinaka\' srayanirarikat\u e \\
+\baris{4} mvani\. nayu // 0 // syapasiramahyun\textperiodcentered vihikanamojar\textperiodcentered, tamaknata\. mcandajinavadenya, °uvusapag\u e\d hdentatumamak\u enya, niyata \\
+\hspace*{0.45cm}\. bi\d santa{\panjang}\. nucapucapenak\textperiodcentered // 0 // °iti{\panjang}va\. rtasamapta // 0 // o{\panjang}\textipa{\textdotbreve{m}} sid\d dira{\panjang}stu\. ba\. rsid\d da // 0 // \. ba{\panjang}\d sapra\d napag\u etañca{\panjang} \\
+
+\vskip
+
+\baris{1} \d hpralamba\. mmanura\. ba{\panjang}vit\textperiodcentered, pasi\. rvuki\. rsa{\panjang}garañca\d h, pa\d dav\={\i}ramanadyañca\d h // 0 // kali\. nanya, yanpa\. na\. bya\d sakala\. n\u en\textperiodcentered, °ayyataka \lempir{14\verso} \\
+\hspace*{0.45cm}\. pala\. mjña{\panjang}\d nanta, yanlamba\. mg\={\i}takuna\. mpri\d hta\. mra\d same\d naka, yanpasi\. rkahyunta{\panjang}vuki\. rvulu\d sankuna\. mkahyunta°\textsubring{l}\. nkara{\panjang}matapa\' s\textsubring{r}\. ngarakamira\. m\\
+\baris{2} \d sa, °iri\. n\u enta\. mnavana\d t\=i, pa{\panjang}\d davirama \o\hspace{0.1cm}@\o\hspace{0.1cm}\' s\textsubring{r}\. ngaravirav\={\i}\. bak\d sa\d h, rodra{\panjang}nha\d sya\. bayanaka\d h, ka{\panjang}ru\d na{\panjang}d\. buta\' santa\' sca\d h, nava\d naa\d tyara\d sahime\\
+\hspace*{0.45cm}\o\hspace{0.1cm}\' s\textsubring{r}\. ngara\. naranya, mujaraknakara\' sikan\textperiodcentered, yadanasa{\panjang}ka\' sra{\panjang}ke\. nin\textperiodcentered kona\. m\. nuna{\panjang}\. m\' sabdararasarumkamira\d sa \o\hspace{0.1cm}vira\. naranya, apra\. m, °umujara\\
+\baris{3} k\u enkava\d nin\textperiodcentered \o\hspace{0.1cm}vi\. batsa\. naranya, humujarak\u enkaram\u e\d hram\u e\d hhapac\u e\d h \o\hspace{0.1cm}rodra{\panjang}\. naranya, humujaraknamoha, mva\. mkatatakut\textperiodcentered \o\hspace{0.1cm}°\textsubring{r}\d sya\. na\\
+\hspace*{0.45cm}ranya, humujarak\u enkaguyuguyu, kara\d naha\d sya, papac\u ehan\textperiodcentered duli, go\d dok\textperiodcentered, p\u eñcul\textperiodcentered \o\hspace{0.1cm}\. bayanaka\. naranya, humujarak\u enkavdivdi, ka°\textsubring{r}\' s\textsubring{r}\\
+\baris{4} s\textperiodcentered, \. baya, ka\. baya \o\hspace{0.1cm}karu\d na\. naranya, hujarama\. r\d nasakaton\textperiodcentered saka\textsubring{r}\. n\u e, mandadyak\u ensantacita, kavlasa\textsubring{r}psasi\d h \o\hspace{0.1cm}°ad\. buta\\
+\hspace*{0.45cm}\. na{\panjang}ranya, humujarak\u enkagir\={\i}gir\={\i}, °a\' sca\. rya \o\hspace{0.1cm}\' santa\. naranya, °upa{\panjang}sama\' somya \o\hspace{0.1cm}krura \. naranya, humujarakna\. m karoharohan\textperiodcentered \o\hspace{0.1cm}itina\\
+
+%zakariya a fini de translittéré à 23 janvier 2018
+
+\vfill
+
+\pagebreak
+\begin{center}
+\centering
+\includegraphics[width=21cm, height=3.2cm]{015r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{015v.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{016r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{016v.jpg}
+\end{center}
+\vfill
+\pagebreak
+
+\baris{1} vana\d ti // 0 // kuna\. m\. palani\. mkad\={\i}lamba\. myanina\. byasa\ragu{{\panjang}}tan\textperiodcentered vya\. r\. tasva\. rgga\ragu{{\panjang}}padatmanta, kuna\. myang\={\i}ta \. byasanta, \.byaktamantukmare\. mmaka\lempir{15\recto}\\
+\hspace*{0.45cm}radva{\panjang}ja, mari\. mvag\={\i}\' svaratakuna\. m, kada\. mm\coret{r}itramasi\d hpra\. burama°\textsubring{r}\d sinasi\d h\. palanya, vna\. mmañi\d n\d ditak\u enkada\. mva\. rgga, ndanahanta\. palanya \o\hspace{0.1cm}nda\\
+\baris{2} nmeñ\u etakita{\panjang}ripink\u et\textperiodcentered, lvi\. rni\. mpinalipali, tandadikasla\coret{\. r}ntikakavin\textperiodcentered, nda{\panjang}lvi\. rnyanihan\textperiodcentered \o\hspace{0.1cm}°ama\d na, nyuna{\panjang}mapra\. bra\. m\' sa, paya{\panjang}vi\\
+\hspace*{0.45cm}kara, \d dura\' sambad\d da, virud\d da\. ba\d sa, virud\d d°\textsubring{l}\. nka{\panjang}ra, virud\d dave\d sya, kala\. nantava, °apadanda, °apraganda, yati\. bra\d s\d ta, °apak\d sara, ceda{\panjang}k\d sara, \\
+\baris{3}, \' sa\. ngatapralapa, \' srutika\d s\d ta, duprak\textsubring{r}ti \o\hspace{0.1cm}°a\. ba\d na\. naranya, kura\. m, °aka{\panjang}ra, °ikara, °o{\panjang}kara, nyuna\. naranya, ujara\. n\ragu{m}aro, tansidata\. nuja\\
+\hspace*{0.45cm}raknavakakanyasama\. nka\d na, mapra\. bra\. n\' sa\. naranya, °aty\u e\ragu{\. na}tmahanabac\u em\textperiodcentered, pa{\panjang}\d davika{\panjang}ra\. naranya, ika\. nuja\. rkat\. nahandeni\. mpa{\panjang}\d da, \d durasamba\\
+\baris{4} da\. naranya, ma\. nujaraknadohamva\. napa°\textsubring{r}k\textperiodcentered, pa\' si\. rvukir\textperiodcentered, viruda\. ba\d sa\. naranya, tanenakcaritanya, virud\d da°\textsubring{l}\. nka\. rra\. naranya, o,°vahi\. mcari\\ 
+\hspace*{0.45cm}ta, virud\d dave\d sya\. naranya, tan\textperiodcentered yukti gantu\. n\u en\textperiodcentered, mva\. mkat\. n\u en\textperiodcentered, sa\d n\d da\. n\u enkuna\. m, °apraga\d n\d da\. naranya, ta\. rpara\d salakunya, yati\. bra\\
+
+\vskip
+
+\baris{1} \d s\d ta\. naranya, °amahalahujja\. rhuvusdadi, °ujarahayuhayuputahala, °apak\d sara\. naranya, mva\. mgurvak\u enla\. gu, °ika\. mgurvalinagvak\u en\textperiodcentered, °a\lempir{15\verso} \\
+\hspace*{0.45cm}\. niva\. nak\u enmahapra\d na, °amat\u esaknaliva\. m, a\. niva\. naknapantes\textperiodcentered, \' sa\. ngatapralapa\. naranya, tanpatut\textperiodcentered caritanyarivurilavani\. m °a°\textsubring{r}\\ 
+\baris{2} p\textperiodcentered, ma\. bed\d damujarak\u eni\. m\. na°\textsubring{r}pma\. nivur\={\i}, \' srutika{\panjang}\d s\d ta\. naranya, tanenanaka°\textsubring{r}\. n\u e{\panjang}\textperiodcentered, mva\. mtunara\d sa{\panjang}kadya\. ngani\. mka\. m°\textsubring{l}\. nkara, °okara, °itye\\
+\hspace*{0.45cm}vanad\={\i}\d hdusprak\textsubring{r}ti\. naranya, °ika\. nujarahayumavoragl\u e\d h, °apacanda\. naranya, ta\. rpara\d sacandanya, °u\. baya\. bra\d s\d ta\. naranya, °uja\. rtuna{\panjang}tinu\\
+\baris{3} lu\d sakni\. mvuri, kalaha\. nantava\. naranya, °ujarahayuhasmuhala, tansid\d dakara\d sanya, °ika\. mcinaratakar\={\i}, katmahan\textperiodcentered, cumaritahantyani\\ 
+\hspace*{0.45cm}vakyanya, \' svarakamadya\. naranya, svarakat\. na\d h, deni\. mvyañjana, °a°i°u°e °o, hilahilaka\. bara\. nkas\. tanan\textperiodcentered \o\hspace{0.1cm}nda{\panjang}nahantalvi\. rnikasi\. ngahana,\\ 
+\baris{4} mva\. mvruhari\. mpari\. ba\d sa, pari\. ba\d siki, °uja\. rparak\textsubring{r}ta, mva\. msa\. nask\textsubring{r}ta, °ayvavo\. rdenpa\d daparak\textsubring{r}ta, °ayva\. nuripakna{\panjang}k\d sarasampunmati, °ayvata\\
+\hspace*{0.45cm}ndeyatanpasvara \o\hspace{0.1cm}nyanhak\d saramaha{\panjang}pra\d na, mahapra\d na\. naranya, °ak\d saramant\u es°, nihanketa\. nanya // 0 // \. bava\. rra\' siva\. bud\d data\\
+
+\vskip
+
+\baris{1} nhanavane\d hnim\={\i}ttani\. nuripnipa\. buva\d na, hanapvakita\. baktimatva\. nisira, \' sukanta\. nunivehuriptamadava \o\hspace{0.1cm}nahanpalanika\. mmana\d h\' suci\lempir{16\recto}\\
+\hspace*{0.45cm}\d saja, ya\' sad\d danavna\. mhane\. mvva\. nagat\={\i}, si\.bu\d dima°\textsubring{l}ku\d hpay\ragu{e}nulahak\u en\textperiodcentered, sadu\d hka\. bayata\coret{\. r}nvane\d h\. palanika \o\hspace{0.1cm}°ika\. mvacana\. ba\. ngaye\\
+\baris{2} kasalah\={\i}, sa\. bagyakitayan\textperiodcentered tke\. mma\d nahula\d h, yadin\textperiodcentered rarayatanpa\. bad\d dakuviya, yatikuvikasa\d dupa\d n\d ditatm\u en\textperiodcentered \o\hspace{0.1cm}samadigava\\
+\hspace*{0.45cm}y\u enlavan\textperiodcentered \. nrata{\panjang}tapa, samid\d danika\.bod\={\i}ma\. n\' sagugula, has\u epnirayat\={\i}kasumrikumi\. ni\. m, yapvan\textperiodcentered gvananira{\panjang}\. bu\coret{\. n}ja\. nga \' saka°\textsubring{r}\. m \o\hspace{0.1cm}°ika\. m\\
+\baris{3} kalayamo\. gatan\textperiodcentered vava°\textsubring{r}\. n\u e{\panjang}, lina\. n\. gya\d nanika{\panjang}vuvusni\. natuha, lavangatinika{\panjang}g\u e\. ni\. msumagu\d na, vuvusnyakadisi\. nhana{\panjang}d\d daguru\d h \o\hspace{0.1cm}\ui{\.b} \\
+\hspace*{0.45cm}vi\. bu\d hmanahi\d nanhane\. nkavi\. bavan\textperiodcentered, ma\. bogatakimu\d datanpapatula, ka\. baradinavitninuta\d nikada, pra\. butanaruhu\. rma\. ba\. rm\={\i}\\
+\baris{4} mahajo \o\hspace{0.1cm}vi\. b\={\i}\d sa\d na{\panjang}tirunta\. ba{\panjang}ravirati, °uva{\panjang}\d niri\. nula\d h, \' su\. ba\d sa\. bagat\={\i}, °ika\. mkaka\' sikum\. baka\. r\d nnavipata, tke\. mvkanika{\panjang}nikum\. bamagl\u e\\ 
+\hspace*{0.45cm}\d h // 0 // \. bo\. ngan\textperiodcentered \. ba\. nganpyakoja\. rlavanavava°\textsubring{r}\. n\u e{\panjang}vuhalamb\u eknyamu\. rka, tansad\d da, lo\. bamenakmanahikamulati\. mdu\d hkahi\\ 
+
+\vskip
+
+\baris{1} nalpa\. boga, krod\d da{\panjang}s\u e\. nhitmanon\textperiodcentered wwa\. mmanmu\' sukakd\u e\d hg\u e\. m\. nha°\textsubring{r}pga{\panjang}take\. nlan\textperiodcentered tansid\d deka{\panjang}ka\. bakt\={\i}n\textperiodcentered vi\. palahananika\. m\. buta\lempir{16\verso} \\
+\hspace*{0.45cm}puje\. m\. bavanya \o\hspace{0.1cm}tan\textperiodcentered svasta\. mdu\. rtalubdara\. bara\d natari\. msa\. m\. bupati\. bu\. r\. buva\d h\' sva\d h, \d dus\. ta\. bra\d s\d tandinag\d de\. mhayudanisitagadga pra\. ba\. b\={\i}\\
+\baris{2} \d sa\d nadra, niri\d hgad\d da{\panjang}\. navid\d da{\panjang}\d dara\d napariga\. n\u endun\textperiodcentered \. binandeka\. bannda, du\. rmeva\coret{\. r}cenda\. ba\. ryyahalada\d dinivi\. b\={\i}ttsadurggad\d da\. m\. boga\\
+\hspace*{0.45cm}// 0 // tan\textperiodcentered vya\. r\. ta{\panjang}\. nva\. nat\={\i}\. r\. ta\. baktiri\. ba\d ta\. rrama\. pala\' suka\. bogakakryanan\textperiodcentered, \d darmma{\panjang}\. bagyaraced\d dya\d da{\panjang}navanavan\textperiodcentered \' su\. baga\\
+\baris{3} \' sula\. barogatantama, svas\. ta{\panjang}ni\. r\. bayata\. rpavi\. gnama\d damohamahlikamaha\. rd\d dikan\textperiodcentered vi\. buh, sva\. rggastam\textperiodcentered pjahapvadivyama\. bavat\textperiodcentered pra\. buda\\ 
+\hspace*{0.45cm}dinikayanpuna\. r\. bava \o\hspace{0.1cm}vva{\panjang}yantapa\d na\d da\. rmma{\panjang}\. bud\d didanava{\panjang}na\. b\={\i}matanikasid\d dasad\d dyaya, \' si\. greka\. m\d danav\={\i}\. ryya{\panjang}la{\panjang}\. bad\d dumadak\textperiodcentered \d d\textsubring{r}mma{\panjang}na\. bi\d na\\ 
+\baris{4} va\. ba{\panjang}\d sala{\panjang}gava, \. bagyan\textperiodcentered \. ballarayan\textperiodcentered pa\' sevakasina{\panjang}dutinanahapavid\d da{\panjang}\. ba\d sita, sa\. mrabda{\panjang} sihika\. msa\. bumm\={\i}mari\d du\. rttamaniruniru\\ 
+\hspace*{0.45cm}\. ba{\panjang}vabudiman\textperiodcentered \o\hspace{0.1cm}nyavi\d dyadarasid\d dasid\d d\={\i}masama{\panjang}d\d d\={\i}sahavid\d di\sisip{vi}\d da{\panjang}na\. ba{\panjang}vata, \d dyay\={\i}\d da{\panjang}raka\. bi\d dana{\panjang}ganitamo\. galinakatkapi\. mrav\={\i}pra\\
+
+\vfill
+
+\pagebreak
+\begin{center}
+\centering
+\includegraphics[width=21cm, height=3.2cm]{017r.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{017v.jpg}\\
+\vspace{9.5pt}
+\includegraphics[width=21cm, height=3.2cm]{018r.jpg}\\
+
+\end{center}
+\vfill
+\pagebreak
+
+\baris{1} \. ba, \. ba\. ng\={\i}\. ba{\panjang}va\d nabud\d disa{\panjang}\d dakama\d d\={\i}kaskarikaka\. binnakad\. buta, °a\. bra\. m\. bumm\={\i}ka\. bu\d sa\d nan\textperiodcentered tkapikum\. banika\. ga\d tama\d nikmaha\. r\coret{ka\textperiodcentered }taya \o\hspace{0.1cm}tan ma{\panjang}\lempir{17\recto}\\
+\hspace*{0.45cm}\. nka{\panjang}laya\. gora\. ga\coret{\d n}\d tavimuke\. m\d damasa\. buva\d nanin\d dakeriya, murcca{\panjang}\. bra\. ngagama{\panjang}\d dapa{\panjang}patuvisambyakaditaku\d tila{\panjang}\. rd\d datan\textperiodcentered \. bi\\
+\baris{2} \d sa, tan\d da\. rmme\d s\d tavirud\d da\. b\={\i}takarivan\d davanikapara\. tcidra\d ni\. r\. gra\d na\coret{\. r}, sa\. rvveccha{\panjang}ma\. gnepara\. r\. tahanava{\panjang}\d dakavi\d d\={\i}kayarinira\. rtaka //\\
+\hspace*{0.45cm}0 // \' sa\. ba{\panjang}\d so\. bagya\d dara{\panjang}ru\d d\={\i}ra\d d\={\i}ra{\panjang}\d dara{\panjang}\d dara\d n\={\i}, \' sud\d da{\panjang}\' sod\d da{\panjang}sa\. rvvavi\d diva\d d\={\i}rav\d dya{\panjang}va\d diva\d da, \d d\textsubring{r}man\d da{\panjang}\. rmma, \d darmm\={\i}lakaliki\\ 
+\baris{3} talekikalakalu, si\. bo\. ng\={\i}\. ba\. ng\={\i}\. bagyana\d dama{\panjang}ma\d dasva{\panjang},, ni\d dima\d du \o\hspace{0.1cm}\d danu\d h\. bo\. ngan\textperiodcentered \d dul\={\i}v\textsubring{r}\' sa\. ba\d su\. baga{\panjang}\. b\textsubring{r}ngama\d sa\d na, \. buva\d h\. ba\' svat\textperiodcentered \\ 
+\hspace*{0.45cm}\' satya{\panjang}\d dana\d da\' sa\. palalakyatiga\. bagavan\textperiodcentered, °a\. buk\textperiodcentered \sisip{\. ba}\. byan\textperiodcentered \. bu\d hlokavigadamatinyagama\d na\. bu\d h, \' su\. bik\d sa{\panjang}\. bek\d sasid\d da\. bagavan\textperiodcentered  ti\d dra\\
+\baris{4} magu\d na \o\hspace{0.1cm}saganda{\panjang}\. branta\d dvalgaru\d da\' sula\. ba{\panjang}hvan\. pala\. pal\={\i}, virud\d da{\panjang}rad\d da{\panjang}\. nhyun\textperiodcentered \. g\textsubring{r}tada\d dikav\={\i}\' sva{\panjang}\d sacarava, \' sa\d sanya{\panjang}bvathajya{\panjang}\\
+\hspace*{0.45cm}\' sura\. bimavusid\d dantavi\d sa\. ta, \. ba\d ta\. rr\={\i}du\. r\. ga{\panjang}\. beravisap\textsubring{r}\d tivi\. ba\. gna\. bipat\={\i} \o\hspace{0.1cm}kabod\d dankopadyan\textperiodcentered ra\d nacamanu\. bik\d sa{\panjang}ka\. bara\d na\. m, ka\\
+
+\vskip
+
+\baris{1} lo\. ban\textperiodcentered \. bad\d dakori\d davalakata{\panjang}\. b\={\i}ra\ragu{\. ti{\panjang}}muka, gi\d nandegan\d do\. nla\. bramitagita{\panjang}tap\={\i}pitavadu, catu\. rt\={\i}san\d dya, randrarandrakava\d diyaka{\panjang}yogya\. ba\lempir{17\verso} \\
+\hspace*{0.45cm}rata \o\hspace{0.1cm}ka\d de\. ryyan\textperiodcentered gam\. bira\. b\textsubring{r}ku,,,\d ti\. ga\d tika{\panjang}\d dva\. n\' sa\' sara\. ba, kasid\d dyan\textperiodcentered \. ba\d sm\={\i}\ui{su}\coret{s\d ti}sus\. t\={\i}ra\ragu{,} pa\. bara\. tan\textperiodcentered \d dumrajala\d d\={\i}, \' sim\. be\. na\. ryya\d dyay\={\i}ja\\
+\baris{2} lani\d d\={\i}yo\d da{\panjang}kara\. ba\d sa, ka\d du\. rmmo\d dan\textperiodcentered \d du\. rmm\={\i}\. ba{\panjang}\d sita\' sisanapatan\textperiodcentered \d dur\. bagami\d da // 0 // saka{\panjang}sak\={\i}sa{\panjang}\d duva\d d\={\i}jña\. ba{\panjang}ra, vi\. but\={\i}\. but\={\i}pra\\
+\hspace*{0.45cm}tu\d dumame\. ga, °u\d sa\d dagopa{\panjang}\. b\textsubring{r}gu\d na\. bimid\d da, sibud\d d\={\i} v\textsubring{r}d\d di\. bramanta \o\hspace{0.1cm}pra\. ba\. ta\. bi\. tapra\. bu\d d\={\i}rara\. gu, su\d d\={\i}rade\. ryya\d dika\d da{\panjang}tu\. ba\d n\ragu{\d da}\\ 
+\baris{3} \' sik\={\i}ja\d ta{\panjang}\' sapa\. b\textsubring{r}gu\d hpra\. bon\d d\={\i}, \d dan\={\i}\d dalipra\. mmakah\={\i}na\d da\. rmma  \o\hspace{0.1cm}sinad\d dyasad\d dya\d danasi\d damu\. rcca, °a\d da\d hri\. nu\. rd\d dva{\panjang}mava\d dumala\. n\. gya, pragalba\' s\={\i}\\
+\hspace*{0.45cm}\. gra{\panjang}\. bima\. tapra\. bud\d d\={\i}, \' sva\. ba{\panjang}vavan\d du\. gra\d na\. g\u e\d n\d ta\. g\u e\d n\d t\={\i} \o\hspace{0.1cm}°u\d da\d di\sisip{v\={\i}}\d dya{\panjang}ni\d d\={\i}t\={\i}\. r\. tasi\d d\={\i}, padas\. tasad\d dya{\panjang}si\. t\={\i}\' sa\. nkana{\panjang}\. ta, kura\d n\d ta\' sa\. nkya{\panjang}ta\. \.ta\\ 
+\baris{4} \d subda\. b\={\i}ma, ka\. b\={\i}nna\. b\={\i}nna{\panjang}\d dipat\={\i}vi\d dag\d da \o\hspace{0.1cm}pra\. bed\d dajatyantasuyodana{\panjang}\. ta{\panjang}cin\={\i}dragan\d da\. rvva\d dane\d s\d ta\. basm\={\i}, sakum\. ba\. ngavi\. ba{\panjang}ga\d denu, \\
+\hspace*{0.45cm}g\textsubring{r}has\. ta\' so\. bra{\panjang}\. barajapragan\d da \o\hspace{0.1cm}nara{\panjang}\d dipa\. brant\={\i}supa\. tyava{\panjang}\d sa, \d da\. rmma\. ga{\panjang}r\={\i}nnatuccha, pa\d do\. bayavya{\panjang}\d disid\u em\ragu{\. ba}ma\d dya, paro\. ba\\
+
+\vskip
+
+\baris{1} yan\textperiodcentered vya\. gravinid\d dyavid\d dyan\textperiodcentered \o\hspace{0.1cm}saka\d n\d davan\d dya{\panjang}mitunan\d da\. go\d sa, pa\. ba\. n\' savid\d dya{\panjang}\d dipacan\d dammi\. tya{\panjang}, kasu\ui{\.na}mbasa\. nkya, la\d tisa{\panjang}\. basan\d d\={\i}, °a\lempir{18\recto} \\
+\hspace*{0.45cm}\' so\d da\' sasva{\panjang}\d n\d dilav\textsubring{r}d\d da\' sud\d da \o\hspace{0.1cm}ya\. ta{\panjang}yata{\panjang}\' so\. bita\. bi\d n\d darodra, \. binan\d da\. ban\d dan\textperiodcentered vini\. bajyasin\d du, \. ginositan\textperiodcentered \. go\d sa\d nina{\panjang}navin\d dya\\ 
+\baris{2} {\panjang}\' sa\ragu{\.ba}radi\. r\. ga{\panjang}yu\d salabdalahru \o\hspace{0.1cm}pa\. goliyan\textperiodcentered va\d n\d dira\. bi\d n\d dipa{\panjang}la, \. buja\. ngama\. nhe\. rrarika{\panjang}mara\. ng\={\i}, sala{\panjang}muka\d d\={\i}k\d supra\. ba\' su\. badra,\\ 
+\hspace*{0.45cm}vi\. bo\d da\. nga{\panjang}\. na\. bi\d seka\. badra \o\hspace{0.1cm}ka\' s\={\i}drasa{\panjang}ni\d dyapa\d da{\panjang}\. birama\ragu{, p}ayo\d daragran\d damaho\d dad\={\i}hva, mukhodgata{\panjang}sa{\panjang}ra\. tinismavo\d da, pa\. bu\\
+\baris{3} tamalyan\textperiodcentered m\textsubring{r}\. gala{\panjang}\. bama\. bra \o\hspace{0.1cm}ja{\panjang}gad\d dika\d dya{\panjang}tmaka\. pela{\panjang}sa\. n\. ga{\panjang}, \. binoga\. boga{\panjang}spa\d tika{\panjang}\. bama\d na, su\d da{\panjang}\. rmmikaka\. byu\d dayan\textperiodcentered vi\d sa\. ta, °ama\\
+\hspace*{0.45cm}nd\={\i}pas\. taprakama{\panjang}ma\. nicca \o\hspace{0.1cm}suma{\panjang}\d dup\textsubring{r}t\. tikala\d dumaketu, \. bina{\panjang}vanakru\d dayasid\d disid\d d\={\i}, °a\. bed\d da\. bed\d dapra\. bavanyasa\ragu{cc\={\i}}, \. bada\. rrasa\\
+\baris{4} m\. byamatitankavi\. gnan // 0 //
+\hspace*{0.45cm}
+
+%zaki a fini de translittérer au 25 janvier 2018
+\vfill
+\end{landscape}
+\begin{appendices}
+\section{Liste de la translittération de MS. B (L298)}
+
+\hspace*{-1cm}\begin{tabular}{ccc}
+\begin{minipage}{.3\linewidth}
+\begin{tabular}{ | l | c | c | }
+\hline voyelle & aksara & sandangan \\
+\hline
+a & \includegraphics[width=0.05\textwidth,height=5mm]{aksaraa(pendek).jpg} &\\
+a{\panjang} (\=a) & \includegraphics[width=0.05\textwidth,height=4mm]{aksaraa(panjang).jpg} & ... \includegraphics[width=0.04\textwidth,height=5mm]{sandangantarung.jpg} \\
+i & \includegraphics[width=0.05\textwidth,height=5mm]{aksarai(pendek).jpg} & $_{...}^{\includegraphics[width=0.04\textwidth,height=2.5mm]{sandanganwulu}}$\\
+\={\i} & \includegraphics[width=0.05\textwidth,height=5mm]{aksarai(panjang).jpg} & $_{...}^{\includegraphics[width=0.04\textwidth,height=2.5mm]{sandanganwulupanjang}}$ \\
+u & \includegraphics[width=0.05\textwidth,height=5mm]{aksarau(pendek).jpg} & $_{}^{..}$$_{\includegraphics[width=0.04\textwidth,height=4mm]{sandangansuku.jpg}}^{.}$ \\
+\=u & \includegraphics[width=0.05\textwidth,height=5mm]{aksarau(panjang).jpg} & \\
+e & \includegraphics[width=0.05\textwidth,height=5mm]{aksarae.jpg} & \includegraphics[width=0.04\textwidth,height=4mm]{sandangantaling.jpg} ... \\
+\u e  & & $_{...}^{\includegraphics[width=0.02\textwidth,height=2.5mm]{sandanganpepet.jpg}}$ \\
+ai  & & \includegraphics[width=0.03\textwidth,height=4mm]{sandanganai.jpg} ... \\
+o  & \includegraphics[width=0.05\textwidth,height=5mm]{aksarao(pendek).jpg} & \includegraphics[width=0.04\textwidth,height=4mm]{sandangantaling.jpg} ... \includegraphics[width=0.04\textwidth,height=4mm]{sandangantarung.jpg} \\ 
+o{\panjang} (au)  & \includegraphics[width=0.05\textwidth,height=5mm]{aksarao(panjang).jpg} &\\
+\textsubring{r} & \includegraphics[width=0.05\textwidth,height=5mm]{aksarar(vokalpendek).jpg} & $_{\includegraphics[width=0.05\textwidth,height=4mm]{sandangancakrakeret.jpg}}^{...}$ \\
+{\textsubring{\=r}} & \includegraphics[width=0.05\textwidth,height=5mm]{aksarar(vokalpanjang).jpg} & \\
+\textsubring{l} & \includegraphics[width=0.05\textwidth,height=5mm]{aksaral(vokalpendek).jpg} & \\
+{\textsubring{\=l}} & \includegraphics[width=0.05\textwidth,height=5mm]{aksaral(vokalpanjang).jpg} & \\
+\hline
+\end{tabular}
+\end{minipage}
+
+\begin{minipage}{.4\linewidth}
+\begin{tabular}{ | l | c | c | }
+\hline consonne & aksara & pasangan/sandangan \\
+\hline
+k & \includegraphics[width=0.05\textwidth,height=5mm]{aksaraka.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksaraka(pasangan).jpg}}^{...}$ \\
+g & \includegraphics[width=0.05\textwidth,height=5mm]{aksaraga.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksaraga(pasangan).jpg}}^{...}$  \\
+\.g & \includegraphics[width=0.05\textwidth,height=5mm]{aksaragha.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksaragha(pasangan).jpg}}^{...}$ \\
+\.n & \includegraphics[width=0.05\textwidth,height=5mm]{aksaranga.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksaranga(pasangan).jpg}}^{...}$ \\
+c & \includegraphics[width=0.05\textwidth,height=5mm]{aksaraca.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksaraca(pasangan).jpg}}^{...}$ \\
+j & \includegraphics[width=0.05\textwidth,height=5mm]{aksaraja.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksaraja(pasangan).jpg}}^{...}$ \\
+\~n & \includegraphics[width=0.05\textwidth,height=5mm]{aksaranya.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksaranya.jpg}}^{...}$ \\
+\d t & \includegraphics[width=0.05\textwidth,height=5mm]{aksaratha.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksaratha(pasangan).jpg}}^{...}$ \\
+\d d & \includegraphics[width=0.05\textwidth,height=5mm]{aksaradha.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksaradha(pasangan).jpg}}^{...}$ \\
+\d n & \includegraphics[width=0.05\textwidth,height=5mm]{aksaranha.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksaranha(pasangan).jpg}}^{...}$ \\
+t & \includegraphics[width=0.05\textwidth,height=5mm]{aksarata.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksarata(pasangan).jpg}}^{...}$ \\
+\.t & \includegraphics[width=0.05\textwidth,height=5mm]{aksarattha.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksarattha(pasangan).jpg}}^{...}$ \\
+d & \includegraphics[width=0.05\textwidth,height=5mm]{aksarada.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksarada(pasangan).jpg}}^{...}$ \\
+n & \includegraphics[width=0.05\textwidth,height=5mm]{aksarana.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksarana(pasangan).jpg}}^{...}$ \\
+p & \includegraphics[width=0.05\textwidth,height=5mm]{aksarapa.jpg} & ...\includegraphics[width=0.05\textwidth,height=4mm]{aksarapa(pasangan).jpg} \\
+\.p & \includegraphics[width=0.05\textwidth,height=5mm]{aksarapa.jpg} & ...\includegraphics[width=0.05\textwidth,height=4mm]{aksarapha(pasangan).jpg} \\
+b & \includegraphics[width=0.05\textwidth,height=5mm]{aksaraba.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksaraba(pasangan).jpg}}^{...}$ \\
+\.b & \includegraphics[width=0.05\textwidth,height=5mm]{aksarabha.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksarabha(pasangan).jpg}}^{...}$ \\
+m & \includegraphics[width=0.05\textwidth,height=5mm]{aksarama.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksarama(pasangan).jpg}}^{...}$ \\
+y & \includegraphics[width=0.05\textwidth,height=5mm]{aksaraya.jpg} & \textperiodcentered\textperiodcentered\textperiodcentered\includegraphics[width=0.05\textwidth,height=4mm]{aksaraya(pasangan).jpg} \\
+r & \includegraphics[width=0.05\textwidth,height=5mm]{aksarara.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{sandangancakra.jpg}}^{...}$ \\
+v & \includegraphics[width=0.05\textwidth,height=5mm]{aksarava.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksarava(pasangan).jpg}}^{...}$ \\
+\'s & \includegraphics[width=0.05\textwidth,height=5mm]{aksarasya.jpg} & $_{\includegraphics[width=0.035\textwidth,height=4mm]{aksarasya(pasangan).jpg}}^{...}$ \\
+\d s & \includegraphics[width=0.05\textwidth,height=5mm]{aksarasha.jpg} & ...\includegraphics[width=0.05\textwidth,height=4mm]{aksarasha(pasangan).jpg} \\
+s & \includegraphics[width=0.05\textwidth,height=5mm]{aksarasa.jpg} & ...\includegraphics[width=0.05\textwidth,height=4mm]{aksarasa(pasangan).jpg} \\
+h & \includegraphics[width=0.05\textwidth,height=5mm]{aksaraha.jpg} & ...\includegraphics[width=0.035\textwidth,height=4mm]{aksaraha(pasangan).jpg} \\
+\hline
+\end{tabular}
+\end{minipage}
+
+\begin{minipage}{.3\linewidth}
+\begin{tabular}{ | l | c | c | }
+\hline & sandangan \\
+\hline
+\.r & $_{...}^{\includegraphics[width=0.05\textwidth,height=2.5mm]{sandanganlayar}}$ \\
+\textperiodcentered & ...\includegraphics[width=0.06\textwidth,height=5mm]{sandanganpangkon.jpg}\\
+,, & \includegraphics[width=0.05\textwidth,height=5mm]{sandanganpadalingsa}\\
+\o & \includegraphics[width=0.05\textwidth,height=5mm]{sandanganocoret} \\
+// 0\.r // & \includegraphics[width=0.10\textwidth,height=5mm]{sandanganpenutup1.png} \\
+\o\hspace{0.1cm}(\d h) \o & \includegraphics[width=0.10\textwidth,height=5mm]{sandanganpenutup2.png} \\
+\o\hspace{0.1cm}@ \o & \includegraphics[width=0.10\textwidth,height=5mm]{sandanganpenutup3.png} \\
+\o\hspace{0.1cm} (vma m) \o & \includegraphics[width=0.10\textwidth,height=5mm]{sandanganocoret(vmam)ocoret.jpg} \\
+// 0 // & \includegraphics[width=0.10\textwidth,height=5mm]{sandanganpenutup4.jpg}\\
+\hline
+\end{tabular}
+\end{minipage}
+\end{tabular}
+
+\vfill
+\end{appendices}
+\pagebreak
+\begin{portrait}
+\newgeometry{left=3cm,right=3cm,top=3cm,bottom=3cm}
+\nocite{gunawan2016,acri2011,damais1958,molen1983,rubinstein2000,stchoupak1959,brandes1887,stuart1873,krom1923,zoetmulder1974,setyawati2002,poerbatjaraka1933,krom1924,noorduyn2009,behrend1998,hooykaas1976,gonda1973,pigeaud1924,sarkar1966,kern1885,holle1867,friederich1849,kern1875}
+\bibliographystyle{apacite}
+\bibliography{References}
+\vfill
+\end{enumerate}
+
+\end{document}
+
