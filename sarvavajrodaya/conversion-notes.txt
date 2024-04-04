@@ -1,0 +1,82 @@
+Nous n'avons pas prévu cela dans notre EGC mais il me semble dans une édition avec beaucoup d'imbrication que nous pourrions vouloir nous servir du modèle proposé dans https://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSDIV2. Je le fais ci-dessous espérant que ta transformation fonctionnera avec. J'adapte les valeur de @type comme suit: "chapter", "subchapter", "section", "subsection", ce que nous n'avions pas prévu non plus. Si le recours à <div1> etc. pose d'emnlée problème pour le display, nous pourrons peut-être (du moins provisoirement) jouer avec les valeurs des @type: "level1", "level2", etc.?
+
+Mettre @met="FILL-ME-IN" pour toutes les <lg> que tu pourras cibler.
+
+voici la structure du texte en grandes lignes
+
+{\large 1. Maṅgala}
+<div1 type="chapter" n="1"><head type="editorial">Maṅgala</head>
+
+<!-- aucun contenu, le chapitre n'est pas transmis dans le codex unicus mais existe dans la traduction tibétaine -->
+
+{\large 2. Trisamādhi (Pūrvasevā)}
+<div1 type="chapter" n="2"><head type="editorial">Trisamādhi (Pūrvasevā)</head>
+
+<!-- aucun contenu, le chapitre n'est pas transmis dans le codex unicus mais existe dans la traduction tibétaine -->
+
+{\large 2.1. Ādiyoga}
+<div2 type="subchapter" n="1"><head type="editorial">Ādiyoga</head>
+
+<!-- commence à mi chemin dans le codex unicus -->
+
+<!-- normalement chaque paire de \pstart et \end correspond à <p> ... </p> mais je vois que le code .tex en donne également autour d'en-têtes, sans doute pour une raion technique qu'il ne faut pas reproduire, par ex. 2.2.1.1 ci-dessous -->
+
+{\large 2.2. Maṇḍalarājāgrī}
+<div2 type="subchapter" n="2"><head type="editorial">Maṇḍalarājāgrī</head>
+
+\pstart\noindent
+{\large 2.2.1. Emanation of the Sixteen Bodhisattvas}
+\pend
+<!-- je ne suis pas sûr que chaque div de ce niveau aura exactement cette structure, avec \pstart\noindent avant en \pend après, plus le tag {\large ...} -->
+<div3 type="section" n="1"><head type="editorial">Emanation of the Sixteen Bodhisattvas</head>
+
+\pstart\noindent
+2.2.1.1. Vajrasattva
+\pend
+<!-- je ne suis pas sûr que chaque div de ce niveau aura exactement cette structure, avec \pstart\noindent avant en \pend après -->
+<div4 type="subsection" n="1"><head type="editorial">Vajrasattva</head>
+
+\pstart\noindent
+{\large 2.2.1.2. The Other Fifteen Bodhisattvas}
+\pend
+<div4 type="subsection" n="1"><head type="editorial">The Other Fifteen Bodhisattvas</head>
+
+\verse
+\textbf{[Vajrarāja]}
+<!-- 
+1. chaque paire de \verse ... \pend semble marquer début et fin d'un passage en vers; au sein de ces passages, chaque / ou // marque la fin d'une hémitische; provisoiremoint, tu peux regrouper les hémistiches en <l n="ab"> pour des unités terminées par /, et <l n="cd"> pour les unités terminées pas // — il faudra ensuite que le les scinde manuellement en <l n="a">, <l n="b"> etc.
+
+2. les indications comme \textbf{[Vajrarāja]} sont des <header> associés au premier vers d'une série (chaque série pouvant consister en un seul vers ou en plusieurs)
+-->
+
+\pstart\noindent
+{\large 2.2.2. Emanation of the Four Goddesses Surrounding Vairocana}
+\pend
+<div3 type="section" n="2"><head type="editorial">Emanation of the Four Goddesses Surrounding Vairocana</head>
+
+
+EXEMPLE
+
+\pstart\noindent
+\textbf{[Sattvavajrī]}%
+\pend
+
+\verse
+\Skt{\edtext{aho hi sarvabuddhānāṃ sattvavajramahaṃ \edtext{dṛḍhaḥ}{\lemma{%
+	{\rm dṛḍhaḥ\lem}
+}\Dfootnote{%
+	\emn\ \MSK\ ($\leftarrow$STTS);
+	\textit{dṛḍhaṁ} \cod.
+	See STTS 141, where Horiuchi reads \textit{dṛḍhaḥ} but admits in a note that he cannot justify why the text does not show \textit{dṛḍham}. We believe that \textit{satvavajram aham} is \textit{metri causa} for \textit{satvavajro ’ham} and thus that \textit{dṛḍhaḥ} is correct. This explains the masculine adjective forms in the following hemistich.
+	\textcolor{red}{CHECK MS AND YAMADA!!}
+}} / \\
+
+DEVRAIT DEVENIR
+
+	<lg met="FILL-ME-IN"><head type="editorial">Sattvavajrī</head>
+	<l n="ab">aho hi sarvabuddhānāṃ sattvavajramahaṃ <app><lem type="emn" wit="#MSK">dṛḍhaḥ</lem><rdg wit="#cod">dṛḍhaṁ</rdg></app><witDetail wit="#MSK">←STTS</witDetail><note>See STTS 141, where Horiuchi reads <foreign>dṛḍhaḥ</foreign> but admits in a note that he cannot justify why the text does not show <foreign>dṛḍham</foreign>. We believe that <foreign>satvavajram aham</foreign> is <foreign>metri causa</foreign> for <foreign>satvavajro ’ham</foreign> and thus that <foreign>dṛḍhaḥ</foreign> is correct. This explains the masculine adjective forms in the following hemistich.
+	<seg rend="check">CHECK MS AND YAMADA!!</seg></note></app> /</l>
+	<l n="ab">...</l>
+	</lg>
+
+
