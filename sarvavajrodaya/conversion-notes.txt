@@ -74,9 +74,11 @@ EXEMPLE
 DEVRAIT DEVENIR
 
 	<lg met="FILL-ME-IN"><head type="editorial">Sattvavajrī</head>
-	<l n="ab">aho hi sarvabuddhānāṃ sattvavajramahaṃ <app><lem type="emn" wit="#MSK">dṛḍhaḥ</lem><rdg wit="#cod">dṛḍhaṁ</rdg></app><witDetail wit="#MSK">←STTS</witDetail><note>See STTS 141, where Horiuchi reads <foreign>dṛḍhaḥ</foreign> but admits in a note that he cannot justify why the text does not show <foreign>dṛḍham</foreign>. We believe that <foreign>satvavajram aham</foreign> is <foreign>metri causa</foreign> for <foreign>satvavajro ’ham</foreign> and thus that <foreign>dṛḍhaḥ</foreign> is correct. This explains the masculine adjective forms in the following hemistich.
+	<l n="ab">aho hi sarvabuddhānāṃ sattvavajramahaṃ <app><lem type="emn" wit="#MSK">dṛḍhaḥ</lem><rdg wit="#cod">dṛḍhaṁ</rdg></app><witDetail wit="#MSK" corresp="#STTS/><note>See STTS 141, where Horiuchi reads <foreign>dṛḍhaḥ</foreign> but admits in a note that he cannot justify why the text does not show <foreign>dṛḍham</foreign>. We believe that <foreign>satvavajram aham</foreign> is <foreign>metri causa</foreign> for <foreign>satvavajro ’ham</foreign> and thus that <foreign>dṛḍhaḥ</foreign> is correct. This explains the masculine adjective forms in the following hemistich.
 	<seg rend="check">CHECK MS AND YAMADA!!</seg></note></app> /</l>
 	<l n="ab">...</l>
 	</lg>
+	
+	
 
 
