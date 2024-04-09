@@ -1,88 +1,87 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.8)  26 MAR 2024 11:24
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.15)  9 APR 2024 10:49
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **SVU-translation.tex
 (./SVU-translation.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/bk11.clo
-File: bk11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count175
-\c@chapter=\count176
-\c@section=\count177
-\c@subsection=\count178
-\c@subsubsection=\count179
-\c@paragraph=\count180
-\c@subparagraph=\count181
-\c@figure=\count182
-\c@table=\count183
+\c@part=\count163
+\c@chapter=\count164
+\c@section=\count165
+\c@subsection=\count166
+\c@subsubsection=\count167
+\c@paragraph=\count168
+\c@subparagraph=\count169
+\c@figure=\count170
+\c@table=\count171
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
+\bibindent=\dimen134
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count184
-\Gm@cntv=\count185
-\c@Gm@tempcnt=\count186
-\Gm@bindingoffset=\dimen139
-\Gm@wd@mp=\dimen140
-\Gm@odd@mp=\dimen141
-\Gm@even@mp=\dimen142
-\Gm@layoutwidth=\dimen143
-\Gm@layoutheight=\dimen144
-\Gm@layouthoffset=\dimen145
-\Gm@layoutvoffset=\dimen146
+\Gm@cnth=\count172
+\Gm@cntv=\count173
+\c@Gm@tempcnt=\count174
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
 \Gm@dimlist=\toks16
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 105.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen147
-\Gin@req@width=\dimen148
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: xetex.def on input line 147.
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks17
 \symAMSa=\mathgroup4
@@ -91,67 +90,62 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-02-18 L3 programming layer (loader) 
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
-
-(|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count187
-\l__color_backend_stack_int=\count188
-\g__color_backend_stack_int=\count189
-\g__graphics_track_int=\count190
-\l__pdf_internal_box=\box47
-\g__pdf_backend_object_int=\count191
-\g__pdf_backend_annotation_int=\count192
-\g__pdf_backend_link_int=\count193
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count175
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count176
+\g__pdf_backend_annotation_int=\count177
 ))
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-
-01.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
-tex)))
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count178
+\g__xparse_grabber_int=\count179
+\l__xparse_m_args_int=\count180
+\l__xparse_v_nesting_int=\count181
+)
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count194
-\l__fontspec_language_int=\count195
-\l__fontspec_strnum_int=\count196
-\l__fontspec_tmp_int=\count197
-\l__fontspec_tmpa_int=\count198
-\l__fontspec_tmpb_int=\count199
-\l__fontspec_tmpc_int=\count266
-\l__fontspec_em_int=\count267
-\l__fontspec_emdef_int=\count268
-\l__fontspec_strong_int=\count269
-\l__fontspec_strongdef_int=\count270
-\l__fontspec_tmpa_dim=\dimen149
-\l__fontspec_tmpb_dim=\dimen150
-\l__fontspec_tmpc_dim=\dimen151
+\l__fontspec_script_int=\count182
+\l__fontspec_language_int=\count183
+\l__fontspec_strnum_int=\count184
+\l__fontspec_tmp_int=\count185
+\l__fontspec_tmpa_int=\count186
+\l__fontspec_tmpb_int=\count187
+\l__fontspec_tmpc_int=\count188
+\l__fontspec_em_int=\count189
+\l__fontspec_emdef_int=\count190
+\l__fontspec_strong_int=\count191
+\l__fontspec_strongdef_int=\count192
+\l__fontspec_tmpa_dim=\dimen145
+\l__fontspec_tmpb_dim=\dimen146
+\l__fontspec_tmpc_dim=\dimen147
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-(/usr/local/texlive/2021/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2020/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
 Package: xltxtra 2018/12/31 v0.7 Improvements for the "XeLaTeX" format
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/realscripts/realscripts.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/realscripts/realscripts.sty
 Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
 ts
-\subsupersep=\dimen152
+\subsupersep=\dimen148
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/metalogo/metalogo.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/metalogo/metalogo.sty
 Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
 \xl@everylogo=\toks18
 \xl@@everylogo=\toks19
@@ -159,19 +153,19 @@ LaTeX Info: Redefining \TeX on input line 193.
 LaTeX Info: Redefining \LaTeX on input line 202.
 LaTeX Info: Redefining \LaTeXe on input line 219.
 )
-\l__xetex_show_hyphens_wrapping_box=\box48
-\l__xetex_show_hyphens_temp_box=\box49
-\l__xetex_show_hyphens_final_box=\box50
-\g__xetex_show_hyphens_word_box=\box51
+\l__xetex_show_hyphens_wrapping_box=\box46
+\l__xetex_show_hyphens_temp_box=\box47
+\l__xetex_show_hyphens_final_box=\box48
+\g__xetex_show_hyphens_word_box=\box49
 )
-(/usr/local/texlive/2021/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/local/texlive/2020/texmf-dist/tex/xelatex/xunicode/xunicode.sty
 File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
 other characters in Unicode lower plane
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/tipa/t3enc.def
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
 )
-\tipaTiiicode=\count271
+\tipaTiiicode=\count193
 \tipasavetokens=\toks20
 \tipachecktokens=\toks21
 )
@@ -327,7 +321,7 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 101.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
 01.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 101.
@@ -341,7 +335,7 @@ LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 101.
 LaTeX Font Info:    Trying to load font information for T3+cmr on input line 10
 1.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/tipa/t3cmr.fd
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 101.
@@ -449,13 +443,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 .
 LaTeX Font Info:    Trying to load font information for U+msa on input line 102
 .
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 102
 .
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
@@ -571,100 +565,100 @@ f the Three World-
  []
 
 [12] [13]
-Missing character: There is no 敬 (U+656C) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 儀 (U+5100) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no に (U+306B) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 関 (U+95A2) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no し (U+3057) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no て (U+3066) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no は (U+306F) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ， (U+FF0C) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no は (U+306F) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no に (U+306B) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 対 (U+5BFE) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no す (U+3059) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no る (U+308B) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 註 (U+8A3B) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 釈 (U+91C8) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no で (U+3067) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 「 (U+300C) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no と (U+3068) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no は (U+306F) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 心 (U+5FC3) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 臓 (U+81D3) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no の (U+306E) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 月 (U+6708) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 輪 (U+8F2A) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no に (U+306B) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no あ (U+3042) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no る (U+308B) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 金 (U+91D1) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 剛 (U+525B) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 杵 (U+6775) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 」 (U+300D) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no で (U+3067) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no あ (U+3042) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no る (U+308B) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no と (U+3068) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no し (U+3057) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no て (U+3066) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no い (U+3044) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no る (U+308B) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ． (U+FF0E) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 伊 (U+4F0A) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 集 (U+96C6) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 院 (U+9662) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 註 (U+8A3B) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no を (U+3092) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 参 (U+53C2) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 照 (U+7167) in font Noto Serif Regular/OT:script=
-latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 敬 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 儀 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no に in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 関 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no し in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no て in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no は in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ， in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no は in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no に in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 対 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no す in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no る in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 註 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 釈 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no で in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 「 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no と in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no は in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 心 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 臓 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no の in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 月 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 輪 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no に in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no あ in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no る in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 金 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 剛 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 杵 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 」 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no で in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no あ in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no る in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no と in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no し in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no て in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no い in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no る in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ． in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 伊 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 集 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 院 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 註 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no を in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 参 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no 照 in font Noto Serif Regular/OT:script=latn;lang
+uage=dflt;mapping=tex-text;!
 
 Underfull \hbox (badness 5388) in paragraph at lines 440--440
 [][]\TU/NotoSerif(0)/m/n/9 The Tattvālokakarī suggests that Sattvavajra is the 
@@ -907,38 +901,65 @@ Overfull \hbox (19.9933pt too wide) in paragraph at lines 1168--1169
 rds \TU/NotoSerif(0)/m/n/10.1638 HE VAJRASATTA! HE VAJRARATNA!
  []
 
-[53] [54] [55]
-Overfull \hbox (6.16675pt too wide) in paragraph at lines 1203--1203
+[53]
+Overfull \hbox (7.9589pt too wide) in paragraph at lines 1189--1193
+\TU/NotoSerif(0)/m/n/10.95 (him) through the water consecration, []then through
+ the seal consecration[]and through
+ []
+
+[54]
+Underfull \vbox (badness 7151) has occurred while \output is active []
+
+ [55]
+Underfull \hbox (badness 2529) in paragraph at lines 1227--1227
+[][]\TU/NotoSerif(0)/m/n/9 VJU 25.2 (vādyamudrā in Samayoga): tato vādyamudrābh
+iḥ pūjaye[182r2]t | suṣiraṃ ca
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 1227--1227
+\TU/NotoSerif(0)/m/n/9 gavantaṃ saparivāraṃ pūjayet | tato dharmamudrākṣarāṇi s
+arvadevatānām | tato hīḥkārā-
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 1227--1227
+\TU/NotoSerif(0)/m/n/9 divi[182r5]śeṣadharmākṣarāṇi | tataḥ śrīherukādimantrān 
+| tato vajrakuloktavidyā udāharan
+ []
+
+[56]
+Overfull \hbox (6.16675pt too wide) in paragraph at lines 1235--1235
 \TU/NotoSerif(0)/m/n/10.95 learning, to be rewarded by men, gods and demons, th
 e abode of wealth
  []
 
-[56]
-Overfull \hbox (6.7089pt too wide) in paragraph at lines 1215--1220
+[57]
+Overfull \hbox (6.7089pt too wide) in paragraph at lines 1247--1252
 [][]\TU/NotoSerif(0)/m/n/10.95 And after praising (the disciple) with the hundr
 ed-and-eight names, first he should
  []
 
-[57] [58]
-Overfull \hbox (8.23097pt too wide) in paragraph at lines 1304--1305
+[58] [59]
+Overfull \hbox (8.23097pt too wide) in paragraph at lines 1336--1337
 []\TU/NotoSerif(0)/m/n/10.95 Then he should teach (the disciples) the esoteric 
 pledge knowledge of all maṇḍalas: 
  []
 
-[59]
-Overfull \hbox (5.62286pt too wide) in paragraph at lines 1329--1330
+[60]
+Overfull \hbox (5.62286pt too wide) in paragraph at lines 1361--1362
 []\TU/NotoSerif(0)/m/n/10.95 This [Universal Buddhahood][] here [is present in 
 the hand of Vajrasattva.
  []
 
-[60] [61] (./SVU-translation.aux) ) 
+[61] [62] (./SVU-translation.aux) ) 
 Here is how much of TeX's memory you used:
- 7863 strings out of 476919
- 168401 string characters out of 5821841
- 502390 words of memory out of 5000000
- 27745 multiletter control sequences out of 15000+600000
- 410713 words of font info for 110 fonts, out of 8000000 for 9000
+ 8132 strings out of 479418
+ 176378 string characters out of 5884585
+ 460272 words of memory out of 5000000
+ 25537 multiletter control sequences out of 15000+600000
+ 539621 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 81i,6n,123p,2336b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,6n,119p,2336b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on SVU-translation.pdf (61 pages).
+Output written on SVU-translation.pdf (62 pages).
