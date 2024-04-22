@@ -9,41 +9,43 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Encoding Template for Critical Editions</title>
-            <!--Change the title of the file with the name of your text-->
-            <title type="sub">Digital Critical Edition of...</title>
-            <!-- fill in the subtitle if necessary -->
-            <!-- Possibility to add the <editor> tag:
-        <editor ref="part:ID">
-					<forename></forename>
-					<surname></surname>
-				</editor>
-				OR
-				<editor ref="part:ID">
-					<name></name>
-				</editor>
-        -->
+          <title type="main">Sarvavajrodayā Maṇḍalopāyikā</title>
+          <title type="sub" subtype="editorial">Digital Critical Edition and Translation of the Preserved Sanskrit Text</title>
+          <editor ref="part:argr">
+             <forename>Arlo</forename>
+             <surname>Griffiths</surname>
+          </editor>
+          <editor ref="part:ryta">
+             <forename>Ryugen</forename>
+             <surname>Tanemura</surname>
+          </editor>
+          <editor ref="part:shij">
+            <forename>Shiori</forename>
+            <surname>Ijuin</surname>
+         </editor>
+          <respStmt>
+             <resp>structuring of the TEI file</resp>
+             <persName ref="part:argr">
+                <forename>Arlo</forename>
+                <surname>Griffiths</surname>
+             </persName>
+          </respStmt>
             <respStmt>
-					<!-- repeat the respStmt when necessary -->
                <resp>creation of the file</resp>
-               <!-- work done in the file, e.g. editor, intellectual authorship of edition ...-->
-               <persName ref="part:jodo"><!-- update the id -->
-                  <forename>John</forename>
-                  <!-- fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
-                  <surname>Doe</surname>
+               <persName ref="part:axja">
+                  <forename>Axelle</forename>
+                  <surname>Janiak</surname>
                </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace><!-- fill in here the place or places where the encoding has been done --></pubPlace>
-            <idno type="filename">DHARMA_templateCriticalEditions_v01</idno>
-            <!-- Replace by filename, e.g. DHARMA_CritEdSiksaGuru -->
+            <pubPlace>Lyon, Tokyo, Jakarta</pubPlace>
+            <idno type="filename">DHARMA_CritEdSarvavajrodaya</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by John Doe.</p>
-                  <!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths, Ryugen Tanemura and Shiori Ijuin.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -57,27 +59,26 @@
                   <!-- Fill in the abbr @type="siglum" with the expected display for the witness siglum. Use <hi> with @rend for superscript and subscript -->
                   <msDesc>
                      <msIdentifier>
-                        <settlement>Leiden</settlement>
-                        <institution>University Library (UB)</institution>
-                        <repository>Lontar</repository>
-                        <idno>Or. 23732</idno>
+                        <settlement>Kathmandu</settlement>
+                        <institution>National Archives</institution>
+                        <repository>palemleaf</repository>
+                        <idno>???</idno>
                      </msIdentifier>
                      <msContents>
 								<!-- the msContents isn't mandatory -->
                         <msItem>
-                           <author>Śāntarakṣita</author>
-                           <title>Vipañcitārthā</title>
-                           <!-- You can also add a colophon if needed -->
-                           <!--<colophon>
-										<quote></quote>
-										</colophon> -->
+                           <author>Ānandagarbha</author>
+                           <title>Sarvavajrodayā Maṇḍalopāyikā</title>
+                           <colophon>
+										<quote>.....</quote>
+										</colophon>
                            <!-- colophon should be structures with quote elements with attribute @type and @xml:lang when necessary -->
                         </msItem>
                      </msContents>
                      <physDesc>
                         <objectDesc>
 									<!-- Here you can give a physical description of the manuscript in prose-->
-                           <p>Palm-leaf manuscript. 89 leaves in Kuṭilā script. Apparently written in 1152 A.C.</p>
+                           <p>Palm-leaf manuscript. ... leaves in ... script. Apparently written in ... CE.</p>
                         </objectDesc>
                         <handDesc> <!-- Add an attribute @hands if you have more than one hand -->
 									<!-- Create a handNote for each hand -->
@@ -85,19 +86,18 @@
                               <abbr type="hand">A<hi rend="superscript">1</hi>H<hi rend="subscript">1</hi>
                               </abbr>
                               <!-- Give the abbreviation siglum for the hand built on siglum-of-the-manuscript_H1, the number being incremental -->
-                              <p>main hand of the manuscript, black ink, Sundanese script</p>
+                              <p>main hand of the manuscript, black ink, ... script</p>
                               <!-- provide a description of the hand -->
                            </handNote>
                         </handDesc>
                      </physDesc>
                      <history>
 								<!-- Here you can decribe the history of the manuscript in prose. Use <origDate> and <origPlace> to emphasize the place and date of creation -->
-                        <p>In June 1934, Sāṅkṛtyāyana found this manuscript in the monastery of Kun-de-ling (Lhasa).</p>
+                        <p>...</p>
                      </history>
                   </msDesc>
                </witness>
                <witness xml:id="MS">
-				    <!-- Give your witness an unique identifier -->
                   <abbr type="siglum"/>
                   <!-- Fill in the abbr @type="siglum" with the expected display for the witness siglum. Use <hi> with @rend for superscript and subscript -->
                   <msDesc>
@@ -142,9 +142,7 @@
             <punctuation>
                <p/>
             </punctuation>
-            <interpretation>
-               <p>The asterisk * is used to flag lemmata or forms of lemmata not recorded in the <title>Old Javanese-English Dictionary</title>.</p>
-            </interpretation>
+            <interpretation><p/></interpretation>
          </editorialDecl>
          <!--<refsDecl xml:id="ASLREF">
 				<cRefPattern matchPattern="(\S+) ([^.]+)\.(.*)"
@@ -210,14 +208,7 @@
       </encodingDesc>
       <profileDesc>
          <langUsage>
-				<!-- choose the language(s) of your text, remove the others -->
             <language ident="san-Latn">Sanskrit, romanized</language>
-            <language ident="kaw-Latn">Old Javanese, romanized</language>
-            <language ident="ori-Latn">Oriya, romanized</language>
-            <language ident="osn-Latn">Old Sundanese, romanized</language>
-            <language ident="tam-Latn">Tamil, romanized</language>
-            <language ident="kan-Latn">Kannada, romanized</language>
-            <language ident="tel-Latn">Telugu, romanized</language>
          </langUsage>
          <textClass>
             <keywords>
@@ -231,7 +222,7 @@
          <change who="part:axja" when="2024-03">Form tex to tei</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve" xml:lang="und"><!-- update the language code -->
+   <text xml:space="preserve" xml:lang="san-Latn"><!-- update the language code -->
 		<body>
       <div type="chapter" n="1">
   <head type="editorial">Maṅgala</head>
@@ -351,9 +342,10 @@ Cf. STTS 36–40.
 <!-- udāyaṁtāṁ: em. udānayantaṁ, with MSK. -->
 </l></lg>
 
-<lg met="FILL-ME-IN">
-	<l n="">aho samantabhadro'haṃ dṛḍhasattvaḥ svayaṃbhuvām /</l>
-<l n="cd">yaddṛḍhatvādakāyo'pi sattvakāyatvamāgata iti //<listApp type="parallels"><app><lem>aho ... āgata</lem><note>STTS 40
+<lg met="anuṣṭubh">
+	<l n="a">aho samantabhadro'haṃ</l> <l n="b">dṛḍhasattvaḥ svayaṃbhuvām /</l>
+<l n="c">yaddṛḍhatvādakāyo'pi</l> <l n="d">sattvakāyatvamāgata iti //
+  <listApp type="parallels"><app><lem>aho ... āgata</lem><note>STTS 40
 <!-- <foreign>aho samantabhadro 'ham dṛḍhasattvaḥ svayaṃbhuvām | -->
 <!-- yad dṛḍhatvād akāyo 'pi sattvakāyatvam āgataḥ ||} -->
 =  (<seg rend="check">LOCATION!!</seg>).
@@ -367,7 +359,7 @@ Cf. STTS 36–40.
   <rdg wit="#cod">hṛdayod</rdg></app> davatīryākṣobhyasyāgrato <app><lem type="emn" wit="#MSK">sthitvājñāṃ<!-- sthitvājñāṃ --></lem><witDetail wit="#MSK" type="silently"/>
   <rdg wit="#cod">sthitvājñā</rdg></app>  <app><lem type="emn" wit="#MSK">mārgayamānaṃ<!-- mārgayamānaṃ --></lem>
   <rdg wit="#cod">mārgayamānā</rdg>
-  <note>\MSK's footnote gives the impression that they read  <foreign>rgayamānā</foreign>.</note>
+  <note>MSK's footnote gives the impression that they read  <foreign>rgayamānā</foreign>.</note>
 </app> cintayet /</l>
 <l n="cd"><app><lem type="emn" wit="#MSK">tato<!-- tato --></lem><witDetail wit="#MSK" type="silently"/>
   <rdg wit="#cod">tabho</rdg></app>  sarvatathāgatakulacakravartitve <app><lem type="emn">pañcabuddha<!-- pañcabuddha --></lem>
