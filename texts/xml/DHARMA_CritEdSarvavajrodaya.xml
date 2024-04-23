@@ -548,11 +548,11 @@ miti<listApp type="parallels"><app><lem>idaṁ ... niyojitam iti</lem><note>STTS
 
 <!--  Vajrateja -->
 <lg met="FILL-ME-IN"><head type="editorial">Vajrateja</head>
-	<l n="ab">aho'nupamatejo'haṃ <app><lem wit="" type="emn">sattva<!-- sattva --></lem> <note>($\leftarrow$STTS, SVU Tib., <foreign>Tattvālokakarī</foreign>);</note>
+	<l n="ab">aho'nupamatejo'haṃ <app><lem type="emn">sattva<!-- sattva --></lem> <note>($\leftarrow$STTS, SVU Tib., <foreign>Tattvālokakarī</foreign>);</note>
   <rdg wit="#cod #MSK">sarva-</rdg></app> dhātvavabhāsanam /</l>
 <l n="cd">ya<app><lem wit="#cod">cchodhayati<!-- cchodhayati --></lem>
   <rdg wit="#MSK">chodayati</rdg></app>  <app><lem type="emn" wit="#MSK">śuddhānāṃ<!-- śuddhānāṃ --></lem><witDetail wit="#MSK" type="silently"/>
-  <rdg wit="#cod">suddhānāṁ</rdg></app>  buddhānāmapi tāyi<supplied>nā</supplied>m<listApp type="parallels"><app><lem>aho ... tāyi<supplied>nā</supplied>m</lem><note>STTS 72. 
+  <rdg wit="#cod">suddhānāṁ</rdg></app>  buddhānāmapi tāyi<supplied reason="omitted">nā</supplied>m<listApp type="parallels"><app><lem>aho ... tāyi<supplied>nā</supplied>m</lem><note>STTS 72. 
   The MS and the editions read the first half as follows:
   <rdg wit="#cod #Yed">aho hy anupaman tejaḥ satvadhātvavabhāsanam</rdg>
   <rdg wit="#Hed">aho hy anupamaṁ tejaḥ sattvadhātvavabhāsanam</rdg>
