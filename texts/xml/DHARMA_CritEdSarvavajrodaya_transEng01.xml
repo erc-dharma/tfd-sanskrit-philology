@@ -1,0 +1,1322 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" type="translation" corresp=""> <!-- mettre un @corresp sur l'élément avec un pointer vers le fichier master -->
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main" subtype="translation">Translation of Ānandagarbha's <foreign>Sarvavajrodayā Maṇḍalopāyikā</foreign> Maṇḍala Manual `For the Rising of All Vajras'</title>
+				<!--Change the title of the file with a title for the translation-->
+				<title type="sub" subtype="translation">Digital Critical Edition of...</title>
+				<!-- fill in the subtitle if necessary -->
+				<!-- Possibility to add the <editor> tag:
+        <editor ref="part:ID">
+					<forename></forename>
+					<surname></surname>
+				</editor>
+				OR
+				<editor ref="part:ID">
+					<name></name>
+				</editor>
+        -->
+				<respStmt>
+					<!-- repeat the respStmt when necessary -->
+					<resp>Encoding of the translation</resp>
+					<!-- work done in the file, e.g. editor, intellectual authorship of edition ...-->
+					<persName ref="part:jodo"><!-- update the id -->
+						<forename>John</forename><!-- fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+						<surname>Doe</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace><!-- fill in here the place or places where the encoding has been done --></pubPlace>
+				<idno type="filename">DHARMA_</idno>
+				<!-- Replace by filename following FNC -->
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by John Doe.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<!-- <notesStmt><note><bibl>Digital translation of <bibl><ptr target="bib:"></ptr></bibl>.<relatedItem target=""></relatedItem></bibl></note></notesStmt>-->
+			<!-- provide a notesStmt if you need to add some precision regarding the establishement of the translation -->
+			<sourceDesc>
+				<biblFull> <!-- Copy and paste the titleStmt and publicationStmt of the edition file -->           <titleStmt></titleStmt>
+					<publicationStmt></publicationStmt>
+				</biblFull>
+				<!-- if your translation is a copy of already published one: fill a biblStruct -->
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc> 
+			<projectDesc>
+				<!-- Part mandatory -->
+				<p>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+				<p></p>
+			</projectDesc>
+		</encodingDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+<div type="chapter"><head type="editorial">Invocation</head></div>
+
+<div type="chapter"><head type="editorial">Triple Absorption (Preliminary Service)</head>
+
+<div type="subchapter"><head type="editorial">Initial Union</head>
+<p>... are to be visualized. Thus the Absorption called Initial Union.</p>
+</div>
+<div type="subchapter"><head type="editorial">Summit of Maṇḍala Kings</head>
+
+<div type="section"><head type="editorial">Emanation of the Sixteen Bodhisattvas</head>
+
+<div type="section"><head type="editorial">Vajrasattva</head>
+<p>Subsequently, with the [seal of] Vajradhātvīśvarī<note>STTS §391 <foreign>aṅguṣṭhadvayaparyaṅkā kuñcitāgrāgravigrahā| 
+samamadhyottamāṅgā ca vajradhātvīśvarī smṛtā||</foreign>. The same stanza is quoted in KSP ch.~6 (ed. Inui §73).</note> he should empower himself at the four places,<note>Based on Ānandacandra's VJU §12 <foreign>tatas trilokavijayamudrayā, oṁ sumbha nisumbha hūṁ, gṛhna gṛhna hūṁ, gṛhṇāpaya gṛhṇāpaya huṁ, ānaya hoḥ, bhagavan vidyārāja hūṁ phaṭ, adhitiṣṭha mām iti hṛdūrṇakaṇṭhamūrdhasv āsanam adhitiṣṭhet</foreign>, we assume the four are heart, the throat, the space between the eyebrows, and the top of the head. See also, in our text, <seg rend="check">§3.3p24</seg>.
+<!--%EdT §44-->
+</note> display the <foreign>bodhyagrī</foreign> [seal]<note>SDPT p.~264: <foreign>tatremāḥ krodhamuṣṭidvidhākṛtya| vāmavajrāṅgulī grāhyā dakṣiṇena samutthitā||\ bodhyagri nāma mudreyaṁ buddhabodhipradāyikā||\ sagarvotkarṣanaṁ dvābhyāṁ vajrahuṁkāravajrasattvasattvavajrīṇām|</foreign>; KSP ch.~6 (ed. Inui §94):
+<foreign>vāmavajrāṅguliṁ grāhya dakṣiṇena samutthitām| bodhyagrī nāma mudreyaṁ buddhabodhipradāyikā||</foreign>.</note> and impell Vajrasattva in his heart, [saying] \mantra{o Vajrasattva}.<note>STTS §35.</note></p>
+<p>Then, [the practitioner] visualizes [Vajrasattva] as being present in the form of (<foreign>bhūtvā</foreign>) lunar discs emanated from the hearts of All Tathāgatas; as making all sentient beings throughout all world-systems penetrate selflessness; as creating singleminded focus upon the shape of a lunar disc; <note><seg rend="check">RT: The term cittaikāgratā is a definition of samādhi in Abhidharma literature. The present passage alludes to the opening of STTS (§20) where Sarvārthasiddhi sees a lunar dics which represents bodhicitta. </seg></note> [and] as arriving in the positions of all deities, precisely in the form of lunar discs.</p>
+
+<p>Then [according to his visualization] knowledge-rays emanate from them,<note>The moon discs.</note> enter the vajra in his own heart,<note>That is Vairocana's, i.e. the practioner's, own heart. See the first sentence of §2.2.1.2.</note> and become one with it. [Whereupon] he should visualize [it] as having taken, thanks to the empowerment of All Tathāgatas, the form of a great five-pronged vajra as extensive as the assembly of the universe; as having once again become, like previously, of the size of the vajra in his heart; and as emanating from it onto his hand. And from that [vajra] are emanating rays, which this time have the shape of vajras, multiple colors and multiple forms, and they expand throughout the System of the Universe. From them [emanates], this time taking the form of Vajrasattva, etc., the whole System of Beings, and he applies it to the Complete Awakening with the Knowledge of the Equality of All Tathāgatas without exception (<foreign>yāvat</foreign>), and the rest.<note>The rest alluded to here with <foreign>ādi</foreign> seems to be the list <foreign>sarvatathāgatamahābodhicittotpādana...sarvatathāgatarddhivikurvitāni</foreign> in STTS §39.</note> Through Contraction Yoga, they once again take the body of a single being and enter the vajra in his own heart. He should visualize a hymn being sung by him (i.e., Vajrasattva) who is present there:</p>
+
+<p rend="stanza">
+Oh, I am Samantabhadra, the solid being of the Self-born [Buddhas]. Though bodiless, thanks to their having a solid body, I have obtained the body of a being!<note>It seems that Ānandagarbha interpreted this udāna quite differently. See \ttl{Tattvālokakarī} on  STTS 40: ```Oh' means amazement. `I' am [Vajrasattva, or the practitioner?] himself. [I am] self-born because [I am] born on my own, and [therefore] the Lord Buddha. `The solid being' is the unbreakable being. If you are Samantabhadra among Buddhas, what is the amazement? [Answering this question, the part] beginning with [the words] `because of solidness' is recited. The relative pronoun <foreign>yad</foreign> means the reasoning (<foreign>rgyu gang gis</foreign>, *<foreign>yena hetunā</foreign>). Although bodiless because of solidness, i.e. although I have non-dual mind as my nature, I am in the body of a being, which means that I have the body of a being itself as my nature, which in turn means that I am in the state of the body of a being (<foreign>sattvakāyatvam</foreign>). <foreign>āgataḥ</foreign> means `having obtained'. It is the amazement that [I am] accomplished in this way. This is taught as follows: Although I have non-dual knowledge as my nature and therefore am formless, I will show the form-body (<foreign>gzugs kyi sku</foreign>, *<foreign>rūpakāya</foreign>) of my own to the people to be instructed."</note>
+</p>
+
+<p>Then he should visualize [Vajrasattva] as having descended from his heart and standing in front of Akṣobhya while requesting instruction.<note><seg rend="check">RT: The expression <foreign>ājñāṁ mārgayamānam</foreign> seems to be a circumlocution for asking a <foreign>samaya</foreign>.</seg></note></p>
+<!--%RT: ājñā is synonym of samaya. Cf. samayamaṇḍala-->
+
+<!--%Then he should perform the consecration to Emperorship of the Family of All Tathāgatas with the consecration by means of a crown-turban representing the Five-Buddhas. Through the [ultimate accomplishment, <foreign>uttamasiddhi} of] unsurpassed \red{conduct}, etc.,<note>STTS §42: atha bhagavān sarva-tathāgata-jñāna-samaya-vajraṁ nāma samādhiṁ samāpadya, sarvatathāgata-\textbf{śīla}-samādhi-prajñā-vimukti-vimuktijñāna-darśana-dharma-cakra-pravartana-sattvārtha-maho\-pāya-bala-vīrya-mahājñāna-samayam, aśeṣānavaśeṣa-sattvadhātu-paritrāṇa-sarvādhipatya-sarva\-sukha-sau\-manasyānubhavārthaṁ yāvat-sarvatathāgata-samatā-jñānābhijñānuttara-mahāyānābhisamay\textbf{ottama-siddhy}avāpti-phala-hetos, tat sarvatathāgata-siddhivajraṁ tasmai samantabhadrāya mahābodhisattvāya sarvatathāgata-cakravartitve sarvabuddhakāya-ratna-mukuṭa-paṭṭābhiṣekeṇabhiṣicya pāṇibhyām anuprādāt.} he should realize the Complete Awakening with the Knowledge of the Equality of All Tathāgatas without exception and give one primordial Vajra together with a bell marked with a primordial Vajra to Samantabhadra in order to create the Complete Whole System of Beings. Then he should give the name-consecration, etc.--> 
+
+<p>Then he should perform the consecration to Emperorship of the Family of All Tathāgatas with the consecration by means of a crown-turban representing the Five-Buddhas. Together with a bell marked with the primordial Vajra, he should give to Samantabhadra the primordial Vajra that consists in unsurpassed conduct, etc., [and] generates the Complete Awakening with the Knowledge of the Equality of All Tathāgatas without exception, in order to create the Complete Whole System of Beings. Then he should give the name-consecration, etc.<note>It seems that the term abhisamaya (as seen in STTS §42 <foreign>yāvat-sarvatathāgata-samatājñānābhijñānuttara-mahāyānābhisamayottamasiddhy-avāpti-phala-hetos</foreign>) and abhisambodhi (as used here by Ānandagarbha) are interchangeable in the STTS system. Cf. STTS §196 <foreign>sarvatathāgata-samatājñānābhijñābhisambodhy-uttamasiddhaye</foreign>.</note>
+Subsequently he should sing a hymn with self-identification as Vajrapāṇi:</p>
+
+<p rend="stanza">
+This is that unsurpassed accomplishment-Vajra of all Buddhas! I have been given into my (i.e., Vajrasattva's, i.e., Vajrapāṇi's) hand, established as a Vajra in the Vajra! 
+</p>
+<!--%"This" is so called [because the practitioner] placed [the vajra] in his heart. (Or: Having placed [the vajra] in his heart, [the practitioner] called [the vajra] "this".)
+%"All tathāgatas is Vairocana etc. "Siddhivajra" is [so called because it is] for the sake of accomplishment and/or because it has accomplishment as its nature.
+%[This is] unsurpassed because it is taught: \begin{quote}
+%voidness (stong ba nyid, *śūnyatā) is called vajra.
+%\end{quote}
+%For the [vajra] is superior because it has as its nature knowledge of voidness of the five families.
+%% phul du byung ba: atiśaya, utkarṣa
+%"It (tat)" is that which is bestowed by  Vairocana.
+%% A explains that tat in the udāna is correlative with the relative pronoun (yad) not mentioned in the udāna.
+%With regard to "I", the vajra [bestowed] is I.
+%With regard to [the phrase] "given into my hand", the form of vajra which has the nature of I is given into my hand.
+%Because so, I have been "established as a Vajra in the Vajra."
+% rab tu gzhag pa: *pratiṣṭhāpana}
+%%comments RT
+%With regard to the second udāna, I have checked the commentary on the STTS by Ānandagarbha. The pratīka of the relevant part is sarvabuddhānām, implying that <foreign>tat</foreign> is not a part of a compound.
+%Tib.: sangs rgyas kun gyi zhes bya ba ni rnam par snang mdzad la sogs pa'o (*sarvabuddhānām iti vairocanādīnām).
+%Probably "given into (Akṣobhya's) hand" should be "given in my (Vajrasattva's) hand." The 3rd and 4th pādas have the same structure: aha = vajram, mama kare = vajre, and dattam = pratiṣṭhitam.
+--></div>
+<div type="section"><head type="editorial">The other fifteen Bodhisattvas</head>
+
+<p>In the same way he should visualize [another] hymn being sung by [the group of Bodhisattvas starting with Vajrarāja and]<note>The parallel passage in KSP has <foreign>vajrasattvād ārabhya yāvad vajramuṣṭiparyantaṁ</foreign>, but in our context the group begins with Vajrarāja.</note> ending with Vajramuṣṭi who are present in the middle of the Vajra in the heart of Vairocana thanks to his emanation, expansion, contraction and stabilization in his abode,<note>These actions are all alluded to in the previous section.</note> as well as a hymn right after the consecration.<note>Vilāsavajra on MNS <seg rend="check">4.135</seg> <foreign>khaḍgapāṇiṁ vicintya taddhṛccandropary akāraṁ dhyātvā pūrvavat spharaṇasaṁharaṇanilayadṛḍhībhāvādikaṁ kṛtvā bhāvayed iti sarvatra yojanīyam</foreign>. Tribe comment on this passage: `I have taken it to be the requirement to stabilise the visualisation of the maṇḍala (<foreign>nilayadṛḍhībhāva</foreign>) as this is both the last and the only new instruction.'</note> Now follow the hymns for Vajrarāja, etc.</p>
+<!--%RT: compare also comment of Śākyamitra, Kośalalālaṁkāra (only in Tib.): he doesn't mention-->
+
+<p rend="stanza">
+<head type="editorial">Vajrarāja</head>
+Oh, I am Amogharāja, a hook born from the Vajra, through which (<foreign>yat = yena</foreign>) are attracted the omnipresent Buddhas for the purpose of accomplishment!\\
+This is that unsurpassed Vajra-knowledge of all Buddhas, through which [takes place] the unsurpassed attracting for the purpose of accomplishing the purpose of all Buddhas!</p>
+
+<!--%ad STTS 46 udāna
+%[With regard to the stanza] beginning with "Oh", the word "Oh" is as before.
+%With regard to "a hook born from the Vajra", for the reason that it is born from the body of All Tathāgata (singular), it is born from the Vajra.
+%It is called a hook in the meaning that the body is caught and drawn down by means of it. The word hook is used inasmuch as it resemble a hook as a way to drawn down All Tathāgata.
+%The words "I am Amogharāja" are used [to denote that] I am the king to bring the fruit unfailingly.
+%In this case, what is the amazement? [Answering this, the part] beginning with "because Buddha is omnipresent" is recited.
+%The relative pronoun "yad" means the reasoning (gtan tshigs gang gis, *yena hetunā / yena kāraṇena).
+%It is the amazement to summon Buddha the Blessed One abiding in all the ether permanent ly, i.e. to draw [him] down from the omnipresent, by means of Vajra-like body, speech and mind, i.e. selfless knowledge, for the sake of the accomplishment.
+%[To sum up,] it is taught as follows. Since the Buddhas and I are not separated from each other, i.e. I am equal to the omnipresent, I draw down All Tathāgata,
+%those to be instructed see me as that [= a hook]. Therefore, I am not different from the nature of the [hook].-->
+
+<p rend="stanza">
+<head type="editorial">Vajrarāga</head>
+Oh, I am the passion (<hi rend="italic">anurāga</hi>), pure in nature, of the Selfborn ones, with which passion (<hi rend="italic">rāga</hi>) they give discipline, for the purpose of purifying the dispassionate ones!<note>On <foreign>virakta</foreign>, see Sūtaka/CMP, ch. 9: <foreign>prathamaṁ tāvad bhagavān caramabhavikabodhisattvāvasthāyāṁ dvīpādyavalokanaṁ kr̥tvā tuṣitabhuvanād avatīrya santānādicaturvidhānyāyaṁ darśayitvā vītarāgarūpam abhinirmāya hīnādhimuktikānāṁ caturāryasatyādhigamaṁ virāgacaryāṁ ca pratipādya punar mahāyānābhiniviṣṭānām aṣṭavijñānakāyādidharmanairātmyādhigamaṁ bhūmipāramitādicaryāṁ ca pratipādya punaś cakravartirūpam abhinirmāya gambhīrādhimuktikānāṁ satyadvayādvayādhigamaṁ rāgadharmacaryāṁ ca pratipāditavān</foreign>. This stanza from STTS also concerns <foreign>rāgacaryā</foreign>.</note>\\
+<!--% dvīpādy] em. ed,; dīpādy MS
+% nairātmyādhigamaṁ] em.; nairātmādhigamaṁ MS ed.
+% satyadvayādvayādhigamaṁ] em.; satyadvayādhigamāya MS ed.-->
+This is that unmuddled passion-knowledge of All Buddhas: through passion they slay dispassion and give complete bliss!\\
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajrasādhu</head>
+Oh, I am every acclamation (`<hi rend="italic">sādhu</hi> (well done)!'), the best of all Omniscient ones, through which is steadily produced the satisfaction of those who have transcended conceptualization!\\
+This is that Vajra of All Buddhas which instigates the acclamation, which effects universal satisfaction, supernatural, conducive to joy!
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajraratna</head>
+Oh, I am the proper consecration, the unsurpassed Vajra-jewel, because of which, despite their indifference, the Jinas are called Lords of the Triple Sphere!\\
+<!--%we assume tridhātu means Triple World
+%kāmadhāta, rūpadhātu? 
+%<note>Allusion to the concept of the Cakravartin's seven jewels? See Griffiths &amp; Soutif 2008-2009, p. 58f.}\\-->
+This is that consecration [of Ākāśagarbha] by All Buddhas into the Sphere of Beings. I have been given into my (i.e., Vajraratna's) hand, fixed as a Jewel in the Jewel! </p>
+
+<p rend="stanza">
+<head type="editorial">Vajrateja</head>
+<!--%Oh, I am the unequalled energy, through which the sphere of beings is illuminated, which purifies the Saviors even if they are pure Buddhas!<note>The genitives here stand instead of accusatives. See STTS §74: <foreign>atha vajraprabho mahābodhisattvas tena vajrasūryeṇa sarvatathāgatān avabhāsayann idam udānam udānayām āsa</foreign>, from the prose passage between the present stanza and the next in STTS and in our text.</note>\\-->
+Oh, I am the unequalled energy, through which the manifestation of the Saviors in the sphere of beings is purified, even though they are pure Buddhas!<note>We take the śodhayati as equivalent to a passive form, and the genitives here as objective genitives. See STTS §74: <foreign>atha vajraprabho mahābodhisattvas tena vajrasūryeṇa sarvatathāgatān avabhāsayann idam udānam udānayām āsa</foreign>, from the prose passage between the present stanza and the next in STTS and in our text.</note>\\
+This is that light, more abundant than that of suns as numerous as a cloud (<foreign>rajas</foreign>) of the finest particles, of all Buddhas, which destroys the darkness of ignorance!
+<!--%This is that destruction by all Buddhas of the darkness of ignorance, whose light is more abundant than that of suns as numerous as a cloud (<foreign>rajas</foreign>) of the finest particles!
+%This is that destruction, whose light is more abundant than that of suns as numerous as a cloud (<foreign>rajas</foreign>) of the finest particles, of the darkness of ignorance of all Buddhas!-->
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajraketu</head>
+Oh, I am the incomparable banner of the Sarvārthasiddhis (Buddhas), through which (results) the fulfillment of all aims for those who are filled with all aims!\\
+<!--%Oh, I am the incomparable banner of the Sarvārthasiddhis (Buddhas), who fill all quarters of space, through which (results) the fulfillment of all aims!\\-->
+This is that fulfillment of all aims by All Buddhas, called Banner among Wish Jewels, the system of the Perfection of Giving!
+</p>
+
+
+<p rend="stanza">
+<head type="editorial">Vajrahāsa</head>
+Oh, I am the great and very miraculous laughter of the best ones of all, which the thoroughly concentrated (Buddhas) use toward the aim of (becoming) a Buddha!<note>The reading <foreign>prayuñjanti</foreign> in STTS (a regular active form) at first sight seems likely to be less original than the Aiśa passive <foreign>prayujyanti</foreign> that we have in our ms., and which was retained by EdT. But in the end it seems to us more plausible that the ms. of STTS has preserved the correct reading.</note>\\
+This is that greatly gladdening knowledge, unknown to other teachers, which shows the miraculous arising of All Buddhas.
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajradharma</head>
+Oh, I am that fundamentally pure ultimate aim of the Self-born (Buddhas), through which purity is obtained by them who use the Dharma like a boat!\\
+This is that awakening unto reality through the passion of All Buddhas. I have been given into my (i.e., Vajradharma's) hand, fixed as Dharma in the Dharma! 
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajratīkṣṇa</head>
+Oh, I am known as the soft sound of All Buddhas, through which Formless Wisdom comes to have sound!\\
+This is that System of the Perfection of Wisdom of All Buddhas, the splitter of all enemies, the ultimate remover of all sins! 
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajrahetu</head>
+Oh, I am the Wheel full of Vajras of (the Buddhas) whose Law is the best of Vajras, by which the Wheel of the Law turns as soon as the Thought (of Awakening) arises!\\
+This is that purification of all Laws of All Buddhas, the wheel of the non-returners known as the Platform of Awakening!
+</p>
+
+<!--%reached here on 2021-05-18-->
+
+<p rend="stanza">
+<head type="editorial">Vajrabhāṣa</head>
+Oh, I am known as the secret of the Selfborn (Buddhas), as the one of cryptic speech, through which they instruct the Good Law free of verbal prolixity!\\
+This is that uninterrupted Vajra enunciation of All Buddhas, the quick accomplishment of the mantras of All Tathāgatas!
+</p>
+<!--%cf. sarvatathāgatasaṁdhābhāṣaḥ (STT 1,10,10)
+-->
+<p rend="stanza">
+<head type="editorial">Vajrakarma</head>
+<!--%Oh, I am every manifold unerring act of the Buddhas, by which the Vajra act proceeds for the purpose of effortless \red{Awakening}!<note>Buddha = Buddhatva or bodhi, or = buddhakārya: cf. Lalitavistara, Ratnagotravibhāga, Mahāvyutpatti.}\\-->
+Oh, I am every manifold unerring act of the Buddhas, by which the Vajra act proceeds effortlessly for the purpose of [becoming] a Budddha!<note>Buddha = Buddhatva or bodhi, or = buddhakārya: cf. Lalitavistara, Ratnagotravibhāga, Mahāvyutpatti.</note>\\
+This is that highest executor of all acts of All Buddhas. I have been given into my (i.e., Vajrakarma's) hand, fixed as the Viśva(vajra) in the Viśva(vajra)! 
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajrarakṣa</head>
+Oh, I am the very solid armor full of powers of solid-bodied [yet] bodiless (Buddhas), by whose solidness, (I am) the ultimate maker of Vajra bodies!\\
+%problem with disagreement of genders resolved by emending varmaḥ.
+This is that superlative cuirass of the friendliness of All Buddhas, said to be of solid power and great protection, a great friend!
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajrayakṣa</head>
+Oh, I am the great expedient of the Buddhas whose spirit is compassionate, through which they, though pacified, engage in frightfulness for [the salvation of all] beings!\\
+This is that best fetter used by All Buddhas for every evil, the sharp weapon with Vajra fangs, the expedient of the ones whose spirit is compassionate!
+</p>
+<!--%KSP like our MS reads -gryadāyakam. 
+	%idaṃ tat sarvabuddhānāṃ sarvaduṣṭāgryadāyakam $/$
+	%vajradaṃṣṭrāyudhaṃ tīkṣṇam upāyaḥ karuṇātmanām -->
+
+<p rend="stanza">
+<head type="editorial">Vajramuṣṭi</head>
+Oh, I am the very solid binding, the pledge of the solid-bodied (Buddhas), through which even those who are (already) liberated can be bound, for the purpose of realizing all desires!\\
+This is that very solid seal-display of All Buddhas, the untransgressable pledge toward the realization of the instructions of All Buddhas!
+</p>
+</div>
+	
+<div type="subsection" n="2"><head type="editorial">Emanation of the Four Goddesses Surrounding Vairocana</head>
+
+<p>Then he should generate Sattvavajrī with the self-identification of Akṣobhya; Ratnavajrī with the self-identification of Ratnasambhava; Dharmavajrī with the self-identification of Amitābha; Karmavajrī with the self-identification of Amoghasiddhi. </p>
+
+<p>Now follow the hymns for them:</p>
+
+<p rend="stanza">
+<head type="editorial">Sattvavajrī</head>
+Oh, I am the solid Entity-vajra of All Buddhas. Although bodiless,  thanks to their having a solid body, I have obtained the body of a Vajra!
+</p>
+<!--%Oh, I am Samantabhadra, the solid being of the Self-born [Buddhas]. Though bodiless,  thanks to their having a solid body, I have obtained the body of a being!
+%udāna for Samantabhadra was translated: `Oh, I am Samantabhadra, the solid being of the Self-born [Buddhas]. Though bodiless, thanks to their having a solid body, I have obtained the body of a being!'-->
+
+<p rend="stanza">
+<head type="editorial">Ratnavajrī</head>
+<!--%Oh, I am known as the Jewel-vajra of All Buddhas, [through the force] of all of whose seals the system of consecration is solid!-->
+Oh, I am known as the Jewel-vajra of All Buddhas, through which the consecration system of all seals is solid!
+</p>
+
+<p rend="stanza">
+<head type="editorial">Dharmavajrī</head>
+<!--%Oh, I am the pure Dharma-vajra of All Buddhas, through the purification of whose nature even passion is fully immaculate!-->
+Oh, I am the pure Dharma-vajra of All Buddhas, because even passion is fully immaculate, due to the natural purity (of all <foreign>dharma</foreign>s)!
+</p>
+
+<p rend="stanza">
+<head type="editorial">Karmavajrī</head>
+Oh, I am the Action-vajra of All Buddhas, manifold though being one, which properly carries out the actions of the whole Sphere of Beings!<note>We presume that <foreign>yadekaḥ</foreign> is to be analyzed as <foreign>ya-d-ekaḥ</foreign>, with hiatus-breaking <foreign>d</foreign>. For another instance of this phenomenon, see STTS §222 <foreign>yadi brūyā-d-imaṁ nayam</foreign> `when you will pronounce this system'.</note>\\
+</p>
+</div>
+	
+<div type="section"><head type="editorial">The Four Goddesses of Worship in the Inner Circle</head>
+
+<p>Again with the self-identification of Vairocana [he should generate] the four [goddesses] starting with Lāsyā. [Now follow] their hymns:</p>
+
+<p rend="stanza">
+<head type="editorial">Vajralāsyā</head>
+Oh, there is no other worship of the Self-born [Buddhas] equal to me, because through worships of Kāma and Rati every worship is carried out!<note>The term <foreign>lāsyā</foreign> connotes erotic dance. Cf. STTS §§276, 297, 1578. The form <foreign>pravartate</foreign> seems to stand in the meaning of <foreign>pravartyate</foreign>.</note>\\
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajramālā</head>
+Oh, I am the unequalled one called Jewel-worship, worshiped through which [the Buddhas] instruct the excellent kingdom of the Three World-Systems!<note>The causative form <foreign>śāsayanti</foreign> seems to be used here <foreign>metri causa</foreign> for <foreign>śāsanti</foreign>.</note>\\
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajragītā</head>
+Oh, I am the worship, full of chanting, of the All-seeing [Buddhas], because through worships they are pleased even with [chantings] that merely resemble echoes!<note>It seems <foreign>toṣayanti</foreign> = <foreign>tuṣyanti</foreign>.</note>\\
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajranr̥tyā</head>
+Oh, I am the lofty worship [of the Buddhas], who cause every worship to be efficacious, because Buddha worship is brought about through the conduct of Vajra dance!\\
+</p>
+</div>
+	
+<div type="section"><head type="editorial">The Four Goddesses of Worship at the Corners</head>
+
+<p>Again with the self-identification of Akṣobhya, etc., [he should generate] the four [goddesses] starting with Vajradhūpā. [Now follow] their hymns:<note>The author here switches to use of collective singular <foreign>udānam</foreign> while plural <foreign>udānāni</foreign> was used so far.</note>
+</p>
+	<p rend="stanza">
+<head type="editorial">Vajradhūpā</head>
+Oh, I am the great worship, the beautiful one that causes pleasure! Because, through the method (<hi rend="italic">yoga</hi>) of penetration into beings (or: penetration by the Being), Awakening is quickly obtained.
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajrapuṣpā</head>
+Oh, I am the flower worship, which brings about every decoration! Because the Jewel-state of the Tathāgatas is quickly obtained after performing worship [with flowers]!
+<!--%Oh, I am the flower worship, which brings about every decoration, through which, after [Awakening] is quickly obtained, after the Jewel-state of the Tathāgata has been worshiped!-->
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajradīpā</head>
+Oh, I am the very lofty worship, the beautiful one full of lamps! Because he will quickly obtain the light-filled eyes of All Buddhas.
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajragandhā</head>
+<!--%Oh, I am the supernatural worship, charming, full of fragrance, through which he places the fragrance of the Tathāgatas in every body!
+-->Oh, I am the supernatural worship, charming, full of fragrance! Because [with me] he gives the fragrance of the Tathāgatas to [his] whole body.
+</p>
+</div>
+	
+<div type="section"><head type="editorial">The Four Gate-keepers</head>
+
+<p>Then, with the self-identification of Vairocana [he should generate] the four [gods] starting with Vajrāṅkuśa. [Now follow] their hymns:</p>
+
+<p rend="stanza">
+<head type="editorial">Vajrāṅkuśa</head>
+Oh, I am the solid attraction of All Buddhas! Because attracted by me they participate in every <foreign>maṇḍala</foreign>.\\
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajrapāśa</head>
+Oh, I am the solid Vajra noose of All Buddhas! Because even though they have (already) penetrated everywhere, they are still made to penetrate by me.\\
+</p>
+
+<p rend="stanza">
+<head type="editorial">Vajrasphoṭa</head>
+Oh, I am the solid Vajra <seg rend="check">burst</seg> of All Buddhas! Because for the benefit of (all) beings a bond is necessary for those freed from all bonds.<note>In latter Tantric texts, Vajrasphoṭa is explicitly associated with a word for `chain' (Ratnāvalī 114: <foreign>sphoṭāṃ vajraśṛṅkhalām~|</foreign>; Sampuṭa: <foreign>oṁ āḥ vajrasphoṭe vaṁ haṁ svāhā | vajraśr̥ṅkhalāyāḥ ||</foreign> VIII.4.18. ||). It is obvious that the same idea underlies the present stanza, but less evident how the term <foreign>sphoṭa</foreign> could have gained such an association. Cf. Sanskrit theory of language where terms <foreign>sphoṭa</foreign> and <foreign>sambandha</foreign> are used?</note></p>
+
+
+
+<p rend="stanza">
+	<head type="editorial">Vajrāveśa</head>
+Oh, I am the solid Vajra possession of All Buddhas! Because, even after becoming universal rulers, they become slaves.
+</p>
+
+<p>Thus far the Absorption called Summit of Maṇḍala Kings.</p>
+</div></div>
+<div type="subchapter"><head type="editorial">Summit of Action Kings</head>
+<!--%Yael B.: in GST tradition, karma would mean 'deed', as in deed for the sake of others.-->
+
+<p>Then he should visualize himself as identical to Vairocana and gather the assembly.<note>The construction INSTR. + saha + abhinna, cf. VJU <foreign>punar gaurīrūpayogena sādhyena sahaikībhūtam ātmānaṁ cintayed e[184v1]vam api mudrayati~|</foreign>; <foreign>sarvadevatābhir abhinnam ātmānaṁ bhāvayed</foreign>.</note> Then he should visualize those All Tathāgatas in the assembly along with their retinues (<foreign>parṣanmaṇḍala</foreign>) of Bodhisattvas who (each individually) pronounce `\mantra{om} I offer the veneration of the feet of the All Tathāgata' and are singing the hymn:</p>
+ 
+ <p rend="stanza">
+Oh, the good deed<note>The reading <foreign>satkriyā</foreign>of the <foreign>codex unicus</foreign> of STTS is confirmed not only by the testimony for this <foreign>udāna</foreign> here and in KSP chapter 6 but also by the Tibetan transmission of the commentaries by Ānandagarba and Śākyamitra, who both offer glosses that our translation follows. Nevertheless, we are tempted to speculate that at a stage of the transmission of this <foreign>udāna</foreign> prior to its inclusion in the STTS, the reading was <foreign>satkriyām</foreign>, whether intened as a 1st person singular verb form or as an accusative noun governed by <foreign>karomi</foreign>, and that the intended meaning was `I give respectful welcome to the Bodhisattva (cf. <foreign>vandanāṁ karomi</foreign> just above). Amoghavajra's translation has 敬儀 (Taisho vol. 18, p. 216a24), meaning that he read <foreign>satkriyā</foreign> in the meaning `respectful welcome'.</note> of the Bodhisattva Samantabhadra<note><seg rend="check">See above, where Samantabhadra was identified with Vajrasattva. One gets the impression that the practitioner himself is here homologized with Samantabhadra and that his own action allows Vairocana to shine.</seg></note> by which the Tathāgata shines in the middle of the circle of Tathāgatas.
+</p>
+
+<p>Then he should enter into Vairocana's heart, re-emerge after he has become one with the Sattvavajra, etc.,<note>The Tattvālokakarī suggests that Sattvavajra is the name of the five-pronged vajra in the heart of Vairocana. See Tanemura (2019): ``sattvavajraに関しては，ĀnandagarbhaはSTTS §127に対する註釈で「sattvavajraとは[心臓の]月輪にある金剛杵」であるとしている．STTS §127: <foreign>atha yāvantaḥ sarvākāśadhātusamavasaraṇāḥ sarvatathāgatakāyavākcittavajradhātavas, te sarve sarvatathāgatādhiṣṭhānena tasmin sattvavajre praviṣṭāḥ</foreign>. <hi rend="italic">Tattvālokakarī</hi> ad loc.: sems dpa'i rdo rje zhes bya ba ni zla ba'i dkyil 'khor la gnas pa'i rdo rje’o (P f.47r6–7, D 41r5). 伊集院2016: 148, 註(20)を参照.'' CHECK also Shiori Ijuin's 2016 article.
+<seg rend="check">The 5-pronged vajra is the cihna of the first Bodhisattva to emanate, namely Vajrasattva. Ryugen suggest that the `etc.' may allude to the symbols (arrow, etc.) of the samayas of the other Bodhisattva (Vajrarāja, etc.). According to Śākyamitra, this episode is linked to the second samādhi (Mandalarajagri).</seg></note> and again [visualize All Tathāgatas with their retinues] while they are singing the hymn:
+</p>
+<p rend="stanza">
+Oh, the (vajra) of great loftiness, born without beginning, by which the Buddhas, as numerous as all atoms, have come to unity!
+</p>
+
+<p>Then, the practitioner should stand in the place of Śrī Vajrasattva, should receive from All Tathāgatas the garland consecration, etc.;<note><seg rend="check">Explain mālābhiṣeka: cf. Vajrāvalī.</seg></note> should use the Vajra-hook, etc., to draw [them] near, to cause [them] to enter (<seg rend="check">the maṇḍala/himself</seg>), to bind [them], and to bring [them] under control. He should make Vairocana and the others sealed by the four seals,<note><seg rend="check">Cf. the svādhiṣṭhāna section in Ādiyoga; see KSP 6-2-4.</seg></note> and should assign them to [their respective tasks]:</p>
+
+
+<list>
+<item>[Vajrasattva as transcendent deity] gathering into one of All Buddhas [and] sealing of All Families<!--%STTS--></item>
+	<item>[Vajrasattva as member of Akṣobhya's retinue] stimulation of the Thought of Awakening</item>
+<item>[Vajrarāja] drawing near All Tathāgatas</item>
+<item>[Vajrarāga] passion for them</item>
+<item>[Vajrasādhu] gladdening them</item>
+<item>[Vajraratna] consecrating them</item>
+<item>[Vajrateja] illuminating them with light</item>
+<item>[Vajraketu] assigning to the perfection of liberality</item>
+<item>[Vajrahāsa] bestowing a miraculous smile</item>
+<item>[Vajradharma] producing absorption into complete purity</item>
+<item>[Vajratīkṣṇa] cutting off defilements and minor defilements</item>
+<item>[Vajrahetu] introducing into the great maṇḍala</item>
+<item>[Vajrabhāṣa] assigning to the reality (<hi rend="italic">dharmatā</hi> which is free of proliferation (of the mind)%`falsehood' thus BHSD</item>
+<item>[Vajrakarma] veneration of All Tathāgatas with every form of worship without omission</item>
+<item>[Vajrarakṣa] protection against desire for other vehicles and against the dangers of defilements and minor defilements, etc.</item>
+<item>[Vajrayakṣa] guarding with all means of protection</item>
+<item>[Vajrasandhi] producing All-Buddha-hood with the Tathāgata fist which is the binding that unifies body, speech and mind,<note><seg rend="check">Vajrasandhi = Vajramuṣṭi! The latter seems to be more common in SVU.</seg> STTS §132–137: vajrasandhi is the heart mantra of the Bodhisattva Vajramuṣṭi who is himself a transformation of the mantra.</note></item><item>[Sattvavajrī, Ratnavajrī, Dharmavajrī, Karmavajrī] producing liberality, good conduct, forbearance, heroism, wisdom, concentration, resolve and means</item>
+<item>[Vajrāṅkuśa] drawing all beings to the city of great liberation with the goad which is the thought of Awakening</item> 
+<item>[Vajrapāśa] introducing [them into it] through the practice of the ten perfections</item>
+<item>[Vajrasphoṭa] shattering desire for other vehicles</item>
+<item>[Vajrāveśa] non-arising [of dharmas] (i.e., emptiness)<note>Chanchan suggests that anutpāda is a synonym of śūnyatā.</note> which is naturally luminous, and</item>
+<item>[Vairocana] guarding the city of the good law.</item>
+</list>
+
+<p>[Thus far] the Absorption called Summit of Action Kings.</p>
+ 
+<!-- %@@@@ reached here on 2021-07-14-->
+</div>
+<div type="subchapter"><head type="editorial">Supplement (or Prior Service???)</head>
+
+<p>Then, with fragrant water that has been empowered with the [mantra of] Vajrayakṣa,<note>\mantra{oṁ vajrayakṣa hūm}, i.e., the <hi rend="italic">sārvakarmika</hi> mantra.</note> he should besprinkle all requisites for worship, empower [them again] with the [mantra of] Vajrānala and its seal;<!--%'with the seal of Vajrānala'?-->
+<note>See KSP 6-2-1-7 <foreign>punar vajrānalāhaṅkāreṇa tanmudrāyuktena pūjāṅgāni śodhayet</foreign> and the parallel passage in SDPT (p. 134). Vajrānala's mantra is also stated in Ādiyoga T6.</note> 
+[empower] the flowers, pronouncing \mantra{oṁ vajrapuṣpe hūṁ}, with the flower-seal; 
+[empower] the fragrant powder, pronouncing \mantra{oṁ vajragandhe hūṁ}, with the fragrant-powder-seal; 
+[empower] the incense, pronouncing \mantra{oṁ vajradhūpe hūṁ}, with the incense-seal; 
+[empower] the tribute (<foreign>bali</foreign>), pronouncing \mantra{the syllable a is the gate of all entities because of their primordial beginninglessness},<note>Allusion to Arapacana, and thus to the sword, is evident from extensive version at Pañcaviṁśatiprajñāpāramitā 1. 
+<!--%PvsP1-2: 85
+%Pañcaviṃśatisāhasrikā Prajñāpāramitā I-2, Tokyo: Sankibo Busshorin 2009. = PvsP1-2-->
+ The note in Tribe's book on Nāmasaṁgīti 4.46 (p. 441) does not seem to mention this point. He translates “The sound ‘A’ is the first of all dharmas since it is unarisen from the beginning.”</note> with the sword-seal — the sword-seal is the gesture of drawing the sword with the Vajra-bind<note><seg rend="check">We need a general note on this, referring to STTS on vajrabandha.</seg></note> —; 
+ [empower] the lamp, pronouncing \mantra{oṁ vajrāloke hūṁ}, with the lamp-seal.</p>
+
+<p>Pronouncing \mantra{oṁ vajrasattva hūṁ}, he should scatter the sesame, barley, <foreign>kuśa</foreign>-grass, parched rice, white and fragrant flowers, and sandal water, into a conch-shell, a vessel, or such, and place [the latter] either after empowering it three times, seven times or twenty-one times with the guest-water-seal marked by the budding Vajrāñjali. Then he should open the gates in the proper manner,<note><seg rend="check">Is <foreign>dvārodghāṭana</foreign> described anywhere in the text? 
+STTS 857–858 <foreign>tato madhyasthito bhūtvā vajrācāryaḥ samāhitaḥ / manasodghāṭayec caiva vajradvāracatuṣṭayam // tatrāyaṃ dvārodghāṭanamantraḥ // oṃ vajrodghāṭaya samaya praviśaya hūṃ //</foreign> and STTS 987 <foreign>dvivajrāgryāṅgulī samyak saṃdhāyottānato dṛḍham /(STT 1,420,987)
+vidārayeta saṃkruddho dvārodghāṭanam uttamam iti //</foreign>;
+however, we find a different mantra at SDPT p. 172 <foreign>vajramuṣṭidvayaṃ baddhvā tarjanī dve prasārayet // kaniṣṭhāṃ śṛṅkhalīkṛtya dvārodghāṭanamudrayā //
+oṃ sarvavid dvāram udghāṭaya hūṃ / dvārodghāṭanamantramudrayā dvāram udghāṭayet /</foreign></seg></note> and display the great seal of Śrī Vajrasattva, after empowering it with \mantra{oṁ vajrasattva hūṁ}.</p>
+
+<!--%@@ reached here on 2022-01-31-->
+
+<p rend="stanza">
+Himself in union with Śrī Vajrasattva, he should assemble All Buddhas using his arms, a Vajra-bind [or] releases of the Vajra-snap.\\
+With a clap of the left palm the [seal] called Tālā is realized; with the right, the one called [simply] <seg rend="check">Tālā</seg>. [The third one is as follows] both [palms] are joined together.<note>Haru: `Both together is called Saṁnipāta.'</note>
+<!--%Ryugen is reminded of Guhyasādhana in Āveśa section of STTS §247. Is Saṁnipāta an equivalent of Sūkṃatāla
+%in SBS 9.244 we read śamyatāla instead of samyaktāla; SDPT has samatāla; Tib. *savyatāla?
+--></p>
+
+<p>[Thus] the characteristics of the assembly-seals. The heart of the assembly-seal<seg rend="check">s</seg> is: \mantra{oṁ Vajra-Assembly <seg rend="check">jjaḥ</seg> hūṁ vaṁ hoḥ}.
+</p>
+<p rend="stanza">
+All Buddhas with their retinues (<foreign>parṣaccakrasaṁcaya</foreign>) assemble being compelled by its mere command. What question is there with regard to other [beings]?\\
+Then, while performing the Great Seal of Vajrasattva, he should quickly pronounce one time the One-hundred-and-eight Names beginning with Vajrasattva and Mahāsattva.\\
+Then, after performing [each of the four respective] actions at all [of the four] gates, with the goad, etc.,<note><seg rend="check">List the four in note.</seg></note> he should cause the pledges<note>Kenichi: the Samayasattvas are itended.</note> to enter with the excellent Great Seals and Action Seals.\\
+With the excellent Pledge Seals and with Sattvavajra, etc.,<note><seg rend="check">List the four in note.</seg></note> he should bring the Great Beings under control <seg rend="check">while activating</seg> \mantra{jaḥ hūm̐ vam̐ hoḥ}.
+</p>
+
+<p>It is like this. With Vajrayakṣa he should perform the banishment of obstacles, and the protections; with Vajramuṣṭi, the locking of the gates; with Vajrasattva he should give guest water and then display the pledge seal<note>Or seals?</note> of the Vajradhātu, etc. [Pronouncing the mantra] beginning with  \mantra{O Vajra-sphere, visible one},<note><seg rend="check">Check Ādiyoga section and KSP 6.2.6.1 for this mantra.</seg></note> he should make all visible, and three times pronounce \mantra{jaḥ hūm̐ vam̐ hoḥ you are the pledge! I am you the pledge!}, the own hearts and the mantras of Śrī Vairocana and the others.<note><seg rend="check">Still unclear whar the svahṛdayas are, and what the mantras.</seg></note> And he should seal them<note>I.e., the five Jinas and their respective retinues.</note> using the Law-Seal, the Action-Seal and the Great-Seal, and should consecrate the Buddhas, etc., with various <seg rend="check">seal consecrations</seg>, and offer guest water.<note>Cf. our emended text at 43:16: dharmmakarmmamahāmudrābhiś cāmudryābhiṣiñcen mudrābhiṣekais tathāgatādīn | bhadrakalpikaparyantāṁ | dharmmakarmmamahāmudrābhiś cāmudryābhiṣiñcen mudrābhiṣekais tathāgatādīn bhadrakalpikaparyantān |</note>.	
+	He should offer worship, with flowers pronouncing \mantra{om̐ o pledge of cloud and ocean-like expansion of veneration of All Tathāgatas with flowers hūm̐};
+	with fragrant powders pronouncing \mantra{om̐ o pledge of cloud and ocean-like expansion of veneration of All Tathāgatas with fragrant powders hūm̐};
+	with incense pronouncing \mantra{om̐ o pledge of cloud and ocean-like expansion of veneration of All Tathāgatas with incense hūm̐};
+	with tribute worship pronouncing \mantra{the syllable a is the gate of all entities};<note><seg rend="check">See beginning of 2.4 Supplement (11:9).</seg></note>
+	with lamps pronouncing \mantra{om̐ o pledge of cloud and ocean-like expansion of veneration of All Tathāgatas with lamps hūm̐};
+	and with the eightfold worship starting with Lāsyā.</p>
+	
+<p>\mantra{om̐ o action vajra, who expand the worship by offering up <seg rend="check">every self</seg><note>PDS: instead of takig sarvātmā as object, perhaps take it as saravātmānā `with complete dedication'.</note> to All Tathāgatas āḥ!}\\
+\mantra{om̐ o action eminence, who expand the worship by offering up every self to All Tathāgatas <seg rend="check">jaḥ!</seg>}\\
+\mantra{om̐ o action arrow, who expand the worship by loving and offering up every self to All Tathāgatas hūm̐ hoḥ!}\\
+\mantra{om̐ o action satisfaction, who expand the worship by applauding and offering up every self to All Tathāgatas āḥ!}\\
+\mantra{om̐ homage to the jewels for consecration of the body of All Tathāgatas, o vajra jewel om̐!}\\
+\mantra{om̐ homage to the suns which are All Tathāgatas, o vajra fire, burn hrīḥ!}\\
+\mantra{om̐ homage to the banner tops which are the wish jewels of All Tathāgatas that fulfill all wishes, o vajra-banner-tip, tram̐!}\\
+\mantra{om̐ homage to the [smiles] which cause the great joy and delight of All Tathāgatas, o vajra laughter, haḥ!}\\
+\mantra{om̐, I praise with <seg rend="check">vajra absorptions on the equality of the Laws</seg> %or vajra laws?
+ of All Tathāgatas, o great Law emince, hrīḥ}\\
+\mantra{om̐, I praise with accomplishments of the perfection of wisdom of All Tathāgatas, o follower of the great sound, dham̐!}\\
+\mantra{om̐, I praise with the systems of scriptures of the wheels [of the Law] of All Tathāgatas in akṣaras, chapters, etc., o universal maṇḍala, hūm̐!}\\
+\mantra{om̐, I praise while chanting with the songs for the Buddhas in the intentional<note>This is Franceso'c translation. Check references.</note> language of All Tathāgatas, o vajra speech, vam̐!}\\
+\mantra{om̐, o you whose action is worship through the expansion of wafts of incense to All Tathāgatas, kara kara!}\\
+\mantra{om̐, o you whose action is worship through the expansion of multitudes of flowers to All Tathāgatas, kiri kiri!}\\
+\mantra{om̐, o you whose action is worship through the expansion of flames of light to All Tathāgatas, bhara bhara!}\\
+\mantra{om̐, o you whose action is worship through the expansion of an ocean of fragrant powder to All Tathāgatas, kuru kuru!}\\</p>
+
+<p>He should perform the worship with these mantras, conformable to the sixteen Beings (i.e., Bodhisattvas), accompanied by their action seals.</p> 
+
+<p>In this connection, these seals are used: after compressing the vajra-bind onto the body, and after splitting it up with the two fists (displayed as <foreign>vajramuṣṭi</foreign>),</p>
+
+<p rend="stanza">
+with the two, there is (on the one hand) drawing and (on the other) the [expression of] pride [of Vajrasattva];<note>Pride is symbolized by fist on hip.</note> [the seal for Vajrarāja] is placed as if holding the goad;
+and [for Vajrarāga] it is joined with arrow-shooting; [for Vajrasādhu] it is acclamation, placed at the heart;
+[for Vajraratna], it is a double vajra <seg rend="check">as</seg> for consecration; [for Vajrateja] it is the display of the sun at the heart; [for Vajraketu], it has a staff in the form of the left arm; and [for Vajrahāsa] it is moved around in front of the face;
+[for Vajradharma] it is opened in left and right; [for Vajratīkṣṇa], it slays through a sword in the left [hand] at the heart; [for Vajrahetu] it is moved around like a fire-brand in a circle; [for Vajrabhāṣa] it arises in the mouth with two vajras;<note>The corresponding gestures are made on both sides of the mouth.</note>[for Vajrakarma] it is placed at the cheeks and at the crown, unfolding from the moving around of the vajra dance; [for Vajrayakṣa] it is a cuirass; [for Vajrarakṣa] it is an excellent [pair of] tusks [made by] the little fingers; [for Vajramuṣṭi] it [again] compresses the two fists.
+</p>
+<!--%sagarvotkarṣaṇaṁ dvābhyām aṅkuśagrahasaṁsthitā /(STT 1,186,287)
+%vāṇaghaṭṭanayogāc ca sādhukārā hṛdi sthitā //(STT 1,186,287)
+%abhiṣeke dvivajraṁ tu hṛdi sūryapradarśanam /(STT 1,186,287)
+%vāmasthabāhudaṇḍā ca tathāsye parivartitā //(STT 1,186,287)
+%savyāpasavyavikacā hṛdvāmā khaḍgadhāraṇā /(STT 1,186,288)
+%alātacakrabhramitā vajradvayamukhotthitā //(STT 1,186,288)
+%vajranṛtyabhramonmuktakapoloṣṇīṣasaṁsthitā /(STT 1,186,288)
+%kavacā kaniṣṭhadaṁṣṭrā(gryā) muṣṭidvayanipīḍitā //(STT 1,186,288)
+-->
+<p>Then he should make fourfold obeisance<note>See STTS §214.</note> and, positioned with the great seal of Śrī Vajrasattva,<note>See STTS §255.</note> he should visualize his own self as the vajra of the bodies, speech and thoughts of All Tathāgatas [while reciting] with this [mantra]: \mantra{om̐, I am one in nature with the vajra!} Then [he should visualize his own self] as pure by nature [with this mantra]: \mantra{om̐, I am pure by nature!}, and [lastly] as having the nature of all deities starting with Vairocana inasmuch as he is equal to them in selflessness, [with this mantra]: \mantra{om̐, I am the same as all of them!} </p>
+
+<p>Then, while pronouncing the hundred-syllable [mantra] of Śrī Vajrasattva with the vajra-voice, or mentally, he should cultivate [the idea]: `I am am none other than all!'. And he should hold the conviction: `From the mouths of all deities rings forth the sound of mantras!'. In this way [the mantras] are recited by all [deities]. He should keep cultivating it as long as no fatigue arises. When he is fatigued, he should again give the praise with the One hundred and eight names [and] guest water; should perform the worship and fourfold obeisance; and, wherever seals are formed, he should release them there. The releasing of the seals of Sattvavajra, etc., is [with the mantra: \mantra{vajra muḥ}. The regulation for the place [of applying the four seals] for Śrī Vajrasattva, etc., has been discussed.<note><seg rend="check">In Svādhiṣṭhāna part Ādiyoga: see KSP 6-2-4. See also 2.2.1.1.</seg></note> For [the four Jinas] Akṣobhya, etc., the place is the same as the [respective] place of Vajrasattva, Vajraratna, Vajradharma and Vajrakarma. The crown is the place for Vairocana.</p>
+
+<p>Then he should perform the complete seal consecration using the pledge-seal of Vajraratna arisen from his heart and placed at [Vajraratna'] own consecration position, [using the mantra]: \mantra{om̐ consecrate, o vajraratna!} After that he should perform the binding of the cuirass as before, with the index fingers,<note><seg rend="check">In the Ādiyoga section; see KSP 6-2-1-5.</seg></note> [using the mantra]: \mantra{solidify my complete seal with the best cuirass vam̐!} At the end he should gratify [all deities] with the [seal] that <seg rend="check">has flat palms</seg> and, after pronouncing the hundred-syllable (mantra) of Vajrasattva should transfer the merit to  accomplishing the desired aim. He should implore all Buddhas and Bodhisattvas [saying]: `If I have commited any omission in the ceremony, you may please forgive me!'. And after giving them guest water he should encourage them to depart.</p>
+
+<p rend="stanza">
+Om̐! You have worked for the benefit of all beings! Having given success as sought, please go to the land of the Buddhas, to come back later.
+</p>
+
+<p>Above, he should release [the seal of] Sattvavajrī with this heart: \mantra{o Vajrasattva, muḥ!} In this way, all are dismissed.</p>
+
+<p>And he should mentally cause the gathering of circles with retinues (i.e., the Vajradhātumaṇḍala), as it has been generated, to enter with Perfect Union<note>Probably a techn. term. Check commentaries on STTS.</note> into his own body, protect himself with the seals of Vajrarakṣa, Vajrayakṣa, Vajrasandhi and Vajrakarma, rise up, make <seg rend="check"><hi rend="italic">maṇḍalaka</hi></seg> and carry out the recitation of books, etc. 
+%in the <seg rend="check">corners of the maṇḍala</seg><note>See Ryugen's KSP book, p. 235 n. 50.</note> 
+In this way he should perform every day, as [a rite for] the four nodes of the day,<note>While <hi rend="italic">catuḥsaṁdhyam</hi> is often (notably in STTS) an adverb, the compound <hi rend="italic">catuḥsaṁdhyāvasāne</hi> below shows that Ānandagarbha used it as a noun.</note> during a month, during a semester, during a year or during however much time it takes to becomes favored by the deities. Or else he should, as previously, practice Great Union<note>Bu ston teaches in his <hi rend="italic">Yid bzhin kyi nor bu</hi>, a commentary on the SVU, teaches that the <hi rend="italic">mahāyoga</hi> is from the internal bathing (<hi rend="italic">adhyātmasnāna</hi>) up to the practice of the four kinds of <hi rend="italic">mudrā</hi>, i.e. <hi rend="italic">mahāmudrā</hi>, <hi rend="italic">samayamudrā</hi>, <hi rend="italic">dharmamudrā</hi>, and <hi rend="italic">karmamudrā</hi>, and that the first union (<hi rend="italic">ādiyoga</hi>), of which the core part is the <hi rend="italic">pañcākārābhisaṁbodhi</hi>, starts after  the practice of the four kinds of mudrā (<hi rend="italic">Ijuin</hi> 2016). There is no such clear distinction in the SVU itself.
+	If we compare the structure of the SVU with that of the <hi rend="italic">*Trailokyavijayodayā</hi>, a manual by the same author of the practices based upon the system of the Trailokayavijayamahāmaṇḍala of the STTS, the latter teaches the “single yoga (<hi rend="italic">rnal 'gyor gcig</hi>, <hi rend="italic">*ekayoga</hi>)” which is alternative to the <hi rend="italic">mahāyoga</hi> after the self empowerment (<hi rend="italic">svādhiṣṭhāna</hi>). While the practitioner should accomplish the <hi rend="italic">mahāmudrā</hi> of Vajrahūṁkāra and practice the four kinds of <hi rend="italic">mudrā</hi> of the five Buddhas in the single yoga, he should accomplish the <hi rend="italic">mahāmudrā</hi> of the thirty-two deities of the Trailokayavijayamahāmaṇḍala and practice the four kinds of <hi rend="italic">mudrā</hi> of  those deities in  <hi rend="italic">mahāyoga</hi>. This <hi rend="italic">mahāyoga</hi> in the *Trailokyavijayodayā corresponds to the sections in the SVU which teach <seg rend="check">the accomplishment of the <hi rend="italic">mahāmudrā</hi> the twenty-eight bodhisattvas</seg> and the practice of the four kinds of <hi rend="italic">mudrā</hi> of those deities (sections 39–59 in Takahashi's Japanese translation).  (See Ijuin 2015) Probably these sections teach the mahāyoga in the SVU.</note> and worship, etc.</p>
+
+<p rend="stanza">
+Having taken the vajra as representing reality and having caused the bell to resound as representing Dharma, having empowered the Great Seal as representing the pledge, he should recite the heart.
+</p>
+<!--%the same also occurs on p. 43 of our edition-->
+
+<p>Then, while pronouncing the triad of mantras beginning with `I am one in nature with the vajra!'<note>This refers to the set that was taught on p.~<seg rend="check">14</seg>.</note> he should contemplate the triad of their meanings, should generate <seg rend="check">Vajradhātumahāmaṇḍala</seg> in his heart by means of the pentad of hearts taught in the Maṇḍala of Four Seals,<note>This is the title of a section STTS 563–567.</note> should install Śrī Vairocana, etc., in their respective places with the aforementioned hearts,<note><seg rend="check">What does this refer to? Mahāyoga section?</seg></note> should enter them by means of the Union of Identity with Space, should become one with them by means of the mantras beginning with \mantra{I am one in nature with the vajra!}, should conceive of himself as the <seg rend="check">Vajradhātumahāmaṇḍala</seg> [while pronouncing] `I am myself the vajra sphere!', and receite the heart mantra of Śrī Vajrasattva while cultivating [the idea]: `I am am none other than all!'</p>
+
+<p>And in this situation too he should keep in mind:<note>The <foreign>api</foreign> here alludes to the fact that the same instruction has been given above, p.~<seg rend="check">14</seg>.</note> `From the mouths of all deities rings forth the sound of mantras!'. In this way all [deities] beginning with Vairocana are quickly made effective. And whenever he gets exhausted, he should offer the Praise in One hundred and Eight Names, perform the worship and make fourfold obeisance. And at the end of <seg rend="check">(the ritual of) the four nodes of the day/the fourth node</seg>, he should perform the practice that is preceded by the Praise in One hundred and Eight Names and dismiss [them].
+</p>
+<p>All mantras, whether relevant for worldly or soteriological aims, can be made effective through the Great Union. As for one who is unable to visualize the maṇḍala, he should perform the Great Union and then recite a hundred-thousand times each individual mantra.</p> 
+
+<p>[Now a special use of a mantra]
+After reciting \mantra{o vajra, arise!} a hundred-thousand times, he should bind the Vajrottiṣṭha seal and keep reciting throughout the night. [The mantra] is made efficient. After that, using that [seal], he will be able place a jar, etc.,<note><seg rend="check">Haru: "anything that he wants to empower".</seg></note> in the sky.
+</p>
+<p rend="stanza">
+Carefully placing together the two excellent vajras which are his thumbs, in firmly horizontal position, he can raise any dead person. It is called the Vajrottiṣṭhā (seal)!
+</p>
+
+<p>And after reciting \mantra{o vajra-possession!} a hundred-thousand times, purifying the Vajra-bell with a thousand residue-oblations of ghee,<note>Haru: saṁpātāhuti is a special kind of oblation. Perhaps a procedure where you pour half of the ghee onto the fire and half onto the object to be empowered. See Kṣemarāja's Svacchandoddyota.</note> and placing it down with the Pledge-seal of Vajrāveśa, he should recite [the same mantra] throughout the night. He causes [Vajrāveśa] to take possession of every [animate or inanimate being]<note><seg rend="check">That this is intended transpires from STTS §235--249</seg>.</note> when that <seg rend="check">magic</seg> (bell) has been supercharged in his hand.
+</p>
+</div>
+</div>
+</div>
+<div type="chapter"><head type="editorial">Maṇḍala rituals</head>
+
+<div type="subchapter"><head type="editorial">Ritual of purifying the earth and touching it</head>
+<p>Having thus carried out the preliminary service, he should draw the maṇḍala in the northeastern part of a monastery, a park, a village or a city, or where it is agreeable to his mind, on a piece of ground that is even, smooth, gently sloping, of proper dimensions and not saline. For a king (it should measure) a hundred or fifty cubits; for feudatory chiefs (<foreign>sāmanta</foreign>) or feudatory princes (<foreign>mahāsāmanta</foreign>), fifty or twenty-five cubits; for a guild foreman or a merchant, twenty-five or half of it; for (ordinary) practitioners,%<note>Can we come up with a nicer translation, to bring across that the word <foreign>sādhaka</foreign> refers to one who seeks only <foreign>siddhi</foreign>, not release?</note> 
+twelve or six cubits. In the middle of the prospective maṇḍala ground, he should first ward off the maṇḍala obstacles with an oblation of powder of human bones along with blood and poison,<note>Guhyasamājatantra 15.83: <foreign>pratikṛtim asthicūrṇena viṣeṇa rudhireṇa ca~| kṛtvā tu gṛhyate śīghraṁ vajrasattvo 'pi dāruṇaḥ ||</foreign>.</note> and carry out a pacificatory oblation for himself, his disciples, the king, etc.</p>
+
+<p>Then he should purify the ground. He should dig down a fathom deep, or as deep as the neck, the navel or the knee, fill (the hole) with soil that has been rubbed with fragrant paste (<foreign>sugandha</foreign>), besprinkle it repeatedly with fragrant water that has been consecrated with the Vajraśikharā (mantra), and beat it until it is properly even. He should enter the storeyed palace<note>Or may we translate `citadel'?</note> adorned with four gates, whose extremities are closed by four paneled doors, splendidly covered by canopies
+having beautiful flags that are very colorful and have bell dangling from them,<note>Cf. Bhramaharasādhana: <foreign>calaccitrapatākāgraghaṇṭāmukharadiṅmukham~|  paramaiḥ pañcabhiḥ kāmair upahāraiś ca darpaṇaiḥ</foreign>; SDPT <foreign>nānāprakārāṇi vitānāni catuḥkoṇe vicitrapatākāvasaktāni chatradhvajapatākāś ca</foreign>.</note> adorned with the Buddha, the jewel (of Ratnasambhava), etc.,<note>I.e., vajra for Akṣobhya (E), the lotus for Amitābha (W), the khaḍga for Amoghasiddhi (N)? But the problem is that Ratnasambhava is in the South, while the list should start in the East. So maybe this interpretation is wrong?
+Cf. Bhūtaḍāmara manual  <foreign>...pūrvavad upalipya gandhāmbunā prokṣya madhye ratnādikaṁ nyasyed iti | bhūmiśodhanavidhiḥ</foreign>.</note> in painting or sculpture, with incense pots placed at its four corners, and adorn it (further) with flowers, lamps, cloths, etc., after which he should smear it with perfume, besprinkle it with water that has been consecrated with the Vajrayakṣa (mantra), place his hand on the ground and seven times repeat the Vajrasattva (mantra) with the (mantra of) a hundred syllables.<note>On `the (mantra of) a hundred syllables' (<foreign>śātākṣara</foreign>), and its ritual function, see Tanemura 2004: 261 n.~116.</note>
+<seg rend="check">So goes</seg> the ritual of purifying the earth and touching it.</p>
+</div>
+<!--%\section{Ritual of \red{preparatory/incubatory} oblation}
+--><div type="subchapter"><head type="editorial">Ritual of oblation for incubation</head>
+
+<p rend="stanza">
+Then, in the morning, his body perfumed, wearing ornaments and garments as available, wrapped in a deep-red cloth, garlanded, with fragrant mouth, himself
+</p>
+
+<p rend="noindent">he should carry out the maṇḍala ritual, starting on the eighth of the waxing (fortnight), or starting on the tenth, thirteenth or fourteenth, through the fifteenth. The part of the ground that is still in unmodified state should be swept and smeared with cow dung, after which he should repeat (the mantra of) Vajrasattva in the aforementioned way,<note>This refers back to the end of the previous section (<hi rend="italic">vajrasattvaṁ śatākṣaraṁ ca saptaśa āvartayed iti</hi>).</note> while touching (the ground) with the hand. Then he should carry out the entire ritual. Or he should do it starting on the morning of the full-moon day. But on the day of entering the maṇḍala the master together with the disciples should fast. </p>
+
+<p>In this context, first he should take position in the middle of the maṇḍala ground and carry out the self-protection as well as the smashing of obstacles, etc. Then with the Vajracakrā (<foreign>mudrā</foreign>) he should mete out the maṇḍala, and execute (<foreign>niṣpādya</foreign>) the taking of the vow preceded by obeisance, etc.,<note>On <foreign>praṇāmādika</foreign>, see Ādiyoga, Takahashi translation §19, catuṣpraṇāma. See also Tanemura 2004: 295 n. 218.</note> the great Yoga,<note>See MSK §25 and §27. <foreign>mahāyoga</foreign> means to empower body, speech and mind.  See GuSaMaVi 320–321: <foreign>kāyavākcittasaṁsiddher yāś cānyā hīnajāḥ smṛtāḥ | sidhyante mantrajāpāt tu kāyavākcittabhāvanaiḥ || yaduktaṁ | vajraṁ tattvena saṁgṛhya ghaṇṭāṁ dharmeṇa vādya ca |
+samayena mahāmudrām adhiṣṭhāya hṛdā japed iti ||</foreign>.</note> (and the visualization of) the storeyed palace and the seats, after which he gladdens himself while he sits in <hi rend="italic">sattvaparyaṅka</hi>.
+</p>
+<p rend="stanza">
+	<seg rend="check">Today/Now</seg> my birth is fruitful! And my life is fruitful! I will become the equal of the Pledge Buddhas — no doubt!<note><seg rend="check">We need to record the parallel in KSP 6.3.2. Also in Nāgabodhi's Viṁśatividhi. Bhūtaḍāmara initiation manual in Göttingen</seg>.</note>\\
+	I will become a non-returner solely concentrated on the conception of awakening!<note>Harunaga Isaacson points out that the expression <foreign>ekacetana</foreign> would be most suitably combined with <foreign>bodhicitta</foreign>, and some parallels (<seg rend="check">LIST</seg>) for this verse indeed read <foreign>bodhicittaikacetanaḥ</foreign>; nevertheless, the reading found in our manuscript is also well attested (<seg rend="check">LIST</seg>). Isaacson suggests that <foreign>bodhisattva</foreign> may be conceived as an equivalent to <foreign>bodhicitta</foreign>, on the basis of <seg rend="check">TEXTUAL EVIDENCE</seg>. See also Tanemura 2004: 275.</note> <seg rend="check">Today/Now</seg> I will have a birth in the Buddha family — no doubt!\\
+	This is the best day for me. My worship <seg rend="check">today/now</seg> is unsurpassed! My encounter <seg rend="check">today/now</seg> is the best, because of (my) invitation of all Buddhas!
+</p>
+	
+<p>Then he should prostrate with all limbs, and should invite all Buddhas with an incence pot in his hand.</p>
+	
+<p rend="stanza">
+	Let the Buddhas situated in all directions pay heed to me! I, named N.N., the vajra-bearer, fashion the maṇḍala. Let all Buddhas, etc., come forth! May you grant this accomplishment!
+</p>
+
+<p rend="noindent">Having said this, the yogin performs the initial yoga, the (meditation named) supreme maṇḍala king,<note>See KSP 6-2-11 <hi rend="italic">Maṇḍalarājāgrī nāma samādhiḥ</hi>. Consult Candrakīrti's Vajrasattvasādhana (ed. Tomabechi); maybe in Tomabechi's thesis there is discussion.</note> the (meditation named) supreme action king, and once again opening the gates<note>This refers to SVU §15: <foreign>tato yāvad dvārodghāṭanaṁ kr̥tvā śrīvajrasattvamahāmudrāṁ baddhvā</foreign>.</note> he stands in the place of Vajrasattva,<note>According to PDS, this means the center of the maṇḍala.</note> with the great <foreign>mudrā</foreign> of Śrī-Vajrasattva,<note>The <foreign>mahāmudrā</foreign> is described in the passage, lost in Sanskrit, that is given in Takahashi's translation, §24. See also his §39–40, suggesting that it is connected with <foreign>āveśa</foreign>.</note> utterly devoted to reciting His mantra, is to be solicited by means of the one-hundred-and-eight names<note>See STTS.</note> by all assistants (<foreign>uttarasādhaka</foreign>), who are endowed with the self-identification of (the respective subordinate) Tathāgatas,<note>I.e., visualizing themselves as the retinue of Tathāgatas surrounding Vajrasattva. PDS suggests conjecturing <foreign>-tattattathāgata-</foreign> (KSP <foreign>śiṣyaiḥ svasvacakravartiyogavadbhir yathāyogavajraghaṇṭādhāribhir</foreign>.</note> for the marking of the great maṇḍala.</p> 
+
+<p>Then he should arise,<note>PDS: Does this mean that <foreign>vyavasthita</foreign> in the preceding sentence means `sitting'? But <foreign>utthā</foreign> is also a technical term for end of <foreign>meditation</foreign>.</note> make reverence to the feet of all Tathāgatas and observe that the sky is filling up with all Tathāgatas.<note>Bhūtaḍāmara has the reverse order — first Tathagatas filling the sky, then the worship of their feet —</note></p>
+
+<p rend="stanza">
+	I alone am myself the vajra bearer! I myself am Vajrasattva! I am the great king Buddha! I am the powerful vajra-bearer!\\
+	I am the king Lord of yogins! I am the resolute Vajrapāṇi! I am the lord with the great vajra, who does not abandon empowering!<note><foreign>adhiṣṭhānaṁ na riñcati</foreign> is a set phrase in several Buddhist texts; the whole passage displays scriptural language.</note></p>
+
+<p>Then he should place (the mantra) \mantra{vajradr̥ṣṭi maṭ} on the eyes, should mete out a crossed vajra on the soles of his feet with the syllable \mantra{aḥ}, should form the pledge <foreign>mudrā</foreign> of his own (deity)<note>Presumably Vajrasattva.</note> and cause that maṇḍala to arise in the sky above (pronouncing) \mantra{o vajra, arise}.</p>
+
+<p>Then he once empowers his own self with that pledge <foreign>mudrā</foreign> of his own (deity) and again forms the great <foreign>mudrā</foreign> (of Vajrasattva).<note>See just above <foreign>śrīvajrasattvamahāmudrayā</foreign>.</note></p>
+<p rend="stanza">
+Arising in the same way, remaining with the <foreign>mudrā</foreign>, looking down in all directions, he should stride around with (the deity's) <seg rend="check">self-confidence</seg>, reciting (the mantra of) Vajrasattva.
+</p>
+
+<p rend="noindent"> With the vajra-eye he should bind the maṇḍala with boundary markers in the directions, should erect a wall enclosure with the soles of his feet, while making the earth (hard) as a vajra up to the top of Sumeru, should again carry out the smashing of obstacles, etc., and should draw the secret-shaped maṇḍala with this (mantra) joined with <foreign>mudrā</foreign>: \mantra{om̐ vajramaṇḍala hūm̐ jaḥ}. The <foreign>mudrā</foreign> that draws the entire maṇḍala with the vajras of the index and the thumb in the two vajra-fists is called Vajracakrā. \mantra{om̐ great vajracakrā empower <seg rend="check">cause success</seg>%apply standard translation of siddhya throughout text
+ hūm̐}: with this (mantra-goddess) he again empowers the maṇḍala. The <foreign>mudrā</foreign> of this (mantra-goddess) is Vajrahetukarmamudrā.
+</p>
+<p>Then the vajra-stakes of <foreign>khadira</foreign> (wood) are to be driven into the four corners of the maṇḍala with the vajra. They are consecrated one-hundred-and-eight times with this heart: \mantra{om̐ vajra stake peg down all obstacles hūm̐ phaṭ}. Or he takes takes a five-pronged vajra with his left vajra-fist and, while intoning the syllable \mantra{hūm̐}, he fashions five stakes, at the four corners of the maṇḍala and at the maṇḍala's navel, after which he drives them down with his right hand made into a three-pronged vajra, while intoning this (mantra): \mantra{om̐ gha gha smash smash all evils phaṭ, peg down peg down all sins phaṭ, o vajra-stake, the Vajra-bearer commands svāhā}.</p>
+
+<p>Then he places the sprinkling jar, consecrated with the <seg rend="check">Vajrayakṣa (mantra)</seg>, in the doorway of the maṇḍala, strengthens <seg rend="check">all protections</seg><note>Em. sarvarakṣā (acc.pl.)?</note> with the Vajramuṣṭikarmamudrā and covers it with the Vajrakavaca (mantra). And so its is said:</p>
+
+<p rend="stanza">
+And he should make the Vajra-fist which is a procedure for binding (<foreign>bandhayoga</foreign>). But in a maṇḍala he should cover all protections <seg rend="check">with</seg> the Vajrakavaca.<note>Em. rakṣā sarvās tu? Em. -kavacena? The pāda could have been pronounced originally with 2x kava was ko.</note></p>
+
+<p>He should sit back down in the middle of the maṇḍala, arrange the entire maṇḍala in his mind, smear all places<note>Text has singular for plural.</note> in the maṇḍala with paste, and make small square maṇḍalas with sandal, saffron, etc., in the places of the five Tathāgatas. In the other (places) round ones. And they are consecrated seven times with their respective own mantras.
+</p>
+<p>Then from the sky-region he should draw (them) with the Vajra-hook, etc., make (them) enter, bind and subdue (them). In these (places) he makes the Tathāgatas, etc., settle down with their own hearts and worships them with five services.
+%HI and PDS find the sentence clumsy. Haru suggests original sentence was tato teṣu tathāgatādīn niveśya ..., and that vajrāṅkuśādibhir ākṛṣya praveśya baddhvā vaśīkṛtyākāśadeśāt was added secondarly to explain.</p>
+
+<p rend="stanza">
+Over the jar for unction, that is full of all rice grains, etc., he scatters a drop of water consecrated with (the mantra of) Vajrasattva.
+	He should incubate<note>Harunaga Isaacson points out that this verb is used also by specialists of ancient mediterranean religions in a sense like the one we need here. See https://en.wikipedia.org/wiki/Incubation\_(ritual).</note> it according to precept, after giving <foreign>argha</foreign> with perfume water. He should also scatter flowers and incubate them with incense. On another day, at the three nodes, he should properly consecrate it. With it, when it is consecrated again, he should carry out the unction in the maṇḍala. And eminent men should know its charactistics, that will be stated.
+</p>
+
+<p>And this (jar) is to be placed in front of Śrī-Vajrasattva.</p>
+
+<p>Then he should make one-hundred-and-eight oblations of ghee, etc., with each of (the mantras of) Vajrayakṣa, Vajrasattva, and Buddhalocanā.<note><seg rend="check">Add explanation of what these mantras are. On Buddhalocanā, see Susiddhikarasūtra, Giebel 2001: 130. Mañjuśriyamūlakalpa ed. Vaidya p. 310.</seg></note></p>
+
+<p><seg rend="check">So goes</seg> the ritual of oblation for incubation.</p>
+	</div>
+<div type="subchapter"><head type="editorial">Ritual of incubation</head>
+<p>Then he should give an external offering (to the demons outside the maṇḍala), does the <foreign>upasparśana</foreign>,<note>Cf.~VĀ p. 318.</note> offer praise<note>Is this praise of the initiands who are equal to Vairocana, or is it Vajrasattva as equal to Vairocana? See STTS §196, etc.</note> with the one-hundred-and-eight names,  worship Sarvatathāgata<note>Or is the idea that the disciples are being worshiped, each individually, as Sarvatathāgata = Vairocana?</note> with flowers, etc., and with dancing, etc.,<note>PDS asks: are Puṣpā and Lāsyā pūjā deities?</note> pay obeisance and incubate the disciples.</p>
+
+<p>In that context, the disciples, being well bathed,<note>AmoghapāKaRā: asya vidyāyā ayam upacāravidhinītisamayavidyādhareṇa śucir bhūtvā <hi rend="bold">susnātaśucivastra}dhāriṇā bhavitavyam.</hi></note> wearing clean clothes, and bearing flowers in their hands,<note>SDPT: punaḥ puṣpakareṇa śiṣyeṇācāryaṁ <hi rend="bold">puṣpakareṇaiva</hi> deśanānumodanādhyeṣaṇāyācanāṁ ca kṛtvā vaktavyam.</note> should first pay obeisance to the master and say the following:</p>
+
+<p rend="stanza">
+O greatly beloved one, you are my instructor! I wish, o great protector, (to be initiated into) a resolute Bodhisattva method. Give me the pledge, the reality,<note>Or read samayatattvaṁ? See occurrence of same stanzas on p. 52.</note> and give me the conception of awakening! Give me the triple refuge: Buddha, Dharma and Saṅgha. O protector, make me enter the excellent city of great release!
+</p>
+
+<p>Then he should cause them to carry out the confession of sins:</p>
+
+<!--% kṛpayā1 parītta2mānasa3mānagha4matiṁ sa5kalakā6yahatamoham /
+% kṛpayā1 parītta2mānasa3managhama4tiṁ saka5lakāya6hatamo7ham /
+%pratividhy1a kṛpā2mūlaṁ3 bodhau4 saṁve5danaṁ bi6bharmy asam7am
+%saugata1mantravi2viktaṁ3 | satatam a4nābho5gavāhi6sāmājy7am· |
+%prāpayi1tum eva 2teṣāṁ3 jagatāṁ4 sthito 'ham5 a6dhunā vidiveha 
+%prāpayi1tum aśe2ṣajagat3 sthito 'ham4 adhunā5pi6 diveha 
+%MS reads:		prāpayitumeśajatāṁ sthito ham adhunā vidiveha
+%emended:		prāpayitum aśeṣajagat sthito 'ham adhunāpi diveha-->
+
+<p rend="stanza">
+Listen, (you who are) intent on good thoughts,<note>Or em. <foreign>nityaṁ</foreign> as in SHKM?</note> having fully eradicated all conceptualizations.<note>SHKM 5cd: <foreign>śṛṇu bhadrāśayan nityaṁ samyak saṅhṛtya kalpanāḥ</foreign>.</note> Our dispersed mind is controled by the Sugatas beginning with Vajrasattva.\\
+	What bad I have done, rejoiced in, and caused to be done, (even) unwittingly — all of it do I now confess before the one of best awakening.\\
+	I constantly rejoice in the two requisites (of awakening) of the Sugata and (his) sons<note>Jnānapāda, Samantabhadra, st. 16; ed. Tanaka.</note> that are of unfathomable depth, that effect the benefit of the whole world — and also in those belonging to others.\\
+	I approach as refuge the Sugata, at the middle of the lotus which is his whole family, who out of compassion cut round mental processes (? <foreign>mānasa</foreign>), who is (himself) of faultless thoughts, who slays delusion with all his bodies.\\
+	I approach as refuge the Dharma, a park for those (Buddhas) of best intelligence and a forest for Conquerors (i.e., Jinas) because of its fearfulness to inferior (creatures), capable of deconstructing (<foreign>vibhāvanā</foreign>) the power of (bound) existence.\\
+	I approach as refuge the throng of ascetic-lords, praised for their departed state, who beat the poisonous snakes of passion and so on, whose minds are of broad compassion, whose intelligence is wide awake.\\
+	With regard to awakening do I bear an unparalleled <seg rend="check">premonition</seg> (<foreign>saṁvedana</foreign>), after having penetrated to the root of (the tree of) compassion, that has destroyed the enemy with the power of its own fruit which is the object of the sense organ which is the chain of causality.<note>Mahāyānasūtrālaṁkāra 17.36. RT suggests samanantara is a technical term of abhidharma.</note>\\
+	I should give all of this (here in my possession) as though it were mere grass, etc., for the ripening of creatures, or also for (their) protection (and) for purifying my own mind.\\
+	Thus should I cultivate (the perfection of) conduct, forbearance, heroism, meditation, and ultimate wisdom, as I continually strive for the purification of self and others.\\
+	I am now, here and by day, present to make the whole world reach a permanent state of effortless  <!--%BHSD on anābhoga
+-->	community,<note><seg rend="check">We need a note on <foreign>sāmājya</foreign> as Buddhist counterpart of Śaiva <foreign>sāyujya</foreign>, etc.</seg></note> distinguished by the mantras of the Sugatas.
+</p>
+
+
+<quote>	And by this root of merit, thus acquired, %BHSD on samudānayati
+	 may I become one who reliquishes all property. With regard to all beings may I generate equanimity. May all beings be guided by me with all vehicles having every multitude of means, and established in the unestablished <foreign>nirvāṇa</foreign> sphere. May I generate the thought that even after causing the <foreign>nirvāṇa</foreign> of all beings, not a single being has been caused to reach <foreign>nirvāṇa</foreign>. May I keep in mind the fact that not a single entitiy has an arising. And with the undispersed thought of one who has the knowledge of omniscience may I train in the six perfections. May I keep in mind the accomplishment of a single vehicle and its system.<note><seg rend="check">Does <foreign>nirhāra</foreign> simply function as a plural marker, or does it have a meaning like `production' as indicated in BHSD? Gaṇḍavyūha: nānāyānanayanirhāraprabhavā ... Do we have here the idea of ekārthatva of various yānas?</seg></note> May I train for production and comprehension thirty-seven factors conducive to awakening. May I make effort toward comprehension of the ten powers, the (four) confidences (<foreign>vaiśāradya</foreign>), the (four) special knowledges (<foreign>pratisaṁvid</foreign>) and (eighteen) particular Buddha characteristics (<foreign>āveṇikabuddhadharma</foreign>). Thus may I exert myself up to the production of absolutely all Buddha characteristics.
+	
+	This is the vajra-like great production of the conception of awakening of Bodhisattvas. It is the father of all Tathāgatas, it carries out the command of all Tathāgatas,<note>Or: it commands all Tathāgatas.</note> it is the eldest son of all Tathāgatas, it is the lord Samantabhadra. Thus, being firmly established in this (previously described) resolve (<foreign>cittotpāda</foreign>), may I join the entire mass of people who are susceptible to conversion with the realization (<foreign>niṣpādana</foreign>) of the accomplishement (<foreign>nirhāra</foreign>) of endless entry points (<foreign>mukha</foreign>), technically named Samantabhadracaryā and lacking any established limits, after having won them over, gladdened, and encouraged them by displaying a variety of practices which permit many entry points in accordance with the power of merit-roots that I have accumulated.
+</quote>
+
+<p>Then, while reciting \mantra{o pledge aḥ}, he should mete out a lunar disc at the heart of the disciple, and atop it a five-pronged
+</p>
+<p rend="stanza">
+vajra should be (mentally) established at his heart, with the heart: \mantra{o beloved one, you are the pledge hoḥ! o vajra realize whatever is desired}!<note><seg rend="check">Add note on surprising fem. voc. form <foreign>surate</foreign></seg>. Cf. sumate in stanzas in §<seg rend="check">3.8.1.2</seg>. That section contains another occurrence of this same stanza</note>
+</p>
+
+<p>And on the head, after placing (there his) hand that has been immersed in fragrant water, he should visualize (another) vajra while repeating the (mantra of) Vajrasattva. On the forehead (he should visualize) a vajra-jewel transformed from the syllable \mantra{trām̐} atop a moon (disc); on the throat a vajra-lotus transformed from the syllable \mantra{hrīḥ}; on the top of the head a crossed vajra transformed from the syllable \mantra{kam̐}. He should pronounce \mantra{o vajrasattva! o vajraratna! o vajradharma! o vajrakarma!}<note>heart-pañcasūcikavajra (Vairocana) / head-vajra-Vajrasattva (Akṣobhya) / forehead-vajraratna-Vajraratna (Ratnasambhava) / throat-vajrapadma-Vajradharma (Amitābha) / mūrdhan-viśvavajra-Vajrakarma (Amoghasiddhi).</note> He should empower (the disciples) each in his own heart, etc.<note><seg rend="check">Emend uccārayan and svasvahṛdayādiṣu?</seg> Presumably all items are to be visualized stand atop a moon disc, although this is expressed only in the first and third case.</note>
+Then with recourse to Vajragandhā he should place fragrant paste on their hands; with recourse to Puṣpā (he should place) flowers; with Dhūpā he should incense them; with Dīpā he should give them lamp-light. He should give (each one) a tooth stick, consecrated with (the mantra of) Vajrahāsa, twelve inches long, of Udumbara or Aśvattha wood, smeared with fragrant paste and with a flower tied to its tip. And right at the (other) tip they should chew (each on his own stick) facing East or North.
+</p>
+<p>And after giving fresh<note>We were initially tempted to emend <foreign>pratyagagrān</foreign>, because on the Brahminical tradition kuśas are typically <foreign>prāgagra</foreign> (cf. Griffiths &amp; Sumant 2015), but <foreign>pratyagagra</foreign> is only very rarely attested in any branch of Sanskrit literature, while the Bhūtaḍāmara manual supports <foreign>pratyagra</foreign> here, as does Tib.</note> blades of Kuśa grass consecrated with (the mantra of) Vajratīkṣṇa he should say: `Make a bed with these by scattering all but one on the ground and placing one on the head.'</p> 
+
+<p>Consecrated with the (mantra of) Vajrarakṣā,</p>
+
+<p rend="stanza">
+furnished with three knots, a thread should then properly be bound on the left hand by himself.
+</p>
+
+<p>Then, after encouraging and gladdening all (disciples) with an instruction, according to (their) ability, into the deep and vast Dharma (sea), he should say: `Arise, handsome faced ones: tomorrow you will see the great maṇḍala!'</p>
+
+<p>So goes the ritual of incubation.</p>
+</div>
+<div type="subchapter"><head type="editorial">Ritual of delineating</head>
+
+<p>Then, at the time of sunrise, in the same way<note>This refers to what was done in the Adhivāsanahomavidhi; <seg rend="check">REF</seg>.</note> he should impose that maṇḍala onto the sky above and delineate it. </p>
+
+<p>In this connection, he should first place the individual threads colored with fragrant blue, yellow, red, green and white pigments, in this very order. 
+</p>
+<p>He should impose Akṣobhya, etc., onto the threads with these seeds belonging to them: \mantra{hūm̐ <seg rend="check">traḥ</seg> %or emend tra;m/trā;m? cf. preceding chapter
+ hrīḥ aḥ āḥ}, should impose \mantra{o aṅkuśi with radiating gaze jaḥ}<note>This mantra already in STTS §370. Check Tanemura 2004: 141-2, 240-241. KSP places jaḥ onto the eyes.</note> onto the two eyes with a gaze of the eyes that attract with quickly fluttering eye-lashes,<note>Silent quotation of STTS.</note> and should instigate Akṣobhya, etc.,  while pronouncing this (sentence): `May the Lord offer me the vajra-thread in order to delineate the great maṇḍala!'.</p>
+ 
+<p>Then he should fill those threads with the light threads sent forth by Akṣobhya, etc., from their own seeds and placed in his own hand after having been attracted by the radiating goad.</p>
+ 
+ <p>And while reciting `All entities are in mutual succession! All entities are mutually dependent! All entities are absolutely dependent! \mantra{om̐ vajrasattva hūm̐}!', he twists them into a (single) twine,<note>Tib. suggest a form like valayet, with <foreign>saṁvartya</foreign> at the beginning of the next sentence, translating both by the same verb. This does not look convincing. Parallel texts only have forms derived from <foreign>valayati</foreign>; the dictionary meanings for the noun <foreign>valaya</foreign> are not suitable to the context. We tentatively suggest the noun was here intended in the unattested meaning `twine'. An alternative would be to remove one of the two words <foreign>valaye saṁvartya</foreign> from the text as gloss of the other (which would imply that <foreign>valaye</foreign> is an error for <foreign>valayya</foreign>, itself a <foreign>lyap</foreign> form instead of <foreign>ktvā</foreign>).</note> after which he visualizes the sun and the moon, transformed from the syllables \mantra{ma} and \mantra{ṭa}, in his right and left eyes, stabilizes them with \mantra{o vajra gaze maṭ}, places that thread in a vessel of gold, etc., smeared with fragrant paste and worship it with fragrance, flowers, and incense.</p> 
+ 
+<p>He takes hold of it with the Vajrabandha (<foreign>mudrā</foreign>) and consecrates it a hundred and eight times with \mantra{om̐ do not transgress the thread which is the vajra pledge hūm̐}.</p>
+
+<p>Then with recourse to (the mantras of the) sixteen Bodhisattvas<note>Add note on them.</note> he once again smears the maṇḍala ground with fragrant paste, decorates it all around the outside with flowers, gives <foreign>argha</foreign> to all the families (of the five Tathāgatas) present in the sky, worships them with recourse to Puṣpā, etc., and to Lāsyā, etc., pays obeisance, visualizes the yellow-colored sun and  moon in his left and right eyes as transformations of two syllables \mantra{jaḥ}, and fashion the maṇḍala to the accompaniment of song and sound (i.e., music) offerings.</p>
+
+<p>In that connection, first he makes the thread wet with white fragrant paste over whose colorant the mantra (i.e., \mantra{āḥ}) has previously been pronounced.<note>This refers to the beginning if the chapter.</note> Then he pronounces \mantra{o vajradhātu}<note>The form <foreign>vajradhātu</foreign> is an Ārṣa vocative; see STTS §<seg rend="check">XX</seg>.</note> only in his mind, with the vajra-voice,<note>ADD note on this.</note> and after becoming Vairocana he turns the assistant into a form of Vajrakarma while pronouncing (the mantra) \mantra{o vajrakarma} (emitted) from his own heart.<note>See STTS §114.</note> Then he visualizes himself as Vajrasattva while pronouncing the (mantra of) Vajrasattva, takes that thread with his left hand in Vajramuṣṭi (<foreign>mudrā</foreign>) and with the syllable \mantra{jaḥ} sends forth that assistant in the form of Vajrakarma who holds (the other end of) the thread in his hand, after which, in order to convey (the maṇḍala) to symmetry, he should face East and lay down the (first) brahmā-thread.<note>ADD note on this.</note> Next, standing in the South and facing North, the master (should lay down) the second. Then, standing in the Southeast, facing North, (he should lay down) the Eastern thread of the outside of the maṇḍala. Standing in the Northwest, facing South, (he should lay down) the western thread. Standing in the same place, (he should lay down) the northern thread. Standing in the Southeast again, (he should lay down) the southern side thread. And so also delineation of the platform. Standing in the southeastern corner again (he should lay down a thread) up to the northwestern corner. Standing in the Southwest, he should lay down (a thread) uo to the northeastern corner. And the movement of the master and the assistant is in pradakṣiṇa procedure. In that connection, there is this delineation mantras: \mantra{om̐ do not transgress the thread which is the vajra pledge hūm̐}. With three \mantra{jaḥ} syllables, i.e., with \mantra{jaḥ jaḥ jaḥ}, the assistant should perform the thread drawing.<note>See Tanemura 2004: 146.</note></p>
+
+<p>And the gates are an eighth part (of the length of a side). The projections of the gates have the measure of the gates. The completely internal and the completely external platforms measure half of the gates. The ground for five-colored powder measures half of the platform. The gateway should be made three times (the measure of) the gate.</p>
+
+<p>He should delineate the inner maṇḍala (measured) by half of the outer maṇḍala, is square, has four gates, is enclosed by a platform and has eight pillars. After this he should consecrate as before with the stake-mantra a stake of Khadira (wood) which at the bottom has the shape of a single-pronged vajra, and at the top the shape of a five-pronged vajra, and drives it into the navel of the maṇḍala with a vajra. After this, with the thread hanging from it, he should delineate the garland of vajras outside of the inner maṇḍala starting in the Northeast and proceeding in pradakṣiṇa. And the thread is double the length of the maṇḍala; in thickness (<foreign>pārimaṇḍalya</foreign>) it is to be made as thick<note><seg rend="check">Or as long?</seg></note> as the (master's) little finger, in the case of a six-cubit (maṇḍala) and suitably (thicker) in other cases.<note><seg rend="check">See parallel passage in Rajaḥpātanavidhi.</seg></note>
+</p>
+<p>Now the delineation if expressed in the words of scripture:</p>
+
+<p rend="stanza">
+The wise one should delineate a nice maṇḍala with a new thread, that is as well applied, as well measured and as beautiful as possible:\\
+He should delineate the external maṇḍala that is square, four-gated, adorned with four gateways, prepared with four threads<note>Brahmasūtra, pārśvasūtra, ...?</note>, adorned with fillets and wreaths, and inlaid at all its corners and angles of door projections with vajra-jewels.\\
+Having entered its inner city that resembles a wheel, circumscribed with a thread of vajra, and adorned with eight pillars, the wise one should delineate (the interior) maṇḍala, conveying it to symmetry, with eight maṇḍalas (within it, separated) by four threads (running in pairs from East to West and North to South).<note>Cf. the Trailokyavijayamaṇḍala shown in Mori 1997: 93, fig. 29.</note></p>
+
+<p>And on both outer and inner platforms are to be drawn full and half pearl-garlands, fly-whisks as well as lunar and solar orbs. In all corners of the maṇḍala are (to be placed) banners with colorful tips from which dangle bells that are fluttering in the wind.<note>Cf. Adhyardhaśatikā PP.</note>On them and on the angles of the door-projections he must draw vajra-jewels with brilliant rays on the crescent moon as base.</p>
+</div>
+
+<div type="subchapter"><head type="editorial">Ritual for defense against obstacles</head>
+
+<div type="section"><head type="editorial">Defense against obstacles</head>
+<p>If he wishes to perform a defense against obstacles, he should peg down in this manner all obstacles with stakes that are like the mentioned one standing at the navel of the maṇḍala and have been empowered a hundred and eight times with the stake-mantra<note>What is this?</note> that has (previously) been muttered a hundred thousand times: having delineated the circular light-orb for the external maṇḍala in pradakṣiṇa with the string that hangs from the mentioned stake standing at the navel of the maṇḍala, he should delineate in the same circular manner the  mountainrange beyond it.
+	On that light-orb, with soil from an anthill, he should make effigies of the obstacles, first among which being the gods, and fashions a yellow Śakra transformed from the syllable \mantra{ī} in the Śakra effigy placed in his proper direction; in the same way, in the effigies of Agni, etc., a red Agni transformed from the syllable \mantra{ram};
+	a black Yama, with \mantra{aham};
+	a black ogre, with \mantra{kram};
+		a white Varuṇa, with \mantra{vam}; 	
+		a grey Vāyu, with \mantra{yam};
+			a yellow Kubera, with \mantra{phaṭ};
+				a white Īśāna, with \mantra{sumbha}.
+				After this he should attract them, cause them to enter, bind them, take control of them with the (four mantra-mudrā deities) Vajrāṅkuśa, etc., and pegs them down.</p>
+</div>
+<div type="section"><head type="editorial">Total defense against obstacles</head>
+<p>He who wishes to effect complete freedom from obstacles should cover them with soil. If in this condition (<foreign>evam</foreign>) they [still] pose obstacles, he should immerse himself in [the deity]
+Vajrahūm̐kāra and attract them with the (mantra called) Ṭakki-king, or should (as above) do the attraction, etc., with Vajrāṅkuśa, etc., and then should bind the (<foreign>mudrā</foreign> of) Vajrahūm̐kāra<note>I.e., Trailokyavijaya.</note> and step on the effigy of the obstacle with his left foot. Employing the relevant intercalation (<foreign>vidarbhaṇa</foreign>)<note>On this technical term, %see Tantrasadbhāvasāra (ed. Sanderson?) siddhibhāk sādhakaf proktaḥ yeṣu yad uktaṁ bījaṁ vidarbhaṇādyeṣu  yatra tatraiva  vacmy avatāraṁ tāvac chaktīnāṁ; Īśānaśivagurudevapaddhati 5.5; also Netratantra. Check TĀK. Padoux, Studies in Mantraśāstra, p. 98.
+Padoux 1977.</note> for \mantra{hūm̐ vam̐ hūm̐},<note>The example is the one to be used in case the obstacle is Varuṇa. For the connection between Varuṇa and clouds, see Lalitavistara (ed. <seg rend="check">XX</seg>) <foreign>tatra varuṇaś ca nāma nāgarājo manasvī ca nāgarājaḥ sāgaraś ca nāgarājo 'navataptaś ca nāgarājo nandopanandau nāgarājāv evam āhuḥ – vayam api bodhisattvasya pūjākarmaṇe kālānusārimegham abhinirmāya uragasāracandanacūrṇavarṣam abhivarṣayiṣyāmaḥ</foreign>.</note> etc., he should stand in reverse archery stance, and while <seg rend="check">repeatedly</seg> casting that <seg rend="check">seal</seg> in the direction of (an obstacle) such as a cloud, he should visualize that the clouds, etc., are being burnt to ashes by Vajrahūṁkāra who shines like dense blazing fire expanding high in the sky and kicks [the effigy] with his foot. In this way they are struck down.<note>The preceding paragraph was translated somewhat differently in Griffiths 2014: 178, on the basis of the edition princeps which has a few different readings.</note>%One who wishes to effect complete freedom of obstacles may cover them with soil. So also if they pose obstacles (despite having been pegged down), he should reach meditative union with Vajrahūm̐kāra , attract them with (the mantra called) Ṭakki-king, perform</p>
+</div>
+<div type="section"><head type="editorial">Defense against a wind obstacle</head>
+<p>Then there is defense against a wind obstacle. He should realize the meditation on emptiness,<note><seg rend="check">How does this work?</seg></note> immediately become Vairocana transformed from the syllable \mantra{a}, i.e., visualize the form of Vairocana that is stated in scripture,<note>This clause might be a marginal gloss that made it into the text at some point.</note> mentally emit from his own heart (the god) Ārya-Acala transformed from the syllable \mantra{hāṁ} and, while mentally pronouncing (the mantra) \mantra{o vajra hāṁ bind} he makes a heptad of drops with fragrant paste in the northwestern corner on the outside of the outer maṇḍala. After this he fills the individual drops with the syllable \mantra{ya} and in the middle (he inserts into the drop) a seventh syllable \mantra{ya} furnished with a drop. These seven drops are to be imagined as the seven deer-borne black-colored winds, brought forward and bound by Ārya-Acala with his noose. And in the middle one of them is the leader, while the others take position all around protecting him.<note>This sentence gives the appearance of being redundant, and might be an old marginal note beginning with <foreign>madhye ca</foreign> as lemma for the preceding sentence <foreign>madhye ca saptamaṁ yakāraṁ binduyuktam ete ca sapa bindavaḥ ... baddhāś cintanīyāḥ</foreign>. This would also help to explain the presence of <foreign>iti</foreign>.</note> Then he visualizes a dish as Meru transformed from the syllable \mantra{ā}; on top of it an earth-disc (is to be visualized) that is transformed again from the syllable \mantra{ā} and covered everywhere with vajras; and in the middle a five-pronged vajra that is inseminated with the syllable \mantra{hūm̐}. <seg rend="check">And</seg> in the corners he should visualize tridents and, proncouncing \mantra{o vajra hāṁ bind} in the same way with that dish he should cover that aforementioned heptad of drops.<note>The group of seven drops is weighed down with heavy items.</note> Then he should visualize the aforementioned Lord Vairocana transformed from the syllable \mantra{a} above the Meru dish, and should imagine Ārya-Acala who, after resting on the mountain with his archery stance, bears sword and noose in his hands and threatens the (seven) winds. In this way the binding of all winds is brought about.</p>
+</div>
+<div type="section"><head type="editorial">Defense against an obstacle of water, etc.</head>
+<p>Then there is defense against an obstacle of water, etc.<note><seg rend="check">Water, fire, ...</seg>.</note> He should visualize himself as Ārya-Acala transformed from the syllable \mantra{hām̐} standing on wind and fire discs; should make an effigy of the obstacle with soil from an anthill or unfallen cow dung; should produce a sword that is transformed from a syllable <foreign>khaṁ</foreign> (in Acala's hand) and enveloped in fire (emerging) from a <foreign>repha</foreign>;<note>This here means the syllable \mantra{raṁ}.</note> should produce a noose <seg rend="check">made of Kuśa grass</seg>,
+<note>Is this reading correct? Cf. MMK <foreign>athāṅkuśaṁ sādhayitukāmaḥ, kuśamayam aṅkuśaṁ kṛtvā</foreign>. But STTS atha bhagavān vairocanas tathāgataḥ punar api sarvatathāgatasamayāṅkuśasamayasaṁbhavavajraṁ nāma samādhiṁ samāpadyemaṁ sarvatathāgatasarvamudrāgaṇapatiṁ svahṛdayān niścacāra // ( 1,94,178), so perhaps <foreign>pāśam aṅkuśamayam</foreign>? (Maybe -<foreign>maya</foreign> can mean `endowed with': cf. SVU §36 <foreign>bhūmitalam upādāya sumerupṛṣṭhaṁ yāvad vajramayaṁ kurvan</foreign>.) <foreign>pāśam aṅkuśasahitam</foreign>?</note>  take it in the left hand, and the sword in the right. After this, he should attract (the obstacle) with the noose, make it enter the effigy, adopt the archery stance and press (the obstacle) down on its head, while pronouncing this (mantra): \mantra{obeisance to all vajras! o great fearsome anger, burst hūm̐ traṭ hām̐ mām̐}.
+</p>
+<p>Or he should split its effigy with the sword. Or he should smear its effigy with black mustard seeds<note>On the meaning of rājikā, see Bisschop &amp; Griffiths 2007: 16, n. 43.</note> that have been drenched in poison and burn it with fire.
+</p>
+<p rend="stanza">
+If burned with fire and (previously) smeared — no doubt — even Brahmā, even Śakra, burns quickly, in an instant!\\
+Thus spoke the Lord Vairocana.<note>This sounds like the style of the Vajraśekhara cycle. Source not yet traced.</note></p>
+
+<p>And one should carry out the ritual after a ten-thousandfold service of this mantra with meditative immersion into Ārya-Acala.</p>
+
+<p>Or he should visualize Ārya-Mañjuśrīyamāntaka transformed from this (mantra) \mantra{om̐ āḥ hūm̐}, black, six-legged, four-faced, four-armed, bearing sword and axe in his right hands, bearing noose and pestle in his left hand, facing south and filling the sky with (his) wrathful hordes, after which he should make the trident gesture and apply it with hurling gestures for defense against clouds, etc. The trident gesture is <seg rend="check">a sharp angle</seg> of the two index fingers while holding the palms in vajra-bind.</p>
+</div>
+<div type="section"><head type="editorial">Optional ritual</head>
+<p>And if, even so, there is no <seg rend="check">quelling/weakening/diminishing</seg> of the obstacles, he should write the mantra inside two plates of unbaked clay with blood, charcoal from a pyre, and juice of the intoxicating leaves<note>check meaning of unmattakapattra. Possibly name of a specific plant?</note> of poisonous mustard (<foreign>viṣarājikā</foreign>).<note><seg rend="check">Occurrences in HeTa, Brahmayāmala, etc. Check meaning</seg>.</note>, after which he should place mustard seeds (<foreign>siddhārtha</foreign>) over which the mantra has been muttered a hundred-and-eight times in the space between those two plate, gaze at the obstacles fire, etc., [symbolized by the seeds inside] and make a hundred or seven offerings. Then they disappear, or die, or are taken by non-humans.</p>
+
+<!--%vajrahūṁkārayogeṇa vā hūṁkāraṁ lakṣajaptaṁ kṛtvā--> <p>mānuṣāsthimayacaturaṅgulapramāṇakīlakenāṣṭottaraśatajaptena tathaiva vajrāṅkuśādibhir ākṛṣya praveśya vaddhvā [vaśīkṛtya ca] pratikṛtiṁ vajreṇa kīlayed iti //</p>
+
+<p>Or he should produce the lakh-fold muttering of the sylable \mantra{hūm̐} with meditative immersion into Vajrahūm̐kāra, after which he should draw, enter, bind and control the effigy with the mantras of Vajrāṅkuśa, etc., and peg it down with a vajra in the form of a peg over which, in the same way, the mantra has been muttered a hundred and eight times.<note>This seems to refer to the first paragraph of this chapter, and so the mantra in question must be the <foreign>kīlamantra</foreign>.</note></p>
+</div>
+<div type="section"><head type="editorial">Extinguishing of conflagrations</head>
+<p>Now the extinguishing of conflagrations is discussed. Above the fire he should visualize a water-maṇḍala transformed from the syllable \mantra{vam̐}; above that a wheel standing in the middle of the lotus; above that Vairocana, transformed from the same syllable \mantra{vam̐}, white as conch, jasmine or moon, sitting and filling the ten directions with nine streams of water like the four oceans, the four rivers and the Anavatapta. After protecting the Meru dish and the peg with the Vajranetrī and the Vajrajvālānalārka (mantras), he should carry out the binding of those (obstacles) into the sky with the Vajrayakṣa and the Vajrabhairavanetra (mantras) and <seg rend="check">gives</seg><note><seg rend="check">Emend dadhyāt?</seg></note> a Vajra-cage with the Vajrabandha (mantra).<note>Vajranetrī and Vajrajvālānalārka mantras are found in Ādiyoga section; also in Javanese inscripion. Vajrabhairavanetra is found in SDPT.</note> Or he should carry out the defense against obstacles with a hostile magic oblation.</p>
+</div>
+<div type="section"><head type="editorial">Removing the Pegs from the Ground</head>
+<p>Then, uttering the syllable \mantra{hūm̐} four times, he should pull out the peg that is present in the center of the maṇḍala, fill the hole for the peg with (powders of) five colors to be specified, and make (the ground) flat.</p> 
+
+<p>Then, uttering the syllable \mantra{hrīḥ}, he should visualize the moon and the sun in his left and right eyes, gaze around with the furor-eye and make the gates.</p> 
+
+</div>
+</div>
+<div type="subchapter"><head type="editorial">Ritual for laying down powders</head>
+
+<div type="section"><head type="editorial">Preparation of pigments</head>
+<p>Now follows the preparation of pigments. With utterance of this (mantra) \mantra{om̐ vajracitrasamaya hūm̐} joined with the gesture he should empower all the pigments seven times (so that) they <seg rend="check">partake of vajra nature</seg>. Thus spoke the lord Mahāvajradhara. In this context, the gesture is this:</p>
+
+<p rend="stanza">
+Having made the pair of (his hands to display) the vajra gesture while being joined close together and having equal tips, 
+he should summon all pigments with the radiant eye.%Having produced the well-bounded and equal-tippedness of the pair of (hands displaying) the vajra gesture, he should summon all pigments with the radiant eye.
+<note><seg rend="check">Refer to STTS definition of dīptadṛṣṭi.</seg></note>
+</p>
+
+<p>And at the end he should ignite (them) with the syllable \mantra{hīḥ}, with (his right hand displaying) the pledge seal of the wrathful Vajrasūrya and with his left hand (clenched) in vajra fist. While pronouncing \mantra{om̐ vajracitrasamaya hūm̐} he should proceed in <hi rend="italic">pradakṣiṇa</hi> to lay down the pigment starting from the northeast. After that<note><hi rend="italic">tataḥ paścāt</hi>: We suspect that this does not mean the following is a separate sequence of <hi rend="italic">rajaḥpātana</hi> after the one just prescribed, but rather than the <hi rend="italic">rajaḥpātana</hi> begins after <foreign>jvālana</foreign>.</note> (he lays down) an appropriate quantity of (pigment) in this order: blue, yellow, red, green, white. In the case of a six-cubit (maṇḍala), the line of pigment is as <seg rend="check">thick/long</seg> as the (master's) little finger;<note><seg rend="check">See parallel passage in Sūtraṇavidhi.</seg></note> from then on, with every increase by a cubit these is increase (of the width of the line of pigment) by one <hi rend="italic">pāda</hi>.<note><seg rend="check">The precise intention here is unclear to us. It seems hard to imagine a width for the line of pigment of multiple <hi rend="italic">pāda</hi>s</seg>.</note> </p>
+</div>
+<div type="section"><head type="editorial">Coloring the Maṇḍala (Scriptural Sources)</head>
+<p>And thus it is stated in the Vajraśekhara:
+</p>
+<p rend="stanza">
+A triangle made of vajra blue (i.e., of sapphire); another one, touching it, of gold; a triangle make of ruby; and another one of emerald. The one in the middle is known as white.<note><seg rend="check">Why is jñeyā feminine? We are not dealing with anoither triangle!</seg></note> This is the traditional sequence of pigments.
+</p>
+
+<p rend="noindent">
+Thus spoke the Lord Mahāvajradhara.</p>
+
+<p rend="stanza">
+Uninterruptedly holding a vajra and a bell, fully concentrated, he should draw in the east the deep blue one (Akṣobhya); in the south the yellow one (Ratnasambhava); red, the one whose part is west (Amitābha); in the north, the <hi rend="italic">mañjiṣṭha</hi><note>The expected color here is green, but this does not seem to be among the attested meanings of the word <hi rend="italic">mañjiṣṭha.</hi></note> one (Amoghasiddhi); and in the middle portion of the ground, the ultimate one (Vairocana) of crystal color.\\
+The drops present at the tips of the vajra-stems are adorned with five circles. In the middle of the middle circle, he should enter the Buddha image. In the middle one of the circles, to all sides of the Buddha, he should draw one after the other the four Pledge-<seg rend="check">excellencies</seg>.\\
+With <hi rend="italic">vajra</hi>-speed<note>See STTS §864 etc., and see below.</note> he should stride forth onto the four circles and cause the four Sarvabuddhas, beginning with Akṣobhya, to enter into [them].\\
+He makes the circle of Akṣobhya perfect (sama) with Vajradhara, etc.; the circle of Ratnasambha complete (pūrṇa) with Vajragarbha, etc.; the circle of Amitāyus pure with Vajranetra, etc. He draws the circle of Amoghasiddhi with Vajraviśva, etc.\\
+He draws the Vajra goddesses on the four corners; he draws the Buddhapūjās on the cornes of the outer circle. He should cause four gate-keepers to enter into the middle of all gates; in the external part of the maṇḍala [he should cause to enter] the great beings.
+</p>
+
+<p>For this purpose, this is the heart for vajra-speed: \mantra{om̐ vajra-speed stride forth hūm̐}. Now its seal:
+</p>
+<p rend="stanza">
+Mentally he should pick up the line or the vajra-cord when entering or leaving (so that) he does not fall from the pledge.
+</p>
+</div>
+<div type="section"><head type="editorial">Coloring: the Five Tathāgatas</head>
+<p>In this (maṇḍala), the Lord Vairocana is white, seated in vajra-paryaṅka<note>ADD NOTE</note> on a lion throne, holding a five-pronged vajra with the bodhyagrī-seal, of solar radiance,<note>Or perhaps we should emend here sūryaprabhāmaṇḍalaḥ, to make the list of attributes even more closely analogous to that given for Akṣobhya etc. Tib. seems to support such an emendation.</note> wearing strips of cloth as lower and upper garments, four-faced, empowered with jewel-<seg rend="check">crown-turban</seg>, and facing east with his principal face.
+</p>
+<p>Akṣobhya, etc., should be similar, seated in vajra-paryaṅka on elephant-thrones, etc., with solar aureoles, facing Vairocana, empowered with jewel-<seg rend="check">crown-turban</seg>, and respectively blue, yellow, red or green in color. They are (however) single-faced, bear with their (respective) great seals a five-pronged vajra, a (five-pronged-)vajra-jewel, a (five-pronged-)vajra-lotus or a viśvavajra. While he recites the Five Tathāgatas' Heart, namely \mantra{vajradhātu}, he should install or place them in space, and then bring them down to unite them. Likewise Sattvavajrin with \mantra{sattvavajri}, through to Vajrāveśa with \mantra{vajrāveśa}.<note>Should one understand \mantra{sattvavajrī} and  \mantra{vajrāveśā} as perhaps in Tib.?</note>
+</p>
+</div>
+<div type="section"><head type="editorial">Coloring: The Four Goddesses Surrounding Vairocana</head>
+<p>In front of the Lord Vairocana is Sattvavajrin (in the form of) a five-pronged red vajra.
+On his right side is Ratnavajrin (in the form of) a fabulous-gem jewel with five-pronged-vajra top.
+Behind him is Dharmavajrin (in the form of) a sixteen-petalled white and red lotus, eight petals below being expanded and just so eight petals above being full-blown with five-pronged vajras between them. On his left is Karmavajrin (in the form of) twelve-pronged viśvavajra that is five-colored: white-colored in the middle, blue in front, yellow to the right, red in the back, emerald-colored to the left.
+</p>
+<p>(The Bodhisattvas) Vajrasattva, etc., through to the ones of the Bhadrakalpa, are seated in sattva-paryaṅka,<note>ADD NOTE</note> bearing with (their respective) great seal their respective marker, a vajra, etc., and have their eyes wide-open in delight. And all of them are facing Vairocana because of the fact that the nature (of them all) is to have knowledge with dharmadhātu as object. And Vairocana has the nature of Thus-ness.</p>
+
+<p>In this (maṇḍala), (the Bodhisattva) Vajrasattva is in front of Akṣobhya; Vajrarāja to his right; Vajrarāga to his left; Sādhu behind him. <seg rend="check">In the same way the remaining ones, begininning with Vajraratna, are known for Ratnasambhava, etc.</seg> And on the outer rim of the maṇḍala he should draw the thousand Bodhisattvas of the Bhadrakalpa beginning with Maitreya, in succession, an equal amount per direction, starting in the east. On this (rim), to the east they have five-pronged vajras as weapons; to the south they bear vajra jewels; to the west they bear vajra lotuses; to the north they bear viśvavajras. Here follow the <seg rend="check">details of their entry</seg> and their names.</p>
+</div>
+<div type="section"><head type="editorial">Thousand names of the Bodhisattvas of the Bhadrakalpa</head>
+
+<div type="subchapter"><head type="editorial">Ritual for the placing of jars</head>
+<!--%§3.7, p. 41 of our edition
+%see Tanemura 2004: 236 for picture of a jar
+%see KSP 3.3.5-->
+<p>Then he prepares a jar adorned with gems, or (a plain one) made of clay; its base not black; with large belly; with long neck; with pendent lip; filled with every gem: coral, gold, shell, pearl, ruby — with every plant: Bṛhatī, Kaṇṭakārī, Sahadevā, Daṇḍotpala, Śvetāparājitā —, with every grain: rice, barley, wheat, sesame, beans — with fragrant water as well as with white and fragrant flowers;<note>SVU MSK§14: tilayavakuśalājāsitasugandhikusumacandanodakāni śaṅkhabhājanādau prakṣipya. We accept the meaning given by Tib., and emend accordingly. See RT's article on Mṛtasugatiniyojana for occurrence of sitasugandha which there seems to be sandal paste. See also Raghuvaṁśa: kaścitkāmī malayajaśītasugandhī payodharau.</note> completely smeared with fragrance; garlanded; marked by the Vajra of Śrīvajrasattva; with nice fabric attached to its neck; with nice <seg rend="check">twigs and fruit</seg> in its mouth;<note>Or can satpallava designate a particular kind of fruit-bearing tree?</note> empowered a hundred and eight times with the (mantra of) Vajrasattva with a <seg rend="check">Vajra blossoming creeper</seg> protected by the Sattvavajrī (seal);<note>We don't know what Vajrakusumalatā means, nor how it fits into the sentence.</note> and again empowered for a thousand and eight times with (the mantra) \mantra{om̐ vajra water hūm̐}. He should place it in front of Lord Vajrasattva. And a second one over which a hundred and eight mutterings have been made with the (mantra of) Vajrasattva, facing the entrance gate. With that one (i.e., the second) he should bathe himself. When the students enter, he should display the Sattvavajrī or have it displayed.</p> 
+
+<p>Outside of the corners of the outer maṇḍala, he should place the jars for (the thirty-seven deities) starting with Śrī Vairocana, with their respective  symbols, each empowered a hundred and eight times with the respective mantra. Behind (one of) them a full pot.</p>
+
+<p>In the absence (of the stated total number of jars), he should (at least) give a jar and a full pot for Śrī Vajrasattva and for the five Tathāgatas, and (for all remaining deities together) give four jars marked with Sattvaratna, Sattvadharma, Sattvakarma and Sattvavajra, empowered one hundred and eight times with the respective family mantra, as well as four full pots. Because there is the prescription: `He should not have less than ten prepared'.</p>
+</div>
+</div>
+</div>
+	
+<div type="subchapter"><head type="editorial">Consecration</head>
+<div type="section" n="1"><head type="editorial">Simple consecration procedure</head><!--%3.8.1-->
+<div type="subsection" n="1"><head type="editorial">Self-empowerment</head>
+<p>Then in his mind he should make sure that the maṇḍala and the deities are present. He should worships (them) with flowers, etc., take the vow that starts with the (ritual) of four prostrations, etc., <note>On <foreign>catuḥpraṇāmādika</foreign>, see Ādiyoga section ...</note>properly fold (his hands) in the Sattvavajrī (<seg rend="check">mudrā/gesture</seg>) and enter. Then he properly drinks the vajra-water<note>Vajrodaka is taught is in STTS §221–223.</note> and causes (them) to enter into himself.  Continuously  <seg rend="check">agitating</seg> the middle finger of his right (hand) in Sattvavajrī with the Wrathful Fist in his left (hand), after properly making (them) firm with the syllable \mantra{aḥ} up to the point that they enter (him),</p>
+
+<p rend="stanza">
+having taken the vajra as representing reality and having caused the bell to resound as representing Dharma, having empowered the Great Seal as representing the pledge, he should mutter the heart.
+</p>
+<!--%thhe same verse also occurs on p. 15 of our edition-->
+
+<p>He should carry out the aforementioned ritual, with the five stanzas to be mentioned<note><seg rend="check">See 3.8.1.6, and 3.8.3 for the actual stanzas.</seg></note> take the permission as well as the own mantra of Śrī Vajrasattva as <seg rend="check"><foreign>udgatā</foreign>-prediction</seg><note>See SDPT 260 and 296 gāthāpañcakenānujñāṁ ca tu huṁkāram udgatāvyākaraṇaṁ cādāya. RT suspects udgatā means āśvāsa. See also <seg rend="check">§3.8.3 (p. 69, l. 5)</seg></note> Then he should carry out the self-empowerment, etc., pronounce one of the names, such as \mantra{I am Suratavajra}, fold (his hands in) the Great Seal of Vairocana and (with the mantra) \mantra{vajradhātu aḥ}, (cause Vairocana to take place) in his position, and cause the Vajra of the Tathāgatas to enter into himself (with the mantra) \mantra{I am the Vajra}.<note>Tathāgatavajra is an alternative name of Vairocana: see Vajrāvalī ... But here is rather seems to be an object.</note> Then he should visualize that vajra (with the mantra) \mantra{I am Vajradhātu}. In the same way (he should install the remaining deities up to Vajrāveśa), fold (his hands in) the Great Seal of Vajrāveśa and (with the mantra) \mantra{vajrāveśa aḥ}, (cause Vajrāveśa to take place) in his position, and cause the Vajra-bell to enter into himself (with the mantra) \mantra{I am the Vajra-bell}. Then he should visualize that bell (with the mantra) \mantra{I am Vajrāveśa}. <seg rend="check">In this way it becomes accomplished by a Vajra.</seg></p>
+
+<p rend="stanza">
+After that, the Vajra master, having folded (his hands in) the (seal of) <seg rend="check">Sattva-</seg>Vajra-hook, should assemble all Buddhas while snapping the fingers
+</p>
+
+<p rend="noindent"> and <seg rend="check">activating</seg> (the mantra) \mantra{om̐ vajra assembly jaḥ hūm̐ vam̐ hoḥ}.</p>
+
+<p rend="stanza">
+Then, while quickly making the Great Seal of Vajrasattva, he should pronounce one time the sublime 108 names.<note><seg rend="check">The same verse has occurred on 25v.</seg></note>
+</p>
+
+<p>Just like that, with the Vajra-hook, etc., he should draw (them) down, make (them) enter, bind and subdue (them). With the Vajrayakṣa (mantra) he should ward off the obstacles and make a wall and a net (for protection),<note>Cf. §17.</note> shut the gates of the maṇḍala with the Vajra-fist of the Pledge (Seal type), give all protecttion with the bisyllabic cuirass,<note>This refers to the mantra \mantra{om̐ tum̐} which has been taught in the Ādiyoga section — cf. KSP 6.2.1.5.</note> make (the maṇḍala with its deities) visible using the proper Pledge-Seals (of the respective deities) preceded by gifts of guest-water, while activitating (the mantras) \mantra{jaḥ hūm̐ vam̐ hoḥ}. He should accomplish the (respective) proper hearts and the mantras (by saying) \mantra{you are the pledge} and \mantra{you pledge are I} at the end (of each one), should give  the seal-consecration  to the Tathāgatas, etc., through to the ones of the Bhadrakalpa, by sealing them with the Dharma-Seal, the Action-Seal and the Great-Seal (of each one).</p>
+
+<p>In this connection, the Dharma-Seals are none other than the proper hearts of (the four goddesses) beginning with Sattvavajr<seg rend="check">a</seg>.<note><seg rend="check">Supply note on these four goddesses</seg>.</note> And the Action-Seals as well as the Great-Seals of the (families of the) Vajra, the Jewel, the Dharma and the Action are pregnant with Vajra, etc., so that they are endowed with a female aspect. And (yet) they are representative of Vajrasattva, etc.</p>
+
+<p>He makes flat the Tathāgata-fist in the left (hand), opens it up with the index and thumb of the right (hand), starting with the little finger, and should make a hemispherical <foreign>añjali</foreign>. This is the Pledge-Seal of (the ones of the Bhadrakalpa, namely) Maitreya, etc. Their mantra has been stated above.<note>See the end of §3.6.5.</note> He should install that mantra on their tongues. This is their Dharma-Seal. With the syllable \mantra{aḥ} he visualizes a Viśvavajra in (each) respective heart, forms the Great-Seal (of each Bodhisattva) in the order to their depiction,<note>This must then mean in the order in which they have been mentioned above.</note> and the Action-Mudrās come about. He should visualize a five-pronged Vajra in (each) respective heart, and forms their Great-Seals in none other than the order to their depiction. <seg rend="check">And</seg> that very mantra is common.<note><seg rend="check">Common to all members of the Bhadrakalpika group? Or common to Dharma-, Karma- and Mahāmudrā?</seg></note></p>
+
+<p>Then he should do worship, after having offered guest-water. With the syllable \mantra{om̐} and the Vajrasattva (mantra)<note>\mantra{Oṁ Vajrasatvva Hūṁ}</note> he should seven times <seg rend="check">empower</seg>,  <seg rend="check">for any use</seg>, double cloth, as much as a lakh, ten-thousand, a thousand, a hundred, or individual pieces; (he should also <seg rend="check">empower</seg>) various kinds of canopies with colorful banners dangling from their four corners as well as parasol banners. He should empower as before a hundred flowering trees, or four trees as well as all flowers. He should offer (them with the mantra) \mantra{om̐ vajra open the sky}. (He should <seg rend="check">empower</seg>)</p>
+
+<p rend="stanza">
+all perfumes and good fragrances, fragrant with unguents
+</p>
+
+<p>with the Perfume-mantra;<note>We learn from SDPT that this mantra was <foreign>om̐ vajragandhe hūm̐</foreign>.</note> With the Incense-mantra,<note>We learn from SDPT that this mantra was <foreign>om̐ vajradhūpe hūm̐</foreign>.</note> he should empower </p>
+
+<p rend="stanza">
+camphor, aloe wood, frankincense, mixed with sandal wood, etc.
+</p>
+
+<p>as much as a lack of censer (<foreign>dhūpaghaṭikā</foreign>), ten-thousand, a thousand or a hundred — it should not be less than ten.</p>
+
+<p>As much as a lakh, etc., of ghee-lamps, <seg rend="check">etc.,</seg>%remove (ā)di and obtain good uneven anuṣṭubh pāda? 
+or a thousand lamp basins, a hundred, ten basins or four, he should empower as before with the Lamp-mantra.<note>We learn from SDPT that this mantra was <foreign>om̐ vajrāloke</foreign>.</note>
+He should first make an <seg rend="check">auspicious food-offering</seg>, <seg rend="check">as much as</seg><note><seg rend="check">What to do with <foreign>rūpaka</foreign>?</seg></note> a lakh, ten thousand, a hundred, or ten, and should offer various types of food to all deities, as previously with (the words) \mantra{the syllable a is the mouth}, etc.</p>
+
+<p>Translation Option 1:
+	And he should empower with the syllable \mantra{om̐} or with the syllable \mantra{hūm̐} and then offer the worships with instrumental music, theater, dance, crown, golden bracelet, earrings, etc. Instrumental music means: ten thousand instruments, with the appearance of the ten instruments,<note>SDPT here reads <foreign>daśavādyāni vā huṁkāreṇa </foreign>.</note> with the Instrument-seals, with the two vajra-fists, with the fingers — the instrumental gestures are tenfold, namely the instrument of Vīṇā, of flute, of tambourine, of Mukunda, of cymbal, of kettle-drum, of <foreign>mṛdaṅga</foreign> drum, of war drum, of <foreign>guñja</foreign> drum, or of the <foreign>timilā</foreign>.
+</p>
+<p>Translation Option 2
+	And he should empower with the syllable \mantra{om̐} or with the syllable \mantra{hūm̐} and then offer ten thousand instruments, with the appearance of the ten instruments,<note>SDPT here reads <foreign>daśavādyāni vā huṁkāreṇa </foreign>.</note> with the Instrument-seals, with the two vajra-fists, with the fingers — the instrumental gestures are tenfold, namely: the instrument of Vīṇā, of flute, of tambourine,  of Mukunda, of cymbal, of kettle-drum, of <foreign>mṛdaṅga</foreign> drum, of war drum, of <foreign>guñja</foreign> drum, or of the <foreign>timilā</foreign> — as well as the worships with instrumental music, theater, dance, crown, golden bracelet, earrings, etc.</p>
+
+<p>Thus:</p>
+
+<p rend="stanza">
+It (<foreign>sā</foreign>, sc. <foreign>sarvadevatā</foreign>?) is to be made with dangling cloth, adorned with wreath and chowrie, made with a string and half-string (of pearls), ornamented with half-moon. And well-prepared herds of horses, elephants and cows are to be given (to the maṇḍala), as well as beautiful gates with bells, etc.
+</p>
+
+<p>Then he should make worship with (the gestures of) Vajralāsyā, etc., and requests from all the Tathāgatas: please act for the benefit of all beings so that they attain every accomplishment!</p>
+</div>
+<div type="subsection"><head type="editorial">External offering</head>
+
+<p>Then, after having placed the assistant in the maṇḍala, he should make the <seg rend="check">external offering</seg>, %fix translation of bali</p>
+
+<p rend="stanza">
+with parched grains, with sesame seeds, with water, with cooked rice along with flowers —
+</p>
+
+<p>with edible items such as cakes, and, starting in the east, should offer triple scatterings (of bits of the food), after consecrating it with the syllable \mantra{a}, as well as perfumes, flowers, incense, lamps and guest-water at beginning and end. In this connection, he should first of all have (the assistant) make small maṇḍalas. Then he should invite (the guardians of the directions to take their places). Then he should show the pledge (seal of each deity). And after giving guest water, he makes worship with perfumes, etc., and gives the external offering. Then he should dismiss (the deities). In this connection, there are these seals and mantras.</p>
+
+<p>Standing in archery stance, facing east, he should show a Vajra in the left (hand),<note>It seems that thus could mean either that the hand hold a physical Vajra, or that the hand is folded in Vajramuṣṭi.</note> hold the Vajra in the right (and) on the thigh and make the invitation with the hook (gesture) of the right index finger. Śakra's pledge seal is without the index hook. Standing in reverse archery stance, stretching out the index of the invitation seal: (this is) the dismissal seal. Now his mantra: \mantra{homage to the Vajra in every direction! o Vajra-holder, protect protect svāhā}.</p>
+
+<p>He bends the index of his right hand in the shape of an earring, holds it against the third section of the needle which is his middle finger, and the thumb in the palm of his hand. (This is) the invitation seal for Agni. Starting from the invitation seal, the thumb placed on the side of the index: (this is) the pledge seal for Agni. Starting from this last seal, the nails of the thumb and the index are to be joined as one, facing each other in the palm of the hand:<note>Or, emending -madhyābhi-, translate: `facing the palm of them hand'.</note> (this is) the dismissal seal. The mantra: \mantra{o brownish agni, come here, blaze blaze, burn, fire, crested one, straight one, you with deformed eyes svāhā}.</p>
+
+<p>The yogin, facing south, should hold his hands so that they face each other and he should hold his pair of thumbs inside the <seg rend="check">Abhyantaravajrabandha</seg> with the two ring-fingers held together outside like needle, and then folded back in: (this is) the invitation seal for Yama. He should again make the ring-fingers into a needle outside in the same way, and hold the seal at the heart:<note>The grammatical oddity of the text here is confirmed by the identical DSPT reading.</note> (this is) the pledge-seal. The dismissal is with this same ring-finger needle. The mantra: \mantra{homage to Yama}.</p>
+
+<p>Facing southwest, standing in <seg rend="check">equal stance</seg>, he should make a fist in his right hand and should bend the middle and index fingers. He should place (this fist, after he has reshaped it) in the form of a sword, and should hold the left hand at the thigh. he should bend he left index: (this is) the invitation seal of Nirṛti. When the left hand of this same seal is placed on the thigh, then it is the sword-seal. It is the pledge-seal of Nirṛti.<note>Compared to KSP ..., the text of the mudrā-prescriptions for Nirṛti in SVU and SDPT seems bizarrely confused.} If he stretches out the index from the invitation-seal, it is the dismissal seal. The mantra: \mantra{fear-maker of all beings make make svāhā</note>.
+</p>
+<p>In the west, standing in <seg rend="check">equal stance</seg>, he should join together the index and thumb of the right hand.  He should hold the left fist at the heart, and make the invitation with the hook which is the left index: (this is) the invitation seal of Varuṇa. From this same (seal), he should hold the left index touching the fist: it is the noose-seal. (This is) the pledge-seal of Varuṇa. If he stretches out the index from the invitation-seal, it is the dismissal seal. The mantra: \mantra{tr̥ tr̥ puṭa tr̥ tr̥ crested one, straight one, you with deformed eyes svāhā}.
+</p>
+<p>Standing with face to the northwest,<note>The construction is a contamination of those seen at the beginnings of the two preceding paragraphs.</note> he should hold the index which was (previously) detached from the needle of the left middle (finger) to the third section (of the middle finger) in the shape of an earring, and he should stretch it out parallel (to the middle finger). Holding his right hand on the thigh, the invitation seal of Vāyu is (shown) with the bent thumb. The pledge seal of Vāyu is just like it, up to but not including the thumb. Having stretched out the thumb from the invitation seal: (this is) the dismissal seal. The mantra: \mantra{om̐ svasa khākha khakhaḥ svāhā}.</p>
+
+<p>Standing with face to the north, he joins both hands. In the <seg rend="check">Abhyantaravajrabandha</seg> is the needle of the two pinky fingers. Behind it he should hold apart the pair of ring fingers and bend the needle of the middle fingers in the shape of a Vajra: (this is) the invitation seal of Kubera. From this same seal, he should cast down the middle fingers as in the <seg rend="check">Abhyantaravajrabandha</seg>: (this is) the pledge seal of Kubera. From the invitation seal he should stretch the middle fingers: (this is) the dismissal seal. The mantra: \mantra{om̐ for Kubera svāhā}.</p>
+
+<p>Standing with the face to the northeast, he should join together the two hands in an <foreign>añjali</foreign> and make a Vajra-bind of the palms (only) with the pinky and ring-fingers. He should (make) the pair of thumbs rest  on the middle fingers and fix the pair of index fingers outside of the needle (formed) by the middle fingers, in the form of a Vajra. Having bent the same (index fingers) at the top, he should make the fingernails touch each other: (this is) the invitation seal of Īśāna. From this same one, he should hold the index fingers, as previously, in the form of a Vajra: (this is) the pledge seal of Īśāna. From the invitation seal he should stretch the index fingers: (this is) the dismissal seal. The mantra: \mantra{om̐ jruṁ jruṁ svāhā}.</p>
+
+<p>He should stand in reverse archery stance, fold the hands in in the form of <foreign>añjali</foreign> and gaze upward: the invitation of Brahmā, etc., is with the hook formed by the index fingers. From this same one, he should restore the index fingers to the previous position: (this is) the pledge seal. From the invitation seal he should stretch the index fingers: (this is) the dismissal seal. The mantras are: \mantra{to Brahmā above svāhā! to Sūrya the overlord of the <foreign>graha}s svāhā! to Candra the overlord of the lunar mansions svāhā!</foreign></p>
+
+<p>He should stand in the equal-legged stance, should join his hands together, should loosely hold the finger tips to each other, (should hold) his thumbs in the form of circle, should gaze downward: the invitation of the earth, etc., is with the two index-finger hooks. He should hold the index fingers as previously: (this is) the pledge seal. From the invitation seal, the dismissal is with the stretched index fingers. The mantras: \mantra{to the earth below svāhā! to the Asuras svāhā! to the serpents svāhā!}.</p>
+
+<p>Then he should give sipping water to all of them, with their respective mantras only, and dismiss all by saying: `Make freedom from obstacles for me, with my group of disciples, and give me success in my ritual!' </p>
+
+<p>Then he should give the offering with the stanzas taught in the Subāhu:<note>Refer to Tanaka Kimiaki and Moriguchi articles.</note></p> 
+	<p rend="stanza">
+ Gods and demons, all serpents, Siddhas, Tārkṣyas, Eagles, Kaṭapūtanas, Gandharvas, Yakṣas, or all types of Grahas: whatever superhuman creatures reside on earth!
+With one knee on the ground and with an <foreign>añjali</foreign> I request them! May they listen and come here, with their sons, wives and servants, in order to give blessing, the ghosts residing on the flank of mount Meru, in the Nandana (forest), in divine sanctuaries, on the Sunrise and Sunset mountains, in the sun's orb, and those who dwell in all the cities; in all the rivers, at confluences and even those who have made their dwelling in the ocean; in ponds, tanks and pools; in wells, on banks and at waterfalls; in rural areas (<hi rend="italic">grāmaghoṣa</hi>)<note><seg rend="check"><hi rend="italic">Padmaśrīmitra</hi>: <hi rend="bold">ye grāmaghoṣeṣu purakānare vā</hi> gulmālaye devagṛheṣu ye ca |
+vihāracaityāvasathāśrameṣu matheṣu śālāsu ca kuñjarāṇām ||
+SDPT: grāmaghoṣeṣu surakānane vā;
+<hi rend="italic">Buddhacarita</hi>:
+śrutvā tataḥ strījanavallabhānāṁ manojñabhāvaṁ <hi rend="bold">purakānanānām</hi> |
+bahiḥprayāṇāya cakāra buddhimantargṛhe nāga ivāvarūddhaḥ || 3.2 ||;
+<hi rend="italic">Brahmapurāṇa</hi>: sa bhikṣām adadād vīraḥ sapta dvīpān vibhāvasoḥ |
+purāṇi <hi rend="bold">grāmaghoṣāṁś</hi> ca  viṣayāṁś caiva sarvaśaḥ  || 13.190 ||
+jajvāla tasya sarvāṇi  citrabhānur didhṛkṣayā;
+<hi rend="italic">Rāmāyana</hi>: 2.077.015a rajakās tunnavāyāś ca <hi rend="bold">grāmaghoṣa</hi>mahattarāḥ |
+2.077.015c śailūṣāś ca saha strībhir yānti kaivartakās tathā |;
+<hi rend="italic">Kathāsaritsāgara</hi>: ratnair alaṁkṛtāṁ tāṁ ca kṛtvā karṇirathārpitām |
+bhrāmayāmāsa nagara<hi rend="bold">grāmaghoṣeṣv</hi> itas tataḥ || SoKss 12,27.91 (Vet 20.91) ||</seg>.</note> or urban parks; in deserted dwellings and in temples; in monasteries, shrines or residential hermitages (<hi rend="italic">avasathāśrama</hi>?); in colleges and hostels; and those who dwell in the beautiful palace of eminent kings (<hi rend="italic">kuñjarāṇām bhūbhṛtām</hi>); on roads suitable for chariots and at cross-roads; and those who dwell in solitary trees, on highways, at large cremation grounds and in large forests inhabited by lions, elephants and bears; and those who have made their abode in terrifying great jungles, on supernatural islands; and those who reside in the cremation ground on Meru! Joyful and delighted, let them accept, eat or drink this fragrant garland of wreaths, food offering or lamp arrangement (brought forth) with devotion, and let them take pleasure in this fruitful action!
+	Having thus performed the adoration of the Grahas (etc.), he should singlemindedly carry out the worship of the directions.
+	May they enjoy this special food offering: in the East, the Vajra-bearer (Indra), together with the hosts of gods: Agni, Yama, and the king of the southwest; the lord of the waters (Varuṇa), Vāyu and the lord of wealth (Kubera); the king of the northeast; and the gods above, (namely) the moon, the sun and the ancestors; and all the gods on earth, (namely) the Nāgas, the Mountains accompanied by their secret troups. Having each respectively been addressed in the same way, every one in his own direction, may they be content and, accompanied by their armies, their soldiers, their sons, friends and kinsmen, the incense, receive these food-offerings, lamps, flowers and perfumes, eat, smell and drink them, nd let them take pleasure in this fruitful action!
+ </p>
+
+<p>Then he should touch water and give a hundred and eight oblations according to the prescription for pacificatory oblations, using (the mantra of) Śrī Vajrasattva. The oblation is seven times seven with the heart of Vairocana and the others. Then he makes obeisance to all Tathāgatas:</p>
+
+
+<p rend="stanza">
+<quote>I, named N.N., a Vajra master of great austerity, will let the pupils enter (the maṇḍala) for the benefit of all beings!'
+</quote></p>
+
+<p><quote>In this regard, at the entry into the great maṇḍala no examination of suitability or insuitability needs to be carried out. For which reason? There are, o Lords Tathāgatas, some beings who have committed great sins: when they have seen and entered this great Vajradhātumaṇḍala, they will escape from of all bad rebirths (<hi rend="italic">apāya</hi>).</quote>
+</p>
+<p><quote>And there are, o Lords, beings lusting for every king of wealth, food, drink, or (other) objects of desire; because they are inimical to the pledge, they are unable to carry out preliminary services. Even for them, when they enter into it with the purpose to obtain their respective desires, all desires will become fulfilled.</quote>
+</p>
+<p><quote>And there are, o Lords, beings	 [who] enter maṇḍalas of other deity families out of fondness for dance, song, comedy, food, erotics, food and sport, while they do not understand the reality of the realization of the great vehicle of all Tathāgatas,<note>Since the chapter of the STTS from which these paragraphs originate is itself called Sarvatathāgatamahāyānābhisamaya, another translation could be `while they do not understand the authority (<hi rend="italic">dharmatā</hi>) of the Sarvatathāgatamahāyānābhisamaya'.</note> [and who], out of fear for the dangers of the moral commandments, do not enter into the maṇḍalas of the families of all Tathāgatas,<note>Or: `... into the maṇḍalas of the family of Sarvathāgata (i.e., Vairocana)'?</note> although they are an abridgement to the fulfillment of all desires and are the source of unsurpassed lust, love and joy —  for them, 
+	whose faces are standing on the road for entering into the maṇḍala of bad rebirths%
+%	who are (like) gates on the road for entering into the maṇḍala of bad rebirths
+	, (still) only this entry into the great Vajradhātumaṇḍala is suitable, in order for them to experience bliss and satisfaction which are the highest achievements of lust and love, and in order to ward off the path leading to the entering into all bad rebirths.</quote></p>
+
+<p><quote>And there are, o Lords, pious beings, who are struggling while they desire the awakening of a Buddha through the means to ultimate achievement which are conduct, meditation and wisdom proper to all Tathāgatas, and while they move through the stages using <hi rend="italic">dhyāna</hi>s, <foreign>vimokṣa</foreign>s,<note>See Tournier 2014 on vimukti. See BHSD vimokṣa.</note> etc.: for them, in this same regard,
+  only through the entry into the great Vajradhātumaṇḍala even the status of Sarvatathāgata (i.e., of Vairocana) is not hard to realize — all the less so any other achievement!</quote></p>
+
+
+<p>Thus he should inform. Then he should let the pupils enter.</p>
+
+<p>In that connection, one who has adopted the five moral commandments; one who has adopted the vow of a layman, a novice or a monk; or one who is eligible for initiation to become master<note>The position of vā is strange. One expects: pañcaśikṣāpadaparigṛhītenopāsakaśrāmaṇerakabhikṣusaṁ-
+varagṛhītenācāryābhiṣekārhena vācāryapādayoḥ.</note> should bow down to the feet of his master and pronounce:</p>
+
+<p rend="stanza">
+<seg rend="check">I will request the master (for instruction).</seg><note>Possibly this first pāda (reconstructed splely on the basis of Tib., not fund oin SDPT parallel) is to be rejected; in SVU at beginning of Adhivāsanavidhi is a nother group of stanzas beginning of with tvaṁ me śāstā mahārata.</note> O greatly beloved one, you are my instructor! I wish, o great protector, (to be initiated into) a resolute Bodhisattva method. Give me the pledge, the reality, and give me the vow!
+</p>
+
+<p>Then gives the pupil lower and upper garment empowered by Vajrayakṣa and a mouth-cover empowered by the four door guards, Vajrāṅkuśa, etc., and let him make four obeisances.</p>
+
+<p>Then, the pupil who has flowers in a hand should with the same handful of flowers perform the confession (of bad karma), the assent (to good karma), the request (for instruction) and the supplication (not to entere into Nirvāṇa),<note>See Ādiyoga section on pāpadeśana, puṇyānumodana, ...</note> and he should pronounce:
+</p>
+<p rend="stanza">
+Give me a vow, o lord. May the entirety of Buddhas, who are like suns among sages, pay me honor! \\
+I, named N.N., am standing before the master.<note>Tib. points to sambaddha. Perhaps an error for sannaddha? Cf. passages like <hi rend="italic">ayaṁ sa bodhisattvasya mahāsattvasya mahāsaṁnāhasaṁnaddhasya mahāyānasaṁprasthitasya mahāyānasamārūḍhasya mahāsaṁnāho 'saṁnāhaḥ evaṁ hy āyuṣman śāriputra bodhisattvo mahāsattvaḥ prajñāpāramitāyāṁ caran mahāsannāhasannaddho bhavati</hi>, <hi rend="italic">evaṁ ca punar āyuṣman śāriputra bodhisattvo mahāsattva ekaikasyāṁ pāramitāyāṁ sthitvā ṣaṭ pāramitāḥ paripūrayati</hi>.</note> I enter the excellent great citadel of liberation, extremely esoteric, from which the Buddha's dance arises,<note>The Tib. translation interprets the compound buddhanāṭakasambhava differently.</note> filled with circles of non-returning (Bodhisattvas).\\
+Make me enter, o great master, the multitude of all esoteric families! Give me very fortunate consecration of a non-returning one!\\
+Give me, o great maser, the approval (for obtaining) the marks (of a Buddha), the beautiful body of a Buddha together with its minor marks!\\
+Give me, o great maser, the extremely wondrous consecration: may I become a master for the reason of (doing) good for all creatures!
+</p>
+
+<p>Then the master should carry out the request to all families
+</p>
+<p rend="stanza">
+This one, named N.N., who has the property of the conception of awakening, desires pledge and vow in order to enter into this esoteric circle.
+</p>
+
+<p>Then the master should speak:</p>
+
+<p rend="stanza">
+You, magnanimous one, wish to receive the pure esoteric great family of the secret (Tathāgatas).
+</p>
+
+<p>Then the master should speak again in this way:</p>
+
+<p rend="stanza">
+Proceed to the Buddha, the Dharma and the Saṅgha, as refuge to the Triple Jewel. This is (your) steadfast vow in the beautiful family of Buddhas.\\
+You, o very intelligent one, should take the Vajra, the Bell, and the Seal: the Vajra is none other than the conception of awakening; the Bell is taught to be Wisdom. And the master is to be taken as the guru equal to All Buddhas. This vow is called the pledge in the pure family of Vajras.\\
+The quadruple gift must be given at the three nodes of the day and the three of the night:<note><seg rend="check">The required meaning if tridiva is not recoreded in Dictionaries. But the intended meaning is cleat from Vajāvalī 20.6: caturdānaṁ pradāṣyāmi ṣaṭ kṛtvā tu dine dine / mahāratnakule yogye samaye ca manorame // 16 //. Max Nihom's book contains stuff on caturdāna. See also RT's article on Padmaśrīmitra.</seg></note> they are called earthly possessions, security, dharma and benevolence. (This vow is called the pledge) in the lofty family of Jewels.\\
+And you must take the Good Dharma of the three vehicles as <seg rend="check">both exoteric and esoteric</seg>. This vow is called the pledge in the pure family of Lotuses.\\
+You must accept the vow to be in reality the ritual of worship, according to capacity, with all proper elements. (This vow is called the pledge) in the great lofty family of Action.\\
+From now on, these fourteen called the ones (whose non-onservance is) publishable by expulsion, are not to abandoned or neglected. (Doing so) is taught to be a radical sin.\\
+They are to be carried out in quotidian manner, at the three nodes of day and the three nodes of nights. Should any decrease occur, the Yogin would be guilty of gross transgression.<note>We take sthūlāpattya as an adjective. And other occurrences?</note>\\
+And no living beings should be killed. He should not take anything not given. He should not commit sexual misconduct, and should not speak faslsely.\\
+He should avoid alcoholic beverages, which are the root of all calamity. With discipline, and for the sake of (all) creatures, he should avoid all misconduct.\\
+He should perform the veneration of good Yogins. To the extent possible, he should keep the three types of physical action and the four oral ones; and the three mental types.<note>What are these types?
+<!--%KSP
+%ato daśaśikṣāpadāni dātavyāni.
+%samanvāharatv ācāryaḥ, yatā te āryā arhanto yāvajjīvaṁ prāṇātipātaṁ prahāya prāṇātipātāt prativiratāḥ, evam aham itthaṁnāmā yāvajjīvaṁ prāṇātipātād vairamaṇaṁ śrāmaṇeraśikṣāṁ samādade.
+%% prāṇātipātaṁ] p.49
+%evam evāhaṁ prathameṇāṅgena teṣāṁ āryāṇāṁ arhatāṁ śikṣām anuśikṣe, anuvidhīye, anukaromi.
+%yathā te āryā arhanto yāvajjīvam adattādānam, abrahmacaryam, mṛṣāvādam, surāmaireyamadyapramādasthānam, nṛtyagītavāditramālāgandhavilepanavarṇakadhāraṇam, uccaśayanamahāśayanākālabhojanajātarūparajatapratigrahāt prativiratāḥ, 
+%evam evāham itthaṁnāmā yāvajjīvam adattādānavairamaṇaṁ śrāmaṇeraśikṣāpadaṁ samādiyāmi.
+%aham itthaṁnāmā yāvajjīvam abrahmacaryavairamaṇaṁ śikṣāpadaṁ samādade.
+%aham itthaṁnāmā yāvajjīvaṁ mṛṣāvādavairamaṇaṁ śikṣāpadaṁ samādiyāmi.
+%% samādiyāmi] p.50
+%aham itthaṁnāmā yāvajjīvaṁ surāmaireyamadyapramādasthānavairamaṇaṁ śikṣāpadaṁ samādiyāmi.
+%aham itthaṁnāmā yāvajjīvam uccaśayanamahāśayanaśikṣāpadaṁ samādiyāmi.
+%aham itthaṁnāmā yāvajjīvaṁ nṛtyagītavāditravairamaṇaṁ śikṣāpadaṁ samādiyāmi.
+%aham itthaṁnāmā yāvajjīvaṁ mālāgandhavilepanavairamaṇaṁ śikṣāpadaṁ samādiyāmi.
+%aham itthaṁnāmā yāvajjīvam akālabhojanavairamaṇaṁ śikṣāpadaṁ samādiyāmi.
+%aham itthaṁnāmā yāvajjīvaṁ jātarūparajatapratigrahaṇavairamaṇaṁ śikṣāpadaṁ samādiyāmi.
+%trir api.
+%anenāhaṁ daśameṇāṅgena teṣām āryāṇām arhatāṁ śikṣām anuśikṣe, anuvidhīye, anukaromi.-->
+</note>
+He should have no inclination to the inferior vehicle. He should not turn away from the benefit of (all) creatures. He should not abandon transmigration, nor ever be intent upon Nirvāṇa.\\
+You should not show disrespect for <seg rend="check">XYZ</seg>. No symbol, seal, vehicle or weapon is to be omitted. This is called the pledge. You must keep it, intelligent one.\\
+And he also has something that he needs to say himself: `O master, listen to me on this point — I shall act as you shall command, o lord!'
+</p>
+
+<p>[The pupil should also recite] from `I shall produce the ultimate [conception of awakening]' up to `I shall establish the living beings in Nirvāṇa.'<note>See for the stanzas abbreviated here, e.g., Vajrāvalī, ed. Mori 20.16 stanzas 12–12.</note>
+<!--	%Vajrāvalī
+%	utpādayāmi paramaṁ bodhicittam anuttaram /
+%	yathā traiyadhvikā nāthāḥ saṁbodhau kṛtaniścayāḥ // (12 //)
+%	tividhāṁ śīlaśikṣāṁ ca kuśalaṁ dharmasaṁgraham /% kuśalaṁ dharma for kuśaladharma. M. C?
+%	sattvārthakriyāśīlaṁ ca pratigṛhaṇāmy ahaṁ dṛḍham // (13 //)
+%	buddhaṁ dharmaṁ ca saṁghaṁ ca triratnāgram anuttaram /
+%	adyāgreṇa grahīṣyāmi saṁvaraṁ buddhayogajam // (14 //)
+%	vajraṁ ghaṇṭāṁ ca mudrāṁ ca pratigṛhṇāmi tattvataḥ /
+%	ācāryaṁ ca grahīṣyāmi mahāvajrakuloccaye // (15 //)
+%	caturdānaṁ pradāṣyāmi ṣaṭ kṛtvā tu dine dine /
+%	mahāratnakule yogye samaye ca manorame // (16 //)
+%	saddharmaṁ pratigṛhṇāmi bāhyaṁ guhyaṁ triyānikam /
+%	mahāpadmakule śuddhe mahābodhisamudbhave // (17 //)
+%	saṁvaraṁ sarvasaṁyuktaṁ pratigṛhṇāmi sarvataḥ /
+%	pūjākarma yathāśaktyā mahākarmakuloccaye // (18 //)
+%	utpādayitvā paramaṁ bodhicittam anuttamam /
+%	gṛhītvā saṁvaraṁ kṛtsnaṁ sarvasattvārthakāraṇāt // (19 //)
+%	atīṛṇāṁs tārayiṣyāmy amuktān mocayāmy aham /
+%	anāśvastān āvāsayiṣyāmi sarvasattvān sthāpayiṣyāmi nirvṛtau // (20 //)-->
+If he does not take the vow, then he may enter (the maṇḍala) but no more.<note>This seems to mean that the pupil in question undergoes only Udakābhiṣeka, Makuṭapaṭṭābhiṣeka and Nāmābhiṣeka. See §3.8.1.6 below. <seg rend="check">Abhayākaragupta has some remarks on this point</seg>.</note> [The master] should not pronounce `<seg rend="check">Today/Now</seg> you' etc.,<note>See STTS 220, quoted just below.</note> and should not perform the permission to become a master nor the consecration as master.<note>Or emend ācāryo 'nujñām?</note></p>
+
+<p>Then, with this (initial part of the mantra), \mantra{om̐ I produce the complete conception of yoga},</p>
+
+<p rend="stanza">
+having produced the ultimate unsurpassed conception of awakening,\\
+the vajra should be <seg rend="check">(mentally)</seg>%this was necessary in 3.3, but maybe not here
+established at his heart, with the heart: \mantra{o beloved one, you are the pledge hoḥ! o vajra realize whatever is desired}!<note>This same stanza has occurred in §3.3.</note></p>
+
+<p>The he should empower Vajrasattva, should worship him with perfumes, flowers, etc., put a garland on him and made his mouth fresh, should collect the best possible fee, consecrate (the pupil) with water from the jar standing outside (of the maṇḍala) and form the Sattvavajrī (seal) with this (mantra): \mantra{you are the pledge}.</p>
+
+<p>Then he should let (the pupil) take a flower garland with his two middle fingers, and let him enter with this heart: \mantra{o pledge hūm̐}. And at the respective gates, with the (mantras called) Vajrāṅkuśa, etc.\ — namely \mantra{o vajrāṅkuśa jaḥ, o vajrapāśa hūm̐,  o vajrasphoṭa vam̐, o vajrāveśa hoḥ} — (he should perform the respective acts of attracting, causing to enter, binding and subjugating). <note>SDPT 290: 
+tatas tayaivāṁgusthābhyāṁ puṣpamālāṁ grāhayitvā praveśayed anena hṛdayena / oṁ vajrasamayaṁ praviśāmīti / pūrvadvāre ca vajrāṁkuśena tam ākarṣayet / dakṣiṇena pāśena praveśayet / paścimena sphoṭena badhnīyāt / uttare vajrāveśena veśayet / punaḥ pūrvadvāreṇa praveśyaivaṁ vadet /</note> Then he should let him enter again by the eastern gate and say the following: `<seg rend="check">Today/Now</seg>, you have entered the family of all Tathāgatas. So I will generate for you the Vajra-Knowledge, through which knowledge you will also obtain the accomplishment of all Tathāgatas, not to mention other accomplishments. And by you it should not be divulged to one who has not seen the great maṇḍala. Your pledge should not waiver!'</p>
+
+<p>Then the Vajra-master should display the Sattvavajrī-seal, both downward and upward, place it on the head of the Vajra-disciple, and say the following: `This pledge vajra will shatter your head, if you divulge it to anyone!'</p>
+
+<p>Then he should, in the same manner with the Pledge-seal, once pronounce the imprecation-heart over the (pledge) water and give it to that disciple to drink. In that regard, there is is imprecation-heart:</p>
+ 
+<p rend="stanza">
+Vajrasattva himself is <seg rend="check">today/now</seg> present in your heart. If you divulge this system, he will immediately break out and leave. \mantra{om̐, vajra water ṭhaḥ}
+</p>
+
+<p>Then he should say to the disciple: `From <seg rend="check">today/now</seg> onward, to you I am Vajrapāṇi. If I say to you `do this!', then it must be done. And I must not be disrespected by you. May you not fall into hell, after dying through non-removal of dangers!'</p>
+</div>
+<div type="subsection"><head type="editorial">Possession</head>
+<p>Then he should visualize himself as white Vajrasattva <seg rend="check">as transformation from</seg> the syllable \mantra{a}. After that, he should visualize the syllable \mantra{a} in his own heart with a garland of Vajra-rays. Again, after letting the disciple visualize immaculate super pure Vajrasattva  <seg rend="check">as transformation from</seg> the syllable \mantra{hūm̐}, he should apply signs on his heart, brow, throat and forehead, with vajra, jewel, lotus and viśvavajra, as transformations of the syllables  \mantra{hūm̐ hrīm̐ hrīḥ kam̐}, and should  open his and his disciple's heart with the door-opening seal. Then he should emit the vajra situated in his own heart as transformation of the syllable \mantra{a}, mentally cause it to enter into the vajra situated in his disciple's heart, and visualize it as filling his entire body. He should say the following: `You should pronounce: ``And let all Tathāgatas take control, let Vajrasattva take posession of me!''.'
+</p>
+<p>Then the Vajra master quickly displays the Sattvavajrī, places it on the (disciple's) heart and should pronounce this:</p>
+
+<p rend="stanza">
+This pledge is that Vajra known as Vajrasattva. May the Vajra knowledge take possession of you right now.
+\mantra{vajra possession aḥ}
+</p>
+
+<p>After it has been pronounced as many as ten times, or a hundred times, he certainly takes posssession (of the disciple). If possession does not occur, then by displaying the Wrath-fist he should cause the Sattvavajrī to burst. And he should pronounce \mantra{vajrasattva aḥ aḥ aḥ aḥ}, and visualize (the disciple) as being filled with by Lord Vajrasattva emitting red light. If possession does not occur even in that way, then he should display the Vajrāveśasamaya seal together with the bell. He should step with his left foot on (the disciple's) right foot, while, in the sky above, above Śrī Vajrasattva, he visualizes Vairocana being stepped upon by the mass of rays of the wrathful syllable \mantra{hūm̐}, 
+	so that the aforementioned (Śrī Vajrasattva) takes possession (of the disciple),
+<!--	% so that (the master) causes the aforementioned (Śrī Vajrasattva) to take possession (of the disciple),
+	% so that he will enter the aforementioned (Śrī Vajrasattva),--> 
+and (while visualizing) below (the disciple) being raised up by the Vajravātamaṇḍalī (seal) to the accompaniment of the syllable \mantra{hūm̐}, and while visualizing (Śrī Vajrasattva) as being hurled down by Akṣobhya, etc., who reside in the East, etc., with the mass of rays of their own seeds — namely \mantra{hūm̐ traḥ hrīḥ aḥ} —, he should cause him to take possession (of the disciple). He should repeat \mantra{vajrasattva aḥ aḥ aḥ aḥ} in this same manner.</p>
+
+<p>Now (if) due to superabundance of sin possession does not occur, his sins need to be exploded again and again with the sin-explosion-seal.</p>
+
+<p rend="stanza">
+Immersed in his deity (<hi rend="italic">susamāhita</hi>), he should ignite the fire with fuel of Madhura (wood) and burn down all his sins with a sesame oblation. \mantra{om̐ to the vajra which burns all sins svāhā!}
+</p>
+
+<p>(This is the mantra he should use) after he has made an effigy of the sin with black sesame seeds in the palm of his right hand, has visualized the syllable \mantra{hūm̐} in the middle, in order to make the oblation with this index and thumb.
+</p>
+<p>Then (if) he leaves the oblation pit and visualizes in the (disciple's) body the sin being burnt by vajras full of flame garlands, (the deity) definitely takes possession. For one whose possession does not occur even in that way,  he should not carry out <seg rend="check">consecration</seg>.</p>
+
+<p>And for one who is possessed, the ripening of the Five Magical powers, etc., then immediately occurs.</p>
+
+<p>Then, once he has determined (the disciple) to be possessed, the master should display the pledge-seal of Vajrasattva<note><seg rend="check">Vajrasattvasamayamudrā: what is this?</seg></note> with the words \mantra{he vajrasatta! he vajraratna! he vajdradharma! he vajrakarma!} and pronounce again \mantra{dance sattva dance vajra!}. If the (disciple), being possessed, displays the seal of Śrī Vajrasattva, then the master shows the seal of the Vajra-fist. In this way, all starting with Śrī Vajrasattva arrange their presence. Then (the master) should enquire regarding a desired object, visualize a Vajra on the tongue of this possessed (disciple), and speak with this (procedure):<note>See MSK §83 anena vidhinā vaktavyam.</note> \mantra{tell, o Vajra!} Then (the disciples) tells everything.
+</p>
+</div>
+<div type="subsection"><head type="editorial">Falling of flowers</head>
+
+<p>Then he should cast that garland in the great maṇḍala, saying: \mantra{o vajra, accept (this) hoḥ} Then, (the deity) on which it fall is realized for him. Then he should tie that garland on the head of the same (disciple), saying: \mantra{o;m very powerful one, you must accept this entity}.<note><seg rend="check">Judging from the STTS,  mahābala is a pupil and sattva is the deity determined by where the flower fell. Add more comment on meaning of sattva in STTS.</seg></note> </p>
+</div>
+<div type="subsection"><head type="editorial">Viewing the maṇḍala</head>
+
+<p>Then she should untie the blindfold, using this (stanza):</p>
+
+<p rend="stanza">
+\mantra{Om̐}. Vajrasattva himself, who is all eyes and whose highest aim is to open eyes, <seg rend="check">now</seg> opens your excellent Vajra-eye. He Vajra, see!
+</p>
+
+<p>Then he should show the great maṇḍala beginning with Vajrāṅkuśa and ending with Vairocana.<note><seg rend="check">For ā---paryantam, SDPT has yāvad---paryantam. Ryugen thinks Dominic (in his first book) has a note on Bhaṭṭa Rāmakaṇṭha's use of similar redundant expressions in his Kiraṇavṛtti. CHECK.</seg></note> Then he should have the entering-seal made at the disciple's heart, (saying) \mantra{stay o vajra}, etc.<note>See occurrence of tiṣṭha vajra at <seg rend="check">@@@; STTS §227</seg>.</note> Then, he shold draw a lunar disc facing the eastern gate, either inside the outer maṇḍala or outside of it; he should use the four seals starting with the one of Sattvavajra as well as (the disciple's) own pledge-seal to transform the disciple into one who has the appearance of Śrī Vajrasattva; should install (the disciple) on the lunar disc with his own great-seal; and should consecrate (him). He should give guest-water, after worshiping (him) with perfumes, flowers, etc. --- with a parasol, with flagpoles, with banners and with blasts of the <hi rend="italic">tūrya</hi> and of the conch-shell.</p>
+</div>
+<div type="subsection"><head type="editorial">3.8.6.1 The <seg rend="check">six</seg>fold consecration</head>
+<!--%this invented name (taken from MSK?) has to be reconsidered
+%cf. 5 Vidyābhiṣekas in Vajrāvalī
+%cf. Kalaśābhiṣeka 
+-->
+<p>Then he should salute (him) with the auspicious stanzas,<note>See the stanzas on p. <seg rend="check">64</seg>, §3.8.2.</note> but first consecrate (him) through the water consecration, <seg rend="check">then through the seal consecration</seg>%this red bit reflects two words that have been lost in SVU transmission due to eye-skip but survive in SDPT and Tib.
+ and through the consecrations with <seg rend="check">crown-turban</seg>,<note>
+STTS 1,40,42 tasmai samantabhadrāya mahābodhisattvāya sarvatathāgatacakravartitve sarvabuddhakāyaratnamukuṭapaṭṭābhiṣekeṇabhiṣicya pāṇibhyām anuprādāt
+KSP 6-2-3-2-8 tataḥ pañcabuddhamakuṭapaṭṭābhiṣekaṃ gṛhṇīyāt</note> with Vajra, with the overlord (of  instruments)<note><seg rend="check">This expression means ghaṇṭā</seg>: see Vajrāvalī §27 (ed. Mori, p. 424).</note> and with the name. Again he should worship (him) with flowers, etc., and with the eightfold worship by means of dance, etc.</p>
+
+<p>After he has given an excellent fee, the disciple should bow to the master and receive the flowers, etc., and the consecrations, using the inverted Vajrāñjali.<note>
+Vajrajvālodayā fol. 174b3–4: iti śatākṣareṇa trir dṛḍhīkṛtya valitavajrāñjalinā bhagavantaṃ praṇamya sarvābhiṣekaṃ gṛhnīyāt |</note> The consecration to become master, on the other hand, he should carry out with the great seal of Śrī Vajrasattva;
+<note>On the equivalence of pratiṣṭhā with abhiṣic, see Vajrāvalī 16.1 (ed. Mori p. 325): tadanu tatra rajomaṇḍale paṭādimaṇḍale vā sākṣātkṛte vā manomayamaṇḍale yathoktapūjādipuraḥsaraṁ śiṣyapratiṣṭhām iva pratimādipratiṣṭhām api kuryāt /.</note> (the master) should impose Śrī Vajrasattva, etc., on his (i.e., the pupil's) body with (their respective) pledge-seals in the places indicated previously<note><seg rend="check">See Ādiyoga section for description of the nyāsa process in the context of four mudrā practices.</seg></note> and should place the image of Śrī Vajrasattva on his head; after which he should give the water consecration and repeat this mantra a hundred and eight times: \mantra{Om̐ Vajrasattva of great bliss jaḥ hūm̐ vam̐ hoḥ you are delighted!} Then he should carry out the complete practice, should praise the disciple with the hundred and eight names, give the authorization with the pentad of stanzas, and prognosticate every disciple's future with the <seg rend="check">Udgatā</seg>-prognostication.<note>Cf. <seg rend="check">§3.8.1.1</seg>.</note></p>
+
+<!--%SDPT 296
+%gandhapuṣpādibhir abhyarcyārghaṃ datvā / chatradhvajapatākādibhis turyaśaṃkhanināditaiś ca / tato maalagāthābhir abhinandyādau tāvad udakābhiṣekena tato mudrābhiṣekena mukuṭapatṭavajrādhipatināmābhiṣekaiś cābhiṣiñcet / punaḥ puṣpādibhir lāsyādyaṣṭavidhapūjayā ca pūjayet / śiṣyenācāryaṃ valitavajrāṃjalinā praṇamyottamāṃ dakṣiṇāṃ datvā puṣpādyabhiṣekāś ca grāhyā iti / ācāryābhiṣekaṃ tu śrīvajrahuṃkāramudrayā tathaiva pratiṣṭhāpya yathā nirdiṣṭeṣu sthāneṣu samayamudrābhis tasya kāye śrīvajrahuṃkārādīn nyasya / punar api anenāṣṭottaraśatasahasraparijaptaṃ vijayakalaśaṃ kṛtvā /-->
+</div>
+
+<div type="subsection"><head type="editorial">3.8.1.7 The esoteric consecration</head>
+
+<p>Then comes the esoteric consecration. He should have a disciple who is eligible for consecration to become master enter [into the maṇḍala] and teach him the real meaning of all of the maṇḍala and the deities,<note>See Bhramahara and Abhisamayamañjarī for occurrences of maṇḍalatattva and devatātattva. RT mentions article by Alex Wayman.</note> as well as the office of a master. Only so far extends the esoteric consecration through which he is consecrated.<note><seg rend="check">RT In later times this cons. is called ācāryābhiṣeka whereas guhyābhi. would certainly involve erotic elements. It is likely that Ānandagarbha knew of the existence of such practices. So it sounds like the intended meaning is in opposition thereto: `That is enough by way of esoteric consecration to consecrate him.'</seg></note></p>
+
+<p>Thus the abbreviated procedure.</p>
+</div>
+</div>
+
+<div type="section" n="2"><head type="editorial">Intermediate procedure</head>
+
+<p>Now is discussed the intermediate procedure. He should take just two cubits distance from the basic maṇḍala and, with five powders, draw an altar (<hi rend="italic">maṇḍala</hi>) that faces its entry gate, that has half the size of its innermost <seg rend="check">zone</seg>  (<hi rend="italic">maṇḍala</hi>), is square, with gate in the west, and draw in the middle of this (altar) an eight-petalled lotus and on top of that a five-pronged vajra of red color that is encircled by rays.
+</p>
+<p>Then he should worship that altar with flowers, etc. Either on a lion-throne covered with a cloth (on which is depicted) a lunar disc, or on a (regular) seat that has been empowered with the Vajrayakṣa (mantra), he should as previously and transform him into Vajrasattva and install him there with the Great Seal of Vajrasattva.<note><seg rend="check">
+Probably the indication pūrvavat refer to the Āveśa section.
+Move punctuation to stand after rather than before vajrasattvamahāmudrayā.
+Let's undo our emendation -bhijapya and rather insert only an anusvāra to get -bhijaptāṁ as adj. only with īṭhikām. In other words, we follow MSK. We can cite evidence from KSP 6-8-1-3-2 (Nīrājanakramaḥ) suggesting that candramaṇḍalapaṭācchannam only qualifies the special seat (siṁhāsanam); hence, vajrayakṣābhijaptām would be necessary only for the normal seat (pīṭhikā). 
+<!--%(N: f. 113r5, K: f. 164v2, T1: f. 156v2, T2: f. 150v4, T3: f. 150r5)
+%likhitāṣṭadalakamalakarṇikopari pīṭhikāyāṃ candramaṇḍalapaṭādicchādite siṃhāsane vā niṣadyādhimokṣeṇa, sanānamaṇḍalarahite vā, tathānyathā ca pīṭhādau bhāvitatanmaṇḍale paṭapustakacaityādikaṃ pūrvābhimukham anyamukhaṃ vā sthāpayet. 
+%rejected alternatives: -bhijaptvā (cf. parijaptvā in Kudrstinirghatana), or emend -bhijaptaṁ (adj. with śiṣyam) or
+--></seg></note></p>
+
+<!--%previous translation: 
+% should utter the Vajrayakṣa (mantra) over a lion-throne covered with a cloth (on which is depicted) a lunar disc, or over a seat; and should, as previously, after having placed him there, transform the disciple into Vajrasattva with the Great Seal of Vajrasattva.
+-->
+<p>He should place a canopy over the lion-throne, and on the right side a white, jewel-crested parasol, adorned with cloth and wreaths and empowered with [Vajrasattva's mantra,] the syllable \mantra{hūm̐}; on the left side (he should place) banners and flags of various colorful textiles empowered with the (mantra of) Gaganagañja<note><seg rend="check">What is this?</seg>
+<!--%KSP oṃ gagane gaganalocane huṃ / gaganagañjasya /
+%SDPT oṃ gagane gaganalocane huṃ / gaganagañjasya /
+%MMK iyaṃ gaganagañjasya mudrā / mantraṃ cātra bhavati sarvakarmikam - gaṃ
+--></note>. He should give guest water and worship (the disciple) with flowers, etc., with musical instruments — conch-shells, kettle-drums, drums, and horns (<hi rend="italic">kāhala</hi>) — that have been empowered with the Instrument-seal,<note>VJU 25.2 (vādyamudrā in Samayoga): tato vādyamudrābhiḥ pūjaye[182r2]t | suṣiraṃ ca tataṃ caiva vitataṃ ca ghanaṃ tathā | ātodyamudrā nirdiṣṭāḥ sarvakarmaprasādhikāḥ || anātodyāpi sidhyante yathāveśapranartanaiḥ | sarvakarmasu cā[182r3]tyantaṃ sātodyā śrīś caturguṇā || hṛnmudrāmantravidyābhir vicitrakaraṇāni tu | viṣkambhakādikaraṇaiḥ sarvasiddhiprasādhikāḥ || etad uktaṃ bhavati |yatho[182r4]ktavādyacatuṣṭayena sāmānyahṛdayam udāharan bhagavantaṃ saparivāraṃ pūjayet | tato dharmamudrākṣarāṇi sarvadevatānām | tato hīḥkārādivi[182r5]śeṣadharmākṣarāṇi | tataḥ śrīherukādimantrān | tato vajrakuloktavidyā udāharan saṃpūjya śrīherukavādyākṣarāṇy udīrayan saparivāraṃ saṃpū[182r6]jayet |</note>
+ and with of <seg rend="check">exoteric</seg> dance and song (empowered) by Vajralāsyā, etc. After receiving the highest fee, (the master) should installing an image of Śrī Vajrasattva on his (i.e., the  disciple's) head and should recite the auspicious verses:</p>
+ 
+ <!--% 2024-04-09: RT, SI and AG need to keep reading down from here-->
+	
+<p rend="stanza">
+The Budda, repository of fortune, resplendent like a mountain of gold, lord of the three worlds, free from the three stains,<note>rāga, dveṣa, moha</note> whose eyes are like wide-open lotus leaves: may you today have his pacifying auspiciousness!\\
+The highest Law, taught by Him, excellent and imperturbed, famous in the three worlds, venerated by men and gods alike, pacifier of the people: may it be  the second good and auspicious one in the world.\\
+The Community united by the Good Law, full of the auspiciousness of learning, to be rewarded by men, gods and demons, the abode of wealth in the form of modesty, the most excellent of troops: may it be the third good and auspicious one in the world.\\
+The auspiciousness which came about when the Tathāgata descended here from the interior of the palace of the Tuṣita gods for the benefit of the world, while accompanied by the gods including Indra, may you today have that pacifying auspiciousness!\\
+The auspiciousness which the Lord Bhavāntaka had when He was born in the Lumbini-grove, which is covered by flowers whose radiance lies in their buds, and which is beautiful, being enjoyed by many gods, may you today have that pacifying auspiciousness!\\
+The auspiciousness which came about when the Tathāgata happily approached the Austerity-grove at midnight in order to destroy the diverse (forms of) suffering, while accompanied by the gods <seg rend="check">including Indra</seg>,<note>Read sendraiḥ?</note> may you today have that pacifying auspiciousness!\\
+The auspiciousness, praised by the magnanimous gods beginning with Acyuta, which the Tathāgata of infinite merit had in the excellent city called Kapila, may you today have that pacifying auspiciousness!\\
+The auspiciousness, which the Sage, who is devoted to the jewel of the Good Law and who has extensive prowess in realizing all aims, had at the time of Awakening, for the benefit of all being, may you today have that pacifying auspiciousness!\\
+The auspiciousness, which the one whose body is of flaming gold, who finds himself upon a bed of cat's eye-colored grass, immovable with his legs very compactly folded in lotus posture, may you today have that pacifying auspiciousness!\\
+The auspiciousness of diverse kinds on the earth and in the sky, which the Lord had at the roots of the king of trees when the numerous troops of Māra were vanquished by the power of his benevolence, may you today have that pacifying auspiciousness!\\
+The auspiciousness, very amazing and clear on the earth and in the sky, which the Sugata had as Teacher when he gave teachings about the excellent wheel of the Law while present in Vārāṇasī, may you today have that pacifying auspiciousness!\\
+The auspiciousness which the Lord Sage Lion of the Śākyas taught in exhaustive manner as beneficial, as supremely pure, as bringing about meritorious acts, as delighting noble people, may you today have that pacifying auspiciousness!<note>See Tanemura 2004: 297 for translation of some parallels verses from KSP.</note>\\
+</p>
+
+<p><seg rend="check">And after praising (the disciple) with the hundred-and-eight names, first he should give consecration and drink from the full pots and then he should take water with the Vajra-fist from the Victory jar (and give the same) while receiting the hearts of Vajrāṅkuśa etc. from all the jars</seg>
+<!--%it seems that a verb like saṁprokṣya is missing after pūrṇakumbhaiḥ
+% emend samastakalaśaiḥ-->
+then he should take water with the Vajra-fist from the Victory-jar
+and after giving both consecration and drink he should consecrate with the (relevant) jar following the procedure of the water consecration. In this situation, the application is like this: \mantra{vajrāṅkuśa om̐ vajra consecrate} up to \mantra{om̐ vajrasattva hūm̐ om̐ vajra consecrate}. He should recite \mantra{mahāsukha} as previously. The rest is just as previously.<note>§3.8.1.6</note> This is the intermediate procedure.
+</p></div>
+</div>
+<div type="subchapter"><head type="editorial">Extensive procedure</head>
+<p>Then comes the extensive procedure for consecration. In the same way he should perform everything and should worship (the disciple) with the eightfold worship by means of dance, etc. Then he should take a jewel(-studded) stick or a golden stick, stand in front (of the disciple) and  pronounce the following with clear voice:</p>
+
+<p rend="stanza">
+O child, the veil of your ignorance has been removed by the Jinas, just as chief surgeons with sticks (remove) the people's cataract.<note>Tanemura 2004: 180, 280 translated `scalpel' in his book.</note></p>
+
+<p>Now the heart for it: \mantra{om̐ vajra-eye remove the veil hrīḥ}. Then he should take a mirror and recount the charactistic<seg rend="check">s</seg> of the entities.</p>
+
+<p rend="stanza">
+The entities are like reflections, transparent, clear, stainless, imperceptible, inexpressable, and they arise from actions as cause.\\
+Recognizing entities to be like that — devoid of own nature, baseess — you should act for universal, incomparable benefit. You are a legitimate son of the Saviors!
+</p>
+
+<p>Then he takes the bell and, while sounding it (he should pronounce):</p>
+
+<p rend="stanza">
+Everying is of ethereal aspect, and ether itself has no aspect. The ultimate sameness of everything is clear as a consequence of the sameness with ether.
+</p>
+
+<p>And then he should give the bell. <seg rend="check">The heart mantra for the giving of the bell will be \mantra{aḥ}.</seg></p>
+
+<p>While (reciting) \mantra{show affection to all Tathāgatas} he should launch four arrows in the four directions. Some, however, say that <seg rend="check">a cover is to be made</seg> below and above with \mantra{hoḥ}.</p>
+
+<p>He should again take the mirror and say the following:</p>
+
+<p rend="stanza">
+For you, Vajrasattva is like a mirror: transparent, clear and stainless. The overlord of all Buddhas is himself present in the heart, o child.
+</p>
+
+<p>He should also say: `Understand that this overlord of all Tathāgatas is this aspiration to awakening'.<note>It seems that Ānandagarbha has forgotten the concluding <foreign>iti</foreign> that is required after <foreign>avagaccha</foreign>.</note> Now the mantra for his receiving of the mirror: \mantra{ā vajrasattva}.</p>
+
+<p>Then he should place a wheel of the Law between (the disciple's) feet, give a conch (to be held) in his right hand, and say the following:</p>
+
+<p rend="stanza">
+From <seg rend="check">today/now</seg> onward, having filled the unsurpassed conch of the Law, turn the wheel of the Law in all direction immediately at the mere conception of the aspiration.\\
+With unhesitating mind, you have no doubt or uncertainty. Give permanent light in the world to the precept which is the system of mantra practice.\\
+You are praised as being a grateful servant of the Buddhas. And those Vajra-bearers all protect all around you.
+</p>
+
+<p>The two (words) Vajracakra and Vajrabhāṣa are to be used together with their Dharma-letters.</p>
+
+<!--%see §2.2.1.2 p. 5 (Vajrahetu=Vajracakra and Vajrabhāṣa=Vajrajāpa)
+%SDPT
+%tad anu tathaiva jihvāyāṁ vajraṁ nyasya yathākrameṇa buddhavajradharādīnāṁ dharmākṣarāṇi nyasyet / etāni ca tāni / (<b>Sdp 264</b>)m huṁkāro buddhavajribhyāṁ traḥkāro vajragarbhataḥ / hrīḥkāro vajrasenasya aḥkāro vajraviśvataḥ / huṁ sattvavajryāḥ / traḥ ratnavajryāḥ / hrīḥ dharmavajryāḥ / aḥ karmavajryāḥ / huṁ he trāṁ traṁ hi hrīḥ deḥ haḥ / iti vajrasattvādīnām / mahārate huṁ / rūpaśobhe huṁ / śrotrasaukhye huṁ / sarvapūjye huṁ / prahlādini huṁ / phalāgame huṁ / sutejāgri huṁ / sugandhāgri huṁ / āpāhī jaḥ huṁ / āhi huṁ huṁ huṁ / he sphoṭa vaṁ huṁ / ghaṇṭa aḥ aḥ huṁ / iti / vajralāsyādīnāṁ vajrāveśaparyantānām iti /
+%STTS
+%atha bhagavān punar api sahacittotpāditadharmacakrapravartimahābodhisattvasamayasaṁbhavadharmādhiṣṭhānavajraṁ nāma samādhiṁ samāpadyedaṁ sarvatathāgatacakrasamayaṁ nāma sarvatathāgatahṛdayaṁ svahṛdayān niścacāra //:(STT 1,60,101) ' vajrahetu ' //(STT 1,61,101)
+% athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajradharo vajradhātumahāmaṇḍal'ādīni sarvatathāgatamaṇḍalāni bhūtvā viniḥsṛtya, bhagavato vairocanasya hṛdaye praviṣṭvaikaghano vajracakravigrahaḥ prādurbhūya bhagavataḥ pāṇau pratiṣṭhitaḥ /.(STT 1,61,102)
+%atha tato vajracakravigrahāt sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā viniścaritvā sahacittotpādadharmacakrapravartanatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghanaḥ sahacittotpāditadharmacakrapravartimahābodhisattvakāyaḥ saṁbhūya, bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āsa /:(STT 1,61,103) " aho vajramayaṁ cakram ahaṁ vajrāgradharmiṇām /(STT 1,61,103) yac cittotpādamātreṇa dharmacakraṁ pravartate " //(STT 1,61,103)
+%atha sa sahacittopāditadharmacakrapravartimahābodhisattvakāyo bhagavato hṛdayād avatīrya sarvatathāgatānāṁ vāmacandramaṇḍalāśrito bhūtvā, punar apy ājñāṁ mārgayām āsa //(STT 1,62,104)
+%atha bhagavān sarvatathāgatacakravajraṁ nāma samādhiṁ samāpadya, sarvatathāgatamahāmaṇḍalasamayam aśeṣānavaśeṣasattvadhātupraveṣāvaivartikacakrasarvasukhasaumanasyānubhagavanārthaṁ yāvat sarvatathāgatasaddharmacakrapravartanottamasiddhinimittaṁ tad vajracakraṁ tasmai sahacittotpāditadharmacakrapravartine mahābodhisattvāya tathaiva pāṇibhyām anuprādāt /.(STT 1,62,105) tataḥ sarvatathāgatair ' vajramaṇḍo vajramaṇḍa !! ' iti vajranāmābhiṣekeṇābhiṣiktaḥ /.(STT 1,62,105)
+%atha vajramaṇḍo bodhisattvo mahāsattvas tena vajracakreṇa sarvatathāgatān avaivartikatve pratiṣṭhāpayann idam udānam udānayām āsa //:(STT 1,62,106) " idaṁ tat sarvabuddhānāṁ sarvadharmaviśo=dhakam /(STT 1,62,106) avaivartikacakraṁ tu bodhimaṇḍam iti smṛtam " iti // //(STT 1,6263,106)
+%atha bhagavān punar apy avācamahābodhisattvasamayasaṁbhavadharmādhiṣṭhānavajraṁ nāma samādhiṁ samāpadyedaṁ sarvatathāgatajāpasamayaṁ nāma sarvatathāgatahṛdayaṁ svahṛdayān niścacāra //:(STT 1,63,107) ' vajrabhāṣa ' //(STT 1,63,107)
+%athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajrapāṇiḥ sarvatathāgatadharmākṣarāṇi bhūtvā viniḥsṛtya, bhagavato vairocanasya hṛdaye praviṣṭvaikaghano vajrajāpavigrahaḥ prādurbhūya, bhagavataḥ pāṇau pratiṣṭhi=taḥ /.(STT 1,6364,108)
+%atha tato vajrajāpavagrahāt sarvalokadhātuparamāṇuraraḥsamās tathāgatavigrahā viniḥsṛtya, sarvatathāgatadharmatādīni sarvabuddharddhivikurvitāni kṛtvā, svavācatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghano 'vācamahābodhisattvakāyaḥ saṁbhūya bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āsa //:(STT 1,64,109) " aho svayaṁbhuvāṁ guhyaṁ saṁdhābhāṣam ahaṁ smṛtaḥ /(STT 1,64,109) yad deśayanti saddharmaṁ vākprapañcavivarjitam " //(STT 1,64,109)-->
+
+<p><seg rend="check">Once more</seg>:
+</p>
+<p rend="stanza">
+For the benefit of all beings, in all worlds, everywhere, may the entire wheel of the Law (<foreign>dharma</foreign>) be turned in accordance with the (relevant) discipline.\\
+For the benefit of all beings, in all worlds, everywhere, may the entire wheel of the Vajra (<foreign>dharma</foreign>) be turned in accordance with the (relevant) discipline.
+</p>
+
+<p>In the same way (are formed the remaining three stanzas with) ``may the wheel of the Wrath (<foreign>krodha</foreign>), the Lotus (<foreign>padma</foreign>) and the Jewel (<foreign>maṇi</foreign>) be turned''. With this pentad of stanzas he should give the permission.</p>
+
+<!--%STTS §2998–3011
+%KSP 6, vs. 15 (Sakurai p. 510)
+
+%check Ratnākaśānti's commentary on GuSaMaVi parallel
+--><p rend="stanza">
+Then he, who has the nature of every Buddha, should prognosticate (the disciple's destiny to become) all the Tathāgatas with the Udgatā and with consecrations under (their) Vajra-names.\\
+Om. I here, as the Tathāgata Vajrasattva, prognosticate you to accomplish an infinite number of existences, while rescuing (others) from the suffering of existence.\\
+Hey Tathāgata caled Vajra, be successful! You are the pledge! \mantra{bhūr bhuvaḥ svaḥ}!
+</p>
+
+<p>In that connection, the Udgatā is this: he should fold the two Tathāgata-fists<note>Note in this mudrā.</note> and then follows the display of holding the edge of his robe with the left (hand), (and) the display of giving boons with his right. And then he should address the disciples as follows:
+</p>
+<p rend="stanza">
+If for someone in the context of a highly esoteric ritual a prognostication is made with this great seal Udgatā, then all the Vajra-bearing Tathāgatas starting with Vajrasattva, along with their assembly circles of great Bodhisattvas, in the maṇḍala of All Tathāgatas make the prognostication for  supreme perfect awakening simultaneously with a single voice. And (they do so) with the empowerment for the highly esoteric highest accomplishment thanks to the great seal Udgatā of this very (<seg rend="check">prognosticator</seg>), and with the power of his mantra. This must be held in firm belief.
+</p>
+
+<p>For the rest, the assurance<note>See Szántó &amp; Griffiths 2015: 371.</note> is to be found in the Śrī Paramādya.</p>
+
+<p>Then he should teach (the disciples) the esoteric pledge knowledge of all maṇḍalas:
+</p>
+<p rend="stanza">
+Throughout the triple-sphered [world] there is no evil like absence of passion. Therefore, you should not practice being indifferent to sexual desire.
+</p><!--%this translation is from Tribe 2016: 118 n. 38-->
+
+<p>And he should pronounce this mantra of the great pledge: \mantra{one of great pledge, hana phaṭ}! Then, having given the mantra, he should teach (them) the knowledge of the four seals of the personal deities. He should speak with this rule: `You should not show any one of the seals to anyone who is untrained in these seals. Why is that? For in that way those beings, despite not having seen the great maṇḍala, will apply the displaying of the seals. Then they will not have success in that way. Then, being seized by doubt (regarding these teachings), they will quickly die as a result of not avoiding inconsistency and fall in the great Avīci hell, while you will suffer a terrible fate.'</p> 
+<!--%tato hṛdayaṁ dattvā svakuladevatācaturmudrājñānaṁ śikṣayet /:(STT 1,143,250)
+%anena vidhinā vaktavyaṁ :(STT 1,143,250)
+%na kasya cit tvayānyasyaiśāṁ mudrāṇām akovidasyaikasya ekatarāpi mudrā darśayitavyā /.(STT 1,143,250)
+%tat kasya hetos (STT 1,143,250)
+%tathā hi te sattvā adṛṣṭamahāmaṇḍalāḥ santo mudrābandhaṁ prayokṣayanti, tadā teṣāṁ na tathā siddhir bhaviṣyati /.(STT 1,143,250)
+%tatas te vicikitsāprāptā viṣamāparihāreṇa śīghram eva kālaṁ kṛtvāvīcau mahānarake pateyuḥ. (STT 1,143,250)
+%tava cāpāyagamanaṁ syād iti //(STT 1,143,250)
+%atha sarvatathāgatasattvasādhanamahāmudrājñānaṁ bhavati /:(STT 1,144,251)
+%cittajñānāt samārabhya vajrasūryaṁ tu sādhayet /(STT 1,144,251)
+%buddhabimbaṁ tu mātmānaṁ vajradhātuṁ pravartayet //(STT 1,144,251)
+%anayā siddhamātras tu jñānam āyur balaṁ vayaḥ /(STT 1,144,251)
+%prāpnoti sarvagāmitvaṁ buddhatvam api na durlabham iti //(STT 1,144,251)
+%sarvatathāgatābhisaṁbodhimudrā //(STT 1,144,251)-->
+
+
+<p>Then, after worshipping all Tathāgatas with the eightfold worship of Lāsyā, etc., and with flowers, etc., on the grounds that `all should worship in accordance with their capacity', he should formulate a request to all Tathāgatas in accordance with the desire (for a particular accomplishment) and<note>The ca after dhūpādibhiḥ is not found in the STTS parelles, and seems to have been inserted by Ānandagarbha.</note> should have (the disciples) worship (these deities) with incense, etc., should as soon as (the disciples) have entered make them refresh (the deities) with offerings of dishes, etc., of every flavor, which have been deposited on the great maṇḍala in accordance with their spending power, and then he should give this Vajra vow for accomplishment:</p>
+
+
+<quote>This [Universal Buddhahood]<note>The term <foreign>sarvabuddhatva</foreign> connotes the <foreign>vajra</foreign>: see <seg rend="check">STTS §233</seg>.</note> here [is present in the hand of Vajrasattva. By you too should be borne forever the vow borne in Vajrapāṇi's hand be borne. \mantra{om̐ vajra pledge for the accomplishment of all tathāgatas, stand! I here bear you o vajrasattva hi hi hi hi hūm̐}!<note>Vajra and Samaya and pupil are homologized. See Udāna quoted right before §2.2.1.2.</note></quote>
+<p>Then the curse heart is to be taught to all, with (the instruction): `Once again it is not to be divulged to anyone.'</p>
+<!--%tato bāhyamaṇḍale vajradhūpādibhiḥ pūjāṁ kṛtvā, tāḥ pūjāḥ svasthāneṣu sthāpayet /(STT 1,208209,314)
+%tataḥ sarve yathāśaktyā pūjayantv iti //(STT 1,209,314)
+%sarvatathāgatān vijñāpya, yathecchayā dhūpādibhiḥ pūjāṁ kārayitvā, yathā praviṣṭān yathāvibhavataḥ sarvarasāhāravihārādibhiḥ sarvopakaraṇair mahāmaṇḍalaniryātitaiḥ saṁtarpyedaṁ sarvatathāgatavajravrataṁ dadyāt //(STT 1,209,315)
+%idaṁ tat sarvabuddhatvaṁ vajrasattvakare sthitam /(STT 1,209,315)
+%tvayāpi hi sadā dhāryaṁ vajrapāṇidṛḍhavratam //(STT 1,209,315)
+%oṁ sarvatathāgatasiddhivajrasamaya tiṣṭha eṣa tvāṁ dhārayāmi vajrasattva hi hi hi hi hūṁ //(STT 1,214,316)
+%tataḥ sarveṣāṁ punar api na kasya cid vaktavyam iti /(STT 1,214,316)
+%śapathāhṛdayam ākhyeyam /(STT 1,214,316)-->
+
+<p>Then he should send off the ones who have entered,  again praise (the deities) with the hundred and eight names, worship (them) with Lāsyā, etc., bow down and offer guest water to them, dedicate the merit to the desired accomplishment, disolve the seal, display the Sattvavajrī three times or seven, circumambulate the maṇḍala, carry out the dismissal, etc., as previously, and destroy the maṇḍala with the mantra \mantra{the syllable a is the entrance [of all entities because they are unarisen originally]}.<note>See §14 of SVU. The mantra is from Vairocanābhisambodhi.</note> The garlands, etc., should be thrown into water. Then he should dig up all stakes with four (times) the syllable \mantra{hūm̐} and should rinse all stakes as well as the images with milk over which  the mantra \mantra{om̐ ruru sphuru blaze stand O you with perfected vision! you who accomplish all aims! svāhā!} %Oṁ, roar! flash! blaze! abide!
+</p><!--%O you with perfected vision! you who accomplish all objectives! svāhā! (Giebel 2001: 130.23 - 30)
+has been pronounced a hundred and eight times. And he should fill in all holes.
+-->
+<p>He should make a multipurpose firepit facing the entrance gate and carry out a pacificatory oblation for himself, his disciples and the king, as well as for all beings. Then he should place the principal disciple to its left side and make precisely a hundred ghee oblations with the mantra of Vajrasattva. Then (he should make) a hundred oblations of sesame seeds mixed with ghee and curd over which the Buddhalocanā has been muttered together with her seal. Then he should besprinkle his head with water over which the Vajrayakṣa has been muttered and tie a protective cord to his left arm with the same (mantra). Then he should recite (the same mantra) seven times while touching this (disciple's) heart with his (own) hand. As for the others, he should in every mentioned instance offer seven oblations. Then he should carry out the besprinkling plus protective cord and the tuching of the heart.</p>
+</div>
+<div type="subchapter"><head type="editorial">Dedication</head>
+	
+<p rend="stanza">
+By the merit that I have accumulated in composing (the Maṇḍala Manual) `For the Rising of All Vajras', which grants every accomplishment with regard to the excellent beings beginning with Vajrasattva, may everyone (including myself, Ānandagarbha) gain the best knowledge which generates bliss (<foreign>ānandagarbha</foreign>), be a unique a friend for all beings, and sovereign Great Vajra-Bearer.<note>An alternative interpretation could be: `… may everyone (including myself, Ānandagarbha) who cherishes (the five classes of) knowledge, that is the womb of bliss, and who is is a unique friend for all beings, become a sovereign Great Vajra-Bearer.’ Cf. Suvarṇaprabhāsottamasūtra: hā vibho khyātacāritra sarvasattvaikabāndhava |; Mañjuśrīgṛha inscription: II.	sarvvasatvopajīvyāku sarvvasatvekanāyaka sarvvasatvaparitrātā sarvvasatvekavāndhava ||</note>
+</p>
+<!--%Shiori's translation of corresponding stanza from Vajrajvālodaya: 
+%I have accumulated merit by writing the Vajrajvālodayā. By the power of it, may people [and I,] for whom the most important is the [five classes of] knowledge, which possesses delight within (ānandagarbhavidyāgra), become Vajra-holders. The manual for sādhana of Śrī Heruka, the honorable and great Lord, which is extracted from the Ārya Sarvabuddhasamāyogatantra has been completed.
+--></div>
+</div>
+
+	<div type="chapter" n="5">
+<div type="subchapter"><head type="editorial">Author's colophon</head>
+<p>This completes the Manual for the Great Vajradhātumaṇḍala called `For the Rising of All Vajras', extracted from the Great King of Tantras, the Realization of the Great Vehicle which is the Illustrious Noble Compendium of the Realities of All Tathāgatas. It was composed by the Great Vajra Master, the reverend Ānandagarbha.</p>
+</div>
+	</div>
+      </body>
+  </text>
+</TEI>
