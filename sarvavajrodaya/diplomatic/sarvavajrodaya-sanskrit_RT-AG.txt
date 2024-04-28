@@ -1649,7 +1649,7 @@ tataḥ °āgneyadigbhāge sthitvottarābhimukho vāhyamaṇḍapū\linebreak{34
 %MSK (viii) nairṛte sthita aiśānakoṇaṁ yāvat pāṭayet / pradakṣiṇayogena cācāryottarasādhakayor gamanam / tatrāyaṁ sūtreṇa mantraḥ / oṁ vajrasamaya sūtraṁ mātikrama hūṁ // iti //
 
 %RT&AG
- nairite sthita °aiśānakoṇaṁ yāvat· | pātayet pradakṣiṇayogena cācāryottarasādhakayor gamanaṁ | tatrāya\linebreak{36r2}tsūtreṇa mantraḥ (°oṁ) vajrasamayasūtra mātikrama hū;mm iti |
+ nairite sthita °aiśānakoṇaṁ yāvat· | pātayet pradakṣiṇayogena cācāryottarasādhakayor gamanaṁ | tatrāya\linebreak{35r2}tsūtreṇa mantraḥ (°oṁ) vajrasamayasūtra mātikrama hū;mm iti |
  	%nairite: em. nairṛte with MSK.
  	%pātayet: pāṭayet MSK.
  	%tatrāyatsūtreṇa: em. tatrāyaṁ sūtreṇa, with MSK (silently).
@@ -1664,7 +1664,7 @@ tataḥ °āgneyadigbhāge sthitvottarābhimukho vāhyamaṇḍapū\linebreak{34
 toraṇaṁ dvāratriguṇaṁ kāryam /
 
 %RT&AG
-jaḥ jaḥ jaḥ °iti | tṛbhi jaḥkārair uttarasādhakena sūtrākarṣaṇaṁ kāyāṁ dvārāṇi cāṣṭamabhāgikāni | \linebreak{36r3} dvārapramāṇāṁ dvāraniyūhāḥ sarvābhayantaraḥ sa○rvavāhyaś ca dvārarddhapramāṇā vedikā | vedikārddhapramāṇā pañcaraṅgikarajobhūmiḥ
+jaḥ jaḥ jaḥ °iti | tṛbhi jaḥkārair uttarasādhakena sūtrākarṣaṇaṁ kāyāṁ dvārāṇi cāṣṭamabhāgikāni | \linebreak{35r3} dvārapramāṇāṁ dvāraniyūhāḥ sarvābhayantaraḥ sa○rvavāhyaś ca dvārarddhapramāṇā vedikā | vedikārddhapramāṇā pañcaraṅgikarajobhūmiḥ
 toraṇaṁ dvāratṛguṇaṁ kāyam· |
 	%tṛbhi: emend tribhir, with MSK (silently as regards -r).
 	%kāyāṁ: emend kāryaṁ |, with MSK (silently).
@@ -1678,7 +1678,7 @@ toraṇaṁ dvāratṛguṇaṁ kāyam· |
 %MSK bāhyamaṇḍalārddhenābhyantaramaṇḍalañ caturaśraṁ caturdvāravedikāparivārtam / aṣṭastaṁbhayuktaṁ ca saṁsūtrya maṇḍalanābhau khadiram adha ekasūcikavajrākāram upari pañcasūcikavajrākāraṁ kīlakaṁ pūrvavad vajrakīlamantreṇa parijapya vajreṇākoṭya tadavasaktasūtreṇābhyantaramaṇḍalabāhyato vajramālāṁ pradakṣiṇakrameṇaiṣānīṁ diśam ārabhya sūtrayet /
 
 %RT&AG
-vāhya\linebreak{36r4}maṇḍalārdhenābhyantaramaṇḍalañ caturasrañ caturdvāraṁ ○ vedikāparivāritaṁ | °aṣṭastambhayuktañ ca saṁsūtrya maṇḍalanābhau khadiram adha °ekasūcikavajrākāremuparipañca\linebreak{36r5}sūcikavajrākāraṁ kīlakaṁ pūrvavat· | vajrakīla§○mantreṇa parijapya | vajreṇākoṭyā tadavaśaktasūtreṇābhyantaramaṇḍalavāhyato vajramalām prakṣi ṇakrameṇaiśānī\linebreak{36r6} (filler) n diśim ārabhya sūtrayet· |
+vāhya\linebreak{35r4}maṇḍalārdhenābhyantaramaṇḍalañ caturasrañ caturdvāraṁ ○ vedikāparivāritaṁ | °aṣṭastambhayuktañ ca saṁsūtrya maṇḍalanābhau khadiram adha °ekasūcikavajrākāremuparipañca\linebreak{35r5}sūcikavajrākāraṁ kīlakaṁ pūrvavat· | vajrakīla§○mantreṇa parijapya | vajreṇākoṭyā tadavaśaktasūtreṇābhyantaramaṇḍalavāhyato vajramalām prakṣi ṇakrameṇaiśānī\linebreak{35r6} (filler) n diśim ārabhya sūtrayet· |
 	%caturasrañ caturdvāraṁ vedikāparivāritaṁ: taken from some scriptural (?) source.
 	%caturdvāraṁ vedikā-: MSK silently emends caturdvāravedikā-, but such a compound is not expected here.
 	%-vāritaṁ | °aṣṭa-: emend -vāritam aṣṭa-.
@@ -1693,7 +1693,7 @@ vāhya\linebreak{36r4}maṇḍalārdhenābhyantaramaṇḍalañ caturasrañ catu
 % MSK maṇḍalapramāṇena ca dviguṇaṁ ṣaḍḍhaste pārimāṇḍalyena kanīyasā pramāṇaṁ sūtraṁ kāryam anyatrānurūpam //
 
 % RT&AG
-maṇḍalapramāṇena ca dviguṇaṁ ṣaḍḍhaste parimāṇḍalyena kanīyasī pramāṇaṁ sūtraṁ kāya\foliobreak{36v1}m anyatrānurūpa | 
+maṇḍalapramāṇena ca dviguṇaṁ ṣaḍḍhaste parimāṇḍalyena kanīyasī pramāṇaṁ sūtraṁ kāya\foliobreak{35v1}m anyatrānurūpa | 
  	%ṣatṛste: emend ṣaḍḍhaste, with MSK (silently).
 	%pari-: emend pāri-, with MSK (silently).
 	%kanīyasī: emend kanīyasā, with MSK.
