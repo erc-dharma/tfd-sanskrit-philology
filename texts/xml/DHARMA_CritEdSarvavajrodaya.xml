@@ -1295,6 +1295,7 @@ tato yathāva<app><lem wit="#MSK">ddvārodghāṭanaṃ<!-- ddvārodghāṭana�
   <rdg wit="#cod">sarvavuddhāṁ</rdg></app>  samājayet //</l> 
 <l n="c">vāmācchaṭakatālena <app><lem type="emn"><seg rend="check">savyatāleti</seg></lem>
    <note corresp="#SVU #Tib"><foreign>g-yas pa thal mo zhes bya ste</foreign></note>
+   <!-- did we mean #STTS or #KSP instead of #SVU?-->
   <rdg wit="#cod #MSK">samyaktāleti</rdg></app>  siddhyati /</l> 
 <l n="d">dakṣiṇena tu tāloktā saṃnipātāvubhā<app><lem wit="#cod">vapīti</lem>
   <note><ptr target="#MSK"/> note indicates that they read <foreign>ayīti</foreign></note></app><listApp type="parallels"><app><lem>bāhubhyāṁ</lem><note><foreign>Samāyoga</foreign> 9.320, 322:
@@ -1441,10 +1442,10 @@ etaduktaṃ <app><lem type="emn" wit="#MSK">bhavati<!-- bhavati --></lem>
   <rdg wit="#cod">savā dṛśyā</rdg>
   <note><ptr target="#MSK"/>'s reports the reading as <foreign>sarva x x x</foreign>.</note>
 <!--   or should one read sa\supplied{r}vā\supplied{ṁ} dṛśyā\supplied{ṁ}? -->
-</app>nkṛtvā jaḥ hūm̐ vam̐ hoḥ samayastvam / samayastvamaham / svahṛdayāni <app><lem type="emn">mantrāṃśca<!-- mantrāṃśca --></lem>
+</app>nkṛtvā jaḥ hūm̐ vam̐ hoḥ samayastvam / samayastvamaham / svahṛdayāni <app><lem type="emn">mantrāṃśca</lem>
   <rdg wit="#cod">mantrāś</rdg>
   <rdg wit="#MSK">mantrāñ</rdg><witDetail wit="#MSK" type="silemn"/> 
-</app> śrīvairocanādīnāṃ triruccārya / dharmakarmamahāmudrābhi<app><lem type="emn">ścainānāmudryābhi<!-- ścainānāmudryābhi</seg> --></lem><note corresp ="#Tib"/>
+</app> śrīvairocanādīnāṃ triruccārya / dharmakarmamahāmudrābhi<app><lem type="emn">ścainānāmudryābhi</lem><note corresp="#Tib"/>
   <rdg wit="#cod #MSK">ca nānāmudrābhi</rdg>
   <note><foreign>chos dang las dang phyag rgya chen po rnams kyis kyang | de rnams la rgyas btab ste | dbang bskur
 ba’i phyag rgya rnams kyis</foreign> Tib.</note></app>
@@ -1516,7 +1517,7 @@ lāsyādyaṣṭavidhapūjayā ca saṃpūjya /
 <l n="ab">oṁ namaḥ sarvatathāgatamahāprītiprāmodyakarebhyo vajrahāse haḥ /</l>
 </lg>
 <lg met="FILL-ME-IN"><head type="editorial">Vajradharma</head>
-<l n="ab"><app><lem wit="#MSK" type="emn">oṁ sarva<!-- oṁ sarva --></lem><note corresp="#STTS"/>
+<l n="ab"><app><lem wit="#MSK" type="emn">oṁ sarva</lem><note corresp="#STTS"/>
   <rdg wit="#cod">oṁ namaḥ sarva-</rdg></app>tathāgatavajra<app><lem>dharmasamatā</lem><note>\emn\ <foreign>-vajradharmatā-</foreign>, with STTS?</note></app>
 <app><lem wit="#MSK" type="emn">samādhibhiḥ stunomi</lem><note corresp="#STTS"/>
   <rdg wit="#cod">samādhibhi stutomi</rdg>
@@ -1664,9 +1665,12 @@ tataḥ śrīvajrasattva<app><lem type="emn" wit="#MSK">śatākṣaraṃ<!-- śa
   <rdg wit="#cod">yāvad khedo</rdg>  
   <note>(thus also <ptr target="#MSK"/>; the <foreign>sandhi</foreign> is impossible.)</note>
 </app> na jāyate /
-khede sati <app><lem wit="#MSK">puna<!-- puna --></lem><witDetail wit="#MSK" type="silemn"/>
-  <rdg wit="#cod">puna</rdg></app> rnāmāṣṭaśata<app><lem wit="#MSK">stuti<!-- stuti --></lem><witDetail wit="#MSK" type="silemn"/><note><seg rend="check">CHECK!!</seg></note>
-  <rdg wit="#cod">stutiṁm</rdg></app> marghaṃ dattvā pūjāṃ catuḥpraṇāmaṃ ca kṛtvā yatoyataḥ samutpannā mudrāstāstatratatraiva muñcet / sattvavajrādimudrāmokṣam / <app><lem wit="" type="emn">vajra<!-- \edtext{vajra --></lem> <note>with STTS §309;</note>
+khede sati <app><lem wit="#MSK">puna</lem><witDetail wit="#MSK" type="silemn"/>
+  <rdg wit="#cod">puna</rdg></app> rnāmāṣṭaśata<app>
+    <lem wit="#MSK">stuti</lem><witDetail wit="#MSK" type="silemn"/><note><seg rend="check">CHECK!!</seg></note>
+  <rdg wit="#cod">stutiṁm</rdg>
+</app> marghaṃ dattvā pūjāṃ catuḥpraṇāmaṃ ca kṛtvā yatoyataḥ samutpannā mudrāstāstatratatraiva muñcet / sattvavajrādimudrāmokṣam / 
+<app><lem type="emn">vajra</lem><note corresp="#STTS"/>
   <rdg wit="#cod">vajrasatva</rdg>
   <note><ptr target="#MSK"/> emends <foreign>vajrasattva</foreign>.</note>
 </app> muriti<listApp type="parallels"><app><lem>vajra mur iti</lem><note>STTS §309: <foreign>atha sarvamudrāṇāṁ sāmānyo mokṣavidhivistaro bhavati. tatrādita eva yato yataḥ samutpannā mudrā tāṁ tatra tatraiva muñced anena hṛdayena, vajra muḥ</foreign>.</note></app></listApp> /
@@ -1780,7 +1784,7 @@ sattvavajrīṃ <app><lem wit="#MSK">cordhvato<!-- cordhvato --></lem><witDetail
 
 
 <p>
-tato vajrātmakādi<app><lem wit="">caturmudrā<!-- caturmudrā --></lem>
+tato vajrātmakādi<app><lem wit="#MSK">caturmudrā</lem>
   <rdg wit="#cod">catumudrā-</rdg></app> <app><lem wit="#cod">maṇḍaloktahṛdaya<!-- maṇḍaloktahṛdaya --></lem>
   <rdg wit="#MSK">-maṇḍale rakṣahṛdaya-</rdg></app> pañcakena vajradhātumahāmaṇḍalaṃ nirmāya <app><lem type="emn" wit="#MSK">pūrvoktai<!-- pūrvoktai --></lem>
   </app>rhṛdayaiḥ śrīvairocanādīn yathāsthāne niveśyākāśasamatāyoge<seg rend="check">ṇa</seg> praviśya <app><lem type="emn">taiḥ saha</lem>
@@ -1826,18 +1830,19 @@ karmāṇy ārabhamāṇaṃ hi puruṣaṃ śrīr niṣevate</foreign> || 9.300
 
 
 <p>
-tataḥprabhṛti tayā kalaśādikamākāśe <app><lem type="emn" wit="#MSK">sthāpayet<!-- sthāpayet --></lem>
+tataḥprabhṛti tayā kalaśādikamākāśe <app><lem type="emn" wit="#MSK">sthāpayet</lem>
   <rdg wit="#cod">sthāpayeti</rdg></app>  / 
 </p>
 
 <lg met="FILL-ME-IN">
-	<l n="ab"><app><lem wit="" type="emn">dvivajrāgryāṅgulī<!-- dvivajrāgryāṅgulī --></lem> following STTS;
-  <rdg wit="#cod #MSK">dvivajrāṅgulī</rdg></app>  samya<app><lem type="emn" wit="#MSK">ksaṃdhāyottānato<!-- ksaṃdhāyottānato --></lem>
+	<l n="ab"><app><lem type="emn">dvivajrāgryāṅgulī</lem><note corresp="#STTS"/>
+  <rdg wit="#cod #MSK">dvivajrāṅgulī</rdg></app>  
+  samya<app><lem type="emn" wit="#MSK">ksaṃdhāyottānato</lem>
   <rdg wit="#cod">sandhāyottanato</rdg>
   <note>but STTS reads differently.</note>
 </app> dṛḍham /</l> 
-<l n="cd">utthāpayen mṛtaṃ <app><lem type="emn" wit="#MSK">sarvaṃ<!-- sarvaṃ --></lem>
-  <foreign>sarva</foreign>
+<l n="cd">utthāpayen mṛtaṃ <app><lem type="emn" wit="#MSK">sarvaṃ</lem>
+  <rdg wit="#cod">sarva</rdg>
 </app> <app><lem type="emn" wit="#MSK">vajrottiṣṭheti<!-- vajrottiṣṭheti --></lem>
   <rdg wit="#cod">vajrotiṣṭheti</rdg></app>  saṃjñiteti<listApp type="parallels"><app><lem>dvivajrāṅgulī ... saṃjñiteti</lem><note>STTS 963:
   <foreign>dvivajrāgryāṅgulī samyak saṁdhāya susamāhitaḥ |
