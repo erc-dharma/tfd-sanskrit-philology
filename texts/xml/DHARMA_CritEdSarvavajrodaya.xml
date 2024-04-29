@@ -258,9 +258,10 @@ ityādiyogo nāma samādhiḥ  //  //</lem><note type="altLem">cintanīyā ... s
 
 <p>
 <!-- ($\rightarrow$KSP) -->
-<app><lem>tadanu <app><lem type="emn" wit="#MSK">vajradhātvīśvaryā<!-- vajradhātvīśvaryā --></lem><witDetail wit="#MSK" corresp="#KSP #Tib"/>
-  <rdg wit="#cod">vajradhātvīśvaryādi</rdg> 
-<!--   \MSK\ emends <foreign>vajradhātvīśvaryā}, with Tib. -->
+<app><lem>tadanu <app><lem type="emn" wit="#MSK">vajradhātvīśvaryā</lem><witDetail wit="#MSK" corresp="#KSP #Tib"/>
+  <rdg wit="#cod">vajradhātvīśvaryādi</rdg>
+  <note corresp="#KSP #Tib"/> 
+<!--   \MSK\ emends <foreign>vajradhātvīśvaryā}, with KSP Tib. -->
 </app> caturṣu sthāneṣvātmānamadhiṣṭhāya bodhyagrīṃ baddhvā <app><lem type="emn" wit="#MSK">hṛdgatavajrasattvaṃ<!-- hṛdgatavajrasattvaṃ --></lem>
   <rdg wit="#cod">hṛdgatāvajrasatvañ</rdg>
   <rdg wit="#KSP #Ied">hṛdgatavajrasattvaṁ</rdg>
@@ -282,8 +283,8 @@ ityādiyogo nāma samādhiḥ  //  //</lem><note type="altLem">cintanīyā ... s
 <p>tataḥ sarvatathāgatahṛdayebhyaḥ candramaṇḍalāni bhūtvā viniḥsṛtya yāvatsarvalokadhātuṣu sarvasattvānāṃ nairātmyaprativedhaṃ kārayitvā <app><lem type="emn" wit="">candramaṇḍalākāraṃ cittaikāgratāṃ<!-- candramaṇḍalākāraṃ cittaikāgratāṃ --></lem><witDetail corresp="#KSP #Ied"/>
   <rdg wit="#cod">candramaṇḍalākārāṁ cittaikāgratāṁ</rdg>
   <rdg wit="#MSK">candramaṇḍalākāraṁ cittaikāgratāṁ</rdg><witDetail wit="#MSK" type="silemn"/></app> 
- niṣpādyāgatya sarvadevatāsthāneṣu candramaṇḍalānye<app><lem wit="#cod">va<!-- va --></lem><witDetail corresp="#KSP #Ied"/>
-  <rdg type="emn" wit="#MSK">evaṁ</rdg> 
+ niṣpādyāgatya sarvadevatāsthāneṣu candramaṇḍalānye<app><lem wit="#cod">va</lem><witDetail wit="#cod" corresp="#KSP #Ied"/>
+  <rdg wit="#MSK">evaṁ</rdg><witDetail wit="#MSK" type="emn"/> 
 <!--   \MSK\ emends to <foreign>evaṁ}. -->
 </app> bhūtvāvasthitaṃ cintayet //<listApp type="parallels">
   <app><lem>tataḥ ... cintayet</lem>
