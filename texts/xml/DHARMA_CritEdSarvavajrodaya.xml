@@ -551,8 +551,8 @@ miti<listApp type="parallels"><app><lem>idaṁ ... niyojitam iti</lem><note>STTS
   <rdg wit="#MSK">chodayati</rdg></app>  <app><lem wit="#MSK">śuddhānāṃ<!-- śuddhānāṃ --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">suddhānāṁ</rdg></app>  buddhānāmapi tāyi<supplied reason="lost">nā</supplied>m<listApp type="parallels"><app><lem>aho ... tāyi<supplied reason="lost">nā</supplied>m</lem><note>STTS 72. 
   The MS and the editions read the first half as follows:
-  <rdg wit="#cod #Yed">aho hy anupaman tejaḥ satvadhātvavabhāsanam</rdg>
-  <rdg wit="#Hed">aho hy anupamaṁ tejaḥ sattvadhātvavabhāsanam</rdg>
+  <ptr target="#cod #Yed"/>: <foreign xml:lang="san-Latn">aho hy anupaman tejaḥ satvadhātvavabhāsanam</foreign>
+  <ptr target="#Hed"/>: <foreign xml:lang="san-Latn">aho hy anupamaṁ tejaḥ sattvadhātvavabhāsanam</foreign>
 <!--   yac chodhayati śuddhānāṁ buddhānām api tāyinām ||}. -->
 <!--   STTS has variants here. -->
 </note></app></listApp>//</l></lg>
@@ -2115,7 +2115,7 @@ sannipāto 'dya me hy agraḥ sarvabuddhanimantraṇāt ||</foreign>
 Only the first and third stanza are found in Padmaśrīmitra's <foreign>Maṇḍalopāyikā</foreign>:
 <foreign>adya me saphalaṃ janma saphalaṃ jīvitaṃ ca me |
 samaḥ samayadevānāṃ bhavitāhaṃ na saṃśayaḥ ||
-agro me divaso hy *adya</foreign> (\corr\ <rdg wit="#cod">adyaḥ</rdg> )<foreign>yajño me (')dya niruttaraḥ |
+agro me divaso hy *adya</foreign> (\corr\ <ptr target="#cod"/>: <foreign xml:lang="san-Latn">adyaḥ</foreign> )<foreign>yajño me (')dya niruttaraḥ |
 ājñāṃ karomy ahaṃ nātha sarvabuddhānukaṃpayā ||</foreign>
 (<foreign>pāda</foreign>s c and d are different) (f.\ 7v1)
 </note></app>
@@ -2237,7 +2237,7 @@ tatastayā svasamayamudrayātmānaṃ <app><lem type="emn" wit="#MSK">sakṛdadh
 pādatalaparigraheṇa <app><lem type="emn" wit="">ca rasātala<!-- ca rasātala --></lem>
   <rdg wit="#cod">cārasātalam</rdg> 
   <note><foreign>-grahe(ṇ)a</foreign>: the scribe has accidentally added a diagonal stroke to <foreign>ṇa</foreign>. Perhaps he meant to cross out the <foreign>akṣara</foreign>.
-  <rdg wit="#MSK">pādatalaparigraheṇa bhūmitalam</rdg> .
+  <ptr target="#MSK"/><foreign xml:lang="san-Latn">pādatalaparigraheṇa bhūmitalam</foreign>.
   This emendation is unwarranted.
   cf. Ratnākaraśānti <foreign>Bhramaharasādhana</foreign> for term <foreign>sīmābandha</foreign> and <foreign>ārasātala</foreign>.</note>
 </app>mupādāya sumeru<app><lem type="norm">pṛṣṭhaṃ<!-- pṛṣṭhaṃ --></lem>
@@ -2349,7 +2349,7 @@ pañcatathāgatasthāneṣu <app><lem type="emn">caturasrāṇi<!-- caturasrā�
   <rdg wit="#cod">svamantrais ca</rdg>
   <rdg wit="#MSK">svamantraiś ca</rdg>
   <note>This emendation is supported by Tib.</note>
-  <note><rdg wit="#cod">svamantrais ca</rdg> .
+  <note><ptr target="#cod"/>: <foreign xml:lang="san-Latn">svamantrais ca</foreign>.
   correct or read <foreign>svamantraiś ca</foreign>. See note on preceding sentence.</note>
 </app> saptavāra<app><lem wit="#MSK">parijaptāni<!-- parijaptāni --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">-parijāptāni</rdg></app>  //</p>
@@ -2808,7 +2808,7 @@ oṁ vajrasattva hūm̐ iti //</l>
   <rdg wit="#MSK">vajrasattvodāharan</rdg> <note>(emendation not clearly indicated)</note>
 </app>nvajrasattvamātmānaṃ <app><lem><seg rend="check">niścintya</seg></lem><note>Emend <foreign>niścitya</foreign>?</note></app>
  <app><lem>tatsūtraṃ</lem>
-  <note><rdg wit="#MSK">tatsūtraṁ</rdg> 
+  <note><ptr targe="#MSK"/><foreign xml:lang="san-Latn">tatsūtraṁ</foreign>
   This should be separate words.</note></app>
  vāmavajramuṣṭyādāya <app><lem wit="#MSK">jaḥkāreṇa<!-- jaḥkāreṇa --></lem>
   <witDetail wit="#cod" type="pc"/>
@@ -4166,7 +4166,7 @@ puṣpaḥ 1 / devaḥ 2 / śaśī 3 / smṛtiprabhaḥ 4 / kuśalaprabhaḥ 5 /
   <note>Emend <foreign>amitaśūraḥ</foreign>?</note>
 </app> 4 / sukhābhaḥ 5 / <app><lem type="emn" wit="#MM">sumedhaḥ<!-- sumedhaḥ --></lem>
   <rdg wit="#cod">sumedhāḥ</rdg></app>  6 / <app><lem wit="#cod">vimokṣā+<supplied reason="lost">ci</supplied>ntī<!--vimokṣā+<supplied reason="lost">ci</supplied>ntī--></lem><note>
-  <rdg wit="#MM">vimokṣamohārthacintī</rdg> . There doesn't seem to be enough space in the gap to justify \MM's reconstruction based on Tib and Ch. It is possible that a tiny part of <foreign>ci</foreign> and a bit more of <foreign>ntī</foreign> remain visible before the number 7. Restore <foreign>vimokṣārthacintī</foreign>?
+  <ptr target="#MM"/><foreign xml:lang="san-Latn">vimokṣamohārthacintī</foreign> . There doesn't seem to be enough space in the gap to justify \MM's reconstruction based on Tib and Ch. It is possible that a tiny part of <foreign>ci</foreign> and a bit more of <foreign>ntī</foreign> remain visible before the number 7. Restore <foreign>vimokṣārthacintī</foreign>?
 </note></app> 7 / <app><lem type="emn" wit="#MM">viśiṣṭhasvaraḥ<!-- viśiṣṭhasvaraḥ --></lem>
   <rdg wit="#cod">visiṣṭhasvaraḥ</rdg></app>  8 / laḍitāgragāmī 9 / <app><lem wit="#cod">śamathaḥ<!-- śamathaḥ --></lem>
   <rdg wit="#MM">śantārthaḥ</rdg> <note> (sic)</note>
