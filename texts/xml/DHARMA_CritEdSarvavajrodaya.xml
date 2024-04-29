@@ -1950,29 +1950,29 @@ tato <app><lem wit="#MSK" type="norm">bhūmiṃ<!-- bhūmiṃ --></lem>
   <rdg wit="#MSK">susamaṁ</rdg><witDetail wit="MSK" type="emn"/></app>  <app><lem wit="#cod">kūṭāgāramantargatāṃ<!-- kūṭāgāramantargatāṃ --></lem>
   <rdg wit="#MSK">kūṭāgārāntargataṁ</rdg><witDetail wit="MSK" type="emn"/> 
 <note><seg rend="check">(Tib supports the emendation. NOTE)</seg></note>
-</app> <app><lem wit="#cod">catustoraṇaśobhitāṃ<!-- catustoraṇaśobhitāṃ --></lem>
-  catustoraṇaśobhitaṁ \emn\ <witDetail wit="#MSK" type="silemn"/>
+</app> <app><lem type="norm">catustoraṇaśobhitāṃ</lem>
+  <rdg wit="#MSK">catustoraṇaśobhitaṁ</rdg><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">catustoraṇasobhitām</rdg></app> 
-<app><lem type="emn" wit="">caturdvārākṣavāṭaparivṛtaparyantāṃ<!-- caturdvārākṣavāṭaparivṛtaparyantāṃ --></lem>
+<app><lem type="emn">caturdvārākṣavāṭaparivṛtaparyantāṃ</lem>
   <rdg wit="#cod">caturdvārātkavāṭaparivṛtaṁ paryante</rdg>
   <rdg wit="#MSK">caturdvārākṣavāṭaparivṛtaṁ paryanta-</rdg></app> 
-<app><lem type="emn" wit="">sucitrita<!-- \edtext{sucitrita --></lem>
+<app><lem type="emn">sucitrita</lem>
   <rdg wit="#cod">sucittritam</rdg>
   <rdg wit="#MSK">sucitritam</rdg><witDetail wit="#MSK" type="silemn"/> 
-</app>saghaṇṭāvasaktasatketu<app><lem type="emn" wit="">vitānavitatottamāṃ<!-- vitānavitatottamāṃ --></lem>
+</app>saghaṇṭāvasaktasatketu<app><lem type="emn">vitānavitatottamāṃ</lem>
   <rdg wit="#cod #MSK">vitānavitanottamam</rdg></app> <listApp type="parallels"><app><lem>sucitrita... vitatottamāṁ</lem><note>Cf. <foreign>Samāyoga</foreign> 6.3cd:
   <foreign>ghaṇṭāvasaktasatketuvitānavitatottame</foreign>
 </note></app></listApp>
-buddharatnādi<app><lem type="norm" wit="">paṭapratimābhirupaśobhitāṃ<!-- paṭapratimābhirupaśobhitāṃ --></lem>
+buddharatnādi<app><lem type="norm">paṭapratimābhirupaśobhitāṃ</lem>
   <rdg wit="#cod">-paṭapratimābhirūpasobhitām</rdg>
   <rdg wit="#MSK">-paṭṭapratimābhir upaśobhitam</rdg></app> 
-<app><lem type="emn" wit="">catuṣkoṇāva<!-- catuṣkoṇāva --></lem>
-  <rdg wit="#cod">catukoṇāva-</rdg></app> sthitadhūpa<app><lem wit="#cod">ghaṭikāṃ<!-- ghaṭikāṃ --></lem>
+<app><lem type="emn">catuṣkoṇāva</lem>
+  <rdg wit="#cod">catukoṇāva-</rdg></app> sthitadhūpa<app><lem wit="#cod">ghaṭikāṃ</lem>
   <rdg wit="#MSK">-ghaṭikaṁ</rdg><witDetail wit="MSK" type="emn"/>
   <rdg wit="#MSK">-ghaṭṭikām</rdg></app> 
 puṣpadīpavastrādibhi<app><lem type="emn" wit="#MSK">ścopaśobhya</lem>
   <rdg wit="#cod">cascopasobhya</rdg>
-  <rdg wit="#MSK">casvopaśobhya</rdg></app>  gandhenopalipya <app><lem type="emn" wit="#MSK">vajrayakṣa<!-- vajrayakṣa --></lem>
+  <rdg wit="#MSK">casvopaśobhya</rdg></app>  gandhenopalipya <app><lem type="emn" wit="#MSK">vajrayakṣa</lem>
   <rdg wit="#cod">vajrayarakṣa-</rdg></app> parijaptagandhodakena prokṣya bhūmau hastaṃ dattvā
 vajrasattvaṃ śatākṣaraṃ ca saptaśa āvartayediti//
 </p>
@@ -1994,11 +1994,11 @@ vajrasattvaṃ śatākṣaraṃ ca saptaśa āvartayediti//
 </app>
 </p>
 <lg met="FILL-ME-IN">
-	<l n="ab"><app><lem type="norm" wit="#MSK">svayaṃ<!-- svayaṃ --></lem> 
-  <rdg wit="#cod">svaya</rdg></app>  <app><lem type="emn" wit="">prātaḥ<!-- prātaḥ --></lem>
+	<l n="ab"><app><lem type="norm" wit="#MSK">svayaṃ</lem> 
+  <rdg wit="#cod">svaya</rdg></app>  <app><lem type="emn">prātaḥ</lem>
   <rdg wit="#cod #MSK">snātaḥ</rdg></app>  sugandhāṅgo
 <!--   ov; sugandhaṁgo <ptr target="#cod"/> -->
-<app><lem>yathāptyābharaṇāmbaraḥ<!-- yathāptyābharaṇāmbaraḥ --></lem><note>RT proposes \emn\ yathāptā-.</note></app> /</l>
+<app><lem>yathāptyābharaṇāmbaraḥ</lem><note>RT proposes \emn\ yathāptā-.</note></app> /</l>
 <l n="cd">suraktavastra<app><lem type="emn" wit="#MSK">saṃvītaḥ<!-- saṃvītaḥ --></lem> 
   <rdg wit="#cod">-sampītaḥ</rdg></app>  <app><lem type="emn" wit="#MSK">sragvī<!-- sragvī --></lem> 
   <rdg wit="#cod">śragdhī</rdg> 
@@ -2015,8 +2015,8 @@ vajrasattvaṃ śatākṣaraṃ ca saptaśa āvartayediti//
 <lg met="FILL-ME-IN">
 <l n="ab">śuklāṣṭamīmārabhya daśamīṃ trayodaśīṃ caturdaśīṃ vārabhya pañcadaśīṃ yāvanmaṇḍalakarma <app><lem wit="#MSK">kuryāt<!-- kuryāt --></lem><witDetail wit="#MSK" type="silemn"/> 
   <rdg wit="#cod">kuyāt</rdg></app>  /</l>
-<l n="cd"><app><lem type="emn" wit="">prakṛtisthabhūbhāgaṃ<!-- prakṛtisthabhūbhāgaṃ --></lem>
-  <rdg wit="#cod #MSK">prakṛtisthabhūbhāge</rdg></app>  tu <app><lem type="emn" wit="">saṃmārjyopalepanaṃ<!-- saṃmārjyopalepanaṃ --></lem> 
+<l n="cd"><app><lem type="emn">prakṛtisthabhūbhāgaṃ<!-- prakṛtisthabhūbhāgaṃ --></lem>
+  <rdg wit="#cod #MSK">prakṛtisthabhūbhāge</rdg></app>  tu <app><lem type="emn">saṃmārjyopalepanaṃ<!-- saṃmārjyopalepanaṃ --></lem> 
   <rdg wit="#cod">sanmārjyepalepana</rdg> 
   <rdg wit="#MSK">saṁmārjya lepanaṁ</rdg><witDetail wit="#MSK" type="silemn"/> 
 </app> kṛtvā tathaiva <app><lem wit="#MSK">hastenālabhya<!-- hastenālabhya --></lem><witDetail wit="#MSK" type="silemn"/> 
