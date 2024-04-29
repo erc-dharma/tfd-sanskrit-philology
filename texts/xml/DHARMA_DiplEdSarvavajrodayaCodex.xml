@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_DiplEDSchema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_DiplEDSchema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Sarvavajrodayā Maṇḍalopāyikā</title>
+                <title type="sub">Digital Diplomatic Edition of the Nepalese <foreign>codex unicus</foreign></title>
+                <!-- fill in the subtitle if necessary -->
+                <editor ref="part:ryta">
+					<forename>Ryugen</forename>
+					<surname>Tanemura</surname>
+				</editor>
+                <editor ref="part:argr">
+					<forename>Arlo</forename>
+					<surname>Griffiths</surname>
+				</editor>
+                <respStmt>
+                    <resp>creation of the file</resp>
+                    <!-- work done in the file, e.g. editor, intellectual authorship of edition ...-->
+                    <persName ref="part:argr"><!-- update the id -->
+                        <forename>Arlo</forename><!-- fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Griffiths</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Tokyo, Lyon, Jakarta</pubPlace>
+                <idno type="filename">DHARMA_DiplEdSarvavajrodayaCodex</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Ryugen Tanemura &amp; Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                        <!-- Give your witness an unique identifier -->
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Kathamandu</settlement>
+                                <institution>National Archives Nepal</institution>
+                                <repository>???</repository>
+                                <idno>3-360</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <msItem>
+                                    <author>Ānandagarbha</author>
+                                    <title>Sarvavajrodayā Maṇḍalopāyikā</title>
+                                </msItem>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p>Palm-leaf manuscript. ... leaves in ... script. Apparently written in ... CE.</p>
+                                </objectDesc>
+                            </physDesc>
+                            <history>
+                                <!-- Here you can decribe the history of the manuscript in prose. Use <origDate> and <origPlace> to emphasize the place and date of creation -->
+                                <p>Catalogs?</p>
+                            </history>
+                        </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <!-- Part mandatory -->
+                <p>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+                <!-- Optionally add here a second <p> to describe the specifics of the subproject that has led to this edition. -->
+            </projectDesc>
+            <editorialDecl>
+                <!-- As stated in the EGC, this element shall be used only if your edition follows principles that are different from or more fine-grained than those established in the project's guides. Among the following elements, you may keep only the ones your need for your edition. If you use one, its contents must be contained in at least one <p> of free text. If you don't need any <editorialDecl> at all, you may eventually remove this entire section of the file. -->
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <punctuation>
+                    <p/>
+                </punctuation>
+            </editorialDecl>
+            <samplingDecl>
+                <!-- To be kept only to explain in prose the method to choose the corpus, e.g. ommission of the material ...-->
+                <p/>
+            </samplingDecl>
+            <!--schemaRef  will need to be added once a  official realase is done -->
+            <!-- variantEncoding is a  mandatory element. You have to select one of the two solutions given in DHARMA depending how you chave chosen to encode your apparatus. If inline, select @method="parallel-segmentation" as per section §5 of EGC, but if you are encoding your apparatus after any section, mostly being stanza, use  @method="location-referenced". 
+				
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+			<variantEncoding method="location-referenced" location="internal"/>.
+			
+			Note that the current by default behaviour is set on parallel-segmentation -->
+            <variantEncoding method="parallel-segmentation" location="internal"/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="san-Latn">Sanskrit, romanized</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <!-- In due course we will can use this element to declare keywords as <term>s, but at the moment please ignore <keywords>  -->
+                    <term/>
+                    <!-- Ignore this element for the time being. -->
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="part:argr" when="2024-04-29" status="draft">started casting diplomatic edition into TEI form</change>
+            </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve" xml:lang="san-Latn">
+      <body>
+         <div>
+            <!-- 
+            %%% Vajradhātumahāmaṇḍalopāyikā-sarvavajrodaya
+            %%% edited by Mikkyo Seiten Kenkyukai
+            %%% in taisho daigaku sougou-bukkyou-kenkyūjo kiyou 8 (1986), 
+            %%% pp.253(28)-225(56)
+            % input from pubished edition by Ryugen Tanemura
+            % diplomatic edition based on NRC photos of the Nepalese ms. by Arlo Griffiths & Ryugen Tanemura
+            
+            % ¦ represents half-daṇḍa
+            % issue of ś/s: the scribe could be interpreted to have two shapes of ś, one extremely similar to his s, the other quite distinct. Initially, we interpret all cases of the former as s; from f. 36r5 onwards, we are marking archaic-shaped ś as *ś.
+            % On letters other than <y>, repha takes the usual superscript form. With y, it takes takes the special form of a sharp angle on the left median extension of the ya-kāra, without any explicit repha sign on top of it: this way of noting repha can easily be mistaken for simple omission of repha. Only rarely do we find a very explicit repha of this varitey noted: see rya at beginning of 23r3. 
+            %at the top of consonant clusters, the graphs for <t> and <d> seem to be identical in many cases.
+            %upadhmānīya is extremely rare: we have found it only in 21v4
+            %avagraha sign is very rare: we have noted them in 56r3, 60v3.
+            %gumkara shape of anusvāra at 65v4 (*ṁ)
+            % siddham signs as line-filler: 23v1, 40r6, 40v6 (check all photos to see that no case has been left unrepresented)
+            % also, \columnfiller represents siddham-like sign found i.a. 37r6
+            %62v only 5 lines!
+            % ms. always spells -tv- for correct -ttv-; we don't report any relevant variant readings
+            -->
+            
+            <!-- folio 21r, photo 02, top 
+            %NOT YET TRANSLITERATED: from Abhiṣekanirukti.  
+            -->        
+            
+            <ab>
+                <!-- %RT&AG folio 21r, photo 02, bottom -->
+                <lb n="21r"/>
+                <lb n="21r1"/>cintanīyaty ādiyogo nāma samādhiḥ || 0 || 0 || tad anu | vajradhātvīśvaryādi caturṣu sthāneṣv ātmānam adhiṣṭhāya vodhyagrīm vadhvā hṛdgatāvajrasatvañ codayed vajra§<lb n="21r2"/>satveti |
+                    <!-- %cintanīyaty: em. cintanīyety.
+                    %The scribe makes no clear interruption for the string hole in line 1, where the elaborate punctuation sequence occupies precisely this space.
+                    %vajradhātvīśvaryādi: MSK emends vajradhātvīśvaryā, with Tib.
+                    %hṛdgatāvajrasatvañ: em. hṛdgataṁ vajrasatvañ; or hṛdgatavajrasatvañ, with MSK. -->
+                    tataḥ sarvatathāgatahṛdayebhyaḥ candrama○ṇḍalāni bhūtvā viniḥsṛtya yāvat sarvalokadhātuṣu sarvasatvānāṁ nairātmyaprativedhaṁ kārayitvā candramaṇḍalākārāṁ <lb n="21r3"/> cittaikāgratāṁ niṣpādyāgatya sarvadevatāsthāne○ṣu candramaṇḍalāny evaṁ bhūtvāvasthitaṁ cintayet· ||
+                    <!-- %STTS quotation?
+                    %candramaṇḍalākārāṁ: candramaṇḍalākāraṁ MSK (sil. em.).
+                    %evaṁ: MSK reads eva which it emends to evaṁ. -->
+                    <!-- %RT&AG % folio 21v-22r, photo 03 top -->
+                    tatas tebhyaḥ jñānarasmayo viniḥsṛtya svahṛdgatavajre praviśya | <lb n="21r4"/> tena sahaikībhūyaḥ sarvatathāgatādhiṣṭhānena§ ○ mahān sarvākāśasamavasaraṇapramāṇapañcasūcikavajravigraho bhūtvā |
+                    punaḫ pūrvvahṛdgatavajrapramāṇam e<lb n="21r5"/>va bhūtvā tasmā viniḥsṛtya svahastasthitaṁ cinta○yet tasmāc caḥ punaḥ vajrākārarasmayo nekavarṇṇānekasaṁsthānā viniḥsṛtya sarvākāśadhātuṁ vyāpya tebhyaḥ <lb n="21r6"/> puna vajrasatvādirūpeṇa sarvasatvadhātuṁ yāva○t sarvatathāgatasamatājñānābhisamvoddhyādau niyojya | punaḥ saṁhārayogenaikasatv\cancelled{ā}akāyo bhūtvā svahṛdgata§<lb n="21v1"/>vajr<supplied reason="lost">e</supplied> praviśya | tatrāvasthitetodānam udāyaṁtāṁ ○ cintayet· |
+                        <!-- %jñānarasmayo: em. jñānaraśmayo, with MSK (sil. em.).
+                        %sahaikībhūyaḥ: thus MSK; em. sahaikībhūya.
+                        %punaḫ pūrvvahṛdgata-: punaḥ pūrvahṛdgata- MSK (sil. em.); em. punaḥ pūrvavad dhṛdgata-?
+                        %tasmā: em. tasmā, with MSK (sil. em.).
+                        %vajrākārarasmayo: em. vajrākāraraśmayo, with MSK (sil. em.).
+                        %puna: em. punar, with MSK (sil. em.).
+                        %vajrasatvādirūpeṇa: em. vajrasatvarūpeṇa?
+                        %-samvoddhyādau:  em. saṁbodhyādau, with MSK (sil. em.).
+                        %-sthitetodānam: em. -sthitenodānam, with MSK (sil. em.).
+                        %udāyaṁtāṁ: em. udānayantaṁ, with MSK. -->
+                        Aho samantabhadro haṁ dṛḍhasatvaḥ svayaṁbhuvām· | yad dṛḍhatvād akāyo pi sattvakāyatvam āgata Iti |
+	<!-- %STTS §40.
+    %yad dṛḍhatvād: the reading ddṛ is unclear. -->
+    tato <lb n="21v2"/> hṛdayod avatīryākṣobhyasyāgrato sthitvājñā mā○rgayamānā cintayet tabho sarvatathāgatakulacakravartti<unclear>tv</unclear>e pañcavuddham makuṭapaṭṭābhiṣekenanābhiṣiñcyānuttaraśī<lb n="21v3"/>lādikaṁ yāvat sarvatathāgatasamatājñānābhi§○samvodhiniṣpādakam ādyavajram ādyavajrāṅkitaṁ ghaṇṭasahita A*śeṣānava*śeṣāsatvadhātūnāṁ niṣpādanāya | <lb n="21v4"/> samantabhadrāya dadyāt· |
+	<!-- %hṛdayod: em. hṛdayād, with MSK (sil. em.).
+	%sthitvājñā: em. sthitvājñāṁ, with MSK (sil. em.).
+	%mārgayamānā: em. mārgayamānaṁ, with MSK; MSK's footnote gives the impression that they read  rgayamānā.
+	%tabho: em. tato, with MSK (sil. em.).
+	%makuṭa-: mukuṭa- MSK (sil. em.).
+	%-ṣekenanābhiṣiñcyānuttara-: em. -ṣekenābhiṣicyānuttara-; MSK silently emends -ṣekena cābhiṣicyānuttara-.
+	%ghaṇṭasahita: em. ghaṇṭāsahitaṁ; ghaṇṭāsahitaṁ MSK (sil. em.).
+	%-*śeṣāsatva-: em. -śeṣasattva-, with MSK. -->
+    tato nāmābhiṣekādi ○ dadyāt· tad anu | vajrapāṇyāhaṅkāreṇa Udānam udānayet· || Idan tat sarvavuddhānāṁ siddhivajram anuttaraṁ | 
+Ahaṁ ma<lb n="21v5"/>ma kare dattaṁ vajre vajraṁ pratiṣṭhitaṁ | Iti ||
+	<!-- %nāmābhiṣekādi: nāmābhiṣekādiṁ MSK (sil. em.). 
+	%vajrapāṇyāhaṅkāreṇa: em. vajrapāṇyahaṁkāreṇa, with MSK.
+	%stanza quoted from STTS §43. -->
+    Evaṁ○mutpattispharaṇasaṁhāraṇilayadṛḍhībhāvavairocanahṛdgatavajramadhyovasthitonodānam udānaṁ 
+    Abhiṣekānantaro<lb n="21v6"/>dānañ ca | vajramuṣṭhiparyantena draṣṭavyam iti | vajra○rājādīnāṁ Uddānāni bhavan<unclear>t</unclear>i | Aho hy amogharājo haṁ vajrāsambhavamaṅkuśa | yat sarva<unclear>vy</unclear>āpino v<unclear>uddha</unclear>ḥ samākṛṣyanti § <pb n="22r"/><lb n="22r1"/>  siddhay<unclear>e</unclear> | 
+        <!-- %KSP evam utpattispharaṇasaṃhārayogena vairocanahṛdgatamadhyāvasthitenodānam udānayanto 'bhiṣekānantare vajrasattvād ārabhya yāvad vajramuṣṭiparyantaṃ svasvacihnāni pūrvavat spharaṇasaṃhārayogenodānam udānayanti.
+        %Evaṁ○mut-: em. Evamut-, with MSK (sil. em.).
+        %-ṇilaya-: em. -nilaya-, with MSK (sil. em.).
+        %-bhāva-: -bhava- MSK.
+        %-madhyovasthitonodānam udānaṁ: em. -madhyāvasthita udānam udānayan
+        %vajramuṣṭhi- em. vajramuṣṭi-.
+        %draṣṭavyam iti: em. draṣṭavya iti.
+        %An amazingly ill-constructed sentence? KSP seems even worse. Provisional  translation: '... (Vajrasattva) who is present in the Vajra inside the heart of Vairocana who is ...., while doing the udāna and (also doing) the udāna immediately after the unction, should be visualized (and so should the other Bodhisattvas) up to Vajramuṣṭi'.
+        %uddānāni: em. udānāni, with MSK (sil. em.).
+        %bhavan<unclear>t</unclear>i: MSK reads bhavati which it emends to bhavanti.
+        %amogharājo haṁ: amogharājāhaṁ MSK. STTT §46 as edited by Horiuchi reads amogharājāhaṁ.
+        %vajrāsambhavamaṅkuśa: em. vajrasambhava-m-aṅkuśaḥ, with MSK (sil. em.).
+        %v<unclear>uddha</unclear>ḥ: em. buddhāḥ, with MSK (sil. em.). -->
+        Idan ta savavuddhānā vajrānam anuttaram· | ○ yatsarvavuddhārthasiddhārtha samākarṣaṇam uttamam iti |
+        <!-- %Idan ta savavuddhānā: em. idaṁ tat sarvabuddhānāṁ, with MSK (sil. em.).
+        %vajrānam: em. vajrajñānam, with MSK (sil. em.).
+        %yatsarvavuddhārthasiddhārtha: em. yatsarvabuddhārthasiddhyarthaṁ, with STTS; MSK emends sarvavuddhārthasiddhyarthaṁ, mentioning Horiuchi's different reading for STTS but ignoring our ms. readings. -->
+        Aho svabhāvaśuddho ham anurāgaḥ svayabhuvam· | <unclear>ya</unclear> + + + <lb n="22r2"/> viraktānāṁ sagaṇa vinayanti hi |
+        <!-- %svayabhuvam·: em. svayambhuvām, with MSK (sil. em.).
+        %<unclear>ya</unclear> + + +: restore yac chuddhyarthaṁ, with MSK (sil. em.) and STTS.
+        %sagaṇa: em. rāgeṇa, with MSK (sil. em.). -->
+        Idan tat sarvavu○ddhānām· | rāgajñānam anāvilaṁ | hatvā virāga rāgeṇa tsarvasaukhyaṁ dadanti hīti |
+        <!-- %virāga: em. virāgaṁ, with MSK (sil. em.).
+        %tsarva-: em. sarva-, with MSK (sil. em.). -->
+        Aho hi sādhukāro ha<unclear>ṁ</unclear> sa<unclear>rva</unclear>ḥ <unclear>sarva</unclear><lb n="22r3"/>vidām varaḥ yad vikalpaprahīṇyano tuṣṭiñ janaya§○te dhruvam· |
+        <!-- %-prahīṇyano: em. -prahīṇānāṁ, with MSK, wich reads -prahīṇyanāṁ. -->
+        Idan tat sarvavuddhānāṁ sādhukārapravarttakaṁ | sarvatuṣṭikaraṁ vajraṁ divyaṁ prāmodyavarddhanam iti |
+        Aho hi svabhi<lb n="22r4"/>ṣeko haṁm vajraratnam anuttaram· | yan niḥsaṅgā Api ○ jinās tridhātupatayaḥ smṛtāḥ |
+        <!-- %haṁm: em. 'haṁ, with MSK (sil. em.). -->
+        Idan tat sarvavuddhānāṁ satvadhātvabhiṣecanam· | Aham mama kare dattaṁ ratna ratne tiyo<lb n="22r5"/>jitam iti ||
+	<!-- %ratna: em. ratnaṁ, with MSK (sil. em.).
+	%tiyojitam: em. niyojitam, with MSK (sil. em.). -->
+    Aho nupamatejo haṁ sarvadhātvavabhā○sanam· | yac chodhayati suddhānāṁ vuddhānām api tāyin<supplied reason="lost">ā</supplied>m· |
+	<!-- %STTS has variants here.
+	%chodhayati: chodayati MSK (misprint).
+	%suddhānāṁ: em. śuddhānāṁ, with MSK (sil. em.). -->
+           </ab>
+         </div>
+      </body>
+  </text>
+</TEI>
