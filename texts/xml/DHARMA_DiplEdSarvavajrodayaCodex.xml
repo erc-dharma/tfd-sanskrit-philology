@@ -236,24 +236,16 @@ Ahaṁ ma<lb n="21v5"/>ma kare dattaṁ vajre vajraṁ pratiṣṭhitaṁ | Iti 
      %adbhut·pādadarśakam·: em. adbhutotpādadarśakam·, with MSK.
      %mahāka <space type="binding-hole"/>rṣakaraṁ: em. mahāharṣakaraṁ, with MSK and STTS.
      %paraparaśāsibhir: em. paraśāstribhir, with MSK; STTS here read paraśāmitir, emended to paraśāstribhir by Horiuchi. But agreement between SVU and STTS mss. suggest we may not need such a violent emendation. Emend paraśāsibhir as equivalent to paraśāstribhir? Or paraśāsitair -->
+     Aho hi paramārtho ham ādiśuddhaḥ svayadbhuvam· | yat· lokopamadharmmā<lb n="22v3"/>ṇā<unclear>ṁ</unclear> viśuddhim upalabhyate |
+     <!-- %svayadbhuvam·: em. svayambhuvām·, with MSK (sil. em.).
+     %lokopamadharmmā<unclear>ṁ</unclear>: em. kolopamadharmāṇāṁ, with MSK.
+     %viśuddhim: em. viśuddhir, with MSK. -->
+     Idan tat sarvavuddhānāṁ rā <space type="binding-hole"/>gatatvāvavodhanam· | Aham mama kare dattaṁ dharmma dharme pratiṣṭhitaṁ |
+     <!-- %dharmma: em. dharmaṁ, with MSK. -->
  
 
     <!-- NOT YET ENCODED IN TEI FROM THIS POINT 
 
-
-%MSK     aho hi paramārtho 'ham ādiśuddhaḥ svayaṁbhuvām / yat kolopamadharmāṇāṁ viśuddhir upalabhyate // 15 //
-
-%RT&AG
-Aho hi paramārtho ham ādiśuddhaḥ svayadbhuvam· | yat· lokopamadharmmā<lb n="22v3"/>ṇā<unclear>ṁ</unclear> viśuddhim upalabhyate |
-	%svayadbhuvam·: em. svayambhuvām·, with MSK (sil. em.).
-	%lokopamadharmmā<unclear>ṁ</unclear>: em. kolopamadharmāṇāṁ, with MSK.
-	%viśuddhim: em. viśuddhir, with MSK.
-
-%MSK    idaṁ tat sarvabuddhānāṁ rāgatattvāvabodhanam / ahaṁ mama kare dattaṁ dharmaṁ dharme pratiṣṭhitam // 16 //
-
-%RT&AG
-Idan tat sarvavuddhānāṁ rā <space type="binding-hole"/>gatatvāvavodhanam· | Aham mama kare dattaṁ dharmma dharme pratiṣṭhitaṁ |
-	%dharmma: em. dharmaṁ, with MSK.
 
 %MSK    aho hi sarvabuddhānāṁ mañjughoṣam ahaṁ smṛtaḥ / yat prajñayārūpiṇyā ghoṣatvam upalabhyate // 17 //
 
@@ -2143,13 +2135,12 @@ Evaṁ satvavajrīti | sa <space type="binding-hole"/>tvavajriṁ yāvad vajrāv
 	%ṣoḍaṣa-: emend ṣoḍaśa-, with MSK (sil. em.).
 	%ardhye: emend adho, with MSK.
 
-------------------
 %%% The following is the edition of the folios which was discovered
 %%% after the publication of the edition by Mikkyo Seiten Kenkyukai
 %%% Edited by Mitsutoshi Moriguchi in Chisan Gakuho 38 (ff.40r-49v)
 %%% Edited by Hisao Takahasi
 %%% in Busan Gakuho vol. 33. (ff.52r - 56v)
-----
+
 
 %MM (f.40r) (cā)ntargatapañcasūcikavajrapatrāṇi mukulitāny aṣṭa caiva dharmavajrī / vāmato dvādaśasūcikapañcavarṇakaviśvavajram / armavajrī / madhye śitavarṇaṁ purato nīlam / dakṣiṇe pītam / pṛṣṭhato raktam / vāmato maragatavarṇam iti //
 
@@ -2907,8 +2898,6 @@ Ativalaḥ 1 | prajñāpuṣpaḥ 2 | dṛḍhaśvaraḥ 3 |
 	%dṛḍhaśvaraḥ: em. dṛḍhasvaraḥ, with MM.
 	%MM reconstructs the Sanskrit names for the rest of this group of 10.
 
-
-------------------
 %%% The following is the edition of the folios which was discovered
 %%% after the publication of the edition by Mikkyo Seiten Kenkyukai
 %%% 
@@ -2944,7 +2933,7 @@ punar aṣṭo<lb n="52r3"/>ttarasahasrābhimantritaṁ kṛtvā | bhagavato vaj
 	%\lost{ja}ptāṁ pa<unclear>ṣva</unclear>: -japtaṁ piṣṭa HT; em. -japtān pañca. Although the emendation pañca is not supported by Tib., it seems to follow from the next passage, and the second unclear akṣaras could easily be explained as a scribal misspelling of ñca in a previous manuscript. CHECK Abhayākaragupta, Vajrāvalī for what to do with 5 pots in 4 corners.
 	%teṣāṁm: em. teṣām, with HT.
 
-%HT: abhāve (-->p.131) śrīvajrasattvasya pañcatathāgatānāṁ ca kalaśāt pūrṇakumbhaṁ ca dattvā / sattvaratnadharmakarmavajrāṅkaṁ svakulamantrair aṣṭottaraśatābhijaptam / kalaśacatuṣṭayaṁ pūrṇakumbhacatuṣṭayaṁ ca dadyāt / daśanyūnaṁ na kārayed iti vacanāt //  tato manasā maṇḍalaṁ devātāṁś ca pratyakṣān niścitya /
+%HT: abhāve (from p.131) śrīvajrasattvasya pañcatathāgatānāṁ ca kalaśāt pūrṇakumbhaṁ ca dattvā / sattvaratnadharmakarmavajrāṅkaṁ svakulamantrair aṣṭottaraśatābhijaptam / kalaśacatuṣṭayaṁ pūrṇakumbhacatuṣṭayaṁ ca dadyāt / daśanyūnaṁ na kārayed iti vacanāt //  tato manasā maṇḍalaṁ devātāṁś ca pratyakṣān niścitya /
 
 %RT&AG
  Abhāve śrīvajrāsatvasya pañcatathāgatān<unclear>ā</unclear>ñ ca kalaśān pūrṇṇakumbhaś ca datvā | satva | ratna | dharmma | karmma | vajrāṅkaṁ <lb n="52r6"/> \lost{sva}<unclear>ku</unclear>lamantrair aṣṭottaraśatābhijaptam· | kalaśaca§ <space type="binding-hole"/>tuṣṭhayaṁ pūrṇṇakumbhacatuṣṭayañ ca dadyāt· | daśanyūnaṁ na kārayed iti vacanām· |  tato manasā maṇḍalaṁ devātāṁś ca pra<unclear>tya</unclear><pb n="52v"><lb n="52v1"/><unclear>kṣā</unclear>n niścitya |
