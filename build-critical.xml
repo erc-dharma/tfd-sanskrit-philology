@@ -56,7 +56,7 @@
     </xslt>
 
     <!-- Transformation XML vers xml avec ids -->
-    <xslt force="true" style="./project-documentation/stylesheets/criticalEditions/start-edition.xsl" destdir="./docs/html" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+    <xslt force="true" style="./project-documentation/stylesheets/criticalEditions/start-edition.xsl" destdir="./output/html" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <fileset refid="critical-display"/>
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
     </xslt>
@@ -69,7 +69,7 @@
     </xslt>
 
       <!-- Transformation XML vers HTML -->
-      <xslt force="true" style="./project-documentation/stylesheets/diplomaticEditions/start-diplEd.xsl" destdir="./docs/diplEd" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+      <xslt force="true" style="./project-documentation/stylesheets/diplomaticEditions/start-diplEd.xsl" destdir="./output/diplEd" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <param name="edition-type" expression="physical"/>
         <param name="corpus-type" expression="nusantara"/>
         <fileset refid="dharma-dipled"/>

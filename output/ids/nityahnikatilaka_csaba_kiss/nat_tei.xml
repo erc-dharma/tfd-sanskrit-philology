@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="edition"
+     xml:lang="eng"
+     xml:id="nat">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">nityahnikatilaka</title>
+            <editor>
+               <name>Shivadharma Project</name>
+            </editor>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Shivadharma Project</authority>
+            <pubPlace>Naples, Italy</pubPlace>
+            <idno>DHARMA_CritEDnityahnikatilaka</idno>
+            <availability>
+               <licence target="This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.Copyright (c) 2019-2025 by Shivadharma"/>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <listWit>
+            <witness xml:id="id">
+               <abbr type="siglum">ms<hi rend="subscript">xx</hi>
+               </abbr>
+                        Palm-leaf manuscript</witness>
+         </listWit>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="canto" n="1" xml:id="nat_01">
+            <lg xml:id="nat_01.01" n="1.1">
+               <l n="ab">śaśadharasadṛśasaroje alake devākṣayānake caraṇau</l>
+               <l n="cd">sitarajabhāsvaravimalau śambhor nityaṃ [ ] pāntu janān</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_01.02" n="1.2">
+               <l n="ab">yasya prasāram atulam ābrahmastambabhuvanaparāntagam</l>
+               <l n="cd">sa śrīnāthakuleśaḥ śrīkubjikādhidaivo jayati</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_01.03" n="1.3">
+               <l n="ab">MNTRku/MNTRkāraḥ pārthivo bījo aMNTRbji/MNTRkoparisaṃsthitaḥ</l>
+               <l n="cd">MNTRkā/MNTR kālī śivagā vakrā sā śrīkubjikā jayati</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_01.04" n="1.4">
+               <l n="ab">sṛṣṭā yayā parā vic ca haṃsavarttidvīpakujā</l>
+               <l n="cd">sā janeśī kalau kālī saṃsthitā paścime gṛhe</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_01.05" n="1.5">
+               <l n="ab">vedāt tu paramaṃ śaivaṃ śaivād dakṣiṇam uttamam</l>
+               <l n="cd">dakṣiṇāt paścimaṃ śreṣṭham ataḥ parataraṃ na hi</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_01.06" n="1.6">
+               <l n="ab">vijñāya śrīkubjikāyāḥ śrīkujeśvarasahitāyāḥ</l>
+               <l n="cd">nṛṇāṃ svargāptihetvarthaṃ nityāhnikam ihocyate</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_01.07" n="1.7">
+               <l n="ab">jñānārṇavam agādho 'yaṃ śrīśambhuśāsano mahān</l>
+               <l n="cd">tatra pāraṃ paraṃ gacchan vīcī śrīkaṇṭhasaṃjñakaḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_01.08" n="1.8">
+               <l n="ab">taccaraṇair yathā dṛṣṭaṃ śrīmatpaścimaśāsane</l>
+               <l n="cd">pāramparyakramāyātaṃ sugopyam anulikhyate</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_01.09" n="1.9">
+               <l n="ab">svagotrāṇāṃ hitārthāya śrīmacchrīkaṇṭhasūnunā</l>
+               <l n="cd">muktakena kiyadgūḍhaṃ sopadeśaṃ jayena tu</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_01.10" n="1.10">
+               <l n="ab">ādhārādisusūkṣmāntaṃ parāntaṃ paranirṇayam</l>
+               <l n="cd">kathitaṃ yena suspaṣṭaṃ taṃ śrīkaṇṭhaguruṃ name</l>
+            </lg>
+            <listApp type="apparatus"/>
+         </div>
+         <div type="canto" n="2" xml:id="nat_02">
+            <lg xml:id="nat_02.01" n="2.1">
+               <l n="ab">athātaḥ sampravakṣyāmi āśramāṇāṃ sthitiṃ priye</l>
+               <l n="cd">yenāsau vartito yogī melakaṃ trividhaṃ labhet</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.02" n="2.2">
+               <l n="ab">gṛhasthaḥ sālayī caiva cāravī ca vanāśrayī</l>
+               <l n="cd">naiṣṭhikaś caiva yogī ca ṣaṭprakārāśramasthitiḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.03" n="2.3">
+               <l n="ab">sādhikāraḥ sapatnīkaḥ śāstrajñas tattvavedakaḥ</l>
+               <l n="cd">kṣamī ca guptaliṅgī ca gṛhasthaḥ samayasthitaḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.04" n="2.4">
+               <l n="ab">kṛṣivāṇijyakartā ca sevako 'patir eva vā</l>
+               <l n="cd">yena kenaiva puṇyena ācāryas tena pūjyate</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.05" n="2.5">
+               <l n="ab">ācāryeṇa kriyā kāryā samyak siddhā kulānvaye</l>
+               <l n="cd">niraṃśasya mahādevi kuladravyais tu sammatā</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.06" n="2.6">
+               <l n="ab">āgataṃ na tyajed yas tu gatvā naiva parigrahet</l>
+               <l n="cd">na kevalaṃ manuṣyāṇāṃ sa gurur devadurlabhaḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.07" n="2.7">
+               <l n="ab">ekāntasthaḥ sapatnīkaḥ suguptaś ca prakāśanaḥ</l>
+               <l n="cd">saṃtyaktānugrahaḥ śāntaḥ sālayī khecaraṃ vrajet</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.08" n="2.8">
+               <l n="ab"> niṣkalatraḥ sadaikākī niḥsaṅgaḥ samayasthitaḥ</l>
+               <l n="cd"> pīṭhādigrāmaparyantaṃ paryaṭec carukāśayā</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.09" n="2.9">
+               <l n="ab"> viprādiśvapacānteṣu sarvabhakṣaḥ kṛtāntavat</l>
+               <l n="cd"> cāravyo vyāpakā devyaḥ sarvavarṇeṣu saṃsthitaḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.10" n="2.10">
+               <l n="ab"> labdhadīkṣo 'bhiṣiktaś ca mantrasiddhiṃ samīhavān</l>
+               <l n="cd"> guruvaktravrate niṣṭhaḥ saṃsthito girigahvare</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.11" n="2.11">
+               <l n="ab"> kṣetrābaddho jitāhāraḥ kandamūlāśanasthitaḥ</l>
+               <l n="cd"> jitendriyaḥ sadotsāhī vanacārī ca sādhakaḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.12" n="2.12">
+               <l n="ab"> samīhate na bhuktiṃ yaḥ siddhayo bahudhāś ca yāḥ</l>
+               <l n="cd"> lokātītaś ca saṃnyāsī muktim evābhivāñchati</l>
+               <l n="ef"> niḥsaṅgo guptaliṅgī ca paraś cādvaitanaiṣṭhikaḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.13" n="2.13">
+               <l n="ab"> nānārūpadharo nityaṃ jaratkanthāvaguṇṭhitaḥ</l>
+               <l n="cd"> nirdvandvo nirbhayaḥ śānto niścaryāyogatatparaḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.14" n="2.14">
+               <l n="ab"> saṃdhyāyāṃ paryaṭed bhaikṣyaṃ sadaiva carukāśayā</l>
+               <l n="cd"> nirjane paramānandasaṃsthito 'harniśaṃ dṛḍhaḥ</l>
+               <l n="ef"> siddhayogānvayī yogī yogasiddhiṃ samīhavān</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.15" n="2.15">
+               <l n="ab"> asiddhe yogavijñāne krīḍāṃ kurvanti ye narāḥ</l>
+               <l n="cd"> patitāḥ paśavas te 'tra kulācāraviḍambakāḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.16" n="2.16">
+               <l n="ab"> āśramāṇāṃ bahirbhūtāś caryāṃ kurvanti lolupāḥ</l>
+               <l n="cd"> bhakṣyante kuladevībhiḥ pūtanābhir upadrutāḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.17" n="2.17">
+               <l n="ab"> dīkṣābhiṣekasampannaḥ śambhoś caraṇacandragaḥ</l>
+               <l n="cd"> gurukramaparo bhūtvā nityaṃ naimittikaṃ bhajet</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.18" n="2.18">
+               <l n="ab"> mantro vidyā parā mudrā yoginī kuladevatā</l>
+               <l n="cd"> etāḥ pañcavidhāḥ śaktir liṅgayonyāṃ vyavasthitāḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_02.19" n="2.19">
+               <l n="ab"> tasmān na dūṣayel liṅgaṃ raupyahemādibāṇakam</l>
+               <l n="cd"> ṣaḍaśrapīṭhikāyuktaṃ pūjyaṃ siddhiphalapradam</l>
+               <l n="ef"> atrodare jagat sarvaṃ kramaś cāpi mahākramaḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+         </div>
+         <div type="canto" n="3" xml:id="nat_03">
+            <lg xml:id="nat_03.01" n="3.1">
+               <l n="a">ūkāraṃ vāyubījaṃ tadupari varuṇaṃ vajrapāṇiṃ tadūrdhve</l>
+               <l n="b">kālaṃ varṇāntayuktaṃ tadupari paramaṃ vahnibījaṃ sahaṃsam</l>
+               <l n="c"> induṃ binduṃ layāntaṃ sitakamalaparaṃ kṣīradhārā sravantaṃ</l>
+               <l n="d"> dṛṣṭvā kūṭaṃ tu nityaṃ dahati kulamalaṃ merutulyaṃ hi pāpam</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_03.02" n="3.2">
+               <l n="ab"> jalasnānaṃ prakurvīta pañcāṅgam athavā punaḥ </l>
+               <l n="cd"> jalasnānam āplavanam āmūrdhniparyantaṃ bhajet</l>
+            </lg>
+            <listApp type="apparatus"/>
+         </div>
+         <div type="canto" n="4" xml:id="nat_04">
+            <lg xml:id="nat_04.01" n="4.1">
+               <l n="ab"> sthūlaṃ caivātisūkṣmaṃ ca tyaktvā sūtram anuttamam</l>
+               <l n="cd"> kartitaṃ kulajābhiś ca triguṇaṃ triguṇīkṛtam</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_04.02" n="4.2">
+               <l n="ab"> vartayitvā prayatnena kārayet trisaraṃ punaḥ</l>
+               <l n="cd"> eṣa sthānadvayaṃ kṛtvā sāvitryā granthayet tataḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_04.03" n="4.3">
+               <l n="ab"> dhautaṃ śuklaṃ śubhaṃ sūtram alakṣmīmalanāśanam</l>
+               <l n="cd"> yasya vidhṛtamātreṇa pumān brahmasamo bhavet</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_04.04" n="4.4">
+               <l n="ab"> triguṇaṃ triguṇīkṛtya veṇīṃ kṛtvā prayatnataḥ</l>
+               <l n="cd"> tenaiva ca śatārdhābhir uttarīyā tv aghakṣayā</l>
+            </lg>
+            <listApp type="apparatus"/>
+         </div>
+         <div type="canto" n="5" xml:id="nat_05">
+            <lg xml:id="nat_05.01" n="5.1">
+               <l n="a"> bho sādhakendrāḥ śṛṇutaikavācyaṃ</l>
+               <l n="b"> sarvānvayoktaṃ phalasiddhihetoḥ</l>
+               <l n="c"> tāvan na siddhiṃ pralabhanti santo</l>
+               <l n="d"> yāvan na mantrāḥ praṇavādiśeṣāḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_05.02" n="5.2">
+               <l n="ab"> pūrvaṃ yā sūcitā śaktiḥ kujākhyā krūrasaṃyutā</l>
+               <l n="cd"> ā ity ādhārabhūtā sā prasūtisthitisaṃhṛteḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_05.03" n="5.3">
+               <l n="ab">ambikā bhujagārūḍhā guhyaśaktyā trimaṇḍalaiḥ</l>
+               <l n="cd"> māyā devī puṣṭikarī vāribhūtā tu sā smṛtā</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_05.04" n="5.4">
+               <l n="ab"> nāgasthā kusumā devī guhyayātha trimaṇḍalaiḥ</l>
+               <l n="cd"> śrīkarī tejabhūtā tu tṛtīyā śakti raudriṇī</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_05.05" n="5.5">
+               <l n="ab"> dīpanīśikhiparāmbājhaṭendrabindu viśvahā</l>
+               <l n="cd"> vilomenoddhṛtā devī khecaratvapradāyikā</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_05.06" n="5.6">
+               <l n="ab"> anugrahyārcitaṃ haṃsaṃ prāṇināṃ hṛdi saṃsthitam</l>
+               <l n="cd"> uddhṛtam ākāśabhūtaṃ sudhānirvāṇadāyakam</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_05.07" n="5.7">
+               <l n="a"> kṣmācakram uktaṃ caturasrapītaṃ </l>
+               <l n="b"> khaṇḍenduśubhraṃ varavāricakram</l>
+               <l n="c"> tejolakaṃ raktaguṇāradivyaṃ</l>
+               <l n="d"> vātākhyaṣaṭkoṇacakraṃ sudhūmram</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_05.08" n="5.8">
+               <l n="a"> svacchārkatulyaṃ viyadādhibimbaṃ</l>
+               <l n="b"> bhūtāni pañcāny uditāni śāstre</l>
+               <l n="c"> eṣāṃ maheśaṃ sitaśāntarūpaṃ</l>
+               <l n="d"> cāturbhujaṃ padmasite niviṣṭam</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_05.09" n="5.9">
+               <l n="a"> dakṣeṇa hastena dadhāti śūlaṃ</l>
+               <l n="b"> dānaṃ krameṇaiva ca tathāpareṇa</l>
+               <l n="c"> kārddhābhayaṃ vāmakare vidhatte</l>
+               <l n="d"> pañcātmamantraiḥ karadehavaktrān</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_05.10" n="5.10">
+               <l n="a"> netrāsraśūnyaṃ karakāyavaktraṃ</l>
+               <l n="b"> japan krameṇaiva dharādimantraiḥ</l>
+               <l n="c"> lakṣair vivṛddhyai tithilakṣamātraṃ</l>
+               <l n="d"> ante daśāṃśaṃ havanaṃ ca dhīraiḥ</l>
+            </lg>
+            <listApp type="apparatus"/>
+            <lg xml:id="nat_05.11" n="5.11">
+               <l n="a"> icchāpradaḥ śrīpraṇaveśvaro 'yaṃ</l>
+               <l n="b"> bhaktārtihartā guṇalokadātā</l>
+               <l n="c"> surair munīndrair manudaityasiddhaiḥ</l>
+               <l n="d"> prāptaṃ padaṃ yājanahāvanānte</l>
+            </lg>
+            <listApp type="apparatus"/>
+         </div>
+      </body>
+   </text>
+</TEI>
