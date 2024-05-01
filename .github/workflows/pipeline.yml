@@ -23,7 +23,6 @@ jobs:
          run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add docs/html
-          git add docs/diplEd
+          git add .
           git commit -m "XML files are created"
           git push
