@@ -125,9 +125,9 @@ tad sādhu pratipadyasva ! sarvatathāgatasamantabhadracittotpādasya dṛḍhī
 bodhisattva āha /:(STT 1,27,25)
 " paśyāmi, bhagavantas tathāgatāś, candramaṇḍale vajram //"(STT 1,27,25)
 
-sarvatathāgatāḥ āhuḥ /:(STT 1,27,252)
+sarvatathāgatāḥ āhuḥ /:(STT 1,27,25-2)
 " dṛḍhīkurv idaṃ sarvatathāgatasamantabhadracittavajram anena mantreṇa !//:(STT 1,27,252)
-'oṃ   'ham !'//"(STT 1,27,252)
+'oṃ vajrātmako 'ham !'//"(STT 1,27,25-2)
 
 atha yāvantaḥ sarvākāśadhātusamavasaraṇāḥ sarvatathāgatakāyavākcittavajradhātavas, te sarve sarvatathāgatādhiṣṭhānena tasmin sattvavajre praviṣṭāḥ //.(STT 1,27,26)
 tataḥ sarvatathāgataiḥ sa bhagavān sarvārthasiddhir mahābodhisattvo 'vajradhātur vajradhātur !! ' iti vajranāmābhiṣekeṇaibhiṣiktaḥ /.(STT 1,27,26)
@@ -377,7 +377,7 @@ tataḥ sarvatathāgatair ' vajramaṇḍo vajramaṇḍa !! ' iti vajranāmābh
 
 atha vajramaṇḍo bodhisattvo mahāsattvas tena vajracakreṇa sarvatathāgatān avaivartikatve pratiṣṭhāpayann idam udānam udānayām āsa //:(STT 1,62,106)
 " idaṃ tat sarvabuddhānāṃ sarvadharmaviśodhakam /(STT 1,62,106)
-avaivartikacakraṃ tu bodhimaṇḍam iti smṛtam " iti // //(STT 1,6263,106)
+avaivartikacakraṃ tu bodhimaṇḍam iti smṛtam " iti // //(STT 1,62-63,106)
 
 atha bhagavān punar apy avācamahābodhisattvasamayasaṃbhavadharmādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatajāpasamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra //:(STT 1,63,107)
 ' vajrabhāṣa ' //(STT 1,63,107)
@@ -535,7 +535,7 @@ atha bhagavān punar api sarvatathāgatasaṃgītisamayasaṃbhavavajraṃ nāma
 vajragīte //(STT 1,88,158)
 
 athāsyāṃ viniḥsṛtamātrāyāṃ sarvatathāgatahṛdayebhyaḥ sarvatathāgatadharmamudrā viniścaritāḥ /.(STT 1,88,159)
-tebhyāś ca sarvatathāgatadharmamudrābhyaḥ sa eva bhagavān vajradharaḥ sarvalokadhātuparamāṇurajaḥsamāas tathāgatavigrahā bhūtvā, punar apy ekaghanā vajragītā mahādevī saṃbhūya, bhagavato lokeśvararājamaṇḍalavāmapārśve candramaṇḍalāśritā bhūtvedam udānam udānayām āsa //:(STT 1,88,159)
+tebhyāś ca sarvatathāgatadharmamudrābhyaḥ sa eva bhagavān vajradharaḥ sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā bhūtvā, punar apy ekaghanā vajragītā mahādevī saṃbhūya, bhagavato lokeśvararājamaṇḍalavāmapārśve candramaṇḍalāśritā bhūtvedam udānam udānayām āsa //:(STT 1,88,159)
 
 aho hi saṃgītimayī pūjā 'haṃ sarvadarśinām /(STT 1,88,160)
 yat toṣayanti pūjābhiḥ pratiśrutkopameṣv apīti //(STT 1,88,160)
@@ -603,7 +603,7 @@ atha bhagavān punar api sarvatathāgatasamayapraveśamahāsattvasamayasaṃbhav
 vajrapāśa //(STT 1,96,181)
 
 athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajradharaḥ sarvatathāgatasamayapraveśamudrāgaṇā bhūtvā viniścaritāḥ /.(STT 1,96,182)
-tebhyaś ca sarvatathāgatasamayapraveśamudrāgaṇebhyaḥ sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā viniḥsṛtya, punar apy ekaghano vajrapāśamahābodhisattvakāyaḥ saṃbhūya, bhagavato vajramaṇiratnaśikharakūṭāgārasya ratnadvāramadhye candramaṇḍalāśrito bhūtvā, sarvatathāgatān praveśayann idam udānam udānayām āasa //:(STT 1,9697,182)
+tebhyaś ca sarvatathāgatasamayapraveśamudrāgaṇebhyaḥ sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā viniḥsṛtya, punar apy ekaghano vajrapāśamahābodhisattvakāyaḥ saṃbhūya, bhagavato vajramaṇiratnaśikharakūṭāgārasya ratnadvāramadhye candramaṇḍalāśrito bhūtvā, sarvatathāgatān praveśayann idam udānam udānayām āsa //:(STT 1,9697,182)
 
 aho hi sarvabuddhānāṃ vajrapāśam ahaṃ dṛḍhaḥ /(STT 1,97,183)
 yat sarvāṇupraviṣṭāpi praveśyante mayā punar iti //(STT 1,97,183)
@@ -633,7 +633,7 @@ atha bhagavān sarvatathāgatasamājādhiṣṭhānāya vajrācchaṭikāsaṃj�
 idaṃ ca sarvatathāgatasamājāshiṣṭhānahṛdayam abhāṣata //:(STT 1,101102,191)
 vajrasamāja //(STT 1,102,191)
 
-atha tena kṣaralavamuhūrtena sarvatathāgatācchaṭikāsaṃjñāsaṃcoditāḥ sarvalokadhāatuprasarameghasamudreṣu sarvalokadhātuparamāṇurajaḥsamās tathāgatāḥ sabodhisattvaparṣanmaṇḍalāḥ samājam āpadya, yena vajramaṇiratnaśikharakūṭāgāro, yena bhagavān vairocanas, tenopajagmuḥ /.(STT 1,102,192)
+atha tena kṣaralavamuhūrtena sarvatathāgatācchaṭikāsaṃjñāsaṃcoditāḥ sarvalokadhātuprasarameghasamudreṣu sarvalokadhātuparamāṇurajaḥsamās tathāgatāḥ sabodhisattvaparṣanmaṇḍalāḥ samājam āpadya, yena vajramaṇiratnaśikharakūṭāgāro, yena bhagavān vairocanas, tenopajagmuḥ /.(STT 1,102,192)
 upetya oṃ sarvatathāgatapādavandanāṃ karomīty (STT 1,102,192)
 
 anena prakṛtisiddhena mantreṇa rucijaptena sarvatathāgatapādavandanāṃ kṛtvedam udānam udānayām āsuḥ //:(STT 1,102,193)
@@ -713,7 +713,7 @@ madhyamaṇḍalamadhye tu buddhabimbaṃ niveśayet //(STT 1,111,204)
 buddhasya sarvapārśveṣu maṇḍalānāṃ tu madhyataḥ /(STT 1,111,205)
 samayāgryaś catasro hi saṃlikhed anupūrvaśaḥ //(STT 1,111,205)
 vajravegena cākramya maṇḍalānāṃ catuṣṭaye /(STT 1,111,205)
-akṣobhyādyāṃs tu caturaḥ sarvabuddhān niveśayet |
+akṣobhyādyāṃs tu caturaḥ sarvabuddhān niveśayet //(STT 1,111,205)
 akṣobhyamaṇḍalaṃ kuryāt samaṃ vajradhārādibhiḥ /(STT 1,111,205)
 vajragarbhādibhiḥ pūrṇaṃ ratnasaṃbhavamaṇḍalam //(STT 1,111,205)
 vajranetrādibhiḥ śuddhaṃ maṇḍalaṃ tv amitāyuṣaḥ /(STT 1,111,205)
@@ -804,7 +804,7 @@ vajrodaka ṭhaḥ //(STT 1,123,222)
 tataḥ śiṣyāya brūyāt /:(STT 1,123,223)
 adyaprabhṛty ahaṃ te vajrapāṇir, yat te 'haṃ brūyām: idaṃ kuru, tat kartavyaṃ /(STT 1,123,223)
 na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṃ kṛtvā, narakapatanaṃ syād (STT 1,123124,223)
-iti uktvā vaktavyaṃ (STT 1,124,223):
+ity uktvā vaktavyaṃ (STT 1,124,223):
 brūhi sarvatathāgatā adhitiṣṭhantāṃ vajrasattvo ma āviśatu //(STT 1,124,223)
 
 tatas tvaramāṇena vajrācāryeṇa sattvavajrimudrāṃ baddhvedam uccārayitavyam //:(STT 1,125,224)
@@ -818,7 +818,7 @@ mahāyānābhisamayaṃ ca vajravācā rucita uccārayed iti //(STT 1,125,225)
 tataḥ samāviśaty āviṣṭamātrasya divyaṃ jñānam utpadyate /.(STT 1,125,226)
 tena jñānena paracittāny avabudhyati /.(STT 1,125,226)
 sarvakāryāṇi cātītānāgatavartamānāni jānāti /.(STT 1,125,226)
-hṛdayaṃ cāsya dṛḍhībhavati sarvatathāgataśāasne /.(STT 1,125,226)
+hṛdayaṃ cāsya dṛḍhībhavati sarvatathāgataśāsane /.(STT 1,125,226)
 sarvaduḥkhāni cāsya praṇaśyanti /.(STT 1,125,226)
 sarvabhayavigataś ca bhavaty avadhyaḥ sarvasattveṣu sarvatathāgatāś cādhitiṣṭhanti /.(STT 1,125,226)
 sarvasiddhayaś cāsyābhimukhībhavanti /.(STT 1,125,226)
@@ -966,7 +966,7 @@ vajrahara //(STT 1,141,249)
 
 tato hṛdayaṃ dattvā svakuladevatācaturmudrājñānaṃ śikṣayet /:(STT 1,143,250)
 anena vidhinā vaktavyaṃ :(STT 1,143,250)
-na kasyacit tvayānyasyaiśāṃ mudrāṇām akovidasyaikasya ekatarāpi mudrā darśayitavyā /.(STT 1,143,250)
+na kasya cit tvayānyasyaiśāṃ mudrāṇām akovidasyaikasya ekatarāpi mudrā darśayitavyā /.(STT 1,143,250)
 tat kasya hetos (STT 1,143,250)
 tathā hi te sattvā adṛṣṭamahāmaṇḍalāḥ santo mudrābandhaṃ prayokṣayanti, tadā teṣāṃ na tathā siddhir bhaviṣyati /.(STT 1,143,250)
 tatas te vicikitsā prāptā viṣamāparihāreṇa śīghram eva kālaṃ kṛtvāvīcau mahānarake pateyuḥ. (STT 1,143,250)
@@ -1167,7 +1167,7 @@ atha karmamudrābandho bhavati //:(STT 1,185,285)
 vajramuṣṭiṃ dṛḍhāṃ baddhvā dvidhīkuryāt samāhitaḥ /(STT 1,185,285)
 vajramudrādvayaṃ bhūyāt tato bandhaḥ pravartyate //(STT 1,185,285)
 vāmavajrāṅgulir grāhya dakṣiṇena samutthitā /(STT 1,185,285)
-bodhāgrī nāma mudrreyaṃ buddhabodhipradāyikā //(STT 1,185,285)
+bodhāgrī nāma mudreyaṃ buddhabodhipradāyikā //(STT 1,185,285)
 
 akṣobhyasya tu bhūsparśā ratne tu varadā tathā /(STT 1,185,286)
 amitāyoḥ samādhyagrā amoghasyābhayapradā //(STT 1,185,286)
@@ -1186,7 +1186,7 @@ kavacā kaniṣṭhadaṃṣṭrā(gryā) muṣṭidvayanipīḍitā //(STT 1,18
 
 vajragarvāprayogeṇa named āśayakaṃpitaiḥ /(STT 1,186,289)
 mālābandhā mukhodvāntā vajranṛtyapravartitā //(STT 1,186,289)
-vajramuṣṭiprayoge.an dadyād dhūpādayas tathā /(STT 1,186,289)
+vajramuṣṭiprayogeṇa dadyād dhūpādayas tathā /(STT 1,186,289)
 sarvabuddhaprapūjāyāḥ pūjājudrāḥ prakalpitāḥ //(STT 1,186,289)
 
 tarjanyaṅkuśabandhena kaniṣṭhāyā mahāṅkuśī /(STT 1,186,290)
@@ -1216,7 +1216,7 @@ vajrasmitāṃ samādhāya hased buddhaiḥ samaṃ laghu //(STT 1,194,294)
 vajraphullāṃ samādhāya vajradharmaṃ sa paśyati /(STT 1,194,295)
 vajrakośāṃ dṛḍhaṃ baddhvā sarvaduḥkhāṃś chinatti saḥ //(STT 1,194,295)
 vajracakraṃ samādhāya dharmacakraṃ pravartayet /(STT 1,194,295)
-sarvaṃ vai buddhavacanaṃ sidhyate vajrajāapataḥ //(STT 1,194,295)
+sarvaṃ vai buddhavacanaṃ sidhyate vajrajāpataḥ //(STT 1,194,295)
 
 vajranṛtyaprapūjāgryaiḥ vajrabuddhān api vaśaṃ nayet /(STT 1,194,296)
 vajravarmanibaddhāṅgo vajrasāratvam āpnuyāt //(STT 1,194,296)
@@ -1306,7 +1306,8 @@ sarvatathāgatān vijñāpya, yathecchayā dhūpādibhiḥ pūjāṃ kārayitvā
 idaṃ tat sarvabuddhatvaṃ vajrasattvakare sthitam /(STT 1,209,315)
 tvayāpi hi sadā dhāryaṃ vajrapāṇidṛḍhavratam //(STT 1,209,315)
 
-oṃ sarvatathāgatasiddhivajrasamaya tiṣṭha eṣa *tvāṃ (\emn; tv ā ed.) dhārayāmi vajrasattva hi hi hi hi hūṃ //(STT 1,214,316)
+oṃ sarvatathāgatasiddhivajrasamaya tiṣṭha eṣa *tvāṃ dhārayāmi vajrasattva hi hi hi hi hūṃ //(STT 1,214,316)
+% *tvāṃ] \emn; tv ā edH.
 tataḥ sarveṣāṃ punar api na kasya cid vaktavyam iti /(STT 1,214,316)
 śapathāhṛdayam ākhyeyam /(STT 1,214,316)
 
@@ -1953,7 +1954,7 @@ oṃ sarvatathāgatadhūpameghaspharaṇapūjākarme kara kara //(STT 1,285,515)
 oṃ sarvatathāgatapuṣpaprasaraspharaṇapūjākarme kiri kiri //(STT 1,285,515)
 
 oṃ sarvatathāgatālokajvālāspharaṇapūjākarme bhara bhara //(STT 1,285,516)
-oṃ sarvatathāgatagandhasamudraspharaṇapūjākarme kurr kuru //(STT 1,285,516)
+oṃ sarvatathāgatagandhasamudraspharaṇapūjākarme kuru kuru //(STT 1,285,516)
 
 sattvavatī /(STT 1,286,517)
 mahābodhyaṅgavatī /(STT 1,286,517)
@@ -2148,7 +2149,7 @@ teṣām arthāyedaṃ vajrasiddhimudrāmaṇḍalaṃ sarvatathāgatakulamaṇ�
 
 tat tvayaiṣāṃ sarvatathāgatakulasamayamudrārahasyānāṃ nāpratyabhiśraddhānīyaṃ, mā te narakatiryakpretopapattiḥ syād, viṣamāparihāreṇa vākalamaraṇaṃ syād (STT 1,303,575)
 
-iti uktvā mukhabandhaṃ muktvā maṇḍalaṃ darśayet //.(STT 1,303,576)
+ity uktvā mukhabandhaṃ muktvā maṇḍalaṃ darśayet //.(STT 1,303,576)
 
 tataḥ sarvatathāgatamudrāsamayaṃ brūyāt //(STT 1,305,577)
 
@@ -2403,7 +2404,7 @@ atha bhagavān sarvāvantaṃ maheśvarāditrailokyagaṇam āhūyaivam āha /:(
 
 pratipadyata, mārṣās, triśaraṇagamanasamayasaṃvare māyaṃ vajrapāṇiyakṣaḥ krūraḥ krodhanaś caṇḍo mahābodhisattvaś ca vo dīptena vajreṇa sakalam eva traidhātukaṃ nāśayed iti //(STT 1,332,674)
 
-atha maheśvaraḥ sakalatrailokyādhipatyatayā svajñānavaśitayā ca bhagavato vajrapāṇeḥ saṃdarśanārthaṃ mahācaṇḍakrodhatāṃ mahābhairavarūpatāṃ mahājvālotsṛjanatāṃ mahāraudrāṭṭahāsatāṃ sahaga.aniḥ saṃdarśayann evam āha /:(STT 1,332,675)
+atha maheśvaraḥ sakalatrailokyādhipatyatayā svajñānavaśitayā ca bhagavato vajrapāṇeḥ saṃdarśanārthaṃ mahācaṇḍakrodhatāṃ mahābhairavarūpatāṃ mahājvālotsṛjanatāṃ mahāraudrāṭṭahāsatāṃ sahagaṇaiḥ saṃdarśayann evam āha /:(STT 1,332,675)
 
 ahaṃ, bhoḥ, sakalatrailokyādhipas, tvāṃ ma mājñāṃ dadāmīti /(STT 1,332,676)
 
@@ -2499,7 +2500,7 @@ na tvaṃ pratipdyasy asya mahāsatpuruṣasyājñāṃ kartum /.(STT 1,343,710)
 ayam eva te 'nuśāsti nāham //(STT 1,343,710)
 
 maheśavraḥ prāha /(STT 1,343,711)
-kiṃ na tvaṃ, bhagavañ, chokto 'smād duṣṭ.asattvāt paritrātum iti //(STT 1,343,711)
+kiṃ na tvaṃ, bhagavañ, chokto 'smād duṣṭasattvāt paritrātum iti //(STT 1,343,711)
 
 bhagavān āha /:(STT 1,343,712)
 nāham asmāt samarthaḥ paritrātum //(STT 1,343,712)
@@ -2578,7 +2579,7 @@ atha vajrapāṇiḥ svasamayam anuprādāt /:(STT 1,352,740)
 bodhicittaṃ samutpādya (STT 1,352,740)
 yathanupūrvaśas tataḥ / (STT 1,352,740)
 mahābodhiṃ yathāśaktyā(STT 1,352,740)
-yatadhvaṃ susamāhitāaḥ //(STT 1,352,740)
+yatadhvaṃ susamāhitāḥ //(STT 1,352,740)
 
 atha vajrapāṇir mahābodhisattvas teṣāṃ devādīnāṃ praveśasamayamudrāṃ badhāneti kṛtvā bandhayati (or bādhayati) sma /, anena mahāsamayamudrāhṛdayeneti //:(STT 1,353,741)
 
@@ -2766,7 +2767,7 @@ atha vajrapāṇir mahābodhisattvaḥ sarvasattvaparitrāṇārtham idaṃ sarv
 oṃ vajrasamayākarṣaya sarvamaṇḍalān vajradharasatyaṃ mātikrama huṃ phaṭ //(STT 1,372,799)
 
 vajrāṅkuśadvayaṃ bhaddhvā hṛdaye parivartam /(STT 1,372,800)
-agrāṅkuśīdvayā bāhyamaṇḍalākarṣa.anṃ param //(STT 1,373,800)
+agrāṅkuśīdvayā bāhyamaṇḍalākarṣaṇaṃ param //(STT 1,373,800)
 
 athāsmin bhāṣitamātre sarvamaṇḍalāni sarvataḥ sumerugirimūrdhni bāhyataḥ parivāryāvasthitāni //(STT 1,373,801)
 
@@ -2855,7 +2856,7 @@ tat sādhau bhagtavān ājñāpayatu /:(STT 1,380,829)
 kathaṃ pratipadyāmaha iti //(STT 1,380,829)
 
 atha vajrapāṇir mahābodhisattva idaṃ svakarmaviśuddhijñānamudrāhṛdayam udajahāra /:(STT 1,380,830)
-oṃ vajrakarma viśodhaya sarvāvarraṇāni buddhasatyena samaya hūṃ //(STT 1,380,830)
+oṃ vajrakarma viśodhaya sarvāvaraṇāni buddhasatyena samaya hūṃ //(STT 1,380,830)
 
 athāsya mudrābandho bhavati /:(STT 1,380,831)
 vajrāñjaliṃ dṛḍhīkṛtya tarjanīdvayakuñjitām /(STT 1,380,831)
@@ -3011,7 +3012,7 @@ oṃ vajratīkṣṇakrodha cchinda cchinda huṃ phaṭ //(STT 1,392,876)
 oṃ  vajrahetukrodha praviśa praveṣaya maṇḍalaṃ sarvān huṃ phaṭ //(STT 1,392,877)
 oṃ vajrakrodhabhāṣa vada vada huṃ phaṭ //(STT 1,392,877)
 
-vajravegena cākramya caturthaṃ maṇ.adalottamam /(STT 1,393,878)
+vajravegena cākramya caturthaṃ maṇḍalottamam /(STT 1,393,878)
 vajrāveśaṃ samālekhyaṃ vajrakrodhagaṇair vṛtam //(STT 1,393,878)
 
 tatraiṣāṃ hṛdayāni bhavanti //:(STT 1,393,879)
@@ -3022,7 +3023,7 @@ oṃ vajrakavacakrodha rakṣa rakṣa huṃ phaṭ //(STT 1,393,879)
 oṃ vajrayakṣakrodha khāda khāda huṃ phaṭ //(STT 1,393,880)
 oṃ vajrakrodhamuṣṭi sādhaya samaya huṃ phaṭ //(STT 1,393,880)
 
-maṇda.asya tu koneṣu yathāvad anupūrvaśaḥ /(STT 1,394,881)
+maṇḍalasya tu koneṣu yathāvad anupūrvaśaḥ /(STT 1,394,881)
 vajradhātuprayogeṇa guhyapūjāṃ samālikhet //(STT 1,394,881)
 
 athāsāṃ hṛdayamudrā bhavanti //:(STT 1,394,882)
@@ -3130,7 +3131,7 @@ vajrāṅkuśam samālikhya svameḍhre tu samutthite /(STT 1,401,912)
 cālayaṃs tu samākarṣed umādyāḥ sarvayoṣitaḥ //(STT 1,401,912)
 
 vajrāṅkuśaṃ samālikhya guhyatrikakude tathā /(STT 1,401,913)
-tenākrameta yaṃ devaṃ tasyākarṣa.am uttamam //(STT 1,401,913)
+tenākrameta yaṃ devaṃ tasyākarṣaṇam uttamam //(STT 1,401,913)
 
 tatraiṣāṃ hṛdayāni bhavanti //:(STT 1,401,914)
 oṃ vajrakrodhāgrākarṣaya huṃ phaṭ //(STT 1,401,914)
@@ -3170,10 +3171,10 @@ vajradṛṣtyā nirīkṣan vai vajrakrodhasamādhinā /(STT 1,405,924)
 yasya yasya tu sattvasya so so maraṇam āpnuyāt //(STT 1,405,924)
 
 manasā mārayāmīti vajraṃ hṛdi tu bhāvayet /(STT 1,405,925)
-huṃkāreṇaiva sarveṣāaṃ mudrayaty abhitaḥ svayam iti //(STT 1,405,925)
+huṃkāreṇaiva sarveṣāṃ mudrayaty abhitaḥ svayam iti //(STT 1,405,925)
 
 yasya sattvasya yenaiva manasā mudrayaty asau /(STT 1,405,926)
-āabhirmudrābhir atyarthaṃ sarvakarmāṇi sādhayed iti //(STT 1,405,926)
+ābhir mudrābhir atyarthaṃ sarvakarmāṇi sādhayed iti //(STT 1,405,926)
 
 athāsāṃ hṛdayāni bhavanti //:(STT 1,405,927)
 ṭakki aḥ //(STT 1,405,927)
@@ -3311,7 +3312,7 @@ vajramudrādvikiaṃ baddhvā tāḍayeta parasparam /(STT 1,415,967)
 yasya vai sattvakāyaṃ tu samāviṣṭas tu tāḍayet //(STT 1,415,967)
 
 vajramudrādvikaṃ baddhvā kavacas tvaṃ parasya vā /(STT 1,415,968)
-granthanaṃ tarjanībhyāṃ tu rakṣāa bhavati śāśvatī //(STT 1,415,968)
+granthanaṃ tarjanībhyāṃ tu rakṣā bhavati śāśvatī //(STT 1,415,968)
 
 vajrabandhaṃ tale kṛtvā cchādayeta kruddhāmānasaḥ /(STT 1,415,969)
 gāḍham aṅguṣṭhavajreṇa sidhyed vajrakulaṃ mahat //(STT 1,415,969)
@@ -3350,7 +3351,7 @@ vajrabandhaṃ samādhāya bāhubhyāṃ sudṛḍhaṃ hṛdi /(STT 1,418,980)
 vajrāgryābhyāṃ svakakṣau tu kuśaṃs tu hṛdayaṃ haret //(STT 1,418,980)
 
 agryāṅgulimukhābhyāṃ tu pīḍayet kruddhamānasaḥ /(STT 1,418,981)
-aṅguṣṭhadvayamūlaṃ tu jvarākarṣa.am uttamam //(STT 1,418,981)
+aṅguṣṭhadvayamūlaṃ tu jvarākarṣaṇam uttamam //(STT 1,418,981)
 
 vajrāñjaliṃ dṛḍhīkṛtya tarjanīdvayakuñcitā /(STT 1,418,982)
 susaṃdhitasamāṅguṣṭhayantritā pāpahāriṇī //(STT 1,418,982)
@@ -3685,7 +3686,7 @@ oṃ sūkṣmavajrahūṃkārakrodha hana pātaya vāṅmātreṇa hūṃ phaṭ
 oṃ sūkṣmavajrakarmakrodha sarvakarmakaro bhava sarvakāryāṇi sādhaya hūṃ phaṭ //(STT 1,446,1080)
 oṃ vajrasūkṣmakavacakrodha rakṣa rakṣa hūṃ phaṭ //(STT 1,446,1080)
 
-oṃ sūkṣmavajrayakṣakrodha hana bhak.aya sarvaduṣṭān cintitamātreṇa vajradaṃṣṭra hūṃ phaṭ //(STT 1,447,1081)
+oṃ sūkṣmavajrayakṣakrodha hana bhakṣaya sarvaduṣṭān cintitamātreṇa vajradaṃṣṭra hūṃ phaṭ //(STT 1,447,1081)
 oṃ sūkṣmavajramuṣṭikrodha bandha bandha hūṃ phaṭ //(STT 1,447,1081)
 
 atha vajrapāṇiḥ punar apīdaṃ vajrakulasūkṣmajñānasamayamaṇḍalam udājahāra //:(STT 1,448,1082)
@@ -3795,7 +3796,7 @@ sūkṣmavajravidhiṃ yojya kruddhaḥ san vajradṛṣṭitaḥ /(STT 1,456,11
 nirīkṣann andhatām yāti maraṇaṃ vā nigacchati //(STT 1,456,1112)
 
 bhagena tu praviṣṭo vai manasā yasya kasya cit /(STT 1,456,1113)
-hṛdayākar.aṇād yāti vaśaṃ svaṃ vā yam asya veti //(STT 1,456,1113)
+hṛdayākarṣaṇād yāti vaśaṃ svaṃ vā yam asya veti //(STT 1,456,1113)
 
 tatraiṣāṃ hṛdayāni bhavanti //:(STT 1,456,1114)
 huṃ vajravalitakrodha māraya huṃ phaṭ //(STT 1,456,1114)
@@ -3832,7 +3833,7 @@ atha vajrapāṇir mahābodhisattvaḥ punar apīmāṃ svavidhyottamām abhā�
 oṃ sarvatathāgatadharmadhātuspharaṇamahāpūjākarmavidhivistarasamaye trilokavijayaṃkari sarvaduṣṭān dāmaya vajriṇi hūṃ //(STT 1,462,1123)
 
 atha vajragarbho bodhisattvaḥ punar apīmāṃ svavidyottamām abhāṣat //:(STT 1,462,1124)
-oṃ sarvatathāgatākāśadhātusamavasara.anmahāpūjākarmavidhivistarasamaye hūṃ //(STT 1,462,1124)
+oṃ sarvatathāgatākāśadhātusamavasaraṇamahāpūjākarmavidhivistarasamaye hūṃ //(STT 1,462,1124)
 
 atha vajranetro bodhisattvaḥ punar apīmāṃ svavidyottamām abhāṣat //:
 oṃ sarvatathāgatadharmadhātuspharaṇamahāpūjākarmavidhivistarasamaye hūṃ //(STT 1,462,1125)
@@ -4034,7 +4035,7 @@ oṃ svabhāvaviśuddhamukhe huṃ //(STT 1,482,1183)
 oṃ sarvaviśuddhakāyavāṅmanaḥkarmavajri phaṭ //(STT 1,482,1183)
 
 tataś caturmudrāmaṇḍalaguhyarahasyamudrāṃ śiksa.yet //:(STT 1,483,1184)
-praviśya maṇḍalam idaṃ pañcabhiḥ kāmasadgu.aniḥ /(STT 1,483,1184)
+praviśya maṇḍalam idaṃ pañcabhiḥ kāmasadguṇaiḥ /(STT 1,483,1184)
 ramayan paradārāṇi sutarāṃ siddhim āpunute //(STT 1,483,1184)
 
 athāsyā hḍayaṃ bhavati //(STT 1,483,1185)
@@ -4102,7 +4103,7 @@ sarvatathāgataṃ guhyaṃ mahāyānābhisaṃgraham iti //(STT 1,490,1204)
 sarvatathāgatavajrasamayān mahākalparājān mahāvajrakalpavidhivistaraḥ samāptaḥ //(STT 1,490,1205)
 
 trilokacakramahāmaṇḍalavidhivistaraḥ (STT 1,491,1206)
-atha bhagavantḥ sarvatathāgatāḥ punar api samājam āapadya jānann eva vajrapāṇiṃ mahābodhisattvam evam āhuḥ /(STT 1,491,1206)
+atha bhagavantḥ sarvatathāgatāḥ punar api samājam āpadya jānann eva vajrapāṇiṃ mahābodhisattvam evam āhuḥ /(STT 1,491,1206)
 
 pratiapdyasva, vatsa, sarvatathāgatājñākāritāyā imaṃ maheśvarakāyam ataḥ svapādatalād moktum iti //(STT 1,491,1207)
 
@@ -4126,7 +4127,7 @@ atha vajrapāṇir mahābodhisattva idaṃ pādotkṣepaṇaṃ nāma hṛdayam 
 oṃ vajra muḥ //(STT 1,496,1213)
 
 athāsya mudrābandho bhavati //:(STT 1,496,1214)
-vajrakrodhāṅgulīsamayaṅ mukhāasaṅgaṃ tu harṣite /(STT 1,496497,1214)
+vajrakrodhāṅgulīsamayaṅ mukhāsaṅgaṃ tu harṣite /(STT 1,496497,1214)
 parivartya tayor vajraṃ tam adhogāt samuddhared iti //(STT 1,497,1214)
 vajrakrodhāṅgulī samayaṅ mukhāsaṅgaṃ samādhayan /(STT 1,497,1214)
 harṣite parivartā tu (or haste paribhraman vajre) vajrādhonayam uddhared iti // (or 'dho mūrdhe gāṃ samuddhared iti //(STT 1,497,1214)
@@ -4182,7 +4183,7 @@ oṃ vajrakarmottama vajradhara samayam anusmara śumbha niśumbhākarṣaya pra
 atha vajravidyottamo bodhisattvo mahāsattva idaṃ svahṛdayaṃ bhagavato vajrapāṇeḥ pādavandanīyaṃ niryātayām āsa //:(STT 1,516,1233)
 oṃ śumbha niśumbha vajravidyottama huṃ phaṭ //(STT 1,516,1233)
 
-atha krodhavajro vidyārāajo bhagavataś caraṇayor nipatyedaṃ svahṛdayam adāt //:(STT 1,518,1234)
+atha krodhavajro vidyārājo bhagavataś caraṇayor nipatyedaṃ svahṛdayam adāt //:(STT 1,518,1234)
 huṃ vajraśūla //(STT 1,518,1234)
 
 atha māyāvajro vidyārāja idaṃ svahṛdayam abhāṣat //:(STT 1,518,1235)
@@ -4228,7 +4229,7 @@ gaṇapatayaḥ //(STT 1,520,1247)
 atha vajramusalo vajradūta idaṃ svahṛdayaṃ vajrapāṇaye niryātayām āsa //:(STT 1,521,1248)
 oṃ vajramusalo kuṭṭa kuṭṭa sarvaduṣṭān vajradūta huṃ phaṭ //(STT 1,521,1248)
 
-atha vajrānilo dūtaḥ svahṛdayam adāat //:(STT 1,522,1249)
+atha vajrānilo dūtaḥ svahṛdayam adāt //:(STT 1,522,1249)
 oṃ vajrānilamahāveegānaya sarvaduṣṭān huṃ phaṭ //(STT 1,522,1249)
 
 atha vajrānalo dūtaḥ svahṛdayam adāt //:(STT 1,522,1250)
@@ -4297,8 +4298,9 @@ manasodghāṭayec caiva vajradvāracatuṣṭayam //(STT 1,528,1270)
 tatredaṃ dvārodghāṭanahṛdayaṃ bhavati //:(STT 1,528,1271)
 oṃ vajrodghāṭanasamaya praviṣa śīghraṃ smara vajrasamaya huṃ phaṭ //(STT 1,528,1271)
 
-sauvarṇarājate vāapi mṛnmmaye vā sucitrite /(STT 1,529,1272)
-iṣṭake caturasre (ed. aśre ) tu buddhabimbaṃ niveśayet //(STT 1,529,1272)
+sauvarṇarājate vāpi mṛnmaye vā sucitrite /(STT 1,529,1272)
+iṣṭake caturasre tu buddhabimbaṃ niveśayet //(STT 1,529,1272)
+%-asre: ed. -aśre.
 
 tatredaṃ sarvabuddhahṛdayaṃ bhavati //:(STT 1,529,1273)
 oṃ sarvavit //(STT 1,529,1273)
@@ -4916,7 +4918,7 @@ haraṃs tu sarvavittāni na sa pāpena lipyate //(1, 1461)
 atha vajranetro bodhisattva idaṃ sarvadharmaguhyam abhāṣat //:(1, 1462)
 rāgatulyasukhaṃ nāsti jinebhyas taṃ tu saṃdadan /(1, 1462)
 sattvārthaṃ paradārāṇi sevayan puṇyam āpnute //(1, 1462)
-% quoted in Nāmamantrārthāvalokinī. pādas ab reads rāgatulyaṃ sukhaṃ nāsti taj jinebhyaḥ samādadat.
+% quoted in Nāmamantrārthāvalokinī. pādas ab read rāgatulyaṃ sukhaṃ nāsti taj jinebhyaḥ samādadat.
 
 atha vajraviśvo bodhisattva idaṃ svakarmaguhyam abhāṣat //:(1, 1463)
 sarvasattvahitarthāya buddhaśāsanahetutaḥ /(1, 1463)
@@ -5107,7 +5109,7 @@ trīḥ //(2, 1526)
 oṃ padmanarteśvara naṭa naṭa pūjaya sarvatathāgatān vajrakarmasamayākarṣaya praveśaya bandhayāveśaya sarvakarmasiddhiṃ me prayacchāvalokiteśvara hūṃ //(2, 1526)
 
 oṃ abhayaṃdadāvalokite.vara rakṣa bandha padmakavacaṃ samaya haṃ //(2, 1527)
-oṃ mahāpracaṇḍaviśvarūpavikaṭapadmadaṃṣṭrākarālabhīṣa.anvaktra trāsaya sarvān padmayakṣa khāda khāda dhik dhik dhik //(2, 1527)
+oṃ mahāpracaṇḍaviśvarūpavikaṭapadmadaṃṣṭrākarālabhīṣaṇavaktra trāsaya sarvān padmayakṣa khāda khāda dhik dhik dhik //(2, 1527)
 oṃ padmamuṣṭisamayas tvaṃ bandha hūṃ phaṭ //(2, 1527)
 
 vajravegena cākramya sarvakoṇeṣu saṃlikhet /(2, 1528)
@@ -5189,62 +5191,62 @@ svayaṃ sarasvatīdevī mukhe tiṣṭhaty abhīkṣṇaśaḥ || (1551)
 padmam uṣṇīṣamadhye tu sthāpayitvā samāhitaḥ /(2, 1552)
 bhāvayan padmam uṣṇīṣe khegāmī sa vaśaṃ nayed iti //(2,1552)
 
-tatraitāni hṛdayāni bhavanti //
-padmaśriyaṃ vaśam ānaya hoḥ //
-padmābhiṣekaṃ prayaccha vaṃ //
-padmasarsvati śodhaya hūṃ //
-padmordhvagān vaśīkuru jjaḥ //
+tatraitāni hṛdayāni bhavanti //(2,1553)
+padmaśriyaṃ vaśam ānaya hoḥ //(2,1553)
+padmābhiṣekaṃ prayaccha vaṃ //(2,1553)
+padmasarsvati śodhaya hūṃ //(2,1553)
+padmordhvagān vaśīkuru jjaḥ //(2,1553)
 
-kuḍye vāpy atha vākāśe bhāvayan padmam uttamam /
-anayā sarvasattvānāṃ vaśīkaraṇam uttamam //
+kuḍye vāpy atha vākāśe bhāvayan padmam uttamam /(2,1554)
+anayā sarvasattvānāṃ vaśīkaraṇam uttamam //(2,1554)
 
-ākāśe vānyadeśe vā bhāvayan padmam uttamam /
-yadā paśyet tadā gṛhṇa kāmyād adreśyatāṃ vrajet //
+ākāśe vānyadeśe vā bhāvayan padmam uttamam /(2,1555)
+yadā paśyet tadā gṛhṇa kāmyād adreśyatāṃ vrajet //(2,1555)
 
-kuḍye vāpy atha vākāśe viśvapadmaṃ samādhayet /
-paśyan gṛhṇa pradānaṃ viśvarūpī tadā bhavet //
+kuḍye vāpy atha vākāśe viśvapadmaṃ samādhayet /(2,1556)
+paśyan gṛhṇa pradānaṃ viśvarūpī tadā bhavet //(2,1556)
 
-% H1557
-ākāśe vānyadeśe vā vajrapadmaṃ tu bhāvayet /
-taṃ tu gṛhṇan kṣaṇāc caiva padmavidyādharo bhavet //
+ākāśe vānyadeśe vā vajrapadmaṃ tu bhāvayet /(2,1557)
+taṃ tu gṛhṇan kṣaṇāc caiva padmavidyādharo bhavet //(2,1557)
 
-tatraiṣāṃ hṛdayāni bhavanti //
-oṃ sarvajagadvaśitājñānapadmāviśa aḥ //
-oṃ jñānapadma tiṣṭhādreśyaṃ kuru vaṃ //
-oṃ samādhiviśvapadma tiṣṭha viśvarūpyaṃ darśa bhagavan dhaḥ //
-oṃ samādhivajrapadmaṃ tiṣṭhottiṣṭha śīghraṃ hrīḥ // (2, 1558)
+tatraiṣāṃ hṛdayāni bhavanti //(2,1558)
+oṃ sarvajagadvaśitājñānapadmāviśa aḥ //(2,1558)
+oṃ jñānapadma tiṣṭhādreśyaṃ kuru vaṃ //(2,1558)
+oṃ samādhiviśvapadma tiṣṭha viśvarūpyaṃ darśa bhagavan dhaḥ //(2,1558)
+oṃ samādhivajrapadmaṃ tiṣṭhottiṣṭha śīghraṃ hrīḥ // (2,1558)
 
 loke.varaṃ samīlikhya maṇḍalādiṣu sarvataḥ /
 puras tasya samākarṣet hayagrīvāgryamudrayā //
 lokeśvaraṃ (lokeṣvaraṃ, ed) samālikhya maṇḍalādiṣu tasya vai /
-amoghapāśamudrayā vaśīkuryāj jagat sa tu //
+amoghapāśamudrayā vaśīkuryāj jagat sa tu //(2,1559)
 
 lokeśvaraṃ samālikhya maṇḍalādiṣu tasya vai /
-amoghapāśamudrayā vaśīkuryāj jagat sa tu //
+amoghapāśamudrayā vaśīkuryāj jagat sa tu //(2,1560)
 
 loke.varaṃ samālkijya maṇḍalādiṣu sarvataḥ /
-puras tasya tu bandhnīyāt padmasphoṭāgramudrayā //
+puras tasya tu bandhnīyāt padmasphoṭāgramudrayā //(2,1561)
 
 lokeśvaraṃ samālikhya maṇḍalādiṣu tasya vai /
-purataḥ padmaghaṇṭayā sarvāveśanam uttamam iti //
+purataḥ padmaghaṇṭayā sarvāveśanam uttamam iti //(2,1562)
 
 tatraiṣāṃ hṛdayāni bhavanti //
 oṃ padmāṅkuśākarṣaya sarvamahāsattvān hūṃ jjaḥ //
 oṃ amoghapāśakrodha hūṃ hoḥ //
 oṃ padmasphoṭa vaṃ //
-oṃ padmaghaṇṭāveśaya sarvam aḥ // (2, 1563)
+oṃ padmaghaṇṭāveśaya sarvam aḥ // (2,1563)
 
 catuḥpadmamukhaṃ sattvaṃ bhāvayan svayam ātmanā /
-svam ātmānaṃ tataḥ siddho bahurūpī bhavet kṣanāt //
+svam ātmānaṃ tataḥ siddho bahurūpī bhavet kṣanāt //(2,1564)
 
 bhāvayan padmapadmaṃ tu svam ātmānaṃ tathātmanā /
-vajradharmasamādhistho prāpnoti padam akṣaram //
+vajradharmasamādhistho prāpnoti padam akṣaram //(2,1565)
 
 lokeśvarajaṭāmadhye bhāvayan svayam ātmanā /
-buddhabimbaṃ svam ātmānam amitāyuḥsamo (amitāyusamo, ed.) bhavet //
+buddhabimbaṃ svam ātmānam amitāyuḥsamo bhavet //(2,1566)
+%amitāyuḥsamo] em., amitāyusamo, ed.
 
 bhāvayan svayam ātmanā viśvarūpasamādhinā /
-viśvarūpasamādhistho lokeśvarasamo bhaved iti //
+viśvarūpasamādhistho lokeśvarasamo bhaved iti //(2,1567)
 
 tatraiṣāṃ hṛdayāni bhavanti //
 padmaviśva /
@@ -5392,7 +5394,7 @@ gī /
 dhī /
 krī /
 vī /
-vi (or viḥ )/
+vi (or viḥ)/
 rī /
 ṣṭrī /
 aḥ //
@@ -5424,35 +5426,33 @@ atha bhagavān āryāvalokiteśvaro bodhisattva idaṃ svakulasamayamudrāmaṇ�
 
 	mahāmaṇḍalayogena sūtrayet sarvamaṇḍalam /
 	tasya madhye supadme vai vajradhātvīśvarīṃ likhet // (1620)
-	
+
 	tasya [vai] sarvapārśveṣu samayāgryo yathopari /
 	dharmavajryādayo lekhyāḥ svavidyābhiḥ samanvitāḥ // (1621)
-	
-tatrāṃ mudrā bhavanti //
 
+tatrāsāṃ mudrā bhavanti //
 	oṃ sarvatathāgatadharmeśvari hūṃ //
 	oṃ dharmasamaye vajrapadmini hūṃ // (1622)
-	
+
 	oṃbuddhābhiṣekaratnasamaye hūṃ //
 	oṃ tārāsamaye hūṃ //
 	oṃ viśvamukhe hūṃ // (1623)
-	
+
 	vajravegena niṣkramya vi.varūpāgryamaṇḍalam /
 	tatra madhye likhet padmaṃ padmais tu parivāritam // (1624)
-	
+
 	tasya pārśveṣu sarveṣu padmamudrāpratiṣṭhitāḥ /
 	padmacihnāḥ samāliekhyāḥ svamudrāḥ sugatātmanām // (1625)
-	
-tatrāsāṃ mudrā bhavanti //:
 
+tatrāsāṃ mudrā bhavanti //:
 	hrīḥ oṃ padmatathāgata //
 	oṃ samantabhadrapadmavajrāṅkuśakośadhāriṇi hūṃ //
 	oṃ padmarati //
 	oṃ padmatuṣṭi // (1626)
-	
+
 	vajravegena cākramya dvitīye maṇḍale tathā /
 	buddhābhiṣekā samālekhyā jaṭāmadhye mahāmbujam // (1627)
-	
+
 	tasya pārśveṣu sarveṣu yathāvad anupūrvaśaḥ /
 	padmacihna samopetāḥ samayāgryo niveśayet // (1628)
 
@@ -5461,76 +5461,70 @@ tatrāsāṃ hṛdayāni bhavanti //:
 	śrīḥ
 	oṃ bhṛkuṭi taṭi vai taṭi padme hūṃ //
 	oṃ padmajvāle // (1629)
-	
+
 	oṃ saumini padme hūṃ //
 	oṃ padmahāsiny ekādaśavaktre diri diri iṭṭe vaṭṭe cale pracale kusumadhare ili praviśa siddhiṃ me prayaccha hūṃ // (1630)
-	
+
 	vajravegena cākramya tṛtīyaṃ maṇḍalam tathā /
 	tatra madhye supadme tu padmamudrāṃ niveśayet // (1631)
-	
+
 	tathaiva sarvapārśveṣu yathāvad anupūrvaśaḥ /
 	padmacihnasamopetāḥ padmasaṃsthās tu saṃlikhet // (1632)
-	
-tatrāsāṃ mudrā bhavanti //:
 
+tatrāsāṃ mudrā bhavanti //:
 	dhīḥ //
 	oṃ tāre tut tāre hūṃ //
 	oṃ dhī hūṃ // (1633)
-	
+
 	oṃ padmacakraśaṃkhagadādhāriṇi nīlakaṇṭhe sidhya sidhya hūṃ //
 	oṃ paṇḍaravāsini padmasaṃbhave vada vada hūṃ // (1634)
-	
+
 	vajravegena cākramya caturthe maṇḍalottame /
 	padmamadhye likhet padmaṃ jvālāmālākulaprabham // (1635)
-	
+
 	tasya pārśveṣu sarveṣu yathāvad anupūrvaśaḥ /
 	padmacihnāḥ samālekhyāḥ padmamadhyapratiṣṭhitāḥ // (1636)
-	
-tatrāsāṃ mudrā bhavanti //:
 
+tatrāsāṃ mudrā bhavanti //:
 	strīḥ //
 	oṃ padmanatreśvari pūjaya sarvātathāgatān naṭa naṭa hūṃ //
 	oṃ abhyaye padmakavacabandhe rakṣa māṃ hūṃ haṃ // (1637)
-	
+
 	oṃ mahāpracaṇḍi padmayakṣiṇi viśvarūpadhāriṇi bhīṣāpaya sarvaduṣṭān khāda khāda hūṃ phaṭ //
 	oṃ padmamuṣṭi aḥ aḥ // (1638)
-	
+
 	vajravegena cākramya buddhapūjāḥ samālikhet /
 	padmāṅkuśyādayo mudrāḥ padmacihnāḥ samāsataḥ // iti // (1639)
-	
-athāsāṃ mudrā bhavanti //:
 
+athāsāṃ mudrā bhavanti //:
 	oṃ padmaratipūje hoḥ //
 	oṃ padmābhiṣekapūje raṭ //
 	oṃ padmagītapūje gīḥ //
 	oṃ padmanṛtyapūje kṛt // (1640)
-	
+
 	oṃ dhūpapadmini hūṃ //
 	oṃ padmapuṣpi hūṃ //
 	oṃ padmakulasundari dharmāloke pūjaya hūṃ //
 	oṃ padmagandhe hūṃ // (1641)
 
 pūjādevyaḥ //
-
 	oṃ padmāṅkuśy ākarṣaya mahāpadmakulān hayagrīvasamaye hūṃ jaḥ //
 	oṃ amoghapāśakrodhasamaye praviśa prav.eśaya sarvasamayāṃ hūṃ // (1642)
-	
+
 	oṃ padmaśaṅkale vaṃ //
 	oṃ padmaghaṇṭādhāri śīghram āveśaya samayāṃ ṣaṇmukhi aḥ // (1643)
-	
 
 atha mudrāmaṇḍala ākarṣaṇādividhivistaraṃ kṛtvā, padmaśiṣyān yathāvat praveśayet //
 evaṃ vaden:
-
 	na tvayā kasya cid vaktavyaṃ yad atra guhyam /
 	mā te narakapatanaṃ bhaved du.khāni cātra janmanīti // (1644)
-	
-tataḥ samāveśyaivaṃ vadet /:
 
-	tvatcakṣuṣpathi (or -cakṣurgocare, or tvadlocanagocare, or -pathi) kīdṛśo 'vabhāsaḥ / (1645)
-	
+tataḥ samāveśyaivaṃ vadet /:
+	tvatcakṣuṣpathi kīdṛśo 'vabhāsaḥ / (1645)
+%or -cakṣurgocare, or tvadlocanagocare, or -pathi
+
 tad yathā vadati tathā siddhir iti / (1646)
-	
+
 tad yadi śvetālokaṃ paśyet tasyottamasiddhijñānaṃ śikṣayet /
 atha pītaṃ paśyet tasyārthotpattijñānaṃ śikṣayet /
 atha raktaṃ paśyet tato 'nurāgaṇajñānaṃ śikṣayet /
@@ -5545,82 +5539,75 @@ mudrājñānaṃ ca śikṣayet / (1649)
 evaṃ vajradhātvādiṣv api sarvamaṇḍaleṣu yathābhājanatayā mudrājñānāni śikṣayed, iyaṃ parīkṣā // (1650)
 
 athottamasiddhiniṣpattijñānaṃ bhavati //:
-
 	lokeśvaramahāsattvaṃ viśvarūpaṃ svam ātmānā /
 	bhāvayaṃs tu mahāmudrām agryāṃ siddhim avāpnuyāt // (1651)
-	
+
 	buddhābhiṣekasamayāṃ dṛḍhīkṛtvā samāhitaḥ /
 	bhāvayaṃs tu svam ātmānam agryāṃ siddhim avāpnute // (1652)
-	
+
 	padmapadmamahāsattvaṃ bhāvayet svayam ātmanā /
 	ātmānam uttamāṃ siddhiṃ prāpnoti susamāhitaḥ // (1653)
-	
+
 	amogheśvaramayīṃ karmamudrāṃ svayaṃ bhuvaḥ /
 	sādhaya vidhivac chīghram agryāṃ siddhim avāpnuyāt // iti // (1654)
 
 athaiṣāṃ hṛdayāni bhavanti //:
-
 	oṃ padmasattvo 'haṃ sidhya hoḥ //
 	oṃ buddhābhiṣeko 'haṃ sidhya māṃ //
 	oṃ dharmasamādhir ahaṃ sidhya hoḥ //
 	oṃ amogheśvaro 'haṃ sidhya māṃ // (1655)
-	
-tato 'rthaniṣpattijñānaṃ bhavati //:
 
+tato 'rthaniṣpattijñānaṃ bhavati //:
 	hiraṇyaṃ tu mukhe viddhvā bhāvayet svayam ātmanā /
 	viśveśvaramahāmudrām ekaṃ bhūyāt sahasraśaḥ // (1656)
-	
+
 	suvarṇatolakaṃ gṛhya samayāgryā mahādṛḍham /
 	bhāvayan svayam ātmānam eko bhūyāt sahasraśaḥ // (1657)
-	
+
 	muktāphalaṃ mukhe viddhvā bhāvayet svayam ātmanā /
 	lokeśvaraṃ svam ātmānam eko bhūyāt sahasraśaḥ // (1658)
-	
+
 	sarvaratnāni saṃgṛhya pāṇibhyāṃ karmamudrayā /
 	bhāvayan svayam ātmānam eko bhūyāt sahasraśaḥ // iti // (1659)
-	
-tatraiṣāṃ hṛdayāni bhavanti //:
 
+tatraiṣāṃ hṛdayāni bhavanti //:
 	oṃ padmahiraṇyaprada huṃ jjaḥ //
 	oṃ padmasuvarṇaprada huṃ jjaḥ //
 	oṃ padmamuktāprada huṃ jjaḥ //
 	oṃ padmasarvaratnaprada huṃ jjaḥ // (1660)
-	
-athānurāgaṇajñānaṃ bhavati //:
 
+athānurāgaṇajñānaṃ bhavati //:
 	viśveśvaramahāmudrāṃ bhāvayan svayam ātmanā /
 	padmaṃ gṛhya puraḥ sthāti yasya so 'syānurajyati // (1661)
-	
+
 	raktapadmaṃ dṛḍhaṃ gṛhya mahāsamayamudrayā /
 	bhāvayan svayam ātmānaṃ rāgayet sarvayoṣitaḥ / (1662)
-	 
+
 	bhāvayet svayam ātmānaṃ padmaṃ gṛhya yathā tathā /
 	nirīkṣed vajradṛṣṭyā vai sarvalokaṃ sa rāgayet // (1663)
-	
+
 	karmamudrāprayogeṇa padmaṃ gṛhya yathāvidhi /
 	karābhyāṃ bhrāmayaṃs taṃ tu rāgayet sarvayoṣitaḥ // iti // (1664)
-	
-tatraiṣāṃ hṛdayāni bhavanti //:
 
+tatraiṣāṃ hṛdayāni bhavanti //:
 	oṃ viśveśvaramahāpadma hoḥ //
 	oṃ samayapadma hoḥ //
 	oṃ yogapadma hoḥ //
 	oṃ karmapadma hoḥ // (1665)
-	
-[athābhicārukajñānaṃ bhavati //:]
 
+[athābhicārukajñānaṃ bhavati //:]
 	viśveśvaramahāmudrāṃ bhāvayan svayam ātmanā /
 	chinded yasya puraḥ padmaṃ tasya mṛtyuḥ kṣaṇād bhavet // (1666)
-	
+
 	padmaṃ gṛhya dṛḍhaṃ samyak samayāgryā tayaiva hi /
 	sphoṭayet taṃ tu sudṛḍhaṃ yasya nāmnā sa naśyati // (1667)
-	
+
 	samādhimudrāṃ saṃdhyāya padmaṃ gṛhya yathā tathā /
 	yasya nāmnā tu padmaṃ vai chindet sa tu vinaśyati // (1668)
-	
+
 	karmamudrāprayogeṇa padmaṃ gṛhya yathāvidhi /
 	sphoṭayed yasya saṃkruddhaḥ sphuṭet tasya tu jīvitam // iti // (1669)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ mahāpadmacheda (chedaya, Ch) māraya hoḥ phaṭ //
@@ -5629,122 +5616,118 @@ tatraiṣāṃ hṛdayāni bhavanti //:
 	oṃ dharmapadmacheda (chedaya, Ch) vināśaya dhṛt phaṭ //
 	oṃ karmapadmasphoṭa sphoṭaya (sphoṭaya, Ch) jīvitam asya kṛt phaṭ // (1671)
 
-tato dharmasamayarahasyamudrājñānaṃ bhavati //: 
-
+tato dharmasamayarahasyamudrājñānaṃ bhavati //:
 	padmaṃ tu yoṣitāṃ cintya vajraṃ tasyopari svayam /
 	rāmayan padmapadmāgryā samāpattyā tu sidhyati // (1672)
-	
+
 	padmaṃ tu yoṣitāṃ cintya buddhaṃ tasyopari svayam /
 	rāmyam buddhamukuṭāṃ bhāvayan so 'sya sidhyati // (1673)
-	
+
 	padmaṃ tu yoṣitāṃ cintya padmaṃ tasyopari svayam /
-	rāgayan padmapadmāagrīṃ śuddhāṃ siddhim avāpnute // (1674)
-	
+	rāgayan padmapadmāgrīṃ śuddhāṃ siddhim avāpnute // (1674)
+
 	padmaṃ tu yoṣitāṃ cintya viśvaṃ tasyopari svayam /
 	rāmayan viśvapadmāgrīṃ viśvāṃ siddhim avāpnuyāt // iti // (1675)
-	
-tatraiṣāṃ hḍayāni bhavanti //:
 
+tatraiṣāṃ hḍayāni bhavanti //:
 	oṃ vajrapadmasaṃyoga sādhaya hrīḥ //
 	oṃ buddhamukuṭasaṃyoga sādhaya śrīḥ //
 	oṃ padmapadmasaṃyoga sādhaya dhīḥ //
 	oṃ viśvapadmasaṃyoga sādhaya strīḥ // (1676)
 
 tato yathāvat padmakulaguhyamahāmudrājñānaṃ bhavati //:
-
 	kuḍmalāñjalir agrasya vajrakrodhāṅgulī dvike /
 	dvyagrā maṇis tathā padmaṃ vajrabandhaṃ tathaiva ca // (1677)
-	
+
 	vajrabandhāṃ samānīya samamadhyāṅkurotthitā /
 	tarjanyanāmasaṃkocā mudrā śakyamuner dṛḍhā // (1678)
-	
+
 	dharmavajrā hṛdisthā tu parivartya lalāṭagā /
 	samādhiyogāc cotsaṅge parivartya tu mūrdhagā // (1679)
-	
+
 	vajradhātvīśvarīṃ baddhvā caityaṃ padmaprayogataḥ /
 	saṃdhayen madhyamābhyāṃ tu buddhapadmeti kīrtitā // (1680)
-	
+
 	sā evāṅkuṣṭhavajrā tu dvyagrakhaḍgāṅkuśī tathā /
 	padmavajradharasyaitā guhyamudrāḥ prakīrtitāḥ // (1681)
-	
+
 	sā evāṅguṣṭhamuktā tu tarjanyā tarjanī grahā /
 	valitā suratiḥ proktā sādhukāryā tathaiva ca // (1682)
-	
+
 	vajrabandhaṃ dṛḍhīkṛtya samāṅguṣṭhapraveṣitā /
 	kuñcitāgryamukhasthā tu bhṛkuṭyāṃ madhyapadminī // (1683)
-	
+
 	sā eva hṛdaye caiva sūryamaṇḍaladarśikā /
 	dhvajabandhena sā eva śiraḥpṛṣṭhe prasāritā // (1684)
-	
+
 	vajrabandhaṃ dṛḍhīkṛtya kuñcitāgryāgravigrahā /
 	tathaiva padmakhaḍgā tu padmayogāgryasaṃdhanāt // (1685)
-	
+
 	vajrabandhaṃ dṛḍhīkṛtya vāmāṅguṣṭhapraveśanāt /
 	śaṃkham aṅguṣṭhadaṇḍotthā sarvāgrotthāntyapadminī // (1686)
-	
+
 	sā eva sarvasaṃkocā kaniṣṭhā padmasaṃyutā /
 	akṣamālāgragaṇanī dakṣiṇāṅguṣṭhayogataḥ // (1687)
-	
+
 	vajrabandhaṃ dṛḍhīkṛtya kaniṣṭhā padmasaṃyutā /
 	samāgrā padmanetrā tu pranartan parivartitā // (1688)
-	
+
 	vajrabandhaṃ dṛḍhīkṛtya kaniṣṭhāgra padmasaṃyutā /
 	kuñictāgrā sugāḍhaṃ tu dvyaṅguṣṭhakavacīkṛtā // iti // (1689)
-	
+
 	sā evāṅguṣṭhadaṃṣṭrā tu samāṅguṣṭhapraveśitā /
 	ataḥ paraṃ pravakṣyāmi samayāgryo niruttarāḥ // (1690)
-	
+
 	vajrabandhaṃ tale kṛtvā tarjanī padmasaṃsthitā /
 	aṅguṣṭhā baddhaparyaṅkā guhyaviśveśvarī smṛtā // (1691)
-	
+
 	tathaiva vajrabandhena kaniṣṭhamadhyabandhitā /
 	aṅguṣṭhamukhayor vajraṃ jaṭāmadhye tathāgatam // (1692)
-	
+
 	tathaiva vajrabandhe tu padmam aṅguṣṭhasaṃdhitam /
 	kṛtvā tu mukhatodvāntaṃ (kṛtvā mukhata udvāntaṃ ?)
 	sthitotsaṅge samādhinā // (1693)
-	
+
 	tathaiva vajrabandhe tu mukhataḥ samasaṃdhitā /
 	sarvāṅgulyo dṛḍhīkṛtya tarjanī vajrasaṃyutā // (1694)
-	
+
 	tathaiva vajrabandhe tu tarjanī padmasaṃdhitā /
 	aṅguṣṭhā baddhaparyaṅkā madhyasaṃkocavigrahā // (1695)
-	
+
 	tathaiva vajrabandhe tu vajram aṅguṣṭhasaṃdhitā /
 	khaḍgāṅkuśī tathā grābhyāṃ kaniṣṭhā padmasaṃyutā // (1696)
-	
+
 	tathaiva valitāṃ kṛtvā tarjanyaṅguṣṭhasaṃgraham /
 	utthitāṃ tarjanīṃ vāmāṃ karṣayet sudṛḍhaṃ tathā // (1697)
-	
+
 	sā eva tu samīkṛtya tarjanyaṅguṣṭhayogataḥ /
 	sādhukārapradātrī tu padmatuṣṭer mahātmanaḥ // (1698)
-	
+
 	tathaiva vajrabandhaṃ tu sarvāgramukhasaṃdhitaṃ /
 	dvyaṅguṣṭhamukhapīḍaṃ tu samāgryā saṃniveśitam // (1699)
-	
+
 	sā eva hṛdi sūryā tu mūrdhni padmadhvajīkṛtā /
 	parivartya ca hāsā tu sthitā padmāṭṭahāsinī // (1700)
-	
+
 	vajrabandhaṃ tale kṛtvā dharmavajrāgrayogataḥ /
 	kaniṣṭhāṅguṣṭhasaṃdhī tu tārāyāḥ samayo hy ayam // (1701)
-	
+
 	tathaiva vajrabandhe tu jyeṣṭhābhyāṃ khaḍgapadminī /
 	talacakrā tathaiveha japadātrī tathaiveha japadātrī tathaiva ca // (1702)
-	
+
 	tathaiva vajrabandhā tu khaṭakadvayamokṣitā /
 	punaś ca hṛdayabandhe guhyarakṣeti kīrtitā // (1703)
-	
+
 	tathaiva vajrabandhe tu kaniṣṭhā padmasaṃyutā /
 	tarjanī dṛḍhasaṃkocā vikacāṅguṣṭhadaṃṣṭriṇī // (1704)
-	
+
 	sā eva muṣṭiyogena dvyaṅguṣṭhamukhapīḍitā /
 	padmaguhyamahāmuṣṭisamayāgrī prakalpitā // (1705)
-	
+
 	sarvāsām eva cānyāsāṃ padmalāsyādisaṃjñitām /
 	vajrabandhaṃ tale kṛtvā bandhas tādṛśa eva hi // iti // (1706)
-	
-tataḥ padmakulaguhyadharmamudrā bhavanti //:
 
+tataḥ padmakulaguhyadharmamudrā bhavanti //:
 	hrāḥ//
 	grā //
 	prā //
@@ -5761,7 +5744,6 @@ tataḥ padmakulaguhyadharmamudrā bhavanti //:
 	rā //
 	ṣṭrā
 	maḥ //
-
 karmamudrāḥ samāsena muṣṭir eva dvidhīkṛteti // // (1707)
 
 sarvatathāgatadharmasamayān mahākalparājāt padmaguhyamaṇḍalavidhivistaraḥ parisamāptaḥ // // (1708)
@@ -5772,36 +5754,30 @@ sarvatathāgatadharmasamayān mahākalparājāt padmaguhyamaṇḍalavidhivistar
 atha bhagavān punar api sarvatathāgatadharmajñānasamayasaṃbhavādhiṣṭhānapadaṃ nāma samādhiṃ samāpadyemaṃ svavidyottamam abhāṣat //:
 
 	oṃ dharmasamādhijñānatathāgata hūṃ // (1709)
-	
-atha vajrapāṇr mahābodhisattvaḥ imaṃ svakuladharmasaṃbhavaṃ svavidyottamam abhāṣat //:
 
+atha vajrapāṇir mahābodhisattvaḥ imaṃ svakuladharmasaṃbhavaṃ svavidyottamam abhāṣat //:
 	oṃ vajradharma hūṃ // (1710)
-	
+
 atha vajragarbho bodhisattvo mahāsattva imaṃ svavidyottamam abhāṣat //:
-
 	oṃ ratnadharma hūṃ // (1711)
-	
-atha vajranetro bodhisattvo mahāsattva imaṃ svavidyottamam abhāṣat //:
 
+atha vajranetro bodhisattvo mahāsattva imaṃ svavidyottamam abhāṣat //:
 	oṃ dharmadharma hūṃ // (1712)
 
 atha vajraviśvo bodhisattvo mahāsattva imaṃ svavidyottamam abhāṣat //:
-
 	oṃ karmadharma hūṃ // (1713)
-	
-atha āryāvalokiteśvaro bodhisattvo mahāsattva idaṃ svadharmamaṇḍalam abhāṣat // (1714)
 
+atha āryāvalokiteśvaro bodhisattvo mahāsattva idaṃ svadharmamaṇḍalam abhāṣat // (1714)
 	athātaḥ saṃpravakṣyāmi jñānamaṇḍalam uttamam /
 	vajradhātupratīkāśaṃ dharmajñānam iti smṛtam // (1715)
-	
+
 	mahāmaṇḍalayogena sūtrayet sarvamaṇḍalam /
 	tasya madhye samālekhyaṃ jñānavajre tathāgatam // (1716)
-	
+
 	tasya pārśveṣu sarveṣu mahāsattvā yathāvidhi /
 	viśveśvarādayo lekhyāḥ samāpannāḥ samāhitāḥ // iti // (1717)
-	
-tatraiṣāṃ hṛdayāni bhavanti //:
 
+tatraiṣāṃ hṛdayāni bhavanti //:
 	oṃ jñānabuddha hūṃ //
 	oṃ jñānaviśveśvara hūṃ //
 	oṃ jñānabuddhamukuṭa hūṃ //
@@ -5812,39 +5788,39 @@ tatraiṣāṃ hṛdayāni bhavanti //:
 	oṃ jñānapadmarāja hūṃ //
 	oṃ jñānapadmamāra hūṃ //
 	oṃ jñānapadmatuṣṭi hūṃ // (1719)
-	
+
 	oṃ jñnapadmabhṛkuṭi hūṃ //
 	oṃ jñānapadmasūrya hūṃ //
 	oṃ jñānapadmacandra hūṃ //
 	oṃ jñānapadmahansa hūṃ // (1720)
-	
+
 	oṃ jñānapadmatāra hūṃ //
 	oṃ jñānapadmakumāra hūṃ //
 	oṃ jñānapadmanārāyaṇa hūṃ //
 	oṃ jñānapadmabhāṣa hūṃ // (1721)
-	
+
 	oṃ jñānapadmanṛtyeśvara hūṃ //
 	oṃ jñānapadmarakṣa hūṃ //
 	oṃ jñānapadmayakṣa hūṃ //
 	oṃ jñānapadmamuṣṭi hūṃ // (1722)
-	
+
 	oṃ jñānapadmalāsye hūṃ //
 	oṃ jñānapadmamāle hūṃ //
 	oṃ jñānapadmagīte hūṃ //
 	oṃ jñānapadmanṛtye hūṃ // (1723)
-	
+
 	oṃ padmajñānadhūpe hūṃ //
 	oṃ padmajñānapuṣpe hūṃ //
 	oṃ padmajñānadīpe hūṃ //
 	oṃ padmajñānagandhe hūṃ // (1724)
 	%% These four should be emended?
-	
+
 	oṃ padmajñānāṅkuśa hūṃ //
 	oṃ padmajñānāmoghapāśa hūṃ //
 	oṃ padmajñānasphoṭa hūṃ //
 	oṃ padmajñānāveśa hūṃ // (1725)
 	%% These four should be emended?
-	
+
 athātra padmadharamamaṇḍala ākarṣaṇādividhivistaraṃ kṛtvā,
 yathāvat praveśyaivaṃ vadet /:
 
@@ -5855,16 +5831,15 @@ yathāvat praveśyaivaṃ vadet /:
 iti / (1726)
 
 tato 'sya jñānāny utpādayet //:
-
 	lokeśvarasamāpattyā hṛdi padmaṃ tu bhāvayet /
 	prāptapadmasamādhis tu śīghram utpatati kṣaṇāt // (1727)
-	
+
 	lokeśvarasamāpattyā lalāṭe padmabhāvanāt /
 	abhyasan sudṛḍhībhūtāḥ khegāmī bhavate kṣaṇāt // (1728)
-	
+
 	jihvāyāṃ bhāvayan padmaṃ lokeśvarasamādhinā /
 	saṃsiddho bhavate śīghram ākāśena sa gacchati // (1729)
-	
+
 	bhāvayan padmam uṣṇīṣe lokeśvarasamādhinā /
 	saṃsiddho bhavate śīghram ūrdhvam utpatati kṣaṇāt // (1730)
 
@@ -5874,74 +5849,70 @@ tatraiṣāṃ hṛdayāni bhavanti //:
 	oṃ padmajñānābhiṣekāviśa //
 	oṃ padmajñānavidyottamāviśa //
 	oṃ padmajñānoṣṇīṣāviśa // (1731)
-	
+
 	ākāśe vānyadeśe vā padmabimbaṃ tu bhāvayet /
 	anena vidhinā siddho adṛśyo bhavati kṣaṇāt // (1732)
-	
+
 	ākāśe vānyadeśe vā padmabimbaṃ tu bhāvayet /
 	tatrārūḍhaḥ svam ātmānaṃ bhāvayann adṛśyo bhavet // (1733)
-	
+
 	ākāśe vānyadeśe vā padmabimbaṃ tu bhāvayet /
 	yadā paśyet tadā gṛhṇec chīgram adṛśyo bhavati // (1734)
-	
+
 	ākāśe vānyadeśe vā padmabimbaṃ tu bhāvayet /
 	dṛṣṭvā tu bhuktvā tat padmam adreśyo bhavati kṣaṇāt // iti // (1735)
-	
-tatraiṣāṃ hṛdayāni bhavanti //:
 
+tatraiṣāṃ hṛdayāni bhavanti //:
 	oṃ padmākāśa //
 	oṃ padmaratha //
 	oṃ padmajñāna gṛhṇa //
 	oṃ padmarasāyana // (1736)
-	
+
 	vicitravarṇasaṃsthānaṃ padmabimbaṃ tu pāṇinā /
 	gṛhya baddhvā mahāmudrāṃ sarvarūpadharo bhavet // (1737)
-	
+
 	vicitravarṇasaṃsthānaṃ padmabimbaṃ tu lekhayet /
 	tatra bhāvayamānas tu bahurūpadharo bhavet // (1738)
-	
+
 	vicitravarṇasaṃsthānaṃ padmabimbaṃ tu bhāvayet /
 	ākāśe vānyadeśe vā chandarūpī bhaviṣyati // (1739)
-	
+
 	vicitravarṇasaṃsthānaṃ padmabimbaṃ ghaṭāpayet /
 	tatrārūḍhas tu khegāmī kāmarūpī bhaved dhruvam // iti // (1740)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
-	
 	oṃ padmadharaviśvarūpapravartakāviśa //
 	oṃ viśvapadma pravartaya mām // (1741)
-	
+
 	oṃ samādhiviśvapadmāviśa //
 	oṃ viśvapadmāsanotkṣipākāśaṃ, viśvarūpam adhitiṣṭha mām // (1742)
-	
+
 	baddhvā caikatarāṃ samyaṅ mahāmudrāṃ samādhitaḥ /
 	padmaṃ gṛhya pradātavyaṃ vaśībhavati śāśvataḥ // (1743)
-	
+
 	baddhvā caikatarāṃ samyaṅ mudrāsamayasaṃjñitām /
 	tayā gṛhya tu vai padmaṃ dadyād vaśyakaro bhavet // (1744)
-	
+
 	baddhvā caikatamāṃ mudrāṃ samādhivhitāṃ śubhām /
 	jñānapadmaṃ daded yasya so 'sya śīghraṃ vaśībhavet // (1745)
-	
+
 	baddhvā caikatamāṃ mudrāṃ karmākhyāṃ samayānvitaḥ /
 	yasya dadyāt samupaśaḥ [sa nū vaśyaḥ?]
 	padmadānāt kṣaṇād bhavet // iti // (1746)
-	
-tatraiṣāṃ hṛdayāni bhavanti //:
 
+tatraiṣāṃ hṛdayāni bhavanti //:
 	oṃ mahāpadma hoḥ //
 	oṃ samayapadma hoḥ //
 	oṃ jñānapadma hoḥ //
 	oṃ karmapadma hoḥ // (1747)
-	
-tato jñānamaṇḍalamahāmudrājñānaṃ śikṣayet //:
 
+tato jñānamaṇḍalamahāmudrājñānaṃ śikṣayet //:
 	dharmamaṇḍalayogena mahāmudrās tu sādhayet /
 	ataḥ paraṃ pravakṣyāmi samayāgryaḥ prasādhayet // (1748)
-	
+
 	dharmamaṇḍalayogena padmapadmaṃ tu saṃsthapet /
 	dharmamuṣṭiṃ dṛḍhīkṛtya karmamudra dvidhīkṛtāḥ // iti // (1749)
-	
+
 sarvatathāgatadharmasamayān mahākalparājād [dharma]jñānamaṇḍalavidhivistaraḥ parisamāptaḥ // // (1750)
 
 
@@ -5951,7 +5922,7 @@ sarvatathāgatadharmasamayān mahākalparājād [dharma]jñānamaṇḍalavidhiv
 atha bhagavān punar api sarvatathāgatadharmakarmasamayasaṃbhavādhiṣṭhānapadmaṃ nāma samādhiṃ samāpadyemāṃ svavidyottamām abhāṣat //:
 
 	oṃ sarvatathāgatakarmāgri hūṃ // (1751)
-	
+
 atha vajrapāṇir [bodhisattva] imāṃ svakulakarmasaṃbhavāṃ svavidyottamām abhāṣat //:
 
 	oṃ hūṃ di // (1752)
@@ -5959,68 +5930,68 @@ atha vajrapāṇir [bodhisattva] imāṃ svakulakarmasaṃbhavāṃ svavidyottam
 atha vajragarbho bodhisattva imāṃ svavidyottamām abhāṣat //:
 
 	oṃ ratnakarmasamaye hūṃ // (1753)
-	
+
 atha vajranetro bodhisattva imāṃ svavidyottamām abhāṣat //:
 
 	oṃ padmakarmi hūṃ // (1754)
-	
+
 atha vajraviśvo bodhisattva imāṃ svavidyottamām abhāṣat //:
 
 	oṃ viśvakarmi hūṃ // (1755)
-	
+
 athāryāvalokiteśvaro bodhisattvo mahāsattva idaṃ svakarmamaṇḍalam abhāṣat //: (1756)
 
 	atāthaḥ saṃpravakṣyāmi karmamaṇḍalam uttamam /
 	vajradhātupratīkāśaṃ padmakarmam iti smṛtam // (1757)
-	
+
 	mahāmaṇḍalayogena sūtrayet sarvamaṇḍalam /
 	buddhasya sarvataḥ sarvāḥ padmacihnadharā likhet // iti // (1758)
-	
+
 tatrāsāṃ vidyāhṛdayāni bhavanti //:
 
 	oṃ padmabhūriṇi hūṃ //
 	oṃ viśvakarmeśvari hūṃ // (1759)
-	
+
 	oṃ tathāgataiśvaryābhiṣekakarmavidye hūṃ //
 	oṃ dharmakarmeśvari jñānapūjāsamaye hūṃ //
 	oṃ amoghakarmeśvari hūṃ // (1760)
-	
+
 	oṃ padmakarmabuddhe hūṃ //
 	oṃ padmakarmavajriṇi hūṃ //
 	oṃ padmakāminīmāraṇapūjākarmasamaye hūṃ //
 	oṃ padmakarmatuṣṭi hūṃ // (1761)
-	
+
 	oṃ padmakarmabhṛkuṭi hūṃ traḥ //
 	oṃ padmakarmasūrye hūṃ //
 	oṃ padmakarmadhvaje hūṃ //
 	oṃ padmakarmahāse haḥ // (1762)
-	
+
 	oṃ padmakarmatāre hūṃ //
 	oṃ padmakarmakumāri hūṃ //
 	oṃ padmakarmanārāyaṇi hūṃ //
 	oṃ padmakarmabrāhmi hūṃ // (1763)
-	
+
 	oṃ padmakarmanṛtyeśvari hūṃ //
 	oṃ padmarakṣākarmasamaye hūṃ //
 	   [oṃ padmarakṣarakṣākarmasamaye hūṃ //?]
 	oṃ mahāpracaṇḍi ghātani padmadaṃṣtrākarmakari hūṃ //
 	oṃ padmakarmamuṣṭi ghātaya hūṃ // (1764)
-	
+
 	oṃ ratipūje hūṃ jaḥ //
 	oṃ abhiṣekapūje hūṃ hoḥ //
 	oṃ gītapūje hūṃ dhaḥ //
 	oṃ nṛtyapūje hūṃ vaḥ // (1765)
-	
+
 	oṃ dhūpapūje hūṃ aḥ //
 	oṃ puṣpapūje hūṃ traḥ //
 	oṃ ālokapūje hūṃ dhiḥ //
 	oṃ gandhapūje hūṃ vaṃ // (1766)
-	
+
 	oṃ hayagrīva ānaya hūṃ jaḥ //
 	oṃ amoghapāśakrodhe pīḍaya hūṃ phaṭ //
 	oṃ padmaśaṅkalabandhe hūṃ phaṭ //
 	oṃ padmaghaṇṭa āveśaya hūṃ phaṭ // (1767)
-	
+
 athātra karmamaṇḍala ākarṣaṇādividhivistaraṃ kṛtvā yathāvat praveśyaivaṃ vadet //:
 
 	na tvayā, kulaputra, kasyacid ayaṃ vaktavyaḥ /
@@ -6034,115 +6005,115 @@ tataḥ padmadeśanājñānaṃ ṣikṣed iti // (1769)
 
 	lokeśvaramahāmudrāṃ bhāvayan susamāhitaḥ /
 	pāpāni deśayañ chīghraṃ savapāpān sa śodhayet // (1770)
-	
+
 	samayāgrīṃ samādhāya lokeśvarasamādhinā /
 	deśayan sarvapāpāni ānantaryāṇi śodhayet // (1771)
-	
+
 	lokeśvarasamādhiṃ tu bhāvayan susamāhitaḥ /
 	deśayan sarvapāpāni sarvapāpapraṇāśanam // (1772)
-	
+
 	baddhvā caikatamāṃ samyak karmamudrāṃ samāsataḥ /
 	deśayan sarvapāpāni sarvakarmaviśodhanam // iti // (1773)
-	
+
 athaiṣāṃ hṛdayāni bhavanti //
 
 	oṃ sarvapāpasaṃśodhanamahāpadma //
 	oṃ sarvānantaryaśodhanasamayapadma //
 	oṃ sarvapāpapraṇāśadharmapadma //
 	oṃ sarvakarmāvaraṇaviśodhakakarmapadma // (1774)
-	
+
 tataḥ sarvāvaraṇaparikṣayajñānaṃ śikṣayet //
 
 	lokeśvaramahāmudrāṃ bhāvayet susamāhitaḥ /
 	śudhya śudhya iti prodya sarvakarmāni śodhayet // (1775)
-	
+
 	baddhvā vai karmasamayāṃ lokeśvarasamādhinā /
 	budhya budhya pravartaṃs tu sarvakarmāṇi śodhayet // (1776)
-	
+
 	lokeśvarasamāpattyā dharmamudrāṃ tu bhāvayet /
 	dhī dhī dhīti procyan vai sarvakarmāṇi śodhayet // (1777)
-	
+
 	baddhvā vai karmamudrāṃ tu lokeśvarasamādhinā /
 	hī hī hī hīti saṃdhāya sarvakarmāṇi śodhayet // iti // (1778)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //
 
 	oṃ pāpakṣayapadma //
 	oṃ āvaraṇakṣayapadma //
 	oṃ nīvaraṇakṣayapadma //
 	oṃ karmakṣayapadma // (1779)
-	
+
 tataḥ sarvatathāgatapūjājñānaṃ ṣikṣayet //:
 
 	lokeśvaramahāmudrāṃ baddhvā tu susamāhitaḥ /
 	oṃ oṃ oṃ oṃ iti brūyāt sarvapūjāṃ pravartanam // (1780)
-	
+
 	baddhvā vai samayāgrīṃ tu lokeśvarasamādhinā /
 	bhū bhū bhū bhūr iti prokte sarvabuddhān sa pūjayet // (1781)
-	
+
 	lokeśvarasamāpattyā dharmapadmaṃ tu bhāvayet /
 	he he he heti saṃdhāya sarvabuddhān sa pūjayet // (1782)
-	
+
 	padmakarmamayīṃ mudrāṃ baddhvā gāḍhaṃ samāhitaḥ /
 	dhe dhe dhe dha iti procya sarvabuddhān sa pūjayet // iti // (1783)
-	
+
 tatrāsāṃ hṛdayāni bhavanti //:
 
 	oṃ oṃkārapadma //
 	oṃ bhūkārapadma //
 	oṃ hekāradharmapadma //
 	oṃ dhekārakarmapadma // (1784)
-	
+
 tataḥ siddhijñānaṃ śikṣayet //:
 
 	lokeśvaramahāmudrāṃ baddhvā tu susamāhitaḥ /
 	hrī hrī hrī hrīti varteta siddhir lokeśvarī bhavet // (1785)
-	
+
 	baddhvā vai samayāgrīṃ tu lokeśvarasamādhinā /
 	śrī śrī śrī śrīti saṃdhāya prāpnuyāt siddhim uttamām // (1786)
-	
-	lokeśvarasamāpattiṃ bhāvayan susamāhitaḥ / 
+
+	lokeśvarasamāpattiṃ bhāvayan susamāhitaḥ /
 	dhig dhig dhig dhig iti prokte padmakrodhas tu sidhyati // (1787)
-	
+
 	karmamudrāṃ samādhāya mahāpadmamayīṃ śubhām /
 	siḥ siḥ siḥ sīti saṃdhāya padmasiddhim avāpnute // iti // (1788)
-	
+
 athāsāṃ hṛayāni bhavanti //:
 
 	oṃ hrīḥ sidhya //
 	oṃ śrīḥ sidhya //
 	oṃ dhik sidhya //
 	oṃ siḥ sidhya // (1789)
-	
+
 tataḥ karmarahasyamudrājñānaṃ bhavati //:
 
 	lokeśvarasamāpattyā ramayan sarvayoṣitaḥ /
 	aho sukha iti prokte sarvabuddhān sa pūjayet // (1790)
-	
+
 	lokeśvarasamāpattyā ramayan sarvayoṣitaḥ /
 	priye priyeti vai prokte buddhānāṃ bhavati priyaḥ // (1791)
-	
+
 	lokeśvarasampattyā ramayan sarvayoṣitaḥ /
 	aho rateti vai prokte ratir bhavet sa śāśvatī // (1792)
-	
+
 	lokceśvarasamāpattyā ramayan sarvayoṣitaḥ /
 	sukha sukha iti prokte sukhaṃ tasya na hīyate // (1793)
-	
+
 athāsāṃ hṛdayāni bhavanti //:
-	
+
 	oṃ sarvabuddhapūjāpravartanapadma //
 	oṃ prītikarapadma hoḥ //
 	oṃ ratipravartanapadma ho //
 	oṃ mahāsukhapadma dṛdha ho // (1794)
-	
+
 tataḥ karmamahāmudrā yathāvac chikṣayet //
 
 	tataḥ sukuḍmalāñjaliṃ samayamudrāvajrakāryam /
 	karmamaṇḍalayogena sarvasthāneṣu sthāpayet // (1795)
-	
+
 	yataḥ padmakuladharmamudrātrakārayoktavyā /
 	karmasamayāṃ dvidhīkṛtya karmamudrāḥ sa sādhayet // iti // (1796)
-	
+
 sarvatathāgatadharmasamayān mahākalparājāt padmakarmamaṇḍlavidhivistaraḥ parisamāptaḥ // // (1797)
 
 atha bhagavān punar api vajradharmasamayamudrādhisṭḥānaṃ nāma samādhiṃ samāpadyedaṃ svamudrāhṛdayaṃ niścacāra //:
@@ -6152,27 +6123,27 @@ atha bhagavān punar api vajradharmasamayamudrādhisṭḥānaṃ nāma samādhi
 atha vajrapāṇir bodhisattva idaṃ svamudrāhṛdayam abhāṣat //:
 
 	oṃ vajra jīḥ // (1799)
-	
+
 atha vajragarbho bodhisattva imāṃ svamudrām abhāṣat //:
 
 	oṃ vajraratnamukuṭi hūṃ // (1800)
-	
+
 atha vajranetro bodhisattva imāṃ svamudrām abhāṣat //:
 
 	oṃ dharmapadma dhī (or dhe?) // (1801)
-	
+
 atha vajraviśvo bodhisattva imāṃ svamudrām abhāṣat //:
 
 	oṃ sarvamukhi hūṃ // (1802)
-	
+
 athāryāvalokteśvaro bodhisattvo mahāsattva idaṃ caturmudrāmaṇḍalam abhāṣat //: (1803)
 
 	āthātaḥ saṃpravakṣyāmi caturmudrāgramaṇḍalam /
 	vajradhātupratīkāśaṃ mahāmaṇḍalasaṃnibham // (1804)
-	
+
 	mudrāmaṇḍalamadhye tu buddhabimbaṃ niveśayet /
 	tasya pārśveṣu sarveṣu vajrapadmādayo likeht // (1805)
-	
+
 athātra mahāmaṇḍala ākarṣaṇādividhivistaraṃ kṛtvā, yathāvat praveśya brūyāt /:
 
 	na tvayedaṃ kasya cid vaktavyaṃ mā te mahāduḥkha.ṃ bhaved akālamaraṇaṃ viṣamakriyayā
@@ -6183,29 +6154,29 @@ tato jñānāny utpādayet //:
 
 	padmaṃ hastena vai gṛhya samājighran prayatnataḥ /
 	tena gandhena saṃyojya buddhān āśu prasidhyati // (1807)
-	
+
 	buddhabimbaṃ jaṭāmadhye pratiṣṭhāpya samāhitaḥ /
 	sarvalokaṃ vaśaṃkuryād darśayan garvayā vajran // (1808)
-	
+
 	padmapadmamahābimbaṃ kārayitvā samādhinā /
 	upaviśya yathātmānaṃ manasā sa tu mārayet // (1809)
-	
+
 	caturmukhaṃ tu vai padmaṃ kārayitvā kareṇa tu /
 	saṃgṛhyāveśanādīni bhrāmayan prakaroti saḥ // (1810)
-	
+
 athāiṣāṃ hṛdayāni bhavanti //: (1811)
 
 	oṃ gandhapūjāgrya sādhaya hrīḥ //
 	oṃ padmamukuṭatathāgata vaśīkuru sarvān lokeśvarābhiṣekasamaya hoḥ // (1812)
-	
-	oṃ padmapadma māraya sarvapratyarthikān, samādhijñāna dhik // 
+
+	oṃ padmapadma māraya sarvapratyarthikān, samādhijñāna dhik //
 	oṃ viśvapadma sarvakarmakaro bhava lalilvali lali hūṃ phaṭ // (1813)
 
 tato mudrārahasyajñānaṃ śikṣayet //:
 
-	raktaḥ asn sarvakāryāṇi sādhayet samayo hy ayam /
+	raktaḥ san sarvakāryāṇi sādhayet samayo hy ayam /
 	duḥsādhyā 'pi hi mudrā vai kṣaṇāt sidhyati yogata iti // (1814)
-	
+
 tatrāsya samayo bhavati //:
 
 	oṃ sādhaya padmarāgasamaya aḥ // (1815)
@@ -6216,18 +6187,18 @@ tato mahāmudrādisarvamudrābandhaṃ śikṣayet //: (1816)
 
 athāryāvalokiteśvaro mahābodhisattva idaṃ sarvajagadvinayaṃ nāma hṛdayam abhāṣat //:
 
-	oṃ sarvajagadvinayamahāsattvāgaccha, śīghraṃ 
+	oṃ sarvajagadvinayamahāsattvāgaccha, śīghraṃ
 	vaiśvarūpyaṃ saṃdarśaya,
 	mama ca sarvasiddhayaḥ prayaccha hrīḥ // (1818)
-	
+
 athāryāvalokiteśvaro mahābodhisattva idaṃ sarvajagadvinayaṃ nāma maṇḍalam abhāṣat //: (1819)
 
 	athātaḥ saṃpravakṣyāmi jagadvinayamaṇḍalam /
 	mahāmaṇḍalayogena saṃlikhed bāhyamaṇḍalam // (1820)
-	
+
 	tasyābhyantarataḥ padmaṃ tathaiva ca samālikhet /
 	tatra sarvābjavisphātiviśvarūpaṃ samālikhet // iti // (1821)
-	
+
 athātra mahāmaṇḍale yathāvad vidhivistareṇa praveśya,
 tathaivoktvā, (1822)
 
@@ -6235,12 +6206,12 @@ sarvajagadvinayajñānaṃ śikṣayet //: (1823)
 
 	maṇḍalaṃ tu samālikhya jagadvinayasaṃjñitam /
 	bhāvayaṃs tu mahāmudrāṃ bhaved viśvadharopamaḥ // iti // (1824)
-	
+
 tato jagadvinayarahasyamudrājñānaṃ śikṣayet //:
 
 	viśvarūpasamādhiṃ tu bhāvayan susamāhitaḥ /
 	dvayendriyasamāpattyā maṇḍale tu sa sidhyati // (1825)
-	
+
 tato mahāmudrādimudrābandhaṃ śikṣayet, tathaiva siddhayaḥ //
 evaṃ paṭādiṣv iti //
 mudrāyām apy ekamudrāmaṇḍalayogena tathaiva siddhaya iti // // (1826)
@@ -6249,10 +6220,10 @@ atha sarvatathāgatā punaḥ samājam āgamyāvalokiteśvarāya mahābodhisattv
 
 	sādhu te vajrasattvāya vajraratnāya sādhu te /
 	vajradharmāya te sādhu sādhu te vajrakarmaṇe // (1828)
-	
+
 	subhāṣitam idaṃ sūtraṃ vajrayānam anuttaram /
 	sarvatāthāgataṃ guhyaṃ mahāyānābhisaṃgraham // iti // (1829)
-	
+
 sarvatathāgatatattvasaṃgrahāt sarvatathāgatadharmasamayo nāma mahākalparājaḥ parisamāptaḥ // // (1830)
 
 
@@ -6266,60 +6237,60 @@ sarvatathāgatābhiṣekaratnaṃ tam eva vajradharam āryākāśagarbhaṃ mah�
 
 	ākāśagarbha sattvārtha mahāsattva mahādyute /
 	mahāratna suratnāgrya vajraratna namo 'stu te // (1833)
-	
+
 	abhiṣeka mahāratna mahāśuddha mahāśubha /
 	buddharatna viśuddhāṅga ratnaratna namo 'stu te // (1834)
-	
+
 	ākāśākāśasaṃbhūta sarvākāśamahānabha /
 	ākāśadhātu sarvāśa sarvāśāgrya namo 'stu te // (1835)
-	
+
 	ratnasaṃbhava ratnorṇa buddhorṇa sutathāgata /
 	sarvaratna susarvāgrya ratnakārya namo 'stu te // (1836)
-	
+
 	ratna ratnāgrya ratnogra(?) ratna sarvatathāgata /
 	ratnottama mahākāśa samākāśa namo 'stu te // (1837)
-	
+
 	alaṃkāra mahāśobha śobhākara suśobhaka /
 	śuddha sarvārtha śuddhārtha dānacarya namo 'stu te // (1838)
-	
+
 	dharmaratna viḍuddhāgrya saṃgharatna tathāgata /
 	mahābhiṣeka lokārtha pramodārtha namo 'sut te // (1839)
-	
+
 	dāna pradāna dānāgrya tyāga tyāgārya dāyaka /
 	sarvasattvārtha tattvārtha mahārtha namo 'stu te // (1840)
-	
+
 	cintārāja mahāteja dānapāramitānaya /
 	tathāgata mahāsattva sarvabuddha namo 'stu te // (1841)
-	
+
 	tathāgatamahāratna tathāgatamahāprabha /
 	tathāgatamahāketo mahāhāsa namo 'stu te // (1842)
-	
+
 	tathāgatābhiṣekāgrya mahābhiṣeka mahāvibho /
 	lokanātha sulokāgrya lokasūrya namo 'stu te // (1843)
-	
+
 	ratnādhikādhikatara ratnabhūṣaṇa ratnadhṛk /
 	ratnāloka mahāloka ratnāloka namo 'stu te // (1844)
-	
+
 	ratnotkara suratnottha maṇe vajramaṇe guṇa /
 	ratnākara sudīptāṅga sarvaratna namo 'stu te // (1845)
-	
+
 	mahātma yaṣṭi ratneśa sarvāśāparipūraka /
 	sarvābhiprāyasaṃprāpti ratnaraśī namo 'stu te // (1846)
-	
+
 	ābhāgrya vyāpi sarvātma varaprada mahāvara /
 	vibhūte sarvasaṃpatte vajragarbha namo 'stu te // (1847)
-	
+
 	yaḥ kaścid dhārayen nāmnām idaṃ te 'ṣṭaśataṃ śivam /
 	sarvabuddhābhiṣekaṃ tu sa prāpnoty anaghaḥ kṣaṇāt // (1848)
-	
+
 	adhyeṣayāmas tvāṃ ratnaṃ bhāṣasva dhanasaṃcayam /
 	sarvabuddhābhiṣekāgryam utpādaya nijaṃ kulam // iti // (1849)
-	
+
 athākāśagarbho bodhisattva idaṃ sarvatathāgatavacanam upaśrutya,
 sarvatathāgatābhiṣekasamayaṃ nāma svahṛdayam abhāṣat //:
 
 	oṃ vajraratna hūṃ // (1850)
-	
+
 atha bhagavān vairocanas tathāgata idaṃ sarvatathāgatamaṇisamayaṃ nāma vidyottamam abhāṣat //:
 
 	oṃ sarvatathāgatāśāparipūraṇamahāratna hūṃ // (1851)
@@ -6329,15 +6300,15 @@ atha vajrapāṇir mahābodhisattva imaṃ svakulasaṃbhavaṃ vidyottamam abh�
 	oṃ vajra hūṃ traḥ // (1852)
 
 atha vajragarbho bodhisattva imaṃ svavidyottamam abhāṣat //:
- 
+
 	oṃ maṇi hūṃ // (1853)
-	
+
 atha vajranetro bodhisattva imaṃ svakulasaṃbhavaṃ vidyottamam abhāṣat //:
 
 	oṃ padma hrīḥ // (1854)
-	
+
 atha vajraviśvo bodhisattvo mahāsattva imaṃ svavidyottamam abhāṣat //
- 
+
 	oṃ viśvaratna hūṃ // (1855)
 
 athāryākāśagarbho bodhisattva mahāsattvaḥ sarvatathāgatābhiṣekaratnaṃ nāma samādhiṃ samāpannaḥ // (1856)
@@ -6354,23 +6325,23 @@ sarvalokadhātuṣu mahāratnavarṣādibhī ratnotpattibhiḥ saṃtoṣya puna
 	vajraratnakulaṃ tv edaṃ saṃbhūtaṃ jagadarthataḥ // iti // (1861)
 
 athākāśagarbho bodhisattvo mahāsattvaḥ svakulam utpādya,
-sarvatathāgatebhyaḥ sarvāśāparipūryai niryātyeidaṃ sarvārthasiddhiṃ nāma mahāmaṇḍalam abhā.ast //: (1862)
+sarvatathāgatebhyaḥ sarvāśāparipūryai niryātyedaṃ sarvārthasiddhiṃ nāma mahāmaṇḍalam abhāṣat //: (1862)
 
 	athātaḥ saṃpuravakṣyāmi mahāmaṇḍalam uttamam /
 	vajradhātupratīkāśaṃ sarvasiddhir iti smṛtam // (1863)
-	
+
 	caturasraṃ caturdvāraṃ catustoraṇaśobhitam /
 	catuḥsūtrasamāyuktaṃ paṭṭasragdāmabhūṣitam // (1864)
-	
+
 	sarvamaṇḍalakoṇeṣu dvāraniryūhasaṃdhiṣu /
 	khacitaṃ vajraratnais tu sūtrayed bāhyamaṇḍalam // (1865)
-	
+
 	tasyābhyantarataḥ kāryaṃ vajraratnasamaṃ puram /
 	aṣṭasatambhāgrayogena sūtraṇaṃ tatra kārayet // (1866)
-	
+
 	pañcamaṇḍalaśobhaṃ tu nānāratnakarojjvalam /
 	svamudrāparivāraṃ tu tatra buddhaṃ niveśayet // (1867)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ buddharatna hūṃ //
@@ -6378,70 +6349,70 @@ tatraiṣāṃ hṛdayāni bhavanti //:
 	oṃ vajraratāṅkura hūṃ //
 	oṃ vajraratnapadma hūṃ //
 	oṃ vajraratnavarṣa hūṃ // (1868)
-	
+
 	vajravegena cākramya sarvāśāsiddhimaṇḍalam /
 	tatrasthaṃ vajragarbhaṃ tu likhed ratnavarapradam // (1869)
-	
+
 	tasya pārśveṣu sarveṣu ratnamudrāsamanvitāḥ /
 	mahāsattvāḥ samālekhyā yathāvad anupūrvaśaḥ // (1870)
-	
+
 athaiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ sarvārthasiddhiprada hūṃ //
 	oṃ vajramaṇicihnākāśagarbha bhagavan sidhya sidhya hūṃ // (1871)
-	
+
 	oṃ ratnāṅkuśākarṣaya sarvārthān ānaya śīghraṃ sarvatathāgatasatyam anusmara hūṃ //
 	oṃ maṇirāga vaśīkuru sarvārthān ānayākāśagarbha hūṃ //
 	oṃ ratnatuṣṭi hūṃ // (1872)
-	
+
 	vajravegena cākramya ratnamālasya maṇḍalam /
-	tatnra madhye likhet samyag ratnamālādharaṃ param // (1873)
-	
+	tatra madhye likhet samyag ratnamālādharaṃ param // (1873)
+
 	tasya pārśveṣu sarveṣu yathāvad anupūrvaśaḥ /
 	mahāsattvāḥ samālekhyā maṇicihnāgrapāṇayaḥ // (1874)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ ratnadṛṣṭi traḥ //
 	oṃ sarvatathāgatābhiṣekaratnamāla hūṃ //
 	oṃ maṇisūrya hūṃ // (1875)
-	
+
 	oṃ cintāmaṇidhvajasarvāśāprapūrakākāśagarbha hūṃ //
 	oṃ ratnāṭṭahāsa hasa hasa hūṃ // (1876)
-	
+
 	vajravegena cākramya ratnapadmasya maṇḍalam /
 	ratnasthaṃ tu samālekhyaṃ ratnapadmadharaṃ vibhum // (1877)
-	
+
 	tasya pārśveṣu sarveṣu mahāsattvān samālikhet /
 	maṇicihnaṃ samāsena yathāvad anupūrvaśaḥ // (1878)
-	
-tatraiṣāaṃ hṛdayāni bhavanti //:
+
+tatraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ ratnapadma hūṃ //
 	oṃ tyāgasamādhijñānagarbha hūṃ // (1879)
-	
+
 	oṃ ratnakośāgrya hūṃ //
 	oṃ maṇicakra pravartaya hūṃ //
 	oṃ ratnabhāṣa hūṃ // (1880)
-	
+
 	vajravegena cākramya ratnavṛṣṭes tu maṇḍalam /
 	tatra lekhyaṃ mahāsattvaṃ ratnavṛṣṭipravarṣayan // (1881)
-	
+
 	tasya pārśveṣu sarveṣu mahāsattvān yathāvidhi /
 	ratnacihnasamopetān mudrāhastān samāsataḥ // (1882)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ ratnavṛṣṭi pravarṣaya sarvārthasaṃpado bhagavan maṇihasta hūṃ //
 	oṃ maṇipūjāsamaya hūṃ // (1883)
-	
+
 	oṃ maṇibandhakavaca hūṃ //
 	oṃ maṇidaṃṣṭrākarālamahāyakṣa hara hara sarvārthān bhīṣāpaya hūṃ //
 	oṃ maṇiratnabandhasamaya hūṃ // (1884)
-	
+
 	vajravegena cākramya koṇabhāgeṣu sarvataḥ /
 	ratnalāsyādayo lekhyā yathāvad anupurvaśaḥ // (1885)
-	
+
 tatraiṣāṃ mudrā bhavanti //:
 
 	oṃ ratnarati hūṃ //
@@ -6451,42 +6422,42 @@ tatraiṣāṃ mudrā bhavanti //:
 
 	vajravegena niṣkramya bāhyamaṇḍalam uttamam /
 	bāhyamaṇḍalakoṇeṣu dhūpapūjādayo likhet // (1887)
-	
+
 tatraiṣāṃ mudrā bhavanti //:
 
 	oṃ dhūparatne //
 	oṃ puṣpamaṇi //
 	oṃ ratnāloke //
 	oṃ maṇigandhe // (1888)
-	
+
 	dvārapālās tu kartavyā dvāramadhyacatuṣṭaye /
 	ataḥ paraṃ pravakṣyāmi maṇḍalavidhivistaram // (1889)
-	
+
 athātra hṛdayāni bhavanti //
 
 	oṃ sarvaratākarṣa āryāruṇamahāsattva bhagavantam ākāśagarbhaṃ codayākarṣaya śīghraṃ ho jaḥ //
 	oṃ sarvaratnapraveśasamaya praveṣaya samayān mahāmaṇirājakulaṃ ratnapāśa hūṃ //
 	oṃ maṇibandha hūṃ vaḥ //
 	oṃ maṇiratāveśa aḥ // (1890)
-	
+
 athātra mahāmaṇḍale svayaṃ maṇiratnācāryo yathāvat praviśya vidhivistaram ātmanaḥ kṛtvā,
 tato ratnādhiṣṭhitakalaśodakena maṇiśiṣyān abhiṣicya,
 vajramaṇisamayamudrāṃ bandhayed anena hṛdayena //:
 
 	oṃ vajramaṇisamaya vaṃ // (1891)
-	
+
 tato yathāvarṇaprāptitayā vastram uttarāsaṃgaṃ kṛtvā,
 tādṛśenaivākṣiṇī baddhvā praveśayed anena hṛdayena //:
 
 	oṃ hūṃ praviśa maṇirājakulam // (1892)
-	
+
 tataḥ praveśya, vaktavyaṃ:
 
 	na tvayedaṃ kasya cid vaktavyam /,
 	mā te sarvajanmasu dāridryaduḥkhān mokṣo na bhaven,
 	narakavāsaś ca dṛḍho bhaved
 
-iti uktvā samayaṃ sphoṭayet // (1893)
+ity uktvā samayaṃ sphoṭayet // (1893)
 
 mahāyānābhisamayaṃ coccārayet //
 tataḥ samāviṣṭasya vajravācā paripṛcchet //:
@@ -6506,54 +6477,54 @@ athātra jñānamudrā bhavanti //:
 
 	vajragarbhamahāmudrāṃ baddhvā tu susamāhitaḥ /
 	nidhānaṃ khanate yatra nidhānaṃ tatra paśyati // (1898)
-	
+
 	baddhvā tu samayāgrīṃ vai nidhānaṃ yatra vidyate /
 	pīḍayet tatra tāṃ mudrāṃ svayam uttiṣṭhate tadā // (1899)
-	
+
 	vajragarbhasamādhiṃ tu bhāvayan susamāhitaḥ /
 	manasā caiva jānāti nidhānaṃ yatra tiṣṭhati // (1900)
-	
+
 	baddhvā karmamayīṃ mudrāṃ vajragarbhasamādhinā /
 	tāṃ mudrām āviśed yatra nidhānaṃ tatra lakṣayet // (1901)
-	
-tatnraiṣāṃ hṛdayāni bhavanti //:
+
+tatraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ mahāmaṇiratnāviśa hūṃ //
 	oṃ maṇipīḍa darśaya //
 	oṃ ratnasamādhi brūhi //
 	oṃ ratnāveśa darśaya // (1902)
-	
+
 	mahāmudrāṃ samādhāya yatra kāyaṃ tu veṣṭayet /
 	tatra ratnanidhānaṃ tu jñātavyaṃ samayāttmabhiḥ // (1903)
-	
+
 	baddhvā tu samayāgrīṃ  vai yatrāviśya parisphuṭet /
 	nidhānaṃ tatra vijñeyaṃ mahāratnamayaṃ bhavet // (1904)
-	
+
 	samādhimudrāṃ baddhvā vai yady āviśya svayaṃ punarḥ /
 	brūyād yatra nidhānaṃ tu mahāratnamayaṃ bhavet // (1905)
-	
+
 	karmamudrāṃ tu baddhvā vai yadāviśya parasparam /
 	hastau bandhe tu samayāṃ nidhiṃ tatra vinirdiśet // iti // (1906)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ mahāratnakāya darśaya ratnam //
 	oṃ ākāśagarbha maṇiratna sphuṭa sphuṭa yatra nidhiḥ //
 	oṃ maṇiratnajñāna svayaṃ brūhi //
 	oṃ punaḥ samayabandha darśayasva // (1907)
-	
+
 	baddhvā tu vai mahāmudrāṃ yatrāśaṅkā bhavet tadā /
 	tatra jñānena viñeyaṃ nidhānaṃ ratansaṃbhavam // (1908)
-	
+
 	yatra śaṅkā bhavet tatra samayāgrīṃ tu bandhayet /
 	yadā mokṣaṃ svayaṃ yāyān nidhiṃ tatra vinirdiśet // (1909)
-	
+
 	samādhimudrāṃ baddhvā vai śaṅkā yatra bhaved dhruvā /
 	jñānam upādya vijñeyaṃ nidhis tatrāsti śāśvataḥ // (1910)
-	
+
 	yatra bhūyo bhavec chaṅkā karmamudrāṃ tu tatra vai /
 	badhnīyād vidhivat tāṃ tu sphuṭej jñeyo nidhiḥ punaḥ // (1911)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ nidhijñānāviśa //
@@ -6563,44 +6534,44 @@ tatraiṣāṃ hṛdayāni bhavanti //:
 
 	mahāmudrāṃ tu saṃdhāya nidhānaṃ parimārgayet /
 	yatrasthasya samāveśo bhavet tatra vinirdiśet // (1913)
-	
+
 	baddhvā tu samayāgrīṃ vai nidhiṃ tu parimārgayet /
 	yatrastho dṛḍhatāṃ yāyān nidhiṃ tatra vinirdiśet // (1914)
-	
+
 	samādhimudrāṃ saṃdhāya nidhānaṃ parimārgayet /
 	yatrastho jñānavān bhūyān nidhiṃ tatra vinirdiśet // (1915)
-	
+
 	baddhvā karma mayīṃ mudrāṃ nidhiṃ tu parimārgayet /
 	yatrasthaḥ karmamudrāṃ tu bhrāmayet tatra nirdiśet // (1916)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ mahāratnaparīkṣāviśa //
 	oṃ ratnasamayadṛḍha darśaya //
 	oṃ ratnaparīkṣājñānāviśa //
 	oṃ maṇikarma bhrāmaya // (1917)
-	
+
 tato maṇirahasyamudrājñānaṃ śikṣayet //:
 
 	dvayendriyasamāpattyā nidhānaṃ parimārgayet /
 	bhāvayaṃs tu mahāmudrāṃ samāveśān nidhiṃ labhet // (1918)
-	
+
 	baddhvā tu samayāgrīṃ vai rāmayaṃs tu striyaṃ tathā /
 	yatra mudrā dṛḍhībhūyām nidhiṃ tatra vinirdiśet // (1919)
-	
+
 	dvayendriyasamāpattyā nidhānaṃ parimārgayet /
 	bhāvayañ jñānamudrāṃ tu nidhijñānaṃ pravartate // (1920)
-	
+
 	baddhvā tu karmamudrāṃ vai dvayendriaysamādhitaḥ /
 	sphuṭed yatra tu sā mudrā nidhiṃ tatra vinirdiśet // (1921)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ mahāmaṇisaṃyogāviśa //
 	oṃ samayasaṃyoga dṛḍho me bhava //
 	oṃ nidhijñānāviśāviśa saṃyoga //
 	oṃ sarvakarmasphoṭasaṃyoga // (1922)
-	
+
 tato mahāmaṇikulasarvamudrājñānaṃ śikṣayet //:
 
 atha mahāmudrā bhavanti //: (1923)
@@ -6608,115 +6579,114 @@ atha mahāmudrā bhavanti //: (1923)
 	candramaṇḍalamadhyastho (or -madhye tu)
 	yathālekhyānusārataḥ /
 	bhāvayaṃs tu mahāmudrāḥ sarvārthottamasiddhayaḥ // (1924)
-	
+
 tato mahāmudrāṇāṃ karmā.i bhavanti /:
 
 	buddhamudrā tu bhddhaṃtvaṃ susiddhir vajragarbhayoḥ /
 	ratnāṅkuśā samākarṣā maṇirāgānurāgā // (1925)
-	
+
 	maṇituṣṭayā(or ratnatuṣṭayā) tu saṃtoṣā
 	maṇidṛṣṭyārthakārikā /
 	maṇimālābhiṣekā tu maṇisūryā sutejadā // (1926)
-	
+
 	cintāmaṇir yathecchādā ratnahāsārthahārikā /
 	dharmaratnāpi dharmāptis tyāgāgrī lābham uttamam // (1927)
-	
+
 	ratnakośā mahākośaṃ maṇicakrādhipatyatām /
 	bhāṣā mārgaṇasiddhis tu ratnavṛṣṭir mahādhanam // (1928)
-	
+
 	maṇipūjā supūjyaś ca ratnavārmā dṛḍhaṃkarī /
 	ratnadaṃṣṭrā hared arthān maṇimuṣṭyā tu sidhyati // (1929)
-	
+
 athātra mahāmaṇḍale samayamudrājñānaṃ bhavati //:
 
 	vajraratnamayīmudrā sarvabuddhābhiṣekadā /
 	mahāvajramaṇiṃ baddhvā vajraratnaṃ tu sidhyati // (1930)
-	
+
 	vajradvikaṃ maṇīkṛtvā dhanaṃ vajradharāl labhet /
 	sā evāṅguṣṭhavajreṇa maṇiṃ dadyād dhṛdi sthitam // (1931)
-	
+
 	kuḍmalāgryā maṇiṃ baddhvā lokeśo dhanado bhavet /
 	vajrakarmamaṇir dadyān mahāviśvamaṇidhvajam // (1932)
-	
+
 	vajradhātvagramaṇinā buddharatnatvam āpnuyāt /
 	samāgrāpṛṣṭhasaṃkocā vajram aṅguṣṭhabandhataḥ // (1933)
-	
+
 	iyaṃ vajramaṇiḥ proktā vajragarbhasya pāṇitaḥ /
 	anayā baddhamātrayā mahāvajramaṇiṃ labhet // (1934)
-	
+
 	ratnavajraṃ samādhāya samamadhyotthitāṅkurām /
 	anayā baddhamātrayā svabhiṣekāny avāpnuyāt // (1935)
-	
+
 	sa eva madhyamānāmakaniṣṭhā kuḍmalīkṛtā /
 	anayā tu dhanaṃ dadyād avaloktanāmadhṛk // (1936)
-	
+
 	vajraratnaprayogena tarjanyaṅguṣṭhakanyasā /
 	madhyamābhyāṃ nakhasaṃdhānā samānāmāṅkurotthitā // (1937)
-	
+
 	vajrabandhaṃ dṛḍhīkṛtya tarjanībhyāṃ maṇīkṛtā /
 	prasāritaṅguṣṭhamukhā hṛdi sarvārthasiddhidā // (1938)
-	
+
 	vajrabandhaṃ samādhāya madhyamāmaṇiyojitā /
 	mudreyaṃ maṇicihnasya maṇiratnapradāyikā // (1939)
-	
-	sā evāṅkuśayogena tarjanībhyāṃ samanvitā / 
+
+	sā evāṅkuśayogena tarjanībhyāṃ samanvitā /
 	sarvārthakārṣaṇī mudrā maṇiratnāṅkuśī smṛtā // (1940)
-	
+
 	sā eva valitā caiva tarjanyā tarjanīgrahā /
 	vāṇākarṣaṇayogena karṣayan rāgayej jagat // (1941)
-	
+
 	sā eva sādhukārā tu tarjanyaṅguṣṭhayojitā /
 	sā evāṅguṣṭhasaṃdhānasaṃchannāgryāṅgulī tathā // (1942)
-	
+
 	aṅguṣṭhāntarayoś caiva punar agryā mukhekṣaṇāt /
 	maṇidṛṣṭis tu sā khyātā dṛṣṭvārthānāṃ prahārikā // (1943)
-	
+
 	sarvārthasiddhimālā tu svabhiṣekapradāyikā // (1944)
-	
+
 	sā eva hṛdaye 'ṅguṣṭhamukhasaṃdhānayojitā /
 	hṛdaye maṇisūryā tu mahātejaḥpradāyikā // (1945)
-	
+
 	mūrdhnisthā ca samānāmapatākāgravidāritā /
 	mahāvajramaṇiḥ pūrvaṃ sarvāśāparipūrikā // (1946)
-	
+
 	sā eva hāsasaṃsthā tu līlayā parivatitā /
 	ratnāṭṭahāsā nāmnā vai hāsāt sarvārthakārikā // (1947)
-	
+
 	sarvāgramaṇipadmā tu dhanahārī samādhinā /
 	sā evāntyādidānā tu mahādānapradāyikā // (1948)
-	
+
 	adhargatasamāṅguṣṭhatarjanīmaṇisaṃsthitā /
 	maṇikośā hared arthān jagatāṃ vikrameṇa tu // (1949)
-	
+
 	vajrabandhāgracakrā tu samāṅguṣṭhapraveśitā /
 	tarjanīmaṇisaṃsthānāc cakravartitvadāyikā // (1950)
-	
+
 	sā evāñjaliyogena mukhataś ca samuddhṛtā /
 	sa tu saṃdhāya vācā vai svājñayā harate dhanam // (1951)
-	
+
 	mahāvajramaṇiṃ baddhvā ratnavarṣaṃ pravarṣate /
 	sarvāṅgulyupastambhā tu catuḥśo varṣate dhanam // (1952)
-	
+
 	mahāvajramaṇiṃ baddhvā nṛtyann uṣṇīṣamadhyataḥ /
 	saṃpūjya vidhivat sarve sarvaratnaiḥ prapūjyate // (1953)
-	
+
 	sarvārthasiddhimudrāṃ tu kaṇṇthādeśe pariṣvajet /
 	maṇibandheti vikhyātā rakṣākavacinī smṛtā // (1954)
-	
+
 	sā eva sarvasiddhyarthā yakṣayogā mukhasthitā /
 	maṇidaṃṣṭreti vikhyātā bhayāt sarvārthahāriṇī // (1955)
-	
+
 	vajrabandhaṃ dṛḍhīkṛtya kuñcitāgryā suyantritā /
 	saṃgṛhyāṅguṣṭhayoḥ samyaṅ maṇimuṣṭis tu siddhidā // (1956)
-	
+
 	pūjāgrasamayānāṃ tu vajradhātuprayogataḥ /
 	yathāvan maṇiyogena samayāgryo 'tra kalpitāḥ // (1957)
-	
+
 	madhyamāmaṇiyogena tā eva tu vikalpitāḥ /
 	ekāṅkuśyādiyogena sarvakarmaprasādhikāḥ // iti (1958)
-	
+
 atha mahāmaṇikuladharmamudrājñānaṃ bhavati //:
-	
 	traḥ /
 	graḥ /
 	triḥ /
@@ -6733,9 +6703,9 @@ atha mahāmaṇikuladharmamudrājñānaṃ bhavati //:
 	ḍhaḥ /
 	ya /
 	aḥ // (1959)
-	
+
 	ratnamuṣṭiṃ dvidhīkṛtya karmamudrās tu sādhe// iti (1960)
-	
+
 sarvatathāgatakarmasamayān mahākalparājāt sarvārthasiddhimahāmaṇḍalavidhivistaraḥ samāptaḥ // // (1961)
 
 
@@ -6752,11 +6722,11 @@ atha vajrapāṇir mahābodhisattva imāṃ svakulasaṃbhavāṃ mudrām abhā�
 atha vajragarbho bodhisattvo mahāsattva imāṃ svamudrām abhāṣat //:
 
 	oṃ vajraratnābhiṣeka hūṃ // (1964)
-	
+
 atha vajranetro bodhisattvo mahāsattva imāṃ svamudrām abhāṣat //:
 
 	oṃ vajradharmābhiṣiñca māṃ // (1965)
-	
+
 atha vajraviśvo bodhisattvo mahāsattva imāṃ svamudrām abhāṣat //:
 
 	oṃ sarvābhiṣekapūjāsamaye hūṃ // (1966)
@@ -6765,13 +6735,13 @@ atha bhagavān āryākāśagarbho bodhisattvo mahāsattva idaṃ svakulasamayamu
 
 	athātaḥ saṃpravakṣkyāmi mudrāmaṇḍalam uttamam /
 	vajradhātupratīkāśaṃ ratnaguhyam iti smṛtam // (1968)
-	
+
 	mahāmaṇḍalayogena sūtrayet sarvamaṇḍalam /
 	tasya madhye yathānyāyaṃ buddhamudrāṃ samālikhet // (1969)
-	
+
 	paryaṅkasthaṃ maṇiṃ pūrvaṃ vajradhātoḥ puro likhet /
 	maṇimālāṃ maṇiṃ padme maṇiṃ maṇiparivṛtam // (1970)
-	
+
 tatrāsāṃ mudrā bhavanti //:
 
 	oṃ trāḥ //
@@ -6779,46 +6749,46 @@ tatrāsāṃ mudrā bhavanti //:
 	oṃ maṇiratnābhiṣekamāle hūṃ //
 	oṃ maṇiratnapadmi hūṃ //
 	oṃ maṇiratnavṛṣṭisamaye hūṃ // (1971)
-	
+
 	vajravegena niṣkramya sarvasiddhes tu maṇḍale /
 	vajraratnasya madhye tu mahāratnamaṇiṃ likhet // (1972)
-	
+
 	tasya pārśveṣu sarveṣu svamudrāmaṇisaṃyutā /
 	yathāvad anupūrveṇa ratnācāryaḥ samālikhet // (1973)
 
 tatrāsāṃ mudrā bhavanti //:
 
-	oṃ sarvārthasiddhiprade mahāvajraratnasamayamaṇi sarvārthān me sādhaya dhāraṇi hūṃ // 
+	oṃ sarvārthasiddhiprade mahāvajraratnasamayamaṇi sarvārthān me sādhaya dhāraṇi hūṃ //
 	oṃ maṇiratnākarṣe hūṃ // (1974)
-	
+
 	oṃ maṇiratnasamayāṅkuśy ākarṣaya maṇikulaṃ jaḥ //
 	oṃ maṇirāgasamaye hūṃ //
 	oṃ maṇisādhvi [hūṃ] // (1975)
 
 	vajravegena cākramya dvitīyamaṇḍalaṃ tathā /
 	tatra madhye maṇiṃ lekhyaṃ netradvikasamanvitam // (1976)
-	
+
 	tasyās tu sarvapārśveṣu yathāvad anupūrvaśaḥ /
 	maṇicihnasamopetāḥ svamudrās tu samālikhet // (1977)
-	
+
 tatrāsāṃ mudrā bhavanti //:
 
 	oṃ vajramaṇiratnanetrānaya vaśīkuru sarvārthasaṃpadaḥ śīghraṃ dṛṣṭyaṅkuśi hūṃ //
 	oṃ vajraratnamāle 'bhiṣiñca hūṃ // (1978)
-	
+
 	oṃ maṇiratnasūrye jvālaya sarvaṃ mahātejini hūṃ //
 	oṃ maṇicandradhvajāgri hūṃ //
 	oṃ maṇihāse hasa hūṃ // (1979)
-	
+
 	vajravegena cākramya tṛtīyaṃ maṇḍalaṃ tathā /
 	tatra madhye samālekhyaṃ maṇipadmasamanvitam // (1980)
-	
+
 	tasya pārśveṣu sarveṣu yathāvad anupūrvaśaḥ /
 	maṇicihnasamopetāḥ svamudrās tu samālikhet // (1981)
-	
+
 	vajravegena cākramya maṇipadmaṃ samālikhet /
 	tasya pārśveṣu sarveṣu yathāvad anupūrvaśaḥ // (1982)
-	
+
 tatrāsāṃ mudrā bhavanti //:
 
 	oṃ maṇisamādhipadmini hūṃ //
@@ -6826,10 +6796,10 @@ tatrāsāṃ mudrā bhavanti //:
 	oṃ maṇisamayakośe hūṃ //
 	oṃ maṇisamayacakre hūṃ //
 	oṃ maṇibhāṣāgri hūṃ // (1983)
-	
+
 	vajravegeṇa cākramya caturthaṃ maṇḍalottamam /
 	tatrasthaṃ ratnavṛṣṭyā tu vajraṃ ratnasamanvitam // (1984)
-	
+
 	saṃlikheta yathāvat tu karmamudrāparivṛtam /
 	maṇicihnaprayogais tu yathāvad anupūrvaśaḥ // (1985)
 
@@ -6842,7 +6812,7 @@ athāsāṃ mudrā bhavanti //:
 	oṃ maṇisamayamuṣṭi // (1986)
 
 athātra maṇiguhyamaṇḍale yathāvat karma kṛtvā,
-śiṣyān praveśya brūyāt //: 
+śiṣyān praveśya brūyāt //:
 
 	na tvayā kasyacid ayaṃ nayo vaktavyaḥ,
 	mā te mahādāridryamahākālakriyānarakapatanaṃ syāt.
@@ -6853,165 +6823,165 @@ svamaṇisamayajñānāny utpādayet //: (1988)
 
 	vajraratnaṃ nabhe likhya vajraratnasamādhinā /
 	ātmanas tu lalāṭe vai sthāpya rājā bhaved dhruvam // (1989)
-	
+
 	vajraratnaṃ samālikhya samayāgrīṃ tu bandhayet /
 	sthāpyābhiṣekasthāneṣu rājyatvaṃ bhavate dhruvam // (1990)
-	
+
 	vajraratnaṃ samālikhya vajraratnasamādhinā /
 	taj jñānaratnaṃ saṃsthāpya bhaved rājā svayaṃ kṛtaḥ // (1991)
-	
+
 	vajraratnaṃ nabhe likhya karmamudrāṃ tu bandhayet /
 	svasthāne tat pratiṣṭhāpya bhaved rājā svayaṃ kṛtaḥ // iti (1992)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
 
 	mahāvajraratnābhiṣiñca māṃ //
 	samayaratnābhiṣiñca mām //
 	dharmaratnābhiṣiñca mām //
 	karmaratnābhiṣiñca mām // (1993)
-	
+
 	vajraratnaṃ tu hṛdaye mahāmudrāṃ tu bhāvayet /
 	bhāvayann abhiṣekaṃ tu prāpnoti paramādbhutam // (1994)
-	
+
 	vajraratnaṃ lalāṭe tu bhāvayan susamāhitaḥ /
 	baddhvā vai ratnavajrīṃ tu bhaved rājā tu sarvataḥ // (1995)
-	
+
 	vajraratnaṃ tu jihvāyāṃ vajraratnasamādhinā /
 	bhāvayann abhiṣekaṃ tu prāpnuyād dharmarājyatām // (1996)
-	
+
 	vajraratnaṃ svam uṣṇīṣe bhāvayan susamāhitaḥ /
 	baddhvā vai karmamudrāṃ tu bhaved rājā sukarmakṛt // iti (1997)
-	
+
 athāsāṃ hṛdayāni bhavanti //:
 
 	oṃ vajraratnahṛdayābhiṣiñca hoḥ //
 	oṃ vajraratnābhiṣeka traḥ //
 	oṃ vajraratnajñānābhiṣeka vaṃ //
 	oṃ vajraratnoṣṇīṣādhitiṣṭhasva mām // (1998)
-	
+
 	paṭādiṣu samālikhya vajraratnaṃ svam ātmanā /
 	bhāvayaṃs tu mahāmudrāṃ mahārājā bhavet sa tu // (1999)
-	
+
 	paṭādiṣu samālikhya vajraratnam anuttaram /
 	bhāvayet sattvavajrāṃ tu samayānāṃ bhavet patiḥ // (2000)
-	
+
 	paṭādiṣu samālikhya vajraratnaṃ svam ātmanā /
 	bhāvayan dhyānamudrāṃ tu bhaved dharmādhipo dhruvam // (2001)
-	
+
 	paṭādiṣu samālikhya vajraratnam anuttaram /
 	bhāvayet karmamudrāṃ tu bhavet karmādhipaḥ svam // iti  (2002)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
 
 	vajraratnabimbādhitiṣṭha //
 	vajraratnabimba pratiṣṭha //
 	vajraratnabimbāviśa //
 	vajraratnabimba kuru // (2003)
-	
+
 	sauvarṇaṃ vāpi raupyaṃ vā vajraratnaṃ tu bhāvayet /
 	anyaratnamayaṃ vāpi hṛdi bhāvyābhiṣicyate // (2004)
-	
+
 	sauvarṇam anyaratnaṃ vā vajraratnaṃ tv anuttaram /
 	sthāpya bhūyo lalāṭe tu bhaved rājā mahādhanaḥ // (2005)
-	
+
 	sauvarṇam anyaratnaṃ vā vajraratnaṃ tu bhāvayet /
 	svamukhe caiva prakṣipya bhaved vācāṃ patis tu saḥ // (2006)
-	
+
 	sarvarṇam anyaratnaṃ vā vajraratnaṃ tu dhārayet /
 	uṣṇīṣe bhāvayan bhūyaḥ sarvakarmapatir bhavet // iti (2007)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ vajraratnahṛdayābharaṇa hūṃ //
 	oṃ vajraratnābhiṣekamahārthaprada //
 	oṃ vajraratnavācaspate //
 	oṃ vajraratnamahākarmapate // (2008)
-	
+
 tato maṇikulasamayamudrārahasyajñānaṃ śikṣayet //:
 
 	mahāvajramaṇiṃ baddhvā taṃ maṇiṃ strībhage tathā /
 	praveśya tu mahāmudrāṃ bhāvayan siddhim āpnute // (2009)
-	
+
 	samayāgryāmaṇiṃ baddhvā strībhage samayāgryayā /
 	baddhayā tu bhavet siddhir abhiṣekeṣu sarvaśaḥ // (2010)
-	
+
 	mahāvajramaṇiṃ baddhvā dharmamudrāṃ tu bhāvayan /
 	taṃ maṇiṃ strībhage viddhvā bhavet siddhir anuttarā // (2011)
-	
+
 	karmamudrāmaṇiṃ viddhvā strībhage karmamudrayā /
 	baddhayā tu bhavet siddhiḥ sarvakarmasv anuttarā // iti (2012)
-	
+
 tatrāsāṃ hṛdayāni bhavanti //:
 
 	oṃ mahāsiddhiḥ //
 	oṃ samayābhiṣekasiddhiḥ //
 	oṃ dharmasiddhiḥ //
 	oṃ karmasiddhiḥ // (2013)
-	
+
 athātra maṇḍale mahāmudrābandho bhavati //:
 
 	ratnavajrāṅkurāṃ baddhva madhyānāmāntimāṅgulī /
 	prasāritās tu saṃdhāya mūrdhni sthāpyāgrasiddhidhā // (2014)
-	
+
 	vajrabandhaṃ samādhāya granthitāgryā yugorṇagā /
 	dvyaṅguṣṭhānāmikā vajrā parivartyābhi.ekadā // (2015)
-	
+
 	vajraratnaprayogeṇa sā eva parivartitā /
 	tarjanyagramukhāsaṅgād abhiṣekaṃ dadāti sā // (2016)
-	
+
 	sā evāṅguṣṭhajyeṣṭhābhyāṃ dharma vajriprayogataḥ /
 	baddhvā lalāṭagā caiva mahādharmābhiṣekadā // (2017)
-	
+
 	karmavajraṃ samādhāya lalāṭe paivartya vai /
 	sarvābhiṣekamālāṃ tu sthāpayann abhiṣiñcati // (2018)
-	
+
 	ratnasaṃbhavamudrāṃ tu samayāṃ vajradhātujām /
 	baddhvā ratnapratiṣṭhāṃ tu lalāṭe tv abhiṣicyate // (2019)
-	
+
 	aṅguṣṭhā baddhaparyaṅkā tarjanīdvayasaṃdhitā /
 	maṇimukhāgryayoḥ kuryān mahāvajramaṇiṃ labhet // (2020)
-	
+
 	vajrabandhaṃ samādhāya maṇimuṣṭiṃ prasārayet /
 	maṇis tu madhyamābhyāṃ tu maṇimālābhiṣekadā // (2021)
-	
+
 	vajrabandhaṃ samādhāya madhyamāmaṇiyojitā /
 	dvyagrānāmavikāsā tu padmaṃ kṛtvā tu sidhyati // (2022)
-	
+
 	madhyamābhyāṃ maṇiṃ baddhvā sarvāṅgulayaḥ samutthitāḥ /
 	bhāvayaṃs tu maṇīn eva bhavet suparivāravān // (2023)
-	
+
 	vajraratnaṃ samādhāya madhyamāṅguṣṭhayogataḥ /
 	samānāmakaṇiṣṭhā tu jihvāmukha maṇipradā // (2024)
-	
+
 	sa eva tarjanī vajrasaṃsthā eva tthāṅkuśī /
 	tarjanyā tarjanī karṣā tābhyāṃ tuṣṭipradāyikā // (2025)
-	
+
 	madhyamābhyāṃ maṇiṃ baddhvā dvyagrasaṃkocasaṃsthitā /
 	buaddhvānāmāṅgulimukhāv aṅguṣṭhadvayacchāditā // (2026)
-	
+
 	sā eva sūryā vartā tu mūrdhni bāhuprasāritā /
 	maṇidhvajāgrakeyūrā hāsayogena yogitā // (2027)
-	
+
 	vajrabandhaṃ samādhāya jyeṣṭhānāmamukhotthitā /
 	tābhiḥ padmaṃ tu saṃbhāvya madhyamābhyāṃ maṇīkṛtā // (2028)
-	
+
 	sā evāntyapradānā tu vajrakośaprayogitā /
 	vajracakraprayogā tu sā eva mukhatoddhṛtā // (2029)
-	
+
 	vajraratnāṅkurāṃ baddhvā sarvāṅgulyaḥ prasārayet /
 	tāṃ tu mūrdhni pratiṣṭhāpya ratnavṛṣṭiṃ tu varṣayet // (2030)
-	
+
 	sā eva cakrayogā tu hṛdi ratnadvidhīkṛtā /
 	maṇigrahāgradaṃṣṭrā tu muṣṭir madhyamasaṃdhitā // iti (2031)
-	
+
 tataḥ samayamudrājñānaṃ śikṣayet //:
 
 	etā eva mahāmudrāḥ saṃpuṭīkṛtya bandhayet /
 	guhyaguhyāḥ samāsena siddhiṃ dadyuś caturguṇam // iti (2032)
-	
+
 	yathā yad vajraguhye tu sarvakālaṃ na bandhayet /
 	ataḥ paraṃ pravakṣyāmi dharmamudrāḥ samāsataḥ // iti (2033)
-	
+
 	traiḥ /
 	graiḥ /
 	haiḥ /
@@ -7028,9 +6998,9 @@ tataḥ samayamudrājñānaṃ śikṣayet //:
 	raiḥ /
 	vyaḥ /
 	maiḥ // (2034)
-	
+
 	guhyaguhyāgramuṣṭis tu dvidhīkṛtya sarvakarmikā // iti // (2035)
-	
+
 sarvatathāgatakarmasamayān mahākalparājād ratnaguhyamudrāmaṇḍalavidhivistaraḥ samāptaḥ // // (2036)
 
 
@@ -7039,31 +7009,31 @@ ratnajñānamaṇḍalavidhivistara (2037)
 atha bhagavān punar api sarvatathāgatābhiṣekajñānasamayasaṃbhavādhiṣṭhanaṃ nāma samādhiṃ samāpadyemaṃ svavidyottamam abhāṣat //:
 
 	oṃ sarvatathāgatābhiṣekajñānottama hūṃ // (2038)
-	
+
 atha vajrapāṇir mahābodhisattva imaṃ svavidyottamam abhāṣat //:
 
 	oṃ vajrajñānābhiṣekasamaya hūṃ // (2039)
-	
+
 atha vajragarbho bodhisattvo mahāsattva imaṃ svavidyottamam abhāṣat //:
 
 	oṃ maṇiratnābhiṣekajñāna hūṃ // (2040)
-	
+
 atha vajranetro bodhisattvo mahāsattva imaṃ svavidyottamam abhāṣat //:
 
 	oṃ dharmābhiṣekajñāna hūṃ // (2041)
-	
+
 atha vajraviśvo bodhisattvo mahāsattva imaṃ svavidyottamam abhāṣat //:
 
 	oṃ sarvābhiṣekajñāna hūṃ // (2042)
-	
+
 athākāśagarbho bodhisattvo mahāsattva idaṃ svakulajñānamaṇḍalam abhāṣat //: (2043)
 
 	athātaḥ saṃpravakṣyāmi jñānamaṇḍalam uttamam /
 	vajradhātupratīkāśaṃ ratnajñānam iti smṛtam // (2044)
-	
+
 	mahāmaṇḍalayogena sūtrayet sarvamaṇḍalam /
 	hṛdi cihnās tu saṃlekhyā dharmamanḍalayogataḥ // iti (2045)
-	
+
 athātra maṇḍale jñānahṛdayāni bhavanti //:
 
 	oṃ sarvārthasiddhijñāna hūṃ //
@@ -7071,132 +7041,132 @@ athātra maṇḍale jñānahṛdayāni bhavanti //:
 	oṃ maṇijñānaṅkuśa //
 	oṃ maṇijñānarāga //
 	oṃ maṇijñānatuṣṭi // (2046)
-	
+
 	oṃ maṇijñānadṛṣṭi hūṃ //
 	oṃ maṇijñānābhiṣeka //
 	oṃ maṇijñānasūrya //
 	oṃ maṇijñānadhvaja //
 	oṃ maṇijñānāṭṭahāsa // (2047)
-	
+
 	oṃ maṇijñānapadma hūṃ //
 	oṃ jñānamaṇityāga //
 	oṃ jñānamaṇikośa //
 	oṃ jñānamaṇicakra //
 	oṃ jñānamaṇibhāṣa // (2048)
-	
+
 	oṃ jñānamaṇiratnavarṣa //
 	oṃ maṇijñānanṛtyapūjāsamaya //
 	oṃ maṇijñānarakṣa //
 	oṃ maṇijñānayakṣa //
 	oṃ maṇijñānamuṣṭi(or -muṣṭe?) // (2049)
-	
+
 athātra maṇḍale yathāvad vidhivistaraṃ kṛtvā,
 śiṣyān evaṃ brūyāt /:
 
 	na tvayādṛṣṭadharmamaṇḍalasya vaktavyam /
 	mā te maraṇakālaḥ śīghram evāsiddhasya syāt /
 
-iti uktvā (2050)
+ity uktvā (2050)
 
 maṇikuladharmajñānāny utpādayet //:
 
 	vajragarbhaṃ samālikhya paṭādiṣu samādhinā /
 	bhāvayan yācayed arthān dehi ratna iti bruvan // (2051)
- 
+
 	vajragarbhaṃ samālikhya paṭādiṣu samādhinā /
 	bhāvayan yācayed ratnān dehi dehīti vāg bruvan // (2052)
-	
+
 	vajragarbhaṃ samālikhya paṭādiṣu vibhāvayan /
 	samāpattyā tu saddharmaṃ dehi jñāneti yācayet // (2053)
-	
+
 	vajragarbhaṃ samālikhya paṭādiṣu vibhāvayan /
 	samāpattyā tu satkarma karme dehīti yācayet // iti (2054)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ dehi sarvārthān bhagavan vajragarbha //
 	oṃ dehi sarvaratnān bhagavan vajragarbha //
 	oṃ dehi saddharmaṃ bhagvan vajragarbha satsattva //
 	oṃ dehi bhagavan satkarma bhagavan vajragarbha // (2055)
-	
+
 	ākāśe vānyadeśe vā bhāvyan susamāhitaḥ /
 	ākāśagarbhaṃ satsatvaṃ yācayed arthasaṃpadaḥ // (2056)
-	
+
 	ākāśe vānyadeśe vā bhāvayan susamāhitaḥ /
 	ākāśagarbhaṃ satsattvaṃ yācayed ratnasaṃcayam // (2057)
-	
+
 	ākāśe vānyadeśe vā bhavayan susamāhitaḥ /
 	ākāśagarbhaṃ satsattvaṃ yācayed dharmasaṃpadaḥ // (2058)
-	
+
 	ākāśe vānyadeśe vā bhāvayan susamāhitaḥ /
 	ākāśagarbhaṃ satsattvaṃ yācayet karmasaṃcayam // iti (2059)
-	
+
 atraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ jñānagarbha dehi sarvārthān //
 	oṃ jñānagarbha dehi sarvaratnān //
 	oṃ jñānagarbha dehi sarvadharmān //
 	oṃ jñānagarbha dehi sarmakarmān // (2060)
-	
+
 	vajragarbhaṃ hṛdi likhya bhāvayan susamāhitaḥ /
 	yadā tu hṛdayaṃ kampet tataḥ siddho dhanaṃ dadet // (2061)
-	
+
 	vajragarbhaṃ lalāṭe tu samālikhya vibhāvayan /
 	yadā tu karmapate śīrṣam abhiṣekaṃ sa lapsyati // (2062)
-	
+
 	vajragarbhaṃ mukhe viddhvā lābhayet tatra eva hi /
 	yadā tu sphuṭate tat tu tadā vāg asya sidhyati // (2063)
-	
+
 	vajragarbhaṃ svamūrdhne tu pratiṣṭhāpya bhāvayet /
 	yadā tu jvalate tat tu tadaivordhvaṃgamo bhavet // iti (2064)
-	
+
 tatiraṣāṃ hṛdayāni bhavanti //:
 
 	oṃ hṛdayagarbha dehi dhanam //
 	oṃ ratnābhiṣekagarbhābhiṣiñca //
 	oṃ vāggarbha sidhya //
 	oṃ ratnagarbhoṣṇīṣākāśaṃ gaccha // (2065)
-	
+
 	vajragarbhamahāmudrāṃ bhāvayan susamāhitaḥ /
 	yācayed dehi siddhiṃ me ili ratneti sidhyati // (2066)
-	
+
 	ākāśagarbhasamayīṃ baddhvā tu samāhitaḥ /
 	yācayed abhiṣekāṇi mili ratneti lapsyati // (2067)
-	
+
 	vajragarbhasamādhiṃ tu bhāvayan susamāhitaḥ /
 	yācayed dehi me dharmaṃ cili ratneti lapsyati // (2068)
-	
+
 	ākāśagarbhakarmagrīṃ baddhvā tu susamāhitaḥ /
 	yācayet sarvaratnāni kili ratneti sidhyati // (2069)
-	
+
 atraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ ili //
 	oṃ mili //
 	oṃ cili //
 	oṃ kili // (2070)
-	
-tato ma.ijñānarahasyamudrājñānāni bhavanti //:
+
+tato maṇijñānarahasyamudrājñānāni bhavanti //:
 
 	dvayendriyasamāpattyā vajragarbhaṃ tu bhāvayet /
 	ākāśe vānyadeśe vā parāṃ siddhim avāpnute //(2071)
-	
+
 	dvayendriyasamāpattyā vajragarbhaṃ tu bhāvayet /
 	ālekhyaṃ citralikhitaṃ prāpnuyād abhiṣecanam // (2072)
-	
+
 	dvayendriyasamāpattyā vajragarbhaṃ tu bhāvayan /
 	taṃ priyaṃ yasya ramayet sarvalokaṃ sa rāgayet // (2073)
-	
+
 	dvayendriyasamāpattyā vajragarbhaṃ tu bhāvayan /
 	sarvākāśarajobimbaiḥ sarvasiddhir bhaved dhruvam // iti (2074)
-	
+
 tatrāsāṃ hṛdayāni bhavanti //:
 
 	ākāśaguhyajñāna sādhaya hūṃ //
 	cittaguhyajñānābhiṣiñca hūṃ //
 	priyānusmṛtijñānaguhya sarvalokaṃ rāmaya hūṃ //
 	sarvaguhyajñāna sarvasiddhiṃ me prayaccha hūṃ // (2075)
-	
+
 tato mahāmudrāṃ yathāvad badhnīyāt /
 tādṛśaiva siddhiḥ // (2076)
 
@@ -7221,9 +7191,9 @@ atha dharmamudrā bhavanti //:
 	raṃ /
 	yaḥ /
 	saḥ / (2078)
-	
+
 	karmamudrāḥ samāsena yathāsthāneṣu saṃsthapet // iti // (2079)
-	
+
 sarvatathāgatakarmasamayān mahākalparājād ratnajñānamaṇḍalavidhivistaraḥ parisamāptaḥ // // (2080)
 
 
@@ -7232,32 +7202,32 @@ ratnakarmamaṇḍalavidhivistara
 atha bhagavān punar api sarvatathāgatābhiṣekakarmasamayasaṃbhavādhiṣṭhānaṃ nāma samādhiṃ samāpadyemāṃ svavidyottamām abhāṣat //:
 
 	oṃ sarvatathāgatakarmābhiṣeka hūṃ // (2081)
-	
+
 atha vajrapāṇir mahābodhisattva imāṃ svakarmasaṃbhavāṃ vidyottamām abhāṣat //:
 
 	oṃ vajrahūṃkārābhiṣeke // (2082)
-	
+
 atha vajragarbho bodhisattva imāṃ svavidyottamām abhāṣat //
 
 	oṃ sarvākāśasamatābhiṣkekaratne hūṃ //
 	oṃ sarvatathāgatasamantābhiṣeka hūṃ // (2083)
-	
+
 atha vajranetro bodhisattva imāṃ svavidyottamām abhaṣat //
 
 	oṃ saddharmābhiṣekaratne // (2084)
-	
+
 atha vajraviśvo bodhisattva imāṃ svavidyottamām abhāṣat //:
 
 	oṃ viśvābhiṣeke // (2085)
-	
+
 athākāśagarbho bodhisattvo mahāsattva idaṃ svakulakarmamaṇḍalam abhāṣat //: (2086
 
 	athātaḥ saṃpravakṣyāmi karmamaṇḍalam uttamam /
 	vajradhātupratīkāśaṃ ratnakarmam iti smṛtam // (2087)
-	
+
 	mahāmaṇḍalayogena sūtrayet sarvamaṇḍalam /
 	tasya madhye yathānyāyaṃ buddhabimbaṃ niveśayet // (2088)
-	
+
 	mahāsattvaprayogeṇa ratnasattvaḥ samālikhet // iti (2089)
 
 tatrāsāṃ mudrā bhavanti //:
@@ -7265,49 +7235,49 @@ tatrāsāṃ mudrā bhavanti //:
 	oṃ maṇiratnapūjāgrya //
 	oṃ sarvārthasiddhivajraratnābhiṣeke hūṃ //
 	oṃ vajramaṇidhāriṇisamaye hūṃ // (2090)
-	
+
 	oṃ maṇiratnākarṣakarmasamaye hūṃ //
 	oṃ maṇiratnarāgaratikarmapūje pravarta //
 	oṃ maṇiratnasādhukārapūjāsamaye // (2091)
-	
+
 	oṃ mahāmaṇiratnadṛṣṭyākarṣe //
 	oṃ maṇiratnamālāpūje //
 	oṃ maṇiratnasūryālokapūje //
 	oṃ maṇiratnadhvajapatākāpūje //
 	oṃ maṇiratnāṭṭahāsapūje // (2092)
-	
+
 	oṃ padmamaṇisamādhisamaye hūṃ //
 	oṃ sarvatyāgānusmṛtisamādhikarmakāri hūṃ //
 	oṃ maṇiratnatīkṣṇasamaye chinda cchinda hūṃ //
 	oṃ maṇiratnacakrasamaye hūṃ //
 	oṃ maṇiratnabhāṣe vada vada hūṃ // (2093)
-	
+
 	oṃ maṇiratnavṛṣṭikarmasamaye hūṃ //
 	oṃ maṇiratnakarmaṇi hūṃ //
 	oṃ maṇiratnakavace rakṣa hūṃ //
 	oṃ maṇiratnadaṃṣṭri khāda khāda hūṃ //
 	oṃ maṇiratnakarmamuṣṭi hūṃ // (2094)
-	
+
 	oṃ maṇiratnalāsye pūjaya hoḥ //
 	oṃ maṇiratnamālābhiṣeke pūjaya //
 	oṃ maṇiratnagīte pūjaya //
 	oṃ maṇiratnanṛtye pūjaya // (2095)
-	
+
 	oṃ maṇiratnadhūpe pūjaya //
 	oṃ maṇiratnapuṣpe pūjaya //
 	oṃ maṇiratnadīpe pūjaya //
 	oṃ maṇiratnagandhe pūjaya // (2096)
-	
+
 	oṃ maṇiratnāṅkuśyākarṣe jjaḥ //
 	oṃ maṇiratnapāśe hūṃ //
 	oṃ maṇiratnasphoṭe vaṃ //
 	oṃ maṇiratnāveśe aḥ // (2097)
-	
+
 athātra karmamaṇḍale yathāvad vidhivistaraṃ kṛtvā,
 praveśyaivaṃ vadet /
 
 	na tvayā kasyacid ayaṃ vaktavyaḥ /
-	mā te karmāvaraṇādhiṣṭhitasyaiva maraṇaṃ bhavet 
+	mā te karmāvaraṇādhiṣṭhitasyaiva maraṇaṃ bhavet
 
 ity uktvā, (2098)
 
@@ -7315,35 +7285,35 @@ maṇikarmajñānāni śikṣayet //
 
 	vajragarbhamahāmudrāṃ baddhvā tu susamāhitaḥ /
 	pūjayan sarvapūjābhiḥ sarvabuddhān vaśaṃ nayet // (2099)
-	
+
 	baddhvā caikatarāṃ mudrāṃ samayāgrīṃ samādhinā /
 	pūjayan sarvabuddhāṃs tu svabhiṣekān sa lapsyati // (2100)
-	
+
 	vajragarbhasamādhiṃ tu bhāvayan susamāhitaḥ /
 	pūjayan sarvabuddhāṃs tu nāśayej jagad uttamam // (2101)
-	
-	baddhvā karmamayīṃ mudrāaṃ vajragarbhasamādhinā /
+
+	baddhvā karmamayīṃ mudrāṃ vajragarbhasamādhinā /
 	pūjayan sarvabuddhāṃs tu sarvārthāṃl labhate kṣaṇāt // iti (2102)
-	
+
 tatraiṣāṃ hṛdayāni bhavanti //:
 
 	oṃ ratnapūja vaśīkuru //
 	oṃ ratnapūjāsamayābhiṣiñca //
 	oṃ ratnapūjādharma nāśaya patim //
 	oṃ ratnapūjākarma sarvārthān me dada // (2103)
-	
+
 atha rahasyamudrākarmajñānaṃ bhavati //:
 
 	dvayendriyasamāpattyā vajragarbhasamādhinā /
 	pūjayan sarvabuddhāṃs tu sarvalokaṃ sa rāgayet // iti (2104)
-	
+
 tato yathāvan mahāmudrājñānenottamasiddhaya iti // (2105)
 
 atha samayamudrājñānaṃ śikṣayet //
 
 	vajraratnaṃ samādhāya sarvasthāneṣu saṃsthapet /
 	vajrakāryaprayogeṇa yathāvad anupūrvaśaḥ // (2106)
-	
+
 atha dharmamudrājñānaṃ bhavanti //:
 
 	tvaḥ /
@@ -7362,7 +7332,7 @@ atha dharmamudrājñānaṃ bhavanti //:
 	kṣaḥ /
 	kṣaḥ /
 	dhiḥ // (2107)
-	
+
 	vajraratnāṃ dvidhīkṛtya karmamudrāḥ sa sādhayet // iti (2108)
 
 sarvatathāgatakarmasamayān mahākalparājād ratnakarmamaṇḍalavidhivistaraḥ parisamāptaḥ // // (2109)
@@ -7371,11 +7341,11 @@ sarvatathāgatakarmasamayān mahākalparājād ratnakarmamaṇḍalavidhivistara
 atha bhagavān ratnamudrāṃ nāma samādhiṃ samāpadyemāṃ svavidyottamām abhāṣat //:
 
 	oṃ vajraratne trāṃ // (2110)
-	
+
 atha vajrapāṇir bodhisattvo mahāsattva imāṃ svamudrām abhāṣat //:
 
 	oṃ vajramāle hūṃ // (2111)
-	
+
 atha vajragarbho bodhisattvo mahāsattva imāṃ svamudrām abhāṣat //:
 
 	om maniratne // (2112)
@@ -7407,7 +7377,7 @@ tato jṇānāny utpādayet //:
 athātra hṛdayaṃ bhavati //:
 
 	oṃ vajraratna sarvābhiṣekasarvasiddhayo me prayaccha rala rala hūṃ traḥ // (2119)
-	
+
 tato rahasyamudrāṃ darśayet //:
 
 	paṭiṃ vāpi priyāṃ vā pi striyaṃ vā puruṣo 'pi vā /
@@ -7426,17 +7396,17 @@ athākāśagarbho bodhisattvo mahāsattva idaṃ sarvārthasiddhiṃ nāma hṛd
 
 	oṃ vajramaṇidhara sarvārthasiddhiṃ me prayaccha
 	ho bhagavan vajraratna hūṃ // (2123)
-	
+
 athātra maṇḍalaṃ bhavati //:
 
 	athātaḥ saṃpravakṣyāmi mahāmaṇḍalam uttamam /
 	yathāvat tu samālekhyaṃ sarvasiddhes tu maṇḍalam // iti (2124)
-	
+
 athātra jñānarahasyamudrājñānaṃ śikṣayet //:
 
 	rūpādīnāṃ tu kāmānām aviraktaḥ sukhāni tu /
 	niryātayaṃs tu buddhebhyaḥ kalpasiddhim avāpunte // iti (2125)
-	
+
 tataś caturvidhaṃ mudrājñānaṃ śikṣayet //
 evaṃ paṭādiṣu sattvaṃ mudrāṃ vā maṇḍaleṣu likhya sādhayed iti // (2126)
 
@@ -7444,10 +7414,10 @@ atha sarvatathāgataḥ punaḥ samājam āgamyākāśagarbhaṃ mahābodhisattv
 
 	sādhu te vajrasattvāya vajraratnāya sādhu te /
 	sādhu te vajradharmāya sādhu te vajrakarmaṇe // (2128)
-	
+
 	subhāṣitam idaṃ sūtraṃ vajrayānam anuttaram /
 	sarvatāthāgataṃ guhyaṃ mahāyānābhisaṃgraham // iti (2129)
-	
+
 sarvatathāgatatattvasaṃgrahāt sarvatathāgatakarmasamayo nāma mahākalparājaḥ parisamāptaḥ // (2130)
 
 (2131: no text)
@@ -7462,25 +7432,25 @@ tatra prathamaṃ tāvat tathāgatamahāmudrottamasiddhitantraṃ bhavati //: (2
 
 	tathāgatamahāmudrāṃ baddhvā sarvakhadhātuṣu /
 	buddhabimbān adhiṣṭhāya svahṛdi tu praveśayet // (2136)
-	
+
 	ihaiva janmani varaṃ yadīcched uttamaṃ śivam /
 	buddhatvaṃ tena kāryedaṃ na cet siddhir yathopari // (2137)
-	
+
 ((atha vajrapāṇir mahābodhisattvas tathāgatakulottamasiddhitantram udājahāra //:)) (2138)
 
 ((tatra prathamaṃ tāvan mahāmudrottamasiddhitantraṃ bhavati //)) (2139)
 
 	mahāmudrāṃ samādhāya mahātattvam udāharan /
 	padaśaḥ sarvam evāhaṃ bhāvayet sattvayogataḥ // (2140)
-	
+
 	ihaiva janmani padaṃ yadīcchet sauriṇaṃ śubham /
 	ātmanas tena kāryedaṃ na cet siddhir yathopari // (2141)
-	
+
 atha samayamudrottamasiddhitantraṃ bhavati //: (2142)
 
 	yathā vajradharaḥ siddhis tathāham iti bhāvayan /
 	buddhasauritvam āpnoti na cet siddhir yathopari // iti (2143)
-	
+
 atha dharmamudrottamasiddhitantraṃ bhavanti //: (2144)
 
 	svabhāvaśuddhyā vācā vai sarvadharmā iti bruvan /
@@ -7490,7 +7460,7 @@ atha karmamudrottamasiddhitantraṃ bhavati //: (2146)
 
 	sarvasya sarvaśuddhitvāt sarvakarmāṇi śodhayan /
 	buddhasauritvam āpnoti na cet siddhir yathopari // iti (2147)
-	
+
 tathāgatakulottamasiddhayaḥ // (2148)
 
 atha vajrapāṇiḥ svakulottamasiddhitantram udājahāra // (2149)
@@ -7499,66 +7469,66 @@ atha vajrapāṇiḥ svakulottamasiddhitantram udājahāra // (2149)
 
 	buddhājñāt sarvasattvārthāt sarvasiddhiprayogataḥ /
 	sādhayaṃs tu mahāmudrāṃ buddhatvam iha janmani // iti (2151)
-	
+
 atha samayamudrottamasiddhitantraṃ bhavati //:
 
 	yathā vajradharaḥ siddhas tathāham iti bhāvayan /
 	mahāmudrāprayogeṇa kṣaṇāt sauritvam āpnute // iti  (2152)
-	
+
 atha dharmamudrottamasiddhitantraṃ bhavati //:
 
 	anakṣareṣu dharmeṣu prapañco na hi vidyate /
 	idaṃ vadaṃs tu dharmāgrīṃ bhāvayan sauritāṃ vrajet // iti (2153)
-	
+
 atha karmamudrottamasiddhitantraṃ bhavati //:
 
 	yat karoti hi karmaṃ vai śubhaṃ vā yadi vāśubham /
 	niryātayañ jinebhyas tu kṣaṇāt sauritāṃ vrajet // iti (2154)
-	
+
 atha vajrapāṇir mahābodhisattvaḥ padmakulottamasiddhitantram udājahāra //: (2155)
 
 tatra prathamaṃ tāvan mahāmudrottamasiddhitantraṃ bhavati //:
 
 	rāgaḥ śuddhaḥ svabhāvena tīrthikair avamanyate /
 	tasyāvirāgo dharmo 'smin mahāyāne tu sidhyati // iti (2156)
-	
+
 atha samayamudrottamasiddhitantraṃ bhavati //:
 
 	abhyasaṃs tu mahāmaitrīṃ samādhidṛḍhayogataḥ /
 	sphārayed vidhivad yogāt kṣaṇāt sauritvam āpnuyāt // iti (2157)
-	
+
 atha dharmamudrotamasiddhitantraṃ bhavati //:
 
 	svabhāvaśuddhaḥ saṃrāga iti brūyād imaṃ nayam /
 	rāgapāramitāprāptaḥ kṣaṇāt sauritvam āpnuyāt // iti (2158)
-	
+
 atha karmamudrottamasiddhitantraṃ bhavati //:
 
 	darśanasparśanābhyāṃ tu śravaṇasmaraṇena vā /
 	syām ahaṃ sarvasattvānāṃ sarvaduḥkhāntakasiddhiḥ // iti (2159)
-	
+
 atha vajrapāṇir mahābodhisattvo maṇikulottamasiddhitantram udājahāra //: (2160)
 
 tatra mahāmudrottamasiddhitantraṃ bhavati //:
 
 	sarvabuddhābhiṣeko 'haṃ bhaveyaṃ vajrgarbhavat /
 	iti bhāvanāṃ bhāvayan vai kṣaṇāt sauritvam āpnute // iti (2161)
-	
+
 atha samayamudrottamasiddhitantraṃ bhavati //:
 
 	bhaveyaṃ sarvasattvānāṃ sarvāśāparipūrakaḥ /
 	ākāśagarbhasadṛśaḥ kṣaṇāt sauritvam āpnute // iti (2162)
-	
+
 atha dharmamudrottamasiddhitantraṃ bhavati //:
 
 	ātmanas tu samutsṛjya dhanadān suharṣitaḥ /
 	vadan dharmamayīṃ mudrām iha sauritvam āpnute // iti (2163)
-	
+
 atha karmamudrottamasiddhitantraṃ bhavati //:
 
 	daridrāṇāṃ hitārthāya dhanotpādanatatparaḥ /
 	udyogāt sauritāṃ yāti na cet siddhir yathopari // iti (2164)
-	
+
 sarvakulamudrāṇāṃ buddhabodhisattvottamasiddhyavāptividhivistaraḥ // // (2165)
 
 atha vajrapāṇir mahābodhisattvaḥ punar api sarvatathāgatasamayasiddhitantram udājahāra //: (2166)
@@ -7567,27 +7537,27 @@ tatredaṃ tathāgatasamayasiddhitantraṃ bhavati //
 
 	yasya rāgasamāpattis tasya rāgeṇa śodhayet /
 	iti buddhamahāmudrājñānasya samayaḥ smṛtaḥ // (2167)
-	
+
 tatredaṃ tathāgatasamayasiddhitantraṃ bhavati //:
 
 	kāmānām avirāgas tu samayaḥ sumahānayam /
 	tathāgatakule śuddho nātikramyo jinair api // (2168)
-	
+
 atha vajrakulasamayasiddhitantraṃ bhavati //:
 
 	akrodhasyāpi sattvārthān mahākrodhapradarśanam /
 	mahāvajrakule tv eṣa samayo duratikramaḥ // (2169)
-	
+
 tatredaṃ padmakulasamayasiddhitantraṃ bhavati //:
 
 	svabhāvaśuddhajñānena kuryād yathābhirucitaḥ /
 	mahāpadmakule tv eṣa samayo duratikramaḥ // (2170)
-	
+
 tatredaṃ maṇikulasamayasiddhitantraṃ bhavati //:
 
 	alpatve vā bahutve vā yathābhirucitaṃ punaḥ /
 	avandhyo divaśaḥ kāryo dānena samayo hy ayam // iti (2171)
-	
+
 sarvakulasamayasiddhividhivistaratantram // // (2172)
 
 
@@ -7602,22 +7572,22 @@ tatredaṃ tathāgatakuladharmasiddhitantram //
 
 	rāgāc chuddhataro nāsti dharmaḥ sarvasukhapradaḥ /
 	tathāgatakule 'py eṣa dharmaḥ siddhikaraḥ paraḥ // (2175)
-	
+
 tatredaṃ vajrakuladharmasiddhitantram //:
 
 	buddhājñāc chodanārthād vā sattvatrāṇārthatas tathā /
 	akruddho 'pi hi saṃduṣṭān mārayañ chuddhim āpnute // (2176)
-	
+
 tatredaṃ padmakuladharmasiddhitantram //
 
 	aliptaṃ salilaiḥ padmaṃ tathā rāgo na duṣyati /
 	iti bruvann akāryāṇi kurvan pāpair na lipyate // (2177)
-	
+
 tatredaṃ maṇikuladharmasiddhitantram //
 
 	dānāt samo na dharmo 'sti pratipattyā bravīti hi /
 	mahāmaṇikuladharmaḥ, na cet siddhir yathopari // iti (2178)
-	
+
 sarvakuladharmasiddhividhivistaratantram // (2179)
 
 
@@ -7627,27 +7597,27 @@ tatredaṃ tathāgatakarmasiddhitantraṃ bhavati //:
 
 	buddhatvaṃ sarvasattvānāṃ bodhisattvatvam eva ca /
 	yathāvad vinayaṃś caiva karmamudrāgrasiddhidā // (2181)
-	
+
 tatredaṃ tathāgatakulakarmasiddhitantraṃ bhavati //:
 
 	caturvidhābhiḥ pūjābhiḥ sadāyogāc caturvidham /
 	catuḥkālaprayogeṇa kurvan karmāṇi sādhayet // (2182)
-	
+
 tatredaṃ vajrakulakarmasiddhitantram //
 
 	duṣṭasattvopaghātāya yad yat kāryaṃ karoti saḥ /
 	karmavajrakule 'py eṣa sarvasiddhipradāyakaḥ // (2183)
-	
+
 tatredaṃ padmakulakarmasiddhitantram //:
 
 	bhayātmanām abhayado yathāvad vinayaṃs tathā /
 	etat padmakulakarmabuddhasiddhipradāyakam // (2184)
-	
+
 atha maṇikulakarmasiddhitantram //
 
 	abhiṣekas tathā dānaṃ sarvāśāparipūrayaḥ /
 	buddhānāṃ dehināṃ caiva karma sarvārthasādhakam // iti (2185)
-	
+
 sarvakulakarmasiddhividhivistaratantram // // (2186)
 
 
@@ -7657,17 +7627,17 @@ tatredaṃ tathāgatadharmatājñānasiddhitantraṃ bhavati //:
 
 	vajrasattvasamādhis tu buddhānāṃ dharmatā smṛtā /
 	etad buddhasya buddhatvaṃ na buddho bhavate 'nyataḥ // (2188)
-	
+
 tatredaṃ tathāgatakuladharmatājñānasiddhitantram //
 
 	bhāvayaṃs tu mahāmudrāṃ sādhayet sarvasiddhayaḥ /
 	tathāgatakule 'py eṣa dharmatottamasiddhidā // (2189)
-	
+
 tatredaṃ vajrakuladharmatājñānasiddhitantram //:
 
 	baddhābhiḥ samayāgryābhiḥ sarvakarmāṇi sādhayet /
 	mahāmudrāprayogeṇa vajrasiddhim avāpnuyāt // (2190)
-	
+
 tatredaṃ padmakuladharmatājñānasiddhitantram //:
 
 	dharmamudrāprayogeṇa dharmamudrā pravartayet /
@@ -7687,36 +7657,36 @@ tatredaṃ tathāgatajñānasiddhitantraṃ bhavati //:
 
 	vajrasattvasamādhisthaś candravajraprayogataḥ /
 	yathāvarṇe tu tau vetti tathā lokaṃ tu vetti saḥ // (2195)
-	
+
 	śuddhe śuddham iti jñeyaṃ pāṇḍare tu prabhāsvaram /
 	rakte raktaṃ taraṃ kruddhaṃ yādṛgvarṇatadātmakam // (2196)
-	
+
 tatredaṃ tathāgatakulajñānasiddhitantram //
 
 	mahāmudrāṃ samādhāya candramaṇḍalasaprabhām /
 	svayaṃ kāyaṃ yathā vetti tathā vedyaṃ jaganmanaḥ // (2197)
-	
+
 tatredaṃ vajrakulajñānasiddhitantram //:
 
 	ākāśe vānyadeśe vā kruddhaḥ san maṇḍalāni tu /
 	yādṛśāni tu paśyed vai vijñeyaṃ tādṛśaṃ mahaḥ // (2198)
-	
+
 tatredaṃ padmakulajñānasiddhitantram //
 
 	sūkṣmam akṣarapaṅkutir vā paśyann ākāśabhūmiṣu /
 	yādṛgvarṇaṃ samāsena vetti cittaṃ sa tādṛśam // (2199)
-	
+
 tatredaṃ maṇikulajñānasiddhitantram //:
 
 	sarvalokaṃ nirīkṣan vai pratibhāso hi yādṛśaḥ /
 	paśyate tādṛśaṃ caiva jagaccittaṃ tu lakṣayet // iti (2200)
-	
+
 	etā eva samāpattyo gamanāgamanāni tu /
 	kurvantyaś ca bhramantyo vā yathā paśyet tathā gamaḥ // (2201)
-	
+
 	yasya yasya ca sattvasya samāpattya tu cintayet /
-	tasya tasya tathā caiva sarvacittāni budhyati // )2202)
-	
+	tasya tasya tathā caiva sarvacittāni budhyati // (2202)
+
 ity āha bhagavān vajragarbhaḥ // // (2203)
 
 sarvakulajñānasiddhividhivistaratantram // // (2204)
@@ -7728,30 +7698,30 @@ tatredaṃ tathāgatasiddhijñānatantram //:
 
 	sattvādhiṣṭhānayogena buddhabimbātmabhāvanā /
 	anena jñānayogena buddhasiddhim avāpnuyāt // (2206)
-	
+
 tatredaṃ tathāgatakulasiddhijñānatantram //:
 
 	ākāśe vānyadeśe vā śvetapītābhamaṇḍalān /
 	svamudrāsattvam ātmānaṃ sākṣād iva sa paśyati // (2207)
-	
+
 tatredaṃ vajrakulasiddhijñānatantram //:
 
 	tādṛśeṣv eva bimbeṣu madhye śyāmaṃ niyacchati /
 	siddhir vajrakulasyāgrā bhavec chīghraṃ yad icchati // (2208)
-	
+
 tatredaṃ padmakulasiddhijñānatantram //:
 
 	tāny evākāśanīlāni padmākārāṇi paśyati /
 	mahāpadmakule vidyāsiddhayaḥ saṃ bhavanti hi // (2209)
-	
+
 tatredaṃ maṇikulasiddhijñānatantram //:
 
 	ākāśe vānyadeśe vā ta evākāśanirmalāḥ /
 	sphuranto raśmimaṇḍāni paśyan siddhiṃ laghv āpnuyāt // iti (2210)
-	
+
 	vajrasattvādayaḥ sattvāś candramaṇḍalasaprabhāḥ /
 	prāg darśayanti cātmānaṃ siddhikāle svarūptataḥ // // (2211)
-	
+
 sarvakulasiddhijñānavistaratantram // // (2212)
 
 
@@ -7761,30 +7731,30 @@ tatredaṃ tathāgatābhijñāsiddhitantram //:
 
 	vajrasattvasamādhisthaḥ sarvakāye tathāgatān /
 	bhāvayan bodhisattvāṃś ca darśayet kāyatas tathā // (2214)
-	
+
 tatredaṃ tathāgatakulābhijñāsiddhitantram //
 
 	vajrasattvamahāmudrāṃ baddhvā tu susamāhitaḥ /
 	pañcābhijñām avāpnoti vidhinā tena sādhakaḥ // (2215)
-	
+
 tatredaṃ divyacakṣurjñānaṃ bhavati //:
 
 	mahāmudrāṃ samādhāya cakṣur vijñānam āvahet /
 	tena yac cintayet kiñcit sudūrād api paśyati // (2216)
-	
+
 ity āha bhagavān vajrasattvaḥ // (2217)
 
 	mahāmudrāṃ samādhāya śotravijñānam āvahet /
 	tena yac cintayet kāryaṃ sudūrasthaṃ śṛṇoti hi // (2218)
-	
+
 ity āha bhagavān vajradharaḥ // (2219)
 
 	mahāmudrāṃ samādhāya manovijñānam āvahet /
 	tena yaṃ sattvam udvīkṣec cittaṃ jānāti tasya saḥ // (2220)
-	
+
 	mahāmudrāṃ samādhāya ātmano vā parasya vā /
 	manasā paśyate rūpaṃ yato janma sa āvahet // (2221)
-	
+
 ity āha bhagavān vajrapāṇiḥ // (2222)
 
 
@@ -7792,7 +7762,7 @@ atha rddhividhijñānasiddhir bhavati // (2223)
 
 	mahāmudrāṃ samādhāya yāṃ yām ṛddhim abhīpsati /
 	yatra vā tatra vā tad vai saṃdarśayet samādhinā // (2224)
-	
+
 ity āha bhagavān mahābodhicittaḥ // (2225)
 
 
@@ -7800,17 +7770,17 @@ tatredaṃ vajrakulābhijñāsiddhitantram //:
 
 	trilokavijayāgrīṃ vai baddhvā tu susamāhitaḥ /
 	pañcābhijñām avāpnoti vidhinā tena sādhakaḥ // (2226)
-	
+
 	kurddhaḥ san sarvakāryāṇi yathāvad anupūrvaśaḥ /
 	divyacakṣvādiyogena sarvābhijñānatve kṣaṇāt // (2227)
- 
+
 ity āha bhagavān vajrasattvaḥ // (2228)
 
 tatredaṃ padmakulābhijñāsiddhitantram //:
 
 	jagadvinayamudrāgrīṃ saṃdhāya susamāhitaḥ /
 	pañcābhijñām avāpnoti vidhinā tena sādhakaḥ // (2229)
-	
+
 	rāgākulas tu vidhivad yathānukramatas tathā /
 	divyacakṣuvādiyogena sarvābhijño bhaviṣyati // (2230)
 
@@ -7820,7 +7790,7 @@ tatredaṃ maṇikulābhijñāsiddhitantram //:
 
 	sarvārthasiddhisanmudrāṃ baddhvā tu susamāhitaḥ /
 	pañcābhijñām avāpnoti vidhinā tena sādhakaḥ // (2232)
-	
+
 	buddhapūjāṃ prakurvan vai yathānukramatas tathā /
 	divyacakṣvādiyogena pañcābhijñāṃ sa paśyati // (2233)
 
@@ -7832,7 +7802,7 @@ sarvakulābhijñāsiddhijñānavidhivistaratantram // // (2235)
 atha bhagavān vajrapāṇir mahābodhisattvaḥ sarvatathāgatasatyasiddhitantram udājahāra //: (2236)
 
 tatredaṃ tathāgatasatyasiddhitantraṃ bhavati //:
-	
+
 	satyānuparivrtinyā vācā tu śapathakriyā /
 	pālayaṃs tu mahāsatyaṃ laghu buddhatvam āpnuyāt // (2237)
 
@@ -7850,7 +7820,7 @@ tatredaṃ vajrakulasatyasiddhitantram //:
 
 	vajradhāryām u śapathāṃ kṛtvā tu duratikramām /
 	pālayet satyam etad dhi yadīcchet siddhim uttamām // (2241)
-	
+
 ity āha bhagavān vajradharaḥ // (2242)
 
 tatnredaṃ padmakulasatyasiddhitantram //:
@@ -7859,12 +7829,12 @@ tatnredaṃ padmakulasatyasiddhitantram //:
 	pālayet satyasamayaṃ yadīcchet siddhim uttamām // (2243)
 
 it āha bhagavān vajradharmaḥ // (2244)
-	
+
 tatredaṃ maṇikulasatyasiddhitantram //:
 
 	buddhapūjāsu śapathāṃ kṛtvā tu duratikramām /
 	pālayed uttamaṃ satyam abhiṣekaṃ sa lapsyati // (2245)
-	
+
 ity āha bhagavān buddhapūjā //
 
 sarvakulaśapathasiddhitantram // // (2247)
@@ -7876,7 +7846,7 @@ tatredaṃ tathāgatasamayatattvasiddhitantraṃ bhavati //:
 
 	samayas tvam iti prokte sarvamudrākuleṣv api /
 	svayaṃ baddhvā dṛḍhaṃ yānti tataḥ paścād asādhitāḥ // (2249)
-	
+
 ity āha bhagavān mahāsamayatattvaḥ // (2250)
 
 tatredaṃ tathāgatasamayatattvasiddhitantram //:
@@ -7890,17 +7860,17 @@ tatredaṃ vajrakulasamayatattvasiddhitantram //:
 
 	ekahūṃkāramātreṇa sarvamudrāḥ samāsataḥ /
 	svayaṃ bandhed bandayed vāpi svayaṃ vāpi parasya vā // iti (2253)
-	
+
 tatredaṃ padmakulasamayatattvasiddhitantram //:
 
 	sarvaśuddha iti prokte svato vāpi parasya vā /
 	strīsaṅgādyās tu saṃyogā na mokṣaṃ yānti sarvaśaḥ // iti (2254)
-	
-tatredaṃ maṇikulasamayatattvasiddhitantram //: 
+
+tatredaṃ maṇikulasamayatattvasiddhitantram //:
 
 	oṃkāreṇaiva sidhyante sarvamudrā samāsataḥ /
 	sarvalokeṣu caivāgryāḥ pūjāś caiva svayaṃbhuvām // iti (2255)
-	
+
 sarvakulasamayatattvasiddhimudrāvidhivistaratantram // // (2256)
 
 
@@ -7910,27 +7880,27 @@ tatredaṃ tathāgatasiddhitantraṃ bhavati //:
 
 	buddhamudrāṃ tu saṃdhāya tathāgatam anusmaran /
 	sādhayan sidhyate śīghraṃ buddhabodhir api sthirā // (2258)
-	
+
 tatredaṃ tathāgatakulasiddhitantram //:
 
 	vajrasattvamahāmudrāṃ baddhvā tu paribhāvayan /
 	purato vajrasattvaṃ ca siddhiḥ śīghratarā bhavet // (2259)
-	
+
 tatredaṃ vajrakulasiddhitatnram //:
 
 	baddhvā tu samayāgrīṃ vai vajrasattvasamādhinā /
 	bhāvayan vajrasattvaṃ ca siddhis tu dviguṇā bhavet // (2260)
-	
+
 tatredaṃ padmakulasiddhitantram //:
 
 	baddhvā dharmamayīṃ mudrāṃ lokeśvarasamādhinā /
 	bhāvayaṃl lokanāthaṃ ca siddhis tu dviguṇā bhavet // (2261)
-	
+
 tatredaṃ maṇikulasiddhitantram //:
 
 	karmamudrāṃ samādhāya vajragarbhasamādhinā /
 	bhāvayan vajragarbhaṃ ca siddhis tu dviguṇā bhavet // (2262)
-	
+
 sarvakulasiddhividhivistaratantram // // (2263)
 
 
@@ -7947,21 +7917,21 @@ tatredaṃ tathagatakulasarvasiddhisādhanatantram //:
 
 	sādhayet sarvamudrās tu kāmo 'ham iti bhāvayan /
 	vajrajāpaprayogeṇa sarvasiddhyagrasādhanam // (2267)
-	
+
 ity āha bhagavān vajrasattvaḥ // (2268)
 
 tatredaṃ vajrakulasarvasiddhisādhanatantram //:
 
 	vajrabimbaṃ svam ātmānaṃ bhāvayan susamāhitaḥ /
 	badhnīyāt sarvamudrās tu siddhiṃ yānti hi tatkṣaṇāt // (2279)
-	
+
 ity āha bhagavān sarvatathāgatavajraḥ // (2270)
 
 tatredaṃ padmakulasiddhisādhanatantram //:
 
 	padmabimbaṃ svam ātmānaṃ bhāvayan svayam ātmanā /
 	sarvajñānamayī siddhir mahāpadmakule psyate(?) // (2271)
-	
+
 ity āha bhagavān avalokiteśvaraḥ // (2272)
 
 tatredaṃ maṇikulasarvasiddhisādhanatantram //:
@@ -7987,19 +7957,19 @@ tatredaṃ tathāgatakulādhiṣṭhānasiddhitantraṃ bhavati //:
 
 	sattvavajrīṃ dṛḍhikṛtya vajrasattvsamādhinā /
 	hṛdy ūrṇāyāṃ tathā kaṇṭhe mūrdhni sthāpyādhiṣṭhyate // (2279)
-	
+
 tatredaṃ vajrakulādhiṣṭhānasiddhitantram //
 
 	vajrahūṃkāramudrāṃ vai baddhvā tu susamāhitaḥ /
 	hṛdy ūrṇākaṇṭhamūrdhasthā samādhiṣṭhāti tatkṣaṇāt // (2280)
-	
+
 ity āha bhagavān vajranāthaḥ // (2281)
 
 tatresaṃ padmakulādhiṣṭhānasiddhitantram //:
 
 	vajrapadmāṃ dṛḍhīkṛtya lokeśvarasamādhinā /
-	hṛdy urrṇākaṇṭha mūrdhasthā svāshiṣṭhānāya kalpate // (2282)
-	
+	hṛdy urṇākaṇṭha mūrdhasthā svāshiṣṭhānāya kalpate // (2282)
+
 ity āha bhagavān avalokiteśvaraḥ // (2283)
 
 tatredaṃ maṇikulādhiṣṭhānasiddhitantram //:
@@ -8025,12 +7995,12 @@ tatredaṃ tathāgatakulābhiṣekasiddhitantram //:
 
 	vajradhātvīśvaryādyābhir buddhamudrābhir agrataḥ /
 	samārabhya catuḥpārśve mālayā tv abhiṣicyati // iti (2290)
-	
+
 tatredaṃ vajrakulābhiṣekasiddhitantram //:
 
 	vajrābhiṣekamālāṃ tu saṃdhāyaca lalāṭagām /
 	tayā mālābhiṣekeṇa vajiriṇā so 'bhiṣicyati // iti (2291)
-	
+
 tatredaṃ padmakulābhiṣekasiddhitantram //: (2292)
 
 	dharmavajrīṃ samādhāya puraḥ śīrṣe pratiṣṭhitām /
@@ -8082,7 +8052,7 @@ tatredaṃ maṇikulasamādhisiddhitantram //
 
 	sarvākāśasamādhiṃ tu bhāvayan susamāhitaḥ /
 	hṛnmudrāmantravidyās tu samādhayaṃs tu sarvago bhavet // (2308)
-	
+
 ity āha ākāśagarbhaḥ // (2309)
 
 sarvakulasamādhisiddhividhivistaratantram // // (2310)
@@ -8138,7 +8108,7 @@ tatredaṃ tathāgatābhijñājñānasiddhitantraṃ bhavati //:
 
 	kāye buddhasamādhis tu svabhijñā saugatī tv iyam /
 	tasyāḥ suprativedhatvād bauddhīṃ siddhim svāpnuyāt // iti (2325)
-	
+
 tatredaṃ tathāgatakulābhijñājñānasiddhitantram //:
 
 	divyacakṣvādayo 'bhijñā bhāvayan susamāhitaḥ /
@@ -8150,7 +8120,7 @@ tatredaṃ vajrakulābhijñājñānasiddhitantram //:
 
 	krodhābhijñāṃ samutpādya sādhayan susamāhitaḥ /
 	pañcābhijñaḥ svayaṃ bhūtvā parāṃ siddhim avāpnuyāt // iti (2328)
-	
+
 ity āha bhagavān vajradharaḥ // (2329)
 
 tatredaṃ padmakulābhijñājñānasiddhitantram //:
@@ -8176,7 +8146,7 @@ tatredaṃ tathāgatamahābodhijñānasiddhitatram //:
 
 	vajrasattvasamādhistho buddhānusmṛtimān svayam /
 	buddhabodhir iyaṃ jñānaṃ bhāvayan siddhim āpnuyāt // (2336)
-	
+
 ity āha bhagavān buddhaḥ // (2337)
 
 tatredaṃ tathāgatakulamahābodhijñānasiddhitantram //:
@@ -8204,7 +8174,7 @@ tatredaṃ maṇikulamahābodhijñānasiddhitantram //
 
 	vajragarbhasamādhisthaḥ karmamudrāsukarmakṛt /
 	mahābodhir iyaṃ jñānaṃ bhāvayan siddhim āpnuyāt // (2344)
-	
+
 ity āha bhagavān ākāśagarbhaḥ // (2345)
 
 sarvakulamahābodhijñānasiddhividhivistaratantram // // (2346)
@@ -8329,7 +8299,7 @@ ity āha bhagavān sarvāśāparipūrakaḥ // (2381)
 
 	kecid aprāptiyogena buddhānāṃ māraṇātmakāḥ /
 	teṣām uddharaṇārthāya laghu siddhipradā vayam // (2382)
-	
+
 ity āha bhagavān āryasamantabhadraḥ // (2383)
 
 sarvakulamāraṇasiddhividhivistaratantram // // (2384)
@@ -8348,7 +8318,7 @@ tatredaṃ tathāgatakularakṣāsiddhitantram //:
 
 	vajrasattve sakṛdvārāṃ nāmamātraparigrahaḥ /
 	iyaṃ rakṣā tu mahatī śāśvatī siddhidā kṣaṇāt // (2388)
-	
+
 ity āha bhagavān vajradharaḥ // (2389)
 
 tatredaṃ vajrakularakṣāsiddhitantram //:
@@ -8361,7 +8331,7 @@ ity āha bhagavān vajrahūṃkāraḥ // (2391)
 tatredaṃ padmakularakṣāsiddhitantram //:
 
 	rāgaśuddhir mahāmaitrī sattveṣv abhayadānatā /
-	lokeśvaranāmajāpaś ca rakṣeyaṃ paramāadbhūtā // (2392)
+	lokeśvaranāmajāpaś ca rakṣeyaṃ paramādbhūtā // (2392)
 
 ity āha bhagavān vajradharmaḥ // (2393)
 
@@ -8369,7 +8339,7 @@ tatredaṃ maṇikularakṣāsiddhitantram //:
 
 	avandhyo di.vaśaḥ kāryo yathāśaktyā prayogataḥ /
 	tyāgena buddhasattvābhyāṃ rakṣeyaṃ paramādbhūtā // (2394)
-	
+
 ity āha bhagavān vajrarakṣaḥ // (2395)
 
 sarvakularakṣāsiddhividhivistaratantram // // (2396)
@@ -8386,12 +8356,12 @@ iti // (2397)
 atha bhagavān vajrapāṇaye bodhisattvāya mahāsattvāya sādhukāram adāt //: (2398)
 
 	sādhu sādhuvajrapāṇe subhāṣitaṃ, parigṛhīto 'smābhir adhiṣṭhitaś ca // iti (2399)
-	
+
 atha sarvatathāgatāḥ punaḥ samājam āgamya, vajrapāṇaye mahābodhisattvāya sādhukārāṇy adadan /: (2400)
 
 	sādhu te vajradattvāya vajraratnāya sādhu te /
 	vajradharmāya te sādhu sādhute vajrakrmaṇe // (2401)
-	
+
 	subhāṣitam idaṃ sūtraṃ vajrayānam anuttaram /
 	sarvatāthāgataguhyaṃ mahāyābhisaṃgraham // iti // (2402)
 
@@ -8414,7 +8384,7 @@ tatredaṃ tathāgatakulottamasiddhiguhyatantram //:
 
 	sattvavajrāṃ hṛdi baddhvā bhāryā me tvam atipriyā /
 	dṛḍhībhava iti prokte sarvamudrās tu sādhayet // (2408)
-	
+
 	anena vidhiyogena asiddhiā'pi svakarmabhiḥ /
 	guhyabhāryam iti prokte sutarāṃ siddhim āpnuyāt // (2409)
 
@@ -8445,7 +8415,7 @@ sarvakulottamasiddhiguhyatantram // // (2417)
 
 atha vajrapāṇir mahābodhisattvaḥ sarvatathāgatasamayasiddhiguhyatantram udājahāra //: (2418)
 
-tatredaṃ tathāgatasamayasiddhiguhyatantram //: 
+tatredaṃ tathāgatasamayasiddhiguhyatantram //:
 
 	samayas tvam iti proktvā rāgayet sarvayoṣitaḥ /
 	mā virāgaya sattvārthaṃ bruvan buddhān sa rāgayet // (2419)
@@ -8489,21 +8459,21 @@ tatredaṃ tathāgatadharmasiddhiguhyatantram //:
 
 	svabhāvaśuddhiṃ dharmāṇāṃ bhāvayan susamāhitaḥ /
 	sarvakāryāṇi kurvan vai bauddhīṃ siddhim avāpnute // (2431)
-	
+
 ity āha bhagavān vajradhātuḥ // (2432)
 
 tatredaṃ tathāgatakuladharmasiddhiguhyatantram //:
 
 	sarvasattvānurāgaś ca viṣayeṣv avirāgitā /
-	rāgarāga.anśuddhis tu guhyadharmaḥ susiddhidaḥ // (2433)
-	
+	rāmārāgaṇaśuddhis tu guhyadharmaḥ susiddhidaḥ // (2433)
+
 ity āha bhagavān vajraguhyaḥ // (2434)
 
 tatredaṃ vajrakuladharmasiddhiguhyatantram //
 
 	nāsāhūṃkārayogena sarvaduṣṭāṃs tu mārayan /
 	sūkṣmavajrasamādhisthaḥ parāṃ siddhim avāpnuyāt // (2435)
-	
+
 ity āha bhagavān dharmahūṃkāraḥ // (2436)
 
 tatredaṃ padmakuladharmasiddhiguhyatantram //:
@@ -8529,14 +8499,14 @@ tatredaṃ tathāgatakarmasiddhitantram //:
 
 	vajrasattvasamādhistho buddhānusmṛtibhāvakaḥ /
 	strīkāryaṃ praviśan yonyā vaśīkuryāt tu yoṣitaḥ // (2443)
-	
+
 ity āha bhagavān vairocanaḥ // (2444)
 
 tatredaṃ tathāgatakulakarmasiddhiguhyatantram //:
 
 	vajrasattvasamādhistho bhagena praviśaṃs tathā /
 	striyāḥ kāye spharet samayaṅ niśceṣṭām api rāgayet // (2445)
-	
+
 ity āha bhagavān vajrarāgaḥ // (2446)
 
 tatredaṃ vajrakulakarmasiddhiguhyatantram //:
@@ -8556,7 +8526,7 @@ ity āha bhagavān vajrapadmaḥ // (2450)
 tatredaṃ maṇikulakarmasiddhiguhyatantram //:
 
 	karmavajramaṇiṃ baddhvā vajraratnasamādhinā /
-	bhagena praviśan strīṇām k.asṇād āviśya natrtati // (2451)
+	bhagena praviśan strīṇām kṣaṇād āviśya natrtati // (2451)
 
 ity āha bahgavān vajraratnaḥ // (2452)
 
@@ -8569,26 +8539,26 @@ tatredaṃ tathāgatacakraśuddhisiddhiguhyatantraṃ bhavati //:
 
 	dharmacakrasamākāraṃ kuryād vā guhyamaṇḍalam /
 	mudrābhāryāparivṛtaṃ tatra buddhaṃ ni.veśayet // (2455)
-	
+
 	praviṣṭvaiva hi tad guhyaṃ brūyād buddhasya tatkṣaṇāt /
 	bhāryā hy etās tava vibho dadasva mama sarvada // (2456)
-	
+
 	evaṃ brvaṃs tu sarveṣu kulamudrānayeṣu ca /
 	guhyasiddhim avāpnoti buddhānām asamatviṣām // (2457)
-	
+
 ity āha bhagavān buddhaḥ // (2458)
 
 tatredaṃ tathāgatakulasarvamaṇḍalasiddhiguhyatantram //:
 
 	vajradhātupratīkāśaṃ maṇḍalaṃ tu samālikhet /
 	tathāgatakulānāṃ tu sarveṣāṃ paramaṃ nayam // (2459)
-	
+
 	siddhikāmas tvaran brūyāt praviṣṭvā karmamaṇḍalam /
 	surate samayas tvaṃ hoḥ vajrasattvādya siddhyayām // (2460)
-	
+
 	idaṃ japaṃs tu hṛdayaṃ sādhayet sarvasiddhayaḥ /
 	tattvacodanayogena tuṣṭaḥ sann āśu sidhyati // (2461)
-	
+
 ity āha bhagavān vajrasattvaḥ // (2462)
 
 
@@ -8596,7 +8566,7 @@ tetredaṃ vajrakulasarvamaṇḍalaguhyasiddhitantram //:
 
 	trilokavijayākāraṃ sarvavajrakulasya hi /
 	sarvamaṇḍalayogaṃ tu saṃlikheta vicakṣaṇaḥ // (2463)
-	
+
 	taṃ praviṣṭvaiva śīghraṃ hi brūyāt siddhiṃ tu yācayan /
 	rāgāt tvam asi saṃbhūta evaṃ sarveṣu sidhyati // (2464)
 
@@ -8606,23 +8576,23 @@ tatredaṃ padmakulamaṇḍalaguhyasiddhitantram //:
 
 	jagadvinayayogena sarvapadmakuleṣu vai /
 	maṇḍalāni likhet prājñas taṃ praviṣṭvaiva vāg vadet // (2466)
-	
+
 	rāgadharmamahāpadma prasidhya laghu me vibho /
 	evam uktvā tu sarveṣu maṇḍaleṣu sa sidhyati // (2467)
 
 ity āha bhagvān avalokiteśvaraḥ // (2468)
 
-tatredaṃ maṇikulamaṇḍalaguhyasiddhitantram //: 
+tatredaṃ maṇikulamaṇḍalaguhyasiddhitantram //:
 
 	sarvārthasiddhiyogena maṇḍalāni samālikhet /
 	mahāmaṇiklānāṃ tu taṃ pratiṣṭvaiva vāg vadet // (2469)
-	
+
 	sarvābhiprāyasiddhīnāṃ rāgāśāsiddhir uttamā /
 	sidhya sidhya mahāsattva bhagavan sarvasiddhaye // (2470)
-	
+
 	evaṃ brvaṃs tu sarveṣu maṇḍaleṣu praveṣataḥ /
 	mahāsiddhim avāpnoti pūjāguhya anuttaram // (2471)
-	
+
 	tataḥ prabhoṛti siddhātmā sādhayan siddhayaḥ sadā /
 	yadā na laghu siddhiḥ syāt sidhyate tattvacodanaiḥ // (2472)
 
@@ -8645,10 +8615,10 @@ tatredaṃ tathāgatakulamahāmudrāguhyasiddhitantram //:
 
 	mahāmudrāṃ tu vai baddhvā yathāvad anupūrvaśaḥ /
 	idaṃ tattvaṃ rahasyaṃ ca vajravācā vaden nayam // (2478)
-	
+
 	vajrasattvaḥ svayam ahaṃ tvaṃ me bhāryā hṛdi sthitā /
 	sarvaṃ kāyaṃ pariṣvajya vajragarve samutkṣipa // (2479)
-	
+
 	vajragarvā mahādevī tattvacodānurāgitā /
 	sarvakāye dṛḍhībhūtvā yathāvat sidhyate laghuḥ // (2480)
 
@@ -8697,7 +8667,7 @@ ity āhur bhagavantaḥ sarvatathāgatāḥ // (2493)
 	idaṃ tat sarvabuddhānāṃ rahasyaṃ paramādbhutam /
 	vijñāya śraddadhac chrāddho duḥsādhyo 'pi hi sidhyati // (2495)
 
-tatredaṃ vajrakulasamayaguhyasiddhitantram // 
+tatredaṃ vajrakulasamayaguhyasiddhitantram //
 
 	rāgaśuddhyai viraktānāṃ tīrthyadṛṣṭikṛtātmanām /
 	māraṇaṃ samayaṃ tv agram idaṃ vijñāya sidhyati // (2496)
@@ -8715,7 +8685,7 @@ tatredaṃ maṇikulasamayaguhyasiddhitantram //
 
 	strīprasaṅgāt tu ratnānāṃ saṃcayaḥ kriyate yadā /
 	striyo hy anuttaraṃ ratnam iti cintya sa sidhyati // (2500)
- 
+
 ity āha bhagavān ājñākaraḥ // (2501)
 
 sarvakulasamayaguhyasiddhividhivisataratantram // // (2502)
@@ -8774,10 +8744,10 @@ tatredaṃ tathāgatakulaguhyapūjāsiddhitantram //:
 
 	vajralāsyāṃ samādhāya vajramālāṃ tu bandhayet /
 	vajragītāṃ tato baddhvā pūjayed vajranṛtyayā // (2518)
-	
+
 	kāmaratyābhiṣekagryā nṛtyagītasukhāt sukham /
 	nānyad asti hi teneyaṃ guhyapūjā niruttarā // (2519)
-	
+
 tatredaṃ vajrakulaguhyapūjāsiddhitantram // :
 
 	yathāvad vidhiyogena pūjayan guhyapūjayā /
@@ -8808,20 +8778,20 @@ tatredaṃ tathāgatatattvotpattisiddhiguhyatantram //:
 
 	samādhijñānasaṃbhūtaṃ buddhatvaṃ hi samāsataḥ /
 	sattvarāgaṇayogena śīghram āpnoty anuttaram // (2528)
-	
+
 ity āha bhagavāṃs tathāgataḥ // (2529)
 
 tatredaṃ tathāgatakulamahātattvodghāṭanasiddhiguhyatantram //
 
 	anādinidhanaḥ sattva ākāśotpattilakṣaṇaḥ /
 	samantabhadraḥ sarvātmā kāmaḥ sarvajagatpatiḥ // (2530)
-	
+
 	yac cittaṃ sarvasattvānāṃ dṛḍhatvāt sattva ucyate /
 	samādhānād vajrasamo niścayair yāti vajratām // (2531)
-	
+
 	sattvādhiṣṭhānayogena vajrasattvaḥ punar bhavet /
 	sa eva bhagavān sattvo vajrakāmas tathāgataḥ // (2532)
-	
+
 	svacittaprativedhādibuddhabodhir yathāvidhiḥ /
 	sa eva bhagavān sarvatathāgatakulaṃ bhavet // (2533)
 
@@ -8848,19 +8818,19 @@ tatredaṃ tathāgatakulacihnābhidhānasiddhiguhyatantram //:
 
 	vajraṃ suprativedhatvād aṅkuśaṃ grahamocakaḥ /
 	sūkṣmavedhitayā vāṇaṃ sādhakakāras tu tuṣṭitaḥ // (2541)
-	
+
 	ratnas tu racanād uktaḥ sūryas tejovidhānataḥ /
 	ketuḥ samucchrayaḥ proktaḥ smito hāsas tu kīrtitaḥ // (2542)
-	
+
 	rāgaśuddhitayā padmaṃ kośaḥ kleśāricchedanāt /
 	cakro maṇḍalayogāt tu vāglāpāj japa ucyate // (2543)
-	
+
 	sarvavajraṃ tu viśvatvād varmadurbhedyayogataḥ /
 	daṃṣṭrā bhīṣaṇayogāt tu bandho mudrāprayogataḥ // (2544)
-	
+
 	yathā hi bhagavān śaśvan vajrasattvas tu sarvagaḥ /
 	tathā vajraṃ tu cihnādi bhāvayann iti sidhyati // (2545)
-	
+
 ity āha bhagavān sarvatathāgatacihnaḥ // (2546)
 
 sarvakulacihnābhidhānasiddhiguhyatantram // // (2547)
@@ -8889,7 +8859,7 @@ tatredaṃ vajrakulamudrābandhotpattisiddhiguhyatantram //:
 
 	yathā hi samayais tīvraiḥ kaś cid bandho bhavej janaḥ /
 	anatikramaṇīyais tu tathā sarvatathāgatāḥ // (2554)
-	
+
 	baddhā hi vajrabandhāgryamudrāsamayabandhanaiḥ /
 	nātikramanty ā maraṇād iti vijñāya sidhyati // (2555)
 
@@ -8899,8 +8869,8 @@ tatredaṃ dharmakulamudrābandhotpattisiddhiguhyatantram // :
 
 	anatikramaṇīyā hi vajravāksarvaśo jinaiḥ /
 	ayaṃ bandha iti jñātvā dharmam asya prasidhyati // (2557)
-	
-ity āaha bhagavān vajradharmaḥ // (2558)
+
+ity āha bhagavān vajradharmaḥ // (2558)
 
 tatredaṃ karmakulamudrābandhotpattisiddhiguhyatantram //
 
@@ -8920,10 +8890,10 @@ atha sarvatathāgatāḥ punaḥ samājam āgamya, vajrapāṇaye sarvatathāgat
 
 	sādhu te vajrasattvāya vajraratnāya sādhu te /
 	vajradharmāya te sādhu sādhute vajrakarmaṇe // (2564)
-	
+
 	subhāṣitam idaṃ sūtraṃ vajrayānam anuttaram /
 	sarvatathāgataṃ guhyaṃ mahāyānābhisaṃgraham // iti // (2565)
-	
+
 sarvatathāgatatattvasaṃgrahāt sarvakulakalpaguhyavidhivistaratantraṃ samāptam // // (2566)
 
 
@@ -8942,7 +8912,7 @@ tatredaṃ tathāgatakuladharmottamasiddhitantram //:
 
 	sarvasattvasamādhistho bhāvayan susamāhitaḥ /
 	rāgānusmṛtiyogena prāpnuyāt siddhim uttamām // (2571)
-	
+
 ity āha bhagavān sarvatathāgatasamādhiḥ // (2572)
 
 tatredaṃ vajrakuladharmottamasiddhitantram //:
@@ -8978,7 +8948,7 @@ tatredaṃ tathāgatadharmasamayasiddhitantram //:
 
 ity āha bhagavān buddhaḥ // (2582)
 
-tatredaṃ tathāgatakuladharmasamayasiddhitantram // 
+tatredaṃ tathāgatakuladharmasamayasiddhitantram //
 
 	vajrasattvasamādhiṃ tu bhāvayan sūkṣmavajrataḥ /
 	vajrasattvatvam āpnoti vajrasattvam udāharan // (2583)
@@ -9018,7 +8988,7 @@ tatredaṃ tathāgatasaddharmajñānasiddhitantram //
 
 	anena mudrāprayogeṇa bhāvayan prajñayā tataḥ /
 	sarvākṣaramayaṃ jñānaṃ sidhyate saugataṃ kṣaṇāt // (2594)
-	
+
 ity āha bhagavān āryamañjuśrīsarvatathāgataḥ // (2595)
 
 tatredaṃ tathāgatakulasaddharmajñānasiddhitantram //
@@ -9061,7 +9031,7 @@ tatredaṃ tathāgatasamādhikarmasiddhitantram //:
 ity āha bhagavān vajradhātuḥ (Tib) //
 ity āha bhagavān Buddhaḥ (Ch.) // (2607)
 
-tatredaṃ tathāgatakulasamādhikarmasiddhitantarm //:
+tatredaṃ tathāgatakulasamādhikarmasiddhitantram //:
 
 	vajrasattvasamādhīnām uttamaṃ karma bhūri ca /
 	sarvasattvakaraṃ viśvam iti bhāvena sidhyati // (2608)
@@ -9148,7 +9118,7 @@ tatredaṃ tathāgatakulacakṣurjñānasiddhitantram //:
 
 	yāvanto bhāvā vidyante sthāvarā jaṅgamās tathā /
 	teṣāṃ ca pratibimbāni paśyati khe pradhāvataḥ // (2633)
-	
+
 	āgacchan gacchato vāpi vajracakṣurviśuddhitām /
 	jānan vai pūjayā sddhim āpnoty anuttarām // (2634)
 
@@ -9158,7 +9128,7 @@ tatredaṃ vajrakulacakṣurjñānasiddhitantram //:
 
 	savyāpasavyavartinyaḥ khe tāḥ paśyati cakṣuṣā /
 	ākāśadhātavaḥ śīghraṃ bhramanto hy abhrasaṃnibhāḥ // (2636)
-	
+
 	tān dṛṣṭvā na hi bidhyeta mudrās tā vajrasaṃbhavāḥ /
 	tāsāṃ grahaṇato mudrāḥ sidhyante mudracakṣuṣaḥ // (2637)
 
@@ -9202,7 +9172,7 @@ tatredaṃ vajrakarmottamasiddhitantram //:
 
 	guhyapūjāṃ prakurvānaḥ krodho 'ham iti bhāvayan /
 	prāpnuyād uttamāṃ siddhiṃ trilokavijayottamām // (2649)
-	
+
 ((ity āha bhagavān vajrapāṇiḥ // )) (2650)
 
 
@@ -9225,11 +9195,11 @@ sarvakulakarmottamasiddhividhivistaratantram // // (2655)
 
 atha vajrapāṇir mahābodhisattvaḥ sarvatathāgatakarmasamayaguhyasiddhitantram udājahāra //: (2656)
 
-tatredaṃ tathāgatakarmasamayaguhyasiddhitantram //: 
+tatredaṃ tathāgatakarmasamayaguhyasiddhitantram //:
 
 	kāmādyāḥ sarvasaukhyā me sadaiva hṛdaye sthitāḥ /
 	aho sattvārthatā nāma virāgo yatra deśayate // (2657)
-	
+
 	ayaṃ hi karmasamayas tathāgatasamādhinā /
 	bhāvayan pūjayed buddhān uttamāṃ siddhim āpnuyāt // (2658)
 
@@ -9324,7 +9294,7 @@ tatredaṃ tathāgatakulakarmakāryasiddhitantram //
 
 ity āha bhagavān vajradharaḥ // (2685)
 
-tatredaṃ vajrakulakarmakāryadiddhitantram //: 
+tatredaṃ vajrakulakarmakāryadiddhitantram //:
 
 	kulaguhyamahāpūjāṃ kṛtvā krodhasamādhinā /
 	yat kiñcit cintayet prājñaḥ sa śīghraṃ siddhim eṣyati // (2686)
@@ -9378,7 +9348,7 @@ tatredaṃ padmakuladharmādhiṣṭhānayogatantram //
 
 ity āha bhagavān āryāvalokiteśvaraḥ // (2701)
 
-tatredaṃ maṇikulakarmādhiṣṭhānayogatantram // 
+tatredaṃ maṇikulakarmādhiṣṭhānayogatantram //
 
 	sarvabuddhābhiṣekāṇi pūjāsamayasiddhayaḥ /
 	bhagavān iti bhāvena sādhayed vajrakarmāṇi /
@@ -9394,10 +9364,10 @@ bhagavate sarvatathāgatacakravarine vajrapāṇaye mahābodhisattvāya sādhuk�
 
 	sādhu te vajrasattvāya vajraratnāya sādhu te /
 	vajradharmāya te sādhu sādhu te vajrakarmaṇe // (2706)
-	
+
 	subhāṣitam idaṃ sūtraṃ vajrayānam anuttaram /
 	sarvatāthāgataṃ guhyaṃ mahāyānābhisaṃgraham // iti (2707)
-	
+
 sarvatathāgatatattvasaṃgrahāt sarvakalpaguhyottamatantravidhivistaraḥ parisamāptaḥ // (2708)
 
 
@@ -9407,7 +9377,7 @@ atha vajrapāṇir mahābodhisatt imāṃ gāthām abhāṣat //:
 
 	durdṛṣṭāṃ viraktānām idaṃ guhyaṃ na yugyate /
 	sarvasattvahitārthāya vakṣyāmi vidhayas tathā // iti (2711)
-	
+
 atha vajrapāṇir mahābodhisattvaḥ punar api sarvatathāgatpacāravidhivistaram abhāṣat //: (2712)
 
 tatrāyaṃ tathāgatakulopacāravidhivistaraḥ //: (2713)
@@ -9422,16 +9392,16 @@ caturmudrāpraṇāmayogena praṇamann ātmaniryātanapūjā kāryānena mantra
 
 	oṃ sarvatathāgatapūjopasthānāyātmānaṃ niryātayāmi,
 	sarvatathāgatavajrasattvādhiṣṭhasva mām // (2716)
-	
+
 	oṃ sarvatathāgatapūjābhiṣekāyātmānaṃ niryātayāmi,
 	sarvatathāgatavajraratnābhiṣiñca mām // (2717)
-	
-	oṃ sarvatathāgatapūjāpravartanāyātmānaṃ niryātayāmi.
+
+	oṃ sarvatathāgatapūjāpravartanāyātmānaṃ niryātayāmi,
 	sarvatathāgatavajradharma pravartaya mām // (2718)
-	
-	oṃ sarvatahāgatapūjākarmaṇa ātmānaṃ niryātayāmi.
+
+	oṃ sarvatahāgatapūjākarmaṇa ātmānaṃ niryātayāmi,
 	sarvatathāgatavajrakarma kuru māṃ // (2719)
-	
+
 tato 'viraktaḥ sarvakāmaguṇeṣu sarvāhāraḥ sarvakāmopabhogī hṛdayārthataḥ svam ātmānaṃ buddhabimbaṃ purato vāṅmātreṇāpi bhāvayan yathākāmakaraṇīyatayāṣṭaśataṃ vajravācā jāpann āśu prasidhyati. (2720)
 
 ity āha bhagavān vajrasattvaḥ // (2721)
@@ -9543,7 +9513,6 @@ tataḥ prabhāte maheśvarādayo devādhipatayaḥ sagaṇaparivārāḥ pura�
 tato vidyādhareṇaivaṃ vaktavyam (2761)
 
 	yadāhaṃ brūyām ``āgacchatedaṃ kuruta'', tadā bhavadbhir āgatya mamājñā kāryā // iti (2762)
-	
 
 tataḥ prabhṛti sakalatrilokādhipatir bhavati // (2763)
 
@@ -9673,7 +9642,7 @@ maṇikulopacāravidhivistaraḥ samāptaḥ // (2811)
 
 athāyaṃ sarvakulasādhāraṇasādhanopacāravidhivistaro bhavati //: (2812)
 
-tatrāadita eva sarvahṛdayopacāravidhivistaro bhavati // (2813)
+tatrādita eva sarvahṛdayopacāravidhivistaro bhavati // (2813)
 
 hṛdayamanīṣitāni sarvatathāgatānāṃ sidhyantām ity uccārya hṛdayaṃ yathābhirucito japya sādhanavidhiḥ kartavya iti // (2814)
 
@@ -9707,7 +9676,7 @@ tad yatha, arthaniṣpattisiddhiḥ, ṛddhisiddhiḥ, vidyādharatvam, mahāsid
 
 tatrārthasiddhiniṣpattir bhavati //
 yatra nidhiśaṅkā bhavet tatra mudrāṃ baddhvā svasamādhinā tan nidhisthānaṃ vajradṛṣṭyā nrīkṣayet /
-yadi vajrākāramūrtiścutaṃ paśyati tato jñātavyaṃ nidhir atrāastīti // (2825)
+yadi vajrākāramūrtiścutaṃ paśyati tato jñātavyaṃ nidhir atrāstīti // (2825)
 
 tato vajrasphoṭasamayamudrāṃ baddhvotkhanya yathākāmakaraṇīyatayā gṛhuṇīyāt / acirāc cāpnoti (2826)
 
@@ -9923,9 +9892,8 @@ tatredaṃ mantraprajñāsiddhitantram //
 
 	prajñā ghoṣānugā nāma samādhir vākprapañcataḥ /
 	tayā bhāvitayā śīghraṃ mantrasiddhim avāpnuyāt // (2885)
- 
-ity āha bhagavān vajrabuddhiḥ // (2886)
 
+ity āha bhagavān vajrabuddhiḥ // (2886)
 
 tatredaṃ vidyāprajñāsiddhitantram //
 
@@ -9935,7 +9903,6 @@ tatredaṃ vidyāprajñāsiddhitantram //
 ity āha bhagavān sarvatathāgataprajñājñānaḥ // (2888)
 
 sarvakalpaprajñājñānasiddhividhivistaratantram // (2889)
-
 
 atha sarvakalpasaṃbhārasiddhitantram anuvyākhyasyāmīty āha bhagavān vajrapāṇiḥ // (2890)
 
@@ -10032,7 +9999,7 @@ ity āha bhagavān vajradharaḥ // (2915)
 sarvakulakalpasaṃbhavajñānatantram // (2916)
 
 
-[atha sarvakalpahṛdayādisaṃbhavajñānatantram //] 
+[atha sarvakalpahṛdayādisaṃbhavajñānatantram //]
 
 atha sarvakalpahṛdayasaṃbhavajñānatantram //
 
@@ -10051,7 +10018,7 @@ atha sarvamudrāsaṃbhavajñānatantram //
 
 atha vidyāsaṃbhavajñānatantram // )) (2921)
 
-	avidyāvipraṇāśāayā vāgvidyāgraprasiddhaye /
+	avidyāvipraṇāśāyā vāgvidyāgraprasiddhaye /
 	vidyate vedanā siddhis tena vidyā prakīrtitā // (2922)
 
 ity āha bhagavān vajradharaḥ // (2923)
@@ -10066,7 +10033,7 @@ tatrādita e[va] hṛdayajñānotpattitantraṃ bhavati //
 	hṛdayaṃ jāpya vijñeyam ātmano vā parasya vā /
 	bhavyaṃ bhūtaṃ bhaviṣyaṃ ca yaḥ paśyati śṛṇoti ca // (2926)
 
-tatredaṃ mudrājñānotpattitantraṃ bhavati // 
+tatredaṃ mudrājñānotpattitantraṃ bhavati //
 
 	mudrām ekatarāṃ baddhvā yathāvad vidhim ātmanaḥ /
 	kṛtvā nirīkṣel lokaṃ tu sarvaṃ jñeyaṃ yathopari //
@@ -10142,7 +10109,7 @@ tatredaṃ padmakulaguhyavāṅmudrāsādhanatantram //
 
 ity āha bhagavān sarvatathāgatasamādhijñānagarbhaḥ // (2947)
 
-tatredaṃ maṇikulaguhyavāṅmudrāsādhanatantram // 
+tatredaṃ maṇikulaguhyavāṅmudrāsādhanatantram //
 
 	suparisphuṭayā vācā praṇāmaparamaḥ sadā /
 	jāpate vinayaiś cāpi sarvam āśu prasidhyati // (2948)
@@ -10171,7 +10138,7 @@ tatredaṃ padmakulaguhyacittamudrāsādhanatantram //
 
 ity ahā bhagavān padmarāgaḥ // (2956)
 
-tatredaṃ maṇikulaguhyacittamudrāsādhanatantram // 
+tatredaṃ maṇikulaguhyacittamudrāsādhanatantram //
 
 	kadā nu sarvasattvānāṃ sarvakāryārthasiddhaye /
 	ratnavarṣāṇi varṣayaṃ siddhaḥ sann āśu sidhyati // (2957)
@@ -10424,7 +10391,7 @@ iti // (3033)
 atha ta evam āhuḥ /
 
 	na vayaṃ bhagavan samarthā bodhiṃ [dātum /]
-	yadi vayaṃ samarthā bhavemas tadātmanaivābhisaṃbodhim abhisaṃbudhyemahi 
+	yadi vayaṃ samarthā bhavemas tadātmanaivābhisaṃbodhim abhisaṃbudhyemahi
 
 iti // (3034)
 
