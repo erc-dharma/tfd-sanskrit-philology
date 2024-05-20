@@ -125,6 +125,7 @@
             % ¦ represents half-daṇḍa
             % issue of ś/s: the scribe could be interpreted to have two shapes of ś, one extremely similar to his s, the other quite distinct. Initially, we interpret all cases of the former as s; from f. 36r5 onwards, we are marking archaic-shaped ś as *ś.
             % On letters other than <y>, repha takes the usual superscript form. With y, it takes takes the special form of a sharp angle on the left median extension of the ya-kāra, without any explicit repha sign on top of it: this way of noting repha can easily be mistaken for simple omission of repha. Only rarely do we find a very explicit repha of this varitey noted: see rya at beginning of 23r3. 
+            # -ā can take the form of a full bar or a short bar
             %at the top of consonant clusters, the graphs for <t> and <d> seem to be identical in many cases.
             %upadhmānīya is extremely rare: we have found it only in 21v4
             %avagraha sign is very rare: we have noted them in 56r3, 60v3.
@@ -141,8 +142,9 @@
             
             <ab>
                 <!-- %RT&AG folio 21r, photo 02, bottom -->
+                <!-- photo SVU21recto.JPG -->
                 <pb n="21r"/>
-                <lb n="21r1"/>cintanīyaty ādiyogo nāma samādhiḥ <g type="ddandaStrokeLeft"/> <g type="cicleLarge"/> <g type="ddandaStrokeLeft"/> <g type="cicleLarge"/> <g type="ddandaStrokeLeft"/> tad anu | vajradhātvīśvaryādi caturṣu sthāneṣv ātmānam adhiṣṭhāya vodhyagrīm vadhvā hṛdgatāvajrasatvañ codayed vajra<g type="???">§</g><lb n="21r2"/>satveti |
+                <lb n="21r1"/>cintanīyaty ādiyogo nāma samādhiḥ <g type="ddandaStrokeLeft"/> <g type="cicleLarge"/> <g type="ddandaStrokeLeft"/> <g type="cicleLarge"/> <g type="ddandaStrokeLeft"/> tad anu | vajradhātvīśvaryādi caturṣu sthāneṣv ātmānam adhiṣṭhāya vodhyagrīm vadhvā hṛdgatāvajrasatvañ codayed vajra<g type="dandaGap">§</g><lb n="21r2"/>satveti |
                     <!-- %cintanīyaty: em. cintanīyety.
                     %The scribe makes no clear interruption for the string hole in line 1, where the elaborate punctuation sequence occupies precisely this space.
                     %vajradhātvīśvaryādi: MSK emends vajradhātvīśvaryā, with Tib.
@@ -152,8 +154,8 @@
                     %candramaṇḍalākārāṁ: candramaṇḍalākāraṁ MSK (sil. em.).
                     %evaṁ: MSK reads eva which it emends to evaṁ. -->
                     <!-- %RT&AG % folio 21v-22r, photo 03 top -->
-                    tatas tebhyaḥ jñānarasmayo viniḥsṛtya svahṛdgatavajre praviśya | <lb n="21r4"/> tena sahaikībhūyaḥ sarvatathāgatādhiṣṭhānena§  <space type="binding-hole"/> mahān sarvākāśasamavasaraṇapramāṇapañcasūcikavajravigraho bhūtvā |
-                    punaḫ pūrvvahṛdgatavajrapramāṇam e<lb n="21r5"/>va bhūtvā tasmā viniḥsṛtya svahastasthitaṁ cinta <space type="binding-hole"/>yet tasmāc caḥ punaḥ vajrākārarasmayo nekavarṇṇānekasaṁsthānā viniḥsṛtya sarvākāśadhātuṁ vyāpya tebhyaḥ <lb n="21r6"/> puna vajrasatvādirūpeṇa sarvasatvadhātuṁ yāva <space type="binding-hole"/>t sarvatathāgatasamatājñānābhisamvoddhyādau niyojya | punaḥ saṁhārayogenaikasatv<del rend="strikeout">ā</del>akāyo bhūtvā svahṛdgata§<lb n="21v1"/>vajr<supplied reason="lost">e</supplied> praviśya | tatrāvasthitetodānam udāyaṁtāṁ  <space type="binding-hole"/> cintayet· |
+                    tatas tebhyaḥ jñānarasmayo viniḥsṛtya svahṛdgatavajre praviśya | <lb n="21r4"/>tena sahaikībhūyaḥ sarvatathāgatādhiṣṭhānena<g type="dandaGap">§</g> <space type="binding-hole"/> mahān sarvākāśasamavasaraṇapramāṇapañcasūcikavajravigraho bhūtvā |
+                    punaḫ pūrvvahṛdgatavajrapramāṇam e<lb n="21r5"/>va bhūtvā tasmā viniḥsṛtya svahastasthitaṁ cinta <space type="binding-hole"/>yet tasmāc caḥ punaḥ vajrākārarasmayo nekavarṇṇānekasaṁsthānā viniḥsṛtya sarvākāśadhātuṁ vyāpya tebhyaḥ <lb n="21r6"/> puna vajrasatvādirūpeṇa sarvasatvadhātuṁ yāva <space type="binding-hole"/>t sarvatathāgatasamatājñānābhisamvoddhyādau niyojya | punaḥ saṁhārayogenaikasatv<del rend="strikeout">ā</del>akāyo bhūtvā svahṛdgata<g type="dandaGap">§</g><lb n="21v1"/>vajr<supplied reason="lost">e</supplied> praviśya | tatrāvasthitetodānam udāyaṁtāṁ  <space type="binding-hole"/> cintayet· |
                         <!-- %jñānarasmayo: em. jñānaraśmayo, with MSK (sil. em.).
                         %sahaikībhūyaḥ: thus MSK; em. sahaikībhūya.
                         %punaḫ pūrvvahṛdgata-: punaḥ pūrvahṛdgata- MSK (sil. em.); em. punaḥ pūrvavad dhṛdgata-?
@@ -216,15 +218,15 @@ Ahaṁ ma<lb n="21v5"/>ma kare dattaṁ vajre vajraṁ pratiṣṭhitaṁ | Iti 
 	<!-- %STTS has variants here.
 	%chodhayati: chodayati MSK (misprint).
 	%suddhānāṁ: em. śuddhānāṁ, with MSK (sil. em.). -->
-    Idan tat sarvavuddhānāṁ Ajñānadhvantanāśanam· || paramāṇu§<lb n="22r6"/>rajaḥsaṁkhyāsūryādhikataprabham· // 10 //
+    Idan tat sarvavuddhānāṁ Ajñānadhvantanāśanam· || paramāṇu<g type="dandaGap">§</g><lb n="22r6"/>rajaḥsaṁkhyāsūryādhikataprabham· // 10 //
 	<!-- %-dhvanta-: em. -dhvānta-, with MSK (sil. em.).
 	%-dhikataprabham: em. -dhikataraprabham, with MSK. -->
-    Aho hy isa§<space type="binding-hole"/>dṛ*śaḥ ketuḥ Ahaṁ sarvārthasiddhinām· | yat sarvāśāprapūṇṇānāṁ sarvārthaparipūrṇṇṇām iti ||
+    Aho hy isa<g type="dandaGap">§</g><space type="binding-hole"/>dṛ*śaḥ ketuḥ Ahaṁ sarvārthasiddhinām· | yat sarvāśāprapūṇṇānāṁ sarvārthaparipūrṇṇṇām iti ||
 	<!--
-     %hy isa§<space type="binding-hole"/>dṛ*śaḥ: em. hy asadṛśaḥ, with MSK.
+     %hy isa<g type="dandaGap">§</g><space type="binding-hole"/>dṛ*śaḥ: em. hy asadṛśaḥ, with MSK.
 	 %-prapūṇṇānāṁ: em. -prapūrṇānāṁ, with MSK (sil. em.). STTS §77 reads -paripūrṇānāṁ.
 	 % -paripūrṇṇṇām: em. -paripūraṇam, with MSK (sil. em.). STTS reads -pratipūraṇam. -->
-     Idan tat sarvavuddhānāṁ §<pb n="22v"/><lb n="22v1"/> sarvāśāparipūraṇam· | cintāmaṇidhvajaṁ nāma dā <space type="binding-hole"/>napāramitānayam· |
+     Idan tat sarvavuddhānāṁ <g type="dandaGap">§</g><pb n="22v"/><lb n="22v1"/> sarvāśāparipūraṇam· | cintāmaṇidhvajaṁ nāma dā <space type="binding-hole"/>napāramitānayam· |
      Aho hi mahāhāsam ahaṁ sarvāgryāṇāṁ mahādbhutam· | yat prayujyanti vuddhārthe sadaiva susamāhitāḥ | 
      <!-- %Aho hi mahāhāsam: em. Aho mahāhāsam, with MSK and STTS.
      %susamāhitāḥ: susamāhitaḥ MSK. -->
@@ -344,7 +346,7 @@ yat sarvāśāpratasiddhyarthaṁ muktānām api vandhanam· |
 %MSK    idaṁ tat sarvabuddhānāṁ mudrābandhaṁ mahādṛḍham / sarvabuddhāśuddhyarthaṁ samayo duratikramaḥ // 30 // iti //
 
 %RT&AG
-Idan ta§<lb n="23r5"/>t <unclear>sa</unclear>rvavuddhānāṁ mudrāvandhaṁ mahādṛḍhaṁ | sarvvavuddhāstusiddhya <space type="binding-hole"/>rthaṁ samayo duratikrama Iti |
+Idan ta<g type="dandaGap">§</g><lb n="23r5"/>t <unclear>sa</unclear>rvavuddhānāṁ mudrāvandhaṁ mahādṛḍhaṁ | sarvvavuddhāstusiddhya <space type="binding-hole"/>rthaṁ samayo duratikrama Iti |
 	%STTS's pāda c reads: yat sarvabuddhās tu siddhyarthaṁ.
 	%-vuddhāstusiddhyarthaṁ: MSK emends -buddhāśusiddhyarthaṁ. We propose -buddhājñāsiddhyarthaṁ.
 
@@ -398,7 +400,7 @@ punaḥ vairocanāhaṅkāreṇa lāsyādicatuṣṭhayam· | Uddānayāmāsām�
 %MSK aho na sadṛśī me 'sti pūjā hy anyā svayaṁbhuvām / yat kāmaratipūjābhiḥ sarvapūjā pravartate // 1 //
 
 %RT&AG
-Aho na ṣadṛsī me sti pūjā hy a§<lb n="23v4"/>t<unclear>ya</unclear>ḥ svayaṁbhuvām· | yat kāmaratipūjābhiḥ  <space type="binding-hole"/> sarvapūjā pravarttate |
+Aho na ṣadṛsī me sti pūjā hy a<g type="dandaGap">§</g><lb n="23v4"/>t<unclear>ya</unclear>ḥ svayaṁbhuvām· | yat kāmaratipūjābhiḥ  <space type="binding-hole"/> sarvapūjā pravarttate |
 	%ṣadṛsī: em. sadṛśī, with MSK (sil. em.).
 	%at<unclear>ya</unclear>ḥ: em. anyā, with MSK (sil. em.).
 	
@@ -420,7 +422,7 @@ Aho hi saṅgītimayī pūjāhaṁ sarvadarsinam·   <space type="binding-hole"/
 %MSK aho hy udārapūjāhaṁ sarvapūjārthakāriṇām / yad vajranṛtyavidhinā buddhapūjā prakalpyate // 4 // iti //
 
 %RT&AG
-Aho hy udārapūjāhaṁ sarvapūjārthakāriṇāṁ | yad vajranṛ§<lb n="23v6"/>tyavidhinā vuddhapūjāḥ prakalpyateti ||
+Aho hy udārapūjāhaṁ sarvapūjārthakāriṇāṁ | yad vajranṛ<g type="dandaGap">§</g><lb n="23v6"/>tyavidhinā vuddhapūjāḥ prakalpyateti ||
 	%vuddhapūjāḥ: em. buddhapūjā, with STTS.
 	%prakalpyateti: em. prakalpyata iti; MSK as usual separates the iti and edits prakalpyate || iti.
 
@@ -492,7 +494,7 @@ Aho hi sarvavuddhānāṁ vajrasphoṭam ahaṁ dṛḍhaṁ | yat sa<lb n="24r5
 %MSK aho hi sarvabuddhānāṁ vajrāveśam ahaṁ dṛḍhaḥ / yat sarvapatayo bhūtvā ceṭā api bhavanti hi // 4 // iti // iyatā maṇḍalarājāgrī nāma samādhiḥ // //
 
 %RT&AG
-A <space type="binding-hole"/>ho hi sarvavuddhānāṁ vajrāveśam ahaṁ dṛḍhaṁ | yat sarvāpatayo bhūtvā ceṭā Api bhavanti hīti || Iyatā maṇḍalarā§<lb n="24r6"/>jāgrī nāma samādhiḥ || <g type="flower"/> ||
+A <space type="binding-hole"/>ho hi sarvavuddhānāṁ vajrāveśam ahaṁ dṛḍhaṁ | yat sarvāpatayo bhūtvā ceṭā Api bhavanti hīti || Iyatā maṇḍalarā<g type="dandaGap">§</g><lb n="24r6"/>jāgrī nāma samādhiḥ || <g type="flower"/> ||
 	%dṛḍhaṁ: em. dṛḍhaḥ, with MSK?
 	%sarvāpatayo: em. sarvapatayo, with MSK.
 
@@ -525,7 +527,7 @@ dānapāramitāniyojane / smitādbhutapratiṣṭhāpane / suviśuddhisamādhini
 daśapāramitācaryayā praveśane / anyayānapṛhācittasphoṭane / prakṛtiprabhāsvarānutpādāveśe / saddharmanagarapālane ca niyojayet // iti karmarājāgrī nāma samādhiḥ // //
 
 %RT&AG
-tataḥ śrīvajrasatvasthānastho yogī sarvatathāga<lb n="24v4"/>te<unclear>bhy</unclear>o mālābhikākādikam ādāya vajrāṅkuśā <space type="binding-hole"/>dir ākṛśya praveśya vadhvā vaśīkṛtya caturmudrāmudritāṁ vairocanādī kṛtvā sarvavuddhaikasaṁgrahai sarvakulāmudra§<lb n="24v5"/>ṇe vodhicittotpādane | sarvatathāgatāka§ <space type="binding-hole"/>rṣaṇe | Anurāgai | toṣaṇe | Abhiṣeke | prabhayāvabhāsane | dānapāramitāniyojane | smitādbhutaprati<lb n="24v6"/>ṣṭhāpaṇe | suviśuddhisamādhiniṣpādane | kle§ <space type="binding-hole"/>sopakleśacchedane | mahāmaṇḍalapraveśane | niṣprapañcadharmmatāniyojane | A*śeṣānava*śe<unclear>ṣa</unclear>pūjayā §<pb n="25r"><lb n="25r1"/> sarvatathāgatapūjane | Anyayānaspṛhāci§ <space type="binding-hole"/>ttā klesopakleśādibhayebhyaś cārakṣaṇe | sarvarakṣāparipālane | kāyavākcittaikīkaraṇavandhatathatāmuṣṭhyā <unclear>|</unclear> <lb n="25r2"/> sarvavuddhatvaniṣpādane | dāna|śīla|kṣānti|vīr <space type="binding-hole"/>ya|prajñādhyānapraṇidhi|Upāyaniṣpādane | vodhicittāṁku*śena mahāmokṣapure sarvasatvākarṣaṇe | daśapāra<lb n="25r3"/>mitācaryayā praveśane | Anyayāna@@s???@@pṛhāci <space type="binding-hole"/>ttasphoṭane | prakṛtiprabhāsvarānutpādāve*śe | saddharmmanagarapālane ca niyojayed iti || karmmarājāgrī nāma §<lb n="25r4"/> samādhiḥ || <g type="flower"/> ||
+tataḥ śrīvajrasatvasthānastho yogī sarvatathāga<lb n="24v4"/>te<unclear>bhy</unclear>o mālābhikākādikam ādāya vajrāṅkuśā <space type="binding-hole"/>dir ākṛśya praveśya vadhvā vaśīkṛtya caturmudrāmudritāṁ vairocanādī kṛtvā sarvavuddhaikasaṁgrahai sarvakulāmudra<g type="dandaGap">§</g><lb n="24v5"/>ṇe vodhicittotpādane | sarvatathāgatāka§ <space type="binding-hole"/>rṣaṇe | Anurāgai | toṣaṇe | Abhiṣeke | prabhayāvabhāsane | dānapāramitāniyojane | smitādbhutaprati<lb n="24v6"/>ṣṭhāpaṇe | suviśuddhisamādhiniṣpādane | kle§ <space type="binding-hole"/>sopakleśacchedane | mahāmaṇḍalapraveśane | niṣprapañcadharmmatāniyojane | A*śeṣānava*śe<unclear>ṣa</unclear>pūjayā <g type="dandaGap">§</g><pb n="25r"><lb n="25r1"/> sarvatathāgatapūjane | Anyayānaspṛhāci§ <space type="binding-hole"/>ttā klesopakleśādibhayebhyaś cārakṣaṇe | sarvarakṣāparipālane | kāyavākcittaikīkaraṇavandhatathatāmuṣṭhyā <unclear>|</unclear> <lb n="25r2"/> sarvavuddhatvaniṣpādane | dāna|śīla|kṣānti|vīr <space type="binding-hole"/>ya|prajñādhyānapraṇidhi|Upāyaniṣpādane | vodhicittāṁku*śena mahāmokṣapure sarvasatvākarṣaṇe | daśapāra<lb n="25r3"/>mitācaryayā praveśane | Anyayāna@@s???@@pṛhāci <space type="binding-hole"/>ttasphoṭane | prakṛtiprabhāsvarānutpādāve*śe | saddharmmanagarapālane ca niyojayed iti || karmmarājāgrī nāma <g type="dandaGap">§</g><lb n="25r4"/> samādhiḥ || <g type="flower"/> ||
 	%mālābhikākādikam: mālābhiṣekādikam, with MSK.
 	%vajrāṅkuśādir: em. vajrāṅkuśādibhir, with MSK (with wrong reading -śādīr in the footnote).
 	%ākṛśya: em. ākṛṣya, with MSK (sil. em.).
@@ -550,7 +552,7 @@ tataḥ śrīvajrasatvasthānastho yogī sarvatathāga<lb n="24v4"/>te<unclear>b
 % (15) tato yathāvad dvārodghāṭanaṁ kṛtvā śrīvajrasattvamahāmudrāṁ baddhvā / oṁ vajrasattva hūṁ // iti parijapya / bāhubhyāṁ vajrabandhe vajrācchaṭāvimokṣaṇaiḥ / śrīvajrasattvayogātmā sarvabuddhān samājayet // 1 // vāmācchaṭakatālena samyaktāleti siddhyati / dakṣiṇena tu tāloktā saṁnipātāv ubhāv api // 2 // iti samājamudrālakṣaṇam / oṁ vajrasamāja jaḥ hūṁ vaṁ hoḥ // iti samājamudrāhṛdayam /  asyājñāmātracakitāḥ saparṣaccakrasaṁcayāḥ / sarvabuddhāḥ samāyānti kā kathānyeṣu vartate // 3 // tataḥ śīghraṁ mahāmudrāṁ vajrasattvasya sevayan / uccārayet sakṛdvāraṁ nāmāṣṭ'śatam uttamam // 4 // vajrasattva mahāsattvātyādi /
 
 %RT&AG
-tato vajrayakṣaparija§ <space type="binding-hole"/>ptagandhodake sarvapūjāṅgāni prokṣya | vajrānalena mudreṇa parijapya |  vajrapuṣpa hū;ṁmiti | puṣpamudrayā puṣpā<lb n="25r5"/><unclear>ṇ</unclear>i | O;ṁ vajragandhe Iti gandhamudrayā gandhat· | O;ṁ va <space type="binding-hole"/>jradhūpe hū;ṁmiti | dhūpamudrayā dhūpaṁ | Akāro mukhaṁ sarvadharmmāṇām ādyanutpannatvād iti | khaḍgamudrayā valim· | va<lb n="25r6"/>jravandhena khaḍgātkarṣābhinayā khaḍgamudrā | hū;ṁ va§ <space type="binding-hole"/>jrāloke Iti dīpamudrayā dīpaṁ | Oṁ vajrasatva hū;ṁmiti | tilayavakuśalājāsita<unclear>s</unclear>ugandhikusumacandanoda§<pb n="25v"><lb n="25v1"</lb>kāni śaṅkhabhājanādau | prakṣipya sphuṭitavajrā§ <space type="binding-hole"/>ñjalilakṣaṇayārghamudrayā triḥ parijapya saptavāram· Ekaviśaṁtivāraṁ vā parijapya sthāpayet tato yathāva<lb n="25v2"/>d dvārodghaṭānaṁ kṛtvā śrīvajrasatvāmahāmudrām va <space type="binding-hole"/>dhvā | O;ṁ vajrasatva hū;ṁmiti parijapya | vāhubhyāṁ vajravandhe vajrācchaṭāvimokṣaṇaiḥ śrīvajrasattvayogātmā sarvavuddhāṁ <lb n="25v3"/> samājayet· | vāmācchaṭakatālena samyaktāle <space type="binding-hole"/>ti siddhyati | dakṣiṇena tu tāloktā sannipātāv ubhāv apīti | samājamudrālakṣaṇam· | O;ṁ vajrasamāja jjaḥ hū;ṁ va;ṁ <lb n="25v4"/> hoḥ Iti samājamudrāhṛdayat· |  Asyājñā§ <space type="binding-hole"/>mātracakitāḥ saparṣacakrasañcayāḥ sarvavuddhāḥ samāyānti | kā kathānyeṣu varttate | tataḥ śrīghraṁ mahāmudrāṁ vajra<lb n="25v5"/>satvasya sevayaṁ | Uccāraye sakṛdvāraṁ nāmāṣṭha§ <space type="binding-hole"/>gatam uttamam· | vajrasatva mahāsatvetyādi /
+tato vajrayakṣaparija§ <space type="binding-hole"/>ptagandhodake sarvapūjāṅgāni prokṣya | vajrānalena mudreṇa parijapya |  vajrapuṣpa hū;ṁmiti | puṣpamudrayā puṣpā<lb n="25r5"/><unclear>ṇ</unclear>i | O;ṁ vajragandhe Iti gandhamudrayā gandhat· | O;ṁ va <space type="binding-hole"/>jradhūpe hū;ṁmiti | dhūpamudrayā dhūpaṁ | Akāro mukhaṁ sarvadharmmāṇām ādyanutpannatvād iti | khaḍgamudrayā valim· | va<lb n="25r6"/>jravandhena khaḍgātkarṣābhinayā khaḍgamudrā | hū;ṁ va§ <space type="binding-hole"/>jrāloke Iti dīpamudrayā dīpaṁ | Oṁ vajrasatva hū;ṁmiti | tilayavakuśalājāsita<unclear>s</unclear>ugandhikusumacandanoda<g type="dandaGap">§</g><pb n="25v"><lb n="25v1"</lb>kāni śaṅkhabhājanādau | prakṣipya sphuṭitavajrā§ <space type="binding-hole"/>ñjalilakṣaṇayārghamudrayā triḥ parijapya saptavāram· Ekaviśaṁtivāraṁ vā parijapya sthāpayet tato yathāva<lb n="25v2"/>d dvārodghaṭānaṁ kṛtvā śrīvajrasatvāmahāmudrām va <space type="binding-hole"/>dhvā | O;ṁ vajrasatva hū;ṁmiti parijapya | vāhubhyāṁ vajravandhe vajrācchaṭāvimokṣaṇaiḥ śrīvajrasattvayogātmā sarvavuddhāṁ <lb n="25v3"/> samājayet· | vāmācchaṭakatālena samyaktāle <space type="binding-hole"/>ti siddhyati | dakṣiṇena tu tāloktā sannipātāv ubhāv apīti | samājamudrālakṣaṇam· | O;ṁ vajrasamāja jjaḥ hū;ṁ va;ṁ <lb n="25v4"/> hoḥ Iti samājamudrāhṛdayat· |  Asyājñā§ <space type="binding-hole"/>mātracakitāḥ saparṣacakrasañcayāḥ sarvavuddhāḥ samāyānti | kā kathānyeṣu varttate | tataḥ śrīghraṁ mahāmudrāṁ vajra<lb n="25v5"/>satvasya sevayaṁ | Uccāraye sakṛdvāraṁ nāmāṣṭha§ <space type="binding-hole"/>gatam uttamam· | vajrasatva mahāsatvetyādi /
 	%-gandhodake: em. -gandhodakena, with MSK.
 	%vajrānalena mudreṇa: em. vajrānalena or vajrānalena mantreṇa? MSK emends vajrānalamudrayā.
 	%vajrapuṣpa: em. vajrapuṣpe, with MSK.
@@ -588,7 +590,7 @@ tato dvāreṣu sarveṣu karmmaṁ kṛtvāṅkuśādibhiḥ mahākarmmābhramu
 vajrasattvenārghaṁ dattvā vajradhātvādisamayamudrāṁ baddhvā / vajradhātu dṛśyetyādinā sarvān dṛśyān kṛtvā    jaḥ hūṁ vaṁ hoḥ samayas tvam / samayas tvam aham // svahṛdayāni mantrāñc ca śrīvairocanādīnāṁ trir uccārya / dharmakarmamahāmudrābhiś ca nānāmudrābhiṣekamudrābhir buddhādīn abhiṣiñcārghaṁ dattvā /
 
 %RT&AG
-Etad uktam bhavanti vajrayakṣeṇa § <pb n="26r"><lb n="26r1"/> vighnotsāraṇaṁ rakṣāṁś ca kṛtvā | vajramuṣṭhinā § <space type="binding-hole"/> dvāravandhaṁ | vajrasatvenārghaṁ datvā vajradhātvādisamayamudrām vadhvā | vajradhātu dṛśyetyādinā | sa<supplied reason="lost">r</supplied>vā dṛśyā <unclear>§</unclear> <lb n="26r2"/> kṛtvā jaḥ hū;ṁ va;ṁ hoḥ samayas tvaṁ | samayas tvam aha <space type="binding-hole"/>m· svahṛdayāni mantrāś ca śrīvairocanādīnāṁ trir uccārya | dharmmakarmmamahāmudrābhiś ca nānāmudrābhiṣekamudrā<lb n="26r3"/>bhi vuddhādīn abhiśiścārghaṁ datvā |
+Etad uktam bhavanti vajrayakṣeṇa § <pb n="26r"><lb n="26r1"/> vighnotsāraṇaṁ rakṣāṁś ca kṛtvā | vajramuṣṭhinā § <space type="binding-hole"/> dvāravandhaṁ | vajrasatvenārghaṁ datvā vajradhātvādisamayamudrām vadhvā | vajradhātu dṛśyetyādinā | sa<supplied reason="lost">r</supplied>vā dṛśyā <unclear><g type="dandaGap">§</g></unclear> <lb n="26r2"/> kṛtvā jaḥ hū;ṁ va;ṁ hoḥ samayas tvaṁ | samayas tvam aha <space type="binding-hole"/>m· svahṛdayāni mantrāś ca śrīvairocanādīnāṁ trir uccārya | dharmmakarmmamahāmudrābhiś ca nānāmudrābhiṣekamudrā<lb n="26r3"/>bhi vuddhādīn abhiśiścārghaṁ datvā |
 	%bhavanti: em. bhavati, with MSK.
 	%rakṣāṁś: this is accepted by MSK, but cannot be correct; em. rakṣāś or rakṣāṁ? Cf. SVU §140 ... tathaiva vajrāṅkuśādibhiḥ ākṛṣya praveśya baddhvā vaśīkṛtya vajrayakṣeṇa vighṇotsāraṇaṃ prākāraṃ pañjaraṃ kṛtvā samayavajramuṣṭinā maṇḍaladvārāṇi baddhvā dvayakṣarakavacena sarvarakṣāḥ saṃrakṣyārghadānapūrvikābhiḥ svasamayamudrābhir dṛśyaṃ kṛtvā; Bhūtaḍāmara manual:  ... śāntikaṃ homaṃ kṛtvā duṣṭotsāraṇamantreṇa duṣṭān utsārya pūrvavad digbandhādibhiḥ sthānarakṣāṃ kṛtvā ...
 	%vajramuṣṭhinā: em. vajramuṣṭinā, with MSK (sil. em.).
@@ -657,7 +659,7 @@ Ity ābhir vidyābhiḥ <pb n="27r"><lb n="27r1"/> ṣoḍaṣasatvasadṛśībh
 %MSK (20) tatremā mudrā bhavanti / kāyasthaṁ vajrabandhaṁ saṁpīḍya dvidhīkṛtya muṣṭidvayena / sagarvotkarṣaṇād dvābhyām aṅkuśagrahasaṁsthitā / vānaghaṭṭanayogā ca sādhukārā hṛdi sthitā // 1 // abhiṣeke dvivajraṁ tu hṛdi sūryapradarśanam / vāmasthabāhudaṇḍā ca tathāsye parivartitā // 2 // savyāpasavyavikacā hṛdvāmakhaḍgamāraṇī / alātacakrabhramitā vajradvayamukhotthitā // 3 // vajranṛtyabhramonmuktakapoloṣṇīṣasaṁsthitā / kavacā kaniṣṭhadaṁṣṭṛāgrā muṣṭidvayanipīḍitā // 4 // iti //
 
 %RT&AG
-tatremā mudrā bhavanti | kāyasthaṁ vajravandhaṁ saṁpīḍya dvidhīkṛtya muṣṭidvayena sagarvvotkarṣa<unclear>ṇādvā</unclear>bhyā§<lb n="27r2"/>m aṁkuśagrahasaṁsthitā | vāmaghattanayogā ca | sā <space type="binding-hole"/>dhukārā  hṛdi sthitā | Abhiṣeke dvivajran tu | hṛdi sūryapradarśanam· | vāmasthavāhudaṇḍā ca | tathāsye parivartitā | savyā<lb n="27r3"/>pasavyavikacā | hṛdvāmakhaḍgamāraṇī | Alāta <space type="binding-hole"/>cakrabhramitā | vajradvayamukhotthitā | vajranṛtyabhramomuktakapoloṣṇiṁṣasaṁsthitā | kavacā | kaniṣṭhadraṁṣṭṛāgrā |  <lb n="27r4"/> muṣṭhidvayanipīḍiteti ||
+tatremā mudrā bhavanti | kāyasthaṁ vajravandhaṁ saṁpīḍya dvidhīkṛtya muṣṭidvayena sagarvvotkarṣa<unclear>ṇādvā</unclear>bhyā<g type="dandaGap">§</g><lb n="27r2"/>m aṁkuśagrahasaṁsthitā | vāmaghattanayogā ca | sā <space type="binding-hole"/>dhukārā  hṛdi sthitā | Abhiṣeke dvivajran tu | hṛdi sūryapradarśanam· | vāmasthavāhudaṇḍā ca | tathāsye parivartitā | savyā<lb n="27r3"/>pasavyavikacā | hṛdvāmakhaḍgamāraṇī | Alāta <space type="binding-hole"/>cakrabhramitā | vajradvayamukhotthitā | vajranṛtyabhramomuktakapoloṣṇiṁṣasaṁsthitā | kavacā | kaniṣṭhadraṁṣṭṛāgrā |  <lb n="27r4"/> muṣṭhidvayanipīḍiteti ||
 	%verses from STTS §287-288
 	% sagarvvotkarṣa<unclear>ṇādvā</unclear>bhyām:  sagarvotkarṣaṇād dvābhyām MSK; em. with MSK. The relevant akṣara is damaged in the ms., but our impression is that the scribe wrote -ṇādvā- rather than -ṇāddvā-.
 	%vāma-: em. bāṇa-; MSK reads and retains vāna-.
@@ -681,7 +683,7 @@ tataḥ catuḥpraṇāmaṁ kṛtvā  <space type="binding-hole"/> śrīvajrasa
 khede sati punar nāmāṣṭaśatastutim arghaṁ dattvā pūjāṁ catuḥpraṇāmaṁ ca kṛtvā yato yataḥ samutpannā mudrās tās tatra tatraiva muñcet / sattvavajrādimudrāmokṣam / vajrasattva muḥ // iti //
 
 %RT&AG
-tataḥ śrīvajrasatvaṣaḍākṣaraṁ vajra§ <lb n="27r6"/>vācodīrayan manasā vā sarvam evāham iti bhāvaye <space type="binding-hole"/>t· | sarvadevatāmukhebhyaś ca mantradhvanir abhiraṇatīty adhyavasāyaḥ kāryaḥ Evaṁ sarve japtā bhavanti | tāvad bhāvaye§<pb n=""><lb n="27v1"/>d yāvad khedo na jāyate |
+tataḥ śrīvajrasatvaṣaḍākṣaraṁ vajra§ <lb n="27r6"/>vācodīrayan manasā vā sarvam evāham iti bhāvaye <space type="binding-hole"/>t· | sarvadevatāmukhebhyaś ca mantradhvanir abhiraṇatīty adhyavasāyaḥ kāryaḥ Evaṁ sarve japtā bhavanti | tāvad bhāvaye<g type="dandaGap">§</g><pb n=""><lb n="27v1"/>d yāvad khedo na jāyate |
 khede sati puna nāmāṣṭa <space type="binding-hole"/>śatastutiṁm arghaṁ datvā pūjāñ catuḥpraṇāmañ ca kṛtvā yatoyataḥ samutpannā mudrās tās tattratatraiva muñcet satvavajrādimudrā<lb n="27v2"/>mokṣaṁ | vajrasatva mur iti ||
 	%-ṣaḍākṣaraṁ: em. -śatākṣaraṁ, with MSK.
 	%manavā: em. manasā vā, with MSK.
@@ -702,7 +704,7 @@ khede sati puna nāmāṣṭa <space type="binding-hole"/>śatastutiṁm argha�
 %MSK (24) tato vajraratnasamayamudrayā hṛdayotthitayā svābhiṣekasthānasthitayā sarvamudrābhiṣekaṁ kuryāt / oṁ vajraratnābhiṣiñca // iti // tad anu pūrvavat kavacabandhaṁ kuryāt tarjanībhyām / sarvamudrāṁ me dṛḍhīkuru vajrakavacena vaṁ  // iti // ante samatālayā toṣayet pūrvavat / vajrasattvaṁ śatākṣaraṁ ca japyābhipretasiddhaye kuśalaṁ pariṇamayya / yan mayā vidhinyūnaṁ kṛtaṁ tat kṣāntum arhatheti vijñāpyārghaṁ ca dattvā gamanāya saṁcodayet sarvabuddhabodhisattvān / oṁ kṛto vaḥ sarvasattvārthaḥ siddhiṁ dattvā yathānugā gacchadhvaṁ buddhaviṣayaṁ punar āgamanāya tu // iti // sattvavajrīṁ cordhvato muñced anena hṛdayena / vajrasattva muḥ // iti // evaṁ sarve visarjitā bhavanti /
 
 %RT&AG
-tato vajraratnasamayamudrayā hṛdayotthi <space type="binding-hole"/>tayā svābhiṣekasthānasthitayā sarvamudrābhiṣekaṁ kuryāt· | O;ṁ vajraratnābhiṣiñceti | tadanu pūrvat· | kavacavandha§<lb n="27v4"/>ṅ kuryāt· | tarjanībhyāṁ sarvamudrām me d<unclear>ṛ</unclear>ḍhīkuru va§ <space type="binding-hole"/>rakavacena miti | Ante samatālayā toṣayet· pūrvat· | vajrasatvaṁ śatākṣaraṁ coccāpyābhipretasiddhaye kuśalam pa<lb n="27v5"/>rinamayya | yan mayā viddhinyūnaṁ kṛtam· | tat kṣaṁtu <space type="binding-hole"/>m arhartheti | vijñānyārghañ ca datvā gamanāya sañcodayet sarvavuddhavodhisatvat· | O;ṁ kṛto vaḥ sarvasatvārthaḥ siddhin da<lb n="27v6"/>tvā yathānugā gacchadhvam vuddhaviṣayam· punar ā§gamanāya tv iti || satvavajrīñ corddhato muñced anena hṛdayedanena | vajrasatva muḥ Iti | Evaṁ sarve visarjjitā §<pb n="28r"><lb n="28r1"/> bhavanti |
+tato vajraratnasamayamudrayā hṛdayotthi <space type="binding-hole"/>tayā svābhiṣekasthānasthitayā sarvamudrābhiṣekaṁ kuryāt· | O;ṁ vajraratnābhiṣiñceti | tadanu pūrvat· | kavacavandha<g type="dandaGap">§</g><lb n="27v4"/>ṅ kuryāt· | tarjanībhyāṁ sarvamudrām me d<unclear>ṛ</unclear>ḍhīkuru va§ <space type="binding-hole"/>rakavacena miti | Ante samatālayā toṣayet· pūrvat· | vajrasatvaṁ śatākṣaraṁ coccāpyābhipretasiddhaye kuśalam pa<lb n="27v5"/>rinamayya | yan mayā viddhinyūnaṁ kṛtam· | tat kṣaṁtu <space type="binding-hole"/>m arhartheti | vijñānyārghañ ca datvā gamanāya sañcodayet sarvavuddhavodhisatvat· | O;ṁ kṛto vaḥ sarvasatvārthaḥ siddhin da<lb n="27v6"/>tvā yathānugā gacchadhvam vuddhaviṣayam· punar ā§gamanāya tv iti || satvavajrīñ corddhato muñced anena hṛdayedanena | vajrasatva muḥ Iti | Evaṁ sarve visarjjitā <g type="dandaGap">§</g><pb n="28r"><lb n="28r1"/> bhavanti |
 	%STTS §310, §317.
 	%pūrvat·: em. pūrvavat·, with MSK.
 	%va§ <space type="binding-hole"/>rakavacena: em. vajrakavacena, with MSK (sil. em.).
@@ -721,7 +723,7 @@ tato vajraratnasamayamudrayā hṛdayotthi <space type="binding-hole"/>tayā sv�
 %MSK (25) yathā nirmitaṁ ca saparṣaccakrasaṁcayaṁ tathaiva manasā sādhuyogena svakāye praveśya vajrarakṣayakṣasaṁdhikarmamudrābhir ātmānaṁ saṁrakṣyotthāya maṇḍalakarmapustakavācikādīn kuryāt / evaṁ pratyahaṁ catuṣṭayaṁ kuryād māsaṁ ṣaḍmāsaṁ saṁvatsaraṁ yāvatā vā kālena devatābhir anujñāto bhavati / athavā pūrvavat mahāyogaṁ kṛtvā pūjādikaṁ ca / vajraṁ tattvena saṁgṛhya ghaṇṭāṁ dharmeṇa vādya ca / samayena mahāmudrām adhiṣṭhāya hṛdayaṁ japet // 1 //
 
 %RT&AG
-yathā nirmitañ ca saparṣacakrasañcayaṁ § <space type="binding-hole"/> tathaiva manasā sādhuyogena svakāye praveśya vajrarakṣa|yakṣa|sandhikarmmamudrābhir ātmānan saṁrakṣotthāya ma<lb n="28v2"/>ṇḍalakapustakavācikādī<unclear>ṅ</unclear> kuryāt· | Evam pratyahañ catusadhyaṁ kuryāt māsam· | ṣaḍmāsam· saṁvaccharaṁ yāvatā vā kālena devatābhir anujñāto bhavati | Athavā pūrvan mahā§<lb n="28r}yogaṁ kṛtvā pūjādikañ ca | vajra tatvena saṅgṛhya gha§ṭāṁ dharmmeṇa vādya ca | samayena mahāmudrām adhiṣṭhāya hṛdayañ jopet· |
+yathā nirmitañ ca saparṣacakrasañcayaṁ § <space type="binding-hole"/> tathaiva manasā sādhuyogena svakāye praveśya vajrarakṣa|yakṣa|sandhikarmmamudrābhir ātmānan saṁrakṣotthāya ma<lb n="28v2"/>ṇḍalakapustakavācikādī<unclear>ṅ</unclear> kuryāt· | Evam pratyahañ catusadhyaṁ kuryāt māsam· | ṣaḍmāsam· saṁvaccharaṁ yāvatā vā kālena devatābhir anujñāto bhavati | Athavā pūrvan mahā<g type="dandaGap">§</g><lb n="28r}yogaṁ kṛtvā pūjādikañ ca | vajra tatvena saṅgṛhya gha§ṭāṁ dharmmeṇa vādya ca | samayena mahāmudrām adhiṣṭhāya hṛdayañ jopet· |
 	%saparṣacakra-: em. saparṣaccakra-, with MSK (sil. em.).
 	%saṁrakṣotthāya: em. saṁrakṣyotthāya, with MSK.
 	%maṇḍalakapustaka-: MSK emends maṇḍalakarmapustaka-, but this is perhaps not necessary.
@@ -737,7 +739,7 @@ yathā nirmitañ ca saparṣacakrasañcayaṁ § <space type="binding-hole"/> ta
 sarvadevatāmukhebhyaś ca mantradhvanir abhiraṇatīty atrāpi cintanīyam / evamādinaiva sarve vairocanādayaḥ siddhā bhavanti / śrāntaḥ śrāntaś ca nāmāṣṭaśatastutiṁ pūjāṁ catuḥpraṇāmaṁ ca kuryāt / catuḥsaṁdhyāvasāne ca nāmāṣṭaśatastutipūrvakaṁ vidhiṁ kṛtvā visarjayed iti //
 
 %RT&AG
-tato vajrātmakādimantraṁ trayaṁ udīrayaṁs tadartha§<lb n="28r4"/>n trayaṁ vibhāvya svahṛdi catumudrāmaṇḍaloktahṛdaya <space type="binding-hole"/>pañcakena vajradhātumahāmaṇḍalaṁ nirmāya pūrvvoktai hṛdayaiḥ śrīvairocanādīn yathāsthāne niveśyākāśasamatāyo\linebeak{28v5"/>geṇa praviśya tair saha vajrātmakādimantrair ekībhū <space type="binding-hole"/>ya vajradhātur ahaṁ svayam iti || vajradhātumahāmaṇḍalam ātmānaṁ vicintya | sarvam evāham iti bhāvayam· | śrīvajrasa§<lb n="28v6"/>tvahṛdayaṁ mantraṁ japet· | sarvadevatāmukhebhyaś ca § <space type="binding-hole"/> mantradhvanir abhiraṇatīty attrāpi cintanīyam evam ā*śceva sa<unclear>rvve</unclear> vairocanādayaḥ siddhā bhavanti | *śrāntaḥ *śrānta§<pb n="28v"><lb n="28v1"/>ś ca nāmāṣṭaśatutim· | pūjāñ catuḥpraṇāmañ ca ku§ <space type="binding-hole"/>ryāt· | catursaṁdhyāvasāne ca nāmāṣṭaśatastutipūrvakaṁ vidhiṁ kṛtvā visarjjayed iti ||
+tato vajrātmakādimantraṁ trayaṁ udīrayaṁs tadartha<g type="dandaGap">§</g><lb n="28r4"/>n trayaṁ vibhāvya svahṛdi catumudrāmaṇḍaloktahṛdaya <space type="binding-hole"/>pañcakena vajradhātumahāmaṇḍalaṁ nirmāya pūrvvoktai hṛdayaiḥ śrīvairocanādīn yathāsthāne niveśyākāśasamatāyo\linebeak{28v5"/>geṇa praviśya tair saha vajrātmakādimantrair ekībhū <space type="binding-hole"/>ya vajradhātur ahaṁ svayam iti || vajradhātumahāmaṇḍalam ātmānaṁ vicintya | sarvam evāham iti bhāvayam· | śrīvajrasa<g type="dandaGap">§</g><lb n="28v6"/>tvahṛdayaṁ mantraṁ japet· | sarvadevatāmukhebhyaś ca § <space type="binding-hole"/> mantradhvanir abhiraṇatīty attrāpi cintanīyam evam ā*śceva sa<unclear>rvve</unclear> vairocanādayaḥ siddhā bhavanti | *śrāntaḥ *śrānta<g type="dandaGap">§</g><pb n="28v"><lb n="28v1"/>ś ca nāmāṣṭaśatutim· | pūjāñ catuḥpraṇāmañ ca ku§ <space type="binding-hole"/>ryāt· | catursaṁdhyāvasāne ca nāmāṣṭaśatastutipūrvakaṁ vidhiṁ kṛtvā visarjjayed iti ||
 	%catumudrā-: em. caturmudrā-, with MSK.
 	%-maṇḍaloktahṛdaya-: -maṇḍale rakṣahṛdaya- MSK.
 	%pūrvvoktai: em. pūrvoktair, with MSK.
@@ -789,9 +791,9 @@ Evaṁ kṛtvā pūrvasevā maṇḍalam ālikhet· |
 %MSK: vihārārāmagrāmanagarāṇāṁ pūrvottaradigbhāge yatra vā manaso 'nukūlaṁ bhavati tatra susamasnigdhasuplavasupramāṇābhūṣare bhūbhāge rājño hastaśataṁ pañcāśaddhastaṁ vā /
 
 %RT&AG:
-vihārārāmagrāmānagarāṇāṁ pūrvottaradigbhāge yattra vā maneso nu<lb n="28v6"/>kūlam bhavati | tatra susamasnigdhasuplavasupramāṇā◯bhūṣare bhūbhāge rājño hastaśataṁ pañcāśaddhastam vā |
+vihārārāmagrāmānagarāṇāṁ pūrvottaradigbhāge yattra vā maneso nu<lb n="28v6"/>kūlam bhavati | tatra susamasnigdhasuplavasupramāṇā<space type="binding-hole"/>bhūṣare bhūbhāge rājño hastaśataṁ pañcāśaddhastam vā |
 	%maneso: manaiso MSK; em. manaso, with MSK.
-	%-supramāṇā◯bhūṣare: em. -supramāṇānūṣare, with Tib. (tsha sgo can ma yin pa) and Padmaśrīmitra's Maṇḍalopāyikā 2.17: supramāṇe same snigdhe 'nūṣare doṣavarjite | pūrvottaraplave ramye bhūbhāge śodhayet punah ||.
+	%-supramāṇā<space type="binding-hole"/>bhūṣare: em. -supramāṇānūṣare, with Tib. (tsha sgo can ma yin pa) and Padmaśrīmitra's Maṇḍalopāyikā 2.17: supramāṇe same snigdhe 'nūṣare doṣavarjite | pūrvottaraplave ramye bhūbhāge śodhayet punah ||.
 
 %MSK: sāmantamahāsāmantānāṁ pañcāśatpañcaviṁśatihastaṁ vā /
 
@@ -803,7 +805,7 @@ sāmantamahāsāmantānāṁ pañcāśatpañcaviṁśatirhastam vā |
 %RT&AG reached here on 26/9/2016
 
 %RT&AG: 
-<pb n="29r"><lb n="29r1"/> śreṣṭhinaḥ sārthavāhasya vā pañcaviṁśatis tadardha§◯m vā |
+<pb n="29r"><lb n="29r1"/> śreṣṭhinaḥ sārthavāhasya vā pañcaviṁśatis tadardha<g type="dandaGap">§</g><space type="binding-hole"/>m vā |
 
 %MSK: sādhakānāṁ dvādaśahastaṁ ṣaḍḍhastaṁ vā /
 
@@ -816,7 +818,7 @@ sādhakānāṁ dvādaśahastaṁ śa ? stam vā |
 
 %RG&AG: 
 tatrādau tāvad abhimatamaṇḍalabhūmimadhye mānuṣāsthicūrṇṇah<unclear>ome</unclear><supplied reason="lost">na raktavi</supplied>
-<lb n="29r2"/>ṣasahitena maṇḍalavighnaṁ nivāyātmaśiṣyabhūpā◯lādiśāntikahomaṁ kuyāt· | 
+<lb n="29r2"/>ṣasahitena maṇḍalavighnaṁ nivāyātmaśiṣyabhūpā<space type="binding-hole"/>lādiśāntikahomaṁ kuyāt· | 
 	%maṇḍalavighnaṁ: em. maṇḍalavighnān.
 	% nivāyātma-: emend nivāryātma-.
 	% kuyāt·: emend kuryāt.
@@ -828,7 +830,7 @@ tato bhūmi soḥdhāpayet· |
 %MSK: vyāmamātraṁ kaṇṭhanābhijānumātraṁ vādhaḥkhanitvā sugandhātyaktamṛdāpūrya vajraśikharaparijaptagandhodakenāsicyāsicyākoṭayet / susamaṁ
 
 %RT&AG: 
-vyāmamantraṁ kaṇṭhanābhijānumātram vādhaḥ khanitvā sugandhā<lb n="29r3"/>bhyaktamṛdāpūya vajraśikharāparijaptagandhoda◯kenāsicyāsicyākoṭayet· | susamāṁ
+vyāmamantraṁ kaṇṭhanābhijānumātram vādhaḥ khanitvā sugandhā<lb n="29r3"/>bhyaktamṛdāpūya vajraśikharāparijaptagandhoda<space type="binding-hole"/>kenāsicyāsicyākoṭayet· | susamāṁ
 	% vyāmamantraṁ: emend vyāmamātraṁ.
 	%-jānu-: -janu- MSK.
 	% -bhyakta: read thus, not with MSK.
@@ -851,7 +853,7 @@ caturdvārākṣavāṭaparivṛ<lb n="29r4"/>taṁ paryantesucitritam· |
 	% paryante-: emend paryanta-.
 
 
-%MSK: saghaṇṭāvasaktasatketu◯vitānavitanottamam /
+%MSK: saghaṇṭāvasaktasatketu<space type="binding-hole"/>vitānavitanottamam /
 
 %RT&AG: 
 saghaṇṭāvasaktasatketuvitānavitanottamam· |
@@ -876,7 +878,7 @@ catukoṇāvasthitadhūpaghaṭikām· |
 %MSK: puṣpadīpavastrādibhiś copaśobhya gandhenopalipya vajrayakṣaparijaptagandhodakena prokṣya bhūmau hastaṁ dattvā /
 
 %RT&AG: 
-puṣpa<lb n="29r5"/>dīpavastrādibhiśca scopasobhya | gandhenopali§◯pya | vajrayarakṣaparijaptagandhodakena prokṣyo bhūmau hastan datvā |
+puṣpa<lb n="29r5"/>dīpavastrādibhiśca scopasobhya | gandhenopali<g type="dandaGap">§</g><space type="binding-hole"/>pya | vajrayarakṣaparijaptagandhodakena prokṣyo bhūmau hastan datvā |
 	% -bhiśca scopasobhya: emend -bhiś copaśobhya.
 	% vajrayarakṣa-: emend vajrayakṣa-.
 	% prokṣyo: emend prokṣya.
@@ -901,7 +903,7 @@ vajrasatvaṁ [se]tākṣarañ ca | saptaśa Āvartayed iti |
 %MSK: (31) tataḥ svayaṁ snātaḥ sugandhāṅgo yathāptyābharaṇāmbaraḥ /
 
 %RT&AG:
-tataḥ svayasnā◯taḥ sugandhaṁgo yathāptyābharaṇāmvaraḥ |
+tataḥ svayasnā<space type="binding-hole"/>taḥ sugandhaṁgo yathāptyābharaṇāmvaraḥ |
 	% svaya: emend svayaṁ, with MSK.
 	% sugandhaṁgo: sugandhāṅgo, with MSK.
 	% yathāptyā-: RT proposes em. yathāptā-.
@@ -909,7 +911,7 @@ tataḥ svayasnā◯taḥ sugandhaṁgo yathāptyābharaṇāmvaraḥ |
 %MSK: suraktavastrasaṁvītaḥ sragvī surabhitānanaḥ śuklāṣṭamīm ārabhya daśamīṁ trayodaśīṁ caturdaśīṁ vārabhya pañcadaśīṁ yāvan maṇḍalakarma kuryāt /
 
 %RT&AG: 
-suraktavastrasampītaḥ | <pb n="29v"><lb n="29v1"/> śragdhī surabhitānanaḥ śuklāṣṭamīm ārabhya da§◯śamīn trayodaśīñ caturddaśīm vā'rabhya pañcadaśīṁ yāvan maṇḍalakarmma kuyāt· |
+suraktavastrasampītaḥ | <pb n="29v"><lb n="29v1"/> śragdhī surabhitānanaḥ śuklāṣṭamīm ārabhya da<g type="dandaGap">§</g><space type="binding-hole"/>śamīn trayodaśīñ caturddaśīm vā'rabhya pañcadaśīṁ yāvan maṇḍalakarmma kuyāt· |
 	% -sampītaḥ |: em. -samvītaḥ, with MSK. Remove |.
 	% śragdhī: em. sragvī, with MSK.
 	% kuyāt·: em. kuryāt.
@@ -917,7 +919,7 @@ suraktavastrasampītaḥ | <pb n="29v"><lb n="29v1"/> śragdhī surabhitānana�
 %MSK: prakṛṭisthabhūbhāge tu saṁmārjya lepanaṁ kṛtvā tathaiva hastenālabhya vajrasattvam āvartayet //
 
 &RT&AG: 
-prakṛtisthabhū<unclear>bh</unclear>āge tu sanmārjyepalepa<lb n="29v2"/>na kṛtvā tathaiva hastenolabhya vajrasatvam āvartta◯yet· |
+prakṛtisthabhū<unclear>bh</unclear>āge tu sanmārjyepalepa<lb n="29v2"/>na kṛtvā tathaiva hastenolabhya vajrasatvam āvartta<space type="binding-hole"/>yet· |
 	% sanmārjyepalepana: em. saṁmārjyopalepanaṁ; saṁmārjya lepanaṁ MSK.
 	% hastenolabhya: em. hastenālabhya, with MSK.
 	% tathaiva: refers back to end of previous section (vajrasattvaṁ śatākṣaraṁ ca saptaśa āvartayed iti).
@@ -944,12 +946,14 @@ maṇḍalapraveśadivase tv anahāreṇācā<lb n="29v3"/>yeṇa śiṣyasahite
 %MSK: tatra tāvat mahāmaṇḍalabhūmimadhye sthitvātmarakṣāṁ vighnaghātādikaṁ ca kuryāt /
 
 %RT&AG: 
-tattra tāva§◯n ma<del rend="strikeout">hā</del>labhūmimadhye sthitvātmarakṣāṁ vighnaghātādikaṁ ca kuyāt· |
+tattra tāva<g type="dandaGap">§</g><space type="binding-hole"/>n ma<del rend="strikeout">hā</del>labhūmimadhye sthitvātmarakṣāṁ vighnaghātādikaṁ ca kuyāt· |
+	% tattra: tantra MSK
 	% ma<del rend="strikeout">hā</del>labhūmimadhye: em. maṇḍalabhūmimadhye. Cf. Tib.
+	 
 
 %MSK: tato vajracakreṇa maṇḍalaṁ nirmāya praṇāmādikapūrvakaṁ saṁvaragrahaṇaṁ mahāyogaṁ kūṭāgāram āsanāni ca niṣpādya sattvaparyaṅkaniṣaṇṇa ātmānaṁ karṣayet /
 
-%RT&AG: tato vajracakrayā maṇḍalaṁ nirmmāya praṇāmādi<lb n="29v4"/>kapūrvvakaṁ saṁvaragrahaṇaṁ mayogaṁ kuṭāram āsa◯nāni ca niṣpādya satvapayaṅkaniṣarṇṇa Ātmāna karṣayet· |
+%RT&AG: tato vajracakrayā maṇḍalaṁ nirmmāya praṇāmādi<lb n="29v4"/>kapūrvvakaṁ saṁvaragrahaṇaṁ mayogaṁ kuṭāram āsa<space type="binding-hole"/>nāni ca niṣpādya satvapayaṅkaniṣarṇṇa Ātmāna karṣayet· |
 	% vajracakrayā: MSK wrongly read this as vajracakrayo, and needlessly emend to vajracakreṇa. Understand vajracakrayā [mudrayā].
 	% mayogaṁ: em. mahāyogaṁ, with MSK. Cf. Tib.
 	% kuṭāram: em. kūṭāgāram, with MSK. Cf. Tib.
@@ -963,11 +967,11 @@ tattra tāva§◯n ma<del rend="strikeout">hā</del>labhūmimadhye sthitvātmara
 
 %MSK:     adya me saphalaṁ janma saphalaṁ jīvitaṁ ca me /
 %RT&AG: 
-adya me satvamahāsamudrayā vyavasthitaphala jānmāsa§<lb n="29v5"/>phalaṁ jīvitañ ca me /
+adya me satvamahāsamudrayā vyavasthitaphala jānmāsa<g type="dandaGap"><g type="dandaGap">§</g></g><lb n="29v5"/>phalaṁ jīvitañ ca me /
 	% for the source of interpolation, see §21 and 33.
 
 %MSK:     samaḥ samayabuddhānāṁ bhavitāhe na saṁśayaḥ |
-%RT&AG: samaḥ samayavuddhānāṁ bha◯vitāhaṁ na saṁsayaḥ ||
+%RT&AG: samaḥ samayavuddhānāṁ bha<space type="binding-hole"/>vitāhaṁ na saṁsayaḥ ||
 	%bhavitāhaṁ: reading supported by Padmaśrīmitra and KSP. No need to emend.
 
 %MSK:     avaivartyo bhaviṣyāmi bodhisattvaikacetanaḥ /
@@ -987,7 +991,7 @@ adya me satvamahāsamudrayā vyavasthitaphala jānmāsa§<lb n="29v5"/>phalaṁ 
      
 %MSK:     saṁnipāto 'dya me hy agraḥ sarvabuddhanimantraṇāt // 3 // iti //
 %RT&AG:    
-	 saṁ◯nipāto dya me hy agraḥ sarvavuddhanimantraṇād iti |
+	 saṁ<space type="binding-hole"/>nipāto dya me hy agraḥ sarvavuddhanimantraṇād iti |
 
 %MSK: (33)tataḥ sarvāṅgena praṇamya dhūpabhaṇḍikāhastaḥ sarvabuddhān nimantrayet /
 %RT&AG: 
@@ -998,7 +1002,7 @@ adya me satvamahāsamudrayā vyavasthitaphala jānmāsa§<lb n="29v5"/>phalaṁ 
 
 %MSK: samanvāharantu māṁ buddhā aśeṣadikṣu saṁsthitāḥ /
 %RT&AG: 
-samanvāharantu māṁ vuddhā aśeṣādikṣu saṁ§◯sthitāḥ
+samanvāharantu māṁ vuddhā aśeṣādikṣu saṁ<g type="dandaGap"><g type="dandaGap">§</g></g><space type="binding-hole"/>sthitāḥ
 	% aśeṣādikṣu: correct aśeṣadikṣu
 	% no daṇḍa!
 
@@ -1014,7 +1018,7 @@ Amuko nāmāhaṁ vajrī maṇḍalaṁ kalpayāmy ahaṁ ¦
 %MSK: ādiyogaṁ maṇḍalarājāgrīṁ karmarājāgrīṁ ca vibhāvya punar dvārodghāṭanapūrvakaṁ vajrasattvasthāne śrīvajrasattvamahāmudrayā vyavasthitas tanmantrodīraṇatatparo yogī sarvottarasādhakais tathāgatāhaṁkārayuktair nāmāṣṭaśatena mahāmaṇḍalālikhanāyādhyeṣaṇīyaḥ //
 
 %RT&AG:
-<lb n="30r2"/>Ādiyogaṁ maṇḍalarājāgrīṅ karmmarājāgrīñ ca vi◯bhāvya punadvārodghāṭanapūrvakaṁ vajrasatvasthāne śrīvajrasattvamahāmudrayā vyavasthitas ta mantrodīraṇatatparo yogī <lb n="30r3"/>sarvottarasādhakais tathāgatāhaṅkārayuktai nāmā◯ṣṭaśatena mahāmaṇḍalālikhanāyādhyeṣaṇīyaḥ 
+<lb n="30r2"/>Ādiyogaṁ maṇḍalarājāgrīṅ karmmarājāgrīñ ca vi<space type="binding-hole"/>bhāvya punadvārodghāṭanapūrvakaṁ vajrasatvasthāne śrīvajrasattvamahāmudrayā vyavasthitas ta mantrodīraṇatatparo yogī <lb n="30r3"/>sarvottarasādhakais tathāgatāhaṅkārayuktai nāmā<space type="binding-hole"/>ṣṭaśatena mahāmaṇḍalālikhanāyādhyeṣaṇīyaḥ 
 	% punadvārod-: correct punardvārod-; punar dvārod- MSK.
 	% ta mantrodīraṇa-: correct tanmantrodīraṇa-, after MSK.
 	% -yuktai: correct -yuktair, after MSK.
@@ -1027,7 +1031,7 @@ Amuko nāmāhaṁ vajrī maṇḍalaṁ kalpayāmy ahaṁ ¦
      ahaṁ svāmī mahāvajra adhiṣṭhānād na riñcati // 2 //
 
 %RT&AG
-tataḥ Utthāya sarvvatathāgatapādavandanāṁ kṛtvā sarvatathāgatai§<lb n="30r4"/>r gagaṇam āpūrayad dṛṣṭā ||
+tataḥ Utthāya sarvvatathāgatapādavandanāṁ kṛtvā sarvatathāgatai<g type="dandaGap"><g type="dandaGap">§</g></g><lb n="30r4"/>r gagaṇam āpūrayad dṛṣṭā ||
 Aham eva svayam vajrī \stringhole\ vajrasatva Ahaṁ svayaṁ |
 Aham vuddho mahārājā | AhAM vajrī mahāvalaḥ |
 Aha yogīśvaro rājā | vajrapāṇir ahaṁ dṛḍhaḥ 
@@ -1041,8 +1045,8 @@ Aha yogīśvaro rājā | vajrapāṇir ahaṁ dṛḍhaḥ
 %MSK (35)tato vajradṛṣṭi maṭ // iti cakṣuṣor vinyasya aḥkāreṇa pādatalayor viśvavajraṁ nirmāya svasamayamudrāṁ baddhvā yayākāśe tanmaṇḍalam utthāpya vajrasattva uttiṣṭha iti //
 
 %RT&AG
-tato vajradṛṣṭi maḍ iti | cakṣuṣor vvinyasya | Aḥkāreṇa pādatalayor vviśvavajraṁ nirmāya svasamayamudrāmvadho§<lb n="30r6"/>[pa]yākāse tanmaṇḍalam utthāpya | vajrasatva vajro<space type="binding-hole"/>tiṣṭheti |
-	%svasamayamudrāmvaṇā§[pa]yākāse: emend svasamayamudrām baddhvoparyākāśe. Cf. §49 and 68 for uparyākāśa.
+tato vajradṛṣṭi maḍ iti | cakṣuṣor vvinyasya | Aḥkāreṇa pādatalayor vviśvavajraṁ nirmāya svasamayamudrāmvadho<g type="dandaGap">§</g><lb n="30r6"/>[pa]yākāse tanmaṇḍalam utthāpya | vajrasatva vajro<space type="binding-hole"/>tiṣṭheti |
+	%svasamayamudrāmvaṇā<g type="dandaGap"><g type="dandaGap">§</g></g>[pa]yākāse: emend svasamayamudrām baddhvoparyākāśe. Cf. §49 and 68 for uparyākāśa.
 	% vajrasatva vajrotiṣṭheti: emend vajrottiṣṭheti, or keep MSK reading, or emend vajrasattva vajrottiṣṭheti?
 
 %RT&AG reached here on 21/11/2016
@@ -1099,7 +1103,7 @@ vajramuṣṭidvaye <lb n="30v3"/> tarjanyāṁguṣṭavajrasarvamaṇḍalāka
 
 %MSK vajrahetukarmamudraivāsyā mudrā //
 %RT&AG
- vajrahetukarmamudraivā§<lb n="30v4"/>syā mudrā |
+ vajrahetukarmamudraivā<g type="dandaGap"><g type="dandaGap">§</g></g><lb n="30v4"/>syā mudrā |
 
 %RT&AG reached here on 28/11/2016
 %photo 12, top, 4th line
@@ -1120,19 +1124,19 @@ vajramuṣṭidvaye <lb n="30v3"/> tarjanyāṁguṣṭavajrasarvamaṇḍalāka
 
 %MSK vāmavajramuṣṭyā vā pañcasūcikaṁ vajraṁ ādāya tena hūṁkāram udīrayan maṇḍalakoṇe catuṣṭaye maṇḍalanābhau ca kīlakapañcakaṁ niṣpādya /
 %RT&AG
-vāmavajramuṣṭhyā vā pañcasūcikaṁ vajra§<space type="binding-hole"/>m ādāya tena hūm̐kāram udīrayaṁ maṇḍalaṁ koṇe catuṣṭayaṁ maṇḍalanābhau ca kīlakapañcakaṁ niṣpādya /
+vāmavajramuṣṭhyā vā pañcasūcikaṁ vajra<g type="dandaGap"><g type="dandaGap">§</g></g><space type="binding-hole"/>m ādāya tena hūm̐kāram udīrayaṁ maṇḍalaṁ koṇe catuṣṭayaṁ maṇḍalanābhau ca kīlakapañcakaṁ niṣpādya /
 	%udīrayaṁ: correct udīrayan.
 	%maṇḍalaṁ koṇe catuṣṭayaṁ: emend maṇḍalakoṇacatuṣṭaye; MSK emends maṇḍalakoṇe catuṣṭaye.
 
 %MSK dakṣiṇakareṇa trisūcikavajrīkṛtenākoṭayed imam udīrayan /
 %RT&AG
- dakṣiṇakareṇa tri§<lb n="30v6"/>sūcikavajrīkṛtenākoṭayed iyam udīyan· |
+ dakṣiṇakareṇa tri<g type="dandaGap">§</g><lb n="30v6"/>sūcikavajrīkṛtenākoṭayed iyam udīyan· |
 	% iyam udīyan: emend imam udīrayan, with MSK.
 
 %MSK     oṁ gha gha ghātaya ghātaya sarvaduṣṭān phaṭ // kīlaya kīlaya sarvapāpān phaṭ // vajrakīlavajradhara ājñāpayati svāhā // iti //
 
 %RT&AG
-     om̐ §<space type="binding-hole"/> gha gh<del rend="strikeout">ā</del>a ghātaya ghāta sarvaduṣṭā phaṭ· | kīla<del rend="strikeout">kī</del>ya kīlaya sarvapāpā phaṭ· | vajrakīlavajradharo jñāpayati s[v]āhe[t]i [|]
+     om̐ <g type="dandaGap"><g type="dandaGap">§</g></g><space type="binding-hole"/> gha gh<del rend="strikeout">ā</del>a ghātaya ghāta sarvaduṣṭā phaṭ· | kīla<del rend="strikeout">kī</del>ya kīlaya sarvapāpā phaṭ· | vajrakīlavajradharo jñāpayati s[v]āhe[t]i [|]
 	%ghātaya ghāta: emend ghātaya ghātaya.
 	%sarvaduṣṭā: emend sarvaduṣṭān.
 	%sarvapāpā: emend sarvapāpān.
@@ -1154,7 +1158,7 @@ vāmavajramuṣṭhyā vā pañcasūcikaṁ vajra§<space type="binding-hole"/>m
      
 %RT&AG
 vandhayoga[vidhā]<lb n="31r2"/>nañ ca vajramuṣṭi prakalpayet· |
-kavacayet· vajrakava§<space type="binding-hole"/>ca rakṣāṁ sarvan tu maṇḍala Iti ||
+kavacayet· vajrakava<g type="dandaGap"><g type="dandaGap">§</g></g><space type="binding-hole"/>ca rakṣāṁ sarvan tu maṇḍala Iti ||
 	%vajramuṣṭi: emend vajramuṣṭiṁ, or keep Ārṣa/Aiśa form.
 	% vajrakavaca: emend vajrakavacaṁ, or keep Ārṣa/Aiśa form.
 	%sarvan tu: emend sarvāṁ tu.
@@ -1162,7 +1166,7 @@ kavacayet· vajrakava§<space type="binding-hole"/>ca rakṣāṁ sarvan tu ma�
 %MSK (39) punar maṇḍalamadhye niṣadya manasā sarvamaṇḍalaṁ parikalpya sarvamaṇḍalasthānaṁ gandhenopalipya /
 
 %RT&AG
-punar maṇḍalamadhye niṣadya manasā sarvamaṇḍalaṁ parikalpya sarvamaṇḍalasthānaṁ gandhenopa§<lb n="31r3"/>lipya |
+punar maṇḍalamadhye niṣadya manasā sarvamaṇḍalaṁ parikalpya sarvamaṇḍalasthānaṁ gandhenopa<g type="dandaGap"><g type="dandaGap">§</g></g><lb n="31r3"/>lipya |
 
 %MSK pañcatathāgatasthāneṣu caturaśrāṇi candanakuṅkumādibhir maṇḍalakāni kuryāt /
 
@@ -1200,7 +1204,7 @@ stokaṁ <lb n="31r5"/> toyasya prakṣipya vajrasatvābhimantritam· |
 Adhi<space type="binding-hole"/>vāsayed vidhiva datvārghaṅ gandhavāriṇā |
 kusumāni ca prakṣipya dhūpanaivādhivāsayet· |
 Anyasmi tv ahani trisaṁdhya<lb n="31r6"/>ntaṁ samyak [p]arijapet· |
-tenābhiṣekaṁ kurvvīta puna§<space type="binding-hole"/> japtena maṇḍale |
+tenābhiṣekaṁ kurvvīta puna<g type="dandaGap"><g type="dandaGap">§</g></g><space type="binding-hole"/> japtena maṇḍale |
 lakṣaṇaṁ vakṣamānañ ca tasya jñeyaṁ mahātmabhiḥ |
 śrīvajrasatvasya purataś cāyaṁ sthāpyaḥ
 	%ākṛ: emend ākṛṣya.
@@ -1235,7 +1239,7 @@ tato vāhyavalin datvopaspṛśya nāmāṣṭaśatena <lb n="31v2"/> saṁstuty
 % MSK: tatrādau tāvat susnānaśucivastraiḥ puṣpakaraiś cācāryaṁ praṇamya śiṣyair eva vaktavyaḥ /
 
 % RT&AG:
-tatrādau tāva susnānaśucivastraiḥ puṣpakarais cācāyam praṇamya śiṣyair eva §<lb n="31v3"/> vaktavyaṁ* |
+tatrādau tāva susnānaśucivastraiḥ puṣpakarais cācāyam praṇamya śiṣyair eva <g type="dandaGap">§</g><lb n="31v3"/> vaktavyaṁ* |
 	%tāva: correct tāvat. MSK silently emends thus.
 	%puṣpakarais: emend puṣpaprakāraiś.
 	%cācāyam: emend cācāryam. MSK silently emends thus.\
@@ -1397,7 +1401,7 @@ saptatriṅśadvodhipakṣyadharmmanihārraprativodhāya mayā śikṣitavyaṁ*
 % MSK: (ix) daśabalavaiśāradyapratisaṁvidāveṇikabuddhadharmapratibodhāya mayābhiyogaḥ kartavyaḥ /
 
 %RT&AG:
-daśavalavai§<lb n="32v4"/>śāradya | pratisamvidāveṇikavuddhadharmmaprati§ <space type="binding-hole"/>vodhāya mayābhiyogaḥ karttavyaḥ
+daśavalavai<g type="dandaGap">§</g><lb n="32v4"/>śāradya | pratisamvidāveṇikavuddhadharmmaprati§ <space type="binding-hole"/>vodhāya mayābhiyogaḥ karttavyaḥ
 	%-śāradya | prati-: remove punctuation.
 
 %MSK: (x) evaṁ yāvad aparimitasakalabuddhadharmanirhārāya mayā pratipattavyam //
@@ -1551,7 +1555,7 @@ tataḥ sūyodākāle tathaiva tanmaṇḍalam upayākāśe nyasya | sūtrayet t
 %MSK: iti cakṣurdvaye nyasya / pradrutaprajvalaccakṣuḥpakṣmākarṣaṇalocanādṛṣṭyākṣobhyādīn saṁcodayed idam uccārayan /      vajrasūtraṁ me bhagavan prayacchatu mahāmaṇḍalasūtraṇāya //
 
 %RT&AG
-Iti cakṣurdvaye nya <space type="binding-hole"/>sya | padrutapaccaleccakṣuḥpadmākarṣaṇalocayādṛṣṭhyākṣobhyādī sañcodayed idam uccārayamvajrasūtram me bhaga§<lb n="34r3"/>vāṁta prayacchatu | mahāmaṇḍalasūtraṇāyeti |
+Iti cakṣurdvaye nya <space type="binding-hole"/>sya | padrutapaccaleccakṣuḥpadmākarṣaṇalocayādṛṣṭhyākṣobhyādī sañcodayed idam uccārayamvajrasūtram me bhaga<g type="dandaGap">§</g><lb n="34r3"/>vāṁta prayacchatu | mahāmaṇḍalasūtraṇāyeti |
 	%cakṣudvaye: emend cakṣurdvaye.
 	%pradrutaprajvalaccakṣuḥpadmākarṣaṇalocayādṛṣṭhyākṣobhyādī: emend pradrutaprajvalaccakṣuḥpakṣmākarṣaṇalocanādṛṣṭyākṣobhyādīn (with MSK).
 	% Cf. STTS ed. Hor. §367: see Tanemura 2004: 141-2, 240-241.
@@ -1577,7 +1581,7 @@ tata <space type="binding-hole"/>ḥ svavījārasmisūtrair akṣobhyādisampre�
 %MSK: anyonyānugatāḥ sarvadharmāḥ parasparānupraviṣṭāḥ sarvadharmā atyantānupraviṣṭāḥ sarvadharmā oṁ vajrasattva hūṁ // iti codāharan valaye saṁvartya maṭakārābhyāṁ dakṣiṇetaracakṣuṣoḥ sauryacandramasau niṣpādya / vajradṛṣṭi maṭ iti sthirīkṛtya gandhopaliptahemabhājanādau tatsūtraṁ saṁsthāpya gandhapuṣpadhūpaiḥ saṁpūjya /
 
 %RT&AG:
-    <lb n="34r4"/>Anyonyānugatāḥ sarvadharmmāḥ paraspara <space type="binding-hole"/>nupraviṣṭhāḥ sarvadharmāḥ Atyantānupraviṣṭhāḥ sarvadharmmā | O;m vajrasatva hūm iti codāharam· | valaye saṁ§<lb n="34r5"/>vartya maṭ·kārābhyāṁ dakṣiṇetaracakṣuṣoḥ sau <space type="binding-hole"/>yācandramasau niṣpādya vajradṛṣṭi mat iti sthirīkṛtya | gandhopaliptahemabhājanādau | tatsūtraṁ saṁsthāpya (§) <lb n="34r6"/>gandhapuṣpadhūpaiḥ saṁpūjya |
+    <lb n="34r4"/>Anyonyānugatāḥ sarvadharmmāḥ paraspara <space type="binding-hole"/>nupraviṣṭhāḥ sarvadharmāḥ Atyantānupraviṣṭhāḥ sarvadharmmā | O;m vajrasatva hūm iti codāharam· | valaye saṁ<g type="dandaGap">§</g><lb n="34r5"/>vartya maṭ·kārābhyāṁ dakṣiṇetaracakṣuṣoḥ sau <space type="binding-hole"/>yācandramasau niṣpādya vajradṛṣṭi mat iti sthirīkṛtya | gandhopaliptahemabhājanādau | tatsūtraṁ saṁsthāpya (§) <lb n="34r6"/>gandhapuṣpadhūpaiḥ saṁpūjya |
   	% anyonyānugatāḥ: cf. Sūtrapātanam section of KSP (3.5.4), ed. Tanemura 2004.
   	% RT proposes to emend sarvadharmā iti ca oṁ vajrasattva hūm iti codāharan.
      %parasparanupraviṣṭhāḥ: correct parasparānupraviṣṭāḥ.
@@ -1742,7 +1746,7 @@ maṇḍalapramāṇena ca dviguṇaṁ ṣaḍḍhaste parimāṇḍalyena kan�
 %MSK     caturaśraṁ caturdvāraṁ catustoraṇaśobhitam / catuḥsūtrasamāyuktaṁ paṭṭasragdāmabhūṣitam // 2 //
      
 %RT&AG
-     caturaśraṁ ca§<lb n="35v2"/>turdvārañ catustoraṇasobhitam· |
+     caturaśraṁ ca<g type="dandaGap">§</g><lb n="35v2"/>turdvārañ catustoraṇasobhitam· |
      catuḥsūtrasa§ <space type="binding-hole"/>māyuktaṁ | paṭṭaśragdāmabhūṣitam· |
   		%caturaśraṁ: emend caturasraṁ
      	%-sobhitam: emend -śobhitam, with MSK (silently).
@@ -1804,7 +1808,7 @@ saced vighnanivāraṇaṁ kartukāmo bhavati | lakṣaja<lb n="35v6"/>ptena kī
 %RT&AG
 tatra prabhāmaṇḍale valmīkamṛtti§ <space type="binding-hole"/>kayā devādivighnapratikṛtiṁ kṛtvā | 
 sakraprati§kṛtau svadiksthitiyām īkāreṇa sakram pītaṁ |
-Evam agnyādipra<lb n="36r3"/>kṛtau | ruṅkāreṇa raktam agnim· | Aham iti | yamaṁ  <space type="binding-hole"/> kṛṣṇaṁ | kram iti | rākṣasaṁ kṛṣṇaṁ | vam iti varuṇaṁ śuklaṁ | yam iti vāyu dhūmram· | phaṭ· Iti kuveraṁ pītam· | sumbheti§<lb n="36r4"/> Iśānāṁ śuklaṁ niṣpādya | vajrāṅkuśādibhir ā <space type="binding-hole"/>kṛṣya praveśya vadhvā vaśīkṛtya kīlayet· |
+Evam agnyādipra<lb n="36r3"/>kṛtau | ruṅkāreṇa raktam agnim· | Aham iti | yamaṁ  <space type="binding-hole"/> kṛṣṇaṁ | kram iti | rākṣasaṁ kṛṣṇaṁ | vam iti varuṇaṁ śuklaṁ | yam iti vāyu dhūmram· | phaṭ· Iti kuveraṁ pītam· | sumbheti<g type="dandaGap">§</g><lb n="36r4"/> Iśānāṁ śuklaṁ niṣpādya | vajrāṅkuśādibhir ā <space type="binding-hole"/>kṛṣya praveśya vadhvā vaśīkṛtya kīlayet· |
  	%sakra-: read or correct śakra-, with MSK (silently).
  	%-sthitiyām: emend -sthityām, with MSK.
  	%īkāreṇa: MSK emends ikāreṇa.
@@ -1815,7 +1819,7 @@ Evam agnyādipra<lb n="36r3"/>kṛtau | ruṅkāreṇa raktam agnim· | Aham iti
 %MSK (56) atyantanirvighnaṁ kartukāmena mṛttikayā pracchādanīyāḥ / evam api yadi vighnaṁ kurvanti / vajrahūṁkārayogaṁ kṛtvā ṭakkirājenākṛṣya vajrāṅkuśādibhir apy ākarṣaṇādiṁ kṛtvā vajrahūṁkāraṁ baddhvā vāmapādena vighnapratikṛtim ākramya hūṁ vaṁ hūṁ ityādivivardhanayogāt pratyālīḍhapādāvasthito 'ntarāntarā ca meghādyabhimukhīṁ tāṁ mudrāṁ kṣipet / gagaṇodāraspharaṇadīptajvālākulaprabheṇa vajrahūṁkāreṇa pādaprahārābhighātena meghādikaṁ bhasmīkṛyamāṇaṁ cintayet / evaṁ ghātitā bhavanti /
 
 %RT&AG
-Atyantanirvighna(ṅ) kartukāmena | mṛttikayā pracchādanīyāḥ Evam api <lb n="36r5"/> yadi vighna(ṅ) kurvvanti | vajrahū;mkārayogaṁ kṛtvā ṭa§ <space type="binding-hole"/>kkirājenākṛṣya vajraṁku*śādibhignākarṣaṇādi kṛtvā vajrahū;mkāraṁ vadhvā vāmapādena vighnapratikṛtim ākramya§<lb n="36r6"/>
+Atyantanirvighna(ṅ) kartukāmena | mṛttikayā pracchādanīyāḥ Evam api <lb n="36r5"/> yadi vighna(ṅ) kurvvanti | vajrahū;mkārayogaṁ kṛtvā ṭa§ <space type="binding-hole"/>kkirājenākṛṣya vajraṁku*śādibhignākarṣaṇādi kṛtvā vajrahū;mkāraṁ vadhvā vāmapādena vighnapratikṛtim ākramya<g type="dandaGap">§</g><lb n="36r6"/>
    hū;m va;m hū;m
 Ityādividarbhaṇayogāt pratyālīḍha <space type="binding-hole"/>pādāvasthito ntarāntarā ca meghādyabhimukhīn tā mudrāṁ kṣipet· |
 gagaṇodaraspharaṇadīptajvālākulaprabheṇa§ \foliobreak{36v1"/> vajrahū;mkāreṇa pādaprahā§ <space type="binding-hole"/>rābhighātena meghādikaṁ bhasmīkṛyamāṇam· | cintayed aivaṁ ghātitā bhavanti |
@@ -1881,7 +1885,7 @@ kṣmīkāreṇa ca pāśam aṅkuśasamayaṁ niṣpādya vāmahastenādāya da
 ālīḍhapādena sthitvā mūrdhni vāmapādena pīḍayed idam udīrayan / namaḥ samantavajrāṇāṁ caṇḍamahāroṣaṇa sphoṭaya hūṁ traṁ hāṁ māṁ // iti /
 
 %RT&AG:
-Athodakādivighnanivāraṁ bhavati | hāṁ <space type="binding-hole"/>kāreṇa vāyavyāgneyamaṇḍalastham āyācalam ātmānaṁ niṣpādya valmīkamṛttikayāpatitagomayena vā vi<lb n="37r3"/>ghnapratikṛtiṁ kṛtvā | khaḍgaṁ khaṁkāreṇa rephāgni§ <space type="binding-hole"/>garbhan nirvattya | kṣmīkāreṇa ca pāṣaṁ kuśamayan niṣpādya vāmahastenādāya dakṣiṇena khaḍgaṁ pāśenākṛṣya vighnāṁ <lb n="37r4"/> pratikṛtau niveśya Ālīḍhapādena sthitvā mū§ <space type="binding-hole"/>rdhni cāmapādena pīḍayed idam udīrayam· || namaḥ samantavajrāṇāṁ caṇḍamahāroṣaṇa sphoṭaya hū;m tram· hāṁ mām i§<lb n="37r5"/>ti ||
+Athodakādivighnanivāraṁ bhavati | hāṁ <space type="binding-hole"/>kāreṇa vāyavyāgneyamaṇḍalastham āyācalam ātmānaṁ niṣpādya valmīkamṛttikayāpatitagomayena vā vi<lb n="37r3"/>ghnapratikṛtiṁ kṛtvā | khaḍgaṁ khaṁkāreṇa rephāgni§ <space type="binding-hole"/>garbhan nirvattya | kṣmīkāreṇa ca pāṣaṁ kuśamayan niṣpādya vāmahastenādāya dakṣiṇena khaḍgaṁ pāśenākṛṣya vighnāṁ <lb n="37r4"/> pratikṛtau niveśya Ālīḍhapādena sthitvā mū§ <space type="binding-hole"/>rdhni cāmapādena pīḍayed idam udīrayam· || namaḥ samantavajrāṇāṁ caṇḍamahāroṣaṇa sphoṭaya hū;m tram· hāṁ mām i<g type="dandaGap">§</g><lb n="37r5"/>ti ||
 	% -nivāraṁ: thus MSK; emend -nivāraṇaṁ.
 	% āyācalam: emend āryācalam, with MSK (silent em.).
 	% nirvattya: emend nirvartya, with MSK (silent em.).
@@ -1922,7 +1926,7 @@ Ayācalayogena cāsya mantra§\foliobreak{37v1"/>syāyutasevāṁ kṛtvā paśc
 %MSK sa ced evam api vighnopaśāntir na bhavati / āmaśarāvadvayamadhye rudhiracityaṅgāraviṣarājikonmattakapattarasair mantram ālikhya siddhārthakān aṣṭaśataparijaptāṁs tasmin śarāvasaṁpuṭe nyasyānalavighnādiṁ dṛṣṭvāhutiśataṁ saptakaṁ vā juhuyāt / tatas te naśyante mṛyante vāmanuṣyair vā gṛhyante / vajrahūṁkārayogeṇa vā hūṁkāraṁ lakṣajaptaṁ kṛtvā mānuṣāsthimayacaturaṅgulapramāṇakīlakenāṣṭottaraśatajaptena tathaiva vajrāṅkuśādibhir ākṛṣya praveśya vaddhvā pratikṛtiṁ vajreṇa kīlayed iti //
 
 %RT&AG:
-sa ced evam a§ <space type="binding-hole"/>pi vighnopaśānti bhavati | Āmaśarāvadvayamadhye rudhiracityaṅgāraviśarājikonmattakapattarasair mmantram ā<lb n="37v4"/>likhya siddhārthakān aṣṭaśataparijaptām·|s ta§ <space type="binding-hole"/>smi sarāvasampuṭe nyasyanaravighnādiāṁ dṛṣṭvā Āhutiśataṁ saptakaṁ vā juhuyāt· | tatas tai naśyantai mṛyate vā §<lb n="37v5"/> Amanuṣyair vvā gṛhyante | vajrahū;mkārayogeṇa vā  <space type="binding-hole"/> hū;mkāraṁ lakṣajaptaṁ kṛtvā mānuṣāsthimayacaturaṅgulapramāṇakīlakenāṣṭottaraśatajaptena tathaiva vajrāṅkuśā\foliobreak{38r1"/>dibhir ākṛṣya praveśya vaddhvā pratikṛtim vajreṇa kī§ <space type="binding-hole"/>layed iti ||
+sa ced evam a§ <space type="binding-hole"/>pi vighnopaśānti bhavati | Āmaśarāvadvayamadhye rudhiracityaṅgāraviśarājikonmattakapattarasair mmantram ā<lb n="37v4"/>likhya siddhārthakān aṣṭaśataparijaptām·|s ta§ <space type="binding-hole"/>smi sarāvasampuṭe nyasyanaravighnādiāṁ dṛṣṭvā Āhutiśataṁ saptakaṁ vā juhuyāt· | tatas tai naśyantai mṛyate vā <g type="dandaGap">§</g><lb n="37v5"/> Amanuṣyair vvā gṛhyante | vajrahū;mkārayogeṇa vā  <space type="binding-hole"/> hū;mkāraṁ lakṣajaptaṁ kṛtvā mānuṣāsthimayacaturaṅgulapramāṇakīlakenāṣṭottaraśatajaptena tathaiva vajrāṅkuśā\foliobreak{38r1"/>dibhir ākṛṣya praveśya vaddhvā pratikṛtim vajreṇa kī§ <space type="binding-hole"/>layed iti ||
 	%-śāntibhavati: emend -śāntir na bhavati, with MSK.
 	%-viśa-: emend -viṣa-, with MSK (silent em.).
 	%-patta-: emend -pattra-, with MSK (silent em.).
@@ -2014,7 +2018,7 @@ lohitaṁ paścimabhā<pb n="39r"><lb n="39r1"/>gaṁ | mañjiṣṭottarasaṁy
 %     madhyamaṇḍalamadhye tu buddhabiṁbaṁ niveśayet // 3 //
 
 %RT&AG
-vajrastambhograsaṁstheṣu pañcamaṇḍalama§<lb n="39r2"/>ṇḍitaṁ |
+vajrastambhograsaṁstheṣu pañcamaṇḍalama<g type="dandaGap">§</g><lb n="39r2"/>ṇḍitaṁ |
 madhyamaṇḍalamadhye tu vuddhavimvaṁ nive*śaye <space type="binding-hole"/>t· |
      %vajrastambhogra-: em. vajrastambhāgra-, with MSK.
 
@@ -2106,7 +2110,7 @@ praviṣyanti niṣkrāma<pb n="39v"><lb n="39v1"/>n vāpi bhraśyate samāyān 
 %MSK (65) tatra bhagavān vairocanaḥ sitavarṇaḥ siṁhāsane vajraparyaṅkaniṣaṇṇo bodhyagrimudrayā pañcasūcikavajradhārī sūryaprabhaḥ paṭṭaśāṭikānivasanottarīyaś caturmukho ratnamakuṭapaṭṭābhiṣekī pradhānamukhena pūrvānanaḥ / evam akṣobhyādayo 'pi gajāsaneṣu vajraparyaṅkaniṣaṇṇāḥ sūryaprabhāmaṇḍalā vairocanābhimukhā ratnamakuṭapaṭṭābhiṣekiṇaḥ nīlapītaraktaśyāmāvarṇā yathākrameṇa / ekamukhāḥ pañcasūcikavajravajraratnapadmacakraviśvavajradharāḥ svamahāmudrābhiḥ / vajradhātv iti pañcatathāgatahṛdayam udīrayatā sthāpyā lekhyā vāntarikṣāvasthitāś ca tathāvatāryaikīkāryāḥ /
 
 %RT&AG
-tattra bhagavāṁ  <space type="binding-hole"/> vairocana sitavarṇṇaḥ siṅhāsane vajraparyaṅkaniṣarṇṇo vodhyagrimudrayā pañcasūcikavajradhārī sūyaprabhaḥ <lb n="39v2"/> paṭṭaśāṭikānivasanottarīyaś caturmukho ra <space type="binding-hole"/>tnamakuṭapaṭṭābhiṣekī | pradhānamukhena pūrvvānana | Evam akṣobhyādayo pi gajāsanāniṣu vajraparyaṅkaniṣa§<lb n="39v3"/>rṇṇaḥ sūyaprabhāmaṇḍalā vairocanābhimukhā ra <space type="binding-hole"/>tnamakuṭāpaṭṭābhiṣekiṇaḥ nīlapītaraktaśyāmāvarṇṇā yathākrameṇa | Ekamukhāḥ pañcasūcikavajraḥ <lb n="39v4"/> vajraratnaḥ pa<del rend="strikeout">dmaca</del>dmaḥ viśvavajradharāḥ sva§ <space type="binding-hole"/>mahāmudrābhiḥ vajradhātv iti | pañcatathāgatahṛdayam udīrayatā sthāpyā lekhyā vā'ntarikhāvasthitāś ca § <lb n="39v5"/> tathaivātāyaikīkāyāḥ
+tattra bhagavāṁ  <space type="binding-hole"/> vairocana sitavarṇṇaḥ siṅhāsane vajraparyaṅkaniṣarṇṇo vodhyagrimudrayā pañcasūcikavajradhārī sūyaprabhaḥ <lb n="39v2"/> paṭṭaśāṭikānivasanottarīyaś caturmukho ra <space type="binding-hole"/>tnamakuṭapaṭṭābhiṣekī | pradhānamukhena pūrvvānana | Evam akṣobhyādayo pi gajāsanāniṣu vajraparyaṅkaniṣa<g type="dandaGap">§</g><lb n="39v3"/>rṇṇaḥ sūyaprabhāmaṇḍalā vairocanābhimukhā ra <space type="binding-hole"/>tnamakuṭāpaṭṭābhiṣekiṇaḥ nīlapītaraktaśyāmāvarṇṇā yathākrameṇa | Ekamukhāḥ pañcasūcikavajraḥ <lb n="39v4"/> vajraratnaḥ pa<del rend="strikeout">dmaca</del>dmaḥ viśvavajradharāḥ sva§ <space type="binding-hole"/>mahāmudrābhiḥ vajradhātv iti | pañcatathāgatahṛdayam udīrayatā sthāpyā lekhyā vā'ntarikhāvasthitāś ca § <lb n="39v5"/> tathaivātāyaikīkāyāḥ
 	%vairocana: emend vairocanaḥ, with MSK.
 	%-payaṅka-: emend -paryaṅka-, with MSK (sil. em.).
 	%-niṣarṇṇo: emend -niṣaṇṇo, with MSK (sil. em.).
@@ -2239,7 +2243,7 @@ Akṣyataḥ 1 |  <space type="binding-hole"/> siṅhadhvajaḥ 2 | jayaḥ 3 | 
 %MM: [8] vilocanaḥ 1, meghasvaraḥ 2, sucintitaḥ 3, sumanāḥ 4, śaśī 5, mahāyaśaḥ 6, manicūḍaḥ 7, ugraḥ 8, siṁhagatiḥ 9, drumaḥ 10
 
 %RT&AG: 
-vilocanaḥ 1  <space type="binding-hole"/> meghaśvaraḥ 2 | sucintitaḥ 3 | sumanāḥ 4 | śaśī | 5 | mahāyaśā | 6 | manicūḍaḥ 7 | Ugraḥ 8 | si§<lb n="41r3"/>ṅhagatiḥ 9 | drumaḥ 10 |
+vilocanaḥ 1  <space type="binding-hole"/> meghaśvaraḥ 2 | sucintitaḥ 3 | sumanāḥ 4 | śaśī | 5 | mahāyaśā | 6 | manicūḍaḥ 7 | Ugraḥ 8 | si<g type="dandaGap">§</g><lb n="41r3"/>ṅhagatiḥ 9 | drumaḥ 10 |
 	%meghaśvaraḥ: em. meghasvaraḥ; meghesvaraḥ MM.
 	%mahāyaśā: em. mahāyaśāḥ; mahāyaśaḥ MM.
 
@@ -2253,7 +2257,7 @@ vijatāvī | 1 | prajñā§ <space type="binding-hole"/>kūṭaḥ 2 susthitaḥ
 %MM: [10] maṅgalī 1, satyaketuḥ 2, padmaḥ 3, nārāyanaḥ 4, sukhabāhuḥ 5, jñānākaraḥ 6, guṇārciḥ 7, brahmadattaḥ 8, ratnākaraḥ 9, kusumadevaḥ 10
 
 %RT&AG:
-maṅgalī | 1 | satyaketuḥ 2 | padmaḥ  <space type="binding-hole"/> 3 | nārāyanaḥ 4 | sukhavāhuḥ 5 | jñānākaravuddhiḥ 6 | guṇārcciḥ 7 | brahmadattaḥ 8 | ratnākaraḥ 9 | ku§<lb n="41r5"/>sumadevaḥ 10 ||
+maṅgalī | 1 | satyaketuḥ 2 | padmaḥ  <space type="binding-hole"/> 3 | nārāyanaḥ 4 | sukhavāhuḥ 5 | jñānākaravuddhiḥ 6 | guṇārcciḥ 7 | brahmadattaḥ 8 | ratnākaraḥ 9 | ku<g type="dandaGap">§</g><lb n="41r5"/>sumadevaḥ 10 ||
 	%nārāyanaḥ: em. nārāyaṇaḥ; MM accepts nārāyanaḥ.
 	%jñānākaravuddhiḥ: jñānākaraḥ MM.
 	%brahmādattaḥ: em. brahmadattaḥ, with MM (sil. em.).
@@ -2363,7 +2367,7 @@ photo 9710
 %MM (f.45r)(dyuti)mān 10 [17] maruskandhaḥ 2, guṇaguptaḥ 2, arthamatiḥ 3, acchambhī 4, sthiramitraḥ 5, prabhāsthitasadṛśaḥ 6, maṇicaraṇaḥ 7, mokṣatejaḥ 8, (sundarapā)rśvaḥ 9, subuddhiḥ 10
 
 %RT&AG:
-\foliobreak{45r1"/>timān· | 8 | maraskandhaḥ 9 | guṇaguptaḥ 10 | A <space type="binding-hole"/>rthaṅgamaḥ 1 | Acchambhī | 2 | sthitamittraḥ | 3 | prabhasthitaka<unclear>lpa</unclear>ḥ <unclear>4</unclear> | <unclear>maṇica</unclear>raṇaḥ 5 | mokṣatejāḥ 6 | <unclear>śu</unclear>ddhapā§<lb n="45r2"/>rśvaḥ 7 | suvuddhiḥ 8 |
+\foliobreak{45r1"/>timān· | 8 | maraskandhaḥ 9 | guṇaguptaḥ 10 | A <space type="binding-hole"/>rthaṅgamaḥ 1 | Acchambhī | 2 | sthitamittraḥ | 3 | prabhasthitaka<unclear>lpa</unclear>ḥ <unclear>4</unclear> | <unclear>maṇica</unclear>raṇaḥ 5 | mokṣatejāḥ 6 | <unclear>śu</unclear>ddhapā<g type="dandaGap">§</g><lb n="45r2"/>rśvaḥ 7 | suvuddhiḥ 8 |
 	%timān· 8: timān 10 MM (sil. em.).
 	%maraskandhaḥ: maruskandhaḥ 1 MM (sil. em.).
 	%guṇaguptaḥ 10: guṇaguptaḥ 2 MM (sil. em.).
@@ -2385,7 +2389,7 @@ samatejāḥ 9 | jñānavara <space type="binding-hole"/>ḥ 10 | vrahmadattaḥ
 %MM [19] guṇagarbhaḥ 1, yaśoratnaḥ 2, adbhutayaśaḥ 3, anihatavrataḥ 4, abhayaḥ 5, prabhāmatiḥ 6, brahmabāhuḥ 7, vikrāntadevaḥ 8, jñānapriyaḥ 9, satyadevaḥ 10
 
 %RT&AG
-guṇagarbhaḥ 9 | yasoratnaḥ 10 |  <space type="binding-hole"/> Adbhutayaśāḥ | 1 | Anihatavrataḥ 2 Abhayaḥ 3 | prabhamatiḥ 4 | prahmabāhuḥ 5 | vikrāntatejāḥ 9 | jñāna<unclear>p</unclear>ri§<lb n="45r4"/>yaḥ 7 | satyadevaḥ 8 |
+guṇagarbhaḥ 9 | yasoratnaḥ 10 |  <space type="binding-hole"/> Adbhutayaśāḥ | 1 | Anihatavrataḥ 2 Abhayaḥ 3 | prabhamatiḥ 4 | prahmabāhuḥ 5 | vikrāntatejāḥ 9 | jñāna<unclear>p</unclear>ri<g type="dandaGap">§</g><lb n="45r4"/>yaḥ 7 | satyadevaḥ 8 |
 	%yasoratnaḥ: em. yaśoratnaḥ, with MM.
 	%-yaśāḥ: -yaśaḥ MM.
 	%prabhamatiḥ: prabhāmatiḥ MM.
@@ -2396,7 +2400,7 @@ guṇagarbhaḥ 9 | yasoratnaḥ 10 |  <space type="binding-hole"/> Adbhutayaś�
 %MM: [20] maṇigarbhaḥ 1, jñānaśrīḥ 2, asitaḥ 3, dṛḍhavrataḥ 4, marutejaḥ 5, brahmamuniḥ 6, samantagāmī 7, prāptabaraḥ 8, arciskandhaḥ 9, mahātejaḥ 10
 
 %RT&AG
-maṇigarbhaḥ 9 | jñāna§ <space type="binding-hole"/>śrī | 10 | Asitaḥ 1 | dṛḍhacutaḥ 2 | marutejāḥ 3 | vrahmamuniḥ 4 | samantagāmī | 5 | prāptavaraḥ 6 | Arciska§<lb n="45r5"/>ndhaḥ 7 | mahātejāḥ 8 |
+maṇigarbhaḥ 9 | jñāna§ <space type="binding-hole"/>śrī | 10 | Asitaḥ 1 | dṛḍhacutaḥ 2 | marutejāḥ 3 | vrahmamuniḥ 4 | samantagāmī | 5 | prāptavaraḥ 6 | Arciska<g type="dandaGap">§</g><lb n="45r5"/>ndhaḥ 7 | mahātejāḥ 8 |
 	%jñāna§ <space type="binding-hole"/>śrī: jñānaśrīḥ MM. Should it be jñānaśrīḥ?
 	%dṛḍhacutaḥ: dṛḍhavrataḥ MM. Emend dṛḍhavrataḥ.
 	%marutejāḥ: marutejaḥ MM.
@@ -2462,7 +2466,7 @@ velāmarājaḥ 9 |  <space type="binding-hole"/> Etāni dakṣiṇasyān diśi 
 %MM: III [1] jñānakīrtiḥ 1, samjayī 2, guṇaprabhaḥ 3, vighuṣṭaśabdaḥ 4, pūrṇacandraḥ 5, padmaraśmiḥ 6, suvrataḥ 7, pradīparājaḥ 8, vidyuketuḥ 9, raśmirājaḥ 10
 
 %RT&AG:
-jñānakīrttiḥ 1 sañjayī 2 | guṇaprabhaḥ 3 | vi§<lb n="45v5"/>ghuṣṭaśavdaḥ 4 | pūrṇacandraḥ 5 | padmarasmiḥ 6 |  <space type="binding-hole"/> suvrataḥ 7 | pradīparājāḥ 8 | vidyuketuḥ 9 | raśmirājaḥ 10 |
+jñānakīrttiḥ 1 sañjayī 2 | guṇaprabhaḥ 3 | vi<g type="dandaGap">§</g><lb n="45v5"/>ghuṣṭaśavdaḥ 4 | pūrṇacandraḥ 5 | padmarasmiḥ 6 |  <space type="binding-hole"/> suvrataḥ 7 | pradīparājāḥ 8 | vidyuketuḥ 9 | raśmirājaḥ 10 |
 	%sañjayī: samjayī MM (misprint for saṁjayī).
 	%padmarasmiḥ: em. padmaraśmiḥ.
 	%pradīparājāḥ: em. pradīparājaḥ
@@ -2471,7 +2475,7 @@ jñānakīrttiḥ 1 sañjayī 2 | guṇaprabhaḥ 3 | vi§<lb n="45v5"/>ghuṣ�
 %MM [2] jyotiṣkaḥ 1, anupamakīrtiḥ 2, padmagarbhaḥ 3, puṣyaḥ 4, cārulocanaḥ 5, anāvilārthaḥ 6, ugrasenaḥ 7, puṇyatejaḥ 8, vikramaḥ 9,, asaṅgabuddhiḥ 10
 
 %RT&AG
-jotiṣkaḥ 1 | Anupamakīrttiḥ 2 | padmaga§<lb n="45v6"/>rbhaḥ 3 | puṣpaḥ 4 | cārulocanaḥ 5 | Anāvi§ <space type="binding-hole"/>lārthaḥ 6 | Ugrasenaḥ 7 | puṇyatejaḥ 8 | vikramaḥ 9 | Asaṅgavuddhi\addedbelow{ḥ} 10 |
+jotiṣkaḥ 1 | Anupamakīrttiḥ 2 | padmaga<g type="dandaGap">§</g><lb n="45v6"/>rbhaḥ 3 | puṣpaḥ 4 | cārulocanaḥ 5 | Anāvi§ <space type="binding-hole"/>lārthaḥ 6 | Ugrasenaḥ 7 | puṇyatejaḥ 8 | vikramaḥ 9 | Asaṅgavuddhi\addedbelow{ḥ} 10 |
 	%jotiṣkaḥ: em. jyotiṣkaḥ, with MM.
 	%puṣpaḥ: puṣyaḥ MM.
 	%puṇyatejaḥ: em. puṇyatejāḥ; MM retains the ms. reading.
@@ -2485,7 +2489,7 @@ rāhudevaḥ 1 | jñānaraśmiḥ 2 | <pb n="46r"><lb n="46r1"/> sārathiḥ 3 |
 %MM: [4] takṣakaḥ 1, vighuṣṭarājaḥ 2, sūryaraśmiḥ 3, dharmakośaḥ 4, sumatiḥ 5, guṇendrakalpaḥ 6, vajrasenaḥ 7, prajñākūṭaḥ 8, susthitaḥ 9, sucīrṇabuddhiḥ 10
 
 %RT&AG
-tacchakaḥ 1 | vighuṣṭaśavdaḥ 2 | sū§<lb n="46r2"/>yarasmiḥ 3 | dharmmakośaḥ 4 | sumatiḥ 5 | gaṇe <space type="binding-hole"/>ndrakalpaḥ 7 | prajñākūṭaḥ 8 | susthitaḥ 9 | sucīrṇṇavuddhiḥ 10 |
+tacchakaḥ 1 | vighuṣṭaśavdaḥ 2 | sū<g type="dandaGap">§</g><lb n="46r2"/>yarasmiḥ 3 | dharmmakośaḥ 4 | sumatiḥ 5 | gaṇe <space type="binding-hole"/>ndrakalpaḥ 7 | prajñākūṭaḥ 8 | susthitaḥ 9 | sucīrṇṇavuddhiḥ 10 |
 	%tacchakaḥ: MM emends takṣakaḥ.
 	%vighuṣṭaśavdaḥ: MM emends vighuṣṭarājaḥ.
 	%sūyarasmiḥ: emend sūryaraśmiḥ.
@@ -2644,7 +2648,7 @@ photo 9716, top, l. 1
 %MM: [22] sthitārthaḥ 1, guṇatejaśrīḥ 2, asamatājñānī 3, amitasvaraḥ 4, sukhābhaḥ 5, sumedhaḥ 6, vimokṣamohārthacintī 7, viśiṣṭhasvaraḥ 8, laḍitāgragāmī 9, śantārthaḥ 10
 
 %RT&AG
-sthitāthaḥ 1 | guṇatejāḥśrī 2 | Asamantajñānī 3 | Amitaśuraḥ 4 | sukhābhaḥ 5 | sumedhāḥ 6 | vimokṣā§<lb n="47v2"/> + <unclear>c</unclear>\lost{i}<unclear>ntī</unclear> 7 | visiṣṭhasvaraḥ 8 | laḍitāgragā§ <space type="binding-hole"/>mī | 9 | śamathaḥ 10 |
+sthitāthaḥ 1 | guṇatejāḥśrī 2 | Asamantajñānī 3 | Amitaśuraḥ 4 | sukhābhaḥ 5 | sumedhāḥ 6 | vimokṣā<g type="dandaGap">§</g><lb n="47v2"/> + <unclear>c</unclear>\lost{i}<unclear>ntī</unclear> 7 | visiṣṭhasvaraḥ 8 | laḍitāgragā§ <space type="binding-hole"/>mī | 9 | śamathaḥ 10 |
 	%sthitāthaḥ: em. sthitārthaḥ, with MM.
 	%guṇatejāḥśrī: em. guṇatejaḥśrīḥ, with MM, or guṇatejaḥśrī?
 	%Asamantajñānī: Asamatājñānī MM. Emend samantajñānī or asamajñānī?
@@ -2736,7 +2740,7 @@ ratnaskandhaḥ 1 | laḍitakramaḥ 2 | bhānu <space type="binding-hole"/>mān
 %MM: [7] padmaḥ 1, jñānapriyaḥ 2, laḍitavyūhaḥ 3, amoghavihārī 4, rūḍhavraṇaḥ 5, ketudhvajaḥ 6, sukhacittī 7, vimoharājaḥ 8, vidhi(f.49v1)jñaḥ 9, śuddhasāgaraḥ 10
 
 %RT&AG:
-padmaḥ 1 | jñānapriyaḥ 2 | laḍitavyū§ <space type="binding-hole"/>haḥ 3 | Amoghavihārī | 4 | rūḍhavraṇaḥ 5 | ketudhvajaḥ 6 | sukhacittī | 7 | vimoharājaḥ 8 | vidhi§<pb n="49v"><lb n="49v1"/>jñaḥ 9 | śuddhasāgaraḥ 10 |
+padmaḥ 1 | jñānapriyaḥ 2 | laḍitavyū§ <space type="binding-hole"/>haḥ 3 | Amoghavihārī | 4 | rūḍhavraṇaḥ 5 | ketudhvajaḥ 6 | sukhacittī | 7 | vimoharājaḥ 8 | vidhi<g type="dandaGap">§</g><pb n="49v"><lb n="49v1"/>jñaḥ 9 | śuddhasāgaraḥ 10 |
 
 %MM: [8] ratnadharaḥ 1, ajitaḥ 2, jagattoṣaṇaḥ 3, mahārutaḥ 4, adīnaḥ 5, bhavatṛṣṇāmalaprahīṇaḥ 6, cāritratīrthaḥ 7, bahudevaghuṣṭaḥ 8, ratnakramaḥ 9, padmahastī 10
 
@@ -2830,7 +2834,7 @@ puṇyapriyaḥ 1 ratiprabhaḥ 2 sughoṣa 3 | dharmmeśvaraḥ 4 | vrahmaruta 
 %MM: [18] vighuṣṭatejaḥ 1, jagadīśvaraḥ 2, drumaḥ 3, supraṇaṣṭamohaḥ 4, amṛtaḥ 5, sucandramaḥ 6, anantapratibhānaketuḥ 7, līlāprabhaḥ 8, pūjyaḥ 9, utīrṇaśokaḥ 10
 
 %RT&AG
-vighuṣṭatejāḥ 1 | jagatīśvaraḥ 2 | drumaḥ 3 | supraṇaṣṭamohaḥ 4 | Amṛtaḥ 5 | sucandramāḥ 6 | AnantaA§<lb n="50r6"/>gnityanaketuḥ 7 | līlāprabhaḥ 8 | pūjyaḥ 9 | U§ <space type="binding-hole"/>tīrṇṇasokaḥ 10 |
+vighuṣṭatejāḥ 1 | jagatīśvaraḥ 2 | drumaḥ 3 | supraṇaṣṭamohaḥ 4 | Amṛtaḥ 5 | sucandramāḥ 6 | AnantaA<g type="dandaGap">§</g><lb n="50r6"/>gnityanaketuḥ 7 | līlāprabhaḥ 8 | pūjyaḥ 9 | U§ <space type="binding-hole"/>tīrṇṇasokaḥ 10 |
 	%vighuṣṭatejāḥ: vighuṣṭatejaḥ MM.
 	%jagatīśvaraḥ: jagadīśvaraḥ MM. Make this emendation? It is not necessary from point grammatical/semantic viewpoint.
 	%sucandramāḥ: sucandramaḥ MM.
@@ -2949,7 +2953,7 @@ tato vajrodakaṁ yathāvat pītvātmānam āveśayet / vāmakrodhamuṣṭyā d
 
 %RT&AG
 puṣpādibhiḥ saṁpūjya catuḥpra <space type="binding-hole"/>māṇādikapūrvvakaṁ | samvaram ādāya yathāvat sa<del rend="strikeout">r</del>tvavajrīṁ vadhvā pravi*śet· |
-tato vajrodakaṁ yathāvat pītvātmāna§<lb n="52v2"/><unclear>m</unclear> āveśayet· | vāmakrodhamuṣṭhyā dakṣiṇahasta§ <space type="binding-hole"/>satvavajrāmadhyamaṅguli punaḥ puna sphoṭayan· | Aḥkāreṇa yathāvad dṛḍhīkṛtya tadāveśaṁ yāvat· |
+tato vajrodakaṁ yathāvat pītvātmāna<g type="dandaGap">§</g><lb n="52v2"/><unclear>m</unclear> āveśayet· | vāmakrodhamuṣṭhyā dakṣiṇahasta§ <space type="binding-hole"/>satvavajrāmadhyamaṅguli punaḥ puna sphoṭayan· | Aḥkāreṇa yathāvad dṛḍhīkṛtya tadāveśaṁ yāvat· |
 	%catuḥpramāṇādika-: em. catuḥpraṇāmādika-, with HT (whose reading catuḥpraṃāṇādika- is a typing error).
 	%sa<del rend="strikeout">r</del>tvavajrīṁ: read sattvavajrīṁ; sarvavajrīṁ HT.
 	%-muṣṭhyā: em. muṣṭyā, with HT (sil. em.).
@@ -2961,7 +2965,7 @@ tato vajrodakaṁ yathāvat pītvātmāna§<lb n="52v2"/><unclear>m</unclear> ā
 %HT: vajraṁ tattvena saṁgṛhya ghaṇṭāṁ dharmeṇa vādya ca / samayena mahāmudrām adhiṣṭhāya hṛdayaṁ japet // 1 // iti / pūrvoktavidhiṁ kṛtvā vakṣyamānagāthāpañcakenānujñām udgatāvyākaraṇaṁ cādāya śrīvajrasattvātmamantram //
 
 %RT&AG:
-vajraṁ tatvena sa§<lb n="52v3"/>gṛhya ghaṇṭāṁ dharmmeṇa vādya ca |
+vajraṁ tatvena sa<g type="dandaGap">§</g><lb n="52v3"/>gṛhya ghaṇṭāṁ dharmmeṇa vādya ca |
 samayena mahā <space type="binding-hole"/>mudrām adhiṣṭhāya hṛdayañ japet· | Iti | pūrvvoktavidhiṁ kṛtvā vakṣyamānagāthāpañcakenānujñāṁ | Udgatāvyā<lb n="52v4"/>karaṇañ cādāya śrīvajrasatvātmamantraṁ |
 	%Vajrāvalī (Abhiṣeka) cites same verse from Paramādya; also cited in Hevajrasekapakriyā
 	%sa§gṛhya: em. saṁgṛhya, with HT.
@@ -2970,7 +2974,7 @@ samayena mahā <space type="binding-hole"/>mudrām adhiṣṭhāya hṛdayañ ja
  vajradhātu. aḥ // iti/ tathāgatavajram ātmānam āveśayed vajro 'ham // tato vajradhātur aham // iti / tadvajraṁ bhāvayet / evaṁ yāvad vajrāveśamahāmudrāṁ baddhvā tatsthāne vajrāveśa aḥ // iti / vajraghāṇṭāṁ ātmānam āveśayet / vajraghaṇṭāham // tato vajrāveśo 'ham // iti tadghaṇṭāṁ bhāvayed evaṁ vajreṇa sādhitaṁ bhavati /
 
 %RT&AG:
-ta <space type="binding-hole"/>taḥ svādhiṣṭhānādikaṁ kṛtvā suratavajro ham ityādy anyantaraṁ nāmoccāya vairocanamahāmudrām vadhvā tatsthā<lb n="52v5"/>ne vajradhātu Aḥ Iti | tathāgatavajram ā <space type="binding-hole"/>tmānam āveśayed vajro haṁ | tato vajradhātur aham iti | tatvajrām bhāvayet· | Evaṁ yāvad vajrāveśamahāmudrām va§<lb n="52v6"/>dhvā tatsthāne vajrāveśa Aḥ Iti | vajrāgha§ <space type="binding-hole"/>ṇṭām ātmānam āveśayet· | vajraghaṇṭāhaṁ | tato vajrāveśo ham iti tadghaṇṭām bhāvayed evaṁ vajreṇa mādhita<pb n="53r"><lb n="53r1"/>m bhavati |
+ta <space type="binding-hole"/>taḥ svādhiṣṭhānādikaṁ kṛtvā suratavajro ham ityādy anyantaraṁ nāmoccāya vairocanamahāmudrām vadhvā tatsthā<lb n="52v5"/>ne vajradhātu Aḥ Iti | tathāgatavajram ā <space type="binding-hole"/>tmānam āveśayed vajro haṁ | tato vajradhātur aham iti | tatvajrām bhāvayet· | Evaṁ yāvad vajrāveśamahāmudrām va<g type="dandaGap">§</g><lb n="52v6"/>dhvā tatsthāne vajrāveśa Aḥ Iti | vajrāgha§ <space type="binding-hole"/>ṇṭām ātmānam āveśayet· | vajraghaṇṭāhaṁ | tato vajrāveśo ham iti tadghaṇṭām bhāvayed evaṁ vajreṇa mādhita<pb n="53r"><lb n="53r1"/>m bhavati |
  	%anyantaraṁ: em. anyataraṁ, with HT.
  	%nāmoccāya: em. nāmoccārya, with HT.
  	%tatvajrām: em. tadvajram, with HT (who reads tanvajrām). Or emend tattvajām (sc. ghaṇṭām)? Tib. seems to imply vajradhātu: rdo rje dbyings su bsgom par bya’o/.
@@ -3000,7 +3004,7 @@ tathaiva vajrāṅkuśādibhiḥ ākṛṣya praveśya baddhvā vaśīkṛtya va
 %% HT p.127 starts with -vajramuṣṭinā
 
 %RT&AG
-tathaiva vajrāṁkuśādibhiḥ Ākṛṣya praveśya vadhvā vaśīkṛtya | vajrayakṣeṇa vi§<lb n="53r3"/>ghnotsāraṇaṁ prākāram pañjaraṁ kṛtvā samayava§ <space type="binding-hole"/>jramuṣṭinā maṇḍaladvārāṇi vadhvā tyakṣarakavacena sarvarakṣāḥ saṁrakṣyārghadānapūrvvikābhiḥ svasamayamudrābhi<lb n="53r4"/>dṛśyā kṛtvā
+tathaiva vajrāṁkuśādibhiḥ Ākṛṣya praveśya vadhvā vaśīkṛtya | vajrayakṣeṇa vi<g type="dandaGap">§</g><lb n="53r3"/>ghnotsāraṇaṁ prākāram pañjaraṁ kṛtvā samayava§ <space type="binding-hole"/>jramuṣṭinā maṇḍaladvārāṇi vadhvā tyakṣarakavacena sarvarakṣāḥ saṁrakṣyārghadānapūrvvikābhiḥ svasamayamudrābhi<lb n="53r4"/>dṛśyā kṛtvā
 	%vadhvā: nomalize here and elsewhere baddhvā.
 	%vighnotsāraṇaṁ: vighṇotsāraṇaṁ HT (misprint).
 	%tyakṣara-: em. tryakṣara-? HT reads tryakṣara- and emends to dvyakṣara-, following Tib. An emendation tya- to dvya- would be palaeographically quite easy.
@@ -3010,7 +3014,7 @@ tathaiva vajrāṁkuśādibhiḥ Ākṛṣya praveśya vadhvā vaśīkṛtya | v
 %HT:  jaḥ hūṁ vaṁ hoḥ // pravartayan / samayas tvaṁ // samayas tvam aham // iti ca / svahṛdayāni mantrāṁś cānte saṁsādhya / dharmakarmamahāmudrābhiś cāmudryābhiṣiñced mudrābhiṣekais tathāgatādīn bhadrakalpikaparyantān //
 
 %RT&AG:  
-jāḥ hū;ṁ va;ṁ hoḥ pravarttayam· | sama§ <space type="binding-hole"/>yas tvaṁ | samayas tvam aham iti ca | svahṛdayāni mantrāṁś cānte saṁsādhya || dharmmakarmmamahāmudrābhiś cāmudrābhiṣiñce§<lb n="53r5"/>\lost{n mu}drābhiṣekais tathāgatādīn· | bhadrakalpikapa <space type="binding-hole"/>yantāṁ |
+jāḥ hū;ṁ va;ṁ hoḥ pravarttayam· | sama§ <space type="binding-hole"/>yas tvaṁ | samayas tvam aham iti ca | svahṛdayāni mantrāṁś cānte saṁsādhya || dharmmakarmmamahāmudrābhiś cāmudrābhiṣiñce<g type="dandaGap">§</g><lb n="53r5"/>\lost{n mu}drābhiṣekais tathāgatādīn· | bhadrakalpikapa <space type="binding-hole"/>yantāṁ |
 	%pravarttayam·: em. pravartayan, with HT (sil. em.).
 	%cāmudrābhiṣiñced: em. cāmudryābhiṣiñced, with HT. 
 	%HT does not note that akṣara dmu is lost at the beginning of line 5.
@@ -3019,7 +3023,7 @@ jāḥ hū;ṁ va;ṁ hoḥ pravarttayam· | sama§ <space type="binding-hole"/>
 %HT: tatra sattvavajrādīnāṁ svahṛdayāny eva dharmamudrāḥ / vajrasattvaratnadharmakarmāṇāṁ karmamudrāmahāmudrāś ca / vajrādyantargatāḥ strīrūpadhāriṇyo vajrasattvādirūpāś ca tā iti // vāmatathāgatamuṣṭim uttānaṁ kṛtvā dakṣiṇahastatarjanyaṅguṣṭhābhyāṁ kanīyasīm ārabhya vikāśya saṁpuṭāñjaliṁ kuryāt /  iyaṁ maitreyādīnāṁ samayamudrā vidyā caiṣāṁ pūrvoktā / tām eva vidyāṁ teṣāṁ jihvāsu nyased iyaṁ teṣāṁ dharmamudrā // aḥkāreṇa svahṛdi viśvavajraṁ niṣpādya teṣāṁ lekhyānusārato mahāmudrāṁ baddhvā karmamudrā bhavanti /  svahṛdi pañcasūcikaṁ vajraṁ vicintya lekhyānusārata eva teṣāṁ mahāmudrā bandhanīyāḥ / saivaṁ ca vidyā sāmānyeti //
 
 %RT&AG: 
-tatra satvavajrādīnāṁ svahṛdayāny eva dharmmamudrāḥ vajrasatvā | ratna | dharmma | karmaṇām· | karmmamudrāmahā§<lb n="53r6"/>\lost{mudrā}ś ca | vajrādyantargarttāḥ | strīrūpadhāriṇyo va <space type="binding-hole"/>jrasatvādirūpāś ca tā Iti | vāmatathāgatamuṣṭimudrāttānaṁ kṛtvā dakṣiṇahastatarjanyaṅguṣṭhābhyāṁ kanīyasīm ā<pb n="53v"><lb n="53v1"/>\lost{rabhya} v<unclear>i</unclear>kāśya saṁpuṭāñjaliṁ kuyāt· | Īyā mai <space type="binding-hole"/>treyādīnāṁ samayamudrā | vidyā caiṣāṁ pūrvvoktā | nāmeva vidyān teṣāñ jihvāsu nyasyed iyaṁ teṣāṁ dharmamudrā | Aḥkā<lb n="53v2"/>\lost{re}ṇa svahṛdi viśvavajran niṣpādya teṣāṁ lekhyānu§ <space type="binding-hole"/>sārato mahāmudrām vadhvā | karmmamudrā bhavanti | svahṛdi pañcasūcikam vajrām viciṁtya lekhyānusārata Eva teṣāṁ mahā<lb n="53v3"/>mudrā vandhanīyāḥ | saivañ ca vidyā sāmānyeti § <space type="binding-hole"/>
+tatra satvavajrādīnāṁ svahṛdayāny eva dharmmamudrāḥ vajrasatvā | ratna | dharmma | karmaṇām· | karmmamudrāmahā<g type="dandaGap">§</g><lb n="53r6"/>\lost{mudrā}ś ca | vajrādyantargarttāḥ | strīrūpadhāriṇyo va <space type="binding-hole"/>jrasatvādirūpāś ca tā Iti | vāmatathāgatamuṣṭimudrāttānaṁ kṛtvā dakṣiṇahastatarjanyaṅguṣṭhābhyāṁ kanīyasīm ā<pb n="53v"><lb n="53v1"/>\lost{rabhya} v<unclear>i</unclear>kāśya saṁpuṭāñjaliṁ kuyāt· | Īyā mai <space type="binding-hole"/>treyādīnāṁ samayamudrā | vidyā caiṣāṁ pūrvvoktā | nāmeva vidyān teṣāñ jihvāsu nyasyed iyaṁ teṣāṁ dharmamudrā | Aḥkā<lb n="53v2"/>\lost{re}ṇa svahṛdi viśvavajran niṣpādya teṣāṁ lekhyānu§ <space type="binding-hole"/>sārato mahāmudrām vadhvā | karmmamudrā bhavanti | svahṛdi pañcasūcikam vajrām viciṁtya lekhyānusārata Eva teṣāṁ mahā<lb n="53v3"/>mudrā vandhanīyāḥ | saivañ ca vidyā sāmānyeti § <space type="binding-hole"/>
 	%vajrasatvā | ratna | dharmma | karmāṇām· |: em. vajraratnadharmakarmaṇāṁ? HT emends vajrasattvaratnadharmakarmāṇāṁ.
 	%vajrādyantargarttāḥ: em. vajrādyantargatāḥ, with HT.
 	%-muṣṭimudrāttānaṁ: em. -muṣṭim uttānaṁ, with HT.
@@ -3052,7 +3056,7 @@ sarvagandhān savāsāṁś ca vilepaṇasugandhikān gandhavidyayā / karpūrā
 
 %RT&AG
 puṣpavṛkṣaśatam· | caturo vā vṛkṣā sarvapuṣpā<lb n="53v5"/>ṇi ca pūrvvavad abhimaṁtrya | O;ṁ vajrasphara kham iti ni§ <space type="binding-hole"/>yātayet· |
-sarvagandhān savāsañ ca vilepaṇasugandhikam· | gandhavidyayā | karpūrāgaruturaṣkāṇi candanādisamiśrā<lb n="53v6"/>ṇi  | dhūpavidyayābhimaṁtrya | dhūpaghaṭikālakṣam·  <space type="binding-hole"/> | da*śasahasram· | sahasram· | śataṁ vā daśanyūnam· | na kāyaṁ | ghṛtapradīpādilakṣādisaṁkhyaṁ pradīpakuṇḍasahasra§<pb n="54r"><lb n="54r1"/> śatan da<unclear>ś</unclear>akuṇḍāni catvāri vā | pūrvvavat pradīpamantre <space type="binding-hole"/>ṇābhimaṁtrya | svastikam āditaḥ kṛtvā valyūpahāraṁ | lakṣarūpakam· | daśasahasram· | śataṁ | daśasaṁkhyaṁ vā nānāprakā<lb n="54r2"/>rāṇi ca bhakṣyāni pūrvvavaddevākāro mukhyam ityādi <space type="binding-hole"/>nā | sarvadevatābhyo niyātayet ·|
+sarvagandhān savāsañ ca vilepaṇasugandhikam· | gandhavidyayā | karpūrāgaruturaṣkāṇi candanādisamiśrā<lb n="53v6"/>ṇi  | dhūpavidyayābhimaṁtrya | dhūpaghaṭikālakṣam·  <space type="binding-hole"/> | da*śasahasram· | sahasram· | śataṁ vā daśanyūnam· | na kāyaṁ | ghṛtapradīpādilakṣādisaṁkhyaṁ pradīpakuṇḍasahasra<g type="dandaGap">§</g><pb n="54r"><lb n="54r1"/> śatan da<unclear>ś</unclear>akuṇḍāni catvāri vā | pūrvvavat pradīpamantre <space type="binding-hole"/>ṇābhimaṁtrya | svastikam āditaḥ kṛtvā valyūpahāraṁ | lakṣarūpakam· | daśasahasram· | śataṁ | daśasaṁkhyaṁ vā nānāprakā<lb n="54r2"/>rāṇi ca bhakṣyāni pūrvvavaddevākāro mukhyam ityādi <space type="binding-hole"/>nā | sarvadevatābhyo niyātayet ·|
 	%vṛkṣā: em. vṛkṣān, with HT.
 	%abhimaṁtrya: em. abhimantrya, with HT. HT's note treats this as the same mistake as the one in the preceding line. The two cases are related but different.
 	%niyātayet: em. niryātayet, with HT (sil. em.).
@@ -3098,7 +3102,7 @@ photo 9722, l. 4 (end of line)
 %HT turagāhastigoyūthā dātavyāś ca sukalpitāḥ /  toraṇāni ca ramyāṇi ghaṇṭādisahitāni ca // 1 //
 
 %RT&AG
-tura§<lb n="54r5"/>gāhastigo<unclear>yū</unclear>thā dātavyāś ca sukalpitāḥ to <space type="binding-hole"/>raṇāni ca ramyāṇi ghaṇṭādisahitāni ca |
+tura<g type="dandaGap">§</g><lb n="54r5"/>gāhastigo<unclear>yū</unclear>thā dātavyāś ca sukalpitāḥ to <space type="binding-hole"/>raṇāni ca ramyāṇi ghaṇṭādisahitāni ca |
 
 %HT: tato vajralāsyādibhiṁ saṁpūjya / ``sarvasattvārthaṁ kurudhvaṁ sarvasiddhaye'' iti / sarvatathāgatavijñaptiṁ kuryāt // tato bāhyabaliṁ dadyād uttarasādhakaṁ maṇḍale pratiṣṭhāpya /
 
@@ -3128,7 +3132,7 @@ pūrvvādagbhāgam ārabhya  <space type="binding-hole"/> tṛkṣepāt· | gand
 %HT [Śakra] ālīḍhapadena sthitaḥ prāṅmukho vāmavajraṁ darśayet / dakṣiṇavajraṁ kaṭideśe saṁdhārya dakṣiṇatarjanyaṅkuśyāvāhayet / tarjanyaṅkuśarahitā śakrasya samayamudrā / pratyālīḍhapadena sthitvā āvāhanamudrāyās tarjanīṁ prasārya visarjanamudrā / athāsya mantraḥ /  namo vajrasya diśi diśi vajrapāṇe rakṣa rakṣa svāhā //
 
 %RT&AG
-Ālīḍhapadena sthitam· | prāṅmukho vāma<lb n="54v3"/>vajran darśayet· | dakṣiṇavajraṁ kaṭidese sadhāya§   <space type="binding-hole"/> dakṣiṇatarjanyaṅkuśyāvāhayet· | tarjanyaṅkuśarahitā śakrasya samayamudrā pratyālīḍhapadena sthitvā | Āvāha§<lb n="54v4"/>namudrāyās tarjanīṁ prasāya visarjjanamudrā |  <space type="binding-hole"/> Athāsammantram· |  namo vajrasya ca diśi diśi vajrapāṇe rakṣa rakṣa svāhā |
+Ālīḍhapadena sthitam· | prāṅmukho vāma<lb n="54v3"/>vajran darśayet· | dakṣiṇavajraṁ kaṭidese sadhāya§   <space type="binding-hole"/> dakṣiṇatarjanyaṅkuśyāvāhayet· | tarjanyaṅkuśarahitā śakrasya samayamudrā pratyālīḍhapadena sthitvā | Āvāha<g type="dandaGap">§</g><lb n="54v4"/>namudrāyās tarjanīṁ prasāya visarjjanamudrā |  <space type="binding-hole"/> Athāsammantram· |  namo vajrasya ca diśi diśi vajrapāṇe rakṣa rakṣa svāhā |
 	%sthitam· |: em. sthitaḥ, with HT.
 	%-dese: em. -deśe, with HT.
 	%sadhāya: em. saṁdhārya, with HT.
@@ -3140,7 +3144,7 @@ pūrvvādagbhāgam ārabhya  <space type="binding-hole"/> tṛkṣepāt· | gand
 asyā eva mudrāyāḥ karamadhye / abhimukhāv aṅguṣṭhatarjanīnakhāv ekato yojyau visarjanamudrā / mantraḥ / agne ehy ākapilākapila jvala 2 daha śikhitoli virūpākṣa svāhā ///
 
 %RT&AG:
-dakṣiṇakaratarjjanīṁ kuṇḍalākāre<lb n="54v5"/><unclear>ṇa</unclear> kuñcayitvā madhyamasūcyās tṛtīyaparvve dhā <space type="binding-hole"/>rayed aṅguṣṭhañ ca karamadhye | Agner āvāhanamudrā | Āvāhanamudrāyā Aṅguṣṭhatarjjanīpārśvāsṛtam agne sama§<lb n="54v6"/>yamudrā | Asyā Eva mudrayāḥ karamadhye |  <space type="binding-hole"/> Abhimukhāv aṅguṣṭhatarjjanīnakhāv ekato yojyo visarjanamudrā | mantra | Agne Ehy ākapilākapila jvala 2 daha § <pb n="55r"><lb n="55r1"/> śikhi <unclear>to</unclear>li virūpākṣa svāhā |
+dakṣiṇakaratarjjanīṁ kuṇḍalākāre<lb n="54v5"/><unclear>ṇa</unclear> kuñcayitvā madhyamasūcyās tṛtīyaparvve dhā <space type="binding-hole"/>rayed aṅguṣṭhañ ca karamadhye | Agner āvāhanamudrā | Āvāhanamudrāyā Aṅguṣṭhatarjjanīpārśvāsṛtam agne sama<g type="dandaGap">§</g><lb n="54v6"/>yamudrā | Asyā Eva mudrayāḥ karamadhye |  <space type="binding-hole"/> Abhimukhāv aṅguṣṭhatarjjanīnakhāv ekato yojyo visarjanamudrā | mantra | Agne Ehy ākapilākapila jvala 2 daha § <pb n="55r"><lb n="55r1"/> śikhi <unclear>to</unclear>li virūpākṣa svāhā |
 	%-tarjjanīṁ: -tarjanī HT. But there is clearly an anusvāra and it is required also by the context.
 	%-sṛtam: em. -śritam, with HT.
 	%agne: em. agneḥ. HT's em. agner goes against the rules of sandhi.
@@ -3170,7 +3174,7 @@ yāmyābhimu <space type="binding-hole"/>kho yogī Abhimukhau karau kṛtvā Abh
 %HT: [Nairṛti] nairṛtyabhimukhas sa <space type="binding-hole"/>mapādasthito dakṣiṇakaramuṣṭiṁ kṛtvā madhyamātarjanyau kuñcayet / khadgākāreṇa saṁsthāpya vāmakaraṁ kaṭipradeśe dhārayed vāmatarjanīṁ kuñcayitvā nairṛter āvāhanamudrā / asyā eva mudrayā vāmakaraṁ kaṭideśe 'vasthitaṁ khaḍgamudrā nairṛteḥ samayamudrā / āvāhanamudrāyās tarjanīṁ prasārya visarjanamudrā / mantraḥ / sarvabhūtabhayaṁkara kuru 2 svāhā //
 
 %RT&AG: 
-naiR̥tyabhimukhas samapādasthito dakṣiṇakaramuṣṭhiṅ kṛtvā madhyamātarjjanyau kuñcayet· | khaḍgakāreṇa saṁsthāpya vāmakaraṁ kaṭiprade§<lb n="55r4"/>se dhārayed vāmantarjjanīṁ kuñcayitvā nisate§ <space type="binding-hole"/>r āvāhanamudrā | Asyā Eva mudrayā vāmakaraṁ kaṭidese vasthitaṁ khadgamudrā nirsateḥ samayamudrā  Avāhana§<lb n="55r5"/>mudrāyās tarjanīṁ prasāya visarjanamudrā | ma <space type="binding-hole"/>ntra | sarvabhūtabhayaṅkara kuru 2 svāhā |
+naiR̥tyabhimukhas samapādasthito dakṣiṇakaramuṣṭhiṅ kṛtvā madhyamātarjjanyau kuñcayet· | khaḍgakāreṇa saṁsthāpya vāmakaraṁ kaṭiprade<g type="dandaGap">§</g><lb n="55r4"/>se dhārayed vāmantarjjanīṁ kuñcayitvā nisate§ <space type="binding-hole"/>r āvāhanamudrā | Asyā Eva mudrayā vāmakaraṁ kaṭidese vasthitaṁ khadgamudrā nirsateḥ samayamudrā  Avāhana<g type="dandaGap">§</g><lb n="55r5"/>mudrāyās tarjanīṁ prasāya visarjanamudrā | ma <space type="binding-hole"/>ntra | sarvabhūtabhayaṅkara kuru 2 svāhā |
 	%cf. SDPS p. 274 for  asyā eva ...
 	%naiR̥tya-: em. nairṛtya-, with HT (sil. em.).
 	%-muṣṭhiṅ: em. -muṣṭiṁ, with HT (sil. em.).
@@ -3235,7 +3239,7 @@ Asyā Eva mudrayā madhyādvayam abhyantaravajravandhayogato nyasyet ku<lb n="55
 %HT: [Īśāna] aiśānyāṁ diśi tad abhimukhāvasthitāḥ karadvayam ekato yojyāñjaliṁ kṛtvā kanyasānāmikais talavajrabandhaṁ kṛtvāṅguṣṭhayugalaṁ madhyāśritaṁ madhyamasūcyo bahir vajrākāreṇa tarjanīdvayaṁ nyasya tad evākuñcyopari parasparanakhāsaktaṁ kuryād īśānāvāhanamudrā / asyā eva tarjanyau pūrvavajrākāreṇa dhārayed īśānasya samayamudrā /  āvāhanamudrāyās tarjanyau prasārya visarjanamudrā / mantraḥ / oṁ juṁ juṁ śiva svāhā //
 
 %RT&AG:
-Aiṣānyan diśi tadabhimukhāvasthitāḥ karadvaya§<pb n="56r"><lb n="56r1"/>m ekato yojyāṁjali kṛtvā kanyasānāmikais tala <space type="binding-hole"/>vajravandhaṁ kṛtvāṅguṣṭayugalam madhyāśṛtaṁ madhyamacūcyā  vahir vvajrākāreṇa tarjjanīdvayaṁ nyasya tad evākucyopari para§<lb n="56r2"/>sparanakhāsaktaṁ kuyād īśānāvāhanamudrā | A <space type="binding-hole"/>syā Eva tarjanyo pūrvvavajrākāreṇa dhārayed īśānasya samayamudrā | āvāhanamudrāyās tarjanyau praśāya § <lb n="56r3"/> visarjanamudrā mantraḥ | O;ṁ jru;ṁ jru;ṁ śiva svāhā |  <space type="binding-hole"/>
+Aiṣānyan diśi tadabhimukhāvasthitāḥ karadvaya<g type="dandaGap">§</g><pb n="56r"><lb n="56r1"/>m ekato yojyāṁjali kṛtvā kanyasānāmikais tala <space type="binding-hole"/>vajravandhaṁ kṛtvāṅguṣṭayugalam madhyāśṛtaṁ madhyamacūcyā  vahir vvajrākāreṇa tarjjanīdvayaṁ nyasya tad evākucyopari para<g type="dandaGap">§</g><lb n="56r2"/>sparanakhāsaktaṁ kuyād īśānāvāhanamudrā | A <space type="binding-hole"/>syā Eva tarjanyo pūrvvavajrākāreṇa dhārayed īśānasya samayamudrā | āvāhanamudrāyās tarjanyau praśāya § <lb n="56r3"/> visarjanamudrā mantraḥ | O;ṁ jru;ṁ jru;ṁ śiva svāhā |  <space type="binding-hole"/>
 	%Aiṣānyan: em. Aiśānyāṁ, with HT.
 	%-sthitāḥ: em. -sthitaḥ, with HT (sil. em.).
 	%yojyāṁjali: em. yojyāñjaliṁ, with HT (sil. em.).
@@ -3256,7 +3260,7 @@ asyā eva tarjanīdvayaṁ pūrvavat saṁsthāpya samayamudrā / āvāhanamudr�
 mantrā bhavanti / ūrdhvabrahmane svāhā / sūryāya grahādhipataye svāhā / candrāya nakṣatrādhipataye svāhā /
 
 %RT%AG
-pratyālīḍhasthānastho 'ñjalyākāreṇa hasto saṁdhāyorddha dṛṣṭvā tarjanīdvayāṁkuśyā vrahmādīnām āvāhanam· | A<lb n="56r4"/>syā Eva tarjanīdvaya pūrvavat saṁsthāpya samaya§ <space type="binding-hole"/>mudrā | Āvāhanamudrāyās tarjanīdvayaṁ prasāya visarjanamudrā | mantrā bhavanti | Ūrddhavrahmaṇe svāhā | sūyāya §<lb n="56r5"/> grahādhipataye svāhā | candrāya nakṣatrādhipa§ <space type="binding-hole"/>taye svāhā |
+pratyālīḍhasthānastho 'ñjalyākāreṇa hasto saṁdhāyorddha dṛṣṭvā tarjanīdvayāṁkuśyā vrahmādīnām āvāhanam· | A<lb n="56r4"/>syā Eva tarjanīdvaya pūrvavat saṁsthāpya samaya§ <space type="binding-hole"/>mudrā | Āvāhanamudrāyās tarjanīdvayaṁ prasāya visarjanamudrā | mantrā bhavanti | Ūrddhavrahmaṇe svāhā | sūyāya <g type="dandaGap">§</g><lb n="56r5"/> grahādhipataye svāhā | candrāya nakṣatrādhipa§ <space type="binding-hole"/>taye svāhā |
 	%hasto: em. hastau, with HT.
 	%saṁdhāyorddha: em.  saṁdhāryordhvaṁ, with HT (who ignores absent repha).
 	%tarjanīdvaya: em. tarjanīdvaya, with HT.
@@ -3405,7 +3409,7 @@ photo 22,  top, line 1
 %MSK (70) tataḥ samāviṣṭaṁ jñātvācāryeṇa he vajrasattva he vajraratna he vajradharma he vajrakarma // iti vajrasattvasamayamudrāṁ baddhvoccāraṇīyam / punar     nṛtyasattva nṛtyavajra // iti // sa ced āviṣṭaḥ śrīvajrasattvamudrāṁ badhnīyāt / tadācāryeṇa vajramuṣṭimudropadarśanīyā / evaṁ sarve śrīvajrasattvādayaḥ saṁnidhiḥ kalpayanti / tato 'bhipretavastu pṛcched anena / jihvāyām tasyāviṣṭasya vajraṁ vicintya / brūhi vajra / iti vaktavyam / tataḥ sarvaṁ vadati //
 
 %RT&AG
-tataḥ samāviṣṭaṁ jñātvā <space type="binding-hole"/>cāreṇa he vajrasatva | he vajraratna | he vajradha<supplied reason="lost">r</supplied>mma | h<supplied reason="lost">e</supplied> vajrakarmmeti | vajrasatvasamayamudrām vadhvoccāraṇīyaṁ punaḥ <lb n="60v2"/> nṛtyasatva nṛtyavajreti | sa ced ādiṣṭhaḥ śrīvajra <space type="binding-hole"/>satvamudrā vadhnīyāt· | tadācāyeṇa vajramuṣṭhimudrāpadarśanīyāḥ | Evaṁ sarve śrīvajrasatvādayaḥ sannidhyan ka§<lb n="60v3"/>lpayanti | tato 'bhipretavastu pṛcched anena | jihvā <space type="binding-hole"/>yāṁ tasyāviṣṭasyāviṣṭasya vajram vicintya | vrūhi vajreti vaktavyam· | tataḥ sarvam vadati
+tataḥ samāviṣṭaṁ jñātvā <space type="binding-hole"/>cāreṇa he vajrasatva | he vajraratna | he vajradha<supplied reason="lost">r</supplied>mma | h<supplied reason="lost">e</supplied> vajrakarmmeti | vajrasatvasamayamudrām vadhvoccāraṇīyaṁ punaḥ <lb n="60v2"/> nṛtyasatva nṛtyavajreti | sa ced ādiṣṭhaḥ śrīvajra <space type="binding-hole"/>satvamudrā vadhnīyāt· | tadācāyeṇa vajramuṣṭhimudrāpadarśanīyāḥ | Evaṁ sarve śrīvajrasatvādayaḥ sannidhyan ka<g type="dandaGap">§</g><lb n="60v3"/>lpayanti | tato 'bhipretavastu pṛcched anena | jihvā <space type="binding-hole"/>yāṁ tasyāviṣṭasyāviṣṭasya vajram vicintya | vrūhi vajreti vaktavyam· | tataḥ sarvam vadati
 	%SDPT 294:14-15
 	%jñātvācāreṇa: em. jñātvācāryeṇa, with MSK (sil. em.).
 	%ādiṣṭhaḥ: em. āviṣṭaḥ, with MSK.
@@ -3418,7 +3422,7 @@ tataḥ samāviṣṭaṁ jñātvā <space type="binding-hole"/>cāreṇa he vaj
 %MSK (71) tatas tāṁ mālāṁ mahāmaṇḍale kṣepayet / pratīccha vajra hoḥ / iti tato yatra patati so 'sya sidhyati / tatas tāṁ mālāṁ tasyaiva śirasi bandhayet / oṁ pratigṛhṇa tvam imaṁ sattva mahābala // iti //
 
 %RT&AG
-tatas tām mālāṁ mahāma§<lb n="60v4"/>ṇḍale kṣepayet· | pratīccha vajra hoḥ Iti | tato  <space type="binding-hole"/> yatra patati | somya sidhyati | tatas tām mālāṁ tasyaiva śirasi vandhayet· | O;ṁ pratigṛhṇa tvam imaṁ satvaṁ mahāvaleti |
+tatas tām mālāṁ mahāma<g type="dandaGap">§</g><lb n="60v4"/>ṇḍale kṣepayet· | pratīccha vajra hoḥ Iti | tato  <space type="binding-hole"/> yatra patati | somya sidhyati | tatas tām mālāṁ tasyaiva śirasi vandhayet· | O;ṁ pratigṛhṇa tvam imaṁ satvaṁ mahāvaleti |
 	%somya: em. so 'sya, with MSK (sil. em.).
 	%satvaṁ:  MSK emends sattva, but we do not understand why.
 
@@ -3436,7 +3440,7 @@ tatas tām mālāṁ mahāma§<lb n="60v4"/>ṇḍale kṣepayet· | pratīccha 
 %photo 31,  top, line 1, end
 
 %RT&AG
-tato mahāmaṇḍa<lb n="60v6"/>lam vajrāṁkuśād ārabhyāvairocanapayantaṁ darśaye <space type="binding-hole"/>t· | tatas tiṣṭha vajretyādinā praveśamudrāmokṣaṁ śiṣyahṛdaye kārayet· | tato vāhyamaṇḍalābhyantare pūrvadvārā<pb n="61r"><lb n="61r1"/>bhimukhīṁ vāhyato vā candramaṇḍalam ālikhya śi§ <space type="binding-hole"/>ṣya satvavajrādimudrācatuṣṭayena svasamayamudrayā ca | śrīvajrasatvādirūpam adhiṣṭhāya | svamahāmudrayā candra§<lb n="61r2"/>maṇḍale pratiṣṭhāpyābhiṣiñceṅgandhapuṣpādibhi <space type="binding-hole"/>r abhyaccyārghan datvā | chatradhvajapatākādibhis tūyaśaṅkhanirnāditaiś ca |
+tato mahāmaṇḍa<lb n="60v6"/>lam vajrāṁkuśād ārabhyāvairocanapayantaṁ darśaye <space type="binding-hole"/>t· | tatas tiṣṭha vajretyādinā praveśamudrāmokṣaṁ śiṣyahṛdaye kārayet· | tato vāhyamaṇḍalābhyantare pūrvadvārā<pb n="61r"><lb n="61r1"/>bhimukhīṁ vāhyato vā candramaṇḍalam ālikhya śi§ <space type="binding-hole"/>ṣya satvavajrādimudrācatuṣṭayena svasamayamudrayā ca | śrīvajrasatvādirūpam adhiṣṭhāya | svamahāmudrayā candra<g type="dandaGap">§</g><lb n="61r2"/>maṇḍale pratiṣṭhāpyābhiṣiñceṅgandhapuṣpādibhi <space type="binding-hole"/>r abhyaccyārghan datvā | chatradhvajapatākādibhis tūyaśaṅkhanirnāditaiś ca |
 	%ārabhyāvairocanapayantaṁ: MSK emends ārabhya vairocanaparyantaṁ (silently for the missing repha). We emend only -paryantaṁ.
 	%-mukhīṁ: MSK emends -mukhaṁ, with SDPT. Another possibility might be to emend -mukhī.
 	%śiṣya: em. śiṣyaṁ, with MSK.
@@ -3448,7 +3452,7 @@ tato mahāmaṇḍa<lb n="60v6"/>lam vajrāṁkuśād ārabhyāvairocanapayanta�
 tataḥ sarvavidhim anuṣṭhāya śiṣyanāmāṣṭaśatena saṁstutya gāthāpañcakenānujñāṁ dattvā / udgāthāvyākaraṇena sarvaśiṣyān vyākuryād iti // //
 
 %RT&AG
-tato maṅgalagāthābhir abhinaṁdya | Ādau tāvad u<lb n="61r3"/>dakābhiṣekeṇa makuṭapaṭṭavajrādhipatināmā§ <space type="binding-hole"/>bhiṣekaiś cābhiṣicya | punaḥ puṣpādibhi lāsyādyaṣṭavidhapūjāyā ca sampūjyaye || śiṣyeṇa cottamān dakṣiṇāṁ § <lb n="61r4"/> datvācāyam praṇamya praṇamya valitavajrāñjali§ <space type="binding-hole"/>nā puṣpādikaṁm abhiṣekāś ca grāhyaḥ Ācāyābhiṣekaṁ tu śrīvajrasatvamahāmudrayā pratiṣṭhāpya | yathānirddiṣṭeṣu <lb n="61r5"/> sthāneṣu samayamudrābhis tasya kāye śrīvajrasa§ <space type="binding-hole"/>tvādiṁ nyasya śrīvajrasatvapratimāñ ca śirasi pratiṣṭhāpyodakābhiṣekaṁ datvaimaṁ mantram aṣṭottaraśatavārām āvartta§<lb n="61r6"/>yet· | O[ṁ mahāsukha vajrasatva jaḥ hū;ṁ va;ṁ hoḥ su <space type="binding-hole"/>rata tvam iti || tataḥ sarvavidhim anuṣṭhāya śiṣya nā<unclear>māṣ</unclear><supplied reason="lost">ṭ</supplied>aśatena saṁs<unclear>tu</unclear>tya gāthāpañcakenānujñāṁ datvā | Uṅgatāvyā<pb n="61v"><lb n="61v1"/>karaṇaina sarvaśiṣyā vyākuyād iti || ||
+tato maṅgalagāthābhir abhinaṁdya | Ādau tāvad u<lb n="61r3"/>dakābhiṣekeṇa makuṭapaṭṭavajrādhipatināmā§ <space type="binding-hole"/>bhiṣekaiś cābhiṣicya | punaḥ puṣpādibhi lāsyādyaṣṭavidhapūjāyā ca sampūjyaye || śiṣyeṇa cottamān dakṣiṇāṁ § <lb n="61r4"/> datvācāyam praṇamya praṇamya valitavajrāñjali§ <space type="binding-hole"/>nā puṣpādikaṁm abhiṣekāś ca grāhyaḥ Ācāyābhiṣekaṁ tu śrīvajrasatvamahāmudrayā pratiṣṭhāpya | yathānirddiṣṭeṣu <lb n="61r5"/> sthāneṣu samayamudrābhis tasya kāye śrīvajrasa§ <space type="binding-hole"/>tvādiṁ nyasya śrīvajrasatvapratimāñ ca śirasi pratiṣṭhāpyodakābhiṣekaṁ datvaimaṁ mantram aṣṭottaraśatavārām āvartta<g type="dandaGap">§</g><lb n="61r6"/>yet· | O[ṁ mahāsukha vajrasatva jaḥ hū;ṁ va;ṁ hoḥ su <space type="binding-hole"/>rata tvam iti || tataḥ sarvavidhim anuṣṭhāya śiṣya nā<unclear>māṣ</unclear><supplied reason="lost">ṭ</supplied>aśatena saṁs<unclear>tu</unclear>tya gāthāpañcakenānujñāṁ datvā | Uṅgatāvyā<pb n="61v"><lb n="61v1"/>karaṇaina sarvaśiṣyā vyākuyād iti || ||
 	%maṅgala-: the -ṅ- lacks its hook.
 	%udakābhiṣekeṇa: Tib. adds mudrābhiṣekeṇa after this.
 	%cābhiṣicya: MSK needlessly emends cābhiṣiñcya.
@@ -3481,7 +3485,7 @@ Atha guhyābhiṣeko bhavati | Ācāryābhiṣekā<unclear>rha</unclear>\lost{m}
 %MSK (76) atha madhyakrama ucyate / mūlamaṇḍalād dhastadvayamātraṁ parityajya praveśadvārasaṁmukhaṁ garbhamaṇḍalārdhapramāṇaṁ caturasraṁ paścimadvāraṁ pañcabhiś cūrṇair maṇḍalam ālikhya tasya / madhye 'ṣṭapattraṁ padmaṁ / tasyopari raktavarṇaṁ raśmimālinaṁ pañcasūcikaṁ vajram ālikhet / tataḥ puṣpādibhis taṁ maṇḍalaṁ saṁpūjya candramaṇḍalapaṭācchannaṁ siṁhāsanaṁ pīṭhikāṁ vā vajrayakṣābhijaptāṁ pūrvavac chiṣyaṁ vajrasattvam adhiṣṭhāya tatra pratiṣṭhāpya vajrasattvamahāmudrayā / siṁhāsanopari vitānam / dakṣiṇabhāge ca paṭasragdāmabhūṣitaṁ sitaratnacūḍacchatraṁ hūṁkārābhimantritam / vāmato nānāvastravicitradhvajapatākāś ca gaganagañjaparijaptāḥ saṁsthāpyārghaṁ dattvā puṣpādibhiḥ saṁpūjya / śaṅkhapaṭahabherīkāhalādibhir vādyair vādyamudrādhiṣṭhitair vādyanṛtyagītair vajralāsyādibhiś cottamāṁ dakṣiṇām ādāya / śrīvajrasattvapratimāṁ tasya mūrdhni pratiṣthāpya maṅgalagāthām (ed. -gāthā) uccārayet // //
 
 %RT&AG
-Atha madhyakrama Ucyate | mūlamaṇḍalārddhastadvayamantraṁ parityajya praveśadvārasammukhaṁ garbhamaṇḍalārddhapramā<lb n="61v3"/>ṇaṁ caturaśram· | paścimadvāraṁ pañcabhiś cūrṇṇair mma <space type="binding-hole"/>ṇḍalam ālikhya tasya madhye ṣṭhapattram padmaṁ tasyopari raktavarṇṇaṁ raśmimālinaṁ pañcasūcikaṁ vajram ālikhet· | tataḥ <lb n="61v4"/> puṣpādibhis tan maṇḍalaṁ saṁpūjya candramaṇḍalapaṭā <space type="binding-hole"/>cchannam· | siṁhāsanaṁ | pīṭhikam vā vajrayakṣābhijaptāpūrṇṇavasthiṣyaṁ vajrasatvaṁm adhiṣṭhāya | tattra pratiṣṭhāpya | vajra<lb n="61v5"/>satvamahāmudrayā siṁhāsanopari vitānaṁ | da <space type="binding-hole"/>kṣiṇabhāge ca paṭāsragdāmabhūṣitam· | sitaṁ ratnacūḍacchatraṁ hū;ṁkārābhimantritam· | vāmato nānāvastravicittradhva§<lb n="61v6"/>japatākāś ca gaganagañjaparijaptāḥ saṁsthāpyā <space type="binding-hole"/>rghan datvā puṣpādibhiḥ saṁpūjya śaṅkhapaṭahabherīkāhalādibhir vādyair vādyamudrādhiṣṭhitair vāhyanṛtyagītair vajra§<pb n="62r"><lb n="62r1"/>lāsyādibhiś ca Uttamāṁ dakṣiṇām ādāya | śrīva <space type="binding-hole"/>jrasatvapratimān tasya mūrdhni pratiṣṭhāpya maṅgalagāthā Uccārayet· || <g type="cicleLarge"/>  ||
+Atha madhyakrama Ucyate | mūlamaṇḍalārddhastadvayamantraṁ parityajya praveśadvārasammukhaṁ garbhamaṇḍalārddhapramā<lb n="61v3"/>ṇaṁ caturaśram· | paścimadvāraṁ pañcabhiś cūrṇṇair mma <space type="binding-hole"/>ṇḍalam ālikhya tasya madhye ṣṭhapattram padmaṁ tasyopari raktavarṇṇaṁ raśmimālinaṁ pañcasūcikaṁ vajram ālikhet· | tataḥ <lb n="61v4"/> puṣpādibhis tan maṇḍalaṁ saṁpūjya candramaṇḍalapaṭā <space type="binding-hole"/>cchannam· | siṁhāsanaṁ | pīṭhikam vā vajrayakṣābhijaptāpūrṇṇavasthiṣyaṁ vajrasatvaṁm adhiṣṭhāya | tattra pratiṣṭhāpya | vajra<lb n="61v5"/>satvamahāmudrayā siṁhāsanopari vitānaṁ | da <space type="binding-hole"/>kṣiṇabhāge ca paṭāsragdāmabhūṣitam· | sitaṁ ratnacūḍacchatraṁ hū;ṁkārābhimantritam· | vāmato nānāvastravicittradhva<g type="dandaGap">§</g><lb n="61v6"/>japatākāś ca gaganagañjaparijaptāḥ saṁsthāpyā <space type="binding-hole"/>rghan datvā puṣpādibhiḥ saṁpūjya śaṅkhapaṭahabherīkāhalādibhir vādyair vādyamudrādhiṣṭhitair vāhyanṛtyagītair vajra<g type="dandaGap">§</g><pb n="62r"><lb n="62r1"/>lāsyādibhiś ca Uttamāṁ dakṣiṇām ādāya | śrīva <space type="binding-hole"/>jrasatvapratimān tasya mūrdhni pratiṣṭhāpya maṅgalagāthā Uccārayet· || <g type="cicleLarge"/>  ||
 	%-maṇḍalārddhasta-: em. -maṇḍalād dhasta-, with MSK (sil. em.).
 	%-dvayamantraṁ: em. -dvayamātraṁ, with MSK.
 	%caturaśraṁ: em. caturasraṁ, with MSK (sil. em.).
@@ -3525,7 +3529,7 @@ Atha madhyakrama Ucyate | mūlamaṇḍalārddhastadvayamantraṁ parityajya pra
 %MSK (77) lakṣmīdharaḥ kāñcanaparvatābhas trilokanāthas trimalaprahīnaḥ / buddho vibuddhāmbujapattranetras tan maṅgalaṁ bhavatu śāntikaraṁ tavādya // 1 //
      
 %RT&AG
-lakṣmīdharaḥ kāñcanaparvvabhas tṛlo§<lb n="62r2"/>kanāthas tṛmalaprahīṇaḥ
+lakṣmīdharaḥ kāñcanaparvvabhas tṛlo<g type="dandaGap">§</g><lb n="62r2"/>kanāthas tṛmalaprahīṇaḥ
 vuddho vibuddhāmvujapa <space type="binding-hole"/>ttranetras tan maṅgalaṁ bhavatu śāntikaran tavādya ||
 	%-parvvabhas tṛ-: em. -parvatābhas tri-, with MSK. 
 	% tṛmalaprahīṇaḥ: em. trimalaprahīṇaḥ; MSK trimalaprahīnaḥ (sil. em.).
@@ -3679,7 +3683,7 @@ kṛtsnañ jagāda bhagavāṁ mu§ <space type="binding-hole"/>niśākyasiṁha
 %MSK (78) nāmāṣṭaśatena ca saṁstutyādau pūrṇakumbhair vajrāṅkuśādihṛdayāni udīrayaṁs tatas tatkalaśaiḥ paścād vijayakalaśād vajramuṣṭinodakam ādāyābhiṣekaṁ pānaṁ ca dattvā kalaśena cābhiṣiñced udakābhiṣekataḥ / tatrāyaṁ prayogaḥ /   vajrāṅkuśa oṁ vajrābhiṣiñca / yāvat / oṁ vajrasattva hūṁ / oṁ vajrābhiṣiñca / oṁ mahāsukha // ityādi pūrvavad āvartayet / śeṣaṁ pūrvavad evam //  madhyakramo 'yam //
 
 %RT&AG
-nāmāṣṭaśatena ca saṁstutyādau pūrṇṇakumbhair vajrāṁkuśā§<lb n="63r2"/>dihṛdayani Udīrayaṁs tatas takalaśaiḥ paścād vija <space type="binding-hole"/>yakalaśā vajramuṣṭinodakam ādāyābhiṣekaṁ pānañ ca datvā kalasena cābhiṣiñced udakābhiṣekataḥ tatrāyām pra<lb n="63r3"/>yogaḥ vajrāṁkuśa Om vajrābhiṣiñca yāvat· | O;ṁ va <space type="binding-hole"/>jrasatva hū;ṁ | O;ṁ vajrābhiṣiñceti | Oṁ mahāsukhetyādi pūrvvavad āvarttayet· | seṣam pūrvvavad evaṁ | madhyakramo yaṁ |
+nāmāṣṭaśatena ca saṁstutyādau pūrṇṇakumbhair vajrāṁkuśā<g type="dandaGap">§</g><lb n="63r2"/>dihṛdayani Udīrayaṁs tatas takalaśaiḥ paścād vija <space type="binding-hole"/>yakalaśā vajramuṣṭinodakam ādāyābhiṣekaṁ pānañ ca datvā kalasena cābhiṣiñced udakābhiṣekataḥ tatrāyām pra<lb n="63r3"/>yogaḥ vajrāṁkuśa Om vajrābhiṣiñca yāvat· | O;ṁ va <space type="binding-hole"/>jrasatva hū;ṁ | O;ṁ vajrābhiṣiñceti | Oṁ mahāsukhetyādi pūrvvavad āvarttayet· | seṣam pūrvvavad evaṁ | madhyakramo yaṁ |
 	%RT: the object of praise here is the pupil.
 	%Tib. seems to imply a word like tatas between pūrṇṇakumbhair and vajrāṁkuśādi-.
 	%-hṛdayani: em. -hṛdayāni, with MSK (sil. em.).
@@ -3696,7 +3700,7 @@ nāmāṣṭaśatena ca saṁstutyādau pūrṇṇakumbhair vajrāṁkuśā§<lb
 %MSK (79) atha vistarābhiṣekakramo bhavati | athaiva sarvaṁ kṛtvā lāsyādyaṣṭavidhapūjayā ca saṁpūjayet / tato ratnaśalākāṁ sauvarṇaśalākāṁ vādāya purataḥ sthitvā sphuṭavāg evaṁ vadet / ajñānapaṭalaṁ vatsa apanītaṁ jinais tava / śalākīvaidyarājais tu yathā lokasya taimiram // 1 // athāsya hṛdayam / oṁ vajranetrāpahara paṭalaṁ hrīḥ // iti //
 
 %RT&AG
-Atha <lb n="63r4"/> vistarābhiṣekakramo bhavati | Athaiva sarvvaṁ kṛtvā  <space type="binding-hole"/> | lāsyādyaṣṭavidhapūjayā ca sampūj<del rend="strikeout">y</del>ayet· | tato ratnaśalākāṁ sauvarṇṇasalākām vādāya purataḥ sthitvā sphuṭavā§<lb n="63r5"/>g evam vadet· | 
+Atha <lb n="63r4"/> vistarābhiṣekakramo bhavati | Athaiva sarvvaṁ kṛtvā  <space type="binding-hole"/> | lāsyādyaṣṭavidhapūjayā ca sampūj<del rend="strikeout">y</del>ayet· | tato ratnaśalākāṁ sauvarṇṇasalākām vādāya purataḥ sthitvā sphuṭavā<g type="dandaGap">§</g><lb n="63r5"/>g evam vadet· | 
 		Ajñānapaṭalaṁ | vaccha Apanītaṁ ji <space type="binding-hole"/>nais tava
 		śalākīvaidyarājais tu yathā lokasya vai purā || 
 Athāsya hṛdayaṁ | O;ṁ vajranetrāpahara paṭaliṁ hrīr iti ||
@@ -3716,7 +3720,7 @@ Athāsya hṛdayaṁ | O;ṁ vajranetrāpahara paṭaliṁ hrīr iti ||
 	Eva jñātvā § <pb n="63v"><lb n="63v1"/> tu vai dharmmā niḥsvabhāvān anālayāṁ
 	kuru sa§ <space type="binding-hole"/>rvārtham atulaṁ jātau sy urasi tāyinām iti ||
 <supplied reason="lost">tato ghaṇṭām ādāya vādayan· | 
-	 Ākāśala</supplied>kṣaṇa sarvvam ākā*śaś cāpy a§<lb n="63v2"/>lakṣaṇam· |
+	 Ākāśala</supplied>kṣaṇa sarvvam ākā*śaś cāpy a<g type="dandaGap">§</g><lb n="63v2"/>lakṣaṇam· |
      Ākā*śasamātāyogāt· | sarvā <space type="binding-hole"/>grasamatā sphuṭo ti | 
 ghaṇṭān dadyāt· | Aḥ ghaṇṭā<unclear>pra</unclear>\lost{+ + + + + + + + + +}<unclear>syā</unclear>t· | sarvvatathāgatārāgayasveti | <lb n="63v3"/> catudikṣu catvāraḥ sarāḥ kṣeptavyāḥ | Ekenau <space type="binding-hole"/>rddham ākāraṇīyam adhastā ca hor iti || puna darpaṇam ādāya Evam vaded
      darpaṇavad vajrasatvas te Acchaḥ śuddho hy anāvi<lb n="63v4"/>laḥ
@@ -3787,7 +3791,7 @@ tato dhammacakraṁ pādayo <space type="binding-hole"/>r madhye saṁsthāpya �
      Ā<lb n="63v6"/>pūya samantāc· | dharmmacakram anuttaraṁ |
      na te § <space type="binding-hole"/> kāṅkṣa vimatir vvā nninni*śaṅkona cetasā |
      prakā*śaya sadā loke mantrācayānayam vidhim· |
-     evaṁ kṛjño vuddhānām u§<pb n="64r"><lb n="64r1"/>pakārīti bhīyase |
+     evaṁ kṛjño vuddhānām u<g type="dandaGap">§</g><pb n="64r"><lb n="64r1"/>pakārīti bhīyase |
      te ca vajradharāḥ sarve rakṣa <space type="binding-hole"/>nti tava sarvata Iti |
 	 vajracakrabhāṣau dharmmākṣarasahitau prayoktavyo |  punaḥ 
 	 sarvasatvahitārthāya | sarvalokeṣu <lb n="64r2"/> sarvataḥ
@@ -3821,7 +3825,7 @@ tato dhammacakraṁ pādayo <space type="binding-hole"/>r madhye saṁsthāpya �
 	vajranāmābhiṣekais tu vyākuyād vai tathā<lb n="64r4"/>gatām· | 
 	O;ṁ Eṣo haṁ vyākaromi tvāṁ vajrasatvas ta <space type="binding-hole"/>thāgataḥ
 	bhavadurggatitoddhṛtya Atyantabhavasiddhayet· |
-	he vajranāma tathāga siddhya samayas tvaṁ bhūbhruvaḥ svar iti | ta§<lb n="64r5"/>treyam udgatā tathāgatamuṣṭhidvayam vadhvā vāmacī <space type="binding-hole"/>varakarṇṇikādhāraṇābhinayo | dakṣiṇena varadānābhinaya Iti |  tataś <supplied reason="lost">c</supplied>aivaṁ siṣyebhyo vaktavyaṁ yasyānayodgata§<lb n="64r6"/>yā mahāmudrayā paramarahasyavidhāne vyāka <space type="binding-hole"/>raṇaṁ kṛyate | tasya vajrasatvādayaḥ sarvatath + + + + + + + + + + + + + dhisattvaparṣanmaṇḍalāḥ sarvva<pb n="64v"><lb n="64v1"/><unclear>tathāgatamaṇḍale svasamayācāryyāḥ</unclear> samayeka§ <space type="binding-hole"/>ka<unclear>ṇṭhe</unclear>nānuttarāyā samyaksavodhau vyāka + + + + + + + + + + + + + + + + + + + + + + + + + + 
+	he vajranāma tathāga siddhya samayas tvaṁ bhūbhruvaḥ svar iti | ta<g type="dandaGap">§</g><lb n="64r5"/>treyam udgatā tathāgatamuṣṭhidvayam vadhvā vāmacī <space type="binding-hole"/>varakarṇṇikādhāraṇābhinayo | dakṣiṇena varadānābhinaya Iti |  tataś <supplied reason="lost">c</supplied>aivaṁ siṣyebhyo vaktavyaṁ yasyānayodgata<g type="dandaGap">§</g><lb n="64r6"/>yā mahāmudrayā paramarahasyavidhāne vyāka <space type="binding-hole"/>raṇaṁ kṛyate | tasya vajrasatvādayaḥ sarvatath + + + + + + + + + + + + + dhisattvaparṣanmaṇḍalāḥ sarvva<pb n="64v"><lb n="64v1"/><unclear>tathāgatamaṇḍale svasamayācāryyāḥ</unclear> samayeka§ <space type="binding-hole"/>ka<unclear>ṇṭhe</unclear>nānuttarāyā samyaksavodhau vyāka + + + + + + + + + + + + + + + + + + + + + + + + + + 
 <lb n="64v2"/><unclear>ttamasiddhya</unclear>dhiṣṭhānenāsya ca mantrasya valeneti | śra <space type="binding-hole"/><unclear>ddhā</unclear>tavyam· | seṣa Āśvāsa | śrīparamādye draṣṭa<supplied reason="lost">vyaḥ</supplied> 
 	%MSK does not recognize this passage as metrical. Parallel in KSP. See also Hevajrasekaprakriyā, Ratnāvalī (a commentary on the Kṛṣṇayamāri), Vāgīśvarakīrti's Saṁkṣiptābhiṣekavidhi, Vajrāvalī. See also Guhyasamājamaṇḍalavidhi:
 	% tatas tathāgato bhūtvā vyākuryād udgatayānayā |
@@ -3850,7 +3854,7 @@ tato dhammacakraṁ pādayo <space type="binding-hole"/>r madhye saṁsthāpya �
 + + + + + + + + + + + +  <unclear>śikṣa</unclear>yet· | 
 	<unclear>virāga</unclear>sadṛ<lb n="64v3"/>śam pāpam asatvāsti tridhātuke |
      tasmāt kāmavirā§ <space type="binding-hole"/>gitvaṁ na kāyam bhavatā punaḥ
-mahāsamaya hana phaḍ iti | I<unclear>maṁ mahāsamayamantra</unclear>ñ cocārayet· | tato mantra datvā sva§<lb n="64v4"/>devatācatumudrājñānaṁ śikṣayet· || Anena vidhinā  <space type="binding-hole"/> vaktavyaṁ  na kasya cit tvayānyasyaiṣā mudrāṇām akovidanya | Ekatarāpi mudrā darśayitavyā | tat kasya hetoḥ tathā hi <lb n="64v5"/> te satvā Adṛṣṭhamahāmaṇḍalā | santo mudrāvaddhaṁ prayo <space type="binding-hole"/>kṣyanti | tadā teṣāṁ na tathā siddhir bhaviṣyati | tatas te vicikitsāprāptaviśamāparihāreṇa śīghram eva kālaṁ kṛ§<lb n="64v6"/>tvāvīcau mahānarake pateyus tava yāpāyagama§ <space type="binding-hole"/>naṁ syād iti ||	
+mahāsamaya hana phaḍ iti | I<unclear>maṁ mahāsamayamantra</unclear>ñ cocārayet· | tato mantra datvā sva<g type="dandaGap">§</g><lb n="64v4"/>devatācatumudrājñānaṁ śikṣayet· || Anena vidhinā  <space type="binding-hole"/> vaktavyaṁ  na kasya cit tvayānyasyaiṣā mudrāṇām akovidanya | Ekatarāpi mudrā darśayitavyā | tat kasya hetoḥ tathā hi <lb n="64v5"/> te satvā Adṛṣṭhamahāmaṇḍalā | santo mudrāvaddhaṁ prayo <space type="binding-hole"/>kṣyanti | tadā teṣāṁ na tathā siddhir bhaviṣyati | tatas te vicikitsāprāptaviśamāparihāreṇa śīghram eva kālaṁ kṛ<g type="dandaGap">§</g><lb n="64v6"/>tvāvīcau mahānarake pateyus tava yāpāyagama§ <space type="binding-hole"/>naṁ syād iti ||	
 	%The beginning of this paragraph can be restored after STTS 1,312,607-608:
 	%tataḥ sarvamaṇḍalaguhyasamayajñānaṁ śikṣayet virāgasadṛśaṁ pāpam anyan nāsti tridhātuke / tasmāt kāmavirāgitvaṁ na kāryaṁ bhavatā punaḥ // mahāsamaya hana phaṭ //
 	%The next part also has an STTS parallel (STT 1,143,250):
@@ -3871,7 +3875,7 @@ mahāsamaya hana phaḍ iti | I<unclear>maṁ mahāsamayamantra</unclear>ñ coc�
 %MSK (84) tato lāsyādyaṣṭavidhapūjayā puṣpādibhiś ca sarvatathāgatān saṁpūjya / sarve yathāśaktyā pūjayantv iti / sarvatathāgatān vijñāpya yathecchayā dhūpādibhiś ca pūjāṁ kārayitvā yathāpraviṣṭān yathāvibhavataḥ sarvarasāhārādibhiḥ sarvopakara'nir mahāmaṇḍalaniryātitaiḥ saṁtarpyedaṁ siddhivajravrataṁ dadyāt / idaṁ tad sarvabuddhatvam ityādi // tataḥ sarveṣāṁ punar api na kasya cid vaktavyam iti / śapathahṛdayam ākhyeyam //
 
 %RT&AG
-tato yāsyādyaṣṭhavidhapūjayā puṣpādibhiś ca sarvatathāgatāṁ sampūjya | sarvve yathāśakyā pūjayaṁ§<pb n="65r"><lb n="65r1"/>tv iti | savatathāgatāṁ vijñāpya yathecchayā dhū§ <space type="binding-hole"/>pādibhiś ca pūjā kārayitvā yathāpraviṣṭhā yathāvibhavataḥ sarvvarasāhārādibhiḥ sarvvopakaraṇe mahāmaṇḍala<lb n="65r2"/>niḥyātitaiḥ | santarpyeda siddhivajravratan dadyā  <space type="binding-hole"/> | Idan tad ityādi | tataḥ sarvveṣāṁ punar api na kasya cit· | vaktavyam iti | *śapathāhṛdayam ākhyeyaṁ |
+tato yāsyādyaṣṭhavidhapūjayā puṣpādibhiś ca sarvatathāgatāṁ sampūjya | sarvve yathāśakyā pūjayaṁ<g type="dandaGap">§</g><pb n="65r"><lb n="65r1"/>tv iti | savatathāgatāṁ vijñāpya yathecchayā dhū§ <space type="binding-hole"/>pādibhiś ca pūjā kārayitvā yathāpraviṣṭhā yathāvibhavataḥ sarvvarasāhārādibhiḥ sarvvopakaraṇe mahāmaṇḍala<lb n="65r2"/>niḥyātitaiḥ | santarpyeda siddhivajravratan dadyā  <space type="binding-hole"/> | Idan tad ityādi | tataḥ sarvveṣāṁ punar api na kasya cit· | vaktavyam iti | *śapathāhṛdayam ākhyeyaṁ |
 	%yāsyādyaṣṭha-: em. lāsyādyaṣṭa-, with MSK (sil. em. for -ṣṭa-).
 	%sarvatathāgatāṁ: em. sarvatathāgatān, with MSK (sil. em.).
 	%yathāśakyā: em. yathāśaktyā, with MSK.
@@ -3893,7 +3897,7 @@ tato yāsyādyaṣṭhavidhapūjayā puṣpādibhiś ca sarvatathāgatāṁ samp
 %MSK (85) tataḥ praviṣṭān saṁpreṣya punar nāmāṣṭaśatena saṁstutya lāsyādibhiḥ saṁpūjya praṇamyārghaṁ dattvābhipretasiddhaye kuśalaṁ pariṇamya mudrāmokṣaṁ kṛtvā sattvavajrīṁ baddhvā trivārān saptavārān vā maṇḍalaṁ pradakṣiṇīkṛtya pūrvavad visarjanādikam kṛtvā / akāro mukham ityādinā maṇḍalaṁ vikopayet / nirmālyādikam udake prakṣepayati //  tataś caturhūṁkāreṇa sarvakīlān utpāṭya / oṁ ruru sphuru jvala tiṣṭha siddhalocane sarvārthasādhane svāhā // ity aṣṭaśatajaptena kṣīreṇa sarvakīlakān prakṛtiṁ ca snāpayed gartāṁś cāpūrayet //
 
 %RT&AG
-tataḥ pravi§<lb n="65r3"/>ṣṭhāṁ saṁpreṣya puna nāmāṣṭhaśatena saṁstutya lā§ <space type="binding-hole"/>syādibhiḥ saṁpūjya praṇamyā<unclear>r</unclear>gha datvābhipretasiddhaye kuśalam pariṇamyapya mudrāmokṣaṁ kṛtvā sattvavajrīm vadhvā trī<unclear>vā</unclear><lb n="65r4"/>rāṁ saptavārām vā maṇḍalaṁ pradakṣiṇīkṛtya pūrvva§ <space type="binding-hole"/>d visarjjanādikam kṛtvā | Akāro mukham ityādinā | maṇḍalamudrāṁ vikopayet· | nirmmalyādikam udake prakṣe<unclear>pyi</unclear>ti | <lb n="65r5"/> tataś catuhū;ṁkāreṇa sarvakīlān utpāṭya | Oṁ ru§ <space type="binding-hole"/>ru sphuru jvala tiṣṭha siddhalocane sarvvārthasādhani svā<unclear>h</unclear>e<supplied reason="lost"</supplied>ty aṣṭottara}<unclear>śa</unclear><supplied reason="lost">taparija</supplied>p<supplied reason="lost">t</supplied>akṣīreṇa sarvvakīlakām· | pratikṛ<lb n="65r6"/>tīś ca snāpayed garttāś cāpūrayet· |
+tataḥ pravi<g type="dandaGap">§</g><lb n="65r3"/>ṣṭhāṁ saṁpreṣya puna nāmāṣṭhaśatena saṁstutya lā§ <space type="binding-hole"/>syādibhiḥ saṁpūjya praṇamyā<unclear>r</unclear>gha datvābhipretasiddhaye kuśalam pariṇamyapya mudrāmokṣaṁ kṛtvā sattvavajrīm vadhvā trī<unclear>vā</unclear><lb n="65r4"/>rāṁ saptavārām vā maṇḍalaṁ pradakṣiṇīkṛtya pūrvva§ <space type="binding-hole"/>d visarjjanādikam kṛtvā | Akāro mukham ityādinā | maṇḍalamudrāṁ vikopayet· | nirmmalyādikam udake prakṣe<unclear>pyi</unclear>ti | <lb n="65r5"/> tataś catuhū;ṁkāreṇa sarvakīlān utpāṭya | Oṁ ru§ <space type="binding-hole"/>ru sphuru jvala tiṣṭha siddhalocane sarvvārthasādhani svā<unclear>h</unclear>e<supplied reason="lost"</supplied>ty aṣṭottara}<unclear>śa</unclear><supplied reason="lost">taparija</supplied>p<supplied reason="lost">t</supplied>akṣīreṇa sarvvakīlakām· | pratikṛ<lb n="65r6"/>tīś ca snāpayed garttāś cāpūrayet· |
 	% There is a parallel in the Vajrāvalī, section Maṇḍalopasaṁhāra, ed. Mori:
 % tad anu oṁ vajrakīla utkīlaya sarvakīlān vajradharājñayā hūṁ hūṁ hūṁ hūṁ phaṭ hoḥ iti caturhūṁkāramantreṇa kīlakān utpādya oṁ ru ru sphuru jvala tiṣṭha siddhalocane sarvārthasādhanani svāhā iti sāṣṭaśatajaptakṣīreṇa snāpayet. kīlakadevatāś ca visarjayet. garttāṁś cāpūrayet.
 	%praviṣṭhāṁ: em. praviṣṭān, with MSK (sil. em.).
@@ -3918,7 +3922,7 @@ tataḥ pravi§<lb n="65r3"/>ṣṭhāṁ saṁpreṣya puna nāmāṣṭhaśate
 %RT&AG
 praveśadvārā <space type="binding-hole"/>bhimukhaṁ sarvakarmmikakuṇḍaṁ kṛtvātmaśiṣyabhūpāl<unclear>e</unclear> 
 + + + + + + + + + + + <unclear>ku</unclear>yād iti | tataḥ p<unclear>r</unclear>adhāna<pb n="65v"><lb n="65v1"/>śiṣyāṁ vāmapār*śve vasthāpya yathāvad ghṛtāhu§ <space type="binding-hole"/>tiśataṁ vajrasatvamantreṇa juhu<del rend="strikeout">ta</del>ttato vuddhalocanā
-+ + + + + + + + + + + miśrāṇyatilānām ā§<lb n="65v2"/>hutīśatam· | tato vajrayakṣajapte vāriṇā mū§ <space type="binding-hole"/>dhni payukṣya vāmapāṇau tenaiva rakṣyāsūtrakam vadhnīyāt· + + + + + + + + + ṇa spṛśaṁ saptavārāṁ parijape<lb n="65v3"/>t· Anyeṣā<unclear>n tu</unclear> yatho<del rend="strikeout">kta</del>ptasaptāhutīñ juhuyā <space type="binding-hole"/>t· | tataḥ paryukṣaṇaṁ rakṣāsūtraṁ va hṛdayālabhataṁ ca kuryād iti ||
++ + + + + + + + + + + miśrāṇyatilānām ā<g type="dandaGap">§</g><lb n="65v2"/>hutīśatam· | tato vajrayakṣajapte vāriṇā mū§ <space type="binding-hole"/>dhni payukṣya vāmapāṇau tenaiva rakṣyāsūtrakam vadhnīyāt· + + + + + + + + + ṇa spṛśaṁ saptavārāṁ parijape<lb n="65v3"/>t· Anyeṣā<unclear>n tu</unclear> yatho<del rend="strikeout">kta</del>ptasaptāhutīñ juhuyā <space type="binding-hole"/>t· | tataḥ paryukṣaṇaṁ rakṣāsūtraṁ va hṛdayālabhataṁ ca kuryād iti ||
 	%bhūpāl<unclear>e</unclear> + + + + + + + + + + + <unclear>ku</unclear>yād iti: the e in bhūpāle seems fairly clear, but was not read by MSK;  at the end, MSK omits <unclear>ku</unclear>yād iti. In the light of Tib., and parallel passages for the sequence ātmaśiṣyabhūpāla in Ānandagarbha's work, we can propose the following conjectural restorations: -bhūpālebhyaḥ sarvasattvebhyaś ca śāntikahomaṁ kuryād iti; -bhūpāleṣu sarvasattveṣu ca śāntikahomaṁ kuryād iti; -bhūpālasarvasattvārthaṁ śāntikahomaṁ kuryād iti.
 	%pradhānaśiṣyāṁ: em. pradhānaśiṣyaṁ, with MSK. MSK does not notice the trace of an -r- in the first akṣara.
 	%pār*śve vasthāpya: MSK misunderstand and emends pārśvena sthāpya.
@@ -3973,8 +3977,9 @@ aseṣas tena loko yaṁ bhūyāc chrīvajrasambhavaḥ || <g type="flower"/> ||
 %MSK aśeṣasakalasarvasattvaparamanirvāṇapratiṣṭhitārthena ratnākareṇa likhitam iti //  // saṁvat acūte //
 
 %RT&AG
-<pb n="66r"><lb n="66r1"/> Asesasakalasarvasatvaparamanirvvāṇapra <space type="binding-hole"/>tiṣṭhitārthena ratnākarase\added{na} likhitam iti ||  <g type="cicleLarge"/> || samvat· A cū te || phālgunaśuklapratipa<supplied reason="lost">d</supplied> + + + <suplied reason="lost">li</supplied><lb n="66r2"/>khitam iti || <g type="cicleLarge"/> ||
-	O;ṁ vajratvasamayam a <space type="binding-hole"/>nupālaya vajrasatvatvenopaniṣṭadṛḍho me bhava | sutoṣyā me bhava | supoṣyo me bhava | A + + + + <lb n="66r3"/> bhava | sarvasiddhim me prayaccha | sarvakarma <space type="binding-hole"/>su rame cittaṁ <unclear>śre</unclear>yaḥ kuru hū;ṁ ha ha ha ha hoḥ bhagavan· sarvatathāgatavajra mā me mañca vajrībhava mahā§<lb n="66r4"/>samayasatva Āḥ ||
+<pb n="66r">
+<lb n="66r1"/>Asesasakalasarvasatvaparamanirvvāṇapra <space type="binding-hole"/>tiṣṭhitārthena ratnākarase\added{na} likhitam iti ||  <g type="cicleLarge"/> || samvat· A cū te || phālgunaśuklapratipa<supplied reason="lost">d</supplied> + + + <suplied reason="lost">li</supplied><lb n="66r2"/>khitam iti || <g type="cicleLarge"/> ||
+	O;ṁ vajratvasamayam a <space type="binding-hole"/>nupālaya vajrasatvatvenopaniṣṭadṛḍho me bhava | sutoṣyā me bhava | supoṣyo me bhava | A + + + + <lb n="66r3"/> bhava | sarvasiddhim me prayaccha | sarvakarma <space type="binding-hole"/>su rame cittaṁ <unclear>śre</unclear>yaḥ kuru hū;ṁ ha ha ha ha hoḥ bhagavan· sarvatathāgatavajra mā me mañca vajrībhava mahā<g type="dandaGap">§</g><lb n="66r4"/>samayasatva Āḥ ||
 maṁgali 7 sarā 2  <space type="binding-hole"/> ripu 8 vyāyā 9 muni 7 paramātha 1 vaṁhni 3 pakṣāvo 22 vairocana | padmavajraṁ | ratnavajra | padma | <lb n="66r5"/>padmaviśvavajra | Akṣobha | vajra | Aṅku <space type="binding-hole"/>h<unclear>ṇ</unclear>i | dhanu | vajrasādhu | ratnasambhava | ratnamālā | ratnadhvaja | ratna | sūrya<del rend="strikeout">|</del>jihvā | vajra |padma | <lb n="66r6"/> khaḍga | vajramuṣṭhi | kanti | ratna | kavaca  <space type="binding-hole"/>| lāsyā | mālā | gītā | nettrā | puṣpā | dhūpā | dīpā | + + | <unclear>va</unclear>jrāṅ<supplied reason="lost">ku</supplied>śa | vajrapāśa | vajrā<pb n="66v"><lb n="66v1"/>vajrasphoṭa | vajrāveśa || cchatra | padma |  <space type="binding-hole"/> maṇi | utpalavajra | padmapustaka | ratnāṁkuri | <unclear>padma</unclear> + + + | + ca X <unclear>hyā</unclear> | padmaratna | padma<lb n="66v2"/>maragatamaṇi | padma | puṇḍarīka | A <space type="binding-hole"/>sokapuṣpa | padmacakra | ratnadhvaja | utpalopariratnapatākā | padmasūrya | padmacandra ||
 	%Asesa-: em. Aśeṣa-, with MSK (sil. em.).
 	%ratnākarasena: ratnākareṇa MSK. A second hand seems to have retouched this name. It is not clear to us how it must be emended.
