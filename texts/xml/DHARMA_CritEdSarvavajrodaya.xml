@@ -284,7 +284,7 @@ Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasatt
 </app>
 </listApp>
 
-<p>tatastebhyo <app rend="hide"><lem wit="#MSK">jñānaraśmayo</lem><witDetail wit="#MSK" type="silemn"/>
+<p>tatas tebhyo <app rend="hide"><lem wit="#MSK">jñānaraśmayo</lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod" cause="orthographical">jñānarasmayo</rdg></app> 
   viniḥsṛtya svahṛdgatavajre praviśya tena 
   <app>
@@ -295,13 +295,13 @@ Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasatt
   <lem type="emn">punaḥ pūrvavaddhṛdgata</lem>
   <rdg wit="#cod" cause="subtractive">punaḫ pūrvvahṛdgata-</rdg>
   <rdg wit="#MSK">punaḥ pūrvahṛdgata-</rdg><witDetail wit="#MSK" type="silemn"/> 
-</app>vajrapramāṇameva bhūtvā 
+</app>vajrapramāṇam eva bhūtvā 
 <app>
   <lem wit="#MSK">tasmādvi</lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">tasmā vi</rdg><!-- which @cause would fit here?-->
 </app>niḥsṛtya svahastasthitaṃ cintayet/ 
-tasmā<app><lem wit="#MSK">cca</lem><witDetail wit="#MSK" type="silemn"/>
-  <rdg wit="#cod">ccaḥ</rdg></app> 
+tasmāc <app><lem wit="#MSK">ca</lem><witDetail wit="#MSK" type="silemn"/>
+  <rdg wit="#cod">caḥ</rdg></app> 
    punaḥ <app rend="hide">
     <lem wit="#MSK">vajrākāraraśmayo</lem><witDetail wit="#MSK" type="silemn"/>
     <rdg wit="#cod" cause="orthographical">vajrākārarasmayo</rdg>
@@ -2231,49 +2231,67 @@ sarvatathāgatapāda<app><lem wit="#cod">vandanāṃ<!-- vandanāṃ --></lem>
 </l></lg>
 
 <!--  ここまでlem作業 2018/06/30 -->
-<p>
-
-tato vajradṛṣṭi maḍiti cakṣuṣorvinyasya /
-{\ah}kāreṇa pādatalayorviśvavajraṃ nirmāya
-<app><lem type="emn" wit="">svasamayamudrāṃ baddhvoparyākāśe<!-- svasamayamudrāṃ baddhvoparyākāśe --></lem>
-  <rdg wit="#cod">svasamayamudrāmvadho[pa]yākāse</rdg> 
-  <note>Cf. §49 and 68 for <foreign>uparyākāśa</foreign>.</note>
-</app>  tanmaṇḍalamutthāpya 
-<app><lem type="emn" wit="">vajrottiṣṭheti<!-- vajrottiṣṭheti --></lem>
+<p>tato vajradṛṣṭi maḍ iti cakṣuṣor vinyasya /
+aḥkāreṇa pādatalayor viśvavajraṃ nirmāya
+svasamayamudrāṃ <app><lem type="emn" wit="#MSK">baddhvoparyākāśe</lem>
+  <rdg wit="#cod">vadho<g type="dandaGap">§</g><lb n="30r6"/>paryākāse</rdg>
+</app>  tan maṇḍalam utthāpya 
+<app><lem type="emn">vajrottiṣṭheti</lem>
   <rdg wit="#cod">vajrasatva vajrotiṣṭheti</rdg>
-  <note>Or keep <ptr target="#MSK"/> reading, or emend <foreign>vajrasattva vajrottiṣṭheti</foreign>?</note>
+  <rdg wit="#MSK">vajrasattva uttiṣṭha iti</rdg>
+  <note>Should we follow <ptr target="#MSK"/>, or stay closer to the ms. and emend <foreign>vajrasattva vajrottiṣṭheti</foreign>?
+  The mantra <hi rend="mantra">vajrottiṣṭha</hi> is found in the context of raising a corpse in STTS §704 and §963.</note>
 </app> /
+<!--
+atha vajrapāṇir mahākrodharājo maheśvaraṃ muktvā 'nyadevān āśvāsyotthāpanārtham idaṃ vajrottiṣṭhaṃ nāma sarvatathāgatahṛdayam abhāṣat //:(STT 1,342,704)
+vajrottiṣṭha //(STT 1,342,704)
+dvivajrāgryāṅgulī samyak saṃdhāya susamāhitaḥ /(STT 1,414,963)
+utthāpayen mṛtaṃ sarvaṃ vajrottiṣṭheti saṃjñitā //(STT 1,414,963) -->
 
-tatastayā svasamayamudrayātmānaṃ <app><lem type="emn" wit="#MSK">sakṛdadhiṣṭhāya<!-- sakṛdadhiṣṭhāya --></lem> (supported by Tib.);
-  <rdg wit="#cod">kṛd</rdg></app>  
-<app><lem type="emn" wit="#MSK">punarmahāmudrāṃ<!-- punarmahāmudrāṃ --></lem>
-  <rdg wit="#cod">puna</rdg></app>  baddhvā<listApp type="parallels"><app><lem>tato ... baddhvā</lem><note>parallel to <foreign>Tattvālokakarī</foreign> (P LOCATION!!, D f.109v5–6)
-</note></app></listApp> /
-</p>
+tatas tayā svasamayamudrayātmānaṃ 
+<app>
+  <lem type="emn" wit="#MSK">sakṛd</lem>
+  <note corresp="#Tib"/>
+  <rdg wit="#cod">kṛd</rdg>
+</app> adhiṣṭhāya
+<app>
+  <lem type="emn" wit="#MSK">punar</lem>
+  <witDetail wit="#MSK" type="silemn"/>
+  <rdg wit="#cod">puna</rdg>
+</app> 
+mahāmudrāṃ baddhvā /</p>
+<listApp type="parallels">
+  <app>    
+    <note>Parallel to <title>Tattvālokakarī</title> (P LOCATION!!, D f.109v5–6)</note>
+</app>
+</listApp>
 
-<lg met="FILL-ME-IN">
-	<l n="ab">tathaivotthāya<app> <lem>mudrāsthaḥ sarvato</lem>
-  <note>mudrāsthaḥ <pb edRef="#cod" n="30v1"/> sarvato</note></app>
- vyavalokayan /</l>
-<l n="cd"><app><lem type="emn">parikrametsvagarveṇa<!-- parikrametsvagarveṇa --></lem>
-  <rdg wit="#cod #MSK">parikrameta sagarvveṇa</rdg></app>  <app><lem>vajrasattvamudāharan<!-- vajrasattvamudāharan --></lem>
-  <rdg wit="#cod">vajrasatvam</rdg>
-  <rdg wit="#MSK">vajrasattvety</rdg>
-  <note>The emendation is unwarranted.</note>
-  </app>
-
-  <listApp><app>
-    <lem>tathaivotthāya ... udāharan</lem>
-    <note>This is a verse quoted from STTS §203:
-  <foreign>tathaivotthāya mudrāsthaḥ sarvato vyavalokayan | 
-  parikramena garveṇa vajrasattvam udāharan ||</foreign>. 
-  No doubt <foreign>parikrameta</foreign> is the better reading. 
-  <seg rend="check">Check ed. Yamada and ms.</seg>
-  RT confirmed that Yamada reads <foreign>parikrameta</foreign>.
-  <seg rend="check">CHECK Bhūtaḍāmara manual!!</seg>
-  <foreign>tathaivotthāya mudrāsthaḥ sarvato vyavalokayan |
-  parikramet svagarveṇa svamantraṃ samudāharan ||</foreign></note></app></listApp>
- //</l></lg>
+<lg met="anuṣṭubh">
+	<l n="a">tathaivotthāya mudrāsthaḥ</l> <l n="b"><pb edRef="#cod" n="30v1"/>sarvato vyavalokayan /</l>
+  <l n="c">pari<app><lem type="emn" rend="hyphenleft">kramet sagarveṇa</lem>
+    <rdg wit="#cod #MSK">-krameta sagarvveṇa</rdg><!-- MSK norm. -krameta sagarveṇa -->
+    <witDetail wit="#cod #MSK" type="unmetrical"/>
+  </app></l> 
+  <l n="d">    
+  <app><lem wit="#cod">vajrasattvam</lem><!-- norm., vajrasatvam cod. -->
+  <rdg wit="#MSK">vajrasattvety</rdg><witDetail wit="#MSK" type="emn"/>
+  <note>The STTS parallels shows that the MSK emendation is unwarranted.</note>
+  </app> udāharan //</l>
+</lg>
+  <listApp type="parallels">
+    <app>    
+    <note>STTS §203: <foreign>tathaivotthāya mudrāsthaḥ sarvato vyavalokayan | 
+      pari<app>
+        <lem rend="hyphenaround" type="emn">kramet sa</lem>
+        <rdg wit="#cod #edya">-krameta-</rdg>
+        <rdg wit="#edho">-kramena</rdg></app>garveṇa vajrasattvam udāharan ||</foreign>. 
+        We believe the reading <foreign>-krameta garveṇa</foreign> in the STTS codex unicus is in need of correction because <foreign>sagarva</foreign> is a common expression in the language of this text while the med. opt. form <foreign>parikrameta</foreign> is unattested.<!--
+        Dānapāla's (Sego) translation of STTS: 以高擧相次第行　金剛薩埵應念誦　　　　應取新線堅妙合　稱其分量而善用  
+        CHECK Bhūtaḍāmara manual has -kramet svagarveṇa: 
+    tathaivotthāya mudrāsthaḥ sarvato vyavalokayan | parikramet svagarveṇa svamantraṃ samudāharan || --></note>
+</app>
+</listApp>
+ 
 
 <p>
 <app><lem type="emn" wit="#MSK">vajradṛṣṭyā<!-- vajradṛṣṭyā --></lem>

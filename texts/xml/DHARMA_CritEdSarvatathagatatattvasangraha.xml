@@ -506,9 +506,13 @@ atha tebhyaś candramaṇḍalebhyaḥ sarvatathāgatajñānavajrāṇi viniḥs
 <div type="section" n="54"><pb n="1_44_54" edRef="#edho"/><lg><l>atha bhagavān sarvatathāgatānurāgaṇādhiṣṭhānavajraṃ nāma samādhiṃ samāpadya, sarvatathāgatamāraṇavajrasamayam aśeṣānavaśeṣasattvadhāṭvanurāgaṇasarvasukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatamārakarmottamasiddhyavāptiphalahetos tad vajravāṇaṃ tasmai mārāya mahābodhisattvāya tathaiva pāṇibhyām anuprādāt |</l>
 	<l>tataḥ sarvatathāgatair <q>vajradhanur vajradhanur!!</q> iti vajranāmābhiṣekeṇābhisiktaḥ |</l></lg></div>
 
-<div type="section" n="55"><pb n="1_44_55" edRef="#edho"/><lg><l>atha vajradhanur bodhisattvo mahāsattvas tena vajravāṇena sarvatathāgatān mārayann idam udanam udānayām āsa ||</l>
-<l><q>idaṃ tat sarvabuddhānāṃ rāgajñānam anāvilam |</l>
-<l>hatvā virāgaṃ rāgeṇa sarvasaukhyaṃ dadanti hi ||</l></lg></div>
+<div type="section" n="55"><pb n="1_44_55" edRef="#edho"/>
+	<p>atha vajradhanur bodhisattvo mahāsattvas tena vajravāṇena sarvatathāgatān mārayann idam udanam udānayām āsa ||</p>
+<quote>
+	<lg>
+		<l>idaṃ tat sarvabuddhānāṃ rāgajñānam anāvilam |</l>
+	<l>hatvā virāgaṃ rāgeṇa sarvasaukhyaṃ dadanti hi ||</l></lg></quote>
+</div>
 
 <div type="section" n="56"><pb n="1_45_56" edRef="#edho"/><lg><l>atha bhagavān punar api prāmodyarājamahābodhisattvasamayasaṃbhavasattvādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatapramodasamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
 <l><q>vajrasādhu</q> || </l></lg></div>
@@ -986,14 +990,21 @@ tebhyaś ca dhūpapūjāmeghasamudrebhyaḥ sarvalokadhātuparamāṇurajaḥdh�
 
 <div type="section" n="202"><pb n="1_110_202" edRef="#edho"/><lg><l>atha bhagavān vajradharaḥ sarvatathāgatādhyeṣaṇavacanam upaśrutya, sarvatathāgatasamayasaṃbhavavajrādhiṣṭhānaṃ nāma samādhiṃ samāpadyedaṃ vajradhātuṃ nāma mahāmaṇḍalam udājahāra ||</l></lg></div>
 
-<div type="section" n="203"><pb n="1_110_203" edRef="#edho"/><lg><l>athātaḥ saṃpravakṣyāmi mahāmaṇḍalam uttamam |</l>
-<l>vajradhātupratīkāśaṃ vajradhātur iti smṛtam ||</l>
-<l>upaviśya yathānyāyaṃ maṇḍalasya tu madhyataḥ |</l>
-<l>mahāsattvamahāmudrāṃ bhāvayan samadhiṣṭhya ca ||</l>
-<l>tathaivotthāya mudrāsthaḥ sarvato vyavalokayan |</l>
-<l>parikramena garveṇa vajrasattvam udāharan ||</l>
-<l>navena suniyuktena supramāṇena cāruṇā |</l>
-<l>sūtreṇa sūtrayet prājño yathāśaktyā sumaṇḍalam ||</l></lg></div>
+<div type="section" n="203"><pb n="1_110_203" edRef="#edho"/>
+<lg><l>athātaḥ saṃpravakṣyāmi mahāmaṇḍalam uttamam |</l>
+	<l>vajradhātupratīkāśaṃ vajradhātur iti smṛtam ||</l>
+	<l>upaviśya yathānyāyaṃ maṇḍalasya tu madhyataḥ |</l>
+	<l>mahāsattvamahāmudrāṃ bhāvayan samadhiṣṭhya ca ||</l>
+	<l>tathaivotthāya mudrāsthaḥ sarvato vyavalokayan |</l>
+	<l>pari<app>
+		<lem rend="hyphenaround" type="emn">kramet sa</lem>
+		<rdg wit="#cod #edya">-krameta-</rdg>
+		<rdg wit="#edho">-kramena</rdg>		
+		<note>Emended based on parallels.</note></app>garveṇa vajrasattvam udāharan ||</l>
+	<l>navena suniyuktena supramāṇena cāruṇā |</l>
+	<l>sūtreṇa sūtrayet prājño yathāśaktyā sumaṇḍalam ||</l>
+</lg>
+</div>
 
 <div type="section" n="204"><pb n="1_110_204" edRef="#edho"/><lg><l>caturaśraṃ caturdvāraṃ catustoraṇaśobhitam |</l>
 <l>catuḥsūtrasamāyuktaṃ paṭṭasragdāmabhūṣitam ||</l>
