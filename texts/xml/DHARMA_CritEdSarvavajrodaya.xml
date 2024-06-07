@@ -2938,15 +2938,15 @@ iti <app><lem wit="#MSK">tribhi<!-- tribhi --></lem><witDetail wit="#MSK" type="
 <l n="cd">dvārapramāṇā <app><lem wit="#MSK">dvāraniryūhāḥ<!-- dvāraniryūhāḥ --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">dvāraniryūhāḥ</rdg></app>  /</l></lg>
 
-<lg met="FILL-ME-IN"><l n="ab"><app><lem wit="#MSK">sarvābhayantarā sarvabāhyā ca<!-- sarvābhayantarā sarvabāhyā ca --></lem><witDetail wit="#MSK" type="silemn"/>
+<lg met="FILL-ME-IN"><l n="a"><app><lem wit="#MSK">sarvābhayantarā sarvabāhyā ca<!-- sarvābhayantarā sarvabāhyā ca --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">sarvābhayantaraḥ sarvavāhyaś ca</rdg> 
   <note>emend <foreign>sarvābhayantarāḥ sarvavāhyāś ca</foreign> |? 
   <ptr target="#MSK"/> (silently) emends <foreign>sarvābhayantarā sarvabāhyā ca</foreign>. 
   The latter seems to be supported by <foreign>sabāhyābhyantaravedikāyāṁ</foreign> towards end of §54.</note></app>
  <app><lem wit="#MSK">dvārārdhapramāṇā<!-- dvārārdhapramāṇā --></lem><witDetail wit="#MSK" type="silemn"/>
-  <rdg>dvārarddhapramāṇā</rdg></app>
+  <rdg wit="#cod">dvārarddhapramāṇā</rdg></app>
  vedikā /</l>
-<l n="cd">vedikārdhapramāṇā pañcaraṅgikarajobhūmiḥ /</l>
+<l n="b">vedikārdhapramāṇā pañcaraṅgikarajobhūmiḥ /</l>
 <l n="c">toraṇaṃ <app><lem wit="#MSK">dvāratriguṇaṃ kāryam<!-- dvāratriguṇaṃ kāryam --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">dvāratṛguṇaṁ kāyam</rdg></app>  /</l>
 <l n="d">bāhyamaṇḍalārdhenābhyantaramaṇḍalaṃ</l></lg> 
