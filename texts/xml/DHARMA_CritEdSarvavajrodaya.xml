@@ -2295,12 +2295,13 @@ mahāmudrāṃ baddhvā /</p>
 
 <p>
 <app><lem type="emn" wit="#MSK">vajradṛṣṭyā<!-- vajradṛṣṭyā --></lem>
-  <rdg wit="#cod">vajradṛṣṭvā</rdg></app>  <app><lem wit="#MSK">diksīmāmaṇḍalabandha<!-- diksīmāmaṇḍalabandha --></lem><witDetail wit="#MSK" type="silemn"/>
+  <rdg wit="#cod">vajradṛṣṭvā</rdg></app> <app><lem type="emn" wit="#MSK">diksīmāmaṇḍalabandha<!-- diksīmāmaṇḍalabandha --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">diksīmāmaṇḍalavadhva-</rdg> 
 <!--   <foreign>diksīmāmaṇḍalabandha-} \MSK -->
 </app>prākārapañjaraṃ 
-pādatalaparigraheṇa <app><lem type="emn" wit="">ca rasātala<!-- ca rasātala --></lem>
+pādatalaparigraheṇa <app><lem type="emn">ca rasātala<!-- ca rasātala --></lem>
   <rdg wit="#cod">cārasātalam</rdg> 
+  <rdg wit="#MSK">bhūmitalam</rdg>
   <note><foreign>-grahe(ṇ)a</foreign>: the scribe has accidentally added a diagonal stroke to <foreign>ṇa</foreign>. Perhaps he meant to cross out the <foreign>akṣara</foreign>.
   <ptr target="#MSK"/><foreign xml:lang="san-Latn">pādatalaparigraheṇa bhūmitalam</foreign>.
   This emendation is unwarranted.
@@ -2469,9 +2470,9 @@ tato bāhyabaliṃ dattvopaspṛśya nāmāṣṭaśatena saṃstutya <app><lem 
 </p>
 
 <p>
-tatrādau <app><lem wit="#MSK">tāva<!-- tāva --></lem><witDetail wit="#MSK" type="silemn"/> 
-  <rdg wit="#cod">tāva</rdg></app> <app><lem tupe="emn">tsusnāta<!-- tsusnāta --></lem>
-  <rdg wit="#cod #MSK">-susnāna-</rdg></app> śucivastraiḥ puṣpakarai<app><lem type="emn" wit="#MSK">ścācāryaṃ<!-- ścācāryaṃ --></lem>
+tatrādau <app><lem type="emn" wit="#MSK">tāvat<!-- tāvat --></lem><witDetail wit="#MSK" type="silemn"/> 
+  <rdg wit="#cod">tāva</rdg></app> <app><lem type="emn">susnāta<!-- susnāta --></lem>
+  <rdg wit="#cod #MSK">susnāna-</rdg></app>śucivastraiḥ puṣpakarai<app><lem type="emn" wit="#MSK">ścācāryaṃ<!-- ścācāryaṃ --></lem>
   <rdg wit="#cod">cācāyam</rdg></app>  praṇamya śiṣyai<app><lem type="emn">revaṃ<!-- revaṃ --></lem>
   <rdg wit="#cod #MSK">eva</rdg></app>
 <app><lem wit="#cod">vaktavyam<!-- vaktavyam --></lem> 
@@ -2943,7 +2944,7 @@ iti <app><lem wit="#MSK">tribhi<!-- tribhi --></lem><witDetail wit="#MSK" type="
   <note>emend <foreign>sarvābhayantarāḥ sarvavāhyāś ca</foreign> |? 
   <ptr target="#MSK"/> (silently) emends <foreign>sarvābhayantarā sarvabāhyā ca</foreign>. 
   The latter seems to be supported by <foreign>sabāhyābhyantaravedikāyāṁ</foreign> towards end of §54.</note></app>
- <app><lem wit="#MSK">dvārārdhapramāṇā<!-- dvārārdhapramāṇā --></lem><witDetail wit="#MSK" type="silemn"/>
+ <app><lem type="emn" wit="#MSK">dvārārdhapramāṇā<!-- dvārārdhapramāṇā --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">dvārarddhapramāṇā</rdg></app>
  vedikā /</l>
 <l n="b">vedikārdhapramāṇā pañcaraṅgikarajobhūmiḥ /</l>
