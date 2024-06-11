@@ -2641,8 +2641,8 @@ sarvatathāgatājñākāraḥ sarvatathāgata<app><lem type="emn">jyeṣṭhaput
 ayam asau <app><lem>bhagavānsamantabhadraḥ</lem>
   <note>bhagavā<pb edRef="#cod" n="33r1"/>n samantabhadraḥ</note></app> /
 tadyathāsaṃpāditakuśalamūla<app><lem type="emn">balena<!-- balena --></lem>
-  <rdg wit="#cod #MSK">-valinā</rdg></app>  <app><lem type="emn" wit="">mayātra<!-- mayātra --></lem>
-  <rdg wit="#cod">mayā tu</rdg>
+  <rdg wit="#cod #MSK">-valinā</rdg></app>  <app><lem type="emn">mayātra<!-- mayātra --></lem>
+  <rdg wit="#cod #MSK">mayā tu</rdg>
   <note>The emendation is supported by Tib.</note>
 </app> cittotpāde vyavasthitenānantamukhanirhārasya <app><lem wit="#cod">samantabhadracaryābhidhānasyāparya<!-- samantabhadracaryābhidhānasyāparya --></lem>
   <rdg wit="#MSK">samantabhadracayābhidhānasyāpi</rdg></app> <app><lem type="conj">vasthitaprāntasya niṣpādane<!-- vasthitaprāntasya niṣpādane --></lem>
@@ -2699,39 +2699,35 @@ tataḥ śiṣyahṛdaye samaya {\ah} iti paṭhaṃś <app><lem type="emn" wit=
 <l n="d">dīpayā dīpenābhāsayet /</l>
 </lg>
 
-<lg met="FILL-ME-IN"><l n="ab">vajrahāsa<app><lem wit="#MSK" type="norm">parijaptaṃ<!-- parijaptaṃ --></lem>
-  <rdg wit="#cod">-jāptam</rdg></app>  dvādaśāṅgulapramāṇamu<app><lem type="emn" wit="">dumbaramayamaśvatthamayaṃ vā<!-- dumbaramayamaśvatthamayaṃ vā --></lem> 
-  <rdg wit="#cod">udumvaram aśvatthamayam vā</rdg>  <note>(dittographical error).
+<p>vajrahāsa<app><lem wit="#MSK" type="norm">parijaptaṃ<!-- parijaptaṃ --></lem>
+  <rdg wit="#cod">-jāptam</rdg></app>  dvādaśāṅgulapramāṇam <app><lem type="emn">udumbaramayam aśvatthamayaṃ vā<!-- dumbaramayamaśvatthamayaṃ vā --></lem> 
+  <rdg wit="#cod #MSK">udumvaram aśvatthamayam vā</rdg>  <note>(dittographical error).
   Or this should be emended to <foreign>udumvaram aśvattham vā</foreign>.</note>
 </app> gandhadigdhamagre kusumanibaddhaṃ <app><lem type="emn" wit="#MSK">dantadhāvanaṃ<!-- dantadhāvanaṃ --></lem>
-  <rdg wit="#cod">dantadhāvana</rdg></app>  dadyāt /</l>
-<l n="cd">taiśca prāṅmukhairu<app><lem type="emn">daṅmukhai<!-- daṅmukhai --></lem>
+  <rdg wit="#cod">dantadhāvana</rdg></app>  dadyāt / taiś ca prāṅmukhairu<app><lem type="emn">daṅmukhai<!-- daṅmukhai --></lem>
   <rdg wit="#cod">udrammukhair</rdg>
-  <rdg wit="#MSK">uttaramukhair</rdg> .
+  <rdg wit="#MSK">uttaramukhair</rdg>
   <note><ptr target="#MSK"/> emendation <foreign>uttaramukhair</foreign> seems less likely to be correct. 
   Cf. <foreign>Vajrāvalī</foreign>, ed. Sakura just after verse 20.</note>
   <note><foreign>drammu</foreign> of <foreign>udrammukhair</foreign>: 
   the scribe corrected the <foreign>akṣara</foreign>s.</note>
-</app>rvāgreṇaiva khādanīyam //</l></lg>
+</app>rvāgreṇaiva khādanīyam //</p>
 
 <p>
 <app><lem>vajratīkṣṇa</lem>
   <note>It seems the scribe started to write a long <foreign>-ī</foreign> which would have made <foreign>tīkṣṇī</foreign>, then added a diagonal cancellation stroke for the unwanted <foreign>-ī</foreign> sign.</note></app>
 parijaptā<app><lem type="emn" wit="#MSK">npratyagrānkuśāndattvaivaṃ<!-- npratyagrānkuśāndattvaivaṃ --></lem>
-  <rdg wit="#cod">pratyagroṅkuśān damvaivam</rdg></app>  vadet /</p>
+  <rdg wit="#cod">pratyagroṅkuśān damvaivam</rdg></app> vadet /</p>
 
-<lg met="FILL-ME-IN">
-	<l n="ab">
-<app><lem type="emn" wit="#MSK">ebhi<!-- ebhi --></lem>
+<p><app><lem type="emn" wit="#MSK">ebhi<!-- ebhi --></lem>
   <rdg wit="#cod">debhir</rdg></app> <app><lem type="emn" wit="#MSK">rāstāraṃ<!-- rāstāraṃ --></lem>
   <rdg wit="#cod">āstāra</rdg></app>  <app><lem>kṛtvaikaṃ</lem>
   <note><foreign>tvai</foreign> of <foreign>kṛtvaikaṃ</foreign> is slightly different from other <foreign>akṣara tva</foreign>.</note></app>
  śirasi dattvā śayyā <app><lem type="emn" wit="">kalpanīyeti<!-- kalpanīyeti --></lem>
   <rdg wit="#cod">kalpanīye kalpanīyeti</rdg>  <note>(dittographical error?)</note></app>
- //</l>
-</lg>
+ //</p>
 
-<ab>vajrarakṣābhijaptaṃ</ab>
+<p>vajrarakṣābhijaptaṃ</p>
 
 <lg met="FILL-ME-IN">
 	<l n="ab">tataḥ samya<app><lem type="emn" wit="#MSK">ṅnirbadhnīyā<!-- ṅnirbadhnīyā --></lem>
