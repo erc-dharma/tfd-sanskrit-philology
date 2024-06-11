@@ -2719,13 +2719,14 @@ tataḥ śiṣyahṛdaye samaya {\ah} iti paṭhaṃś <app><lem type="emn" wit=
 parijaptā<app><lem type="emn" wit="#MSK">npratyagrānkuśāndattvaivaṃ<!-- npratyagrānkuśāndattvaivaṃ --></lem>
   <rdg wit="#cod">pratyagroṅkuśān damvaivam</rdg></app> vadet /</p>
 
-<p><app><lem type="emn" wit="#MSK">ebhi<!-- ebhi --></lem>
+<lg><l><app><lem type="emn" wit="#MSK">ebhi<!-- ebhi --></lem>
   <rdg wit="#cod">debhir</rdg></app> <app><lem type="emn" wit="#MSK">rāstāraṃ<!-- rāstāraṃ --></lem>
   <rdg wit="#cod">āstāra</rdg></app>  <app><lem>kṛtvaikaṃ</lem>
   <note><foreign>tvai</foreign> of <foreign>kṛtvaikaṃ</foreign> is slightly different from other <foreign>akṣara tva</foreign>.</note></app>
- śirasi dattvā śayyā <app><lem type="emn" wit="">kalpanīyeti<!-- kalpanīyeti --></lem>
-  <rdg wit="#cod">kalpanīye kalpanīyeti</rdg>  <note>(dittographical error?)</note></app>
- //</p>
+ śirasi dattvā śayyā <app><lem type="emn">kalpanīyeti<!-- kalpanīyeti --></lem>
+  <rdg wit="#MSK">kalpanīya iti</rdg><witDetail wit="#MSK" type="silem"/>
+  <rdg wit="#cod">kalpanīye kalpanīyeti</rdg><note>(dittographical error?)</note></app>
+ //</l></lg>
 
 <p>vajrarakṣābhijaptaṃ</p>
 
@@ -2759,23 +2760,19 @@ tato <app><lem type="emn" wit="#MSK">yathāśaktyā<!-- yathāśaktyā --></lem>
 </div>
 <div type="subchapter" n="4"><head type="editorial">Sūtraṇavidhiḥ</head>
 
-
-<lg met="FILL-ME-IN">
-<l n="ab"><app><lem/><note type="altLem">tataḥ sūryodayakāle ... aiśānīṃ diśam ārabhya sūtrayet
-  (just before the quotation from the STTS etc.</note>
-<note>parallel to <foreign>Tattvālokakarī</foreign> (P LOCATION!!, D f.111r3–112r4)
-<!-- Endo pp.197–199 --></note></app>
-
-tataḥ <app><lem wit="#MSK">sūryodayakāle<!-- sūryodayakāle --></lem><witDetail wit="#MSK" type="silemn"/>
+<p>tataḥ <app><lem wit="#MSK">sūryodayakāle<!-- sūryodayakāle --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">sūyodayakāle</rdg></app>  tathaiva tanmaṇḍala<app><lem type="emn" wit="#MSK">muparyākāśe<!-- muparyākāśe --></lem>
-  <rdg wit="#cod">upayākāśe</rdg></app>  nyasya sūtrayet / </l>
-tatrādau tāvannīlapītarakta<app><lem>haritasita</lem>
+  <rdg wit="#cod">upayākāśe</rdg></app>  nyasya sūtrayet /</p>
+  <listApp type="parallels"><app><note><foreign>tataḥ sūryodayakāle ... aiśānīṃ diśam ārabhya sūtrayet</foreign>just before the quotation from the STTS etc.</note>
+  <note>parallel to <foreign>Tattvālokakarī</foreign> (P LOCATION!!, D f.111r3–112r4)
+  <!-- Endo pp.197–199 --></note></app></listApp>
+
+<p> tatrādau tāvan nīlapītarakta<app><lem>haritasita</lem>
 </app>sugandhavarṇakaiḥ <app><lem>pṛthak pṛthak sūtrāṇi</lem>
   <note>First the scribe wrote different <foreign>akṣara</foreign>s and then corrected them.</note></app>
  <app><lem type="emn" wit="#MSK">rañjitānya<!-- rañjitānya --></lem>
   <rdg wit="#cod">rañjatāny</rdg></app> nayaiva <app><lem>paripāṭyāvasthāpya</lem>
   <note>any connection with §50 <foreign>avaṣṭabhya</foreign>?</note></app>
-
 hūm̐ <app><lem wit="#cod">traḥ<!-- traḥ --></lem>
   <rdg wit="#MSK">trāḥ</rdg> 
   <note>There is an unusual blotch to the left of the <foreign>akṣara</foreign>, 
@@ -2795,13 +2792,14 @@ pradruta<app><lem type="emn">pracara<!-- pracara --></lem>
   <note>Cf. STTS ed. Hor. §367: see Tanemura 2004: 141-2, 240-241.</note>
 </app>nsaṃcodayedida<app><lem type="emn" wit="#MSK">muccārayan<!-- muccārayan --></lem>
   <rdg wit="#cod">uccārayam</rdg></app> 
-</lg>
+</p>
 
 <lg met="FILL-ME-IN">
-	<l n="ab">vajrasūtraṃ me <app><lem type="emn" wit="">bhagavā<!-- bhagavā --></lem>
-  <rdg wit="#cod">bhagavāṁta</rdg> 
-  <note>Or  emend <foreign>bhagavan</foreign>?</note>
-</app><app><lem>nprayacchatu</lem>
+	<l n="ab">vajrasūtraṃ me <app><lem type="emn">bhagavān<!-- bhagavā --></lem>
+  <rdg wit="#cod">bhagavāṁta</rdg>
+  <rdg wit="#MSK">bhagavan</rdg>
+  <note>Or emend <foreign>bhagavan</foreign>?</note>
+</app><app><lem>prayacchatu</lem>
   <note>emend <foreign>prayaccha</foreign>?</note></app>
  mahāmaṇḍalasūtraṇāyeti /</l>
 </lg>
