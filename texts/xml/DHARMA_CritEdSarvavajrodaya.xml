@@ -2633,14 +2633,14 @@ rvinīyā apratiṣṭhite nirvāṇadhātau pratiṣṭhāpayitavyāḥ /</l>
   <rdg wit="#cod">nihārāya</rdg></app>  mayā pratipattavyam //</l>
     </lg>
 
-<lg met="FILL-ME-IN">
-<l n="ab">ayamasau bodhisattvānāṃ vajropamo mahābodhicittotpādaḥ sarvatathāgatapitā
+<p>
+ayam asau bodhisattvānāṃ vajropamo mahābodhicittotpādaḥ sarvatathāgatapitā
 sarvatathāgatājñākāraḥ sarvatathāgata<app><lem type="emn">jyeṣṭhaputraḥ<!-- jyeṣṭhaputraḥ --></lem> 
   <rdg wit="#cod">jyeṣṭaputtraḥ</rdg>
-  <rdg wit="#MSK">jyeṣṭaputro</rdg></app>  / </l>
-<l n="cd">ayamasau <app><lem>bhagavānsamantabhadraḥ</lem>
-  <note>bhagavā<pb edRef="#cod" n="33r1"/>n samantabhadraḥ</note></app> /</l>
-<l n="c">tadyathāsaṃpāditakuśalamūla<app><lem type="emn">balena<!-- balena --></lem>
+  <rdg wit="#MSK">jyeṣṭaputro</rdg></app>  /
+ayam asau <app><lem>bhagavānsamantabhadraḥ</lem>
+  <note>bhagavā<pb edRef="#cod" n="33r1"/>n samantabhadraḥ</note></app> /
+tadyathāsaṃpāditakuśalamūla<app><lem type="emn">balena<!-- balena --></lem>
   <rdg wit="#cod #MSK">-valinā</rdg></app>  <app><lem type="emn" wit="">mayātra<!-- mayātra --></lem>
   <rdg wit="#cod">mayā tu</rdg>
   <note>The emendation is supported by Tib.</note>
@@ -2651,12 +2651,12 @@ sarvatathāgatājñākāraḥ sarvatathāgata<app><lem type="emn">jyeṣṭhaput
   <rdg wit="#cod">nikhilavineyajanarāśi</rdg>
   <rdg wit="#MSK">nikhilavineyajanarāśiṃ</rdg></app> rbahumukhaiścaryā<app><lem type="emn" wit="#MSK">prabheda<!-- prabheda --></lem> 
 </app>saṃdarśanairāvarjya saṃpraharṣya <app><lem type="emn" wit="#MSK">samuttejya<!-- samuttejya --></lem>
-  <rdg wit="#cod">samutejya</rdg></app>  niyojanīya iti //</l>
-  </lg>
+  <rdg wit="#cod">samutejya</rdg></app>  niyojanīya iti //
+</p>
 
 <p>
-tataḥ śiṣyahṛdaye samaya {\ah} iti <app><lem type="emn" wit="#MSK">paṭhaṃścandramaṇḍalaṃ<!-- paṭhaṃścandramaṇḍalaṃ --></lem>
-  <rdg>candramaṇḍala</rdg>
+tataḥ śiṣyahṛdaye samaya {\ah} iti paṭhaṃś <app><lem type="emn" wit="#MSK">candramaṇḍalaṃ<!-- paṭhaṃścandramaṇḍalaṃ --></lem><witDetail wit="#MSK" type="silem"/>
+  <rdg wit="#cod">candramaṇḍala</rdg><!-- check MS-->
 </app> nirmāya tasyopari pañcasūcikaṃ
 </p>
 
