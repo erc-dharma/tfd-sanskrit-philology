@@ -2840,8 +2840,8 @@ oṁ vajrasattva hūm̐ iti //</l>
   <witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">hūm̐ miti</rdg></app>  /</l>
 <l n="d"><app><lem wit="#cod">vajrabandhenāvaṣṭabhyāṣṭottara</lem>
-  <rdg wit="#MSK">vajrabandhena viṣṭabhyāṣṭottara</rdg></app> śataṃ ca <app><lem type="emn" wit="#MSK">parijapet<!-- parijapet --></lem> (misreading <foreign>parijaptet</foreign>);
-  <rdg wit="#cod">parijāptet</rdg></app>  //</l>
+  <rdg wit="#MSK">vajrabandhena viṣṭabhyāṣṭottara</rdg></app> śataṃ ca <app><lem type="emn" wit="#MSK">parijapet<!-- parijapet --></lem>
+  <rdg wit="#cod">parijāptet</rdg><note><ptr target="#MSK"/>reads <foreign>parijaptet</foreign></note></app>  //</l>
 </lg>
 
 <lg met="FILL-ME-IN"><l n="ab">tataḥ ṣoḍaśasattvaiḥ puna<app><lem type="emn" wit="#MSK">rmaṇḍalabhūmiṃ gandhenopalipya<!-- rmaṇḍalabhūmiṃ gandhenopalipya --></lem>
@@ -2868,7 +2868,7 @@ oṁ vajrasattva hūm̐ iti //</l>
   <rdg wit="#MSK">vajrasattvodāharan</rdg> <note>(emendation not clearly indicated)</note>
 </app>nvajrasattvamātmānaṃ <app><lem><seg rend="check">niścintya</seg></lem><note>Emend <foreign>niścitya</foreign>?</note></app>
  <app><lem>tatsūtraṃ</lem>
-  <note><ptr targe="#MSK"/><foreign xml:lang="san-Latn">tatsūtraṁ</foreign>
+  <note><ptr target="#MSK"/><foreign xml:lang="san-Latn">tatsūtraṁ</foreign>
   This should be separate words.</note></app>
  vāmavajramuṣṭyādāya <app><lem wit="#MSK">jaḥkāreṇa<!-- jaḥkāreṇa --></lem>
   <witDetail wit="#cod" type="pc"/>
@@ -3145,10 +3145,10 @@ māmukhīkṛtyānantaramakāreṇa <app><lem>vairocanībhūya</lem>
  <app><lem type="emn" wit="#MSK">tantrokta<!-- tantrokta --></lem>
   <rdg wit="#cod">tatrokta-</rdg></app> vairocanarūpaṃ <seg rend="check">niścintya</seg> hāṃkāre<app><lem type="conj">ṇāryācalaṃ</lem>
   <witDetail wit="#MSK" type="silemn"/>
-  <rdg wit="#cod">-āyācalaṁ</rdg></app>  manasā <app><lem type="emn">svahṛdayā</lem>
+  <rdg wit="#cod">-āyācalaṁ</rdg></app>  manasā <app><lem type="emn">svahṛdayān</lem>
   <rdg wit="#cod">svahṛyān</rdg>
-  <rdg wit="#MSK">svahṛdayād</rdg></app> <app><lem wit="#MSK">nniścārya<!-- nniścārya --></lem><witDetail wit="#MSK" type="silemn"/>
-  <rdg>niścāya</rdg> 
+  <rdg wit="#MSK">svahṛdayād</rdg></app> <app><lem type="emn" wit="#MSK">niścārya<!-- nniścārya --></lem><witDetail wit="#MSK" type="silemn"/>
+  <rdg wit="#cod">niścāya<!-- check MS--></rdg> 
   </app> 
 vajra <app><lem type="emn" wit="#MSK">hāṃ<!-- hāṃ --></lem>
   <rdg wit="#cod">haṁ</rdg></app>  bandha
@@ -3266,9 +3266,9 @@ namaḥ samantavajrāṇāṃ caṇḍamahāroṣaṇa sphoṭaya hūṃ <app><l
 <l n="cd">āmaśarāvadvayamadhye rudhiracityaṅgāra<app><lem wit="#MSK">viṣa<!-- viṣa --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">-viśa-</rdg></app> rājikonmattaka<app><lem wit="#MSK">pattra<!-- pattra --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">-patta-</rdg></app> rasairmantramālikhya siddhārthakā<app><lem type="emn" wit="#MSK">naṣṭaśataparijaptāṃstasminśarāvasaṃpuṭe<!-- naṣṭaśataparijaptāṃstasminśarāvasaṃpuṭe --></lem>
-  <rdg wit="#cod">aṣṭaśataparijaptām|s tasmi sarāvasampuṭe</rdg> .
+  <rdg wit="#cod">aṣṭaśataparijaptām|s tasmi sarāvasampuṭe</rdg>
   <note><ptr target="#MSK"/> does not report <foreign>sarāva-</foreign></note></app> <app><lem type="emn" wit="#MSK">nyasyānalavighnādiṃ<!-- nyasyānalavighnādiṃ --></lem>
-  <rdg wit="#cod">nyasyanaravighnādiāṁ</rdg> .
+  <rdg wit="#cod">nyasyanaravighnādiāṁ</rdg>
   <note><ptr target="#MSK"/> does not report <foreign>-diā</foreign>ṁ with double vocalization</note></app> <app><lem wit="#cod #MSK" type="emn">dṛṣṭvāhutiśataṃ<!-- dṛṣṭvāhutiśataṃ --></lem>
   <rdg wit="#cod">dṛṣṭvā āhutiśataṁ</rdg></app>  saptakaṃ vā juhuyāt / </l>
 <l n="c">tata<app><lem type="emn">ste naśyante mriyante<!-- ste naśyante mriyante --></lem>
@@ -3351,7 +3351,7 @@ rvā gṛhyante /</l>
 <l n="c">hūṁ | <pb edRef="#cod" n="38v1"/>ity anena mudrāyuktena <app><lem type="emn" wit="#MSK">sarvaraṅgā<!-- sarvaraṅgā --></lem>
   <rdg wit="#cod">sarvaraṅgāṁ</rdg></app> nsaptavārānabhimantrayedvajramayā bhavantītyāha bhagavānmahāvajradharaḥ / </l>
 <l n="d"><app><lem type="emn" wit="#MSK">tatreyaṃ<!-- tatreyaṃ --></lem>
-  <rdg wit="#cod">tattreya</rdg> .
+  <rdg wit="#cod">tattreya</rdg>
   <note><ptr target="#MSK"/> reads <foreign>tantreyaṁ</foreign></note></app> mudrā /</l>
 </lg>
 
@@ -3384,10 +3384,11 @@ rvā gṛhyante /</l>
   <rdg wit="#cod">kaniyasī</rdg>
   <note><ptr target="#MSK"/> incorrectly emends <foreign>kanīyasā</foreign></note></app>
   <app><lem type="emn">pramāṇā<!-- pramāṇā --></lem>
-  <rdg wit="#cod #MSK">parimāṇaṁ</rdg></app>  <app><lem wit="#MSK">raṅgaṃ<!-- raṅgaṃ --></lem><witDetail wit="#MSK" type="silemn"/>
-  <rdg wit="#cod">raṅga</rdg></app>  <app><lem type="emn" wit="">raṅgarekhā / ataḥ paraṃ</lem>
-  <rdg wit="#cod">raṅgarekhāata | paraṁ</rdg> 
-  <note><ptr target="#MSK"/>incorrectly emends <foreign>raṅgaṁ rekhāyeta | paraṁ</foreign></note></app> <app><lem wit="#MSK">hastavṛddhyā<!-- hastavṛddhyā --></lem><witDetail wit="#MSK" type="silemn"/>
+  <rdg wit="#cod #MSK">parimāṇaṁ</rdg></app> <app><lem type="emn" wit="#MSK">raṅgaṃ<!-- raṅgaṃ --></lem><witDetail wit="#MSK" type="silemn"/>
+  <rdg wit="#cod">raṅga</rdg><!-- MSK reads raṅgā? check MS --></app>  <app><lem type="emn">raṅgarekhā / ataḥ paraṃ</lem>
+  <rdg wit="#cod">raṅgarekhā ata / paraṁ</rdg> 
+  <rdg wit="#MSK">raṅgaṁ rekhāyeta / paraṁ</rdg>
+  <note><ptr target="#MSK"/>incorrectly emends <foreign>raṅgaṁ rekhāyeta / paraṁ</foreign></note></app> <app><lem wit="#MSK">hastavṛddhyā<!-- hastavṛddhyā --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">hastavṛddhā</rdg></app>  pādavṛddhiḥ / </l>
 </lg>
 
