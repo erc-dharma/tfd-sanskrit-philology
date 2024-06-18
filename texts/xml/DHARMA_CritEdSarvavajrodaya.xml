@@ -917,7 +917,7 @@ miti<listApp type="parallels"><app><lem>idaṁ... sā<supplied reason="lost">dha
 <lg met="anuṣṭubh"><head type="editorial">Karmavajrī</head>
 	<l n="ab">aho hi sarvabuddhānāṁ karmavajramahaṁ <app><lem wit="#cod #MSK">bahuḥ<!-- bahuḥ --></lem>
   <rdg wit="#MSK">bahu</rdg><note corresp="#STTS #cod #Hed"/> <note><seg rend="check">CHECK YAMADA!!</seg></note>
-</app> |</l><l n="cd">yadekaḥ sannaśeṣasya <app><lem type="emn" wit="#MSK">sattvadhātoḥ<!-- sattvadhātoḥ --></lem><witDetail wit="#MSK" type="silemn"/><note corresp="#STTS #cod #Hed" |><note><seg rend="check">CHECK YAMADA!!</seg></note>
+</app> |</l><l n="cd">yadekaḥ sannaśeṣasya <app><lem type="emn" wit="#MSK">sattvadhātoḥ<!-- sattvadhātoḥ --></lem><witDetail wit="#MSK" type="silemn"/><note corresp="#STTS #cod #Hed"><seg rend="check">CHECK YAMADA!!</seg></note>
   <rdg wit="#cod">satvadhāto</rdg></app>  sukarmakr̥diti<listApp type="parallels"><app><lem>aho ... sukarmakr̥d iti</lem><note>STTS 150
 <!--   <foreign>aho hi sarvabuddhānāṁ karmavajram ahaṁ bahu | -->
 <!--   ya-d-ekaḥ sann aśeṣasya sattvadhātoḥ sukarmakr̥d iti ||} -->
