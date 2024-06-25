@@ -3786,7 +3786,7 @@ sucintitārthaḥ 1 | dharmmeśvaraḥ 2 | <app><lem type="emn" wit="#MM">yaśom
 gaṇiprabhaḥ 1 | <app><lem wit="#cod">vararatnagarbhaḥ<!-- vararatnagarbhaḥ --></lem>
   <rdg wit="#MM">ratnagarbhaḥ</rdg></app>
  2 | atyuccagāmī 3 | viṣya 4 | maṇiviṣāṇī 5 | <app><lem wit="#MM" type="emn">guṇakīrtiḥ<!-- guṇakīrtiḥ --></lem><witDetail wit="#MM" type="silemn"/>
-  <rdg wit="#cod">guṇakīrtti</rdg></app>  6 | candrārkābhaḥ 7 | <app><lem>sūryaprabhaḥ</lem><rdg>7 | [41v] sūryaprabhaḥ</rdg></app> 8 | <app><lem wit="#MM" type="emn">jyotīrasaḥ<!-- jyotīrasaḥ --></lem><witDetail wit="#MM" type="silemn"/>
+  <rdg wit="#cod">guṇakīrtti</rdg></app>  6 | candrārkābhaḥ 7 | <lb n="41v1"/>sūryaprabhaḥ 8 | <app><lem wit="#MM" type="emn">jyotīrasaḥ<!-- jyotīrasaḥ --></lem><witDetail wit="#MM" type="silemn"/>
   <rdg wit="#cod">jotīrasaḥ</rdg>
   <note>Note other case of <foreign>jotīrasaḥ</foreign> spelt this way below.</note>
 </app> 9 | <app><lem wit="#MM" type="emn">siṁhaketuḥ<!-- siṁhaketuḥ --></lem><witDetail wit="#MM" type="silemn"/>
@@ -6717,8 +6717,8 @@ The heart mantra (<foreign>hr̥daya</foreign>) is taught to be <foreign>oṁ sar
 
 
 <lg met="FILL-ME-IN">
-<l n="ab">dakṣiṇahastatale kr̥ṣṇatilaiḥ pāpapratikr̥tiṁ kr̥tvā <app><lem wit="" type="emn">hūṁkāraṁ madhye<!-- hūṁkāraṁ madhye --></lem> <note>with SDPT;</note>
-  <rdg wit="#cod">hū;ṁkāramadhyaṁ</rdg></app>  vicintya tarjanyaṅguṣṭhābhyāṁ homaṁ kuryāt | tato homakuṇḍānnirgatya <app><lem type="emn" wit="#MSK">jvālāmālākulairvajrai<!-- jvālāmālākulairvajrai --></lem>
+<l n="ab">dakṣiṇahastatale kr̥ṣṇatilaiḥ pāpapratikr̥tiṁ kr̥tvā <app><lem type="emn">hūṁkāraṁ madhye<!-- hūṁkāraṁ madhye --></lem> <note>with SDPT;</note>
+  <rdg wit="#cod #MSK">hūṁkāramadhyaṁ</rdg></app>  vicintya tarjanyaṅguṣṭhābhyāṁ homaṁ kuryāt | tato homakuṇḍānnirgatya <app><lem type="emn" wit="#MSK">jvālāmālākulairvajrai<!-- jvālāmālākulairvajrai --></lem>
   <rdg wit="#cod">jvālāmālākulerdvajres</rdg>
   <note>MSK reads <foreign>jvālāmālākuled vajrais</foreign>. It is possible that the scribe has either written superscript part of <foreign>-ai</foreign> on top of <foreign>repha</foreign>, or converted a <foreign>repha</foreign> into such a superscript part of <foreign>-ai</foreign>. In the latter case, ours is the AC reading, and MSK's the PC reading.</note>
 </app>stasya śarīre <app><lem type="emn" wit="#MSK">pāpaṁ<!-- pāpaṁ --></lem>
