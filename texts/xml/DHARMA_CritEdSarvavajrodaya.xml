@@ -3579,7 +3579,7 @@ vajraparyaṅka<app><lem wit="#MSK" type="emn" rend="hyphenleft">niṣaṇṇā�
 sūryaprabhāmaṇḍalā vairocanābhimukhā ratna<app><lem wit="#MSK" type="emn" rend="hyphenleft">makuṭapaṭṭābhiṣekinaḥ</lem><witDetail wit="#MSK" type="silemn"/><rdg wit="#cod">-makuṭāpaṭṭābhiṣekiṇaḥ</rdg></app>  
 nīlapītaraktaśyāmāvarṇā yathākrameṇa | 
 ekamukhāḥ <app><lem type="emn">pañcasūcikavajravajraratnavajrapadmaviśvavajradharāḥ</lem><note corresp="#Tib"/>
-  <rdg wit="#MSK" type="emn">pañcasūcikavajravajraratnapadmacakraviśvavajradharāḥ</rdg>
+  <rdg wit="#MSK">pañcasūcikavajravajraratnapadmacakraviśvavajradharāḥ</rdg>
   <!-- Derge 31r5 rdo rje rtse lnga pa dang | rdo rje rin po che dang | rdo rje padma dang | sna tshogs rdo rje la sogs pa bsnams pa'o ||-->
   <!-- if necessary, quote Tib. in annotation to translation -->
   <rdg wit="#cod">pañcasūcikavajraḥ <lb n="39v4"/>vajraratnaḥ <del>padmaca</del>dmaḥ viśvavajaradharāḥ</rdg>
@@ -3592,7 +3592,7 @@ pañcatathāgatahr̥dayam udīrayatā sthāpyā lekhyā <app>
   ca <app><lem type="emn"><seg rend="check">tathaivāvatāryā ekīkāryāḥ</seg></lem>
     <!-- conj. tathāgatā avatāryā ekīkāryāḥ? but Tib. does not have anything corr. to tathāgatā -->
     <rdg wit="#cod">tathaivātāryaikīkāryāḥ</rdg>
-    <rdg type="emn" wit="#MSK">tathāvatāryaikīkāryāḥ</rdg>
+    <rdg wit="#MSK">tathāvatāryaikīkāryāḥ</rdg>
     <!-- tathāvātāryaikīkāryāḥ -->
     </app> |
   </p>
@@ -3718,7 +3718,7 @@ sūrataḥ 1 | <app><lem wit="#MM">ūrṇṇāḥ<!-- ūrṇṇāḥ --></lem><w
 
 
 <ab>
-anunnataḥ <add>1</add> | prabhaṅkaraḥ 2 | mahāmeruḥ 3 | vajraḥ 4 | sañjayī | 5 | nirbhayaḥ 6 | ratnaḥ 7 | padmākṣaḥ 8 | valasenaḥ 9 | kusumaraśmiḥ 10 ||
+anunnataḥ 1 | prabhaṅkaraḥ 2 | mahāmeruḥ 3 | vajraḥ 4 | sañjayī | 5 | nirbhayaḥ 6 | ratnaḥ 7 | padmākṣaḥ 8 | valasenaḥ 9 | kusumaraśmiḥ 10 ||
 </ab>
 
 <ab>
