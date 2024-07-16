@@ -63,6 +63,7 @@
                         <idno type="altIdentifier">vi.bauddhatantra/84</idno>
                      </msIdentifier>
                      <msContents>
+                      <!-- no folio 48, but no loss of text from 47 to 49 -->
 								<!-- the msContents isn't mandatory -->
                         <msItem>
                            <author>Ānandagarbha</author>
@@ -4123,45 +4124,65 @@ vikrāntagāmī 1 | puṇya<app><lem type="emn" wit="#MorMit">rāśiḥ<!-- rā�
 <!-- At the en of this section, MM has °arciṣmān 8, pārthivaḥ 9, vegadharī 10. A complex scribal error, with two skips forward and a skip back to the wrong place must have occurred to explain the text as it stands in our manuscript. -->
 </ab>
 
-<ab>
-śrīḥ 3 | surūpaḥ 4 | rā<add>jaḥ</add> 5 | arthasiddhiḥ 6 | &gt;siṁhasenaḥ 7 | <app><lem wit="#cos">vāśakaḥ<!-- siṁhasenaḥ 7 | \edtext{vāśakaḥ --></lem>
-  <rdg wit="#MorMit">vāsavaḥ</rdg> <note>, with note indicating that he reads <foreign>vaśakaḥ</foreign> or <foreign>vāśikaḥ</foreign>.</note>
-<note>siṁhasenaḥ 7 | <pb edRef="#cod" n="46v1"/> vāśakaḥ</note>
-</app> 8 | <app><lem wit="#cod">yaśāḥ<!-- yaśāḥ --></lem>
-  <rdg wit="#MorMit">yaśaḥ</rdg></app>  9 | jayaḥ 10 ||
+<ab><app>
+  <lem wit="#MorMit"><supplied reason="lost">tiṣyaḥ 1 | suprabhaḥ 2 |</supplied></lem>
+  <rdg wit="#cod"><gap reason="omitted"/></rdg>
+</app>
+  śrīḥ 3 | surūpaḥ 4 | 
+  <app>
+    <lem>rājā</lem>
+    <rdg wit="#cod">rājā<add place="below">ḥ</add></rdg>
+    <rdg wit="#MorMit">rājaḥ</rdg>
+  </app> 5 | 
+  arthasiddhiḥ 6 | siṁhasenaḥ 7 | <pb edRef="#cod" n="46v1"/>
+  <app>
+    <lem wit="#cod">vāśakaḥ</lem>
+    <rdg wit="#MorMit">vāsavaḥ</rdg>
+    <note>Moriguchi indicates that he reads <foreign>vaśakaḥ</foreign> or <foreign>vāśikaḥ</foreign> in the ms.</note>
+</app> 8 | 
+ <app>
+  <lem wit="#cod">yaśāḥ</lem>
+  <rdg wit="#MorMit">yaśaḥ</rdg>
+</app>  9 | jayaḥ 10 ||
 <!-- At the beginning of this section. MM has tiṣyaḥ 1, suprabhaḥ 2. These elements seem to have been skipped in our manuscript. -->
-<!-- \unclear{vā}śakaḥ: vāsavaḥ MM, with note indicating that he reads vaśakaḥ or vāśikaḥ. -->
-<!-- yaśāḥ: yaśaḥ MM. -->
 </ab>
 
-<ab>
-udāragarbhaḥ 1 | puṇyaraśmiḥ 2 | <app><lem wit="#cod">suvarṇaprabhaḥ<!-- suvarṇaprabhaḥ --></lem>
-  <rdg wit="#MorMit">suvarṇaprabhā</rdg></app>  3 | <app><lem type="emn" wit="#MorMit">śrotriyaḥ<!-- śrotriyaḥ --></lem>
-  <rdg wit="#cod">sotriyaḥ</rdg></app>  4 | <app><lem wit="#cod">avaivartikapradīparājaḥ<!-- avaivartikapradīparājaḥ --></lem>
-  <rdg wit="#MorMit">pradīparājaḥ</rdg></app>  5 | ratnakūṭaḥ 6 | asaṅgadevaḥ 7 |  + + + 8 | vimuktigāmī 9 | suvarṇacūḍaḥ 10 ||
-<!-- suvarṇṇaprabhaḥ: suvarṇaprabhā MM. -->
-<!-- sotriyaḥ: em. śrotriyaḥ, with MM. -->
+<ab>udāragarbhaḥ 1 | 
+  puṇyaraśmiḥ 2 | 
+  <app><lem wit="#cod">suvarṇaprabhaḥ</lem>
+  <rdg wit="#MorMit">suvarṇaprabhā</rdg></app> 3 | 
+  <app><lem type="emn" wit="#MorMit">śrotriyaḥ</lem>
+  <rdg wit="#cod">sotriyaḥ</rdg></app>  4 | 
+  <app><lem wit="#cod">avaivartikapradīparājaḥ</lem>
+  <rdg wit="#MorMit">pradīparājaḥ</rdg></app>  5 | 
+  ratnakūṭaḥ 6 | 
+  asaṅgadevaḥ 7 | 
+  <app>
+    <lem type="conj">pārthivendraḥ</lem>
+    <rdg wit="#MorMit">dharaṇīḥ</rdg>
+    <witDetail wit="#MitMor" type="silem"/>
+    <note>The ms. is damaged here and the <foreign>akṣara</foreign>s after <foreign>pā</foreign> are very hard to read. Our reading takes into account the Chin. and Tib. translations.</note>
+  </app> 8 |
+  vimuktigāmī 9 | suvarṇacūḍaḥ 10 ||
 <!-- °avaivarttikapradīparājaḥ: pradīparājaḥ MM. -->
 </ab>
 
 <ab>
-rāhulabhadraḥ 1 | <app><lem wit="#cod">durjayaḥ<!-- durjayaḥ --></lem>
-  <rdg wit="#MorMit">durkṣayaḥ</rdg></app>  2 | muniprasannaḥ 3 | somaraśmiḥ 4 | kāñcanasuvarṇaprabhaḥ 5 | sudattaḥ 6 | guṇendradevaḥ 7 | dharmacchatraḥ 8 | puṇyavāhuḥ 9 | <app><lem wit="#cod">aṅgamaḥ<!--aṅgamaḥ--></lem>
+rāhulabhadraḥ 1 | <app><lem wit="#cod">durjayaḥ</lem>
+  <rdg wit="#MorMit">durkṣayaḥ</rdg></app>  2 | muniprasannaḥ 3 | somaraśmiḥ 4 | kāñcanasuvarṇaprabhaḥ 5 | sudattaḥ 6 | guṇendradevaḥ 7 | dharmacchatraḥ 8 | puṇyavāhuḥ 9 | <app><lem wit="#cod">aṅgamaḥ</lem>
   <rdg wit="#MorMit">aṅgadaḥ</rdg></app>  10 ||
 <!-- durjjayaḥ: durkṣayaḥ MM. -->
 <!-- aṅgama○ḥ: aṅgadaḥ MM. -->
 </ab>
 
-<ab>
-praṇītajñānaḥ 1 | sūkṣmabuddhiḥ 2 <app><lem type="emn">sarvatejāḥ<!-- sarvatejāḥ --></lem>
-  <rdg wit="#cod #MM">sarvatejaḥ</rdg></app>  3 | oṣadhiḥ 4 | vimuktiketuḥ 5 | prajñākośaḥ 6 | <app><lem type="emn" wit="#MorMit">jñānarājaḥ<!-- jñānarājaḥ --></lem>
+<ab>praṇītajñānaḥ 1 | sūkṣmabuddhiḥ 2 <app><lem type="emn">sarvatejāḥ</lem>
+  <rdg wit="#cod #MM">sarvatejaḥ</rdg></app>  3 | oṣadhiḥ 4 | vimuktiketuḥ 5 | prajñākośaḥ 6 | <app><lem type="emn" wit="#MorMit">jñānarājaḥ</lem>
   <rdg wit="#cod">jñānarājāḥ</rdg></app>  7 | bhīṣmarūpaḥ 8 | oghakṣayaḥ 9 | asaṅgakīrtiḥ 10 ||
 <!-- sarvatejaḥ: em. sarvatejāḥ; sarvatejaḥ MM. -->
 <!-- jñānarājāḥ: em. jñānarājaḥ, with MM. -->
 </ab>
 
-<ab>
-satyarāśiḥ 1 | <app><lem type="emn" wit="#MorMit">susvaraḥ<!-- susvaraḥ --></lem>
+<ab>satyarāśiḥ 1 | <app><lem type="emn" wit="#MorMit">susvaraḥ<!-- susvaraḥ --></lem>
   <rdg wit="#cod">suśvaraḥ</rdg></app>  2 | <app><lem type="emn" wit="#MorMit">girīndrakalpaḥ<!-- girīndrakalpaḥ --></lem>
   <rdg wit="#cod">girindrakalpaḥ</rdg></app>  3 | dharmakūṭaḥ 4 | <app><lem wit="#cod">mokṣatejāḥ<!-- mokṣatejāḥ --></lem>
   <rdg wit="#MorMit">mokṣatejaḥ</rdg></app>  5 | <app><lem type="emn" wit="#MorMit">śobhitaḥ<!-- śobhitaḥ --></lem>
@@ -4344,30 +4365,47 @@ buddhimatiḥ 1 | drumendraḥ 2 | ghoṣeśvaraḥ 3 | <app><lem wit="#cod">pu�
 </ab>
 
 <ab>
-<app><lem>prajñāvibhaktarutaḥ</lem><note>prajñāvi<pb edRef="#cod" n="49r1"/>bhaktarutaḥ;</note>
-  <note>Note that scribe assigns number 49 to verso of this folio. He seems inadvertently to have skipped the number 48.</note>
-</app> 1 | guṇatejoraśmiḥ <add>2</add> | <app><lem type="emn">r̥ṣīndraḥ<!-- r̥ṣīndraḥ --></lem>
+<app>
+  <lem>prajñāvi<pb edRef="#cod" n="49r1"/>bhaktarutaḥ</lem>
+  <note>The scribe assigns number 49 to the verso of this folio, inadvertently skipping the number 48.</note>
+</app> 1 | guṇatejoraśmiḥ 2 | <app><lem type="emn">r̥ṣīndraḥ</lem>
   <rdg wit="#cod">urṣīndraḥ</rdg>
-  <rdg wit="#MorMit">r̥sīndraḥ</rdg></app>  3 | matimān 4 | pratibhāṇakaḥ 5 | <app><lem type="emn">yajñāḥ <add>6 |</add><!-- yajñāḥ <add>6 |</add> --></lem>
+  <rdg wit="#MorMit">r̥sīndraḥ</rdg>
+  <witDetail wit="#MorMit" type="silem"/>
+</app>  3 | matimān 4 | 
+<app>
+  <lem wit="#cod">pratibhāṇakaḥ</lem>
+  <rdg wit="#MorMit">pratibhānacakraḥ</rdg>
+  <witDetail wit="#MorMit" type="emn"/>
+  <note>Moriguchi reads the ms. as <foreign>pratibhānakraḥ</foreign>.</note>
+</app> 5 | 
+<app>
+  <lem type="emn" wit="#MorMit"><supplied reason="omitted">su</supplied>yajñaḥ <supplied reason="omitted">6 |</supplied></lem>
   <rdg wit="#cod">yajñāḥ</rdg>
-  <rdg wit="#MorMit">suyajñaḥ 6 |</rdg>
-  <note>Emend with \MM?</note>
-</app> candrānanaḥ 7 | <app><lem wit="#cod">sūryaśaśī<!-- sūryaśaśī --></lem>
-  <rdg wit="#MorMit">suryaśasī</rdg>  <note>(sic)</note>
-</app> 8 | <app><lem wit="#cod">guṇasāgaraḥ<!-- guṇasāgaraḥ --></lem>
-  <rdg wit="#MorMit">vimalaḥ</rdg></app>  9 | guṇasañcayaḥ 10 ||
-<!-- °urṣīndraḥ: r̥sīndraḥ MM. Em. °r̥ṣīndraḥ. -->
-<!-- pratibhāṇakaḥ: pratibhānacakraḥ MM. Emend pratibhānakaḥ? -->
-<!-- yajñāḥ: suyajñaḥ 6 | MM. Emend with MM? -->
-<!-- sūyaśaśī: em. sūryaśaśī; suryaśasī MM (sic). -->
-<!-- guṇasāgaraḥ: vimalaḥ MM. -->
-<!-- Note that scribe assigns number 49 to verso of this folio. He seems inadvertently to have skipped the number 48. -->
+</app> candrānanaḥ 7 | 
+<app rend="hide"><lem wit="#cod">sūryaśaśī</lem>
+  <rdg wit="#MorMit">suryaśasī</rdg>
+</app> 8 | 
+<app>
+  <lem wit="#cod">guṇasāgaraḥ</lem>
+  <rdg wit="#MorMit">vimalaḥ</rdg>
+</app>  9 | 
+  guṇasañcayaḥ 10 ||
 </ab>
 
 <ab>
-ketūttamaḥ 1 | puṇyadhvajaḥ 2 | <app><lem>pratibhāṇarāṣṭraḥ<!--pratibhāṇarāṣṭraḥ--></lem><note>emend <foreign>pratibhānarāṣṭraḥ</foreign>, with MM?
-</note></app> 3 | ratnaprabhaḥ 4 | priyacandraḥ 5 | siṁhabalabuddhiḥ 6 | vaśavartirājaḥ 7 | amr̥taprasannaḥ 8 | <app><lem>samadhyāyī<!--samadhyāyī--></lem><note>\MM\ emends <foreign>samantadhyāyī</foreign>. We would prefer to emend <foreign>samatādhyāyī</foreign>.</note>
-</app> 9 | <app><lem>akalpaḥ<!--akalpaḥ--></lem><note>\MM\ reads <foreign>akalya</foreign> and emends <foreign>akṣobhyaḥ</foreign>. Other possible reading: <foreign>akarṇyaḥ</foreign>.
+ketūttamaḥ 1 | puṇyadhvajaḥ 2 | 
+<app>
+  <lem wit="#cod">pratibhāṇarāṣṭraḥ</lem>
+  <rdg wit="#MorMit">pratibhānarāṣṭraḥ</rdg>
+</app> 3 | ratnaprabhaḥ 4 | priyacandraḥ 5 | siṁhabalabuddhiḥ 6 | vaśavartirājaḥ 7 | amr̥taprasannaḥ 8 | 
+<app>
+  <lem>samadhyāyī</lem>
+  <note>Moriguchi emends <foreign>samantadhyāyī</foreign>. We would prefer to emend <foreign>samatādhyāyī</foreign>.</note>
+</app> 9 | 
+<app>
+  <lem>akalpaḥ</lem>
+  <note>Moriguchi reads <foreign>akalya</foreign> and emends <foreign>akṣobhyaḥ</foreign>. Other possible reading: <foreign>akarṇyaḥ</foreign>.
 </note></app> 10 ||
 <!-- pratibhāṇarāṣṭraḥ: em. pratibhānarāṣṭraḥ, with MM? -->
 <!-- samantadhyāyī: MM emend samantadhyāyī. We would prefer to emend samatādhyāyī. -->
@@ -4375,11 +4413,14 @@ ketūttamaḥ 1 | puṇyadhvajaḥ 2 | <app><lem>pratibhāṇarāṣṭraḥ<!--
 </ab>
 
 <ab>
-praśāntamalaḥ 1 | <app><lem wit="#cod">deśitāmūḍhaḥ<!-- deśitāmūḍhaḥ --></lem>
-  <rdg wit="#MorMit">deśamūḍhaḥ</rdg></app>  2 | laḍitaḥ 3 | subhadraḥ 4 | <app><lem type="emn" wit="#MorMit">sthitacetajñānaḥ<!-- sthitacetajñānaḥ --></lem>
-  <rdg wit="#cod">sthitacetajñāno</rdg></app>  5 | kathendraḥ 6 | mahādevaḥ 7 | gambhīramatiḥ 8 | amitaḥ <add>9</add> | dharmabalaḥ 10 ||
-<!-- deśitāmūḍhaḥ: deśamūḍhaḥ MM. -->
-<!-- sthitacetajñāno: em. sthitacetajñānaḥ, with MM.  -->
+praśāntamalaḥ 1 | <app>
+  <lem wit="#cod">deśitāmūḍhaḥ</lem>
+  <rdg wit="#MorMit">deśamūḍhaḥ</rdg>
+</app>  2 | laḍitaḥ 3 | subhadraḥ 4 | 
+<app>
+  <lem type="emn" wit="#MorMit">sthitacetajñānaḥ</lem>
+  <rdg wit="#cod">sthitacetajñāno</rdg>
+</app>  5 | kathendraḥ 6 | mahādevaḥ 7 | gambhīramatiḥ 8 | amitaḥ 9 | dharmabalaḥ 10 ||
 </ab>
 
 <ab>
@@ -4445,17 +4486,17 @@ kuśalaprabhaḥ 1 | dr̥ḍhavikramaḥ 2 | <app><lem wit="#cod">devasutaḥ<!-
 <!-- sāgarodgataḥ: sārodgataḥ MM. -->
 </ab>
 
-<ab>
-añjanaḥ 1 | <app><lem wit="#cod">ārjitaḥ<!-- ārjitaḥ --></lem>
-  <rdg wit="#MorMit">(vardhanā)rjitaḥ</rdg></app>  2 | <app><lem type="emn" wit="#MorMit">gandhābhaḥ<!-- gandhābhaḥ --></lem>
-  <rdg wit="#cod">gandhobhaḥ</rdg></app>  3 | vimalaprabhaḥ 4 | smr̥tīndraḥ 5 | madhuravaktraḥ 6 | anantadhvajaḥ 7 | varabuddhiḥ 8 | caraṇaprasannaḥ 9 | ratnapriyaḥ 10 ||}
-<!-- °ārjitaḥ: (vardhanā)rjitaḥ MM. -->
-<!-- gandhobhaḥ: em. gandhābhaḥ, with MM.  -->
-</ab>
+<ab>añjanaḥ 1 | 
+  <app><lem wit="#cod">ārjitaḥ</lem>
+  <rdg wit="#MorMit"><supplied reason="omitted">vardhanā</supplied>rjitaḥ</rdg></app> 2 | 
+  <app>
+    <lem type="emn" wit="#MorMit">gandhābhaḥ</lem>
+  <rdg wit="#cod">gandhobhaḥ</rdg>
+</app>  3 | vimalaprabhaḥ 4 | smr̥tīndraḥ 5 | madhuravaktraḥ 6 | anantadhvajaḥ 7 | varabuddhiḥ 8 | caraṇaprasannaḥ 9 | ratnapriyaḥ 10 ||</ab>
 
 <ab>
-dharmeśvaraḥ 1 | <app><lem type="emn" wit="#MM?">viśvadevaḥ<!-- viśvadevaḥ --></lem><witDetail wit="#MorMit" type="silemn"/>
-  <rdg wit="#cod">visvadevaḥ</rdg></app>  2 | mahāmitraḥ 3 | sumitraḥ 4 | praśāntagatiḥ 5 | <app><lem wit="#cod">amr̥tādhipaḥ<!-- amr̥tādhipaḥ --></lem>
+dharmeśvaraḥ 1 | <app><lem type="emn" wit="#MM?">viśvadevaḥ</lem><witDetail wit="#MorMit" type="silemn"/>
+  <rdg wit="#cod">visvadevaḥ</rdg></app>  2 | mahāmitraḥ 3 | sumitraḥ 4 | praśāntagatiḥ 5 | <app><lem wit="#cod">amr̥tādhipaḥ</lem>
   <rdg wit="#MorMit">amr̥tādhipatiḥ</rdg></app>  6 | <app><lem type="emn" wit="#MorMit">meruprabhaḥ 7 | āryastutaḥ<!-- meruprabhaḥ 7 | \edtext{āryastutaḥ --></lem>
   <rdg wit="#cod">aryastutaḥ</rdg><note>meruprabhaḥ 7 | <pb edRef="#cod" n="50r1"/> āryastutaḥ</note>
 </app> 8 | <app><lem type="emn" wit="#MorMit">jyotiṣmān<!-- jyotiṣmān --></lem>
@@ -4513,19 +4554,29 @@ dharmeśvaraḥ 1 | <app><lem type="emn" wit="#MM?">viśvadevaḥ<!-- viśvadeva
 <!-- puṣpābhaḥ: puṣpaprabhaḥ MM. -->
 </ab>
 
-<ab>
-puṇyapriyaḥ 1 | ratiprabhaḥ 2 | <app><lem type="emn" wit="#MorMit">sughoṣaḥ<!-- sughoṣaḥ --></lem>
-  <rdg wit="#cod">sughoṣa</rdg></app>  3 | dharmeśvaraḥ 4 | <app><lem type="emn" wit="#MorMit">brahmarutaḥ<!-- brahmarutaḥ --></lem>
-  <rdg wit="#cod">vrahmaruta</rdg></app>  5 | suce<add>ṣṭaḥ</add> 6 | askhalitabuddhiḥ 7 | mahāpraṇādaḥ 8 | yaśakīrtiḥ 9 | <app><lem type="emn" wit="#MorMit">ketumān 10<!-- ketumān 10 --></lem>
-  <rdg wit="#cod">ketumān</rdg>
+<ab>puṇyapriyaḥ 1 | 
+  ratiprabhaḥ 2 | 
+  <app>
+    <lem type="emn" wit="#MorMit">sughoṣaḥ</lem>
+    <rdg wit="#cod">sughoṣa</rdg>
+  </app>  3 | 
+  dharmeśvaraḥ 4 | 
+  <app>
+    <lem type="emn" wit="#MorMit">brahmarutaḥ</lem>
+  <rdg wit="#cod">vrahmaruta</rdg>
+</app>  5 | 
+suceṣṭaḥ 6 | 
+askhalitabuddhiḥ 7 | mahāpraṇādaḥ 8 | yaśakīrtiḥ 9 | 
+ketumān
+<app>
+  <lem type="emn" wit="#MorMit">10</lem>
+  <witDetail wit="#MorMit" type="silem"/>
+  <rdg wit="#cod"><gap reason="omitted"/></rdg>
 </app> ||
-<!-- sughoṣa: em. sughoṣaḥ, with MM. -->
-<!-- vrahmaruta: em. brahmarutaḥ, with MM. -->
-<!-- ketumān·: em. ketumān 10, with MM. -->
 </ab>
 
 <ab>
-<app><lem wit="#cod">vighuṣṭatejāḥ<!--vighuṣṭatejāḥ--></lem>
+<app><lem wit="#cod">vighuṣṭatejāḥ</lem>
   <rdg wit="#MorMit">vighuṣṭatejaḥ</rdg></app>  1 | <app><lem wit="#cod">jagatīśvaraḥ<!-- jagatīśvaraḥ --></lem>
   <rdg wit="#MorMit">jagadīśvaraḥ</rdg> <note>. Make this emendation? It is not necessary from point grammatical/semantic viewpoint.</note>
 </app> 2 | drumaḥ 3 | supraṇaṣṭamohaḥ 4 | amr̥taḥ 5 | <app><lem wit="#cod">sucandramāḥ<!-- sucandramāḥ --></lem>
