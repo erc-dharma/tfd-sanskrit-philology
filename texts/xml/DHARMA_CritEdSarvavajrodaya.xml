@@ -3743,7 +3743,7 @@ akṣyataḥ 1 | siṅhadhvajaḥ 2 | jayaḥ 3 | dharmaḥ 4 | <app><lem wit="#
   </ab>
 
 <ab>
-vilocanaḥ 1 | <app><lem type="emn">meghasvaraḥ<!-- meghasvaraḥ --></lem>
+vilocanaḥ 1 | <app><lem type="emn">meghasvaraḥ</lem>
   <rdg wit="#cod">meghaśvaraḥ</rdg>
   <rdg wit="#MorMit">meghesvaraḥ</rdg><note><ptr target="#MorMit"/>reads <foreign>meghesvaraḥ</foreign></note> </app>  2 | sucintitaḥ 3 | sumanāḥ 4 | śaśī 5 | <app><lem type="emn">mahāyaśāḥ<!-- mahāyaśāḥ --></lem>
   <rdg wit="#cod">mahāyaśā</rdg>
@@ -3761,8 +3761,8 @@ vilocanaḥ 1 | <app><lem type="emn">meghasvaraḥ<!-- meghasvaraḥ --></lem>
 
 <ab>
 maṅgalī 1 | satyaketuḥ 2 | padmaḥ 3 | <app>
-  <lem type="emn" wit="">nārāyaṇaḥ<!-- nārāyaṇaḥ --></lem>
-  <rdg wit="#cod">nārāyanaḥ</rdg>
+  <lem type="emn">nārāyaṇaḥ</lem>
+  <rdg wit="#cod #MorMit">nārāyanaḥ</rdg>
   <note>\MM\ accepts <foreign>nārāyanaḥ</foreign>.</note></app> 4 | sukhavāhuḥ 5 | <app><lem wit="#cod">jñānākarabuddhiḥ<!-- jñānākarabuddhiḥ --></lem>
   <rdg wit="#MorMit">jñānākaraḥ</rdg></app>  6 | guṇārcciḥ 7 | brahmadattaḥ 8 | ratnākaraḥ 9 | kusumadevaḥ 10 ||
 <!-- nārāyanaḥ: em. nārāyaṇaḥ; MM accepts nārāyanaḥ. -->
@@ -4500,10 +4500,10 @@ dharmeśvaraḥ 1 | <app><lem type="emn" wit="#MM?">viśvadevaḥ<!-- viśvadeva
 </ab>
 
 <ab><app><lem type="emn" wit="#MorMit">brahmā<!-- brahmā --></lem>
-  <rdg wit="#cod">vrahmāḥ</rdg></app>  1 | <app><lem wit="#cod">jñānarutaḥ<!--jñānarutaḥ--></lem><note>
-  <rdg wit="#MorMit">jñānarataḥ</rdg> <note>. 
+  <rdg wit="#cod">vrahmāḥ</rdg></app>  1 | <app><lem wit="#cod">jñānarutaḥ<!--jñānarutaḥ--></lem>
+  <rdg wit="#MorMit">jñānarataḥ</rdg><note>
   Adopt this emendation or accept two cases of identical name <foreign>jñānaruta</foreign> in close proximity?</note>
-</note></app> 2 | r̥ddhiketuḥ 3 | janendrakalpaḥ 4 | <app><lem>dharaṇindharaḥ<!--dharaṇindharaḥ--></lem><note>on <foreign>dharaṇindhara</foreign> = <foreign>dharaṇīndhara</foreign>, see BHSD.
+</app> 2 | r̥ddhiketuḥ 3 | janendrakalpaḥ 4 | <app><lem>dharaṇindharaḥ<!--dharaṇindharaḥ--></lem><note>on <foreign>dharaṇindhara</foreign> = <foreign>dharaṇīndhara</foreign>, see BHSD.
 </note></app> 5 | sūryapriyaḥ 6 | rāhucandraḥ 7 | <app><lem wit="#cod">puṣpābhaḥ<!-- puṣpābhaḥ --></lem>
   <rdg wit="#MorMit">puṣpaprabhaḥ</rdg></app>  8 | vidyādhipaḥ 9 | ojodhārī 10 ||
 <!-- vrahmāḥ: em. brahmā, with MM. -->
@@ -4585,7 +4585,7 @@ kṣemaṅkaraḥ 1 | <app><lem type="emn" wit="#MorMit">siṁhagatiḥ<!-- si�
   <rdg wit="#cod">sinhagatiḥ</rdg></app>  2 | <app><lem wit="#cod">ratnayaśāḥ<!-- ratnayaśāḥ --></lem>
   <rdg wit="#MorMit">ratnayaśaḥ</rdg></app>  3 | kr̥tārthaḥ 4 | <app><lem type="emn" wit="#MorMit">kr̥tāntadarśī<!-- kr̥tāntadarśī --></lem>
   <rdg wit="#cod">kr̥tāntadarśīḥ</rdg></app>  5 | bhavapuṣpaḥ 6 | <app><lem type="emn" wit="#MorMit">ūrṇaḥ<!-- ūrṇaḥ --></lem>
-  <rdg wit="#cod">urṇṇaḥ</rdg></app>  7 | <app><lem type="emn" wit="#MM?">atulapratibhānarājaḥ<!-- atulapratibhānarājaḥ --></lem>;
+  <rdg wit="#cod">urṇṇaḥ</rdg></app>  7 | <app><lem type="emn" wit="#MM?">atulapratibhānarājaḥ<!-- atulapratibhānarājaḥ --></lem>
   <rdg wit="#cod">atulapratibhāṇarājaḥ</rdg></app>  8 | vibhaktajñāneśvaraḥ 9 | <app><lem type="emn" wit="#MorMit">siṁhadaṁṣṭraḥ<!-- siṁhadaṁṣṭraḥ --></lem>
   <rdg wit="#cod">sinhadraṣṭraḥ</rdg></app>  10 ||
 <!-- sinhagatiḥ: em. siṁhagatiḥ, with MM. -->
@@ -4614,7 +4614,7 @@ atibalaḥ 1 | prajñāpuṣpaḥ 2 | <app><lem type="emn" wit="#MorMit">dr̥ḍ
 <!-- dr̥ḍhaśvaraḥ: em. dr̥ḍhasvaraḥ, with MM. -->
 <!-- MM reconstructs the Sanskrit names for the rest of this group of 10. -->
 </ab>
-<ab>(folio 51 is missing)</ab>\
+<ab>(folio 51 is missing)</ab>
 </div>
 </div>
 
@@ -4627,8 +4627,8 @@ atibalaḥ 1 | prajñāpuṣpaḥ 2 | <app><lem type="emn" wit="#MorMit">dr̥ḍ
   <rdg wit="#cod"><unclear>tābhisso</unclear>ṣadhībhiḥ</rdg> 
  <note> \HT's emendation to <foreign>-dhibhiḥ</foreign> is perhaps not necessary.</note>
 <note>(folio missing) <pb edRef="#cod" n="52r1"/>tābhissoṣadhībhiḥ
-</note></app> śāliyavagodhūmatilamāṣaiḥ sarvadhānyaiḥ <app><lem wit="" type="emn">sugandhodakasitasugandhakusumaiśca<!-- sugandhodakasitasugandhakusumaiśca --></lem><note corresp="#Tib"/><note><foreign>spos chu dri zhim pa dang | me tog dkar po dri zhim pas</foreign></note>
-  <rdg wit="#cod">sugandhodakasitasugandhaiḥ kusumaiś ca</rdg></app>  paripūrṇaṁ samantato gandhopaliptaṁ <app><lem wit="#HT">srakhinaṁ<!-- srakhinaṁ --></lem><witDetail wit="#HT" type="silemn"/>
+</note></app> śāliyavagodhūmatilamāṣaiḥ sarvadhānyaiḥ <app><lem wit="" type="emn">sugandhodakasitasugandhakusumaiśca</lem><note corresp="#Tib"/><note><foreign>spos chu dri zhim pa dang | me tog dkar po dri zhim pas</foreign></note>
+  <rdg wit="#cod">sugandhodakasitasugandhaiḥ kusumaiś ca</rdg></app> paripūrṇaṁ samantato gandhopaliptaṁ <app><lem wit="#HT">srakhinaṁ<!-- srakhinaṁ --></lem><witDetail wit="#HT" type="silemn"/>
   <rdg wit="#cod">srakhinaṁ</rdg> 
 <!--   <foreign>sragvinaṁ} \HT.  It seems impossible to us to read <foreign>gv</foreign>. -->
 </app> śrīvajrasattvavajrāṅkitaṁ sadvastrābaddhakaṇṭhakaṁ sa<app><lem wit="#HT"><seg rend="check">tpa</seg>llava<!---pallava--></lem><witDetail wit="#HT" type="silemn"/>
@@ -4654,20 +4654,20 @@ atibalaḥ 1 | prajñāpuṣpaḥ 2 | <app><lem type="emn" wit="#MorMit">dr̥ḍ
 <lg met="FILL-ME-IN"><l n="ab">punaraṣṭottarasahasrābhimantritaṁ kr̥tvā | bhagavato vajrasattvasyāgrataḥ sthāpayet |</l> <l n="cd">praveśadvārābhimukhaṁ <app><lem type="emn">ca<!-- ca --></lem>
   <rdg wit="#cod">caḥ</rdg>
   <note>\HT\ reads <foreign>cāḥ</foreign>.</note>
-</app> dvitīyaṁ vajrasattvenāṣṭottaraśatajaptam | <app><lem wit="#HT" type="emn">tenodakenātmāna<!-- tenodakenātmāna --></lem><witDetail wit="#HT" type="silemn"/>
-  <rdg wit="#cod">tenodakenātmānaṁm</rdg></app> mabhiṣiñcya | <app><lem wit="" type="emn">praveśakāle<!-- praveśakāle --></lem>
-  <rdg wit="#cod"><unclear>p</unclear>raveśyakāle</rdg></app>  <app><lem wit="" type="emn">śiṣyāṇāṁ<!-- śiṣyāṇāṁ --></lem>
+</app> dvitīyaṁ vajrasattvenāṣṭottaraśatajaptam | <app><lem wit="#HT" type="emn">tenodakenātmānam</lem><witDetail wit="#HT" type="silemn"/>
+  <rdg wit="#cod">tenodakenātmānaṁm</rdg></app> abhiṣiñcya | <app><lem type="emn">praveśakāle<!-- praveśakāle --></lem>
+  <rdg wit="#cod #HT"><unclear>p</unclear>raveśyakāle</rdg></app>  <app><lem type="emn">śiṣyāṇāṁ<!-- śiṣyāṇāṁ --></lem>
   <rdg wit="#cod">śiṣyāṁ</rdg>
-  <note>\HT\ emends <foreign>śiṣyaṁ</foreign>. <!--%Several passage in SVU show that the guru was surrounded by more than one disciple.--></note>
-</app> vajrasatvavajrīṁ badhnīyā<app><lem wit="#HT" type="emn">dbandhaye<!-- dbandhaye --></lem>
+  <rdg wit="#HT">śiṣyaṁ</rdg><note>\HT\ emends <foreign>śiṣyaṁ</foreign>. <!--%Several passage in SVU show that the guru was surrounded by more than one disciple.--></note>
+</app> vajrasatvavajrīṁ badhnīyād <app><lem wit="#HT" type="emn">bandhayed</lem>
   <rdg wit="#cod">pandhayed</rdg>
   <note>HT reads <foreign>yandhayed</foreign>.</note>
-</app>dvā ||</l></lg>
+</app> vā ||</l></lg>
 
 <ab>
 śrīvairocanā<app><lem>dīnāṁ<!---dīnāṁ--></lem><note>The scribe has spelled -<foreign>dināṁ</foreign> but apparently wished to make the first vowel long and to so applied an <foreign>-ā</foreign> sign.
-</note></app> tu <app><lem wit="" type="emn">kalaśān pratyekasvacihnān<!-- kalaśān pratyekasvacihnān --></lem>
-  <rdg wit="#cod">kalaśaṁ pratyekaṁ svacihnaṁ</rdg></app>  bāhyamaṇḍalabāhyataḥ koṇeṣu teṣāṁ svamantrairaṣṭottaraśata<app><lem type="emn"><seg rend="check">japtān</seg></lem><note corresp="#Tib"/>
+</note></app> tu <app><lem type="emn">kalaśān pratyekasvacihnān<!-- kalaśān pratyekasvacihnān --></lem>
+  <rdg wit="#cod #HT">kalaśaṁ pratyekaṁ svacihnaṁ</rdg></app> bāhyamaṇḍalabāhyataḥ koṇeṣu teṣāṁ svamantrairaṣṭottaraśata<app><lem type="emn"><seg rend="check">japtān</seg></lem><note corresp="#Tib"/>
   <rdg wit="#cod">+ptāṁ paṣṭa</rdg>
   <rdg wit="#HT">-japtaṁ piṣṭa</rdg>
 <!--    Although the emendation <foreign>pañca} is not supported by Tib., it seems to follow from the next passage, and the second unclear <foreign>akṣara}s could easily be explained as a scribal misspelling of <foreign>ñca} in a previous manuscript. CHECK Abhayākaragupta, <foreign>Vajrāvalī} for what to do with 5 pots in 4 corners. -->
@@ -4686,11 +4686,11 @@ atibalaḥ 1 | prajñāpuṣpaḥ 2 | <app><lem type="emn" wit="#MorMit">dr̥ḍ
 
 <ab>
 abhāve <app><lem wit="#HT">śrīvajrasattvasya<!--śrīvajrasattvasya--></lem><witDetail wit="#HT" type="silemn"/>
-   <rdg wit="#cod">śrīvajrāsatvasya</rdg></app>  pañcatathāgatānāṁ ca <app><lem type="emn" wit="">kalaśaṁ<!-- kalaśaṁ --></lem>
+   <rdg wit="#cod">śrīvajrāsatvasya</rdg></app>  pañcatathāgatānāṁ ca <app><lem type="emn">kalaśaṁ<!-- kalaśaṁ --></lem>
   <rdg wit="#cod">kalaśān</rdg>
-  <rdg wit="#HT">kalaśāt</rdg>
-</app> <app><lem type="emn" wit="#MSK">pūrṇakumbhaṁ<!-- pūrṇakumbhaṁ --></lem>\HT;
-  <rdg wit="#cod">pūrṇṇakumbhaś</rdg></app>  ca dattvā | sattvaratnadharmakarmavajrāṅkaṁ <supplied reason="lost">sva</supplied>kulamantrairaṣṭottaraśatābhijaptaṁ <app><lem type="emn" wit="#MSK #HT">kalaśacatuṣṭayaṁ<!-- kalaśacatuṣṭayaṁ --></lem>
+  <rdg wit="#HT">kalaśāt</rdg><note>\HT reads <foreign>kalaśāt</foreign>.</note>
+</app> <app><lem type="emn" wit="#HT">pūrṇakumbhaṁ<!-- pūrṇakumbhaṁ --></lem>
+  <rdg wit="#cod">pūrṇṇakumbhaś</rdg></app> ca dattvā | sattvaratnadharmakarmavajrāṅkaṁ <supplied reason="lost">sva</supplied>kulamantrairaṣṭottaraśatābhijaptaṁ <app><lem type="emn" wit="#MSK #HT">kalaśacatuṣṭayaṁ<!-- kalaśacatuṣṭayaṁ --></lem>
   <rdg wit="#cod">kalaśacatuṣṭhayaṁ</rdg></app>  <app><lem>pūrṇakumbha<seg rend="check">catuṣṭayaṁ</seg><!--pūrṇṇakumbhacatuṣṭayañ--></lem><note>
   To be emended to <foreign>pūrṇṇakumbhañ</foreign>? But Tib. supports extant reading.
 </note></app> ca dadyāt | daśanyūnaṁ na kārayediti <app><lem type="emn" wit="#HT">vacanāt<!-- vacanāt --></lem>
