@@ -4784,9 +4784,9 @@ evaṁ yāvad vajrāveśamahāmudrāṁ baddhvottaradvāre tanmantreṇāḥkār
 vajraghaṇṭāham ity ahaṁkāram utpādya tāṁ vajrāveśakrodho 'ham iti bhāvayed evaṁ vajreṇa sādhitaṁ bhavati. (p.\ 260)
 </note></app></listApp>
 
-puṣpādibhiḥ saṁpūjya <app><lem wit="#HT" type="emn">catuḥpraṇāmādika<!-- catuḥpraṇāmādika --></lem>
-   <note>(whose reading <foreign>catuḥpraṁāṇādika-</foreign> is a typing error);</note>
-  <rdg wit="#cod">catuḥpramāṇādika-</rdg></app> pūrvakaṁ saṁvaramādāya yathāva<app><lem wit="">tsattvavajrīṁ<!-- tsattvavajrīṁ --></lem>
+puṣpādibhiḥ saṁpūjya <app><lem wit="#HT" type="emn" rend="hyphenright">catuḥpraṇāmādika</lem>
+   <note>(whose reading <foreign>catuḥpraṁāṇādika-</foreign> is a typing error)</note>
+  <rdg wit="#cod">catuḥpramāṇādika-</rdg></app>pūrvakaṁ saṁvaram ādāya yathāvat <app><lem type="emn">sattvavajrīṁ</lem>
     <witDetail type="pc" wit="#MSK"/>
   <rdg wit="#cod">sartvavajrīṁ</rdg><witDetail type="ac" wit="#cod"/>
 </app> baddhvā praviśet |</l>
@@ -4847,7 +4847,7 @@ puṣpādibhiḥ saṁpūjya <app><lem wit="#HT" type="emn">catuḥpraṇāmādi
   <rdg wit="#cod">vajrāṁcāyās</rdg></app> stataḥ punaḥ |</l>
 <l n="cd">kurva<app><lem type="emn">nnacchaṭasaṁghātaṁ<!-- nnacchaṭasaṁghātaṁ --></lem>
   <rdg wit="#cod">acchaṭasampātaṁ</rdg>
-  <rdg wit="#HT">acchaṭāsaṁghātaṁ</rdg><witDetail wit="#HT" type="emn"/>.
+  <rdg wit="#HT">acchaṭāsaṁghātaṁ</rdg><witDetail wit="#HT" type="emn"/>
   <note>We retain the reading <foreign>acchaṭa-</foreign> of the ms., because we assume the unexpected short final vowel is intentional (metri causa).</note>
 </app> sarvabuddhān samājayet ||<listApp type="parallels"><app><lem>sattvavajrāṅkuśīṁ ... samājayet</lem><note>= STTS 208:
 <foreign>sattvavajrāṅkuśīṁ baddhvā vajrācāryas tataḥ punaḥ |
@@ -4893,7 +4893,7 @@ tataḥ svamantram uccārayed eva siddhā bhavanti. (p.\ 260)
 tathaiva vajrāṅkuśādibhiḥ ākr̥ṣya praveśya baddhvā vaśīkr̥tya | vajrayakṣeṇa <app><lem wit="#cod">vighnotsāraṇaṁ<!-- vighnotsāraṇaṁ --></lem>
   <rdg wit="#HT">vighṇotsāraṇaṁ</rdg> <note>(misprint)</note>
 </app> <app><lem type="emn">prākārapañjaraṁ ca<!-- prākārapañjaraṁ ca --></lem>
-  <rdg wit="#cod #HT">prākāraṁ pañjaraṁ</rdg>.
+  <rdg wit="#cod #HT">prākāraṁ pañjaraṁ</rdg>
   <note>Cf. §36 <foreign>vajradr̥ṣṭyā diksīmāmaṇḍalabandhaprākārapañjaraṁ pādatalaparigraheṇa bhūmitalam upādāya ...</foreign>
   §17 <foreign>vajrayakṣeṇa vighnotsāraṇaṁ rakṣāṁś ca kr̥tvā ..</foreign></note>
 </app> kr̥tvā samayavajramuṣṭinā maṇḍaladvārāṇi baddhvā <app><lem type="emn" wit="#HT">dvyakṣara<!-- dvyakṣara --></lem>
@@ -4911,7 +4911,7 @@ tathaiva vajrāṅkuśādibhiḥ ākr̥ṣya praveśya baddhvā vaśīkr̥tya | 
 
 <l n="cd"><app><lem wit="#HT">jaḥ<!--jaḥ--></lem><witDetail wit="#MHT" type="silemn"/>
   <rdg wit="#cod">jāḥ</rdg></app>  hūm̐ vam̐ hoḥ <app><lem wit="#HT">pravartayan<!-- pravartayan --></lem><witDetail wit="#HT" type="silemn"/>
-  <rdg wit="#cod">pravarttayam</rdg></app>  | samayastvaṁ | samayastvamahamiti ca | svahr̥dayāni mantrāṁścānte saṁsādhya | dharmakarmamahāmudrābhi<app><lem type="emn" wit="">ścāmudryābhiṣiñce<!-- ścāmudryābhiṣiñce --></lem>
+  <rdg wit="#cod">pravarttayam</rdg></app>  | samayastvaṁ | samayastvamahamiti ca | svahr̥dayāni mantrāṁścānte saṁsādhya | dharmakarmamahāmudrābhiś <app><lem type="emn" wit="">cāmudryābhiṣiñce</lem>
   <rdg wit="#cod">cāmudrābhiṣiñcen</rdg>
   <rdg wit="#HT">cāmudryābhiṣiñced</rdg><witDetail wit="#MSK" type="silemn"/>
   <note>\HT\ does not note that <foreign>akṣara dmu</foreign> is lost at the beginning of line 5.
@@ -5105,8 +5105,8 @@ tathā
   <rdg wit="#cod">srakḍāmara</rdg></app> vibhūṣitā |</l>
 <l n="cd"><app><lem type="emn">hārārdhahāraracitā sārdhacandropaśobhitā<!-- hārārdhahāraracitā sārdhacandropaśobhitā --></lem>
   <rdg wit="#cod">hārārdhahāraracitasārdhacandropaśobhitā</rdg>
-  <rdg wit="#HT">hārārdhahāraracitārdhacandropaśobhitā</rdg><witDetail wit="#HT" type="emn"/>, without note. 
-  <note>Was the removal of <foreign>-sārdha-</foreign>  a conscious decision on the part of HT? Probably the required meaning can be obtain with <foreign>sa-</foreign> as 'with'.</note>
+  <rdg wit="#HT">hārārdhahāraracitārdhacandropaśobhitā</rdg><witDetail wit="#HT" type="emn"/>
+  <note><ptr target="#HT"/>, without note. Was the removal of <foreign>-sārdha-</foreign>  a conscious decision on the part of HT? Probably the required meaning can be obtain with <foreign>sa-</foreign> as 'with'.</note>
 </app> ||</l>
 <l n="c"><app><lem type="emn">turaṁga<!-- turaṁga} --></lem>
   <rdg wit="#cod">turagā-</rdg></app> hastigoyūthā dātavyāśca sukalpitāḥ |</l>
@@ -5189,8 +5189,8 @@ tato bāhyabaliṁ dadyād | uttarasādhakaṁ <app><lem wit="#HT">maṇḍale<!
  gandhapuṣpa<app><lem type="emn">dhūpadīpārghāṁścādāvante<!-- dhūpadīpārghāṁścādāvante --></lem>
   <rdg wit="#cod">dhūpadīrghārghat | ścādāv artte</rdg>
   <note>slightly differently from \HT's <foreign>-dhūpadīpārghaṁ cādāv ante</foreign>. \HT\ read <foreign>arnte</foreign> rather than <foreign>artte</foreign>.</note>
-</app> ca dadyāt | tatra pūrvaṁ tāvanmaṇḍalakāni kārayet | <app><lem type="emn" wit="#HT">tata<!-- tata --></lem>
-  <rdg>tataḥ</rdg>
+</app> ca dadyāt | tatra pūrvaṁ tāvan maṇḍalakāni kārayet | <app><lem type="emn" wit="#HT">tata<!-- tata --></lem>
+  <rdg wit="#cod">tataḥ</rdg>
 </app> āvāhaye<supplied reason="lost">t | ta</supplied>taḥ samayaṁ darśayet | arghaṁ ca dattvā gandhādibhiḥ sampūjya baliṁ dadyāt | tato visarjaye<app><lem wit="#HT" type="emn">diti<!-- diti --></lem>
   <rdg wit="#cod">ibhiḥ</rdg></app>  | tatreme mudrāmantrā bhavanti |
 <!-- pūrvvādagbhāgam: em. pūrvadigbhāgam, with HT (sil. em.). -->
@@ -5205,8 +5205,8 @@ tato bāhyabaliṁ dadyād | uttarasādhakaṁ <app><lem wit="#HT">maṇḍale<!
   <rdg wit="#cod">sthitam</rdg></app>  prāṅmukho vāmavajraṁ darśayet | dakṣiṇavajraṁ <app><lem wit="#HT" type="emn">kaṭideśe<!-- kaṭideśe --></lem>
   <rdg wit="#cod">kaṭidese</rdg></app>  <app><lem wit="#HT" type="emn">saṁdhārya<!-- saṁdhārya --></lem>
   <rdg wit="#cod">sadhāya</rdg></app>  dakṣiṇatarjanyaṅkuśyāvāhayet | tarjanyaṅkuśarahitā śakrasya samayamudrā |pratyālīḍhapadena sthitvā āvāhanamudrāyāstarjanīṁ prasā<seg rend="check">rya</seg> visarjanamudrā | <app><lem type="emn" wit="#HT">athāsya mantraḥ<!--athāsya mantraḥ--></lem>
-  <rdg wit="#cod">athāsammantram</rdg></app>  | namo <app><lem type="emn" wit="#HT">vajrasya diśi<!-- vajrasya diśi --></lem>
-  <rdg>vajrasya ca diśi</rdg>
+  <rdg wit="#cod">athāsammantram</rdg></app>  | namo <app><lem type="emn" wit="#HT">vajrasya diśi</lem>
+  <rdg wit="#cod">vajrasya ca diśi</rdg>
 </app> diśi vajrapāṇe rakṣa rakṣa svāhā |<listApp type="parallels"><app><lem>ālīḍhapadena ... rakṣa rakṣa svāhā</lem><note>SDPT p.\ 274:
 <foreign>ālīḍhapadena sthitaḥ prāṅmukho vāmavajraṁ darśayet. dakṣiṇaṁ kaṭideśe saṁdhārya tarjanyaṁkuśyāvāhayet. tarjany aṁkuśarahitā śakrasya samayamudrā.
 pratyālīḍhapadena sthitvāvāhanamudrāyas tarjanīṁ prasārya visarjanamudrā.  athāsya mantraḥ. namo vajrasya diśi vajrapāṇe rakṣa svāhā</foreign>;
@@ -5270,9 +5270,9 @@ ity agneḥ.</foreign>
 </ab>
 
 <ab>
-<app><lem type="emn">yāmyabhimukho<!-- yāmyabhimukho --></lem>
+<app><lem type="emn">yāmyabhimukho</lem>
   <rdg wit="#cod">yāmyābhimukho</rdg>
-  <rdg corresp="#SDPT">yāmyām abhimukho</rdg>
+  <note corresp="#SDPT"/><note><foreign>yāmyām abhimukho</foreign> </note>
 </app> <app><lem wit="#cod">yogī abhimukhau<!-- yogī abhimukhau --></lem>
   <rdg wit="#HT">yogy abhimukhau</rdg><witDetail wit="#HT" type="emn"/>
 </app> karau <app><lem wit="#cod">kr̥tvā abhyantara<!-- kr̥tvā abhyantara --></lem>
@@ -5336,8 +5336,8 @@ iti yamasya.</foreign>
   <rdg wit="#cod">nirsateḥ</rdg>
   <note>\HT\ reads <foreign>nirr̥teḥ</foreign> and emend <foreign>nairr̥teḥ</foreign>.</note>
 <note>What is the proper reading of the <foreign>akṣara</foreign> we tentatively read <foreign>rsa</foreign>? Can it be an alternative form of <foreign>r̥</foreign>?</note>
-</app> samayamudrā | <app><lem wit="#HT" type="emn">āvāhana</lem><note type="lem"> āvāhana-</note>
-  <rdg wit="#cod">avāhana-</rdg></app> mudrāyāstarjanīṁ prasā<seg rend="check">rya</seg> visarjanamudrā | <app><lem type="emn" wit="#HT">mantraḥ<!--mantraḥ--></lem>
+</app> samayamudrā | <app><lem wit="#HT" type="emn" rend="hyphenright">āvāhana</lem><witDetail wit="#HT" type="silemn"/>
+  <rdg wit="#cod">avāhana-</rdg></app>mudrāyāstarjanīṁ prasā<seg rend="check">rya</seg> visarjanamudrā | <app><lem type="emn" wit="#HT">mantraḥ<!--mantraḥ--></lem>
   <rdg wit="#cod">mantra</rdg> 
 <!--   \HT\ emends <foreign>mantraḥ}. -->
 </app> | sarvabhūtabhayaṅkara kuru 2 svāhā |<listApp type="parallels"><app><lem>nairr̥tyabhimukhas ... svāhā</lem><note>SDPT p.\ 274:
