@@ -4678,8 +4678,8 @@ atibalaḥ 1 | prajñāpuṣpaḥ 2 | <app><lem type="emn" wit="#MorMit">dr̥ḍ
   <rdg wit="#cod"><unclear>tābhisso</unclear>ṣadhībhiḥ</rdg> 
  <note> \HT's emendation to <foreign>-dhibhiḥ</foreign> is perhaps not necessary.</note>
 <note>(folio missing) <pb edRef="#cod" n="52r1"/>tābhissoṣadhībhiḥ
-</note></app> śāliyavagodhūmatilamāṣaiḥ sarvadhānyaiḥ <app><lem wit="" type="emn">sugandhodakasitasugandhakusumaiśca</lem><note corresp="#Tib"/><note><foreign>spos chu dri zhim pa dang | me tog dkar po dri zhim pas</foreign></note>
-  <rdg wit="#cod">sugandhodakasitasugandhaiḥ kusumaiś ca</rdg></app> paripūrṇaṁ samantato gandhopaliptaṁ <app><lem wit="#HT">srakhinaṁ<!-- srakhinaṁ --></lem><witDetail wit="#HT" type="silemn"/>
+</note></app> śāliyavagodhūmatilamāṣaiḥ sarvadhānyaiḥ <app><lem type="emn">sugandhodakasitasugandhakusumaiś</lem><note corresp="#Tib"/><note><foreign>spos chu dri zhim pa dang | me tog dkar po dri zhim pas</foreign></note>
+  <rdg wit="#cod #HT">sugandhodakasitasugandhair kusumaiś</rdg></app> ca paripūrṇaṁ samantato gandhopaliptaṁ <app><lem wit="#HT">srakhinaṁ<!-- srakhinaṁ --></lem><witDetail wit="#HT" type="silemn"/>
   <rdg wit="#cod">srakhinaṁ</rdg> 
 <!--   <foreign>sragvinaṁ} \HT.  It seems impossible to us to read <foreign>gv</foreign>. -->
 </app> śrīvajrasattvavajrāṅkitaṁ sadvastrābaddhakaṇṭhakaṁ sa<app><lem wit="#HT"><seg rend="check">tpa</seg>llava<!---pallava--></lem><witDetail wit="#HT" type="silemn"/>
