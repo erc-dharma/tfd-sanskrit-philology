@@ -7565,15 +7565,15 @@ athāsya darpaṇagrahaṇe mantraḥ/ ā <app><lem type="emn" wit="#MSK">vajras
 <lg met="FILL-ME-IN">tato <app><lem wit="#MSK">dharmacakraṁ<!-- dharmacakraṁ --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">dhammacakraṁ</rdg></app>  pādayormadhye saṁsthāpya <app><lem wit="#MSK">śaṅkhaṁ<!-- śaṅkhaṁ --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">ṣaṅkhañ</rdg></app>  ca dakṣiṇahaste <app><lem type="emn" wit="#MSK">dattvaivaṁ<!-- dattvaivaṁ --></lem>
-  <rdg wit="#cod">datvevam</rdg></app>  vadet/<listApp type="parallels"><app><lem>tato ... vadet</lem><note>The opening prose and following 3 stanzas of this section are also founds in the <foreign>abhiṣeka</foreign> section of the <foreign>Kriyāsaṁgrahapañjikā</foreign>.
+  <rdg wit="#cod">datvevam</rdg></app>  vadet/ <listApp type="parallels"><app><lem>tato ... vadet</lem><note>The opening prose and following 3 stanzas of this section are also founds in the <foreign>abhiṣeka</foreign> section of the <foreign>Kriyāsaṁgrahapañjikā</foreign>.
 KSP chapter 6: <foreign>tato dharmacakraṁ pādayor madhye saṁsthāpya śaṇkaṁ ca dakṣiṇahaste dattvāivaṁ vadet</foreign> (Sakurai 1996: 509).
 </note></app></listApp></lg>
   
 <lg met="FILL-ME-IN">
-	<l n="ab">adyaprabhr̥ti sahacittotpādamātreṇa dharmacakraṁ <app><lem type="emn" wit="">pravartaya<!-- pravartaya --></lem>
+	<l n="ab">adyaprabhr̥ti sahacittotpādamātreṇa dharmacakraṁ <app><lem type="emn">pravartaya</lem>
   <rdg wit="#cod">pravarttaye</rdg>
   <note><ptr target="#MSK"/> emends <foreign>pravartayet</foreign></note></app>/</l>
-<l n="cd"><app><lem type="emn" wit="#MSK">āpūrya hi<!-- āpūrya hi --></lem><witDetail wit="#MSK" type="silemn"/><note corresp="#VĀ"/>
+<l n="cd"><app><lem type="emn" wit="#MSK">āpūrya hi</lem><witDetail wit="#MSK" type="silemn"/><note corresp="#VĀ"/>
   <rdg wit="#cod">āpūrya</rdg></app>  <app><lem type="emn" wit="#MSK">samantācca<!-- samantācca --></lem><note corresp="#VĀ"/>
   <rdg wit="#cod">samantāc</rdg>
   <rdg wit="#MSK">samantād vai</rdg></app>  <app><lem type="emn" wit="#MSK">dharmaśaṅkha<!-- dharmaśaṅkha --></lem><note corresp="#VĀ"/> 
@@ -7616,8 +7616,9 @@ punaḥ/</l>
 <lg met="FILL-ME-IN">
 	<l n="ab">sarvasattvahitārthāya sarvalokeṣu sarvataḥ/</l>
 <l n="cd">yathāvinayato <app><lem type="emn" wit="#MSK">viśvaṁ<!-- viśvaṁ --></lem>
-  <rdg wit="#cod">visvam</rdg></app>  dharmacakraṁ <app><lem type="emn" wit="">pravartyatām<!-- pravartyatām --></lem>
+  <rdg wit="#cod">visvam</rdg></app>  dharmacakraṁ <app><lem type="emn">pravartyatām</lem>
   <rdg wit="#cod">pravarttatāṁ</rdg>
+  <rdg wit="#MSK">pravartatām</rdg>
   <note><ptr target="#MSK"/> edits <foreign>pravartatām</foreign>, but translate as 2nd person imp. form</note></app>//<listApp type="parallels"><app><lem>sarvasattvahitārthāya ... dharmacakraṁ pravartyatām</lem><note>
 
 STTS 2998–3011 teaches the set of the five verses, i.e.\ those of <foreign>dharmacakra</foreign>, <foreign>vajracakra</foreign>, <foreign>krodhacakra</foreign>, <foreign>padmacakra</foreign>, and <foreign>maṇicakra</foreign>. 
@@ -7657,8 +7658,9 @@ gāthāpañcakenānujñāṁ dadyāditi/
 <!--   oṁ esāhaṁ vyākaromi tvāṁ vajrasattvas tathāgataḥ | -->
 <!--   bhavadurgatitoddhr̥tya atyantabhavasiddhaye ||}  -->
 <!-- }}% -->
-<l n="ab"><app><lem type="emn" wit="">tataścodgatayā sarvān<!-- tataścodgatayā sarvān --></lem>
+<l n="ab"><app><lem type="emn">tataś codgatayā sarvān</lem>
   <rdg wit="#cod">tataḥ svaugaṁtayā sarvvāṁ</rdg>
+  <rdg wit="#MSK">tataḥ svodgāthayā sarvaṁ</rdg>
   <note><ptr target="#MSK"/> reads <foreign>tataḥ śvogaṁtayā sarvāṁ</foreign> and 
   emends <foreign>tataḥ svodgāthayā sarvaṁ</foreign>.</note>
 </app> sarvabuddhātmabhāvakaḥ<!--tataḥ ... -bhāvakaḥ--><note>
@@ -7671,9 +7673,9 @@ gāthāpañcakenānujñāṁ dadyāditi/
   <rdg wit="#cod">tathāgatām</rdg></app>  <listApp type="parallels"><app><lem>vajranāmābhiṣekais ... tathāgatān</lem><note>Samāyoga 9.427 <seg rend="check">TEXT!!</seg>
 </note></app></listApp>//</l> 
 <l n="c">oṁ eṣo 'haṁ vyākaromi tvāṁ vajrasattvastathāgataḥ/</l>
-<l n="d"><app><lem type="emn" wit="">bhavadurgatitoddhr̥tya atyantabhavasiddhaye<!-- bhavadurgatitoddhr̥tya atyantabhavasiddhaye --></lem>
+<l n="d"><app><lem type="emn">bhavadurgatitoddhr̥tya atyantabhavasiddhaye</lem>
   <rdg wit="#cod">bhavadurggatitoddhr̥tya atyantabhavasiddhayet</rdg>
-  <note><ptr target="#MSK"/> emends <foreign>bhavadurgatita uddhr̥tyātyantabhavaṁ siddhayet</foreign></note></app>//</l>
+  <rdg wit="#MSK">bhavadurgatita uddhr̥tyātyantabhavaṁ siddhayet</rdg></app>//</l>
 <l n="e">he vajranāma <app><lem type="emn" wit="#MSK">tathāgata<!-- tathāgata --></lem>
   <rdg wit="#cod">tathāga</rdg></app>  siddhya samayastvaṁ <app><lem type="emn" wit="#MSK">bhūrbhuvaḥ<!-- bhūrbhuvaḥ --></lem>
   <rdg wit="#cod">bhūbhruvaḥ</rdg></app>  svaḥ/ iti |</l>
@@ -7714,7 +7716,7 @@ bhavadurgatitoddhr̥tya atyantabhavasiddhaye ||</foreign> 369 ||;
   <note>sarva<pb edRef="#cod" n="64v1"/>tathāgatamaṇḍale</note>
  svasamayācāryāḥ <app><lem type="emn">samame<!-- samame --></lem>
   <rdg wit="#cod">samay</rdg></app> kakaṇṭhenā<app><lem type="emn">nuttarāyāṁ<!-- nuttarāyāṁ --></lem>
-  <rdg wit="#cod">-nuttarāyā</rdg></app> samya<supplied reason="lost">ksaṁ</supplied>bodhau <app><lem wit="">vyāka<supplied reason="lost">raṇaṁ kurvate | yadutāsyaivodgatāyā mahāmudrāyāḥ paramarahasyo ttamasiddhyadhiṣṭhānenāsya</supplied><!-- vyāka<supplied reason="lost">raṇaṁ kurvate | yadutāsyaivodgatāyā mahāmudrāyāḥ paramarahasyo}ttamasiddhyadhiṣṭhānenāsya</supplied> --></lem><note>restored following KSP;</note>
+  <rdg wit="#cod">-nuttarāyā</rdg></app> samya<supplied reason="lost">ksaṁ</supplied>bodhau <app><lem wit="">vyāka<supplied reason="lost">raṇaṁ kurvate | yadutāsyaivodgatāyā mahāmudrāyāḥ paramarahasyo ttamasiddhyadhiṣṭhānenāsya</supplied></lem><note>restored following KSP;</note>
   <rdg wit="#cod"> + + + + + + + + + + + + + + + + + + + + + + + + + + ttamasiddhyadhiṣṭhānenāsya</rdg></app>  ca mantrasya baleneti śraddhātavyam/<listApp type="parallels"><app><lem>yasyānayodgatayā ... śraddhātavyam</lem><note>KSP
 <foreign>yasyānayodgatayā mahāmudrayā paramarahasyābhidhāne vyākaranaṁ kriyate tasya vajrasattvādayaḥ sarvatathāgatāḥ savajradharāḥ samahābodhisattvaparṣannamaṇḍalāḥ sarvatathāgatamaṇḍalebhyaḥ svasamayācāryāḥ samam ekakaṇṭhenānuttarāyāṁ samyaksambodhau vyākaraṇaṁ kurvate. yad utāsyaivodgātāyā mahāmudrāyāḥ paramarahasyottamasiddhyadhiṣṭhānenāsya ca mantrasya baleneti śraddhātavyam</foreign> (<seg rend="check">LOCATION!!</seg>);
 <foreign>Saṁkṣiptābhiṣekavidhi</foreign>:
@@ -7900,7 +7902,7 @@ akāro mukhamityādinā <app><lem wit="#MSK" type="emn">maṇḍalaṁ<!-- maṇ
   <rdg wit="#cod">payukṣya</rdg>
 </app> vāmapāṇau tenaiva <app><lem type="emn">rakṣāsūtrakaṁ<!-- rakṣāsūtrakaṁ --></lem>
   <rdg wit="#cod #MSK">rakṣyāsūtrakam</rdg>
-  <note><ptr target="#MSK"/> accepts the reading of \cod</note><!--delete this note?--></app> <app><lem wit="">badhnīyāt | <supplied reason="lost">tatastasya hr̥dayaṁ kare</supplied>ṇa<!-- badhnīyāt | \restored{tatastasya hr̥dayaṁ kare}ṇa --></lem><!-- restored; -->
+  <note><ptr target="#MSK"/> accepts the reading of \cod</note><!--delete this note?--></app> <app><lem wit="">badhnīyāt | <supplied reason="lost">tatastasya hr̥dayaṁ kare</supplied>ṇa</lem><!-- restored; -->
   <rdg wit="#cod">vadhnīyāt· + + + + + + + + + ṇa</rdg>
   <note><ptr target="#MSK"/> restores <foreign>badhnīyāt |  tatas tasya hr̥daye hastena</foreign></note></app> <app><lem wit="#MSK">spr̥śan saptavārān<!-- spr̥śan saptavārān --></lem><witDetail wit="#MSK" type="silemn"/> <note>(for the second <foreign>ṁ</foreign>);</note>
   <rdg wit="#cod">spr̥śaṁ saptavārāṁ</rdg></app>  parijapet |</l>
@@ -7947,7 +7949,7 @@ sarvasiddhi<app><lem wit="#cod">pradāyikām<!-- pradāyikām --></lem>
 <l n="ab">śrīmadāryasarvatathāgatatattvasaṁgrahān mahāyānābhisamayān mahātantrarājād uddhr̥tā vajradhātumahāmaṇḍalopayikā <app><lem type="emn">sarvavajrodayā<!-- sarvavajrodayā --></lem>
   <rdg wit="#cod">sarvavajrodakā</rdg></app>  nāma <app><lem type="emn">samāptā<!-- samāptā --></lem>
   <rdg wit="#cod">samāptaḥ</rdg></app>  || </l>
-<l n="cd">// <app><lem wit="">kr̥teyaṁ mahāvajrācāyānandagarbhapādairiti<!-- kr̥teyaṁ mahāvajrācāyānandagarbhapādairiti --></lem><note>After this a <foreign>pariṇāmanā</foreign> verse by the scribe:
+<l n="cd">// <app><lem wit="">kr̥teyaṁ mahāvajrācāyānandagarbhapādairiti</lem><note>After this a <foreign>pariṇāmanā</foreign> verse by the scribe:
   vilikhya puṇyaṁ yatprāptaṁ mayā sādhanasaṁskr̥ti |
   aseṣastena loko'yaṁ bhūyācchrīvajrasambhavaḥ ||
 </note></app> ||</l>
