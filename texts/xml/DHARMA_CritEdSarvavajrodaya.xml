@@ -6887,9 +6887,9 @@ tato mukhabandhaṁ muñcedanena |
 </ab>
 
 <lg met="FILL-ME-IN">
-	<l n="ab">\om\ vajrasattvaḥ svayaṁ te'dya <app><lem wit="">cakṣūdghāṭanatatparaḥ<!-- cakṣūdghāṭanatatparaḥ --></lem><rdg wit="#cod">cakṣutghāṭanatatparaḥ</rdg>
+	<l n="ab">\om\ vajrasattvaḥ svayaṁ te'dya <app><lem type="emn" wit="#MSK">cakṣūdghāṭanatatparaḥ</lem><witDetail wit="#MSK" type="silemn"/><rdg wit="#cod">cakṣutghāṭanatatparaḥ</rdg>
   <note><ptr target="#MSK"/> silently emends <foreign>cakṣūdghāṭanatatparaḥ</foreign>, which is metrically correct and conforms with reading of STTS. But several texts (<foreign>Vajrāvalī</foreign> etc.) have 'corrected' the mantra to read <foreign>cakṣurudghāṭanatatparaḥ</foreign></note></app> |</l>
-<l n="cd"><app><lem wit="">paśyeti<!-- paśyeti --></lem><witDetail wit="#MSK" type="silemn"/>
+<l n="cd"><app><lem type="emn" wit="#MSK">paśyeti</lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">pasyeti</rdg></app>  |<listApp type="parallels"><app><lem>tato ... paśyeti</lem><note>SDPT p.294, ll.22–25:
   <foreign>tato mukhabandhaṁ muñced anena |
   oṁ vajrasattvaḥ svayaṁ te 'dya cakṣūdghāṭanatatparaḥ ||
@@ -6940,9 +6940,9 @@ tatastiṣṭha vajretyādinā praveśamudrāmokṣaṁ śiṣyahr̥daye kāraye
 ādau tāva<app><lem>dudakābhiṣekeṇa<!--udakābhiṣekeṇa--></lem><note>Tib.\ adds <foreign>mudrābhiṣekeṇa</foreign> after this.
 </note></app> makuṭapaṭṭavajrādhipatināmābhiṣekai<app><lem>ścābhiṣicya<!--cābhiṣicya--></lem><note><ptr target="#MSK"/> needlessly emends <foreign>cābhiṣiñcya</foreign></note></app> | punaḥ <app><lem wit="#MSK">puṣpādibhi<!-- puṣpādibhi --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">puṣpādibhi</rdg></app> rlāsyādyaṣṭavidha<app><lem type="emn" wit="#MSK">pūjayā<!-- pūjayā --></lem>
-  <rdg wit="#cod">pūjāyā</rdg></app>  ca <app><lem wit="" type="emn">saṁpūjayet ||<!-- saṁpūjayet || --></lem> <note>with SDPT;</note>
-  <rdg wit="#cod">sampūjyaye ||</rdg>
-  <note><ptr target="#MSK"/> emends <foreign>saṁpūjya</foreign>. %After this, a new paragraph starts, with Ānandagarbha prescribing the manners of a <foreign>śiṣya</foreign></note></app><listApp type="parallels"><app><lem>ādau ... vyākuryāditi</lem><note>SDPT 296.<seg rend="check">LINE NUMBERS!!</seg>:
+  <rdg wit="#cod">pūjāyā</rdg></app> ca <app><lem type="emn">saṁpūjayet ||</lem> <note>with SDPT;</note>
+  <rdg wit="#cod">sampūjyaye ||</rdg><rdg wit="#MSK">saṁpūjya</rdg>
+  <note><ptr target="#MSK"/> emends <foreign>saṁpūjya</foreign>. %After this, a new paragraph starts, with Ānandagarbha prescribing the manners of a <foreign>śiṣya</foreign></note></app> <listApp type="parallels"><app><lem>ādau ... vyākuryāditi</lem><note>SDPT 296.<seg rend="check">LINE NUMBERS!!</seg>:
   <foreign>ādau tāvad udakābhiṣekena tato mudrābhiṣekena mukuṭapaṭṭavajrādhipatināmābhiṣekaiś cābhiṣiñcet | 
   punaḥ puṣpādibhir lāsyādyaṣṭavidhapūjayā ca pūjayet | 
   śiṣyenācāryaṁ valitavajrāṁjalinā praṇamyottamāṁ dakṣiṇāṁ datvā puṣpādyabhiṣekāś ca grāhyā iti | 
@@ -6961,8 +6961,8 @@ tataḥ sarvavidhim anuṣṭhāya nāmāṣṭaśatena saṁstutya gāthāpañc
   <rdg wit="#cod">cottamān</rdg></app>  dakṣiṇāṁ dattvācāryaṁ <app><lem wit="#MSK" type="emn">praṇamya<!-- praṇamya} --></lem><note corresp="#Tib"/>
   <rdg wit="#cod #MSK">praṇamya praṇamya</rdg><note>
   This could be a dittography.</note>
-</app> valitavajrāñjalinā <app><lem wit="" type="emn">puṣpādikamabhiṣekāśca grāhyāḥ<!-- puṣpādikamabhiṣekāśca grāhyāḥ --></lem>
-  <rdg wit="#cod">puṣpādikaṁm abhiṣekāś ca grāhyaḥ</rdg>
+</app> valitavajrāñjalinā <app><lem type="emn">puṣpādikam abhiṣekāś ca grāhyāḥ</lem>
+  <rdg wit="#cod">puṣpādikaṁm abhiṣekāś ca grāhyaḥ</rdg><rdg wit="#MSK">puṣpādikābhiṣekāś ca grāhyāḥ</rdg>
   <note>Would <foreign>puṣpādikam abhiṣekāya grāhyam</foreign> be another possibility? <ptr target="#MSK"/> emends <foreign>puṣpādikābhiṣekāś ca grāhyāḥ</foreign>; SDPT reads <foreign>puṣpādyabhiṣekāś ca grāhyā iti</foreign>. </note>
 </app> | ācāryābhiṣekaṁ tu śrīvajrasattvamahāmudrayā pratiṣṭhāpya | yathānirdiṣṭeṣu sthāneṣu samayamudrābhistasya kāye <app><lem type="emn">śrīvajrasattvādīn}<!-- śrīvajrasattvādīn} --></lem>
   <rdg wit="#cod #MSK">śrīvajrasattvādiṁ</rdg></app>  nyasya śrīvajrasattvapratimāṁ ca śirasi pratiṣṭhāpyodakābhiṣekaṁ <app><lem wit="#MSK">dattvemaṁ<!-- dattvemaṁ --></lem><witDetail wit="#MSK" type="silemn"/>
@@ -7029,7 +7029,7 @@ This is a name of the <foreign>mudrā</foreign>. The <foreign>Guhyasamājamaṇ�
 
 <!-- RT&AG -->
 atha madhyakrama ucyate | mūla<app><lem wit="#MSK">maṇḍalāddhasta<!-- maṇḍalāddhasta --></lem><witDetail wit="#MSK" type="silemn"/>
-  <rdg wit="#cod">-maṇḍalārddhasta-</rdg></app> <app><lem wit="">caturasraṁ<!-- caturasraṁ --></lem><witDetail wit="#MSK" type="silemn"/>
+  <rdg wit="#cod">-maṇḍalārddhasta-</rdg></app> <app><lem type="emn" wit="#MSK">caturasraṁ</lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">caturaśram</rdg></app>  paścimadvāraṁ pañcabhiścūrṇairmaṇḍalamālikhya tasya madhye<app><lem wit="#MSK">'ṣṭapattraṁ<!-- 'ṣṭapattraṁ --></lem><witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">ṣṭhapattram</rdg></app>  padmaṁ tasyopari raktavarṇaṁ raśmimālinaṁ pañcasūcikaṁ vajramālikhet | tataḥ puṣpādibhi<app><lem>stan maṇḍalaṁ<!--tan maṇḍalaṁ--></lem><note>\MSK silently (and ungrammatically) emends <foreign>taṁ maṇḍalaṁ</foreign>.
 </note></app> saṁpūjya candramaṇḍalapaṭācchannaṁ siṁhāsanaṁ <app><lem type="emn" wit="#MSK">pīṭhikāṁ<!-- pīṭhikāṁ --></lem>
@@ -7085,10 +7085,10 @@ atha madhyakrama ucyate | mūla<app><lem wit="#MSK">maṇḍalāddhasta<!-- ma�
 <!-- MSK (77) lakṣmīdharaḥ kāñcanaparvatābhas trilokanāthas trimalaprahīnaḥ | buddho vibuddhāmbujapattranetras tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || 1 || -->
 <!-- RT&AG -->
 <lg met="FILL-ME-IN">
-	<l n="ab">lakṣmīdharaḥ kāñcana<app><lem type="emn" wit="#MSK">parvatābhastri<!-- parvatābhastri --></lem>
-  <rdg wit="#cod">-parvvabhas tr̥-</rdg></app> lokanātha<app><lem type="emn">strimalaprahīṇaḥ<!-- strimalaprahīṇaḥ --></lem>
+	<l n="ab">lakṣmīdharaḥ kāñcana<app><lem type="emn" wit="#MSK" rend="hyphenleft">parvatābhas</lem>
+  <rdg wit="#cod">-parvvabhas</rdg></app> <app><lem type="emn" wit="#MSK">trilokanāthas</lem><witDetail wit="#MSK" type="silemn"/><rdg wit="#cod">tr̥lokanāthas</rdg></app> <app><lem type="emn">trimalaprahīṇaḥ</lem>
   <rdg wit="#cod">tr̥malaprahīṇaḥ</rdg>
-  <rdg type="emn">trimalaprahīnaḥ</rdg> <witDetail wit="#MSK" type="silemn"/>
+  <rdg wit="#MSK">trimalaprahīnaḥ</rdg><witDetail wit="#MSK" type="silemn"/>
 </app>/</l>
 <l n="cd">buddho vibuddhāmbujapattranetra<app><lem>stanmaṅgalaṁ bhavatu śāntikaraṁ tavādya<!--tan ... tavādya--></lem><note>metrical problem: 4th pāda is Vasantatilaka; Tib. suggests different reading, with elements maṅgala śāntikara prathama. 
   Conjecture tan maṅgalaṁ syāt prathaman tu loke?
@@ -7285,7 +7285,7 @@ tathāgatasya tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya<listApp type="para
 <!-- MSK yan maṅgalaṁ jvalitakāñcanavigrahasya vaiḍūryavarṇatr̥ṇasaṁstaramadhyagasya | paryaṅkabaddhanibiḍottamaniścalasya tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || 10 || -->
 
 <!-- RT&AG  -->
-<l n="ab">yanmaṅgalaṁ jvalitakāñcanavigrahasya vaiḍūryavarṇatr̥ṇa<app><lem wit="" type="emn">saṁstara<!-- saṁstara --></lem> <note>with PŚM,</note> <witDetail wit="#MSK" type="silemn"/>
+<l n="ab">yanmaṅgalaṁ jvalitakāñcanavigrahasya vaiḍūryavarṇatr̥ṇa<app><lem wit="#MSK" type="emn" rend="hyphenaround">saṁstara</lem> <note>with PŚM,</note>
   <rdg wit="#cod">-saptara-</rdg></app> madhyagasya |</l> 
 <l n="cd">paryaṅkabaddha<app><lem type="emn" wit="#MSK">nibiḍottama<!-- nibiḍottama --></lem> <!--<note>%emends -nibiḍottama-, which is graphically very plausible. </note>-->
   <rdg wit="#cod">-nivitottama-</rdg> 
