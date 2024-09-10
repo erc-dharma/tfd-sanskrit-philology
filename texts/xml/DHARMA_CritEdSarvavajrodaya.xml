@@ -5417,7 +5417,7 @@ vāyavyāṁ <app><lem type="emn" wit="#HT">diśya<!-- diśya --></lem>
   <rdg wit="#cod">āvāhanamudrayā</rdg></app>  <app><lem wit="#HT">aṅguṣṭhaṁ<!-- aṅguṣṭhaṁ --></lem><witDetail wit="#HT" type="silemn"/>
   <rdg wit="#cod">aṁguṣṭaṁ</rdg></app> \
  prasā<seg rend="check">rya</seg> visarjanamudrā | <app><lem type="emn" wit="#HT">mantraḥ<!--mantraḥ--></lem>
-  <rdg wit="#cod">mantra</rdg></app>  | oṁ <app><lem type="emn" wit="">śvasa khākha khakhaḥ<!-- śvasa khākha khakhaḥ --></lem>
+  <rdg wit="#cod">mantra</rdg></app>  | oṁ <app><lem type="emn">śvasa khākha khakhaḥ</lem>
   <rdg wit="#cod"><unclear>sva</unclear>sa khākha khakhaḥ</rdg>
   <rdg wit="#HT">śvasa khākha khākha</rdg><witDetail wit="#HT" type="emn"/> <note>emending to <foreign>śvasa khākha khākha</foreign>.
   Cf. <foreign>Dhātupāṭha</foreign> 2.64: <foreign>śvasa prāṇane |</foreign></note>
@@ -5463,7 +5463,7 @@ asyā eva <app><lem type="emn" wit="#HT">mudrāyā<!-- mudrāyā --></lem>
   <rdg wit="#cod">-mudrayā</rdg>
 </app> <app><lem type="emn">madhyamādvayaṁ<!-- madhyamādvayaṁ --></lem>
   <rdg wit="#cod #HT">madhyādvayaṁ</rdg></app>  prasā<seg rend="check">rya</seg> visarjanamudrā | mantraḥ | oṁ kuberāya svāhā |
-<lisApp type="parallels"><app><note>SDPT p.\ 276:
+<listApp type="parallels"><app><note>SDPT p.\ 276:
 <foreign>kauberyabhimukhaṁ sthitaḥ karadvayam abhimukhaṁ kr̥tvābhyantaravajrabandhaṁ kaniṣṭhādvayasūcīṁ tasyāḥ pr̥ṣṭhato 'nāmikāyugalaṁ pr̥thak saṁdhārya madhyamāsūcīṁ vajrākāreṇa nāmayet. kuberāvāhanamudrā. 
 asyā eva mudrāyā madhyamādvayam abhyantaravajrabandhayogato nyasya kuberasya samayamudrā.
 āvāhanamudrāyā madhyamādvayaṁ prasārya visarjanamudrā. 
@@ -5475,7 +5475,7 @@ asyā eva madhyamādvayaṁ praveśya samayaḥ.
 oṁ kuberāya svāhā.
 āvāhanamudrāyā madhyamādvayaṁ prasārya visarjanam.
 kuberasya.</foreign>
-</note></app></lisApp>
+</note></app></listApp>
 <!-- kauveya-: em. kauverya-, with HT (sil. em.). -->
 <!-- pr̥ṣṭato: em. pr̥ṣṭhato, with HT (sil. em.). -->
 <!-- it's unclear at the beginning of 55v5 whether the photo shows the two first akṣaras in damaged form, or whether we are seeing remnants of some other folio. Anyhow, it is clear which two akṣaras must be read here. -->
@@ -5487,12 +5487,12 @@ kuberasya.</foreign>
 
 <ab>
 <app><lem type="emn" wit="#HT">aiśānyāṁ<!-- aiśānyāṁ --></lem>
-  <rdg wit="#cod">aiṣānyan</rdg></app>  diśi tadabhimukhā<app><lem wit="#HT" type="emn">vasthitaḥ<!-- vasthitaḥ --></lem><witDetail type="silemn" wit="#HT"/>
+  <rdg wit="#cod">aiṣānyan</rdg></app>  diśi tadabhimukhā<app><lem wit="#HT" type="emn">vasthitaḥ</lem><witDetail type="silemn" wit="#HT"/>
   <rdg wit="#cod">-vasthitāḥ</rdg></app>  <app><lem>karadvayamekato</lem>
   <note>karadvaya<pb edRef="#cod" n="56r1"/>m ekato</note></app>
  <app><lem wit="#HT">yojyāñjaliṁ<!-- yojyāñjaliṁ --></lem><witDetail wit="#HT" type="silemn"/>
-  <rdg wit="#cod">yojyāṁjali</rdg></app>  kr̥tvā <app><lem wit="" type="emn">kanīyasyanāmikai<!-- kanīyasyanāmikai --></lem>
-  <rdg wit="#cod #HT">kanyasānāmikais</rdg></app> stalavajrabandhaṁ <app><lem wit="#HT">kr̥tvāṅguṣṭha<!-- kr̥tvāṅguṣṭha --></lem><witDetail wit="#HT" type="silemn"/>
+  <rdg wit="#cod">yojyāṁjali</rdg></app>  kr̥tvā <app><lem type="emn">kanīyasyanāmikais</lem>
+  <rdg wit="#cod #HT">kanyasānāmikais</rdg></app> talavajrabandhaṁ <app><lem wit="#HT">kr̥tvāṅguṣṭha<!-- kr̥tvāṅguṣṭha --></lem><witDetail wit="#HT" type="silemn"/>
   <rdg wit="#cod">kr̥tvāṅguṣṭa</rdg></app> yugalaṁ <app><lem type="emn">madhyamāśritaṁ<!-- madhyamāśritaṁ --></lem>
   <rdg wit="#HT">madhyāśritaṁ</rdg><witDetail wit="#HT" type="silemn"/>
   <rdg wit="#cod">madhyāśr̥taṁ</rdg></app>  <app><lem type="emn">madhyamāsūcyo<!-- madhyamāsūcyo --></lem>
@@ -5503,10 +5503,10 @@ kuberasya.</foreign>
 </app> parasparanakhāsaktaṁ ku<seg rend="check">ryā</seg>dīśānāvāhanamudrā | <app><lem wit="#cod">asyā<!--asyā--></lem>
   <rdg wit="#HT">asyāṁ</rdg><witDetail wit="#HT" type="emn"/> 
   <note>We think the ostensible <foreign>anusvāra</foreign> is a hole in the folio.</note>
-</app> eva <app><lem type="emn" wit="#HT">tarjanyau<!-- tarjanyau --></lem>
-  <rdg wit="#cod">tarjanyo</rdg></app>  <app><lem wit="" type="emn">pūrvavadvajrākāreṇa<!-- pūrvavadvajrākāreṇa --></lem> <note>as in SDPT; see note \HT;</note>
-  <rdg wit="#cod">pūrvvavajrākāreṇa</rdg></app>  dhārayedīśānasya samayamudrā | āvāhanamudrāyāstarjanyau <app><lem wit="#HT">prasārya<!-- prasārya --></lem><witDetail wit="#HT" type="silemn"/>
-  <rdg wt="#cod">praśā<seg rend="check">rya</seg></rdg>
+</app> eva <app><lem type="emn" wit="#HT">tarjanyau</lem>
+  <rdg wit="#cod">tarjanyo</rdg></app>  <app><lem wit="#HT" type="emn">pūrvavad</lem><note>as in SDPT; see note \HT;</note>
+  <rdg wit="#cod">pūrvva</rdg></app> vajrākāreṇa dhārayedīśānasya samayamudrā | āvāhanamudrāyāstarjanyau <app><lem wit="#HT">prasārya<!-- prasārya --></lem><witDetail wit="#HT" type="silemn"/>
+  <rdg wit="#cod">praśā<seg rend="check">rya</seg></rdg>
 </app> visarjanamudrā | mantraḥ | oṁ <app><lem wit="#cod">jrum̐ jrum̐<!-- jrum̐ jrum̐ --></lem>
   <rdg wit="#HT">juṁ juṁ</rdg><witDetail wit="#HT" type="emn"/>
 </app> śiva svāhā |<listApp type="parallels"><app><lem>aiśānyāṁ ... śiva svāhā</lem><note>SDPT pp.\ 276–278:
@@ -5540,7 +5540,7 @@ itīśānasya.</foreign>
 <ab>
 pratyālīḍhasthānastho'ñjalyākāreṇa <app><lem type="emn" wit="#HT">hastau<!-- hastau --></lem>
   <rdg wit="#cod">hasto</rdg></app>  <app><lem wit="#HT" type="emn">saṁdhā<seg rend="check">ryo</seg>rdhvaṁ<!--saṁdhāryordhvaṁ--></lem>
-  <rdg wit="#cod">saṁdhāyorddha</rdg></app>  dr̥ṣṭvā tarjanīdvayāṅkuśyā brahmādīnāmāvāhanam | asyā eva <app><lem type="emn" wit="#HT">tarjanīdvayaṁ<!-- tarjanīdvayaṁ --></lem>;
+  <rdg wit="#cod">saṁdhāyorddha</rdg></app>  dr̥ṣṭvā tarjanīdvayāṅkuśyā brahmādīnāmāvāhanam | asyā eva <app><lem type="emn" wit="#HT">tarjanīdvayaṁ</lem>
   <rdg wit="#cod">tarjanīdvaya</rdg></app>  pūrvavatsaṁsthāpya samayamudrā | āvāhanamudrāyāstarjanīdvayaṁ prasā<seg rend="check">rya</seg> visarjanamudrā | mantrā bhavanti | <app><lem type="emn" wit="#HT">ūrdhva<!--ūrdhva--></lem>
   <rdg wit="#cod">ūrddha</rdg></app> brahmaṇe svāhā | sū<seg rend="check">ryā</seg>ya grahādhipataye svāhā | candrāya nakṣatrādhipataye svāhā | <listApp type="parallels"><app><lem>pratyālīḍhasthānastho ... nakṣatrādhipataye svāhā</lem>
 <note>SDPT p.\ 278:
@@ -5585,9 +5585,8 @@ tarjanībhyāṁ <pb edRef="#cod" n="56v1"/>visarjana<supplied reason="lost">m</
  | mantrāḥ | <app><lem type="emn">adhaḥpr̥thivyai<!-- adhaḥpr̥thivyai --></lem>
   <rdg wit="#cod">adhapr̥thivyai</rdg>
   <note>\HT\ emends <foreign>adhaspr̥thivyai</foreign>.</note>
-</app> svāhā | asurebhyaḥ svāhā | nāgebhyaḥ <app><lem wit="" type="emn">svāheti<!-- svāheti --></lem>
+</app> svāhā | asurebhyaḥ svāhā | nāgebhyaḥ <app><lem type="emn">svāheti</lem><rdg wit="#HT">svāhā || iti</rdg><witDetail wit="#HT" type="silem"></witDetail>
   <rdg wit="#cod">svāhoti</rdg>
-  <note>\HT\ edits <foreign>svāhā || iti</foreign>, with silent emendation.</note>
 </app><listApp type="parallels"><app><lem>samapādaṁ ... nāgebhyaḥ svāheti</lem><note>SDPT p.\ 278:
 <foreign>samapadaṁ sthānam āsthāya hastadvayam ekato yojyāvicalānyony āṁgulyagrā samyojyāṁguṣṭhau vartulākāreṇādhodr̥ṣṭiṁ kr̥tvā pr̥thivyādīnāṁ tarjanyaṁkuśābhyām āvāhanam. 
 tarjanyau pūrvavad vyavasthāpya samayamudrā. 
@@ -5670,8 +5669,8 @@ ye <app><lem>keci<!--keci--></lem><note>\HT\ reads <foreign>kecit</foreign> and 
 <l n="ab">ye merupr̥ṣṭhe nivasanti <app><lem wit="#HT">bhūtā<!-- bhūtā --></lem><witDetail wit="#HT" type="silemn"/>
   <rdg wit="#cod">bhutā |</rdg></app>  
 ye nandane ye ca surālayeṣu |</l>
-<l n="cd">ye codayāste <app><lem wit="" type="emn">ravimaṇḍale<!-- ravimaṇḍale --></lem> (following SDPT);
-  <rdg wit="#cod #HT">ravimandare</rdg></app>  ca 
+<l n="cd">ye codayāste <app><lem type="emn">ravimaṇḍale</lem><note> (following SDPT)</note>
+  <rdg wit="#cod #HT">ravimandare</rdg></app> ca 
 <app><lem>nagareṣu<!--nagareṣu--></lem><note>We should pronounce <foreign>nag'reṣu</foreign> for metri causa.
 </note></app> sarveṣu ca ye vasanti ||</l></lg>
 <!-- bhutā |: bhūtā, with HT (sil. em.). -->
@@ -5682,7 +5681,7 @@ ye nandane ye ca surālayeṣu |</l>
 ratnālaye cāpi kr̥tādhivāsāḥ |</l>
 <l n="cd"><app><lem type="emn" wit="#HT">vāpītaḍāgeṣu ca palvaleṣu<!-- vāpītaḍāgeṣu ca palvaleṣu --></lem><note>who cites SDPT;</note>
   <rdg wit="#cod">vāpītaḍāgeṣu palvaleṣu</rdg></app>  
-kūpeṣu <app><lem type="emn" wit="#HT">vapreṣu<!-- vapreṣu --></lem>following SDPT;
+kūpeṣu <app><lem type="emn" wit="#HT">vapreṣu</lem><note>following SDPT;</note>
   <rdg wit="#cod">vadheṣu</rdg>
 </app> ca nirjhareṣu ||</l>
 <!-- sagameṣu: em. saṁgameṣu, with HT (sil. em.). -->
