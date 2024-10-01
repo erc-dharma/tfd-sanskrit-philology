@@ -4915,15 +4915,13 @@ tathaiva vajrāṅkuśādibhiḥ ākr̥ṣya praveśya baddhvā vaśīkr̥tya | 
 <!-- -mudrābhidr̥śyā: em. -mudrābhir dr̥śyaṁ, with HT (silently for the -r).  -->
 <!-- Cf. Devatāyoga section of KSP:  tato vajraa.nku.caadibhir aak.r.sya prave.cya baddhvaa va.ciik.rtyaarghaadibaahyapuujaadibhi.h sa.mpuujya samaya.m ca dar.cayet. \begin{quote"/>o.m vajradhaatu d.r.cya ja.h huu.m va.m ho.h samayas tva.m samayo 'ham. o.m vajrasattva d.r.cya ja.h huu.m va.m ho.h samayas tva.m samayo 'ham. o.m ratnavajra d.r.cya ja.h huu.m va.m ho.h samayas tva.m samayo 'ham. --></l>
 
-<l n="cd"><app><lem wit="#HT">jaḥ<!--jaḥ--></lem><witDetail wit="#MHT" type="silemn"/>
+<l n="cd"><app><lem wit="#HT">jaḥ</lem><witDetail wit="#MHT" type="silemn"/>
   <rdg wit="#cod">jāḥ</rdg></app>  hūm̐ vam̐ hoḥ <app><lem wit="#HT">pravartayan<!-- pravartayan --></lem><witDetail wit="#HT" type="silemn"/>
   <rdg wit="#cod">pravarttayam</rdg></app>  | samayastvaṁ | samayastvamahamiti ca | svahr̥dayāni mantrāṁścānte saṁsādhya | dharmakarmamahāmudrābhiś <app><lem type="emn" wit="">cāmudryābhiṣiñce</lem>
   <rdg wit="#cod">cāmudrābhiṣiñcen</rdg>
   <rdg wit="#HT">cāmudryābhiṣiñced</rdg><witDetail wit="#MSK" type="silemn"/>
-  <note>\HT\ does not note that <foreign>akṣara dmu</foreign> is lost at the beginning of line 5.
-  <seg rend="check">Make a new command for "lost akṣara"</seg></note>
-<!--  \newcommand{\lostaksaras}[1]{\_"/>-->
-</app><supplied reason="lost">nmu</supplied>drābhiṣekaistathāgatādīnbhadrakalpika<app><lem type="emn" wit="#HT">paryantān<!-- paryantān --></lem>
+  <note>\HT\ does not note that <foreign>akṣara dmu</foreign> is lost at the beginning of line 5.</note>
+</app><supplied reason="lost">nmu</supplied>drābhiṣekaistathāgatādīnbhadrakalpika<app><lem type="emn" wit="#HT">paryantān</lem>
   <rdg wit="#cod">pa<seg rend="check">rya</seg>ntāṁ</rdg>
 </app> ||</l>
 <!-- pravarttayam·: em. pravartayan, with HT (sil. em.). -->
@@ -5696,7 +5694,7 @@ kūpeṣu <app><lem type="emn" wit="#HT">vapreṣu</lem><note>following SDPT;</n
 </lg>
   
 
-  <lg met="FILL-ME-IN"><l n="ab">ye grāmaghoṣeṣu purakānane vā<!-- ye grāmaghoṣeṣu purakānane vā -->
+  <lg met="FILL-ME-IN"><l n="ab">ye grāmaghoṣeṣu purakānane vā
   <app><lem wit="#HT">ye grāmaghoṣe surakānane vā</lem><witDetail wit="#HT" type="silemn"/>
   <rdg wit="#cod">ye grāmaghoṣe sarakānane vā</rdg> 
 <note><foreign>Padmaśrīmitra</foreign>: <hi rend="bold">ye grāmaghoṣeṣu purakānare vā</hi> gulmālaye devagr̥heṣu ye ca |
