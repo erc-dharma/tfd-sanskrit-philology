@@ -96,6 +96,12 @@
                      </history>
                   </msDesc>
                </witness>
+               <witness xml:id="SVUTibD">
+                <abbr type="siglum">Tib<hi rend="superscript">D</hi>
+                </abbr>
+                <bibl><ptr target="bib:Ui+al1934_01"/><citedRange unit="item">2516</citedRange></bibl>
+                <!-- Tohoku Catalog no. 2516 -->
+              </witness>
                <witness xml:id="MSK">
                 <abbr type="siglum">Ed<hi rend="superscript">MSK</hi>
                 </abbr>
@@ -5636,7 +5642,7 @@ atha subāhuparipaṭhitagāthābhir baliṁ dadyāt.
 </ab>
 
 <lg met="FILL-ME-IN"><l n="ab"><listApp type="parallels"><app><lem>devāsurā ... mahāvaneṣu</lem><note><foreign>Subāhuparipr̥cchā</foreign> (P LOCATION!!, D f.134r CHECK!!)
-  <seg rend="check">CHECK TANAKA'S AND MORITUCHI'S ARTICLES</seg>
+  <seg rend="check">CHECK TANAKA'S AND MORIGUCHI'S ARTICLES</seg>
   <seg rend="check">Padmaśrīmitra also quotes these verses. CHECK MS readings again! f.6v2–</seg>;
   <seg rend="check">Chinese translation: Taisho vol.18 731a15 ff.</seg>
 </note></app></listApp>
@@ -5948,7 +5954,7 @@ rjes su yi rang kun tu bya ||</foreign> (D f.182v3–183r1)
 
 <lg xml:lang="tib">
 <l n="a">[SVU Tib.] thub pa'i nyi ma ma lus pa'i//</l>
-<l n="b">sangs rgyas rnams ni bdag <lb n="43a4"/> la dgongs//</l>
+<l n="b">sangs rgyas rnams ni bdag <lb edRef="#SVUTibD" n="43a4"/> la dgongs//</l>
 <l n="c">bdag ming 'di zhes bya ba ni//</l> 
 <l n="d">slob dpon <seg rend="check">dpang</seg> du gnas pa la//</l>
 </lg>
@@ -6018,16 +6024,17 @@ slob dpon chen po bdag la stsol ||</foreign>
   <l n="c">bdag ni rtag tu slob dpon gyur//</l> 
   <l n="d">slob dpon chen po bdag la stsol//</l>
 </lg>
-    <listApp type="parallels"><app><lem>bskur ... stsol</lem><note><title>Vajraśekhara</title>:
+<listApp type="parallels"><app><lem>bskur ... stsol</lem><note><title>Vajraśekhara</title>:
 <foreign>dbang bskur ba ni rmad byung che ||
 sems can kun gyi don bgyid phyir ||
 bdag ni rtag tu slob dpon 'gyur ||
 slob dpon chen po bdag la stsol ||</foreign>
 (D f.183r4–5)
-</note></app></listApp>
+</note></app>
+</listApp>
 
 <lg met="anuṣṭubh">
-  <l n="a">[Skt. Reconstruction]dehi me saṁvaraṁ vibho ||</l>
+  <l n="a">[Skt. Reconstruction] dehi me saṁvaraṁ vibho ||</l>
 </lg>
 
 <lg met="anuṣṭubh">
@@ -6035,7 +6042,7 @@ slob dpon chen po bdag la stsol ||</foreign>
 <l n="b">aśeṣā munibhāskarāḥ |</l>
 <l n="c">aham amukanāmā vai</l>
 <l n="d"><app><lem>ācāryasamakṣaṁ</lem>
-  <note>SVU Tib.\ reads <foreign>slob dpon dbang du</foreign>.
+  <note>SVU Tib. reads <foreign>slob dpon dbang du</foreign>.
   This supports <foreign>ācāryasaṁnaddhaṁ</foreign>?
   Negi reports <foreign>saṁbaddha</foreign> as a word corresponding to <foreign>dban du rgyur ba</foreign> (p.3944).</note></app> sthitaḥ ||</l>
 <l n="e">praviśāmi mahāguhyaṁ</l> 
@@ -6067,162 +6074,228 @@ slob dpon chen po bdag la stsol ||</foreign>
 <ab>
 [SVU Tib.] <seg xml:lang="tib">de nas slob dpon gyis rigs thams cad la gsol ba gdab par bya ste/</seg>
 </ab>
-
 <ab>
-[Skt. Reconstruction] tata ācāryeṇa sarvakul<app><lem><seg rend="check">ādhyeṣaṇā</seg><!---ādhyeṣaṇā--></lem><note>SVU Tib.\ (<foreign>gsol ba gdab par bya</foreign>) supports <foreign>-adhyeṣaṇā</foreign>;
-  <foreign>-vijñaptiḥ</foreign> SDP
-</note></app> kāryā
+[Skt. Reconstruction] tata ācāryeṇa sarvakul<app>
+  <lem rend="hyphenleft"><seg rend="check">ādhyeṣaṇā</seg></lem>
+  <note>SVU Tib. (<foreign>gsol ba gdab par bya</foreign>) supports <foreign>-adhyeṣaṇā</foreign>; SDP supports <foreign>-vijñaptiḥ</foreign>.</note></app> kāryā |
 </ab>
 
-<lg met="FILL-ME-IN">
-	<l n="ab" xml:lang="tib">
-[SVU Tib.] che ge zhes bya 'di nyid ni// byang chub sems ni <lb n="43a7"/>
-yongs 'dzin zhing//</l>
-<l n="cd">dam tshig sdom dang gsang ba yi// 'khor lo 'dir yang 'jug par 'tshal//<listApp type="parallels"><app><lem>che ge ... 'tshal</lem><note><title>Vajraśekhara</title>:
-<foreign>bdag nyid nye bar zhi ba nyid ||
-byang chub sems ni yongs su gzung ||
-gsang ba yi ni 'khor lo ru ||
-sdom pa dang bcas 'jug par bgyi ||</foreign>
-(D f.183r5–6)
-</note></app></listApp>
-</l>
+<lg xml:lang="tib">
+	<l n="a">[SVU Tib.] che ge zhes bya 'di nyid ni//</l> 
+  <l n="b">byang chub sems ni <lb edRef="#SVUTibD" n="43a7"/> yongs 'dzin zhing//</l>
+  <l n="c">dam tshig sdom dang gsang ba yi//</l> 
+  <l n="d">'khor lo 'dir yang 'jug par 'tshal//</l>
 </lg>
+<listApp type="parallels">
+  <app>
+    <lem>che ge ... 'tshal</lem>
+    <note><title>Vajraśekhara</title>: <foreign>bdag nyid nye bar zhi ba nyid || byang chub sems ni yongs su gzung || gsang ba yi ni 'khor lo ru || sdom pa dang bcas 'jug par bgyi ||</foreign>(D f.183r5–6)</note>
+  </app>
+</listApp>
 
-<lg met="FILL-ME-IN">
-	<l n="ab">
-[Skt. Reconstruction] ayaṁ <seg rend="check">evāmukanāmā</seg> bodhicittaparigrahaḥ |
-icchate guhyacakre 'smin <app><lem type="emn">praveṣṭuṁ<!-- praveṣṭuṁ --></lem>
-  <note><foreign>praveṣṭāṁ</foreign> ed.;
-  <foreign>'jug par 'tshal</foreign> SVU Tib.</note>
+<lg met="anuṣṭubh">
+	<l n="a">[Skt. Reconstruction] ayaṁ <seg rend="check">evāmukanāmā</seg></l>
+  <l n="b">bodhicittaparigrahaḥ |</l>
+  <l n="c">icchate guhyacakre 'smin</l>
+  <l n="d"><app><lem type="emn">praveṣṭuṁ</lem>
+    <rdg wit="#MSK"><foreign>praveṣṭāṁ</foreign></rdg>
+      <note>SVU Tib. <foreign>'jug par 'tshal</foreign></note>
 </app> samayasaṁvaram ||</l>
 </lg>
 
 <ab>
-[SVU Tib.] de nas yang slob dpon gyis 'di skad ces brjod par bya ste/<listApp type="parallels"><app><lem>de nas ... brjod par bya ste</lem><note><title>Vajraśekhara</title>:
-<foreign>da nas slob dpon gyis 'di skad ces brjod par bya ste</foreign>
-(D f.183r6)
-</note></app></listApp>
+[SVU Tib.] de nas yang slob dpon gyis 'di skad ces brjod par bya ste/
+<listApp type="parallels"><app><lem>de nas ... brjod par bya ste</lem><note><title>Vajraśekhara</title>: <foreign>da nas slob dpon gyis 'di skad ces brjod par bya ste</foreign> (D f.183r6)</note>
+</app></listApp>
 </ab>
-
 <ab>
-[Skt. Reconstruction] tata ācāryeṇa vaktavyaṁ 
+[Skt. Reconstruction] tata ācāryeṇa vaktavyam |
 </ab>
 
-<lg met="FILL-ME-IN">
-	<l n="ab" xml:lang="tib">
-[SVU Tib.] gsang ba chen po'i rigs dag pa'i// gsang ba yongs su 'dzin par ni//</l>
-<l n="cd">bdag nyid chen po khyod <app><lem>'dod dam</lem><rdg>'dod <lb n="43b1"/> dam</rdg></app>// des kyang 'tshal zhes brjod par bya//<listApp type="parallels"><app><lem>gsang ba chen po'i ... brjod par bya</lem><note><title>Vajraśekhara</title>:
+<lg xml:lang="tib">
+	<l n="a">[SVU Tib.] gsang ba chen po'i rigs dag pa'i//</l>
+  <l n="b">gsang ba yongs su 'dzin par ni//</l>
+  <l n="c">bdag nyid chen po khyod <app><lem>'dod dam</lem><rdg>'dod <lb edRef="#SVUTibD" n="43b1"/> dam</rdg></app>//</l> 
+  <l n="d">des kyang 'tshal zhes brjod par bya//</l>
+</lg>
+    <listApp type="parallels"><app><lem>gsang ba chen po'i ... brjod par bya</lem><note><title>Vajraśekhara</title>:
 <foreign>gsang ba chen po rigs dag pa ||
-gsang ba yongs su 'dzin %@384a *| |
-par ni ||
+gsang ba yongs su 'dzin <!-- %@384a *-->par ni ||
 bdag nyid chen po khyod 'dod dam ||
 des kyang 'tshal zhes brjod par bya ||</foreign>
 (D f.183r6–7);
 <foreign>Bhūtaḍāmara</foreign> manual:
-<foreign>icchasi tvaṁ mahān mahāguhyakulaṁ śuddhaṁ rahasyaṁ parigr̥hnitum |
-tenaivaṁ vācyam icchāmy aham iti |</foreign> (f.8r)
-</note></app></listApp></l>
+<foreign>icchasi tvaṁ mahān mahāguhyakulaṁ śuddhaṁ rahasyaṁ parigr̥hnitum | tenaivaṁ vācyam icchāmy aham iti |</foreign> (f.8r)
+</note></app>
+</listApp></l>
 </lg>
 
-<lg met="FILL-ME-IN">
-	<l n="ab">
-[Skt. Reconstruction] <seg rend="check">icchasi tvaṁ mahātman | 
-mahāguhyakulaṁ śuddhaṁ rahasyaṁ parigr̥hṇitum ||</seg> <!--%(metre!!)-->
-</l>
-</lg>
+<p>[Skt. Reconstruction] icchasi tvaṁ mahātman | mahāguhyakulaṁ śuddhaṁ rahasyaṁ parigr̥hnitum || tenaivaṁ vācyam icchāmy aham iti |</p>
   
-<ab>
-<seg rend="check">tenaivaṁ vācyam</seg> 
-</ab>
-
 <ab xml:lang="tib">
-[SVU Tib.]yang slob dpon gyis 'di skad cas brjod par bya ste/<listApp type="parallels"><app><lem>yang ... brjod par bya ste</lem><note><title>Vajraśekhara</title>:
-<foreign>yang slob dpon gyis 'di skad ces brjod par bya ste</foreign> (D f.183r7)
-
-</note></app></listApp></ab>
-
-<ab>
-[Skt. Reconstruction]  punar ācāryeṇaivaṁ vaktavyam. (not in SDP)
+[SVU Tib.] yang slob dpon gyis 'di skad cas brjod par bya ste/
+<listApp type="parallels"><app><lem>yang ... brjod par bya ste</lem>
+  <note><title>Vajraśekhara</title>:
+<foreign>yang slob dpon gyis 'di skad ces brjod par bya ste</foreign> (D f.183r7); not in SDP
+</note>
+</app>
+</listApp>
 </ab>
+<ab>[Skt. Reconstruction] punar ācāryeṇaivaṁ vaktavyam |</ab>
 
-<lg met="FILL-ME-IN">
-<l n="ab">
-[SVU Tib.] sangs rgyas chos dang dge 'dun te// dkon mchog gsum la skyabs su song//</l>
-<l n="cd">'di ni sangs rgyas rigs dag pa'i// dam tshig brtan par gyur pa'o//<listApp type="parallels"><app><lem>sangs rgyas ... gyur pa'o</lem><note><title>Vajraśekhara</title>:
+<lg xml:lang="tib">
+  <l n="a">[SVU Tib.] sangs rgyas chos dang dge 'dun te//</l> 
+  <l n="b">dkon mchog gsum la skyabs su song//</l>
+  <l n="c">'di ni sangs rgyas rigs dag pa'i//</l> 
+  <l n="d">dam tshig brtan par gyur pa'o//</l>
+</lg>
+<listApp type="parallels">
+      <app><lem>sangs rgyas ... gyur pa'o</lem><note><title>Vajraśekhara</title>:
 <foreign>sangs rgyas chos dang dge 'dun ste ||
 dkon mchog gsum la skyabs su song ||
 'di ni sangs rgyas rigs dag pa'i ||
-dam tshig brtan par gyur pa'o ||</foreign>
-(D ff.183r7–183v1)
+dam tshig brtan par gyur pa'o ||</foreign> (D ff.183r7–183v1)</note>
+</app>
+</listApp>
 
-</note></app></listApp>  </l>
-
-<l xml:lang="tib" n="c">rdo rje dril bu'i phyag <lb n="43b2"/>
-rgya dag/ blo chen khyod kyis gzung bar bgyi//  </l>
-<l n="d">byang chub sems gang de rdo rje// shes rab dril bu zhes brjod do//<listApp type="parallels"><app><lem>rdo rje ... brjod do</lem><note><title>Vajraśekhara</title>:
+<lg xml:lang="tib">
+    <l n="a">[SVU Tib.] rdo rje dril bu'i phyag <lb edRef="#SVUTibD" n="43b2"/> rgya dag/</l>
+    <l n="b">blo chen khyod kyis gzung bar bgyi//</l>
+    <l n="c">byang chub sems gang de rdo rje//</l>
+    <l n="d">shes rab dril bu zhes brjod do//</l>
+</lg>
+<listApp type="parallels">
+  <app><lem>rdo rje ... brjod do</lem>
+    <note><title>Vajraśekhara</title>:
 <foreign>rdo rje dril bu phyag rgya yang ||
 blo chen gyis ni gzung bar bgyi ||
 byang chub sems gang de rdo rje ||
-shes rab dril bu zhes bshad do ||</foreign>
-(D f.183v1)
-</note></app></listApp> </l>
+shes rab dril bu zhes bshad do ||</foreign> (D f.183v1)
+</note></app></listApp>
   
-<l xml:lang="tib" n="e"><app><lem>slob dpon dag kyang gzung bar bya// bla ma sangs rgyas kun dang mnyam//  \\
-'di ni rdo rje</lem> 
+<lg xml:lang="tib">
+  <l n="a">[SVU Tib.] slob dpon dag kyang gzung bar bya//</l> 
+  <l n="b">bla ma sangs rgyas kun dang mnyam//</l> 
+  <l n="c">'di ni rdo rje rigs dag pa'i</l> 
+  <l n="d">sdom pa dam tshig yin par gsungs ||</l>
+</lg>
+<listApp type="parallels">
+  <app><lem>slob dpon ... par gsungs</lem>
 <note><title>Vajraśekhara</title>:
 <foreign>slob dpon dag kyang gzung bar bya ||
 bla ma sangs rgyas kun dang mnyam ||
 'di ni rdo rje rigs dag pa'i ||
-sdom pa dam tshig yin par gsungs ||</foreign>
-(D f.183v1–2)
+sdom pa dam tshig yin par gsungs ||</foreign> (D f.183v1–2)
+</note></app></listApp>
 
-</note>  \\</app></l>
-
-<l xml:lang="tib" n="f">rin chen rigs <lb n="43b3"/>
-mchog chen po la// nyin dang mtshan mo lan gsum du//  </l>
-<l n="g">zang zing mi 'jigs chos dang byams// sbyin pa rnams bzhi rtag tu sbyin//<listApp type="parallels"><app><lem>rin chen ... sbyin</lem><note><title>Vajraśekhara</title>:
+<lg xml:lang="tib">
+  <l n="a">[SVU Tib.] rin chen rigs <lb edRef="#SVUTibD" n="43b3"/> mchog chen po la//</l>
+  <l n="b">nyin dang mtshan mo lan gsum du//</l>
+  <l n="c">zang zing mi 'jigs chos dang byams//</l> 
+  <l n="d">sbyin pa rnams bzhi rtag tu sbyin//</l>
+  <l n="e">'di ni rin chen rigs dag pa'i//</l> 
+  <l n="f">dam tshig sdom pa yin par gsungs//</l>
+  <lg>
+    <listApp type="parallels">
+      <app><lem>rin chen ... sbyin</lem>
+        <note><title>Vajraśekhara</title>:
 <foreign>rin chen rigs mchog chen po la ||
 nyin dang mtshan mo lan gsum du ||
 zang zing mi 'jigs chos dang byams ||
-sbyin pa rnam bzhi rtag tu sbyin ||</foreign>
-(D f.183v2)
+sbyin pa rnam bzhi rtag tu sbyin ||</foreign> (D f.183v2);
+compared with the parallel in the <title>Vajraśekhara</title>, the Tibetan translation of the SVU has two extra <foreign>pāda</foreign>s.
 </note></app></listApp>
- </l>
 
-<l xml:lang="tib" n="h"><app><lem><seg rend="check">'di ni rin chen rigs dag pa'i// dam tshig sdom pa yin par gsungs//</seg></lem>
-<note>Compared with the parallel in the <title>Vajraśekhara</title>,
-the Tibetan translation of the SVU has extra two <foreign>pāda</foreign>s
-(which is written in red at this moment).</note>
-</app>
-  </l>
-<l n="i">phyi dang gsang ba theg pa gsum// dam chos khyod kyis gzung <lb n="43b4"/>
-bar bya//</l>
-<l n="j">'di ni pad+ma'i rigs dag pa'i// dam pa'i sdom pa yin par gsungs//<listApp type="parallels"><app><lem>'di ni rin chen ... gzung bar bya</lem><note><title>Vajraśekhara</title>:
+<lg xml:lang="tib">
+  <l n="a">[SVU Tib.] phyi dang gsang ba theg pa gsum//</l> 
+  <l n="b">dam chos khyod kyis gzung <lb edRef="#SVUTibD" n="43b4"/> bar bya//</l>
+  <l n="c">'di ni pad+ma'i rigs dag pa'i//</l> 
+  <l n="d">dam pa'i sdom pa yin par gsungs//</l></lg>
+<listApp type="parallels">
+  <app>
+    <lem>phyi ... yin par gsungs</lem>
+    <note><title>Vajraśekhara</title>:
 <foreign>phyi <seg rend="check">nang</seg> gsang ba'i theg pa gsum ||
 dam chos khyod kyis gzung bar bya ||
 'di ni pa dma'i rigs dag pa'i ||
-dam tshig sdom pa yin par gsungs ||</foreign>
-(D f.183v2–3)
+dam tshig sdom pa yin par gsungs ||</foreign> (D f.183v2–3)</note>
 </note></app></listApp>
-  </l>
 
-<l xml:lang="tib" n="k">las kyi rigs mchog chen po la// sdom pa thams cad ldan par ni//</l>
-<l n="l">yang dag nyid du gzung bar gyis// mchod pa'i las kyang ci nus bya//<listApp type="parallels"><app><lem>las ... ci nus bya</lem><note><title>Vajraśekhara</title>:
+<lg xml:lang="tib">
+  <l n="a">[SVU Tib.] las kyi rigs mchog chen po la//<l>
+  <l n="b">sdom pa thams cad ldan par ni//</l>
+  <l n="c">yang dag nyid du gzung bar gyis//</l>
+  <l n="d">mchod pa'i las kyang ci nus bya//</l>
+</lg>
+<listApp type="parallels">
+  <app><lem>las ... ci nus bya</lem>
+    <note><title>Vajraśekhara</title>:
 <foreign>las kyi rigs mchog chen po la ||
 sdom pa thams cad ldan par ni ||
 yang dag nyid du gzung bar bgyi ||
-mchod pa'i las kyang ci nus bya ||</foreign>
-(D f.183v3)
-</note></app></listApp>
-</l>
+mchod pa'i las kyang ci nus bya ||</foreign> (D f.183v3)</note>
+</app></listApp>
+
+<!-- to be integrated, parallel from Samvaravidhi, ms. Tokyo University Library
+New 450 Old 296
+check CSMTUL [Petech 1984:44. Tokyo 454]
+palm leaf, newari
+Samvarodayaanaama Ma.n.dalopaayikaa by Bhuuvaacaarya at Ratnagiri 
+[Petech: Svarodayaama.n.dalopaayikaa !? - copied from Matsunami's catalogue!]
+samvat a cuu pteti/ghreti [174 = 1054 CE. / 176 = 1056 CE. acc. to Petech / 178 acc. to Matsunami] [bhaadra !? Petech]padak.r.s.nacaturthyaa.m raajaadhiraaja + + + .cvara paramabha.t.taaraka .crii [baladeva]vijayaraaje [raajye Petech] likhitam | 
+% Petech 1984: August 31, 1056.
+% Petech 1984: 45. The Maanadevavihaara is the Śriicakravar.namahaavihaara (present-day Chuka Baha) in Patan. 
+% used in Sugiki 2003; he calls the author 'Dhiimat'
+
+dakṣiṇadvāre m-āgamya dakṣiṇānanasaṃsthitaḥ | śiṣyam ādāya vāmena dadāti samvarottamam || 623 ||
+
+lho yi sgo ru song nas ni | lho ru bltas nas legs par gnas | g.yon pas slob ma bzung nas ni | sdom pa'i mchog ni sbyin par bya || 623 ||
+
+buddhaṃ dharmaṃ ca saṅghaṃ ca triratnaṃ śaraṇam vraja | etad buddhakule ramye samvaraṃ bhavato dṛḍham || 624 ||
+
+sangs rgyas chos dang dge 'dun te | dkon mchog gsum la skyabs su song | 'dir ni sangs rgyas rigs yid 'ong | sdom pa brtan por gyur pa'o || 624 ||
+
+vajraṃ ghaṇṭāṃ ca mudrāṃ ca tvayā grāhyā mahāmate | yad bodhicittaṃ tad vajraṃ prajñāghaṇṭeti viśrutam || 625 ||
+
+rdo rje dril bu phyag rgya yang | blo chen khyod kyis gzung bar bya | byang chub sems gang rdo rje ste | shes rab dril bu zhes bya'o || 625 ||
+
+ācāryas tu tvayā grāhyaḥ sarvabuddhasamo guruḥ | etad vajrakule siddhe (46r = 47u) samvaraṃ samayocyate || 626 ||
+
+slob dpon khyod kyis gzung bar bya | bla ma sangs rgyas kun dang mnyam | 'di ni rdo rje'i rigs dag pa'o | sdom pa dam tshig ces su brjod || 626 ||
+
+caturdānaṃ pradātavyaṃ ṣaṭkṛtvā tu dine dine | dharmāmiṣābhayadānaṃ ca maitrī ratnakule sadā || 627 ||
+
+rin chen rigs la rtag tu ni | nyi ma re re dus drug tu | zang zing mi 'jigs chos dang byams | sbyin pa rnam bzhi sbyin par bya || 627 ||
+
+saddharmaṃ ca tvayā grāhyaṃ bāhyaṃ guhyaṃ triyānikam | etat padmakule śuddhe samvaraṃ paramaṃ padam || 628 ||
+
+phyi nang gsang ba'i theg pa gsum | dam pa'i chos ni khyod kyis gzung | 'di ni padma'i rigs dag pa'i | sdom pa mchog gi go 'phang ngo || 628 ||
+
+samvaraṃ sarvasaṃyuktaṃ pratigṛhṇāmy ahaṃ dṛḍham | pūjākarma yathāśaktyā mahākarmakuloccaye || 629 ||
+
+sdom pa thams cad yang dag ldan | bdag gis brtan por so sor gzung | mchod pa'i las kyang ci nus bgyi | las kyi rigs chen rtag pa'o || 629 ||
+
+samvaravidhiḥ ||
+o
+|| closer 13 ||
+
+sdom pa'i cho ga'o || closer 13 ||
+
+-->
+
+<lg met="anuṣṭubh">
+<l n="a">[Skt. Reconstruction] buddhaṁ dharmaṁ ca saṁghaṁ ca</l> 
+<l n="b"><seg rend="check">triratnaṁ</seg> śaraṇaṁ vraja |</l>
+<l n="c">etad buddhakule <app><lem><seg rend="check">ramye</seg></lem>
+  <note>Thus SDP. SVU Tib. supports <foreign>śuddhe</foreign> (<foreign>dag pa'i</foreign>).
+</note></app></l> 
+<l n="d">saṁvaraṁ <app><lem><seg rend="check">bhavato</seg></lem><note>SDP read <foreign>bhavate</foreign>. Genitive of <foreign>bhavat</foreign>.</note></app> dr̥ḍham || [Buddhakula]</l>
 </lg>
 
-<lg met="FILL-ME-IN">
-<l n="ab">[Skt. Reconstruction]  buddhaṁ dharmaṁ ca saṁghaṁ ca <seg rend="check">triratnaṁ</seg> śaraṇaṁ vraja |</l>
-<l n="cd">etad buddhakule <app><lem><seg rend="check">ramye</seg><!--ramye--></lem><note>SVU Tib.\ supports <foreign>śuddhe</foreign> (<foreign>dag pa'i</foreign>).
-</note></app> saṁvaraṁ <app><lem><seg rend="check">bhavato</seg><!--bhavato--></lem><note>genitive of <foreign>bhavat</foreign>.
-</note></app> dr̥ḍham || [Buddhakula]</l>
-<l n="c">vajraṁ ghaṇṭā ca mudrā ca tvayā grāhyā mahāmate |</l>
+<!-- RT, SI and AG have cleaned the file down to here on 2024-10-01 -->
+
+<lg met="anuṣṭubh">
+  <l n="a">vajraṁ ghaṇṭā ca mudrā ca tvayā grāhyā mahāmate |</l>
 <l n="d">yad bodhicittaṁ tad vajraṁ prajñā ghaṇṭā iti smr̥tā ||</l>
 <l n="e">ācāryaś ca gr̥hītavyaḥ sarvabuddhasamo guruḥ |</l>
 <l n="f">etad vajrakule śuddhe saṁvaraṁ samayocyate || [Vajrakula]</l>
