@@ -114,6 +114,10 @@
                 </abbr>
                 <bibl><ptr target="bib:Moriguchi1989_01"/></bibl>
               </witness>
+              <witness xml:id="SDPS">
+                <abbr type="siglum">SDP<hi rend="superscript">S</hi></abbr>
+                <bibl><ptr target="bib:Skorupski1983_01"/></bibl>
+              </witness>
               <witness xml:id="BhD">
                   <abbr type="siglum">BhḌ</abbr>
                   <bibl><ptr target="bib:Natori2020_01"/></bibl>
@@ -6714,105 +6718,83 @@ na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo vyathed it
 </listApp>
 
 <p xml:lang="tib">
-[SVU Tib.] <seg xml:lang="tib">de nas oṁ <edRef="#SVUTibD" lb n="44a4"/>
-sa rba yo ga tsi t+ta au t+pā da yā mi zhes bya ba 'dis/</seg> 
-</p>
-<p>
-  [Skt. Reconstruction] tataḥ, oṁ sarvayogacittam utpādayāmīty anena
-</p>
+[SVU Tib.] de nas oṁ <edRef="#SVUTibD" lb n="44a4"/> sa rba yo ga tsi t+ta au t+pā da yā mi zhes bya ba 'dis/</p>
+<p>[Skt. Reconstruction] tataḥ, oṁ sarvayogacittam utpādayāmīty anena |</p>
+<listApp type="parallels">
+  <app><note>SDP 288:27.</note></app>
+</listApp>
 
-
-<lg xml:lang="tib">
-  <l n="a">[SVU Tib.] byang chub sems ni bla med pa//</l>
-  <l n="b"> dam pa bdag gis bskyed nas su//</l>
-  <l n="c">de yi snying gar snying po ni//</l>
-  <l n="d">rdo rje rab tu gzhag par bya//</l>
-  <l n="e">su ra te sa ma ya staṁ ho</l>
-  <l n="f">ba dzra sid dhya ya thā su khaṁ/</l></lg>
-<lg met="anuṣṭubh">
-  <l n="a">
-<app><lem>utpādayitvā paramaṁ</l>
+<supplied reason="lost"><lg met="anuṣṭubh">
+  <l n="a">utpādayitvā paramaṁ</l>
   <l n="b">bodhicittam anuttaram |</l>
-<l n="c">vajram asya pratiṣṭhāpyaṁ</l>
-<l n="d">hr̥daye hr̥dayena tu ||</l>
-<l n="e">surate samayas tvaṁ hoḥ</l>
-<l n="f">vajra siddhya yathāsukham.<!--utpādayitvā ... yathāsukham--></l></lem><note>The same set of the verse and the mantra appears in § 3.3.
-  <seg rend="check">CROSS REFERENCE!!</seg>
-</note></app>
-</lg>
+  <l n="c">vajram asya pratiṣṭhāpyaṁ</l>
+  <l n="d">hr̥daye hr̥dayena tu |</l>
+  <l n="e">surate samayas tvaṁ hoḥ</l>
+  <l n="f">vajra siddhya yathāsukham ||</l>
+</lg></supplied>
+<listApp type="parallels">
+  <app>
+    <note sameAs="SDP">SDP-S 288:28–30</note>
+    <note>The same set of six <foreign>pāda</foreign>s appears in <seg rend="check">§3.3</seg><!-- CROSS REFERENCE!!-->.</note>
+    <note corresp="#SVUTib">SVUTib <lg xml:lang="tib">
+    <l n="a">byang chub sems ni bla med pa//</l>
+    <l n="b">dam pa bdag gis bskyed nas su//</l>
+    <l n="c">de yi snying gar snying po ni//</l>
+    <l n="d">rdo rje rab tu gzhag par bya//</l>
+    <l n="e">su ra te sa ma ya staṁ ho</l><!-- stwaṁ?-->
+    <l n="f">ba dzra sid dhya ya thā su khaṁ/</l>
+  </lg></note>
+  <!-- encode also SDPTib parallel ?-->
+</listApp>
 
 <!-- SI checked 2024-10-15-->
 
-<lg met="FILL-ME-IN">
-[SVU Tib.] <seg xml:lang="tib">de nas rje sems dpar byin gyis brlabs la/ dri dang me tog <lb edRef="#SVUTibD" n="44a5"/>
-la sogs pas mchod de/ me tog gi phreng ba gdags shing/ gdong dri zhim par byas la/ yon gyi mchog blangs la/ des phyi rol na gnas pa'i bum pa'i chus dbang bskur la/ sa ma ya s t+wāṁ zhes bya ba 'dis/ rdo rje sems ma'i phyag rgya 'ching du gzhug go//</seg> 
-</lg>
+<supplied reason="lost">
+  <p>tatas taṁ vajrasattvam adhiṣṭhāya gandhapuṣpādibhir abhyarcya sragvinaṁ surabhitānanaṁ ca kr̥tvottamāṁ dakṣiṇām ādāya bahiḥsthitakalaśodakenābhi<app><lem type="emn" rend="hyphenleft">ṣicya</lem><rdg wit="#SDPS">-ṣiñcya</rdg></app> samayas tvam ity anena sattvavajrīṁ bandhayet |</p>
+</supplied>
+<listApp type="parallels">
+  <app>
+     <note sameAs="txt:SDP290:1–3">SDP 290:1–3</note>
+     <note corresp="#SVUTib"><p xml:lang="tib">de nas rje sems dpar byin gyis brlabs la/ dri dang me tog <lb edRef="#SVUTibD" n="44a5"/> la sogs pas mchod de/ me tog gi phreng ba gdags shing/ gdong dri zhim par byas la/ yon gyi mchog blangs la/ des phyi rol na gnas pa'i bum pa'i chus dbang bskur la/ sa ma ya stwaṁ zhes bya ba 'dis/ rdo rje sems ma'i phyag rgya 'ching du gzhug go//</p></note>
+  </app>
+</listApp>
 
+<supplied reason="lost">
+  <p>tato madhyamābhyāṁ puṣpamālāṁ grāhayitvā praveśayed anena hr̥dayena | samaya hūṁ | svasvadvāre ca vajrāṅkuśādibhiś cākr̥ṣya praveśya baddhvā vaśīkuryāt | vajrāṅkuśa jaḥ, vajrapāśa hūṁ, vajrasphoṭa vaṁ, vajrāveśa <app><lem type="emn">hoḥ</lem><rdg wit="#SVUTib">aḥ</rdg><note>We believe that the <foreign>bīja</foreign> <foreign>aḥ</foreign> found in the parallel texts is due to an error in transmision. It should be <foreign>hoḥ</foreign>, since the seed-syllables <foreign>jaḥ hūṁ vaṁ hoḥ</foreign> are a strong unit, meaning <foreign>ākarṣaṇa, praveśana, bandhana</foreign>, and <foreign>vaśīkaraṇa</foreign>. The cause of this corruption seems to lie in the fact that <foreign>aḥ</foreign> is also the syllable for <foreign>āveśa</foreign> (possesion). Cf. STTS 224: <foreign>vajrāveśa aḥ</foreign>. The expected pattern in found in KSP (Devatāyoga, ed. Inui): <foreign>vajrāṅkuśa oṃ vajrāṇkuśa jaḥ | vajrapāśa oṃ vajrapāśa hūṃ | vajrasphoṭa oṃ vajrasphoṭa vaṃ | vajrāveśa oṃ vajrāveśa hoḥ |</foreign>.</note></app> iti |</p></supplied>
+  <listApp type="parallels">
+    <app>
+      <note corresp="#SVUTib">SVU Tib. <p xml:lang="tib">de nas gung mo gnyis kyis me tog gi phreng ba <lb edRef="#SVUTibD" n="44a6"/> 'dzin du bcug la/ sa ma ya hūṁ zhes bya ba 'dis gzhug par bya'o// rdo rje lcags kyu la sogs pas kyang/ rang rang gi sgo nas ba dzra aṁ ku sha dzaḥ/ badzra pā sha hūṁ/ ba dzra s+pho ṭa baṁ/ ba dzra ā be sha aḥ/ zhes bya bas dgug pa dang/ gzhug pa dang/ bcing ba dang/ dbang du bya'o//</p>.</note>
+      <note>KSP, chapter 6 (<foreign>Abhiṣeka</foreign>):
+        <foreign>tato madhyamāṅgulidvayena mālām ādāya praveśayed anena samaya hūṁ |
+        svadvāre<seg type="highlight">ṇa</seg> vajrāṅkuśādibhiś cākr̥ṣya praveśya baddhvā vaśīkuryāt | oṁ vajrāṅkuśa jaḥ, oṁ vajrapāśa hūṁ, oṁ vajrasphoṭa vaṁ, oṁ vajrāveśa <seg type="highlight">aḥ</seg> iti</foreign><!-- we have checked Sakurai's edition -->.</note>
+      <note corresp="txt:SDP290:8–11">SDP 290:8–11 <foreign>tatas tayaivāṅgusthābhyāṁ puṣpamālāṁ grāhayitvā praveśayed anena hṛdayena | oṁ vajrasamayaṁ praviśāmīti / pūrvadvāre ca vajrāṅkuśena tam ākarṣayet | dakṣiṇena pāśena praveśayet | paścimena sphoṭena badhnīyāt | uttare vajrāveśena veśayet |</foreign>.</note>
+</app>
+</listApp>
 
-<lg met="FILL-ME-IN">
-[Skt. Reconstruction] tatas taṁ vajrasattvam adhiṣṭhāya gandhapuṣpādibhir abhyarcya sragvinaṁ surabhitānanaṁ ca kr̥tvottamāṁ dakṣiṇām ādāya bahiḥsthitakalaśodakenābhi<seg rend="check">ṣicya</seg> samayas tvam ity anena sattvavajrīṁ bandhayet.
-</lg>
+<supplied reason="lost"><p>tataḥ punaḥ pūrvadvāreṇa praveśyaivaṁ vadet |</p></supplied>
+<listApp type="parallels">
+  <app>
+    <note corresp="txt:SDP290:11-12">SDP 290:11–12 <foreign>punaḥ pūrvadvāreṇa praveśyaivaṁ vadet | </foreign></note>
+    <note corresp="txt:STTS0220">STTS 220 <foreign>tataḥ praveśyaivaṁ vadet |</foreign></note>
+    <note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">de nas yang <lb edRef="#SVUTibD" n="44a7"/> shar phyogs kyi sgo nas/ de bzhin du bcug la/ 'di skad ces brjod par bya ste/</foreign></note>
+    </app>
+</listApp>
 
-<lg met="FILL-ME-IN">
-<l n="ab">[SVU Tib.] de nas gung mo gnyis kyis me tog gi phreng ba <lb edRef="#SVUTibD" n="44a6"/>
-'dzin du bcug la/ sa ma ya hūṁ zhes bya ba 'dis gzhug par bya'o// </l>
-<l n="cd">rdo rje lcags kyu la sogs pas kyang/ rang rang gi sgo nas
-ba dzra aṁ ku sha dzaḥ/ badzra pā sha hūṁ/ ba dzra s+pho ṭa baṁ/ ba dzra ā be sha aḥ/ 
-zhes bya bas dgug pa dang/ gzhug pa dang/ bcing ba dang/ dbang du bya'o//<listApp type="parallels"><app><lem>de nas ... dbang du bya'o</lem><note><foreign>Kriyāsaṁgrahapañjikā</foreign>, chapter 6 (<foreign>Abhiṣeka</foreign>):
-<foreign>tato madhyamāṇgulidvayena mālām ādāya praveśayed anena \\ 
-samaya hūṁ.
-svadvāre<seg rend="check">ṇa</seg> vajrāṇkuśādibhiś cākr̥ṣya praveśya baddhvā vaśīkuryāt.
-oṁ vajrāṇkuśa jaḥ,
-oṁ vajrapāśa hūṁ,
-oṁ vajrasphoṭa vaṁ,
-oṁ vajrāveśa <seg rend="check">aḥ</seg> iti</foreign>
-(<seg rend="check">Sakurai's edition!!</seg>).
-</note></app></listApp></l>
-</lg>
-
-<lg met="FILL-ME-IN">
-<l n="ab">[Skt. Reconstruction] tatas madhyamābhyāṁ puṣpamālāṁ grāhayitvā praveśayed anena hr̥dayena. samaya hūṁ. svasvadvāre ca vajrāṇkuśādibhiś cākr̥ṣya praveśya baddhvā vaśīkuryāt. vajrāṅkuśa jaḥ, vajrapāśa hūṁ, vajrasphoṭa vaṁ, vajrāveśa <app><lem><seg rend="check">hoḥ</seg></lem>
-<note>SVU Tib.\ reads <foreign>aḥ</foreign>. This should be <foreign>hoḥ</foreign>, since the seed-syllables <foreign>jaḥ hūṁ vaṁ hoḥ</foreign> are a strong unit, meaning <foreign>ākarṣaṇa, praveśana, bandhana</foreign>, and <foreign>vaśīkaraṇa</foreign>. Probably the cause of this corruption lies in the fact that <foreign>aḥ</foreign> is the syllable for <foreign>āveśa</foreign> (possesion).
-Cf. STTS 224: <foreign>vajrāveśa aḥ</foreign>.
-<seg rend="check">(CHECK KSP ALSO!!)</seg>
-
-</note></app>iti.</l>
-</lg>
-
-<lg met="FILL-ME-IN">
-<l n="ab"><listApp type="parallels"><app><lem>deng ... nyams par gyur ta re</lem><note>SDPT (p.290): 
-punaḥ pūrvadvāreṇa praveśyaivaṁ vadet |
-*adya tvaṁ (em.; <foreign>abhyarcya</foreign> ed.) sarvatathāgatakule praviṣṭas tad ahaṁ tu vajrajñānam
-utpādayiṣyāmi | yena jñānena sarvatathāgatasiddhir api prāpsyase | kim
-anyā siddhiḥ | na ca tvayādr̥ṣṭamaṇḍalasya purato vaktavyam | mā te
-samayo vyathed iti |
-
-STTS 220:
-tataḥ praveśyaivaṁ vadet |:
-adya tvaṁ sarvatathāgatakulapraviṣṭaḥ. 
-tad ahaṁ te vajrajñānam utpādayiṣyāmi, yena jñānena tvaṁ sarvatathāgatasiddhim api prāpsyasi. 
-kim utānyāḥ siddhīḥ ||.
-na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo vyathed iti ||
-
-</note></app></listApp>[SVU Tib.] <seg xml:lang="tib">de nas yang <lb edRef="#SVUTibD" n="44a7"/>
-shar phyogs kyi sgo nas/ de bzhin du bcug la/ 'di skad ces brjod par bya ste/ </seg></l>
-</lg>
+<!-- SI RT AG checked down to here 2024-10-15-->
 
 <lg met="FILL-ME-IN">
 <l n="ab"><seg xml:lang="tib">deng khyod de bzhin gshegs pa thams cad kyi rigs su zhugs kyis/ ngas khyod la ye shes gang gis de bzhin gshegs pa thams cad 'grub pa yang thob na/ dngos grub gzhan lta smos kyang <app><lem>ci dgos te/</lem><rdg>ci <lb edRef="#SVUTibD" n="44b1"/> dgos te</rdg></app> de lta bu'i rdo rje ye shes bskyed par bya yis/ khyod kyis dkyil 'khor chen po ma mthong ba rnams la smra bar ma byed cig/ khyod dam tshig nyams par gyur ta re/</seg></l>
 </lg>
-
-<lg met="FILL-ME-IN">
-<l n="ab">[Skt. Reconstruction] <hi rend="bold">[STTS 220]</hi>
-tataḥ punaḥ pūrvadvāreṇa praveśyaivaṁ vadet.</l>
-</lg>
-  
 <lg met="FILL-ME-IN">
 <l n="ab">adya tvaṁ sarvatathāgatakulapraviṣṭaḥ.
 tad ahaṁ te vajrajñānam utpādayiṣyāmi, yena jñānena tvaṁ sarvatathāgatasiddhim api prāpsyasi.
 kim utānyāḥ siddhīḥ.
 na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo <seg rend="check">vyatheti</seg>.</l>
 </lg>
+<!-- SDPT (p.290): *adya tvaṁ (em.; <foreign>abhyarcya</foreign> ed.) sarvatathāgatakule praviṣṭas tad ahaṁ tu vajrajñānam utpādayiṣyāmi | yena jñānena sarvatathāgatasiddhir api prāpsyase | kim anyā siddhiḥ | na ca tvayādr̥ṣṭamaṇḍalasya purato vaktavyam | mā te samayo vyathed iti |-->
+<!--STTS 220:
+adya tvaṁ sarvatathāgatakulapraviṣṭaḥ | tad ahaṁ te vajrajñānam utpādayiṣyāmi, yena jñānena tvaṁ sarvatathāgatasiddhim api prāpsyasi | kim utānyāḥ siddhīḥ ||
+na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo vyathed iti ||-->
 
 <lg met="FILL-ME-IN">
 <l n="ab"><listApp type="parallels"><app><lem>de nas ... klad pa 'gas par 'gyur ro</lem><note>SDPT (p.290): 
