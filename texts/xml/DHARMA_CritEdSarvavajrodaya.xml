@@ -6561,31 +6561,36 @@ khyod kyi rtag tu bsrung bar bya ||</foreign>
 
 <!-- RT, SI and AG have cleaned the file down to here on 2024-10-08 -->
 
-<lg met="FILL-ME-IN">
-<l xml:lang="tib" n="a">[SVU Tib.] des kyang 'di skad <lb edRef="#SVUTibD" n="44a2"/> 
-brjod par bya ste// slob dpon 'dir ni bdag la gson//</l> 
-<l n="cd">gtso bos ji ltar bka' stsal pa// de ltar bdag ni bgyid par 'tshal//<listApp type="parallels"><app><lem>des kyang ... mgon po rnams</lem><note><title>Vajraśekhara</title>:
+<lg xml:lang="tib">
+<l n="a">[SVU Tib.] des kyang 'di skad <lb edRef="#SVUTibD" n="44a2"/> 
+brjod par bya ste//</l>
+<l n="b">slob dpon 'dir ni bdag la gson//</l> 
+<l n="c">gtso bos ji ltar bka' stsal pa//</l>
+<l n="d">de ltar bdag ni bgyid par 'tshal//</lg>
+  <listApp type="parallels"><app><<note><title>Vajraśekhara</title>:
 <foreign>de nyid kyis kyang brjod par bya ||
 'dir ni slob dpon bdag la gson ||
 gtso bo ji ltar bka' stsal pa ||
 de bzhin du ni bgyid par 'tshal ||</foreign>
 (D f.184r1)
-</note></app> </listApp></l>
-</lg>
-
-
-<lg met="FILL-ME-IN">
-  <l n="ab">[Skt. Reconstruction] 
-tasyaiva cāpi vaktavyam
-<app><lem wit="">ācāryātra<!-- ācāryātra --></lem><note>Supported by SVU Tib. <foreign>'dir</foreign>;
+</note></app></listApp>
+<lg met="anuṣṭubh">
+  <l n="a">[Skt. Reconstruction] 
+tasyaiva cāpi vaktavyam</l>
+<l n="b">
+<app><lem wit="">ācāryātra</lem><note>Supported by SVU Tib. <foreign>'dir</foreign>;
   <foreign>ācārya tu</foreign> SDPT</note>
 </app> śr̥ṇuṣva me |</l> 
-<l n="cd">evam <seg rend="check">astu</seg> kariṣyāmi yathājñāpayase vibho ||</l></lg>
+<l n="c">evam <seg rend="check">astu</seg> kariṣyāmi </l>
+<l n="d">yathājñāpayase vibho ||</l></lg>
+<listApp type="parallels">
+  <app><note>SDP 288:22–23.</note></app>
+</listApp>
 
-
-<lg met="FILL-ME-IN">
-<l n="ab">[SVU Tib.] ji ltar dus gsum mgon po rnams//</l>
-<l n="cd">byang chub tu ni nges mdzad pa//<listApp type="parallels"><app><lem>ji ltar ... mdzad pa</lem><note>Ānandagarbha abridges the verses.
+<lg xml:lang="tib">
+<l n="a">[SVU Tib.] ji ltar dus gsum mgon po rnams//</l>
+<l n="b">byang chub tu ni nges mdzad pa//</l></lg>
+<listApp type="parallels"><app><lem>ji ltar ... mdzad pa</lem><note>Ānandagarbha abridges the verses.
 <title>Vajraśekhara</title>:
 <foreign>ji ltar dus gsum mgon po rnams ||
 byang chub tu ni nges mdzad pa'i ||
@@ -6633,7 +6638,7 @@ dbugs ma phyin pa dbugs dbyung zhing ||
 sems can mya ngan 'das la dgod ||</foreign>
 (D f.184r1–4).
 One of the earliest surviving Sanskrit source of this set of verses is <foreign>Nāmamantrārthāvalokinī</foreign>, a commentary on the <foreign>Nāmasaṁgīti</foreign> by Vilāsavajra.
-<foreign>Nāmamantrārthāvalokinī</foreign>, <foreign>Adhikāra</foreign> 4:
+<titile>Nāmamantrārthāvalokinī</title>, <foreign>Adhikāra</foreign> 4:
 <foreign>utpādayāmi paramaṁ bodhicittam anuttaram |
 yathā traiyadhvikā nāthāḥ saṁbodhau kr̥taniścayāḥ ||
 trividhāṁ śīlaśikṣāṁ ca kuśaladharmasaṁgraham |
@@ -6653,79 +6658,90 @@ gr̥hītvā saṁvaraṁ kr̥tsnaṁ sarvasattvārthakāraṇāt ||
 atīrṇāṁs tārayiṣyāmi amuktān mocayāmy ahaṁ |
 anāśvastān āśvāsayiṣyāmi sattvān sthāpayiṣyāmi nirvr̥tāv iti  ||</foreign>
 (Tribe 2016: 248–250)
-
-</note></app></listApp></l>
+</note></app></listApp>
+<lg met="anuṣṭubh">
+<l n="a">[Skt. Reconstruction] utpādayāmi paramam</l>
 </lg>
-<ab>
-<seg xml:lang="tib">zhes bya ba la sogs pa nas//
-</seg></ab>
+<listApp type="parallels">
+  <app><note>SDP 288:24.</note></app>
+</listApp>
 
-<ab>
-<seg xml:lang="tib">sems can mya ngan 'das la <lb edRef="#SVUTibD" n="44a3"/>
-dgod//</seg></ab>
+<p xml:lang="tib">[SVU Tib.] zhes bya ba la sogs pa nas//
+</p>
+<p>
+  [Skt. Reconstruction] ityādi yāvat 
+</p>
+<listApp type="parallels">
+  <app><note>SDP 288:24.</note></app>
+</listApp>
 
-<ab xml:lang="tib">
-ces bya ba'i bar du brjod par bya'o// [<seg rend="check">$\leftarrow$Parallel to the <title>Vajraśekhara</title> ends</seg>]
-</ab>
+<lg xml:lang="tib"><l>[SVU Tib.] sems can mya ngan 'das la <lb edRef="#SVUTibD" n="44a3"/>
+dgod//</l></lg>
+<lg met="anuṣṭubh"><l>[Skt. Reconstruction]
+  <app><lem wit="">sattvān<!-- sattvān --></lem>supported by SVU Tib. (<foreign>sems can</foreign>)
+    <foreign>sarvān</foreign> <note>SDPT</note>
+  </app> sthāpayiṣyāmi nirvr̥tāv</l>
+</lg> 
+<listApp type="parallels">
+  <app><note>SDP 288:24.</note></app>
+</listApp>
 
-<ab>
-[Skt. Reconstruction] 
-utpādayāmi paramam 
-</ab>
-  
-<ab>
-ityādi yāvat 
-</ab>
-  
-<ab>
-<app><lem wit="">sattvān<!-- sattvān --></lem>supported by SVU Tib. (<foreign>sems can</foreign>)
-  <foreign>sarvān</foreign> <note>SDPT</note>
-</app> sthāpayiṣyāmi nirvr̥tāv ity <seg rend="check">uccārayet</seg>.
-</ab>
+<p xml:lang="tib">
+  [SVU Tib.] ces bya ba'i bar du brjod par bya'o// [<seg rend="check">$\leftarrow$Parallel to the <title>Vajraśekhara</title> ends</seg>]
+</p>
+<p>
+[Skt. Reconstruction] ity <seg rend="check">uccārayet</seg>.
+</p>
 
-<lg xml:lang="tib">
-<l n="ab">gang zhig sdom pa 'dzin par mi byed pa de la/ deng khyod ces bya ba la sogs pa yang brjod par mi bya ste/ slob dpon du rjes su gnang ba dang/ dbang bskur ba yang mi bya'o// </l>
-<l n="cd">'jug pa tsam cig byed du gzhug go//</l>
-</lg>
-
-<lg met="FILL-ME-IN">
-<l n="ab">[Skt. Reconstruction] yas tu saṁvaraṁ na gr̥hṇāti tasya praveśamātram eva dātavyam.
-<app><lem>adya tvam ityādi<!--adya tvam ityādi--></lem><note>
-
+<p xml:lang="tib">
+  [SVU Tib.] gang zhig sdom pa 'dzin par mi byed pa de la/ deng khyod ces bya ba la sogs pa yang brjod par mi bya ste/ slob dpon du rjes su gnang ba dang/ dbang bskur ba yang mi bya'o// 
+'jug pa tsam cig byed du gzhug go//
+</p>
+<p>
+[Skt. Reconstruction] yas tu saṁvaraṁ na gr̥hṇāti tasya praveśamātram eva dātavyam.
+<app><lem>adya tvam ityādi</lem><note>
 STTS: 220: 
 adya tvaṁ sarvatathāgatakulapraviṣṭaḥ.
 tad ahaṁ te vajrajñānam utpādayiṣyāmi, yena jñānena tvaṁ sarvatathāgatasiddhim api prāpsyasi. 
 kim utānyāḥ siddhīḥ ||.
 na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo vyathed iti.
-
-</note></app> na brūyāt, <app><lem><seg rend="check">ācāryānujñām</seg><!--ācāryānujñām--></lem>
+</note></app> na brūyāt, <app><lem><seg rend="check">ācāryānujñām</seg></lem>
 <note><foreign>ācāryo 'nujñām</foreign>;
   SVU Tib.\ seems to support <foreign>ācāryānujñām</foreign> (<foreign>slob dpon du rjes su gnang ba</foreign>).</note>
-</app> ācāryābhiṣekaṁ ca na kuryāt.</l>
-</lg>
+</app> ācāryābhiṣekaṁ ca na kuryāt.</p>
+<listApp type="parallels">
+  <app><note>SDP 288:25-26.</note></app>
+</listApp>
 
-<ab>
+<p xml:lang="tib">
 [SVU Tib.] <seg xml:lang="tib">de nas oṁ <edRef="#SVUTibD" lb n="44a4"/>
 sa rba yo ga tsi t+ta au t+pā da yā mi zhes bya ba 'dis/</seg> 
-</ab>
+</p>
+<p>
+  [Skt. Reconstruction] tataḥ, oṁ sarvayogacittam utpādayāmīty anena
+</p>
 
 
-<lg met="FILL-ME-IN"><l xml:lang="tib" n="a">byang chub sems ni bla med pa// dam pa bdag gis bskyed nas su//</l>
-<l n="cd">de yi snying gar snying po ni// rdo rje rab tu gzhag par bya//</l>
-<l n="c">su ra te sa ma ya staṁ ho ba dzra sid dhya ya thā su khaṁ/</l></lg>
-
-
-<ab>
-[Skt. Reconstruction] tataḥ, oṁ sarvayogacittam utpādayāmīty anena
-</ab>
-
-<lg met="FILL-ME-IN">
-<app><lem><l n="ab">utpādayitvā paramaṁ bodhicittam anuttaram |</l>
-<l n="cd">vajram asya pratiṣṭhāpyaṁ hr̥daye hr̥dayena tu ||</l>
-<l n="c">surate samayas tvaṁ hoḥ vajra siddhya yathāsukham.<!--utpādayitvā ... yathāsukham--></l></lem><note>The same set of the verse and the mantra appears in § 3.3.
+<lg xml:lang="tib">
+  <l n="a">[SVU Tib.] byang chub sems ni bla med pa//</l>
+  <l n="b"> dam pa bdag gis bskyed nas su//</l>
+  <l n="c">de yi snying gar snying po ni//</l>
+  <l n="d">rdo rje rab tu gzhag par bya//</l>
+  <l n="e">su ra te sa ma ya staṁ ho</l>
+  <l n="f">ba dzra sid dhya ya thā su khaṁ/</l></lg>
+<lg met="anuṣṭubh">
+  <l n="a">
+<app><lem>utpādayitvā paramaṁ</l>
+  <l n="b">bodhicittam anuttaram |</l>
+<l n="c">vajram asya pratiṣṭhāpyaṁ</l>
+<l n="d">hr̥daye hr̥dayena tu ||</l>
+<l n="e">surate samayas tvaṁ hoḥ</l>
+<l n="f">vajra siddhya yathāsukham.<!--utpādayitvā ... yathāsukham--></l></lem><note>The same set of the verse and the mantra appears in § 3.3.
   <seg rend="check">CROSS REFERENCE!!</seg>
 </note></app>
 </lg>
+
+<!-- SI checked 2024-10-15-->
 
 <lg met="FILL-ME-IN">
 [SVU Tib.] <seg xml:lang="tib">de nas rje sems dpar byin gyis brlabs la/ dri dang me tog <lb edRef="#SVUTibD" n="44a5"/>
