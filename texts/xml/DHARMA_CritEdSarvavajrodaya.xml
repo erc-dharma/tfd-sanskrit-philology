@@ -10850,24 +10850,19 @@ dam tshig sdom pa yin par gsungs ||</foreign> (D f.183v2–3)</note>
 <listApp type="parallels">
   <app>
   <note sameAs="txt:SDP288:3-4">SDP 288:3–4.</note>
+<note corresp="txt:SVUTib"><lg xml:lang="tib">
+  <l n="a">las kyi rigs mchog chen po la//<l>
+  <l n="b">sdom pa thams cad ldan par ni//</l>
+  <l n="c">yang dag nyid du gzung bar gyis//</l>
+  <l n="d">mchod pa'i las kyang ci nus bya//</l>
+  </lg></note>
+  <note>
+    <title>Vajraśekhara</title>:
+    <foreign>las kyi rigs mchog chen po la ||
+    sdom pa thams cad ldan par ni ||
+    yang dag nyid du gzung bar bgyi ||
+    mchod pa'i las kyang ci nus bya ||</foreign> (D f.183v3)</note>
   </app>
-</listApp>
-<lg xml:lang="tib">
-<l n="a">[SVU Tib.] las kyi rigs mchog chen po la//<l>
-<l n="b">sdom pa thams cad ldan par ni//</l>
-<l n="c">yang dag nyid du gzung bar gyis//</l>
-<l n="d">mchod pa'i las kyang ci nus bya//</l>
-</lg>
-<listApp type="parallels">
-<app>
-<lem>las ... ci nus bya</lem>
-<note>
-<title>Vajraśekhara</title>:
-<foreign>las kyi rigs mchog chen po la ||
-sdom pa thams cad ldan par ni ||
-yang dag nyid du gzung bar bgyi ||
-mchod pa'i las kyang ci nus bya ||</foreign> (D f.183v3)</note>
-</app>
 </listApp>
 
 </div>
