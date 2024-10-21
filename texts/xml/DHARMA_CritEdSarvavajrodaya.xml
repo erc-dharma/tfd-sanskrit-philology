@@ -10167,7 +10167,7 @@ siṁhebhar̥kṣādhyuṣiteṣu ye ca <app>
 </app> ca bhuñjantu jighrantu pibantu cedam ||</l>
 <l n="m">idaṁ ca karmaṁ saphalaṁ juṣantu || iti |</l>
 <note>(Supplied from SDPT pp.\ 280–282)</note>
-</lg>
+</lg></supplied>
 
 
 <!-- (= T144) -->
@@ -10836,8 +10836,22 @@ dam tshig sdom pa yin par gsungs ||</foreign> (D f.183v2–3)</note>
 </listApp>
 </div>
 
+<!-- SI revised (wrap [Skt. reconstruction] with <supplied> tag) from here 2024-10-22 -->
+
 <div type="group">
 <head type="editorial" xml:lang="eng">Karmakula</head>
+
+<supplied reason="lost"><lg met="anuṣṭubh">
+  <l n="a">saṁvaraṁ sarvasaṁyuktaṁ</l>
+  <l n="b">parigr̥hṇīṣva tattvataḥ |</l>
+  <l n="c">pūjākarma yathāśaktyā</l>
+  <l n="d">mahākarmakuloccaye ||</l>
+  </lg></supplied>
+<listApp type="parallels">
+  <app>
+  <note sameAs="txt:SDP288:3-4">SDP 288:3–4.</note>
+  </app>
+</listApp>
 <lg xml:lang="tib">
 <l n="a">[SVU Tib.] las kyi rigs mchog chen po la//<l>
 <l n="b">sdom pa thams cad ldan par ni//</l>
@@ -10855,17 +10869,7 @@ yang dag nyid du gzung bar bgyi ||
 mchod pa'i las kyang ci nus bya ||</foreign> (D f.183v3)</note>
 </app>
 </listApp>
-<lg met="anuṣṭubh">
-<l n="a">saṁvaraṁ sarvasaṁyuktaṁ</l>
-<l n="b">parigr̥hṇīṣva tattvataḥ |</l>
-<l n="c">pūjākarma yathāśaktyā</l>
-<l n="d">mahākarmakuloccaye ||</l>
-</lg>
-<listApp type="parallels">
-<app>
-<note>SDP 288:3–4.</note>
-</app>
-</listApp>
+
 </div>
 
 <!-- to be integrated, parallel from Samvaravidhi, ms. Tokyo University Library
@@ -10920,164 +10924,136 @@ sdom pa'i cho ga'o || closer 13 ||
 <div type="group">
 <head type="editorial" xml:lang="eng">Sins</head>
 <!-- Mūlāpatti (मूलापत्ति).—f. (see āpatti), radical sin -->
-<lg xml:lang="tib">
-<l n="a">[SVU Tib.] gzhan yang bcu bzhi 'di dag ni//</l>
-<l n="b">phas pham <lb edRef="#SVUTibD" n="43b5"/>
- par ni rab tu bshad//</l>
-<l n="c">spang zhing dor bar mi bya'o//</l>
-<l n="d">rtsa ba'i ltung bar shes par bya//</l>
-</lg>
+
+<supplied reason="lost"><lg met="anuṣṭubh">
+  <l n="a">etat pārājikākhyātaś</l>
+  <l n="b">caturdaśa-m-ataḥ param |</l>
+  <l n="c">na tyājyaṁ na ca kṣeptavyaṁ</l>
+  <l n="d">mūlāpattir iti smr̥tam ||</l></lg></supplied>
 <listApp type="parallels">
-<app>
-<lem>gzhan yang ... shes par bya</lem>
-<note>
-<title>Vajraśekhara</title>:
-<foreign>de las gzhan pa bcu bzhi ni ||
-phas pham par ni rab tu bshad ||
-spang zhing dor bar mi bya ste ||
-rtsa ba'i ltung ba zhes bshad do ||</foreign>
-(D f.183v3–4)
-</note>
-</app>
-</listApp>
-<lg met="anuṣṭubh">
-<l n="a">[Skt. Reconstruction] etat pārājikākhyātaś</l>
-<l n="b">caturdaśa-m-ataḥ param |</l>
-<l n="c">na tyājyaṁ na ca kṣeptavyaṁ</l>
-<l n="d">mūlāpattir iti smr̥tam ||</l>
-</lg>
-<listApp type="parallels">
-<app>
-<note>SDP 288:5–6.</note>
-</app>
+  <app>
+  <note sameAs="txt:SDP288;5-6">SDP 288:5–6.</note>
+  <note corresp="#SVUTib"><lg xml:lang="tib">
+    <l n="a">gzhan yang bcu bzhi 'di dag ni//</l>
+    <l n="b">phas pham <lb edRef="#SVUTibD" n="43b5"/>
+     par ni rab tu bshad//</l>
+    <l n="c">spang zhing dor bar mi bya'o//</l>
+    <l n="d">rtsa ba'i ltung bar shes par bya//</l>
+    </lg></note>
+  <note>
+      <title>Vajraśekhara</title>:
+      <foreign>de las gzhan pa bcu bzhi ni ||
+      phas pham par ni rab tu bshad ||
+      spang zhing dor bar mi bya ste ||
+      rtsa ba'i ltung ba zhes bshad do ||</foreign>
+      (D f.183v3–4)
+      </note>
+  </app>
 </listApp>
 
-<lg xml:lang="tib">
-<l n="a">[SVU Tib.] nyin dang mtshan mo lan gsum du//</l>
-<l n="b">nyin re bzhin ni bklag par bya//</l>
-<l n="c">gang tshe nyams na rnal 'byor pa//</l>
-<l n="d">kha na ma tho sbom por 'gyur //</l>
-</lg>
-<listApp type="parallels">
-<app>
-<lem>nyin ... sbom por 'gyur</lem>
-<note>
-<title>Vajraśekhara</title>:
-<foreign>nyin dang mtshan mo lan gsum du ||
-nyin re zhing ni bzla bar byed ||
-gang tshe nyams gyur rnal 'byor pa ||
-kha na ma tho sbom por 'gyur ||</foreign>
-(D f.184v4)
-</note>
-</app>
-</listApp>
-<lg met="anuṣṭubh">
-<l n="a">[Skt. Reconstruction] tridive ca trirātrau ca</l>
+<supplied reason="lost"><lg met="anuṣṭubh">
+<l n="a">tridive ca trirātrau ca</l>
 <l n="b">vartitavyaṁ dine dine |</l>
 <l n="c">yadā hānir bhaved yogī</l>
 <l n="b">sthūlāpattyo bhaviṣyati ||</l>
-</lg>
+</lg></supplied>
 <listApp type="parallels">
 <app>
-<note>SDP 288:7–8.</note>
+<note sameAs="txt:SDP288:7-8"SDP 288:7–8.</note>
+<note corresp="#SVUTib">SVU Tib. <lg xml:lang="tib">
+  <l n="a">nyin dang mtshan mo lan gsum du//</l>
+  <l n="b">nyin re bzhin ni bklag par bya//</l>
+  <l n="c">gang tshe nyams na rnal 'byor pa//</l>
+  <l n="d">kha na ma tho sbom por 'gyur //</l>
+  </lg></note>
+<note>
+    <title>Vajraśekhara</title>:
+    <foreign>nyin dang mtshan mo lan gsum du ||
+    nyin re zhing ni bzla bar byed ||
+    gang tshe nyams gyur rnal 'byor pa ||
+    kha na ma tho sbom por 'gyur ||</foreign>
+    (D f.184v4)
+    </note>
 </app>
 </listApp>
 
-<lg xml:lang="tib">
-<l n="a">[SVU Tib.] khyod kyis srog chags gsad mi bya//</l>
-<l n="b">ma byin par <lb edRef="#SVUTibD" n="43b6"/>
- ni blang mi bya//</l>
-<l n="c">'dod pa log par mi spyad cing//</l>
-<l n="d">brdzun du smra bar mi bya'o//</l>
-</lg>
-<listApp type="parallels">
-<app>
-<lem>khod ... mi bya'o</lem>
-<note>
-<title>Vajraśekhara</title>:
-<foreign>khyod kyi srog chags gsad mi bya ||
-ma byin par yang mi blang ngo ||
-'dod pa log par mi spyad cing ||
-brdzun du smra bar mi bya'o ||</foreign>
-(D f.183v4–5)
-</note>
-</app>
-</listApp>
-<lg met="anuṣṭubh">
-<l n="a">[Skt. Reconstruction] prāṇinaś ca na te ghātyā</l>
+<supplied reason="lost"><lg met="anuṣṭubh">
+<l n="a">prāṇinaś ca na te ghātyā</l>
 <l n="b">adattaṁ naiva cāharet |</l>
 <l n="c">nācaret kāmamithyāyāṁ</l>
 <l n="d">mr̥ṣā naiva ca bhāṣayet ||</l>
-</lg>
+</lg></supplied>
 <listApp type="parallels">
 <app>
-<note>SDP 288:9–10.</note>
+<note sameAs="txt:SDP288:9-10">SDP 288:9–10.</note>
+<note corresp="#SVUTib">SVU Tib. <lg xml:lang="tib">
+  <l n="a">khyod kyis srog chags gsad mi bya//</l>
+  <l n="b">ma byin par <lb edRef="#SVUTibD" n="43b6"/>
+   ni blang mi bya//</l>
+  <l n="c">'dod pa log par mi spyad cing//</l>
+  <l n="d">brdzun du smra bar mi bya'o//</l>
+  </lg></note>
+<note>
+    <title>Vajraśekhara</title>:
+    <foreign>khyod kyi srog chags gsad mi bya ||
+    ma byin par yang mi blang ngo ||
+    'dod pa log par mi spyad cing ||
+    brdzun du smra bar mi bya'o ||</foreign>
+    (D f.183v4–5)
+    </note>
 </app>
 </listApp>
 
-<lg xml:lang="tib">
-<l n="a">[SVU Tib.] phung khrol kun gyi rtsa ba yi//</l>
-<l n="b">chang ni rnam par spang bar bya//</l>
-<l n="c">sems can gdul phyir ma gtogs pa//</l>
-<l n="d">bya ba ma yin thams cad spang//</l>
-</lg>
-<listApp type="parallels">
-<app>
-<lem>phung khrol ... spang</lem>
-<note>
-<title>Vajraśekhara</title>:
-<foreign>phung khrol kun gyi rtsa ba yi ||
-chang ni rnam par spang bar bya ||
-sems can gdul phyir ma gtogs pa || 
-bya ba ma yin thams cad spang ||</foreign>
-(D f.183v5)
-</note>
-</app>
-</listApp>
-<lg met="anuṣṭubh">
-<l n="a">[Skt. Reconstruction] mūlaṁ sarvasyānarthasya</l>
+
+<supplied reason="lost"><lg met="anuṣṭubh">
+<l n="a">mūlaṁ sarvasyānarthasya</l>
 <l n="b">madyapānaṁ vivarjayet |</l>
 <l n="c">akriyāṁ varjayet sarvāṁ</l>
 <l n="d">sattvārthaṁ vinayena ca ||</l>
-</lg>
+</lg></supplied>
 <listApp type="parallels">
 <app>
-<note>SDP 288:11–12.</note>
+<note sameAs="txt:SDP288:11-12">SDP 288:11–12.</note>
+<note corresp="#SDPTib">SVU Tib. <lg xml:lang="tib">
+  <l n="a">phung khrol kun gyi rtsa ba yi//</l>
+  <l n="b">chang ni rnam par spang bar bya//</l>
+  <l n="c">sems can gdul phyir ma gtogs pa//</l>
+  <l n="d">bya ba ma yin thams cad spang//</l>
+  </lg></note>
+<note><title>Vajraśekhara</title>:
+    <lg><l>phung khrol kun gyi rtsa ba yi ||</l>
+    <l>chang ni rnam par spang bar bya ||</l>
+    <l>sems can gdul phyir ma gtogs pa || </l>
+    <l>bya ba ma yin thams cad spang ||</l></lg>
+    (D f.183v5)</note>
 </app>
 </listApp>
 
-<lg xml:lang="tib">
-<l n="a">[SVU Tib.] dam pa nye bar bsten bya zhing//</l>
-<l n="b">rnal 'byor ba rnams bsnyen <lb edRef="#SVUTibD" n="43b7"/>
- bkur bya//</l>
-<l n="c">lus kyi las ni rnam gsum dang//</l>
-<l n="d">ngag gi rnam pa bzhi rnams dang//</l>
-</lg>
-<listApp type="parallels">
-<app>
-<lem>dam pa ... mi phyongs</lem>
-<note>
-<title>Vajraśekhara</title>:
-<foreign>dam pa nye bar bsten bya zhing ||
-  rnal 'byor pa rnams bsnyen bkur bya ||
-  lus kyi las ni rnam gsum dang ||
-  ngag gi rnam pa bzhi rnams dang ||</foreign>
-  (D f.183v5–6)
-</note>
-</app>
-</listApp>
-<lg met="anuṣṭubh">
-<l n="a">[Skt. Reconstruction] sādhūnām upatiṣṭheta</l>
+<supplied reason="lost"><lg met="anuṣṭubh">
+<l n="a">sādhūnām upatiṣṭheta</l>
 <l n="b">yogināṁ paryupāsanam |</l>
 <l n="c">trividhaṁ kāyikaṁ karma</l>
 <l n="d">vacasā ca caturvidham ||</l>
-</lg>
+</lg></supplied>
 <listApp type="parallels">
 <app>
-<note>SDP 288:13–14.</note>
+<note sameAs="txt:SDP288:13-14">SDP 288:13–14.</note>
+<note corresp="#SVUTib">SVU Tib. <lg xml:lang="tib">
+  <l n="a">dam pa nye bar bsten bya zhing//</l>
+  <l n="b">rnal 'byor ba rnams bsnyen <lb edRef="#SVUTibD" n="43b7"/>
+   bkur bya//</l>
+  <l n="c">lus kyi las ni rnam gsum dang//</l>
+  <l n="d">ngag gi rnam pa bzhi rnams dang//</l>
+  </lg></note>
+<note><title>Vajraśekhara</title>:
+    <lg xml:lang="tib"><l n="a">dam pa nye bar bsten bya zhing ||</l>
+      <l n="b">rnal 'byor pa rnams bsnyen bkur bya ||</l>
+      <l n="c">lus kyi las ni rnam gsum dang ||</l>
+      <l n="d">ngag gi rnam pa bzhi rnams dang ||</l></lg>
+      (D f.183v5–6)
+</note>
 </app>
 </listApp>
-
 
 <supplied reason="lost"><lg met="anuṣṭubh">
   <l n="a">manasā triprakāraṁ ca</l>
@@ -11087,14 +11063,14 @@ bya ba ma yin thams cad spang ||</foreign>
   </lg></supplied>
 <listApp type="parallels">
   <app>
-  <note sameAs=""text:SDP288:15-17>SDP 288:15–17. The first hemistich is printed twice in Skorupski's edition.</note>
-  <note corresp="#SVUTib"><title>SVU Tib.</title><lg xml:lang="tib">
+  <note sameAs="txt:SDP288:15-17">SDP 288:15–17. The first hemistich is printed twice in Skorupski's edition.</note>
+  <note corresp="#SVUTib">SVU Tib. <lg xml:lang="tib">
     <l n="a">yid kyi rnam pa gsum dag ni//</l>
     <l n="b">ci nus par ni rjes su skyong//</l><!-- skyong D; skyongs P -->
     <l n="c">theg pa dman pa 'dod mi bya//</l>
     <l n="b">sems can don la rgyab mi phyogs//</l>
     <lg></note>
-      <note>
+  <note>
         <title>Vajraśekhara</title>:
         <foreign>yid kyi rnam pa gsum dag ni ||
         ci nus par ni rjes su skyongs ||
@@ -11120,11 +11096,10 @@ bya ba ma yin thams cad spang ||</foreign>
 </supplied>
 <listApp type="parallels">
 <app>
-<note sameAs="text:SDP288:18-19">SDP 288:18–19. <foreign>na saṃsāraparityāgī na nirvāṇaratiḥ sadā ||
+<note sameAs="txt:SDP288:18-19">SDP 288:18–19. <foreign>na saṃsāraparityāgī na nirvāṇaratiḥ sadā ||
     apamānaṃ na te kāryaṃ devatā na ca guhyake ||</foreign>
 </note>
-<note corresp="#SVUTib">
-<title>SVU Tib.</title>
+<note corresp="#SVUTib">SVU Tib. 
 <lg xml:lang="tib">
 <l n="a">'khor ba dag kyang yongs mi spang//</l>
 <l n="b">rtag tu mya ngan <lb edRef="#SVUTibD" n="44a1"/>
@@ -11146,7 +11121,7 @@ bya ba ma yin thams cad spang ||</foreign>
 
 <supplied reason="lost">
 <lg met="anuṣṭubh">
-<l n="a">[Skt. Reconstruction] na ca cihnaṁ samākramyaṁ</l>
+<l n="a">na ca cihnaṁ samākramyaṁ</l>
 <l n="b">mudrā vāhanam āyudham |</l>
 <l n="c">etat samayam ity uktaṁ</l>
 <l n="d">rakṣitavyaṁ tvayā <app>
@@ -11160,11 +11135,10 @@ bya ba ma yin thams cad spang ||</foreign>
 </supplied>
 <listApp type="parallels">
 <app>
-<note sameAs="text:SDP288:20-21">SDP 288:20–21. <foreign>na ca cihnaṃ samākramyaṃ mudrā vāhanam āyudham ||
+<note sameAs="txt:SDP288:20-21">SDP 288:20–21. <foreign>na ca cihnaṃ samākramyaṃ mudrā vāhanam āyudham ||
   etat samayam ity uktaṃ rakṣitavyaṃ tvayā mate ||</foreign>
 </note>
-<note corresp="#SVUTib">
-<title>SVU Tib.</title>
+<note corresp="#SVUTib">SVU Tib. 
 <lg xml:lang="tib">
 <l n="a">phyag rgya bzhon pa mtshon cha dang//</l>
 <l n="b">mtshan ma 'gom par mi bya'o//</l>
@@ -11203,11 +11177,10 @@ tasyaiva cāpi vaktavyam</l>
 </supplied>
 <listApp type="parallels">
 <app>
-<note sameAs="text:SDP288:22-23">SDP 288:22–23. <foreign>tasyaiva cāpi vaktavyaṃ ācārya tu śṛṇuṣva me ||
+<note sameAs="txt:SDP288:22-23">SDP 288:22–23. <foreign>tasyaiva cāpi vaktavyaṃ ācārya tu śṛṇuṣva me ||
     evam astu kariṣyāmi yathā jñāpayase vibho ||</foreign>
 </note>
-<note corresp="#SVUTib">
-<title>SVU Tib.</title>
+<note corresp="#SVUTib">SVU Tib. 
 <lg xml:lang="tib">
 <l n="a">des kyang 'di skad <lb edRef="#SVUTibD" n="44a2"/>
 brjod par bya ste//</l>
@@ -11224,7 +11197,6 @@ brjod par bya ste//</l>
 </app>
 </listApp>
 
-
 <supplied reason="lost">
 <lg met="anuṣṭubh">
 <l n="a">utpādayāmi paramam</l>
@@ -11232,9 +11204,8 @@ brjod par bya ste//</l>
 </supplied>
 <listApp type="parallels">
 <app>
-<note sameAs="text:SDP288:24">SDP 288:24.</note>
-<note corresp="#SVUTib">
-<title>SVU Tib.</title>
+<note sameAs="txt:SDP288:24">SDP 288:24.</note>
+<note corresp="#SVUTib">SVU Tib. 
 <lg xml:lang="tib">
 <l n="a">ji ltar dus gsum mgon po rnams//</l>
 <l n="b">byang chub tu ni nges mdzad pa//</l>
@@ -11316,15 +11287,13 @@ brjod par bya ste//</l>
 </supplied>
 <listApp type="parallels">
 <app>
-<note sameAs="text:SDP288:24">SDP 288:24.</note>
-<note corresp="#SVUTib">
-<title>SVU Tib.</title>
+<note sameAs="txt:SDP288:24">SDP 288:24.</note>
+<note corresp="#SVUTib">SVU Tib. 
 <p xml:lang="tib">zhes bya ba la sogs pa nas//
 </p>
 </note>
 </app>
 </listApp>
-
 
 <supplied reason="lost">
 <lg met="anuṣṭubh">
@@ -11338,7 +11307,7 @@ brjod par bya ste//</l>
 </supplied>
 <listApp type="parallels">
 <app>
-<note sameAs="text:SDP288:24">SDP 288:24. <foreign>sarvān sthāpayiṣyāmi nirvṛtāv iti /</foreign>
+<note sameAs="txt:SDP288:24">SDP 288:24. <foreign>sarvān sthāpayiṣyāmi nirvṛtāv iti /</foreign>
 </note>
 <note corresp="#SVUTib">SVU Tib. <lg xml:lang="tib">
 <l>sems can mya ngan 'das la <lb edRef="#SVUTibD" n="44a3"/>
@@ -11353,9 +11322,8 @@ brjod par bya ste//</l>
 </p>
 </supplied>
 <listApp type="parallels">
-<note corresp="#SVUTib">
-    SVU Tib. <p xml:lang="tib">
-      ces bya ba'i bar du brjod par bya'o// <!-- <seg rend="check">$\leftarrow$Parallel to the <title>Vajraśekhara</title> ends</seg> -->
+<note corresp="#SVUTib">SVU Tib. 
+    <p xml:lang="tib">ces bya ba'i bar du brjod par bya'o// <!-- <seg rend="check">$\leftarrow$Parallel to the <title>Vajraśekhara</title> ends</seg> -->
 </p>
 </note>
 </listApp>
@@ -11376,15 +11344,15 @@ brjod par bya ste//</l>
 </lem>
 <note>
 <foreign>ācāryo 'nujñām</foreign>;
-    SVU Tib.\ seems to support <foreign>ācāryānujñām</foreign> (<foreign>slob dpon du rjes su gnang ba</foreign>).
+    SVU Tib. seems to support <foreign>ācāryānujñām</foreign> (<foreign>slob dpon du rjes su gnang ba</foreign>).
 </note>
 </app> ācāryābhiṣekaṁ ca na kuryāt.</p>
 </supplied>
 <listApp type="parallels">
 <app>
-<note sameAs="text:SDP288:25-26">SDP 288:25-26. yas tu saṃvaraṃ na gṛhṇāti tasya praveśamātram eva dātavyam /
-      adya tvam ityādi na brūyād ācāryābhiṣekaṃ ca na kuryāt /</note>
-<note corresp="#SVUTib">SVU Tib.<p xml:lang="tib"> gang zhig sdom pa 'dzin par mi byed pa de la/ deng khyod ces bya ba la sogs pa yang brjod par mi bya ste/ slob dpon du rjes su gnang ba dang/ dbang bskur ba yang mi bya'o// 'jug pa tsam cig byed du gzhug go//
+<note sameAs="txt:SDP288:25-26">SDP 288:25-26. <foreign>yas tu saṃvaraṃ na gṛhṇāti tasya praveśamātram eva dātavyam /
+      adya tvam ityādi na brūyād ācāryābhiṣekaṃ ca na kuryāt /</foreign></note>
+<note corresp="#SVUTib">SVU Tib. <p xml:lang="tib">gang zhig sdom pa 'dzin par mi byed pa de la/ deng khyod ces bya ba la sogs pa yang brjod par mi bya ste/ slob dpon du rjes su gnang ba dang/ dbang bskur ba yang mi bya'o// 'jug pa tsam cig byed du gzhug go//
 </p>
 </note>
 </app>
@@ -11395,9 +11363,9 @@ brjod par bya ste//</l>
 </supplied>
 <listApp type="parallels">
 <app>
-<note sameAs="text:SDP288:27">SDP 288:27.</note>
-<note corresp="#SVUTib">SVU Tib. de nas oṁ <edRef="#SVUTibD" lb n="44a4"/>
- sa rba yo ga tsi tta au tpā da yā mi zhes bya ba 'dis/></edRef>
+<note sameAs="txt:SDP288:27">SDP 288:27.</note>
+<note corresp="#SVUTib">SVU Tib. <foreign>de nas oṁ <edRef="#SVUTibD" lb n="44a4"/>
+ sa rba yo ga tsi tta au tpā da yā mi zhes bya ba 'dis/</foreign>
 </note>
 </app>
 </listApp>
@@ -11414,7 +11382,7 @@ brjod par bya ste//</l>
 </supplied>
 <listApp type="parallels">
 <app>
-<note sameAs="text:SDP288:28-30">SDP 288:28–30</note>
+<note sameAs="txt:SDP288:28-30">SDP 288:28–30</note>
 <note>The same set of six <foreign>pāda</foreign>s appears in <seg rend="check">§3.3</seg><!-- CROSS REFERENCE!!-->.</note>
 <note corresp="#SVUTib">SVU Tib. <lg xml:lang="tib">
 <l n="a">byang chub sems ni bla med pa//</l>
@@ -11439,7 +11407,7 @@ brjod par bya ste//</l>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP290:1–3">SDP 290:1–3</note>
-<note corresp="#SVUTib">
+<note corresp="#SVUTib">SVU Tib. 
 <p xml:lang="tib">de nas rje sems dpar byin gyis brlabs la/ dri dang me tog <lb edRef="#SVUTibD" n="44a5"/>
  la sogs pas mchod de/ me tog gi phreng ba gdags shing/ gdong dri zhim par byas la/ yon gyi mchog blangs la/ des phyi rol na gnas pa'i bum pa'i chus dbang bskur la/ sa ma ya stwaṁ zhes bya ba 'dis/ rdo rje sems ma'i phyag rgya 'ching du gzhug go//</p>
 </note>
@@ -11483,6 +11451,7 @@ brjod par bya ste//</l>
 </app>
 </listApp>
 
+<!-- SI revised (wrap [Skt. reconstruction] with <supplied> tag) to here 2024-10-22 -->
 <!-- SI RT AG checked down to here 2024-10-15-->
 
 <lg met="FILL-ME-IN">
