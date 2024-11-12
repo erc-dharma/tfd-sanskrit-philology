@@ -11423,8 +11423,7 @@ brjod par bya ste//</l>
 <app>
 <note corresp="txt:SDP290:11-12">SDP 290:11–12 <foreign>punaḥ pūrvadvāreṇa praveśyaivaṁ vadet | </foreign>
 </note>
-<note corresp="txt:STTS0220">STTS 220 <foreign>tataḥ praveśyaivaṁ vadet |</foreign>
-</note>
+<note corresp="txt:STTS0220">STTS 220 <foreign>tataḥ praveśyaivaṁ vadet |</foreign></note>
 <note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">de nas yang <lb edRef="#SVUTibD" n="44a7"/>
  shar phyogs kyi sgo nas/ de bzhin du bcug la/ 'di skad ces brjod par bya ste/</foreign>
 </note>
@@ -11434,66 +11433,48 @@ brjod par bya ste//</l>
 <!-- SI revised (wrap [Skt. reconstruction] with <supplied> tag) to here 2024-10-22 -->
 <!-- SI RT AG checked down to here 2024-10-15-->
 
-<lg met="FILL-ME-IN">
-<l n="ab">
-<seg xml:lang="tib">deng khyod de bzhin gshegs pa thams cad kyi rigs su zhugs kyis/ ngas khyod la ye shes gang gis de bzhin gshegs pa thams cad 'grub pa yang thob na/ dngos grub gzhan lta smos kyang <app>
-<lem>ci dgos te/</lem>
-<rdg>ci <lb edRef="#SVUTibD" n="44b1"/>
- dgos te</rdg>
-</app> de lta bu'i rdo rje ye shes bskyed par bya yis/ khyod kyis dkyil 'khor chen po ma mthong ba rnams la smra bar ma byed cig/ khyod dam tshig nyams par gyur ta re/</seg>
-</l>
-</lg>
-<lg met="FILL-ME-IN">
-<l n="ab">adya tvaṁ sarvatathāgatakulapraviṣṭaḥ.
-tad ahaṁ te vajrajñānam utpādayiṣyāmi, yena jñānena tvaṁ sarvatathāgatasiddhim api prāpsyasi.
-kim utānyāḥ siddhīḥ.
-na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo <seg rend="check">vyatheti</seg>.
-</l>
-</lg>
-<!-- SDPT (p.290): *adya tvaṁ (em.; <foreign>abhyarcya</foreign> ed.) sarvatathāgatakule praviṣṭas tad ahaṁ tu vajrajñānam utpādayiṣyāmi | yena jñānena sarvatathāgatasiddhir api prāpsyase | kim anyā siddhiḥ | na ca tvayādr̥ṣṭamaṇḍalasya purato vaktavyam | mā te samayo vyathed iti |-->
-<!--STTS 220:
-adya tvaṁ sarvatathāgatakulapraviṣṭaḥ | tad ahaṁ te vajrajñānam utpādayiṣyāmi, yena jñānena tvaṁ sarvatathāgatasiddhim api prāpsyasi | kim utānyāḥ siddhīḥ ||
-na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo vyathed iti ||-->
+<supplied reason="lost">
+  <p>adya tvaṁ sarvatathāgatakule praviṣṭaḥ | tad ahaṁ te vajrajñānam utpādayiṣyāmi, yena jñānena tvaṁ sarvatathāgata<app><lem rend="hyphenleft">siddhir</lem><note>While STTS and SDP read <foreign>-siddhir</foreign>, we require an acc. form and all later manuals (KSP, GSMV, VĀ, etc.) transmit <foreign>-siddhīr</foreign>, the reading we adopt.</note></app> api prāpsyasi | kim utānyāḥ siddhīḥ | na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo vyathed iti |</p>
+  </supplied>
+  <listApp type="parallels">
+    <app>
+    <note sameAs="txt:STTS0220">STTS 220 <foreign>adya tvaṁ sarvatathāgatakule (ms.; <foreign>-kula-</foreign> H.) <foreign>praviṣṭaḥ | tad ahaṁ te vajrajñānam utpādayiṣyāmi, yena jñānena tvaṁ sarvatathāgatasiddhir (ms.; <foreign>-siddhim</foreign> H.) api prāpsyasi | kim utānyāḥ siddhīḥ || na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo vyathed iti ||</foreign>
+    </note>
+    <note corresp="txt:GuSaMaVi:295">GSMV 294 <foreign>adya tvaṁ sarvatathāgatakule praviṣṭaḥ | 
+      tad ahaṁ te vajrajñānam utpādayāmi yena jñānena tvaṁ sarvatathāgatasiddhīr api prāpsyasi kim utānyāḥ siddhīḥ | na ca tvayādr̥ṣṭamaṇḍalasya purato vaktavyaṁ | mā te samayo vyathed iti tad dhr̥di vajram āsthāpya |</foreign></note>
+    <note corresp="txt:SDP290:12-16">SDP 290:12–16 <foreign>adya tvaṁ</foreign> (em.; <foreign>abhyarcya</foreign> ed.) <foreign>sarvatathāgatakule praviṣṭas 
+      tad ahaṁ tu vajrajñānam utpādayiṣyāmi | yena jñānena sarvatathāgatasiddhīr (em.; -<foreign>siddhir</foreign> ed.) api prāpsyase | kim anyā siddhiḥ | na ca tvayādr̥ṣṭamaṇḍalasya purato vaktavyam | mā te samayo vyathed iti |</foreign></note>
+    <note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">deng khyod de bzhin gshegs pa thams cad kyi rigs su zhugs kyis/ ngas khyod la ye shes gang gis de bzhin gshegs pa thams cad 'grub pa yang thob na/ dngos grub gzhan lta smos kyang ci <lb edRef="#SVUTibD" n="44b1"/> dgos te de lta bu'i rdo rje ye shes bskyed par bya yis/ khyod kyis dkyil 'khor chen po ma mthong ba rnams la smra bar ma byed cig/ khyod dam tshig nyams par gyur ta re/</foreign></note>
+  </app>
+    </listApp>
 
-<lg met="FILL-ME-IN">
-<l n="ab">
+<supplied reason="lost">
+<p>tataḥ svayaṁ vajrācāryaḥ sattvavajrimudrām avamūrdhamukhīṁ baddhvā vajraśiṣyasya mūrdhni sthāpyaivaṁ vadet | ayaṁ te samayavajro mūrdhānaṁ sphālayed, yadi tvaṁ kasya cid <app><lem>brūyāt</lem><note>One expects <foreign>brūyāḥ</foreign> but both STTS and SDP transmit <foreign>brūyāt</foreign>, perhaps an Aiśa form.</note></app><!-- em. brūyāḥ ? but all witnesses have t.--> |</p>
+</supplied>
 <listApp type="parallels">
 <app>
-<lem>de nas ... klad pa 'gas par 'gyur ro</lem>
-<note>SDPT (p.290): 
-tataḥ svayaṁ vajrācāryaḥ krodhaterintirīm evaṁ ūrdhvamukhīṁ baddhvā
-vajraṁ śiṣyasya mūrdhni sthāpyaivaṁ vadet | ayaṁ te samayavajro mūrdhniṁ
-te sphārayed yadi tvaṁ kasyacid brūyāḥ | tatas tayaiva
-samayamudrayodakaṁ śayathā hr̥dayena satkr̥tya parijapya tasmai
-vajraśiṣyāya pāyayed iti | tatredaṁ śayathāhr̥dayam |
-
-STTS 221–222:
-tataḥ svayaṁ vajrācāryaḥ sattvavajrimudrām avamūrdhamukhīṁ baddhvā vajraśiṣyasya mūrdhni sthāpyaivaṁ vadet |:
-ayaṁ te samayavajro mūrdhānaṁ sphālayed, yadi tvaṁ kasya cid brūyāt |.
-tatas tathaiva samayamudrayodakaṁ śapathāhr̥dayena sakr̥t parijāpya tasmai śiṣyāya pāyayed iti |.
-tatredaṁ śapathāhr̥dayaṁ bhavati |
-
-</note>
+  <note sameAs="txt:STTS0221">STTS 221<!--: <foreign>tataḥ svayaṁ vajrācāryaḥ sattvavajrimudrām avamūrdhamukhīṁ baddhvā vajraśiṣyasya mūrdhni sthāpyaivaṁ vadet | ayaṁ te samayavajro mūrdhānaṁ sphālayed, yadi tvaṁ kasya cid brūyāt |</foreign>--></note>
+  <note corresp="txt:SDP290:17-20">SDP 290:17–20 <foreign>tataḥ svayaṁ vajrācāryaḥ krodhaterintirīm evaṁ ūrdhvamukhīṁ baddhvā vajraṁ śiṣyasya mūrdhni sthāpyaivaṁ vadet | ayaṁ te samayavajro mūrdhniṁ
+te sphārayed yadi tvaṁ kasya cid brūyāt |</foreign></note>
+<note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">de nas slob dpon rang nyid kyis sems ma rdo rje ma'i phyag rgya kha thur du bstan pa dang/ gyen du bstan pa bcings <lb edRef="#SVUTibD" n="44b2"/> la rdo rje slob ma'i spyi bor bzhag la/ 'di skad ces brjod par bya'o// 'di ni khyod kyi rdo rje’i dam tshi gyin gyis | khal te 'ga' zhig la smras na glad pa 'gas par 'gyur ro//</foreign></note>
 </app>
-</listApp>[SVU Tib.] <seg xml:lang="tib">de nas slob dpon rang nyid kyis sems ma rdo rje ma'i phyag rgya kha thur du bstan pa dang/ gyen du bstan pa bcings <lb edRef="#SVUTibD" n="44b2"/>
-la rdo rje slob ma'i spyi bor bzhag la/ 'di skad ces brjod par bya'o//</seg>
-</l>
-</lg>
-<lg met="FILL-ME-IN">
-<l n="ab">
-<seg xml:lang="tib">'di ni khyod kyi rdo rje'i dam tshig yin gyis/ gal te 'ga' zhig la smras na klad pa 'gas par 'gyur ro// </seg>
-</l>
-</lg>
+</listApp>
 
-<lg met="FILL-ME-IN">
-<l n="ab">[Skt. Reconstruction] <hi rend="bold">[STTS 221–222]</hi>
-tataḥ svayaṁ vajrācāryaḥ sattvavajrīmudrām avamūrdhamukhīṁ ūrdhvamukhīṁ ca baddhvā vajraśiṣyasya mūrdhni sthāpyaivaṁ vadet.</l>
-</lg>
+<supplied reason="lost">
+  <p>tatas tathaiva samayamudrayodakaṁ śapathāhr̥dayena sakr̥t parijāpya tasmai śiṣyāya pāyayed iti |
+  tatredaṁ śapathāhr̥dayaṁ bhavati |</p>
+  </supplied>
+<listApp type="parallels">
+  <app>
+    <note sameAs="txt:STTS0221-0222">STTS 221–222 
+     <foreign>tatas tathaiva samayamudrayodakaṁ śapathāhr̥dayena sakr̥t parijāpya tasmai śiṣyāya pāyayed iti | tatredaṁ śapathāhr̥dayaṁ bhavati |</foreign></note>
+     <note corresp="txt:SDP290:20-22">SDP 290:20-22 <foreign>tatas tayaiva samayamudrayodakaṁ śayathāhr̥dayena satkr̥tya parijapya tasmai vajraśiṣyāya pāyayed iti | tatredaṁ śayathāhr̥dayam |</foreign></note>
+     <note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">
+      de nas dam tshig gi phyag rgya de nyid dang/ mna'i snying po 'di lan cig bzlas pa'i chu rdo rje slob ma 'thung <lb edRef="#SVUTibD" n="44b3"/> du bcug la/ 'di skad ces brjod par bya'o//</foreign></note>
+  </app>
+  </listApp>
 
-<lg met="FILL-ME-IN">
-<l n="ab">ayaṁ te samayavajro mūrdhānaṁ sphālayed, yadi tvaṁ kasya cid <seg rend="check">brūyāḥ</seg>.
-</l>
-</lg>
+<!-- SI RT AG checked down to here 2024-11-12-->
 
 <lg met="FILL-ME-IN">
 <l n="ab">
@@ -11512,9 +11493,7 @@ vajrodaka ṭhaḥ ||
 </note>
 </app>
 </listApp>
-[SVU Tib.]de nas dam tshig gi phyag rgya de nyid dang/ ma na'i snying po 'di lan cig bzlas pa'i chu rdo rje slob ma 'thung <lb edRef="#SVUTibD" n="44b3"/>
-du bcug la/ 'di skad ces brjod par bya'o// </l>
-<l n="cd">de la dam tshig gi snying po ni 'di yin te/</l>
+[SVU Tib.]<l n="cd">de la dam tshig gi snying po ni 'di yin te/</l>
 </lg>
 <lg xml:lang="tib">
 <l n="ab">rdo rje sems dpa' deng khyod kyi// snying la yang dag zhugs par mdzad//</l>
