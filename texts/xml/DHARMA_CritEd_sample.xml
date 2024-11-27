@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng-Latn">Test File</title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename">0001</idno>
+</publicationStmt>
+<sourceDesc>
+<msDesc><msIdentifier><repository>Repo</repository></msIdentifier></msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="edition" xml:lang="san-Latn">
+
+
+<lg n="1.1" met="anuṣṭubh">
+
+    <ab type="speaker"><app><lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">anarthayajña uvāca</lem>
+    <witDetail wit="#msNa" type="pc"/>
+    <rdg wit="#msNa"/>
+            <witDetail wit="#msNa" type="ac"/></app>
+            </ab>
+
+
+
+<l n="a"><app>
+    <lem wit="#msCb #msNa #msNb #msNc">atisaṃśayakaṣṭaṃ te</lem>
+    <rdg wit="#msCa">atiśaṃsa<unclear>ya</unclear>kaṣṭan te</rdg>
+    <rdg wit="#msCc #Ed">atiśaṃsayakaṣṭam me</rdg>
+</app></l>
+<l n="b">pṛṣṭo 'haṃ <app>
+    <lem wit="#msCa #msCb #msNa #msNb #msNc #Ed">dvijasattama</lem>
+    <rdg wit="#msCc">ca dvijottamaḥ</rdg>
+</app>
+</l>
+
+
+
+<l n="c">durvi<app><lem wit="#msCa #msCb #msNa #msNc" rend="circlefront">jñeyaṃ</lem><rdg wit="#msCc #msNb #Ed" rend="circlefront">jñeya</rdg></app>
+        <app><lem wit="#msCa #msNa #msNb #msNc #Ed">manuṣyais tu</lem><rdg wit="#msCb">manuṣaiś ca</rdg>
+    <rdg wit="#msCc">maṇukṣe<unclear>ptu</unclear></rdg>
+</app></l>
+<l n="d">devadānavapannagaiḥ</l>
+</lg>
+
+
+</div>
+</body>
+</text>
+</TEI>
+
