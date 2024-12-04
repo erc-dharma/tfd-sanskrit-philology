@@ -10519,41 +10519,45 @@ slob dpon chen po bdag la stsol ||</foreign>
 <l n="t">sarvasattvārthakāraṇāt ||</l>
 </lg>
 
+<!-- SI have cleaned the file up to here on 2024-12-04 -->
 <!-- RT, SI and AG have cleaned the file down to here on 2024-09-10 -->
-<ab>
-[SVU Tib.] <seg xml:lang="tib">de nas slob dpon gyis rigs thams cad la gsol ba gdab par bya ste/</seg>
-</ab>
-<ab>
-[Skt. Reconstruction] tata ācāryeṇa sarvakul<app>
+<supplied><p>tata ācāryeṇa sarvakul<app>
 <lem rend="hyphenleft">
 <seg rend="check">ādhyeṣaṇā</seg>
 </lem>
 <note>SVU Tib. (<foreign>gsol ba gdab par bya</foreign>) supports <foreign>-adhyeṣaṇā</foreign>; SDP supports <foreign>-vijñaptiḥ</foreign>.
 </note>
 </app> kāryā |
-</ab>
+</p></supplied>
+<listApp type="parallels"><app>
+<note sameAs="txt:SDP286:14">SDP 286:14 <foreign>tata ācāryeṇa sarvakulavijñaptiḥ kāryā /</foreign>
+</note>
+<note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">de nas slob dpon gyis rigs thams cad la gsol ba gdab par bya ste/</foreign>
+</note>
+</app></listApp>
 
-<lg met="anuṣṭubh">
-<l n="a">[Skt. Reconstruction] ayaṁ <seg rend="check">evāmukanāmā</seg>
+
+
+<supplied reason="lost"><lg met="anuṣṭubh">
+<l n="a">ayam <seg rend="check">evāmukanāmā</seg>
 </l>
 <l n="b">bodhicittaparigrahaḥ |</l>
 <l n="c">icchate guhyacakre 'smin</l>
 <l n="d">
 <app>
 <lem type="emn">praveṣṭuṁ</lem>
-<rdg wit="#MSK">
-<foreign>praveṣṭāṁ</foreign>
-</rdg>
-<note>SVU Tib. <foreign>'jug par 'tshal</foreign>
+<rdg wit="#SDP">praveṣṭāṁ</rdg>
+<note corresp="SVUTib">SVU Tib. <foreign>'jug par 'tshal</foreign>
 </note>
 </app> samayasaṁvaram ||</l>
-</lg>
+</lg></supplied>
 <listApp type="parallels">
 <app>
+<note sameAs="txt:SDP286:15-16">SDP 286:15-16<foreign>ayam evāmukanāmnā bodhicittaparigrahaḥ //
+icchate guhyacakre 'smin praveṣṭāṁ samayasaṁvaram //</foreign></note>
 <note corresp="txt:SVUTib">SVU Tib.<lg xml:lang="tib">
 <l n="a">che ge zhes bya 'di nyid ni//</l>
-<l n="b">byang chub sems ni <lb edRef="#SVUTibD" n="43a7"/>
- yongs 'dzin zhing//</l>
+<l n="b">byang chub sems ni <lb edRef="#SVUTibD" n="43a7"/>yongs 'dzin zhing//</l>
 <l n="c">dam tshig sdom dang gsang ba yi//</l>
 <l n="d">'khor lo 'dir yang 'jug par 'tshal//</l>
 </lg></note>
@@ -10567,6 +10571,7 @@ tata ācāryeṇa vaktavyam |
 </p></supplied>
 <listApp type="parallels">
 <app>
+<note sameAs="txt:SDP286:17"> SDP 286:17</note>
 <note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">de nas yang slob dpon gyis 'di skad ces brjod par bya ste/</foreign></note>
 <note>
 <title>Vajraśekhara</title>
@@ -10574,7 +10579,6 @@ tata ācāryeṇa vaktavyam |
 </app>
 </listApp>
 
-<!-- SI 2024-12-04 -->
 <supplied reason="lost"><p> icchasi tvaṁ mahātman | mahāguhyakulaṁ śuddhaṁ rahasyaṁ parigr̥hnitum || tenaivaṁ vācyam icchāmy aham iti |</p></supplied>
 <listApp type="parallels">
 <app>
