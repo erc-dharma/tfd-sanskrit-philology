@@ -10226,21 +10226,38 @@ gshegs pa thams cad dkyil 'khor re ba thams cad yang dag par rdzogs par gyur pa/
 <p type="reconstructed"> santi ca punar, <seg rend="check">bhagavantaḥ</seg>, dhārmikāḥ sattvāḥ sarvatathāgataśīlasamādhiprajñottamasiddhyupāyair buddhabodhiṁ prārthayanto dhyānavimokṣādibhir bhūmibhir yatantaḥ kliśyante,
 teṣām atraiva vajradhātumahāmaṇḍalapraveśamātreṇaiva sarvatathāgatatvam api na durlabhaṁ, kim aṅga punar <seg rend="check">anyāḥ siddhīr</seg> iti [STTS 213]  <hi rend="bold">[$\leftarrow$ parallel to STTS ends]</hi> vijñāpayet.
 </p>
+
 <!-- argr2mime: we must propose a manner to encode beginning and end of parallels and to mark that a given segment of text is reconstructed based on a parallel -->
+<!-- SI have cleaned the file up to here on 2024-12-05 -->
 
-<p xml:lang="tib">[SVU Tib.] de nas slob ma gzhug par bya ste/ de la bslab pa'i <lb edRef="#SVUTibD" n="42b7"/>
- 
-gzhi lnga yongs su gzung pa'i dge bsnyen nam/ dge sbyong ngam/ dge slong gi sdom pa yongs su blangs pa/ slob dpon du dbang bskur bar 'os pa/ slob dpon gyi zhabs gnyis la phyag byas te/ 'di skad ces brjod par bya'o//
-</p>
-<p type="reconstructed"><!-- source? --> ataḥ śiṣyān praveśayet. tatra pañcaśikṣāpadaparigr̥hīteno<seg rend="check">pāsakena</seg> śrāmaṇerakabhikṣusaṁvaragr̥hītena vācāryābhiṣekārhenācāryapādayoḥ praṇipatyaivaṁ vaktavyam.</p>
-<!-- SDPT
-tataḥ śiṣyān praveśayet / tatra pañcaśikṣāpadaparigr̥hītena śrāmaṇerakabhikṣusaṁvaragr̥hītena vā / ācāryābhiṣekārhenācāryapādayoḥ praṇipatyaivaṁ vaktavyam / tvaṁ me śāstā mahārataḥ //
-icchāmy ahaṁ mahānātha mahābodhinayaṁ dr̥ḍham //
-dehi me samayatattvaṁ saṁvaraṁ ca dadasva me // iti / [ed. Skor. 284]
--->
+<supplied reason="lost"><p><!-- source? --> ataḥ śiṣyān praveśayet. tatra pañcaśikṣāpadaparigr̥hīteno<seg rend="check">pāsakena</seg> śrāmaṇerakabhikṣusaṁvaragr̥hītena vācāryābhiṣekārhenācāryapādayoḥ praṇipatyaivaṁ vaktavyam.</p></supplied>
+<listApp type="parallels"><app>
+<note sameAs="txt:SDP284:17-19">tataḥ śiṣyān praveśayet | tatra pañcaśikṣāpadaparigr̥hītena śrāmaṇerakabhikṣusaṁvaragr̥hītena vā | ācāryābhiṣekārhenācāryapādayoḥ praṇipatyaivaṁ vaktavyam |</note>
+<note corresp="txt:SVUTib"> SVU Tib. <foreign xml:lang="tib">de nas slob ma gzhug par bya ste/ de la bslab pa'i <lb edRef="#SVUTibD" n="42b7"/> gzhi lnga yongs su gzung pa'i dge bsnyen nam/ dge sbyong ngam/ dge slong gi sdom pa yongs su blangs pa/ slob dpon du dbang bskur bar 'os pa/ slob dpon gyi zhabs gnyis la phyag byas te/ 'di skad ces brjod par bya'o//</foreign></note>
+</app></listApp>
 
-<lg xml:lang="tib">
-<l n="a">[SVU Tib.] dga' chen khyod bdag ston pas <lb edRef="#SVUTibD" n="43a1"/>
+<supplied reason="lost"><lg met="anuṣṭubh">
+<l n="a"><app><lem>
+<seg rend="check">samanvāhara ācārya</seg><!-- Negi (Tibetan-Sanskrit)
+      kri. samanvāharatu — samanvāharantu māṁ buddhāḥ kr̥pākāruṇyacetasaḥ su.pra.7kha/13; སློབ་དཔོན་དགོངས་སུ་གསོལ་ samanvāhara ācārya ma.vyu.8701; vimr̥śyatām — vimr̥śyatāmapi ca tāvanmahārāja jā.mā.20/10.-->
+</lem><note>Possibly this <foreign>pāda</foreign> in SVU Tib., absent in the SPPT parallel, was inserted by the translators. We have considered the reconstructionb adhyeṣayāmi ācāryaṁ, which would find a partial parallel in KSP (opening part of the pratiṣṭhā): <foreign>adhyeṣayāmi he nātha tvaṁ me śāstā mahāvibho <sic>sarvasattvān saṁsārasāgarād uddhr̥tya</sic> buddhatve pratiṣṭhāpanāya yuṣmākaṁ pūjanāya ca vihārādipratiṣṭhāṁ mahāmaṇḍalavartanaṁ vā homaṁ vā kariṣyāmi. yuṣmābhir yat kartavyaṁ tat karaṇīyam</foreign>. But the reconstruction we have adopted relies on Mahāvyutpatti.</note>
+</app>
+</l>
+<l n="b">tvaṁ me śāstā mahārata |</l>
+<l n="c">icchāmy ahaṁ mahānātha</l>
+<l n="d">mahābodhinayaṁ dr̥ḍham |</l>
+<l n="e">dehi me samayaṁ tattvaṁ</l>
+<l n="f">saṁvaraṁ ca dadasva ma iti ||</l>
+</lg></supplied>
+<listApp type="parallels">
+<app>
+<note sameAs="txt:SDP284:17-22">SDP 284:19-22
+<foreign>
+tvaṁ me śāstā mahārataḥ ||
+icchāmy ahaṁ mahānātha mahābodhinayaṁ dr̥ḍham ||
+dehi me samayatattvaṁ saṁvaraṁ ca dadasva me || iti |</foreign></note>
+<note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
+<l n="a">dga' chen khyod bdag ston pas <lb edRef="#SVUTibD" n="43a1"/>
  bas/</l>
 <l n="b">slob dpon khyod ni dgongs su gsol//</l>
 <l n="c">byang chub sems dpa'i tshul brtan pa//</l>
@@ -10252,46 +10269,15 @@ dehi me samayatattvaṁ saṁvaraṁ ca dadasva me // iti / [ed. Skor. 284]
 </l>
 <l n="f">sdom pa rnams kyang bdag la stsol//</l>
 <note>This verse is also attested in <title>Vajraśekhara</title> D 182b.</note>
-</lg>
-<!-- Vajrasikhara D 182b!: 
+</lg></note>
+<note><title>Vajrasikhara</title> D 182b!: <foreign>
   dga' chen khyod bdag ston pa bas/ /slob dpon khyod ni dgongs su gsol/ /
   byang chub sems dpa'i tshul brtan pa/ /mgon po chen po bdag 'tshal lo/ /
-  dam tshig de nyid stsal du gsol/ /sdom pa rnams kyang bdag la stsol/ /
--->
-
-<lg met="anuṣṭubh">
-<l n="a">[Skt. Reconstruction]
-<app>
-<lem>
-<seg rend="check">samanvāhara ācārya</seg><!-- Negi (Tibetan-Sanskrit)
-      kri. samanvāharatu — samanvāharantu māṁ buddhāḥ kr̥pākāruṇyacetasaḥ su.pra.7kha/13; སློབ་དཔོན་དགོངས་སུ་གསོལ་ samanvāhara ācārya ma.vyu.8701; vimr̥śyatām — vimr̥śyatāmapi ca tāvanmahārāja jā.mā.20/10.-->
-<listApp type="parallels">
-<app>
-<lem>samanvāhara ācārya</lem>
-<note>Possibly this <foreign>pāda</foreign> in SVU Tib., absent in the SPPT parallel, was inserted by the translators. We have considered the reconstructionb adhyeṣayāmi ācāryaṁ, which would find a partial parallel in KSP (opening part of the pratiṣṭhā): <foreign>adhyeṣayāmi he nātha tvaṁ me śāstā mahāvibho <sic>sarvasattvān saṁsārasāgarād uddhr̥tya</sic> buddhatve pratiṣṭhāpanāya yuṣmākaṁ pūjanāya ca vihārādipratiṣṭhāṁ mahāmaṇḍalavartanaṁ vā homaṁ vā kariṣyāmi. yuṣmābhir yat kartavyaṁ tat karaṇīyam</foreign>. But the reconstruction we have adopted relies on Mahāvyutpatti.</note>
+  dam tshig de nyid stsal du gsol/ /sdom pa rnams kyang bdag la stsol/ /</foreign></note>
 </app>
 </listApp>
-</lem>
-</app>
-</l>
-<l n="b">tvaṁ me śāstā mahārata |</l>
-<l n="c">icchāmy ahaṁ mahānātha</l>
-<l n="d">mahābodhinayaṁ dr̥ḍham |</l>
-<l n="e">dehi me samayaṁ tattvaṁ</l>
-<l n="f">saṁvaraṁ ca dadasva ma iti ||</l>
-</lg>
-<!-- SDPT
-tataḥ śiṣyān praveśayet / tatra pañcaśikṣāpadaparigr̥hītena śrāmaṇerakabhikṣusaṁvaragr̥hītena vā / ācāryābhiṣekārhe nācāryapādayoḥ praṇipatyaivaṁ vaktavyam / 
-tvaṁ me śāstā mahārataḥ //
-icchāmy ahaṁ mahānātha mahābodhinayaṁ dr̥ḍham //
-dehi me samayatattvaṁ saṁvaraṁ ca dadasva me // iti / [ed. Skor. 284]
--->
 
-<p xml:lang="tib">[SVU Tib.] de nas rdo rje slob dpon gyis// rdo rje srung ba yongs su <lb edRef="#SVUTibD" n="43a2"/>
- 
-bzlas la/ stod g-yogs dang smad g-yogs bskon zhing/ rdo rje gnod sbyin dang/ rdo rje lcags kyu la sogs pa'i sgo srung bzhis/ bzlas pa'i gdong g-yogs bcings la/ phyag bzhi byed du gzhug par bya'o//
-</p>
-<p type="reconstructed"> tata <seg rend="check">vajrācāryo</seg>
+<supplied reason="lost"><p>tata <seg rend="check">vajrācāryo</seg>
 <app>
 <lem>vajra<seg rend="check">rakṣa</seg>parijaptanivasanottarīyaṁ</lem>
 <note>Thus SVU Tib. Note that SVU Tib. reads <foreign>rdo rje srung ba</foreign> =<foreign>vajrarakṣa</foreign>) while in SDPT we read
@@ -10303,23 +10289,33 @@ bzlas la/ stod g-yogs dang smad g-yogs bskon zhing/ rdo rje gnod sbyin dang/ rdo
 <note>thus SDPT; in SVU Tib. we find words that seem to represent <foreign>vajrayakṣavajrāṁkuśādi-</foreign>.
 </note>
 </app>dvārapālacatuṣṭayaparijaptamukhaveṣṭanaṁ śiṣyaṁ kr̥tvā catuḥpraṇāmaṁ kārayet |
-</p>
-<!-- 
-tato vajrayakṣaparijaptaṁ nīlavastranivasanottarīyaṁ vajrāṁkuśādidvārapālacatuṣṭayaparijaptaṁ mukhaveṣṭanaṁ śiṣyaṁ kr̥tvā catuḥpraṇāmaṁ kārayet / [ed. Skor. 284]
--->
+</p></supplied>
+<listApp type="parallels"><app>
+<note sameAs="txt:SDP284:23-25">SDP 284:23-25: <foreign>tato vajrayakṣaparijaptaṁ nīlavastranivasanottarīyaṁ vajrāṁkuśādidvārapālacatuṣṭayaparijaptaṁ mukhaveṣṭanaṁ śiṣyaṁ kr̥tvā catuḥpraṇāmaṁ kārayet |</foreign></note>
+<note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">de nas rdo rje slob dpon gyis// rdo rje srung ba yongs su <lb edRef="#SVUTibD" n="43a2"/>
+ bzlas la/ stod g-yogs dang smad g-yogs bskon zhing/ rdo rje gnod sbyin dang/ rdo rje lcags kyu la sogs pa'i sgo srung bzhis/ bzlas pa'i gdong g-yogs bcings la/ phyag bzhi byed du gzhug par bya'o//
+</foreign></note>
+</app></listApp>
 
 <!-- argr2mime: another issue of how to encode longs parallels -->
-<p xml:lang="tib">
-[SVU Tib.] <seg rend="check">
+<supplied reason="lost"><p>punaḥ puṣpakareṇa śiṣyeṇācāryaṁ <seg rend="check">praṇamya</seg> puṣpakareṇaiva deśanānumodanādhyeṣāṇāyācanāṁ <app>
+<lem>
+<seg rend="check">*ca</seg>
+</lem>
+<note>Should <foreign>ca</foreign> be removed?</note>
+</app> kr̥tvā vaktavyam.</p></supplied>
+<listApp type="parallels">
+<app>
+<note sameAs="txt:SDP286:1-2">SDP 286:1-2: <foreign>punaḥ puṣpakareṇa śiṣyeṇācāryaṃ puṣpakareṇaiva deśanānumodanādhyeṣaṇāyācanāṃ ca kṛtvā vaktavyam |</foreign></note>
+<note corresp="SVUTib">SVU Tib. <foreign xml:lang="tib">
+<seg rend="check">
 <hi rend="bold">(Parallel to <title>Vajraśekhara</title> starts here $\rightarrow$)</hi>
 </seg> 
 yang lag na me tog thogs pa'i slob mas/ 
 slob dpon la <lb edRef="#SVUTibD" n="43a3"/>
  phyag byas la/ 
 lag na me tog thogs pa de nyid dang/ bshags pa dang/ rjes su yi rang ba dang/ bskul ba dang/ gsol ba yang byas la/ 'di skad ces brjod par bya'o//
-<listApp type="parallels">
-<app>
-<lem>yang ... brjod par bya'o</lem>
+</foreign></note>
 <note>
 <title>Vajraśekhara</title>:  
 <foreign>sngon tu dkyil <pb n="183r"/>
@@ -10332,38 +10328,45 @@ rjes su yi rang kun tu bya ||</foreign> (D f.182v3–183r1)
 </note>
 </app>
 </listApp>
-</p>
-<p type="reconstructed"> punaḥ puṣpakareṇa śiṣyeṇācāryaṁ <seg rend="check">praṇamya</seg> puṣpakareṇaiva deśanānumodanādhyeṣāṇāyācanāṁ <app>
-<lem>
-<seg rend="check">*ca</seg>
-</lem>
-<note>Should <foreign>ca</foreign>  be removed?</note>
-</app> kr̥tvā vaktavyam.</p>
 
 <!--
   Hereafter parallel to the <title>Vajraśekhara</title> added in the second layer (March 2020).
 -->
-<lg xml:lang="tib">
-<l n="a">[SVU Tib.] gtso bo bdag la sdom pa stsol//</l>
-</lg>
+<supplied reason="lost"><lg met="anuṣṭubh">
+<l n="a">dehi me saṁvaraṁ vibho ||</l>
+</lg></supplied>
 <listApp type="parallels">
 <app>
-<lem>...</lem>
+<note sameAs="txt:SDP286:3">SDP 286:3</note>
+<note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
+<l n="a">gtso bo bdag la sdom pa stsol//</l>
+</lg></note>
 <note>
 <title>Vajraśekhara</title>:<foreign>gtso bo bdag la sdom pa stso</foreign> (D f.183r2).</note>
 </app>
 </listApp>
 
-<lg xml:lang="tib">
-<l n="a">[SVU Tib.] thub pa'i nyi ma ma lus pa'i//</l>
+<supplied reason="lost"><lg met="anuṣṭubh">
+<l n="a">samanvāharantu māṁ buddhā</l><!-- metrical problem -->
+<l n="b">aśeṣā munibhāskarāḥ |</l>
+<l n="c">aham amukanāmā vai</l>
+<l n="d">
+<app>
+<lem>ācāryasamakṣaṁ</lem>
+<note>SVU Tib. reads <foreign>slob dpon dbang du</foreign>.
+  This supports <foreign>ācāryasaṁnaddhaṁ</foreign>?
+  Negi reports <foreign>saṁbaddha</foreign> as a word corresponding to <foreign>dban du rgyur ba</foreign> (p.3944).</note>
+</app> sthitaḥ ||</l></lg></supplied>
+<listApp type="parallels">
+<app>
+<note sameAs="txt:SDP286:4-5">SDP 286:4-5.</note>
+<note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
+<l n="a">thub pa'i nyi ma ma lus pa'i//</l>
 <l n="b">sangs rgyas rnams ni bdag <lb edRef="#SVUTibD" n="43a4"/>
  la dgongs//</l>
 <l n="c">bdag ming 'di zhes bya ba ni//</l>
 <l n="d">slob dpon <seg rend="check">dpang</seg> du gnas pa la//</l>
-</lg>
-<listApp type="parallels">
-<app>
-<lem>thub pa'i ... gnas pa la</lem>
+</lg></note>
 <note>
 <title>Vajraśekhara</title>:
 <foreign>thub pa'i nyi ma ma lus pa'i ||
@@ -10374,15 +10377,23 @@ slob dpon <seg rend="check">dpang</seg> du gnas pa la ||</foreign>
 </app>
 </listApp>
 
-<lg xml:lang="tib">
-<l n="a">[SVU Tib.] sangs rgyas rol mo las byung ba//</l>
+<supplied reason="lost"><lg met="anuṣṭubh"><l n="a">praviśāmi mahāguhyaṁ</l>
+<l n="b">buddhanāṭakasaṁbhavam ||</l>
+<l n="c">avaivartika<app>
+<lem rend="hyphenleft" type="emn">cakrāḍhyaṁ</lem>
+<rdg wit="#edskor">-cakrādyaṁ</rdg>
+</app>
+</l>
+<l n="d">mahāmokṣapuraṁ varam ||</l></lg></supplied>
+<listApp type="parallels">
+<app>
+<note sameAs="txt:SDP286:6-7">SDP 286:6-7</note>
+<note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
+<l n="a">sangs rgyas rol mo las byung ba//</l>
 <l n="b">mi ldog pa yi 'khor los 'byor//</l>
 <l n="c">thar pa'i rang bzhin grong khyer cher//</l>
 <l n="d">gsang ba chen por 'jug par bgyi//</l>
-</lg>
-<listApp type="parallels">
-<app>
-<lem>sangs rgyas ... bgyi</lem>
+</lg></note>
 <note>
 <title>Vajraśekhara</title>:
 <foreign>sangs rgyas rol mo las byung ba ||
@@ -10393,16 +10404,28 @@ gsang ba chen po 'jug par bgyi ||</foreign> (D f.183r3)
 </app>
 </listApp>
 
-<lg xml:lang="tib">
-<l n="a">[SVU Tib.] gsang ba chen por bsdus pa ni// <lb edRef="#SVUTibD" n="43a5"/>
+<supplied reason="lost"><lg met="anuṣṭubh"><l n="a">praveśa māṁ mahācārya</l>
+<l n="b">
+<app>
+<lem>
+<seg rend="check">mahā</seg>guhyakuloccayam</lem>
+<note>SVU Tib. reads <foreign>gsang ba chen por bsdus pa niw</foreign>. This supports <foreign>mahāguhyakuloccayam</foreign>? SDPT reads <foreign>sarvaguhyakuloccayam</foreign>.
+</note>
+</app> |
+</l>
+<l n="c">dadasva me <seg rend="check">mahābhāga</seg>
+</l>
+<l n="d">avaivartyabhiṣecanam ||</l></lg></supplied>
+<listApp type="parallels">
+<app>
+<note sameAs="txt:SDP286:8-9">SDP 286:8-9</note>
+<note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
+<l n="a">gsang ba chen por bsdus pa ni// <lb edRef="#SVUTibD" n="43a5"/>
 </l>
 <l n="b">slob dpon chen po bdag 'jug mdzod//</l>
 <l n="c">mi ldog pa yi dbang bskur ba//</l>
 <l n="d">skal pa chen po bdag la stsol//</l>
-</lg>
-<listApp type="parallels">
-<app>
-<lem>gsang ba ... stsol</lem>
+</lg></note>
 <note>
 <title>Vajraśekhara</title>:
 <foreign>gsang ba'i rigs mtho thams cad du ||
@@ -10414,17 +10437,34 @@ skal ba chen po bdag la stsol ||</foreign>
 </app>
 </listApp>
 
-
-<lg xml:lang="tib">
+<supplied reason="lost"><lg met="anuṣṭubh"><l n="a">dadasva me mahācārya</l>
+<l n="b">
+<app>
+<lem>
+<seg rend="check">lakṣaṇaiḥ sumudritam</seg>
+</lem>
+<note>SVU Tib. reads <foreign>mtshan rnams kyis ni rgyas btab cing</foreign>. This could also reflect <foreign>lakṣaṇasyāmudraṇam</foreign>. SDPT reads <foreign>lakṣaṇasyānumodanam</foreign>.
+</note>
+</app> |
+</l>
+<l n="c">anuvyañjanasaṁyuktaṁ</l>
+<l n="d">
+<app>
+<lem>buddha<seg rend="check">kāyaṁ</seg>
+</lem>
+<note>SVU Tib. reads <foreign>sangs rgyas kun</foreign>, which supports <foreign>sarvabuddhaṁ</foreign>.
+</note>
+</app> manoramam ||</l></lg></supplied>
+<listApp type="parallels">
+<app>
+<note sameAs="txt:SDP286:10-11">SDP 286:10-11</note>
+<note corresp="txt:SVUTib"><lg xml:lang="tib">
 <l n="a">mtshan rnams kyis ni rgyas btab cing//</l>
 <l n="b">dpe byad rnams dang yang dag ldan//</l>
 <l n="c">
 <seg rend="check">sangs rgyas sku ni</seg> yid 'ong ba//</l>
 <l n="d">slob dpon chen po bdag la stsol//</l>
-</lg>
-<listApp type="parallels">
-<app>
-<lem>mtshan ... stsol</lem>
+</lg></note>
 <note>
 <title>Vajraśekhara</title>:
 <foreign>mtshan rnams kun gyis rgyas btab cing ||
@@ -10436,16 +10476,25 @@ slob dpon chen po bdag la stsol ||</foreign>
 </app>
 </listApp>
 
-<lg xml:lang="tib">
+<supplied reason="lost"><lg met="anuṣṭubh">
+<l n="a">dadasva me mahācārya</l>
+<l n="b">abhiṣekaṁ mahādbhutam |</l>
+<l n="c">ācāryo 'haṁ <app>
+<lem type="emn">bhave</lem>
+<rdg wit="#edskor">bhaven</rdg>
+</app> nityaṁ</l>
+<l n="d">sarvasattvārthakāraṇāt ||</l>
+</lg></supplied>
+<listApp type="parallels">
+<app>
+<note sameAs="txt:SDP286:12-13">SDP 286:12-13</note>
+<note corresp="txt:SVUTib"><lg xml:lang="tib">
 <l n="a">dbang <lb edRef="#SVUTibD" n="43a6"/>
  bskur chen po rmad byung ba//</l>
 <l n="b">sems can kun gyi don bgyid phyir//</l>
 <l n="c">bdag ni rtag tu slob dpon gyur//</l>
 <l n="d">slob dpon chen po bdag la stsol//</l>
-</lg>
-<listApp type="parallels">
-<app>
-<lem>bskur ... stsol</lem>
+</lg></note>
 <note>
 <title>Vajraśekhara</title>:
 <foreign>dbang bskur ba ni rmad byung che ||
@@ -10457,71 +10506,8 @@ slob dpon chen po bdag la stsol ||</foreign>
 </app>
 </listApp>
 
-<lg met="anuṣṭubh">
-<l n="a">[Skt. Reconstruction] dehi me saṁvaraṁ vibho ||</l>
-</lg>
-
-<lg met="anuṣṭubh">
-<l n="a">samanvāharantu māṁ buddhā</l><!-- metrical problem -->
-<l n="b">aśeṣā munibhāskarāḥ |</l>
-<l n="c">aham amukanāmā vai</l>
-<l n="d">
-<app>
-<lem>ācāryasamakṣaṁ</lem>
-<note>SVU Tib. reads <foreign>slob dpon dbang du</foreign>.
-  This supports <foreign>ācāryasaṁnaddhaṁ</foreign>?
-  Negi reports <foreign>saṁbaddha</foreign> as a word corresponding to <foreign>dban du rgyur ba</foreign> (p.3944).</note>
-</app> sthitaḥ ||</l>
-<l n="e">praviśāmi mahāguhyaṁ</l>
-<l n="f">buddhanāṭakasaṁbhavam ||</l>
-<l n="g">avaivartika<app>
-<lem rend="hyphenleft" type="emn">cakrāḍhyaṁ</lem>
-<rdg wit="#edskor">-cakrādyaṁ</rdg>
-</app>
-</l>
-<l n="h">mahāmokṣapuraṁ varam ||</l>
-<l n="i">praveśa māṁ mahācārya</l>
-<l n="j">
-<app>
-<lem>
-<seg rend="check">mahā</seg>guhyakuloccayam</lem>
-<note>SVU Tib. reads <foreign>gsang ba chen por bsdus pa niw</foreign>. This supports <foreign>mahāguhyakuloccayam</foreign>? SDPT reads <foreign>sarvaguhyakuloccayam</foreign>.
-</note>
-</app> |
-</l>
-<l n="k">dadasva me <seg rend="check">mahābhāga</seg>
-</l>
-<l n="l">avaivartyabhiṣecanam ||</l>
-<l n="m">dadasva me mahācārya</l>
-<l n="n">
-<app>
-<lem>
-<seg rend="check">lakṣaṇaiḥ sumudritam</seg>
-</lem>
-<note>SVU Tib. reads <foreign>mtshan rnams kyis ni rgyas btab cing</foreign>. This could also reflect <foreign>lakṣaṇasyāmudraṇam</foreign>. SDPT reads <foreign>lakṣaṇasyānumodanam</foreign>.
-</note>
-</app> |
-</l>
-<l n="o">anuvyañjanasaṁyuktaṁ</l>
-<l n="p">
-<app>
-<lem>buddha<seg rend="check">kāyaṁ</seg>
-</lem>
-<note>SVU Tib. reads <foreign>sangs rgyas kun</foreign>, which supports <foreign>sarvabuddhaṁ</foreign>.
-</note>
-</app> manoramam ||</l>
-<l n="q">dadasva me mahācārya</l>
-<l n="r">abhiṣekaṁ mahādbhutam |</l>
-<l n="s">ācāryo 'haṁ <app>
-<lem type="emn">bhave</lem>
-<rdg wit="#edskor">bhaven</rdg>
-</app> nityaṁ</l>
-<l n="t">sarvasattvārthakāraṇāt ||</l>
-</lg>
-
-<!-- SI have cleaned the file up to here on 2024-12-04 -->
 <!-- RT, SI and AG have cleaned the file down to here on 2024-09-10 -->
-<supplied><p>tata ācāryeṇa sarvakul<app>
+<supplied reason="lost"><p>tata ācāryeṇa sarvakul<app>
 <lem rend="hyphenleft">
 <seg rend="check">ādhyeṣaṇā</seg>
 </lem>
@@ -10535,8 +10521,6 @@ slob dpon chen po bdag la stsol ||</foreign>
 <note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">de nas slob dpon gyis rigs thams cad la gsol ba gdab par bya ste/</foreign>
 </note>
 </app></listApp>
-
-
 
 <supplied reason="lost"><lg met="anuṣṭubh">
 <l n="a">ayam <seg rend="check">evāmukanāmā</seg>
