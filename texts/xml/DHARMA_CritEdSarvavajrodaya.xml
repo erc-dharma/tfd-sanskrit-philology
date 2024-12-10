@@ -10173,7 +10173,7 @@ diśāsu <app><lem wit="#PSM">bhūtvā</lem>
 </supplied>
 <listApp>
   <app>
-    <note sameAs="txt:SDP282:25-28">SDP 282:25-28: <foreign>atra ca maṇḍalapraveśe pātrāpātraparīkṣā na kāryā | tat <seg rend="highlight">kasya</seg> hetoḥ | santi bhadantas tathāgatāḥ kecit sattvā mahāpāpakāriṇas ta idaṁ <seg rend="highlight"></seg>vajrahuṁkāramaṇḍalaṁ</seg> dr̥ṣṭvā praviṣṭvā ca sarvāpāyavigatā bhaviṣyanti |</foreign>. The reading <foreign>bhadantas</foreign> is grammatically impossible and several manuscripts cited by Skorupski actually support <foreign>bhagavantas</foreign>.</note>
+    <note sameAs="txt:SDP282:25-28">SDP 282:25-28: <foreign>atra ca maṇḍalapraveśe pātrāpātraparīkṣā na kāryā | tat <seg rend="highlight">kasya</seg> hetoḥ | santi bhadantas tathāgatāḥ kecit sattvā mahāpāpakāriṇas ta idaṁ <seg rend="highlight">vajrahuṁkāramaṇḍalaṁ</seg> dr̥ṣṭvā praviṣṭvā ca sarvāpāyavigatā bhaviṣyanti |</foreign>. The reading <foreign>bhadantas</foreign> is grammatically impossible and several manuscripts cited by Skorupski actually support <foreign>bhagavantas</foreign>.</note>
     <note corresp="txt:STTS0210-0211">STTS 210-211: <foreign>atra mahāmaṇḍalapraveśe pātrāpātraparīkṣā na kāryā | tat kasmād dhetoḥ | santi, bhagavantas tathāgatāḥ, kecit sattvā mahāpāpakāriṇas, ta idaṁ vajradhātumahāmaṇḍalaṁ dr̥ṣṭvā praviṣṭvā ca, sarvāpāyavigatā bhaviṣyanti |</foreign></note> 
     <note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">bcom ldan 'das dkyil 'khor chen po 'dir zhugs pa la/ snod du <lb edRef="#SVUTibD" n="42a6"/> gyur pa dang/ ma gyur pa brtag mi 'tshal lo// de ci'i phyir zhe na/ sems can kha cig ni/ sdig pa chen po bgyis pa yang mchis te/ de dag gis rdo rje dbyings kyi dkyil 'khor chen po 'dir zhugs te mthong na ngan song thams cad dang bral bar 'gyur ro//</foreign></note>
     </app>
@@ -10714,7 +10714,7 @@ sdom pa dam tshig yin par gsungs ||</foreign> (D f.183v1–2)
 <l n="d">sbyin pa rnams bzhi rtag tu sbyin//</l>
 <l n="e">'di ni rin chen rigs dag pa'i//</l>
 <l n="f">dam tshig sdom pa yin par gsungs//</l>
-<lg></note>
+</lg></note>
 <note>
 <title>Vajraśekhara</title>:
 <foreign>rin chen rigs mchog chen po la ||
@@ -10755,7 +10755,6 @@ compared with the parallel in the <title>Vajraśekhara</title>, the Tibetan tran
 dam chos khyod kyis gzung bar bya ||
 'di ni padma'i rigs dag pa'i ||
 dam tshig sdom pa yin par gsungs ||</foreign> (D f.183v2–3)</note>
-</note>
 </app>
 </listApp>
 </div>
@@ -10774,7 +10773,7 @@ dam tshig sdom pa yin par gsungs ||</foreign> (D f.183v2–3)</note>
   <app>
   <note sameAs="txt:SDP288:3-4">SDP 288:3–4.</note>
   <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
-  <l n="a">las kyi rigs mchog chen po la//<l>
+  <l n="a">las kyi rigs mchog chen po la//</l>
   <l n="b">sdom pa thams cad ldan par ni//</l>
   <l n="c">yang dag nyid du gzung bar gyis//</l>
   <l n="d">mchod pa'i las kyang ci nus bya//</l>
@@ -10875,7 +10874,7 @@ sdom pa'i cho ga'o || closer 13 ||
 </lg></supplied>
 <listApp type="parallels">
 <app>
-<note sameAs="txt:SDP288:7-8"SDP 288:7–8.</note>
+<note sameAs="txt:SDP288:7-8">SDP 288:7–8.</note>
 <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
   <l n="a">nyin dang mtshan mo lan gsum du//</l>
   <l n="b">nyin re bzhin ni bklag par bya//</l>
@@ -10984,7 +10983,7 @@ sdom pa'i cho ga'o || closer 13 ||
     <l n="b">ci nus par ni rjes su skyong//</l><!-- skyong D; skyongs P -->
     <l n="c">theg pa dman pa 'dod mi bya//</l>
     <l n="b">sems can don la rgyab mi phyogs//</l>
-    <lg></note>
+    </lg></note>
   <note>
         <title>Vajraśekhara</title>:
         <foreign>yid kyi rnam pa gsum dag ni ||
@@ -11039,11 +11038,9 @@ sdom pa'i cho ga'o || closer 13 ||
 <l n="a">na ca cihnaṁ samākramyaṁ</l>
 <l n="b">mudrā vāhanam āyudham |</l>
 <l n="c">etat samayam ity uktaṁ</l>
-<l n="d">rakṣitavyaṁ tvayā <lem>sadā</lem>
+<l n="d">rakṣitavyaṁ tvayā <seg>sadā</seg>
 <note corresp="#SVUTib"/>
 <note>SDP reads <foreign>mate</foreign>.</note> ||</l>
-</app> 
-</l>
 </lg>
 </supplied>
 <listApp type="parallels">
@@ -11099,7 +11096,7 @@ tasyaiva cāpi vaktavyam</l>
 brjod par bya ste//</l>
 <l n="b">slob dpon 'dir ni bdag la gson//</l>
 <l n="c">gtso bos ji ltar bka' stsal pa//</l>
-<l n="d">de ltar bdag ni bgyid par 'tshal//</lg>
+<l n="d">de ltar bdag ni bgyid par 'tshal//</l></lg>
 </note>
 <note>
 <title>Vajraśekhara</title>:
@@ -11172,7 +11169,7 @@ brjod par bya ste//</l>
       sems can mya ngan 'das la dgod ||</foreign>
       (D f.184r1–4).
       One of the earliest surviving Sanskrit source of this set of verses is <foreign>Nāmamantrārthāvalokinī</foreign>, a commentary on the <foreign>Nāmasaṁgīti</foreign> by Vilāsavajra.
-<titile>Nāmamantrārthāvalokinī</title>,<foreign>Adhikāra</foreign> 4:
+<title>Nāmamantrārthāvalokinī</title>,<foreign>Adhikāra</foreign> 4:
 <foreign>utpādayāmi paramaṁ bodhicittam anuttaram |
       yathā traiyadhvikā nāthāḥ saṁbodhau kr̥taniścayāḥ ||
       trividhāṁ śīlaśikṣāṁ ca kuśaladharmasaṁgraham |
@@ -11277,7 +11274,7 @@ brjod par bya ste//</l>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP288:27">SDP 288:27.</note>
-<note corresp="txt:SVUTib">SVU Tib. <foreign>de nas oṁ <edRef="#SVUTibD" lb n="44a4"/>
+<note corresp="txt:SVUTib">SVU Tib. <foreign>de nas oṁ <lb edRef="#SVUTibD" n="44a4"/>
  sa rba yo ga tsi tta au tpā da yā mi zhes bya ba 'dis/</foreign>
 </note>
 </app>
@@ -11307,6 +11304,7 @@ brjod par bya ste//</l>
 </lg>
 </note>
 <!-- encode also SDPTib parallel ?-->
+</app>
 </listApp>
 
 <!-- SI checked 2024-10-15-->
@@ -11371,7 +11369,7 @@ brjod par bya ste//</l>
   </supplied>
   <listApp type="parallels">
     <app>
-    <note sameAs="txt:STTS0220">STTS 220 <foreign>adya tvaṁ sarvatathāgatakule (ms.; <foreign>-kula-</foreign> H.) <foreign>praviṣṭaḥ | tad ahaṁ te vajrajñānam utpādayiṣyāmi, yena jñānena tvaṁ sarvatathāgatasiddhir (ms.; <foreign>-siddhim</foreign> H.) api prāpsyasi | kim utānyāḥ siddhīḥ || na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo vyathed iti ||</foreign>
+    <note sameAs="txt:STTS0220">STTS 220 <foreign>adya tvaṁ sarvatathāgatakule</foreign> (ms.; <foreign>-kula-</foreign> H.) <foreign>praviṣṭaḥ | tad ahaṁ te vajrajñānam utpādayiṣyāmi, yena jñānena tvaṁ sarvatathāgatasiddhir</foreign> (ms.; <foreign>-siddhim</foreign> H.) <foreign>api prāpsyasi | kim utānyāḥ siddhīḥ || na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo vyathed iti ||</foreign>
     </note>
     <note corresp="txt:GuSaMaVi:295">GSMV 294 <foreign>adya tvaṁ sarvatathāgatakule praviṣṭaḥ | 
       tad ahaṁ te vajrajñānam utpādayāmi yena jñānena tvaṁ sarvatathāgatasiddhīr api prāpsyasi kim utānyāḥ siddhīḥ | na ca tvayādr̥ṣṭamaṇḍalasya purato vaktavyaṁ | mā te samayo vyathed iti tad dhr̥di vajram āsthāpya |</foreign></note>
@@ -11403,7 +11401,7 @@ te sphārayed yadi tvaṁ kasya cid brūyāt |</foreign></note>
   <app>
     <note corresp="txt:STTS0221-0222">STTS 221–222 
      <foreign>tatas tathaiva samayamudrayodakaṁ śapathāhr̥dayena sakr̥t parijāpya tasmai śiṣyāya pāyayed iti | tatredaṁ śapathāhr̥dayaṁ bhavati |</foreign></note>
-     <note corresp="txt:SDP290:20-22">SDP 290:20-22 <foreign>tatas <seg rend="highlight">tayaiva</seg> samayamudrayodakaṁ <seg rend="highlight">śayathā</seg>hr̥dayena satkr̥tya parijapya tasmai <seg rend="highlight"></seg>vajra</seg>śiṣyāya pāyayed iti | tatredaṁ <seg rend="highlight">śayathā</seg>hr̥dayam |</foreign>
+     <note corresp="txt:SDP290:20-22">SDP 290:20-22 <foreign>tatas <seg rend="highlight">tayaiva</seg> samayamudrayodakaṁ <seg rend="highlight">śayathā</seg>hr̥dayena satkr̥tya parijapya tasmai <seg rend="highlight">vajra</seg>śiṣyāya pāyayed iti | tatredaṁ <seg rend="highlight">śayathā</seg>hr̥dayam |</foreign>
      </note>
      <note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">
       de nas dam tshig gi phyag rgya de nyid dang/ mna'i snying po 'di lan cig bzlas pa'i chu rdo rje slob ma 'thung <lb edRef="#SVUTibD" n="44b3"/> du bcug la/ 'di skad ces brjod par bya'o// de la dam tshig gi snying po ni 'di yin te/</foreign>
@@ -11462,7 +11460,7 @@ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tv�
   <note sameAs="txt:SDPT290:25-28">SDPT 290:25-28
     <foreign>tataḥ śiṣyāya brūyād adyaprabhr̥ti te 'haṁ vajrapāṇir yad ahaṁ brūyām idaṁ kuru tat kartavyaṁ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tvā <seg rend="highlight">narake</seg> patanaṁ syād iti |</foreign>
   </note>
-<note corresp="txt:SVUTib">SVU Tib. <note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">de nas slob ma la <lb edRef="#SVUTibD" n="44b4"/> 'di skad ces brjod par bya ste/ deng nas brtsams te khyod kyi phyag na rdo rje nga yin gyis/ ngas 'di byos shig ces bsgo ba gang yin pa de bya dgos so// khyod kyis nga la brnyas par ma byed cig/ mi bde ba ma spangs par khyod dus byas nas dmyal bar ltung bar gyur ta re/</foreign>
+<note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">de nas slob ma la <lb edRef="#SVUTibD" n="44b4"/> 'di skad ces brjod par bya ste/ deng nas brtsams te khyod kyi phyag na rdo rje nga yin gyis/ ngas 'di byos shig ces bsgo ba gang yin pa de bya dgos so// khyod kyis nga la brnyas par ma byed cig/ mi bde ba ma spangs par khyod dus byas nas dmyal bar ltung bar gyur ta re/</foreign>
 </note>
 </app>
 </listApp>
