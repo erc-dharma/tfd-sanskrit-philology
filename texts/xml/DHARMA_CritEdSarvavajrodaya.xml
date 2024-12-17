@@ -10163,7 +10163,7 @@ diśāsu <app><lem wit="#PSM">bhūtvā</lem>
 </listApp>
 
   <p><supplied reason="lost">atra mahāmaṇḍalapraveśe pātrāpātraparīkṣā na kāryā | tat kasmād dhetoḥ | santi <app><lem>bhagavantas tathāgatāḥ</lem><note corresp="#STTS #SDPS"></note><note>This segment is absent in Tib., while Tib. starts the paragraph with the term <foreign>bcom ldan 'das</foreign> corresponding to <foreign>bhagavān/bhagavan</foreign>. It seems, by comparison with the next two paragraphs, that the Tib. translator intentionally moved the translation of <foreign>bhagavantas</foreign> to stand at the beginning of the Tibetan sentences. On this ground, we give preference to the evidence of the Sanskrit parallel texts.</note></app> kecit sattvā mahāpāpakāriṇas ta idaṁ vajradhātumahāmaṇḍalaṁ dr̥ṣṭvā praviṣṭvā ca sarvāpāyavigatā bhaviṣyanti |</supplied></p>
-<listApp>
+<listApp type="parallels">
   <app>
     <note sameAs="txt:SDP282:25-28">SDP 282:25-28: <foreign>atra ca maṇḍalapraveśe pātrāpātraparīkṣā na kāryā | tat <seg type="highlight">kasya</seg> hetoḥ | santi bhadantas tathāgatāḥ kecit sattvā mahāpāpakāriṇas ta idaṁ <seg type="highlight">vajrahuṁkāramaṇḍalaṁ</seg> dr̥ṣṭvā praviṣṭvā ca sarvāpāyavigatā bhaviṣyanti |</foreign>. The reading <foreign>bhadantas</foreign> is grammatically impossible and several manuscripts cited by Skorupski actually support <foreign>bhagavantas</foreign>.</note>
     <note corresp="txt:STTS0210-0211">STTS 210-211: <foreign>atra mahāmaṇḍalapraveśe pātrāpātraparīkṣā na kāryā | tat kasmād dhetoḥ | santi, bhagavantas tathāgatāḥ, kecit sattvā mahāpāpakāriṇas, ta idaṁ vajradhātumahāmaṇḍalaṁ dr̥ṣṭvā praviṣṭvā ca, sarvāpāyavigatā bhaviṣyanti |</foreign></note> 
@@ -10444,15 +10444,14 @@ slob dpon chen po bdag la stsol ||</foreign>
 </app>
 </listApp>
 
-<supplied reason="lost"><lg met="anuṣṭubh">
-<l n="a">dadasva me mahācārya</l>
-<l n="b">abhiṣekaṁ mahādbhutam |</l>
-<l n="c">ācāryo 'haṁ <app>
-<lem type="emn">bhave</lem>
+<lg met="anuṣṭubh">
+<l n="a"><supplied reason="lost">dadasva me mahācārya</supplied></l>
+<l n="b"><supplied reason="lost">abhiṣekaṁ mahādbhutam |</supplied></l>
+<l n="c"><supplied reason="lost">ācāryo 'haṁ <app><lem type="emn">bhave</lem>
 <rdg wit="#edskor">bhaven</rdg>
-</app> nityaṁ</l>
-<l n="d">sarvasattvārthakāraṇāt ||</l>
-</lg></supplied>
+</app> nityaṁ</supplied></l>
+<l n="d"><supplied reason="lost">sarvasattvārthakāraṇāt ||</supplied></l>
+</lg>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP286:12-13">SDP 286:12-13</note>
@@ -10475,34 +10474,28 @@ slob dpon chen po bdag la stsol ||</foreign>
 </listApp>
 
 <!-- RT, SI and AG have cleaned the file down to here on 2024-09-10 -->
-<supplied reason="lost"><p>tata ācāryeṇa sarvakul<app>
-<lem rend="hyphenleft">
-<seg rend="check">ādhyeṣaṇā</seg>
-</lem>
-<note>SVU Tib. (<foreign>gsol ba gdab par bya</foreign>) supports <foreign>-adhyeṣaṇā</foreign>; SDP supports <foreign>-vijñaptiḥ</foreign>.
-</note>
-</app> kāryā |
-</p></supplied>
+<p><supplied reason="lost">tata ācāryeṇa sarvakul<app>
+<lem rend="hyphenleft"><seg rend="check">ādhyeṣaṇā</seg></lem>
+<note>SVU Tib. (<foreign>gsol ba gdab par bya</foreign>) supports <foreign>-adhyeṣaṇā</foreign>; SDP supports <foreign>-vijñaptiḥ</foreign>.</note>
+</app> kāryā |</supplied></p>
 <listApp type="parallels"><app>
 <note sameAs="txt:SDP286:14">SDP 286:14 <foreign>tata ācāryeṇa sarvakulavijñaptiḥ kāryā /</foreign>
 </note>
 <note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">de nas slob dpon gyis rigs thams cad la gsol ba gdab par bya ste/</foreign>
 </note>
-</app></listApp>
+</app>
+</listApp>
 
-<supplied reason="lost"><lg met="anuṣṭubh">
-<l n="a">ayam <seg rend="check">evāmukanāmā</seg>
-</l>
-<l n="b">bodhicittaparigrahaḥ |</l>
-<l n="c">icchate guhyacakre 'smin</l>
-<l n="d">
-<app>
+<lg met="anuṣṭubh">
+<l n="a"><supplied reason="lost">ayam <seg rend="check">evāmukanāmā</seg></supplied></l>
+<l n="b"><supplied reason="lost">bodhicittaparigrahaḥ |</supplied></l>
+<l n="c"><supplied reason="lost">icchate guhyacakre 'smin</supplied></l>
+<l n="d"><supplied reason="lost"><app>
 <lem type="emn">praveṣṭuṁ</lem>
 <rdg wit="#SDP">praveṣṭāṁ</rdg>
-<note corresp="SVUTib">SVU Tib. <foreign>'jug par 'tshal</foreign>
-</note>
-</app> samayasaṁvaram ||</l>
-</lg></supplied>
+<note corresp="SVUTib">SVU Tib. <foreign>'jug par 'tshal</foreign></note>
+</app> samayasaṁvaram ||</supplied></l>
+</lg>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP286:15-16">SDP 286:15-16<foreign>ayam evāmukanāmnā bodhicittaparigrahaḥ //
@@ -10518,9 +10511,7 @@ icchate guhyacakre 'smin praveṣṭāṁ samayasaṁvaram //</foreign></note>
 </app>
 </listApp>
 
-<supplied reason="lost"><p>
-tata ācāryeṇa vaktavyam |
-</p></supplied>
+<p><supplied reason="lost">tata ācāryeṇa vaktavyam |</supplied></p>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP286:17"> SDP 286:17</note>
@@ -10531,7 +10522,7 @@ tata ācāryeṇa vaktavyam |
 </app>
 </listApp>
 
-<supplied reason="lost"><p> icchasi tvaṁ mahātman | mahāguhyakulaṁ śuddhaṁ rahasyaṁ parigr̥hnitum || tenaivaṁ vācyam icchāmy aham iti |</p></supplied>
+<p><supplied reason="lost">icchasi tvaṁ mahātman | mahāguhyakulaṁ śuddhaṁ rahasyaṁ parigr̥hnitum || tenaivaṁ vācyam icchāmy aham iti |</supplied></p>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP286:18-19">SDP 286:18–19. <foreign>icchase tvaṁ mahātman mahāguhyakulaṁ śuddhaṁ rahasyaṁ parigrhṇitum |</foreign> </note>
@@ -10553,7 +10544,7 @@ des kyang 'tshal zhes brjod par bya ||</foreign>
 </app>
 </listApp>
 
-<supplied reason="lost"><p>punar ācāryeṇaivaṁ vaktavyam |</p></supplied>
+<p><supplied reason="lost">punar ācāryeṇaivaṁ vaktavyam |</supplied></p>
 <listApp type="parallels">
 <app>
 <note corresp="txt:SVUTib">SVU Tib.<foreign xml:lang="tib">yang slob dpon gyis 'di skad cas brjod par bya ste/</foreign></note>
@@ -10569,27 +10560,14 @@ des kyang 'tshal zhes brjod par bya ||</foreign>
 
 <div type="group">
 <head type="editorial" xml:lang="eng">Buddhakula</head>
-<supplied reason="lost">
 <lg met="anuṣṭubh">
-<l n="a">buddhaṁ dharmaṁ ca saṁghaṁ ca</l>
-<l n="b">
-<seg rend="check">triratnaṁ</seg> śaraṇaṁ vraja |</l>
-<l n="c">etad buddhakule <app>
-<lem>
-<seg rend="check">ramye</seg>
-</lem>
-<note>Thus SDP. SVU Tib. supports <foreign>śuddhe</foreign> (<foreign>dag pa'i</foreign>).
-</note>
-</app>
-</l>
-<l n="d">saṁvaraṁ <app>
-<lem>
-<seg rend="check">bhavato</seg>
-</lem>
-<note>SDP read <foreign>bhavate</foreign>. Genitive of <foreign>bhavat</foreign>.
-</note>
-</app> dr̥ḍham ||</l>
-</lg></supplied>
+<l n="a"><supplied reason="lost">buddhaṁ dharmaṁ ca saṁghaṁ ca</supplied></l>
+<l n="b"><supplied reason="lost"><seg rend="check">triratnaṁ</seg> śaraṇaṁ vraja |</supplied></l>
+<l n="c"><supplied reason="lost">etad buddhakule <app><lem><seg rend="check">ramye</seg>
+</lem><note>Thus SDP. SVU Tib. supports <foreign>śuddhe</foreign> (<foreign>dag pa'i</foreign>).</note></app></supplied></l>
+<l n="d"><supplied reason="lost">saṁvaraṁ <app><lem><seg rend="check">bhavato</seg></lem>
+<note>SDP read <foreign>bhavate</foreign>. Genitive of <foreign>bhavat</foreign>.</note></app> dr̥ḍham ||</supplied></l>
+</lg>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP286:20-21">SDP 286:20–21.</note>
@@ -10611,13 +10589,12 @@ dam tshig brtan par gyur pa'o ||</foreign> (D ff.183r7–183v1)</note>
 
 <div type="group">
 <head type="editorial" xml:lang="eng">Vajrakula</head>
-
 <lg met="anuṣṭhubh">
 <l n="a"><supplied reason="lost">vajraṁ ghaṇṭā ca mudrā ca</supplied></l>
 <l n="b"><supplied reason="lost">tvayā grāhyā mahāmate |</supplied></l>
 <l n="c"><supplied reason="lost">yad bodhicittaṁ tad vajraṁ</supplied></l>
 <l n="d"><supplied reason="lost">prajñā ghaṇṭā iti smr̥tā ||</supplied></l>
-</lg></supplied>
+</lg>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP286:22-23">SDP 286:22–23.</note>
@@ -10639,16 +10616,12 @@ shes rab dril bu zhes bshad do ||</foreign> (D f.183v1)
 </app>
 </listApp>
 
-</div>
-
-
-<div>
-<supplied reason="lost"><lg met="anuṣṭubh">
-<l n="a">[Skt. Reconstruction] ācāryaś ca gr̥hītavyaḥ</l>
-<l n="b">sarvabuddhasamo guruḥ |</l>
-<l n="c">etad vajrakule śuddhe</l>
-<l n="d">saṁvaraṁ samayocyate ||</l>
-</lg></supplied>
+<lg met="anuṣṭubh">
+<l n="a"><supplied reason="lost">ācāryaś ca gr̥hītavyaḥ</supplied></l>
+<l n="b"><supplied reason="lost">sarvabuddhasamo guruḥ |</supplied></l>
+<l n="c"><supplied reason="lost">etad vajrakule śuddhe</supplied></l>
+<l n="d"><supplied reason="lost">saṁvaraṁ samayocyate ||</supplied></l>
+</lg>
 <listApp type="parallels"><app>
 <note sameAs="txt:SDP286:24-25">SDP 286:24–25.</note>
 <note corresp="txt:SVUTib">SVU Tib.<lg xml:lang="tib">
@@ -10670,12 +10643,12 @@ sdom pa dam tshig yin par gsungs ||</foreign> (D f.183v1–2)
 
 <div type="group">
 <head type="editorial" xml:lang="eng">Ratnakula</head>
-<supplied reason="lost"><lg met="anuṣṭubh">
-<l n="a">caturdānaṁ pradātavyaṁ</l>
-<l n="b">tridive ca trirātrike |</l>
-<l n="c">āmiṣābhayadharmākhyā</l>
-<l n="d">maitrī ratnakuloccaye ||</l></lg>
-</supplied>
+<lg met="anuṣṭubh">
+<l n="a"><supplied reason="lost">caturdānaṁ pradātavyaṁ</supplied></l>
+<l n="b"><supplied reason="lost">tridive ca trirātrike |</supplied></l>
+<l n="c"><supplied reason="lost">āmiṣābhayadharmākhyā</supplied></l>
+<l n="d"><supplied reason="lost">maitrī ratnakuloccaye ||</supplied></l>
+</lg>
 <listApp type="parallels">
 <app>
 <note sameAs="SDP286:26-27">SDP 286:26–27.</note>
@@ -10702,18 +10675,18 @@ compared with the parallel in the <title>Vajraśekhara</title>, the Tibetan tran
 
 <div type="group">
 <head type="editorial" xml:lang="eng">Padmakula</head>
-<supplied reason="lost"><lg met="anuṣṭubh">
-<l n="a">saddharmaṁ ca tvayā grāhyaṁ</l>
-<l n="b"><app>
+<lg met="anuṣṭubh">
+<l n="a"><supplied reason="lost">saddharmaṁ ca tvayā grāhyaṁ</supplied></l>
+<l n="b"><supplied reason="lost"><app>
 <lem>bāhyaṁ</lem>
 <note>This reconstruction corresponds to <foreign>phyi</foreign> in the Tibetan transmissions; the SDP parallel lacks the words and is thus hypometrical.</note>
-</app> guhyaṁ triyānikam |</l>
-<l n="c">etat padmakule śuddhe</l>
-<l n="d">saṁvaraṁ samayocyate ||</l>
-</lg></supplied>
+</app> guhyaṁ triyānikam |</supplied></l>
+<l n="c"><supplied reason="lost">etat padmakule śuddhe</supplied></l>
+<l n="d"><supplied reason="lost">saṁvaraṁ samayocyate ||</supplied></l>
+</lg>
 <listApp type="parallels">
 <app>
-<note sameAs="txt:SDP288:1-2">SDP 288:1–2 (<foreign>bāhyaṁ</foreign> omitted due to <eye-skip></eye-skip>).
+<note sameAs="txt:SDP288:1-2">SDP 288:1–2 (<foreign>bāhyaṁ</foreign> omitted due to eye-skip).
 </note>
 <note corresp="txt:SVUTib">SVUTib.<lg xml:lang="tib">
 <l n="a">phyi dang gsang ba theg pa gsum//</l>
@@ -10736,12 +10709,12 @@ dam tshig sdom pa yin par gsungs ||</foreign> (D f.183v2–3)</note>
 
 <div type="group">
 <head type="editorial" xml:lang="eng">Karmakula</head>
-<supplied reason="lost"><lg met="anuṣṭubh">
-  <l n="a">saṁvaraṁ sarvasaṁyuktaṁ</l>
-  <l n="b">parigr̥hṇīṣva tattvataḥ |</l>
-  <l n="c">pūjākarma yathāśaktyā</l>
-  <l n="d">mahākarmakuloccaye ||</l>
-  </lg></supplied>
+<lg met="anuṣṭubh">
+  <l n="a"><supplied reason="lost">saṁvaraṁ sarvasaṁyuktaṁ</supplied></l>
+  <l n="b"><supplied reason="lost">parigr̥hṇīṣva tattvataḥ |</supplied></l>
+  <l n="c"><supplied reason="lost">pūjākarma yathāśaktyā</supplied></l>
+  <l n="d"><supplied reason="lost">mahākarmakuloccaye ||</supplied></l>
+  </lg>
 <listApp type="parallels">
   <app>
   <note sameAs="txt:SDP288:3-4">SDP 288:3–4.</note>
@@ -10813,11 +10786,12 @@ sdom pa'i cho ga'o || closer 13 ||
 <div type="group">
 <head type="editorial" xml:lang="eng">Sins</head>
 <!-- Mūlāpatti (मूलापत्ति).—f. (see āpatti), radical sin -->
-<supplied reason="lost"><lg met="anuṣṭubh">
-  <l n="a">etat pārājikākhyātaś</l>
-  <l n="b">caturdaśa-m-ataḥ param |</l>
-  <l n="c">na tyājyaṁ na ca kṣeptavyaṁ</l>
-  <l n="d">mūlāpattir iti smr̥tam ||</l></lg></supplied>
+<lg met="anuṣṭubh">
+  <l n="a"><supplied reason="lost">etat pārājikākhyātaś</supplied></l>
+  <l n="b"><supplied reason="lost">caturdaśa-m-ataḥ param |</supplied></l>
+  <l n="c"><supplied reason="lost">na tyājyaṁ na ca kṣeptavyaṁ</supplied></l>
+  <l n="d"><supplied reason="lost">mūlāpattir iti smr̥tam ||</supplied></l>
+  </lg>
 <listApp type="parallels">
   <app>
   <note sameAs="txt:SDP288;5-6">SDP 288:5–6.</note>
@@ -10839,12 +10813,12 @@ sdom pa'i cho ga'o || closer 13 ||
   </app>
 </listApp>
 
-<supplied reason="lost"><lg met="anuṣṭubh">
-<l n="a">tridive ca trirātrau ca</l>
-<l n="b">vartitavyaṁ dine dine |</l>
-<l n="c">yadā hānir bhaved yogī</l>
-<l n="b">sthūlāpattyo bhaviṣyati ||</l>
-</lg></supplied>
+<lg met="anuṣṭubh">
+<l n="a"><supplied reason="lost">tridive ca trirātrau ca</supplied></l>
+<l n="b"><supplied reason="lost">vartitavyaṁ dine dine |</supplied></l>
+<l n="c"><supplied reason="lost">yadā hānir bhaved yogī</supplied></l>
+<l n="b"><supplied reason="lost">sthūlāpattyo bhaviṣyati ||</supplied></l>
+</lg>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP288:7-8">SDP 288:7–8.</note>
@@ -10865,12 +10839,12 @@ sdom pa'i cho ga'o || closer 13 ||
 </app>
 </listApp>
 
-<supplied reason="lost"><lg met="anuṣṭubh">
-<l n="a">prāṇinaś ca na te ghātyā</l>
-<l n="b">adattaṁ naiva cāharet |</l>
-<l n="c">nācaret kāmamithyāyāṁ</l>
-<l n="d">mr̥ṣā naiva ca bhāṣayet ||</l>
-</lg></supplied>
+<lg met="anuṣṭubh">
+<l n="a"><supplied reason="lost">prāṇinaś ca na te ghātyā</supplied></l>
+<l n="b"><supplied reason="lost">adattaṁ naiva cāharet |</supplied></l>
+<l n="c"><supplied reason="lost">nācaret kāmamithyāyāṁ</supplied></l>
+<l n="d"><supplied reason="lost">mr̥ṣā naiva ca bhāṣayet ||</supplied></l>
+</lg>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP288:9-10">SDP 288:9–10.</note>
@@ -10892,12 +10866,12 @@ sdom pa'i cho ga'o || closer 13 ||
 </app>
 </listApp>
 
-<supplied reason="lost"><lg met="anuṣṭubh">
-<l n="a">mūlaṁ sarvasyānarthasya</l>
-<l n="b">madyapānaṁ vivarjayet |</l>
-<l n="c">akriyāṁ varjayet sarvāṁ</l>
-<l n="d">sattvārthaṁ vinayena ca ||</l>
-</lg></supplied>
+<lg met="anuṣṭubh">
+<l n="a"><supplied reason="lost">mūlaṁ sarvasyānarthasya</supplied></l>
+<l n="b"><supplied reason="lost">madyapānaṁ vivarjayet |</supplied></l>
+<l n="c"><supplied reason="lost">akriyāṁ varjayet sarvāṁ</supplied></l>
+<l n="d"><supplied reason="lost">sattvārthaṁ vinayena ca ||</supplied></l>
+</lg>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP288:11-12">SDP 288:11–12.</note>
@@ -10916,12 +10890,12 @@ sdom pa'i cho ga'o || closer 13 ||
 </app>
 </listApp>
 
-<supplied reason="lost"><lg met="anuṣṭubh">
-<l n="a">sādhūnām upatiṣṭheta</l>
-<l n="b">yogināṁ paryupāsanam |</l>
-<l n="c">trividhaṁ kāyikaṁ karma</l>
-<l n="d">vacasā ca caturvidham ||</l>
-</lg></supplied>
+<lg met="anuṣṭubh">
+<l n="a"><supplied reason="lost">sādhūnām upatiṣṭheta</supplied></l>
+<l n="b"><supplied reason="lost">yogināṁ paryupāsanam |</supplied></l>
+<l n="c"><supplied reason="lost">trividhaṁ kāyikaṁ karma</supplied></l>
+<l n="d"><supplied reason="lost">vacasā ca caturvidham ||</supplied></l>
+</lg>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP288:13-14">SDP 288:13–14.</note>
@@ -10942,12 +10916,12 @@ sdom pa'i cho ga'o || closer 13 ||
 </app>
 </listApp>
 
-<supplied reason="lost"><lg met="anuṣṭubh">
-  <l n="a">manasā triprakāraṁ ca</l>
-  <l n="b">yathāśaktyānupālayet |</l>
-  <l n="c">hīnayānaspr̥hā naiva</l>
-  <l n="b">sattvārthaṁ vimukhaṁ na ca ||</l>
-  </lg></supplied>
+<lg met="anuṣṭubh">
+  <l n="a"><supplied reason="lost">manasā triprakāraṁ ca</supplied></l>
+  <l n="b"><supplied reason="lost">yathāśaktyānupālayet |</supplied></l>
+  <l n="c"><supplied reason="lost">hīnayānaspr̥hā naiva</supplied></l>
+  <l n="b"><supplied reason="lost">sattvārthaṁ vimukhaṁ na ca ||</supplied></l>
+  </lg>
 <listApp type="parallels">
   <app>
   <note sameAs="txt:SDP288:15-17">SDP 288:15–17. The first hemistich is printed twice in Skorupski's edition.</note>
@@ -10967,20 +10941,13 @@ sdom pa'i cho ga'o || closer 13 ||
   </app>
 </listApp>
 
-<supplied reason="lost">
 <lg met="anuṣṭubh">
-<l n="a">na saṁsāraparityāgī</l>
-<l n="b">na <seg rend="check">nirvāṇarataḥ</seg> sadā |</l>
-<l n="c">apamānaṁ na te kāryaṁ</l>
-<l n="d">
-<app>
-<lem>devatāsuraguhyake</lem>
-<note>SDP reads <foreign>devatā na ca guhyake</foreign>.
-</note>
-<!-- SVU Tib. translates <foreign>na</foreign> as <foreign>amanuṣya</foreign>: <foreign>lha dang lha min gsang ba la</foreign> (D f.44r1). --></app> ||
-</l>
+<l n="a"><supplied reason="lost">na saṁsāraparityāgī</supplied></l>
+<l n="b"><supplied reason="lost">na <seg rend="check">nirvāṇarataḥ</seg> sadā |</supplied></l>
+<l n="c"><supplied reason="lost">apamānaṁ na te kāryaṁ</supplied></l>
+<l n="d"><supplied reason="lost"><app><lem>devatāsuraguhyake</lem><note>SDP reads <foreign>devatā na ca guhyake</foreign>.</note>
+<!-- SVU Tib. translates <foreign>na</foreign> as <foreign>amanuṣya</foreign>: <foreign>lha dang lha min gsang ba la</foreign> (D f.44r1). --></app> ||</supplied></l>
 </lg>
-</supplied>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP288:18-19">SDP 288:18–19. <foreign>na saṁsāraparityāgī na nirvāṇaratiḥ sadā ||
@@ -11006,16 +10973,14 @@ sdom pa'i cho ga'o || closer 13 ||
 </app>
 </listApp>
 
-<supplied reason="lost">
 <lg met="anuṣṭubh">
-<l n="a">na ca cihnaṁ samākramyaṁ</l>
-<l n="b">mudrā vāhanam āyudham |</l>
-<l n="c">etat samayam ity uktaṁ</l>
-<l n="d">rakṣitavyaṁ tvayā <seg>sadā</seg>
+<l n="a"><supplied reason="lost">na ca cihnaṁ samākramyaṁ</supplied></l>
+<l n="b"><supplied reason="lost">mudrā vāhanam āyudham |</supplied></l>
+<l n="c"><supplied reason="lost">etat samayam ity uktaṁ</supplied></l>
+<l n="d"><supplied reason="lost">rakṣitavyaṁ tvayā <seg>sadā</seg>
 <note corresp="#SVUTib"/>
-<note>SDP reads <foreign>mate</foreign>.</note> ||</l>
+<note>SDP reads <foreign>mate</foreign>.</note> ||</supplied></l>
 </lg>
-</supplied>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP288:20-21">SDP 288:20–21. <foreign>na ca cihnaṁ samākramyaṁ mudrā vāhanam āyudham ||
@@ -11042,22 +11007,18 @@ sdom pa'i cho ga'o || closer 13 ||
 </div>
 
 <!-- RT, SI and AG have cleaned the file down to here on 2024-10-08 -->
-
+<!-- maybe this div type group can be removed... -->
 <div type="group">
-<supplied reason="lost">
 <lg met="anuṣṭubh">
-<l n="a">
-tasyaiva cāpi vaktavyam</l>
-<l n="b">
-<app>
+<l n="a"><supplied reason="lost">tasyaiva cāpi vaktavyam</supplied></l>
+<l n="b"><supplied reason="lost"><app>
 <lem type="emn">ācāryātra</lem>
 <note>Supported by SVU Tib. <foreign>'dir</foreign>;
 <foreign>ācārya tu</foreign> SDPT</note>
-</app> śr̥ṇuṣva me |</l>
-<l n="c">evam <seg rend="check">astu</seg> kariṣyāmi </l>
-<l n="d">yathājñāpayase vibho ||</l>
+</app> śr̥ṇuṣva me |</supplied></l>
+<l n="c"><supplied reason="lost">evam <seg rend="check">astu</seg> kariṣyāmi</supplied></l>
+<l n="d"><supplied reason="lost">yathājñāpayase vibho ||</supplied></l>
 </lg>
-</supplied>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP288:22-23">SDP 288:22–23. <foreign>tasyaiva cāpi vaktavyaṁ ācārya tu śr̥ṇuṣva me ||
@@ -11080,21 +11041,25 @@ brjod par bya ste//</l>
 </app>
 </listApp>
 
-<supplied reason="lost">
-<lg met="anuṣṭubh">
-<l n="a">utpādayāmi paramam</l>
-</lg>
-</supplied>
+<p><supplied reason="lost">utpādayāmi paramam ityādi yāvat <app>
+<lem type="emn">sattvān</lem>
+<note>supported by SVU Tib. (<foreign>sems can</foreign>)
+<foreign>sarvān</foreign> SDPT</note>
+</app> sthāpayiṣyāmi nirvr̥tāv ity <seg rend="check">uccārayet</seg> |</supplied></p>
 <listApp type="parallels">
 <app>
-<note sameAs="txt:SDP288:24">SDP 288:24.</note>
 <note corresp="txt:SVUTib">SVU Tib. 
 <lg xml:lang="tib">
 <l n="a">ji ltar dus gsum mgon po rnams//</l>
 <l n="b">byang chub tu ni nges mdzad pa//</l>
 </lg>
+<p xml:lang="tib">zhes bya ba la sogs pa nas//</p>
+<lg xml:lang="tib">
+<l>sems can mya ngan 'das la <lb edRef="#SVUTibD" n="44a3"/> dgod//</l></lg>
+<p xml:lang="tib">ces bya ba'i bar du brjod par bya'o//</p><!-- 
+  Parallel to the <title>Vajraśekhara</title> ends -->
 </note>
-<note>Ānandagarbha abridges the verses.
+<note>Ānandagarbha (as well as SDP 288:24) here abridges a set of verses whose integral form is found in the
 <title>Vajraśekhara</title>:
 <foreign>ji ltar dus gsum mgon po rnams ||
       byang chub tu ni nges mdzad pa'i ||
@@ -11141,8 +11106,7 @@ brjod par bya ste//</l>
       dbugs ma phyin pa dbugs dbyung zhing ||
       sems can mya ngan 'das la dgod ||</foreign>
       (D f.184r1–4).
-      One of the earliest surviving Sanskrit source of this set of verses is <foreign>Nāmamantrārthāvalokinī</foreign>, a commentary on the <foreign>Nāmasaṁgīti</foreign> by Vilāsavajra.
-<title>Nāmamantrārthāvalokinī</title>,<foreign>Adhikāra</foreign> 4:
+      One of the earliest surviving Sanskrit sources for this set of verses is <foreign>Nāmamantrārthāvalokinī</foreign>, a commentary on the <foreign>Nāmasaṁgīti</foreign> by Vilāsavajra, where it appears in <foreign>Adhikāra</foreign> 4:
 <foreign>utpādayāmi paramaṁ bodhicittam anuttaram |
       yathā traiyadhvikā nāthāḥ saṁbodhau kr̥taniścayāḥ ||
       trividhāṁ śīlaśikṣāṁ ca kuśaladharmasaṁgraham |
@@ -11157,62 +11121,37 @@ brjod par bya ste//</l>
       mahāpadmakule śuddhe mahābodhisamudbhave ||
       saṁvaraṁ sarvasaṁyuktaṁ pratigr̥hṇāmi tattvataḥ |
       pūjākarma yathāśaktyā mahākarmakuloccaye ||
-      utpādayitvā  paramaṁ bodhicittam anuttaram |
+      utpādayitvā paramaṁ bodhicittam anuttaram |
       gr̥hītvā saṁvaraṁ kr̥tsnaṁ sarvasattvārthakāraṇāt ||
       atīrṇāṁs tārayiṣyāmi amuktān mocayāmy ahaṁ |
-      anāśvastān āśvāsayiṣyāmi sattvān sthāpayiṣyāmi nirvr̥tāv iti  ||</foreign>
-      (Tribe 2016: 248–250)</note>
-</app>
+      anāśvastān āśvāsayiṣyāmi sattvān sthāpayiṣyāmi nirvr̥tāv iti ||</foreign>
+      (Tribe 2016: 248–250). 
+      The same set is also transmitted without abridgement in the SDP (ed. Skorupski 146:8–25).
+      <!--
+        utpādayāmi paramaṃ bodhicittam anuttaram //
+yathā traiyadhvikanāthāḥ saṃbodhau kṛtaniścayāḥ //
+trividhāṃ śīlaśikṣāṃ ca kuśaladharmasaṃgraham //
+sattvārthakriyāśīlaṃ ca pratigṛhṇāmy ahaṃ dṛḍham //
+buddhaṃ dharmaṃ ca saṅghaṃ ca triratnāgram anuttaram //
+adyāgreṇa grahīṣyāmi saṃvaraṃ buddhayogajam //
+vajraghaṇṭāṃ ca mudrāṃ ca pratigṛhṇāmi tattvataḥ //
+ācāryaṃ ca grahīṣyāmi mahāvajrakuloccaye //
+caturdānaṃ pradāsyāmi ṣaṭkṛtvā tu dine dine //
+mahāratnakule yoge samaye ca manorame //
+saddharmaṃ pratigṛhṇāmi bāhyaṃ guhyaṃ triyānikam //
+mahāpadmakule śuddhe mahābodhisamudbhave //
+saṃvaraṃ sarvasaṃyuktaṃ pratigṛhṇāmi tattvataḥ //
+pūjākarma yathāśaktyā mahākarmakuloccaye //
+utpādayitvā paramaṃ bodhicittam anuttaram //
+gṛhītaṃ saṃvaraṃ kṛtsnaṃ sarvasattvārthakāraṇāt //
+atīrṇān tārayiṣyāmy amuktān mocayiṣyāmy aham //
+anāśvastān āśvāsayiṣyāmi sattvān sthāpayāmi nirvṛttāv iti //
+       -->
+      </note>
+      </app>
 </listApp>
 
-<supplied reason="lost">
-<p>ityādi yāvat</p>
-</supplied>
-<listApp type="parallels">
-<app>
-<note sameAs="txt:SDP288:24">SDP 288:24.</note>
-<note corresp="txt:SVUTib">SVU Tib. 
-<p xml:lang="tib">zhes bya ba la sogs pa nas//
-</p>
-</note>
-</app>
-</listApp>
-
-<supplied reason="lost">
-<lg met="anuṣṭubh">
-<l>
-<app>
-<lem type="emn">sattvān</lem>
-<note>supported by SVU Tib. (<foreign>sems can</foreign>)
-<foreign>sarvān</foreign> SDPT</note>
-</app> sthāpayiṣyāmi nirvr̥tāv</l>
-</lg>
-</supplied>
-<listApp type="parallels">
-<app>
-<note sameAs="txt:SDP288:24">SDP 288:24. <foreign>sarvān sthāpayiṣyāmi nirvr̥tāv iti /</foreign>
-</note>
-<note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
-<l>sems can mya ngan 'das la <lb edRef="#SVUTibD" n="44a3"/>
-  dgod//</l>
-</lg>
-</note>
-</app>
-</listApp>
-
-<supplied reason="lost">
-<p>ity <seg rend="check">uccārayet</seg>.
-</p>
-</supplied>
-<listApp type="parallels">
-<note corresp="txt:SVUTib">SVU Tib. 
-    <p xml:lang="tib">ces bya ba'i bar du brjod par bya'o// <!-- <seg rend="check">$\leftarrow$Parallel to the <title>Vajraśekhara</title> ends</seg> -->
-</p>
-</note>
-</listApp>
-
-<supplied reason="lost">
-<p>yas tu saṁvaraṁ na gr̥hṇāti tasya praveśamātram eva dātavyam. <app>
+<p><supplied reason="lost">yas tu saṁvaraṁ na gr̥hṇāti tasya praveśamātram eva dātavyam | <app>
 <lem>adya tvam ityādi</lem>
 <note>
   STTS: 220: 
@@ -11221,29 +11160,20 @@ brjod par bya ste//</l>
   kim utānyāḥ siddhīḥ ||.
   na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo vyathed iti.
 </note>
-</app> na brūyāt, <app>
-<lem>
-<seg rend="check">ācāryānujñām</seg>
-</lem>
-<note>
-<foreign>ācāryo 'nujñām</foreign>;
-    SVU Tib. seems to support <foreign>ācāryānujñām</foreign> (<foreign>slob dpon du rjes su gnang ba</foreign>).
-</note>
-</app> ācāryābhiṣekaṁ ca na kuryāt.</p>
-</supplied>
+</app> na brūyāt, <app><lem><seg rend="check">ācāryānujñām</seg></lem>
+<note><foreign>ācāryo 'nujñām</foreign>;
+    SVU Tib. seems to support <foreign>ācāryānujñām</foreign> (<foreign>slob dpon du rjes su gnang ba</foreign>).</note>
+</app> ācāryābhiṣekaṁ ca na kuryāt |</supplied></p>
 <listApp type="parallels">
 <app>
-<note sameAs="txt:SDP288:25-26">SDP 288:25-26. <foreign>yas tu saṁvaraṁ na gr̥hṇāti tasya praveśamātram eva dātavyam /
-      adya tvam ityādi na brūyād ācāryābhiṣekaṁ ca na kuryāt /</foreign></note>
+<note sameAs="txt:SDP288:25-26">SDP 288:25-26. <foreign>yas tu saṁvaraṁ na gr̥hṇāti tasya praveśamātram eva dātavyam | adya tvam ityādi na brūyād ācāryābhiṣekaṁ ca na kuryāt |</foreign></note>
 <note corresp="txt:SVUTib">SVU Tib. <p xml:lang="tib">gang zhig sdom pa 'dzin par mi byed pa de la/ deng khyod ces bya ba la sogs pa yang brjod par mi bya ste/ slob dpon du rjes su gnang ba dang/ dbang bskur ba yang mi bya'o// 'jug pa tsam cig byed du gzhug go//
 </p>
 </note>
 </app>
 </listApp>
 
-<supplied reason="lost">
-<p>tataḥ, oṁ sarvayogacittam utpādayāmīty anena |</p>
-</supplied>
+<p><supplied reason="lost">tataḥ, oṁ sarvayogacittam utpādayāmīty anena |</supplied></p>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP288:27">SDP 288:27.</note>
@@ -11253,16 +11183,14 @@ brjod par bya ste//</l>
 </app>
 </listApp>
 
-<supplied reason="lost">
 <lg met="anuṣṭubh">
-<l n="a">utpādayitvā paramaṁ</l>
-<l n="b">bodhicittam anuttaram |</l>
-<l n="c">vajram asya pratiṣṭhāpyaṁ</l>
-<l n="d">hr̥daye hr̥dayena tu |</l>
-<l n="e">surate samayas tvaṁ hoḥ</l>
-<l n="f">vajra siddhya yathāsukham ||</l>
+<l n="a"><supplied reason="lost">utpādayitvā paramaṁ</supplied></l>
+<l n="b"><supplied reason="lost">bodhicittam anuttaram |</supplied></l>
+<l n="c"><supplied reason="lost">vajram asya pratiṣṭhāpyaṁ</supplied></l>
+<l n="d"><supplied reason="lost">hr̥daye hr̥dayena tu |</supplied></l>
+<l n="e"><supplied reason="lost">surate samayas tvaṁ hoḥ</supplied></l>
+<l n="f"><supplied reason="lost">vajra siddhya yathāsukham ||</supplied></l>
 </lg>
-</supplied>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP288:28-30">SDP 288:28–30</note>
@@ -11282,12 +11210,10 @@ brjod par bya ste//</l>
 
 <!-- SI checked 2024-10-15-->
 
-<supplied reason="lost">
-<p>tatas taṁ vajrasattvam adhiṣṭhāya gandhapuṣpādibhir abhyarcya sragvinaṁ surabhitānanaṁ ca kr̥tvottamāṁ dakṣiṇām ādāya bahiḥsthitakalaśodakenābhi<app>
+<p><supplied reason="lost">tatas taṁ vajrasattvam adhiṣṭhāya gandhapuṣpādibhir abhyarcya sragvinaṁ surabhitānanaṁ ca kr̥tvottamāṁ dakṣiṇām ādāya bahiḥsthitakalaśodakenābhi<app>
 <lem type="emn" rend="hyphenleft">ṣicya</lem>
 <rdg wit="#SDPS">-ṣiñcya</rdg>
-</app> samayas tvam ity anena sattvavajrīṁ bandhayet |</p>
-</supplied>
+</app> samayas tvam ity anena sattvavajrīṁ bandhayet |</supplied></p>
 <listApp type="parallels">
 <app>
 <note sameAs="txt:SDP290:1–3">SDP 290:1–3</note>
@@ -11298,15 +11224,12 @@ brjod par bya ste//</l>
 </app>
 </listApp>
 
-<supplied reason="lost">
-<p>tato madhyamābhyāṁ puṣpamālāṁ grāhayitvā praveśayed anena hr̥dayena | samaya hūṁ | svasvadvāre ca vajrāṅkuśādibhiś cākr̥ṣya praveśya baddhvā vaśīkuryāt | vajrāṅkuśa jaḥ, vajrapāśa hūṁ, vajrasphoṭa vaṁ, vajrāveśa <app>
+<p><supplied reason="lost">tato madhyamābhyāṁ puṣpamālāṁ grāhayitvā praveśayed anena hr̥dayena | samaya hūṁ | svasvadvāre ca vajrāṅkuśādibhiś cākr̥ṣya praveśya baddhvā vaśīkuryāt | vajrāṅkuśa jaḥ, vajrapāśa hūṁ, vajrasphoṭa vaṁ, vajrāveśa <app>
 <lem type="emn">hoḥ</lem>
 <rdg wit="#SVUTib">aḥ</rdg>
 <note>We believe that the <foreign>bīja</foreign>
 <foreign>aḥ</foreign> found in the parallel texts is due to an error in transmision. It should be <foreign>hoḥ</foreign>, since the seed-syllables <foreign>jaḥ hūṁ vaṁ hoḥ</foreign> are a strong unit, meaning <foreign>ākarṣaṇa, praveśana, bandhana</foreign>, and <foreign>vaśīkaraṇa</foreign>. The cause of this corruption seems to lie in the fact that <foreign>aḥ</foreign> is also the syllable for <foreign>āveśa</foreign> (possesion). Cf. STTS 224: <foreign>vajrāveśa aḥ</foreign>. The expected pattern in found in KSP (Devatāyoga, ed. Inui): <foreign>vajrāṅkuśa oṁ vajrāṇkuśa jaḥ | vajrapāśa oṁ vajrapāśa hūṁ | vajrasphoṭa oṁ vajrasphoṭa vaṁ | vajrāveśa oṁ vajrāveśa hoḥ |</foreign>.
-</note>
-</app> iti |</p>
-</supplied>
+</note></app> iti |</supplied></p>
 <listApp type="parallels">
 <app>
 <note corresp="txt:SVUTib">SVU Tib. <p xml:lang="tib">de nas gung mo gnyis kyis me tog gi phreng ba <lb edRef="#SVUTibD" n="44a6"/>
@@ -11320,9 +11243,7 @@ brjod par bya ste//</l>
 </app>
 </listApp>
 
-<supplied reason="lost">
-<p>tataḥ punaḥ pūrvadvāreṇa praveśyaivaṁ vadet |</p>
-</supplied>
+<p><supplied reason="lost">tataḥ punaḥ pūrvadvāreṇa praveśyaivaṁ vadet |</supplied></p>
 <listApp type="parallels">
 <app>
 <note corresp="txt:SDP290:11-12">SDP 290:11–12 <foreign>punaḥ pūrvadvāreṇa praveśyaivaṁ vadet | </foreign>
@@ -11337,9 +11258,7 @@ brjod par bya ste//</l>
 <!-- SI revised (wrap [Skt. reconstruction] with <supplied> tag) to here 2024-10-22 -->
 <!-- SI RT AG checked down to here 2024-10-15-->
 
-<supplied reason="lost">
-  <p>adya tvaṁ sarvatathāgatakule praviṣṭaḥ | tad ahaṁ te vajrajñānam utpādayiṣyāmi, yena jñānena tvaṁ sarvatathāgata<app><lem rend="hyphenleft">siddhir</lem><note>While STTS and SDP read <foreign>-siddhir</foreign>, we require an acc. form and all later manuals (KSP, GSMV, VĀ, etc.) transmit <foreign>-siddhīr</foreign>, the reading we adopt.</note></app> api prāpsyasi | kim utānyāḥ siddhīḥ | na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo vyathed iti |</p>
-  </supplied>
+<p><supplied reason="lost">adya tvaṁ sarvatathāgatakule praviṣṭaḥ | tad ahaṁ te vajrajñānam utpādayiṣyāmi, yena jñānena tvaṁ sarvatathāgata<app><lem rend="hyphenleft">siddhir</lem><note>While STTS and SDP read <foreign>-siddhir</foreign>, we require an acc. form and all later manuals (KSP, GSMV, VĀ, etc.) transmit <foreign>-siddhīr</foreign>, the reading we adopt.</note></app> api prāpsyasi | kim utānyāḥ siddhīḥ | na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo vyathed iti |</supplied></p>
   <listApp type="parallels">
     <app>
     <note sameAs="txt:STTS0220">STTS 220 <foreign>adya tvaṁ sarvatathāgatakule</foreign> (ms.; <foreign>-kula-</foreign> H.) <foreign>praviṣṭaḥ | tad ahaṁ te vajrajñānam utpādayiṣyāmi, yena jñānena tvaṁ sarvatathāgatasiddhir</foreign> (ms.; <foreign>-siddhim</foreign> H.) <foreign>api prāpsyasi | kim utānyāḥ siddhīḥ || na ca tvayādr̥ṣṭamahāmaṇḍalasya vaktavyaṁ, mā te samayo vyathed iti ||</foreign>
@@ -11352,9 +11271,7 @@ brjod par bya ste//</l>
   </app>
     </listApp>
 
-<supplied reason="lost">
-<p>tataḥ svayaṁ vajrācāryaḥ sattvavajrimudrām avamūrdhamukhīṁ baddhvā vajraśiṣyasya mūrdhni sthāpyaivaṁ vadet | ayaṁ te samayavajro mūrdhānaṁ sphālayed, yadi tvaṁ kasya cid <app><lem>brūyāt</lem><note>One expects <foreign>brūyāḥ</foreign> but both STTS and SDP transmit <foreign>brūyāt</foreign>, perhaps an Aiśa form.</note></app><!-- em. brūyāḥ ? but all witnesses have t.--> |</p>
-</supplied>
+<p><supplied reason="lost">tataḥ svayaṁ vajrācāryaḥ sattvavajrimudrām avamūrdhamukhīṁ baddhvā vajraśiṣyasya mūrdhni sthāpyaivaṁ vadet | ayaṁ te samayavajro mūrdhānaṁ sphālayed, yadi tvaṁ kasya cid <app><lem>brūyāt</lem><note>One expects <foreign>brūyāḥ</foreign> but both STTS and SDP transmit <foreign>brūyāt</foreign>, perhaps an Aiśa form.</note></app><!-- em. brūyāḥ ? but all witnesses have t.--> |</supplied></p>
 <listApp type="parallels">
 <app>
   <note sameAs="txt:STTS0221">STTS 221<!--: <foreign>tataḥ svayaṁ vajrācāryaḥ sattvavajrimudrām avamūrdhamukhīṁ baddhvā vajraśiṣyasya mūrdhni sthāpyaivaṁ vadet | ayaṁ te samayavajro mūrdhānaṁ sphālayed, yadi tvaṁ kasya cid brūyāt |</foreign>--></note>
@@ -11364,34 +11281,30 @@ te sphārayed yadi tvaṁ kasya cid brūyāt |</foreign></note>
 </app>
 </listApp>
 
-<supplied reason="lost">
-  <p>tatas tathaiva samayamudrayodakaṁ śapathāhr̥dayena sakr̥t parijāpya tasmai śiṣyāya <app><lem>pāyayitvā evaṁ vadet</lem><note corresp="#SVUTib"/><note>These words are not found in STTS and SDPT.</note></app> |
+<p><supplied reason="lost">tatas tathaiva samayamudrayodakaṁ śapathāhr̥dayena sakr̥t parijāpya tasmai śiṣyāya <app><lem>pāyayitvā evaṁ vadet</lem><note corresp="#SVUTib"/><note>These words are not found in STTS and SDPT.</note></app> |
   tatredaṁ <app><lem>śapathāhr̥dayaṁ</lem>
 <note>SVU Tib.: <foreign>dam tshig gi snying po</foreign> (*<foreign>samayahr̥dayam</foreign>). Both STTS ans SDPT support <foreign>śapathāhr̥dayaṁ</foreign>. The reading of the latter, <foreign>śayathāhr̥dayaṁ</foreign> should be emended.</note>
-</app> bhavati |</p>
-  </supplied>
+</app> bhavati |</supplied></p>
 <listApp type="parallels">
   <app>
     <note corresp="txt:STTS0221-0222">STTS 221–222 
      <foreign>tatas tathaiva samayamudrayodakaṁ śapathāhr̥dayena sakr̥t parijāpya tasmai śiṣyāya pāyayed iti | tatredaṁ śapathāhr̥dayaṁ bhavati |</foreign></note>
-     <note corresp="txt:SDP290:20-22">SDP 290:20-22 <foreign>tatas <seg rend="highlight">tayaiva</seg> samayamudrayodakaṁ <seg rend="highlight">śayathā</seg>hr̥dayena satkr̥tya parijapya tasmai <seg rend="highlight">vajra</seg>śiṣyāya pāyayed iti | tatredaṁ <seg rend="highlight">śayathā</seg>hr̥dayam |</foreign>
+     <note corresp="txt:SDP290:20-22">SDP 290:20-22 <foreign>tatas <hi rend="bold">tayaiva</hi> samayamudrayodakaṁ <hi rend="bold">śayathā</hi>hr̥dayena satkr̥tya parijapya tasmai <hi rend="bold">vajra</hi>śiṣyāya pāyayed iti | tatredaṁ <hi rend="bold">śayathā</hi>hr̥dayam |</foreign>
      </note>
      <note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">
       de nas dam tshig gi phyag rgya de nyid dang/ mna'i snying po 'di lan cig bzlas pa'i chu rdo rje slob ma 'thung <lb edRef="#SVUTibD" n="44b3"/> du bcug la/ 'di skad ces brjod par bya'o// de la dam tshig gi snying po ni 'di yin te/</foreign>
       </note>
   </app>
-  </listApp>
+</listApp>
 
 <!-- SI RT AG checked down to here 2024-11-12-->
 
-<supplied reason="lost">
-  <lg met="anuṣṭubh">
-  <l n="a">vajrasattvaḥ svayaṁ te 'dya</l> 
-  <l n="b">hr̥daye samavasthitaḥ ||</l>
-  <l n="c">nirbhidya tat kṣaṇaṁ yāyād</l>
-  <l n="d">yadi <app><lem wit="#SDPT">brūyā</lem><rdg wit="#STTS">brūyād</rdg></app> imaṁ nayam ||</l>
+<lg met="anuṣṭubh">
+  <l n="a"><supplied reason="lost">vajrasattvaḥ svayaṁ te 'dya</supplied></l> 
+  <l n="b"><supplied reason="lost">hr̥daye samavasthitaḥ |</supplied></l>
+  <l n="c"><supplied reason="lost">nirbhidya tat kṣaṇaṁ yāyād</supplied></l>
+  <l n="d"><supplied reason="lost">yadi <app><lem wit="#SDPT">brūyā</lem><rdg wit="#STTS">brūyād</rdg></app> imaṁ nayam ||</supplied></l>
 </lg>
-</supplied>
 <listApp type="parallels">
   <app>
   <note corresp="txt:STTS0222">STTS 222 
@@ -11406,9 +11319,7 @@ nirbhidya tat kṣaṇaṁ yāyād yadi brūyā imaṁ nayam ||--></note>
 </app>
 </listApp>
 
-<supplied reason="lost">
-<p><seg rend="check">oṁ</seg> vajrodaka ṭhaḥ | iti |</p>
-</supplied>
+<p><supplied reason="lost"><seg rend="check">oṁ</seg> vajrodaka ṭhaḥ | iti |</supplied></p>
 <listApp type="parallels">
   <app>
   <note corresp="txt:STTS0222">STTS 222 <foreign>vajrodaka ṭhaḥ |</foreign></note>
@@ -11420,18 +11331,16 @@ nirbhidya tat kṣaṇaṁ yāyād yadi brūyā imaṁ nayam ||--></note>
 </app>
 </listApp>
  
-<supplied reason="lost">
-<p>tataḥ <app><lem>śiṣyāya brūyāt</lem><note>We follow the STTS and SDPT, though Tib. here suggests that SVU might origonally have read <foreign>evaṁ</foreign> between the two words.</note></app> | 
+<p><supplied reason="lost">tataḥ <app><lem>śiṣyāya brūyāt</lem><note>We follow the STTS and SDPT, though Tib. here suggests that SVU might origonally have read <foreign>evaṁ</foreign> between the two words.</note></app> | 
 adyaprabhr̥ty ahaṁ te vajrapāṇir yat te 'haṁ brūyām idaṁ kuru tat kartavyam |
-na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tvā, narakapatanaṁ syād iti |</p>
-</supplied>
+na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tvā, narakapatanaṁ syād iti |</supplied></p>
 <listApp type="parallels">
   <app>
   <note corresp="txt:STTS0223">STTS 223 
      <foreign>tataḥ śiṣyāya brūyāt: adyaprabhr̥ty ahaṁ te vajrapāṇir yat te 'haṁ brūyām: idaṁ kuru, tat kartavyaṁ | na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tvā, narakapatanaṁ syād ity uktvā vaktavyam |</foreign>
   </note>
   <note sameAs="txt:SDPT290:25-28">SDPT 290:25-28
-    <foreign>tataḥ śiṣyāya brūyād adyaprabhr̥ti te 'haṁ vajrapāṇir yad ahaṁ brūyām idaṁ kuru tat kartavyaṁ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tvā <seg rend="highlight">narake</seg> patanaṁ syād iti |</foreign>
+    <foreign>tataḥ śiṣyāya brūyād adyaprabhr̥ti te 'haṁ vajrapāṇir yad ahaṁ brūyām idaṁ kuru tat kartavyaṁ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tvā <hi rend="bold">narake</hi> patanaṁ syād iti |</foreign>
   </note>
 <note corresp="txt:SVUTib">SVU Tib. <foreign xml:lang="tib">de nas slob ma la <lb edRef="#SVUTibD" n="44b4"/> 'di skad ces brjod par bya ste/ deng nas brtsams te khyod kyi phyag na rdo rje nga yin gyis/ ngas 'di byos shig ces bsgo ba gang yin pa de bya dgos so// khyod kyis nga la brnyas par ma byed cig/ mi bde ba ma spangs par khyod dus byas nas dmyal bar ltung bar gyur ta re/</foreign>
 </note>
@@ -11444,10 +11353,8 @@ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tv�
 <div type="subsection" n="3">
 <head type="editorial">Āveśaḥ</head>
 
-<supplied reason="lost">
-<p>tataḥ akāreṇātmānaṁ sitaṁ vajrasattvaṁ cintayet | tad anu akāraṁ vajraraśmimālāyuktaṁ svahr̥di cintayet | punar hūṁkāreṇa śiṣyaṁ <seg rend="check">vimalam</seg>
-<seg rend="check">atiprasannaṁ</seg> vajrasattvaṁ <seg rend="check">vi</seg>cintya, taddhr̥dūrṇākaṇṭha<seg rend="check">mūrdhasu</seg> hūṁhrīṁhrīḥkaṁkāreṇa vajraratnapadmaviśvavajreṇa cihnayitvā, kapāṭodghāṭanamudrayā svakīyaṁ śiṣyahr̥dayaṁ codghāṭayet | tataḥ svahr̥dgatavajram akāreṇa niścārya śiṣyahr̥dgatavajramadhye buddhyā praveśya sarvakāyam āpūryamāṇam cintayet | evaṁ vadet | brūhi sarvatathāgatāś cādhitiṣṭhantāṁ vajrasattvo me āviśatu |</p>
-</supplied>
+<p><supplied reason="lost">tataḥ akāreṇātmānaṁ sitaṁ vajrasattvaṁ cintayet | tad anu akāraṁ vajraraśmimālāyuktaṁ svahr̥di cintayet | punar hūṁkāreṇa śiṣyaṁ <seg rend="check">vimalam</seg>
+<seg rend="check">atiprasannaṁ</seg> vajrasattvaṁ <seg rend="check">vi</seg>cintya, taddhr̥dūrṇākaṇṭha<seg rend="check">mūrdhasu</seg> hūṁhrīṁhrīḥkaṁkāreṇa vajraratnapadmaviśvavajreṇa cihnayitvā, kapāṭodghāṭanamudrayā svakīyaṁ śiṣyahr̥dayaṁ codghāṭayet | tataḥ svahr̥dgatavajram akāreṇa niścārya śiṣyahr̥dgatavajramadhye buddhyā praveśya sarvakāyam āpūryamāṇam cintayet | evaṁ vadet | brūhi sarvatathāgatāś cādhitiṣṭhantāṁ vajrasattvo me āviśatu |</supplied></p>
 <listApp type="parallels">
   <app>
   <note corresp="txt:STTS0223">STTS 223 
@@ -11464,9 +11371,7 @@ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tv�
 </app>
 </listApp>
 
-<supplied reason="lost">
-<p>tatas tvaramāṇena vajrācāryeṇa sattvavajrīṁ baddhvā tasya hr̥daye sthāpya idam uccārayitavyam |</p>
-</supplied>
+<p><supplied reason="lost">tatas tvaramāṇena vajrācāryeṇa sattvavajrīṁ baddhvā tasya hr̥daye sthāpya idam uccārayitavyam |</supplied></p>
 <listApp type="parallels">
   <app>
   <note corresp="txt:STTS0224">STTS 224
@@ -11480,12 +11385,12 @@ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tv�
 </app>
 </listApp>
 
-<supplied reason="lost">
 <lg met="anuṣṭubh">
-<l n="a">ayaṁ tat samayo vajraṁ</l> <l n="b">vajrasattva-m-iti smr̥tam |</l>
-<l n="c">āveśayatu te 'dyaiva</l> <l n="d">vajrajñānam anuttaram ||</l>
+<l n="a"><supplied reason="lost">ayaṁ tat samayo vajraṁ</supplied></l> 
+<l n="b"><supplied reason="lost">vajrasattva-m-iti smr̥tam |</supplied></l>
+<l n="c"><supplied reason="lost">āveśayatu te 'dyaiva</supplied></l> 
+<l n="d"><supplied reason="lost">vajrajñānam anuttaram ||</supplied></l>
 </lg>
-</supplied>
 <listApp type="parallels">
   <app>
   <note sameAs="txt:STTS0224">STTS 224</note>
@@ -11496,9 +11401,7 @@ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tv�
 </app>
 </listApp>
 
-<supplied reason="lost">
-<p>vajrāveśa aḥ iti |</p>
-</supplied>
+<p><supplied reason="lost">vajrāveśa aḥ iti |</supplied></p>
 <listApp type="parallels">
   <app>
   <note sameAs="txt:STTS0224">STTS 224 <foreign>vajrāveśa aḥ |</foreign></note>
@@ -11508,9 +11411,7 @@ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tv�
 </app>
 </listApp>
 
-<supplied>
-<p><seg rend="check">daśavārān yāvac chatavārān</seg> uccārya niyatam āviśati | <seg rend="check">tato</seg> yady āveśo na bhavati tadā krodhamuṣṭiṁ baddhvā sattvavajrīṁ sphoṭayet | <seg rend="check">vajrasattva aḥ aḥ aḥ aḥ</seg> iti coccārya, <seg rend="check">bhagavatā</seg> vajrasattvena raktajvālākulāpūryamāṇaṁ cintayet | yāvac <seg rend="check">chata</seg>vārān uccārayet |</p>
-</supplied>
+<p><supplied reason="lost"><seg rend="check">daśavārān yāvac chatavārān</seg> uccārya niyatam āviśati | <seg rend="check">tato</seg> yady āveśo na bhavati tadā krodhamuṣṭiṁ baddhvā sattvavajrīṁ sphoṭayet | <seg rend="check">vajrasattva aḥ aḥ aḥ aḥ</seg> iti coccārya, <seg rend="check">bhagavatā</seg> vajrasattvena raktajvālākulāpūryamāṇaṁ cintayet | yāvac <seg rend="check">chata</seg>vārān uccārayet |</supplied></p>
 <listApp type="parallels">
   <app>
   <note sameAs="txt:SDPT292:13-21">SDPT 292:13-21
@@ -11524,70 +11425,38 @@ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tv�
 
 <!-- SI RT AG checked down to here 2024-12-03-->
 
-<p><supplied reason="lost">evam api yady āveśo na bhavati tato ghaṇṭāsahitāṁ vajrā</supplied><pb edRef="#cod" n="60r" break="no"/>veśasamayamudrāṁ baddhvā</p>
-<listApp type="parallels">
+<p><supplied reason="lost">evam api yady āveśo na bhavati tato ghaṇṭāsahitāṁ vajrā</supplied><pb edRef="#cod" n="60r" break="no"/>veśasamayamudrāṁ baddhvā vāmapādena tasya dakṣiṇapādam 
 <app>
-<lem>evam api ... baddhvā</lem>
-<note>SVU Tib.: de lta bus kyang gal te 'bab par ma gyur na/ de'i tshe rdo rje 'bebs pa'i dam tshig gi phyag rgya dril bu dang b as pa <lb edRef="#SVUTibD" n="45a4"/>
-bcings la;
-
-SDPT (p.292) punar api yady āveśo na bhavati/ tato ghaṇṭāsahitāṁ vajrāveśasamayamudrāṁ baddhvā
-
-</note>
+<lem type="emn" wit="#MSK">ākramyoparyākāśadeśe</lem><rdg wit="#cod">ākramyamyopayākāśadese</rdg>
 </app>
-</listApp>
-<listApp type="parallels">
-<app>
-<lem>vāmapādena ... tathaivāvartayet</lem>
-<note>SDPT (p.292):
-vāmapādena tasya dakṣiṇapādam ākraṁyopary
-ākāśadeśe vairocanaṁ śrīvajrahuṁkārasyopari tasyaivāveśanāya
-kruddhahuṁkāraraśmisamūhenākramyamāṇam adhastāc ca vajravātamandalyā
-huṁkāreṇotthāpyamānam evaṁ pūrvādidiksthitair akṣobhyādibhiḥ | huṁ trāṁ
-hrīḥ iti svabījaraśmivyūhaiḥ saṁpātyamānaṁ cintayaṁs tam āveśayet | huṁ
-vajrāveśa aḥ <seg rend="check">śatadhoccārayet</seg> |
-
-</note>
-</app>
-</listApp>
-</l>
-<l n="cd">vāmapādena tasya dakṣiṇapāda<app>
-<lem type="emn" wit="#MSK">mākramyoparyā<!-- mākramyoparyā --></lem>
-<rdg wit="#cod">ākramyamyopay</rdg>
-</app>
-<app>
-<lem wit="#MSK">kāśadeśe<!-- kāśadeśe --></lem>
-<witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">kāśadese</rdg>
-</app>  vairocanaṁ <app>
-<lem type="emn" wit="#MSK">śrīvajrasattvasyopari<!-- śrīvajrasattvasyopari --></lem>
+ vairocanaṁ <app>
+<lem type="emn" wit="#MSK">śrīvajrasattvasyopari</lem>
 <rdg wit="#cod">śrīvajrasatvosyopari</rdg>
 </app>
 <app>
-<lem>tasyaivāveśanāya<!--tasyaivāveśanāya--></lem>
+<lem>tasyaivāveśanāya</lem>
 <note>possibly the ms. shows <foreign>tasyaivāveśanāyaṁ</foreign>, but the <foreign>anusvāra</foreign> is unclear and anyhow unwanted.
 </note>
 </app>
 <app>
-<lem type="emn" wit="#MSK">kruddhahūṁkāra<!-- kruddhahūṁkāra --></lem>
+<lem type="emn" wit="#MSK">kruddhahūṁkāra</lem>
 <rdg wit="#cod">kruddhaṁhū;ṁkāra</rdg>
 </app> raśmisa<app>
-<lem type="emn" wit="#MSK">mūhenā<!-- mūhenā --></lem>
+<lem type="emn" wit="#MSK">mūhenā</lem>
 <rdg wit="#cod">-mūkenā-</rdg>
 <note>wrongly reports a <foreign>-mūmena-</foreign> as reading</note>
 </app>kramyamāṇamadhastācca vajravātamaṇḍalyā  hūṁkāreṇotthāpyamānam 
 evaṁ pūrvādi<app>
-<lem wit="#MSK" type="emn">diksthitai<!-- diksthitai --></lem>
+<lem wit="#MSK" type="emn">diksthitai</lem>
 <rdg wit="#cod">-disthitair</rdg>
 </app>
 <app>
-<lem type="emn" wit="#MSK">rakṣobhyādibhiḥ<!-- rakṣobhyādibhiḥ --></lem>
+<lem type="emn" wit="#MSK">rakṣobhyādibhiḥ</lem>
 <rdg wit="#cod">akṣobhyādiḥ</rdg>
-</app>  hūm̐ <app>
-<lem>traḥ<!--traḥ--></lem>
-<note>\emn\ <foreign>trāḥ</foreign>, with \MSK?
-</note>
-</app> hrīḥ {\ah}}</l>
+</app> hūm̐ <app>
+<lem>traḥ</lem>
+<note>Emend <foreign>trāḥ</foreign>, with MSK?</note>
+</app> hrīḥ aḥ 
 <!-- cf. §49 -->
 <!-- ākramyamyopay: em. ākramyopary, with MSK. -->
 <!-- ākāśadese: em. ākāśadeśe, with MSK (sil. em.). -->
@@ -11600,20 +11469,34 @@ evaṁ pūrvādi<app>
 <!-- traḥ: em. trāḥ, with MSK? -->
 <!--  raśmisa\linebreak{60r2}mūkenā -->
 
-<l n="c">ityebhiḥ svabījaraśmivyūhaiḥ saṁpātyamānaṁ <app>
-<lem wit="#MSK" type="emn">cintayaṁsta<!-- cintayaṁsta --></lem>
+ity ebhiḥ svabījaraśmivyūhaiḥ saṁpātyamānaṁ <app>
+<lem wit="#MSK" type="emn">cintayaṁsta</lem>
 <rdg wit="#cod">cintayens tam</rdg>
-<note>
-<ptr target="#MSK"/>
- reads <foreign>cintayet stam</foreign>
-</note>
-</app>māveśayet | vajrasattva {\ah"/>{\ah"/>{\ah"/>{\ah"/><app>
-<lem wit="#MSK">iti tathaivāvartayet<!-- iti tathaivāvartayet --></lem>
+<note><ptr target="#MSK"/> reads <foreign>cintayet stam</foreign></note>
+</app>m
+āveśayet | vajrasattva aḥ aḥ aḥ aḥ
+<app><lem wit="#MSK">iti tathaivāvartayet</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">i tathaivāvarttayet</rdg>
-</app>  |
-</l>
-</lg>
+</app> |</p>
+
+<listApp type="parallels">
+<app>
+<lem>evam api ... baddhvā</lem>
+<note>SVU Tib.: <foreign xml:lang="tib">de lta bus kyang gal te 'bab par ma gyur na/ de'i tshe rdo rje 'bebs pa'i dam tshig gi phyag rgya dril bu dang b as pa <lb edRef="#SVUTibD" n="45a4"/> bcings la</foreign></note>
+<note>SDPT (p. 292) punar api yady āveśo na bhavati/ tato ghaṇṭāsahitāṁ vajrāveśasamayamudrāṁ baddhvā</note>
+</app>
+</listApp>
+
+<listApp type="parallels">
+<app>
+<lem>vāmapādena ... tathaivāvartayet</lem>
+<note>SDPT (p. 292):
+vāmapādena tasya dakṣiṇapādam ākraṁyopary ākāśadeśe vairocanaṁ śrīvajrahuṁkārasyopari tasyaivāveśanāya
+kruddhahuṁkāraraśmisamūhenākramyamāṇam adhastāc ca vajravātamandalyā huṁkāreṇotthāpyamānam evaṁ pūrvādidiksthitair akṣobhyādibhiḥ | huṁ trāṁ hrīḥ iti svabījaraśmivyūhaiḥ saṁpātyamānaṁ cintayaṁs tam āveśayet | huṁ vajrāveśa aḥ <seg rend="check">śatadhoccārayet</seg> |</note>
+</app>
+</listApp>
+
 
 <ab>
 atha <app>
@@ -12367,57 +12250,42 @@ yaḥ śrīnivāsaḥ pravaro gaṇānāṁ tan maṅgalaṁ bhavatu śāntikara
 </lg>
 
 
-<lg met="FILL-ME-IN">
+<lg met="vasantatilakā">
 <!-- MSK yan maṅgalaṁ kisalayajvalapuṣpanaddhe ramye ca lumbinivane bahudevajuṣṭhe | nāthasya janmani babhūva bhavāntakasya tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || 5 || -->
-
-<!-- RT&AG -->
-<l n="ab">ya<app>
-<lem type="emn" wit="#MSK">nmaṅgalaṁ<!-- nmaṅgalaṁ --></lem>
-<rdg wit="#cod">maṅgala</rdg>
+<l n="a">ya<app>
+<lem type="emn" wit="#MSK">nmaṅgalaṁ</lem><rdg wit="#cod">maṅgala</rdg>
 </app>
-<app>
-<lem type="emn">kisalayojjvala<!-- kisalayojjvala --></lem>
+<app><lem type="emn" rend="hyphenright">kisalayojjvala</lem>
 <rdg wit="#cod">kiśalayojvala-</rdg>
-<note>
-<ptr target="#MSK"/>
- emends kisalayajvala-, but the phrase kisalayojjvala is found in several Sanskrit texts</note>
-</app>puṣpanaddhe ramye ca lumbinivane bahudeva<app>
+<note><ptr target="#MSK"/> emends <foreign>kisalayajvala-</foreign>, but the phrase <foreign>kisalayojjvala</foreign> is found in several Sanskrit texts.</note>
+</app>puṣpanaddhe</l> 
+<l n="b">ramye ca lumbinivane bahudeva<app>
 <lem type="emn">juṣṭe<!-- juṣṭe --></lem>
 <rdg wit="#cod">-juṣṭhe</rdg>
-<note>
-<ptr target="#MSK"/>
- reads -juṣṭhe as though it were unproblematic</note>
-</app> |
-</l>
-<l n="cd">nāthasya <app>
-<lem wit="">janmani babhūva bhavāntakasya<!-- janmani babhūva bhavāntakasya --></lem>
+<note><ptr target="#MSK"/> reads -juṣṭhe as though it were unproblematic</note>
+</app> |</l>
+<l n="c">nāthasya <app>
+<lem wit="#MSK">janmani babhūva bhavāntakasya</lem>
 <note>restoration on the basis of Padmaśrīmitra and other sources.</note>
 <rdg wit="#cod">
 <unclear>janmani vabhūva bhavāntaka</unclear>sya</rdg>
-</app> tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya<listApp type="parallels">
+</app></l>
+<l n="d">tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya ||</l></lg>
+<listApp type="parallels">
 <app>
-<lem>yanmaṅgalaṁ ... tavādya</lem>
-<note>
-  Padmaśrīmitra:
+<note>Padmaśrīmitra:
 <foreign>yan maṇgalaṁ kisalayojvalapuṣpanaddhe ramye ca lumbinivane bahudevapuṣṭe |
-  nāthasya janmani babhūva bhavāntakasya tan maṅgalaṁ bhava(3)tu śāntikaraṁ tavādya ||</foreign>
-<note>
-<ptr target="#MSK"/>
- inserts here
+  nāthasya janmani babhūva bhavāntakasya tan maṅgalaṁ bhava(3)tu śāntikaraṁ tavādya ||</foreign></note>
+<note><ptr target="#MSK"/> inserts here
 <foreign>groṅ khyer ser skye'i gnas rgyal po'i pho braṅ du |
  lhums nas bltams pa ston pa bde gśegs zas gstan sras |
  myur bskrun bdud rtsi'i chus stor pa yi bkra śis gaṅ |
  bkra śis des ni skye dgru rnams la .zi bhyed śog || 6  ||</foreign>
-With regard to the verse no. 6, <ptr target="#MSK"/>
- states that the Sanskrit ms. omits this verse.
+With regard to the verse no. 6, <ptr target="#MSK"/> states that the Sanskrit ms. omits this verse.
 It is reconstructed by H. Takahashi: yan maṅgalaṁ kapilavastuni rājadhānyāṁ garbhād viniḥsr̥tavataḥ snapitasya devaiḥ | śauddhodaner amr̥tavāribhir āśuvr̥ddhyai tan maṅgalaṁ bhavatu śāntikaraṁ tavādya ||
-For stanzas 6-8, MSK wrongly reconstructs  order and text. We move quotations from MSK to the correct position, but leave MSK's stanza numbering intact in these quotations.
-</note>
-</note>
+For stanzas 6-8, MSK wrongly reconstructs  order and text. We move quotations from MSK to the correct position, but leave MSK's stanza numbering intact in these quotations.</note>
 </app>
 </listApp>
- ||
-</l>
 <!-- maṅgalaṁ: em. maṅgalaṁ, with MSK. -->
 <!-- kiśalayojvala-: em. kisalayojjvala-; MSK emends kisalayajvala-, but the phrase kisalayojjvala is found in several Sanskrit texts. -->
 <!-- -juṣṭhe: em. -juṣṭe. MSK reads -juṣṭhe as though it were unproblematic. -->
@@ -12432,29 +12300,26 @@ For stanzas 6-8, MSK wrongly reconstructs  order and text. We move quotations fr
 <!--  It is reconstructed by H. Takahashi: yan maṅgalaṁ kapilavastuni rājadhānyāṁ garbhād viniḥsr̥tavataḥ snapitasya devaiḥ | śauddhodaner amr̥tavāribhir āśuvr̥ddhyai tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || -->
 
 <!-- For stanzas 6-8, MSK wrongly reconstructs  order and text. We move quotations from MSK to the correct position, but leave MSK's stanza numbering intact in these quotations. -->
-</lg>
 
-<lg met="FILL-ME-IN">
+<lg met="vasantatilakā">
 <!-- MSK yan maṅgalaṁ vividhaduḥkhavināśanāya tuṣtyā tapovanam abhivrajato 'rdharātre |  āsīt suraiḥ parivr̥tasya namaskr̥tasya tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || 8 ||] -->
-
-<!-- RT&AG -->
-<l n="ab">
-<pb edRef="#cod" n="62v"/> yanmaṅgalaṁ
+<l n="a"><pb edRef="#cod" n="62v"/> yanmaṅgalaṁ
 <app>
 <lem type="emn" wit="#MSK">vividha</lem>
 <rdg wit="#cod">vividhi-</rdg>
 </app> duḥkha<app>
-<lem type="emn" wit="#MSK">vināśanāya<!-- vināśanāya --></lem>
+<lem type="emn" wit="#MSK">vināśanāya</lem>
 <rdg wit="#cod">-vināśaya</rdg>
 </app>
-<app>
-<lem wit="#MSK">tuṣṭyā<!-- tuṣṭyā --></lem>
+</l>
+<l n="b"><app>
+<lem wit="#MSK">tuṣṭyā</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">tuṣṭhā</rdg>
-</app>  tapova<supplied reason="lost">namabhivrajato'rdharātre |</supplied>
-</l>
-<l n="cd">
-<supplied reason="lost">yakṣaiḥ surairanugatasya tathāgatasya tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya ||</supplied>
+</app>  tapova<supplied reason="lost">nam abhivrajato 'rdharātre |</supplied></l>
+<l n="c"><supplied reason="lost">yakṣaiḥ surair anugatasya tathāgatasya</supplied></l> 
+<l n="d"><supplied reason="lost">tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya ||</supplied></l>
+</lg>
 <listApp type="parallels">
 <app>
 <lem>yanmaṅgalaṁ ... tavādya</lem>
@@ -12465,40 +12330,38 @@ For stanzas 6-8, MSK wrongly reconstructs  order and text. We move quotations fr
 </note>
 </app>
 </listApp>
-</l>
 <!--  The ms. skips from tapoVA to puraVA in the next stanza. Our restitution within <seg rend="check">(commad)}omitted{..."/>follows Padmaśrīmitra. -->
 <!-- vividhi-: em. vividha-, with MSK. -->
 <!-- -vināśaya: em. -vināśanāya, with MSK. -->
 <!-- tuṣṭhā: em. tuṣṭyā, with MSK (sil. em.). -->
 <!-- The ms. skips from tapoVA to puraVA in the next stanza. Our restitution within \omitted{..."/>follows Padmaśrīmitra. -->
-</lg>
 
-
-<lg met="FILL-ME-IN">
+<lg met="vasantatilakā">
 <!-- MSK [yan maṅgalaṁ puravare kapilāhvaye ca devair mahātmabhir abhiṣṭutavanditasya | āsīd acintyakuśalasya tathāgatasya tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || 7 || -->
 
-<!-- RT&AG -->
-<l n="ab">
+<l n="a">
 <app>
 <lem>
-<supplied reason="lost">yanmaṅgalaṁ puravare</supplied><!--yan maṅgalaṁ puravare--></lem>
-<note>regarding this restitution, see our comment on the preceding stanza.
-</note>
-</app> kapilāhvaye ca devai<app>
-<lem type="emn" wit="#MSK">rmahātmabhirabhiṣṭutam<!-- rmahātmabhirabhiṣṭutam --></lem>
+<supplied reason="lost">yanmaṅgalaṁ puravare</supplied></lem>
+<note>Regarding this restitution, see our comment on the preceding stanza.</note>
+</app> kapilāhvaye ca</l>
+<l n="b"> devai<app>
+<lem type="emn" wit="#MSK">r mahātmabhir abhiṣṭutam</lem>
 <note corresp="#PŚM"/>
 <rdg wit="#cod">mahātmabhi ṣṭhutam</rdg>
 </app>
 <app>
-<lem><!--abhiṣṭhutam acyutādyaiḥ--></lem>
-<note>here reconstructs abhiṣṭutavanditasya, but PŚM has the same texts as our ms</note>
-</app>acyutā<supplied reason="lost">dyaiḥ</supplied> |
-</l>
-<l n="cd">
-<supplied reason="lost">āsīdanantakuśalasya</supplied>
+<lem type="emn">acyutā<supplied reason="lost">dyaiḥ</supplied></lem>
+<note>MSK here reconstructs -vanditasya, but we reconstruct following PŚM.</note>
+</app>
+ |</l>
+<l n="c"><supplied reason="lost">āsīd anantakuśalasya</supplied>
 <!--   {\rm acyutādyaiḥ | āsīd anantakuśalasya\lem"/>-->
 <!--   our restitution follows PŚM; MSK restores -anantakuśalasya. -->
-tathāgatasya tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya<listApp type="parallels">
+tathāgatasya</l> 
+<l n="d">tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya ||</l>
+</lg>
+<listApp type="parallels">
 <app>
 <lem>yanmaṅgalaṁ ... tavādya</lem>
 <note>
@@ -12507,117 +12370,99 @@ tathāgatasya tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya<listApp type="para
   āsīd anantakuśalasya tathāgatasya tan maṅgalaṁ bhavatu śā(4)ntikaraṁ tavādya ||
 </note>
 </app>
-</listApp> ||
-</l>
+</listApp>
 <!-- \omitted{yan maṅgalaṁ puravare}: regarding this restitution, see our comment on the preceding stanza. -->
 <!-- mahātmabhi ṣṭhutam: em. mahātmabhir abhiṣṭutam, with MSK and PŚM. -->
 <!-- abhiṣṭhutam acyutā\unclear{dyai}\lost{ḥ}: MSK here reconstructs abhiṣṭutavanditasya, but PŚM has the same texts as our ms. -->
 <!-- acyutā\unclear{dyai}\lost{ḥ | āsīd anantakuśala}\unclear{sya}: our restitution follows PŚM; MSK restores -anantakuśalasya. -->
-</lg>
 
-<lg met="FILL-ME-IN">
+<lg met="vasantatilakā">
 <!-- MSK  yan maṅgalaṁ sakalasattvahitāya bodhau saddharmaratnaniratasya muner babhūva | sarvārthasiddhiṣu viśālaparākramasya tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || 9 || -->
-
-<!-- RT&AG  -->
-<l n="ab">yanmaṅgalaṁ sakalasattvahitāya bodhau saddharmaratnaniratasya mune<app>
-<lem type="emn" wit="#MSK">rbabhūva<!-- rbabhūva --></lem>
-<rdg wit="#cod">babhūya</rdg>
-</app>  |
-</l>
-<l n="cd">sarvārtha<app>
-<lem wit="">yanmaṅgalaṁ ... tavādya<!-- <app><lem>yanmaṅgalaṁ ... tavādya --></lem>
-<note>n.e. Padmaśrīmitra. <seg rend="check">CHECK!!</seg>
-</note>
-</app> ||
-</l>
+<l n="a">yanmaṅgalaṁ sakalasattvahitāya bodhau</l>
+<l n="b">saddharmaratnaniratasya mune<app>
+<lem type="emn" wit="#MSK">rbabhūva</lem><rdg wit="#cod">babhūya</rdg></app>  |</l>
+<l n="c">sarvārtha<app><lem wit="#cod" rend="hyphenaround">siddhisuviśāla</lem><rdg wit="#MSK">-siddhiṣu viśāla-</rdg><witDetail wit="#MSK" type="silemn"/></app>parākramasya</l>
+<l n="d">tan maṅgalaṁ bhavatu śāntikaraṁ tavādya ||</l>
+</lg>
+<listApp type="parallels">
+<app>
+<note>Not transmitted by Padmaśrīmitra. <seg rend="check">CHECK!!</seg></note>
+</app> 
+</listApp>
 <!-- This stanza not in PŚM. -->
 <!-- babhūya: em. babhūva, with MSK. -->
 <!-- -siddhisuviśāla-: MSK silently emends -siddhiṣu and inserts a word break after this. But suviśāla is a very common word. -->
-</lg>
 
-
-<lg met="FILL-ME-IN">
+<lg met="vasantatilakā">
 <!-- MSK yan maṅgalaṁ jvalitakāñcanavigrahasya vaiḍūryavarṇatr̥ṇasaṁstaramadhyagasya | paryaṅkabaddhanibiḍottamaniścalasya tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || 10 || -->
-
-<!-- RT&AG  -->
-<l n="ab">yanmaṅgalaṁ jvalitakāñcanavigrahasya vaiḍūryavarṇatr̥ṇa<app>
-<lem wit="#MSK" type="emn" rend="hyphenaround">saṁstara</lem>
+<l n="a">yanmaṅgalaṁ jvalitakāñcanavigrahasya</l>
+<l n="b">vaiḍūryavarṇatr̥ṇa<app><lem wit="#MSK" type="emn" rend="hyphenaround">saṁstara</lem>
 <note>with PŚM,</note>
 <rdg wit="#cod">-saptara-</rdg>
-</app> madhyagasya |</l>
-<l n="cd">paryaṅkabaddha<app>
-<lem type="emn" wit="#MSK">nibiḍottama<!-- nibiḍottama --></lem><!--<note>%emends -nibiḍottama-, which is graphically very plausible. </note>-->
+</app>madhyagasya |</l>
+<l n="c">paryaṅkabaddha<app>
+<lem type="emn" wit="#MSK">nibiḍottama</lem><!-- emends -nibiḍottama-, which is graphically very plausible. -->
 <rdg wit="#cod">-nivitottama-</rdg>
 <note>Check PŚM ms.</note>
-</app>niścalasya tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya<listApp type="parallels">
+</app>niścalasya</l>
+<l n="d">tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya ||</l>
+</lg>
+<listApp type="parallels">
 <app>
 <lem>yanmaṅgalaṁ jvalita-... tavādya</lem>
-<note>
-  Padmaśrīmitra:
+<note>Padmaśrīmitra:
   yan maṅgalaṁ jvalitakāñcanavibhramasya vaidūryavarṇatr̥ṇasaṁstarasaṁsthitasya |
   paryaṅkabaddhanicitrottamaniścalasya tan maṅgalaṁ bhavatu śāntikaraṁ tvādya ||</note>
 <note>MSK inserts here:  
   chu bo'i 'gram na rtswa ṣa'i phreṅ gis yoṅs bskor ba | śin tu rmad du byun ba'i srid pa sel mdzad pa |  klu yi rgyal pos phyag byas pa yi bkra śis gaṅ |  bkra śis des ni skye dgu rnams la .zi byed śog || 11 ||
 </note>
 </app>
-</listApp> ||
-</l>
+</listApp> 
 <!-- vaiḍūya-: em. vaiḍūrya-, with MSK and PŚM. -->
 <!-- -sa○ptara-: em. -saṁstara-, with MSK and PŚM. -->
 <!-- payaṅka-: em. paryaṅka-, with PŚM and MSK (sil. em.). -->
 <!-- -nivitottama-: MSK emends -nibiḍottama-, which is graphically very plausible. Check PŚM ms. -->
-
-<!-- MSK inserts here -->
-<!-- chu bo'i 'gram na rtswa ṣa'i phreṅ gis yoṅs bskor ba | śin tu rmad du byun ba'i srid pa sel mdzad pa |  klu yi rgyal pos phyag byas pa yi bkra śis gaṅ |  bkra śis des ni skye dgu rnams la .zi byed śog || 11 || -->
-</lg>
 <!-- RT&AG reached here on 16/1/2018 -->
 <!-- photo 29,  bottom, line 3, end -->
 
-
+<lg met="vasantatilakā">
 <!-- MSK yan maṅgalaṁ bhagavato drumarājamūle maitrībalena vijite bahumārapakṣe | nānāprakāram abhavad bhuvi cāmbare ca tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || 12 || -->
-<lg met="FILL-ME-IN">
-<!-- RT&AG -->
-<l n="ab">yanmaṅgalaṁ bhagavato drumarājamūle maitrībalena vijite bahumārapakṣe |</l>
-<l n="cd">
-<seg rend="check">nānāprakāra</seg>
-<app>
-<lem type="emn" wit="#MSK">mabhavadbhuvi</lem>
+<l n="a">yanmaṅgalaṁ bhagavato drumarājamūle</l>
+<l n="b">maitrībalena vijite bahumārapakṣe |</l>
+<l n="c"><seg rend="check">nānāprakāram</seg>
+<app><lem type="emn" wit="#MSK">abhavad bhuvi</lem>
 <rdg wit="#cod">abhava bhuvi</rdg>
-</app>  cāmvare tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya<listApp type="parallels">
+</app> cāmvare</l>
+<l n="d">tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya ||</l>
+</lg>
+<listApp type="parallels">
 <app>
 <lem>yanmaṅgalaṁ bhagavato ... tavādya</lem>
-<note>n.e. Padmaśrīmitra. <seg rend="check">CHECK!!</seg>
+<note>Not transmitted by Padmaśrīmitra. <seg rend="check">CHECK!!</seg>
 </note>
 <note>MSK inserts here  
   sdug bsṅal mtha' dag g.zig phyir rdo rje'i gdan b.zugs te | nam gyi tho raṅs bdud b.zi po dag rnams btul ba | ston pa bde bar gśegs pa'i bkra śis gaṅ yin pa | bkra śis des ni skye dgru rnams la .zi byed śog || 13 ||
 </note>
 </app>
-</listApp>//
-</l>
+</listApp>
 <!-- abhava bhuvi: em. abhavad bhuvi, with MSK. -->
-</lg>
 
-
-<lg met="FILL-ME-IN">
-<!-- MSK inserts here -->
-<!-- sdug bsṅal mtha' dag g.zig phyir rdo rje'i gdan b.zugs te | nam gyi tho raṅs bdud b.zi po dag rnams btul ba | ston pa bde bar gśegs pa'i bkra śis gaṅ yin pa | bkra śis des ni skye dgru rnams la .zi byed śog || 13 || -->
-
-<!-- MSK  yan maṅgalaṁ pravadato varadharmacakre vārāṇasīsthitavataḥ sugatasya śāstuḥ -->
-<!-- atyadbhutaṁ sphuṭam abhūd bhuvi cāmbare ca tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || 14 || -->
-
-<!-- RT&AG -->
-<l n="ab">yanmaṅgalaṁ pravadato <seg rend="check">varadharmacakre</seg> % vajradharmacakraṁ?
-<!--  the combination of pravadatas and dharmacakra- is strange (PDSz) -->
-vārāṇasīsthitavataḥ sugatasya śāstuḥ |</l>
-<l n="cd">
-<app>
-<lem wit="" type="emn">atyadbhutaṁ<!-- atyadbhutaṁ --></lem>
-<note>with PŚM and \MSK:</note>
+<lg met="vasantatilakā">
+<!-- MSK  yan maṅgalaṁ pravadato varadharmacakre vārāṇasīsthitavataḥ sugatasya śāstuḥ atyadbhutaṁ sphuṭam abhūd bhuvi cāmbare ca tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || 14 || -->
+<l n="a">yanmaṅgalaṁ pravadato <seg rend="check">varadharmacakre</seg></l>
+<!-- vajradharmacakraṁ? -->
+<!-- the combination of pravadatas and dharmacakra- is strange (PDSz) -->
+<l n="b">vārāṇasīsthitavataḥ sugatasya śāstuḥ |</l>
+<l n="c"><app><lem wit="#MSK" type="emn">atyadbhutaṁ</lem>
+<note>with PŚM</note>
 <rdg wit="#cod">adbhudbhutaṁ</rdg>
-</app>  sphuṭa<app>
-<lem type="emn" wit="#MSK">mabhū<!-- mabhū --></lem>
+</app> sphuṭa<app>
+<lem type="emn" wit="#MSK">mabhū</lem>
 <rdg wit="#cod">abhud</rdg>
-</app> dbhuvi cāmvare ca tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya<listApp type="parallels">
+</app>d bhuvi cāmvare ca</l>
+<l n="d">tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya ||</l>
+</lg>
+<listApp type="parallels">
 <app>
 <lem>yanmaṅgalaṁ pravadato ... tavādya</lem>
 <note>Padmaśrīmitra:
@@ -12625,35 +12470,27 @@ vārāṇasīsthitavataḥ sugatasya śāstuḥ |</l>
   atyadbhutasphuṭam abhūd bhuvi cāmbare ca tan maṅgalaṁ bhavatu śāntikaraṁ tavā(5)dya ||
 </note>
 </app>
-</listApp> ||
-</l>
+</listApp> 
 <!-- °adbhudbhutaṁ: em. °atyadbhutaṁ, with PŚM and MSK. -->
 <!-- abhud: em. abhūd, with MSK. -->
 
-<!-- PŚM -->
-<!-- yan maṅgalaṁ pravadato varadharmacakre vārāṇasīṁ sthitavataḥ sugatasya śāstu(ḥ) | -->
-<!-- atyadbhutasphuṭam abhūd bhuvi cāmbare ca tan maṅgalaṁ bhavatu śāntikaraṁ tavā(5)dya || -->
-</lg>
-
-<lg met="FILL-ME-IN">
+<lg met="vasantatilakā">
 <!-- MSK yan maṅgalaṁ hitakaraṁ paramaṁ pavitraṁ puṇyakriyākaraṇam āryajanābhijuṣṭam |  kr̥tsnaṁ jagāda bhagavān muniśākyasiṁhas tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || 15 || -->
-
-<!-- RT&AG -->
-<l n="ab">yanmaṅgalaṁ hitakaraṁ paramaṁ pavitraṁ puṇyakriyāka<pb edRef="#cod" n="63r" break="no"/>
-raṇammāryajanābhijuṣṭam |</l>
-<l n="cd">
-<app>
-<lem>kr̥tsnaṁ jagāda bhagavānmuniśākyasiṁhaḥ<!--kr̥tsnaṁ jagāda bhagavān muniśākyasiṁhaḥ--></lem>
-<note>kr̥tsnañ jagāda bhagavāṁ muniśākyasiṁhaḥ:  kr̥tsnaṁ jagāda bhagavn muniśākyasiṁhas MSK (silent normalizations).
-  Report this in the apparatus?
-</note>
-</app> tanmaṅgalaṁ bhavatu śāntikaraṁ tavādyeti<listApp type="parallels">
+<l n="a">yanmaṅgalaṁ hitakaraṁ paramaṁ pavitraṁ</l>
+<l n="b">puṇyakriyāka<pb edRef="#cod" n="63r" break="no"/>raṇam āryajanābhijuṣṭam |</l>
+<l n="c"><app><lem>kr̥tsnaṁ jagāda bhagavān muniśākyasiṁhaḥ</lem>
+<note>kr̥tsnañ jagāda bhagavāṁ muniśākyasiṁhaḥ:  kr̥tsnaṁ jagāda bhagavān muniśākyasiṁhas MSK (silent normalizations).
+  <seg rend="check">Report this in the apparatus?</seg></note>
+</app></l> 
+<l n="d">tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya || iti |</l>
+</lg>
+<listApp type="parallels">
 <app>
 <lem>yanmaṅgalaṁ hitakaraṁ ... tavādyeti</lem>
 <note>Padmaśrīmitra:
   yan maṅgalaṁ hitakaraṁ paramaṁ pavitraṁ puṇyakriyākaraṇa(m) āryajanābhijuṣṭam |
-  kr̥tsnaṁ jagāta bhagavān muniśākyasiṁhaḥ tan maṅgalaṁ bhagavatu śāntikaraṁ tavādya ||;\
-  Kriyāsaṁgrahapañjikā 6-8-8-2-2:
+  kr̥tsnaṁ jagāta bhagavān muniśākyasiṁhaḥ tan maṅgalaṁ bhagavatu śāntikaraṁ tavādya ||</note>
+ <note> Kriyāsaṁgrahapañjikā 6-8-8-2-2:
 <foreign>yan maṅgalaṁ hitakaraṁ paramaṁ pavitraṁ puṇyakriyākaraṇam āryajanābhijuṣṭam |
   kr̥tsnaṁ jagāta bhagavān muniśākyasiṁhaḥ tan maṅgalaṁ bhavatu te 'dya varābhiṣeke ||</foreign>
   (Tanemura 2004: 199–200)</note>
@@ -12672,33 +12509,18 @@ raṇammāryajanābhijuṣṭam |</l>
  bkra śis des ni skye dgu rnams la .zi byed śog || 18 ||
 </note>
 </app>
-</listApp> ||
-</l>
+</listApp> 
 <!-- puṇya-: MSK reads puñya- and emends to puṇya-. -->
 <!-- āya-: em. ārya, with MSK (sil. em.). -->
 <!-- kr̥tsnañ jagāda bhagavāṁ muniśākyasiṁhaḥ:  kr̥tsnaṁ jagāda bhagavn muniśākyasiṁhas MSK (silent normalizations). -->
 <!-- yan maṅgalaṁ hitakaraṁ paramaṁ pavitraṁ puṇyakriyākaraṇa(m) āryajanābhijuṣṭam | -->
 <!-- kr̥tsnaṁ jagāta bhagavān muniśākyasiṁhaḥ tan maṅgalaṁ bhagavatu śāntikaraṁ tavādya || -->
-<!-- MSK inserts here -->
-<!-- mu stegs byed pa kun gyi ṅa rgyal g.zom pa daṅ | -->
-<!-- 'gro la bde ba skyed phyir cho 'phrul 'dam pa dag | -->
-<!-- ñe bar ston pa'i rgyal po'i bkra śis graṅ yin pa | -->
-<!-- bkra śis des ni skye dgu rnams la .zi byed śog || 16 || -->
-<!-- 'gro la phan phyir mtho ris gnas ni 'dir gśegs te | -->
-<!-- thaṅs pa la sogs lha thogs lag na rṅa yab gdugs | -->
-<!-- sna tshogs thogs pas yoṅs su bskor ba'i bkra śis gaṅ | -->
-<!-- bkra śis des ni skye dgu rnams la .zi byed śog || 17 || -->
-<!-- de b.zin gśegs pa .zi ba'i mchog tu ñer gśegs pa | -->
-<!-- ma da ra yi me tog maṅ pos mṅon mchod pa | -->
-<!-- lha mchog rnams kyis mṅon par bstod pa'i bkra śis gaṅ | -->
-<!-- bkra śis des ni skye dgu rnams la .zi byed śog || 18 || -->
-</lg>
 
-<lg met="FILL-ME-IN">
+<p>
 <!-- MSK (78) nāmāṣṭaśatena ca saṁstutyādau pūrṇakumbhair vajrāṅkuśādihr̥dayāni udīrayaṁs tatas tatkalaśaiḥ paścād vijayakalaśād vajramuṣṭinodakam ādāyābhiṣekaṁ pānaṁ ca dattvā kalaśena cābhiṣiñced udakābhiṣekataḥ | tatrāyaṁ prayogaḥ | vajrāṅkuśa oṁ vajrābhiṣiñca | yāvat | oṁ vajrasattva hūṁ | oṁ vajrābhiṣiñca | oṁ mahāsukha || ityādi pūrvavad āvartayet | śeṣaṁ pūrvavad evam ||  madhyakramo 'yam || -->
 
-<!-- RT&AG -->
-<l n="ab">nāmāṣṭaśatena ca saṁstutyādau <app>
+
+nāmāṣṭaśatena ca saṁstutyādau <app>
 <lem>pūrṇakumbhai<!--pūrṇakumbhair vajrāṁkuśādi- --></lem>
 <note>Tib. seems to imply a word like tatas between pūrṇṇakumbhair and vajrāṁkuśādi-.
 </note>
@@ -12716,8 +12538,7 @@ raṇammāryajanābhijuṣṭam |</l>
 </app> dvajramuṣṭinodakamādāyābhiṣekaṁ pānaṁ ca dattvā <app>
 <lem type="emn" wit="#MSK">kalaśena<!-- kalaśena --></lem>
 <rdg wit="#cod">kalasena</rdg>
-</app>  cābhiṣiñcedudakābhiṣekataḥ |</l>
-<l n="cd">
+</app>  cābhiṣiñcedudakābhiṣekataḥ |
 <app>
 <lem type="emn" wit="#MSK">tatrāyaṁ<!-- tatrāyaṁ --></lem>
 <rdg wit="#cod">tatrāyām</rdg>
@@ -12727,7 +12548,7 @@ raṇammāryajanābhijuṣṭam |</l>
 </app>  pūrvava<app>
 <lem type="emn" wit="#MSK">deva<!-- deva --></lem>
 <rdg wit="#cod">evaṁ</rdg>
-</app>  | madhyakramo'yam || ||</l>
+</app>  | madhyakramo'yam || ||
 <!-- RT: the object of praise here is the pupil. -->
 <!-- Tib. seems to imply a word like tatas between pūrṇṇakumbhair and vajrāṁkuśādi-. -->
 <!-- -hr̥dayani: em. -hr̥dayāni, with MSK (sil. em.). -->
@@ -12737,38 +12558,33 @@ raṇammāryajanābhijuṣṭam |</l>
 <!-- tatrāyām: em. tatrāyam, with MSK. -->
 <!-- seṣam: em. śeṣaṁ, with MSK. -->
 <!-- evaṁ: em. eva, with MSK. -->
-
-</lg>
-
+</p>
 <!--  \input{11_Vistarakrama"/>-->
 </div>
 
 <div type="section" n="3">
 <head type="editorial">Vistarābhiṣekakrama</head>
 
-<lg met="FILL-ME-IN">
-<l n="ab">atha vistarābhiṣekakramo bhavati |</l>
-<l n="cd">
+<p>atha vistarābhiṣekakramo bhavati |
 <app>
-<lem type="emn">tathaiva<!-- tathaiva --></lem>
+<lem type="emn">tathaiva</lem>
 <rdg wit="#cod">athaiva</rdg>
 </app>  sarvaṁ kr̥tvā lāsyādyaṣṭavidhapūjayā ca <app>
-<lem wit="">saṁpūjayet</lem>
+<lem wit="#MSK">saṁpūjayet</lem>
 <rdg wit="#cod">sampūjayet</rdg>
 <witDetail type="pc" wit="#cod"/>
 <rdg wit="#cod">sampūjyayet</rdg>
 <witDetail type="ac" wit="#cod"/>
-<note>
-<ptr target="#MSK"/>
- notes the presence of <foreign>y</foreign> but does not note that it is cancelled.</note>
+<note><ptr target="#MSK"/> notes the presence of <foreign>y</foreign> but does not note that it is cancelled.</note>
 </app> |
-</l>
-<l n="c">tato ratnaśalākāṁ sauvarṇa<app>
-<lem wit="#MSK">śalākāṁ<!-- śalākāṁ --></lem>
+tato ratnaśalākāṁ sauvarṇa<app>
+<lem wit="#MSK">śalākāṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-salākām</rdg>
-</app>  vādāya purataḥ sthitvā sphuṭavāgevaṁ vadet/</l>
-</lg>
+</app>  vādāya purataḥ sthitvā sphuṭavāgevaṁ vadet |
+</p>
+
+<!-- SI RT AG have reached here on 2024-12-17 -->
 
 <app>
 <lem>
