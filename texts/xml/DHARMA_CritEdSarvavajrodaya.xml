@@ -223,6 +223,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
+      <change who="part:argr" when="2024-12">finished first round of cleaning the xml code</change>
       <change who="part:axja" when="2024-03">Form tex to tei</change>
     </revisionDesc>
   </teiHeader>
