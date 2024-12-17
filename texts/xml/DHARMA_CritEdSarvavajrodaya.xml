@@ -124,7 +124,7 @@
           </witness>
           <witness xml:id="SDPS">
             <abbr type="siglum">SDP<hi rend="superscript">S</hi></abbr>
-            <note>The Sanskrit text of the Sarvadurgatipariśodhanatantra as edited by Skorupski</note>
+            The Sanskrit text of the Sarvadurgatipariśodhanatantra as edited by Skorupski
             <bibl>
               <ptr target="bib:Skorupski1983_01"/>
             </bibl>
@@ -10556,8 +10556,6 @@ des kyang 'tshal zhes brjod par bya ||</foreign>
 </listApp>
 </div>
 
-</div>
-
 <div type="group">
 <head type="editorial" xml:lang="eng">Buddhakula</head>
 <lg met="anuṣṭubh">
@@ -11346,7 +11344,6 @@ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tv�
 </note>
 </app>
 </listApp>
-</div>
 </div>
 </div>
   
@@ -12782,18 +12779,12 @@ māyopamaṁ ca sarva[ṁ] vai traidhātukam aśeṣataḥ [||]</foreign>
  reads <foreign>ekenairddham</foreign>.
 </note>
 </app>
-<app>
-<lem type="emn">
-<seg rend="check">mākāraṇīya</seg><!--ākāraṇīyam--></lem>
-<rdg>ākṣepaṇīyam?</rdg>
-<note>
-<ptr target="#MSK"/>
- accepts the text as it stands in the ms.
-  This should be <foreign>āvāraṇīyam</foreign> or <foreign>uccāraṇīyam</foreign>?
-</note>
+<app><lem type="emn"><seg rend="check">mākāraṇīya</seg></lem>
+<rdg wit="#MSK">ākṣepaṇīyam?</rdg><!-- check -->
+<note><ptr target="#MSK"/> accepts the text as it stands in the ms.  This should be <foreign>āvāraṇīyam</foreign> or <foreign>uccāraṇīyam</foreign>?</note>
 </app>
 <app>
-<lem type="emn" wit="#MSK">madhastācca<!-- madhastācca --></lem>
+<lem type="emn" wit="#MSK">madhastācca</lem>
 <rdg wit="#cod">adhastā</rdg>
 </app>  hoḥ iti/ </l>
 </lg>
@@ -12844,18 +12835,19 @@ athāsya darpaṇagrahaṇe mantraḥ/ ā <app>
 </lg>
 
 
-<lg met="FILL-ME-IN">tato <app>
-<lem wit="#MSK">dharmacakraṁ<!-- dharmacakraṁ --></lem>
+<p>tato <app>
+<lem wit="#MSK">dharmacakraṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">dhammacakraṁ</rdg>
 </app>  pādayormadhye saṁsthāpya <app>
-<lem wit="#MSK">śaṅkhaṁ<!-- śaṅkhaṁ --></lem>
+<lem wit="#MSK">śaṅkhaṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">ṣaṅkhañ</rdg>
 </app>  ca dakṣiṇahaste <app>
-<lem type="emn" wit="#MSK">dattvaivaṁ<!-- dattvaivaṁ --></lem>
+<lem type="emn" wit="#MSK"></lem>
 <rdg wit="#cod">datvevam</rdg>
-</app>  vadet/ <listApp type="parallels">
+</app>  vadet |</p>
+ <listApp type="parallels">
 <app>
 <lem>tato ... vadet</lem>
 <note>The opening prose and following 3 stanzas of this section are also founds in the <foreign>abhiṣeka</foreign> section of the <foreign>Kriyāsaṁgrahapañjikā</foreign>.
@@ -12863,7 +12855,6 @@ KSP chapter 6: <foreign>tato dharmacakraṁ pādayor madhye saṁsthāpya śaṇ
 </note>
 </app>
 </listApp>
-</lg>
 
 <lg met="FILL-ME-IN">
 <l n="ab">adyaprabhr̥ti sahacittotpādamātreṇa dharmacakraṁ <app>
@@ -13153,14 +13144,13 @@ bhavadurgatitoddhr̥tya atyantabhavasiddhaye ||</foreign> 369 ||;
   <note>omitted in \MSK</note>
 </app><pb edRef="#cod" n="64v" break="no"/>tathāgatamaṇḍale svasamayācāryāḥ 
 <app>
-<lem type="emn">samame<!-- samame --></lem>
+<lem type="emn">samame</lem>
 <rdg wit="#cod">samay</rdg>
 </app> kakaṇṭhenā<app>
-<lem type="emn">nuttarāyāṁ<!-- nuttarāyāṁ --></lem>
+<lem type="emn">nuttarāyāṁ</lem>
 <rdg wit="#cod">-nuttarāyā</rdg>
-</app> samya<supplied reason="lost">ksaṁ</supplied>bodhau <app>
-<lem wit="">vyāka<supplied reason="lost">raṇaṁ kurvate | yadutāsyaivodgatāyā mahāmudrāyāḥ paramarahasyo ttamasiddhyadhiṣṭhānenāsya</supplied>
-</lem>
+</app> samya<supplied reason="lost">ksaṁ</supplied>bodhau 
+<app><lem>vyāka<supplied reason="lost">raṇaṁ kurvate | yadutāsyaivodgatāyā mahāmudrāyāḥ paramarahasyo ttamasiddhyadhiṣṭhānenāsya</supplied></lem>
 <note>restored following KSP;</note>
 <rdg wit="#cod"> + + + + + + + + + + + + + + + + + + + + + + + + + + ttamasiddhyadhiṣṭhānenāsya</rdg>
 </app>  ca mantrasya baleneti śraddhātavyam/<listApp type="parallels">
@@ -13581,22 +13571,22 @@ akāro mukhamityādinā <app>
  emends <foreign>vajrayakṣajaptavāriṇā</foreign>
 </note><!--delete this note?--></app>
 <app>
-<lem type="emn" wit="">mūrdhni<!-- mūrdhni --></lem>
+<lem wit="#MSK">mūrdhni</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">mūdhni</rdg>
 </app>
 <app>
-<lem type="emn" wit="#MSK">paryukṣya<!-- paryukṣya --></lem>
+<lem type="emn" wit="#MSK">paryukṣya</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">payukṣya</rdg>
 </app> vāmapāṇau tenaiva <app>
-<lem type="emn">rakṣāsūtrakaṁ<!-- rakṣāsūtrakaṁ --></lem>
+<lem type="emn">rakṣāsūtrakaṁ</lem>
 <rdg wit="#cod #MSK">rakṣyāsūtrakam</rdg>
 <note>
 <ptr target="#MSK"/>
  accepts the reading of \cod</note><!--delete this note?--></app>
 <app>
-<lem wit="">badhnīyāt | <supplied reason="lost">tatastasya hr̥dayaṁ kare</supplied>ṇa</lem><!-- restored; -->
+<lem>badhnīyāt | <supplied reason="lost">tatastasya hr̥dayaṁ kare</supplied>ṇa</lem>
 <rdg wit="#cod">vadhnīyāt· + + + + + + + + + ṇa</rdg>
 <note>
 <ptr target="#MSK"/>
@@ -13694,24 +13684,20 @@ sarvasiddhi<app>
 
 <div type="chapter" n="5">
 <head type="editorial">Samāpti</head>
-<lg met="FILL-ME-IN">
-<l n="ab">śrīmadāryasarvatathāgatatattvasaṁgrahān mahāyānābhisamayān mahātantrarājād uddhr̥tā vajradhātumahāmaṇḍalopayikā <app>
-<lem type="emn">sarvavajrodayā<!-- sarvavajrodayā --></lem>
+<p>śrīmadāryasarvatathāgatatattvasaṁgrahān mahāyānābhisamayān mahātantrarājād uddhr̥tā vajradhātumahāmaṇḍalopayikā 
+<app><lem type="emn">sarvavajrodayā</lem>
 <rdg wit="#cod">sarvavajrodakā</rdg>
-</app>  nāma <app>
-<lem type="emn">samāptā<!-- samāptā --></lem>
+</app>  nāma <app><lem type="emn">samāptā</lem>
 <rdg wit="#cod">samāptaḥ</rdg>
-</app>  || 
-</l>
-<l n="cd">//<app>
-<lem wit="">kr̥teyaṁ mahāvajrācāyānandagarbhapādairiti</lem>
+</app> || 
+<app>
+<lem>kr̥teyaṁ mahāvajrācāyānandagarbhapādairiti ||</lem>
 <note>After this a <foreign>pariṇāmanā</foreign> verse by the scribe:
   vilikhya puṇyaṁ yatprāptaṁ mayā sādhanasaṁskr̥ti |
   aseṣastena loko'yaṁ bhūyācchrīvajrasambhavaḥ ||
 </note>
-</app> ||
-</l>
-</lg>
+</app>
+</p>
 
 <!-- \verse -->
 <!-- vilikhya puṇyaṁ yatprāptaṁ mayā sādhanasaṁskr̥ti |\\ -->
