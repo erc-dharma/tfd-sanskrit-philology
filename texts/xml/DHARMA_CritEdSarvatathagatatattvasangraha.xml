@@ -196,6 +196,7 @@
 			</textClass>
 		</profileDesc>
 		<revisionDesc>
+			<change who="part:argr" when="2025-01-06">replaced non-tesselating <q>...</q> by “...”</change>
 			<change who="part:axja" when="2024-05">conversion from txt to tei</change>
 		</revisionDesc>
 	</teiHeader>
@@ -330,27 +331,27 @@ sarvatathāgatakāyavākcittavajrabandhamudrājñānaḥ ||</p></div>
 	<p>
 		<l>atha khalu sarvatathāgatāḥ mahāsamājam āpadya yena sarvārthasiddhir bodhisattvo mahāsattvo bodhimaṇḍaniṣaṇṇas, tenopajagmuḥ |</l>
 		<l>upetya bodhisattvasya sāṃbhogikaiḥ kāyair darśanaṃ dattvaivam āhuḥ |</l>
-		<l><q>kathaṃ kulaputrānuttarāṃ samyaksaṃbodhim abhisaṃbhotsyase, yas tvaṃ sarvatathāgatatattvānabhijñatayā sarvaduṣkarāṇy utsahasi</q>-iti||</l>
+		<l>“kathaṃ kulaputrānuttarāṃ samyaksaṃbodhim abhisaṃbhotsyase, yas tvaṃ sarvatathāgatatattvānabhijñatayā sarvaduṣkarāṇy utsahasi”-iti||</l>
 	</p>
 </div><!-- Arlo: I am proposing here a convention for undoing sandhi with iti at the end of a quotation. --> 
 
 <div type="section" n="19"><pb n="1_24_19" edRef="#edho"/>
 	<p><l>atha sarvārthasiddhir bodhisattvo mahāsattvaḥ sarvatathāgataiś coditaḥ samānas tataḥ āsphānakasamādhito vyutthāya sarvatathāgatān praṇipatyāhūyaivam āha |</l>
-	<l><q>bhagavantas tathāgatāḥ ājñāpayata! <q>kathaṃ pratipadyāmi? kīdṛśaṃ tattvam?</q></q> iti ||</l>
+	<l>“bhagavantas tathāgatāḥ ājñāpayata! “kathaṃ pratipadyāmi? kīdṛśaṃ tattvam?”” iti ||</l>
 	</p>
 </div>
 
 <div type="section" n="20"><pb n="1_24_20" edRef="#edho"/>
 	<p><l>evam ukte sarvatathāgatās taṃ bodhisattvam ekakaṇṭhenaivam āhuḥ ||</l>
-<l><q>pratipadyasva, kulaputra, svacittapratyavekṣaṇasamādhānena prakṛtisiddhena rucijaptena mantreṇe!</q> 'ti||</l>
-<l><q>oṃ cittaprativedhaṃ karomi</q> || .</l>
+<l>“pratipadyasva, kulaputra, svacittapratyavekṣaṇasamādhānena prakṛtisiddhena rucijaptena mantreṇe!” 'ti||</l>
+<l>“oṃ cittaprativedhaṃ karomi” || .</l>
 </p>
 </div>
 
 <div type="section" n="21"><pb n="1_25_21" edRef="#edho"/>
 <p>
 	<l>atha bodhisattvah sarvatathāgatān evam āha |</l>
-	<l><q>ājñātaṃ me, bhagavantas tathāgatāḥ, svahṛdi candramaṇḍalākāraṃ paśyāmī</q> 'ti sarvatathāgatāḥ procuḥ:<q>prakṛtiprabhāsvaram idaṃ, kulaputra, cittam. tad yathā parikarmyate tat tathaiva bhavati ||tad yathāpi nāma śvetavastrarāgarañjanam</q> iti |</l>
+	<l>“ājñātaṃ me, bhagavantas tathāgatāḥ, svahṛdi candramaṇḍalākāraṃ paśyāmī” 'ti sarvatathāgatāḥ procuḥ:“prakṛtiprabhāsvaram idaṃ, kulaputra, cittam. tad yathā parikarmyate tat tathaiva bhavati ||tad yathāpi nāma śvetavastrarāgarañjanam” iti |</l>
 </p></div>
 
 <div type="section" n="22"><pb n="1_25_22" edRef="#edho"/>
@@ -360,46 +361,46 @@ sarvatathāgatakāyavākcittavajrabandhamudrājñānaḥ ||</p></div>
 <div type="section" n="23"><pb n="1_25_23" edRef="#edho"/>
 <p>
 	<l>atha bodhisattvaḥ punar api sarvatathāgatājñayā bodhicittam utpādyaivam āha |</l>
-	<l><q>yat tac candramaṇḍalākāraṃ tac candramaṇḍalam eva paśyāmi ||</q></l>
+	<l>“yat tac candramaṇḍalākāraṃ tac candramaṇḍalam eva paśyāmi ||”</l>
 </p>
 </div>
 
 <div type="section" n="24"><pb n="1_25_24" edRef="#edho"/>
 <p><l>sarvatathāgatāḥ āhuḥ |</l>
-<l><q>sarvatathāgatahṛdayaṃ te samantabhadraś cittotpādaḥ sāmīcībhūtaḥ| tad sādhu pratipadyasva! sarvatathāgatasamantabhadracittotpādasya dṛḍhīkaraṇahetoḥ svahṛdi candramaṇḍale vajrabimbaṃ cintayānena mantreṇa! ||<q>oṃ tiṣṭha! vajra!</q>||</q></l>
+<l>“sarvatathāgatahṛdayaṃ te samantabhadraś cittotpādaḥ sāmīcībhūtaḥ| tad sādhu pratipadyasva! sarvatathāgatasamantabhadracittotpādasya dṛḍhīkaraṇahetoḥ svahṛdi candramaṇḍale vajrabimbaṃ cintayānena mantreṇa! ||“oṃ tiṣṭha! vajra!”||”</l>
 </p>
 </div>
 
 <div type="section" n="25"><pb n="1_27_25" edRef="#edho"/>
-<p>bodhisattva āha| <q>paśyāmi, bhagavantas tathāgatāś, candramaṇḍale vajram||</q></p>
+<p>bodhisattva āha| “paśyāmi, bhagavantas tathāgatāś, candramaṇḍale vajram||”</p>
 </div>
 
 <div type="section" n="25-2"><pb n="1_27_25-2" edRef="#edho"/>
 <p>
 	<l>sarvatathāgatāḥ āhuḥ |</l>
-	<l><q>dṛḍhīkurv idaṃ sarvatathāgatasamantabhadracittavajram anena mantreṇa!|| <q>oṃ vajrātmako 'ham!</q>||</q></l>
+	<l>“dṛḍhīkurv idaṃ sarvatathāgatasamantabhadracittavajram anena mantreṇa!|| “oṃ vajrātmako 'ham!”||”</l>
 </p></div>
 
 <div type="section" n="26"><pb n="1_27_26" edRef="#edho"/>
 <p>
 	<l>atha yāvantaḥ sarvākāśadhātusamavasaraṇāḥ sarvatathāgatakāyavākcittavajradhātavas, te sarve sarvatathāgatādhiṣṭhānena tasmin sattvavajre praviṣṭāḥ||</l>
-	<l>tataḥ sarvatathāgataiḥ sa bhagavān sarvārthasiddhir mahābodhisattvo <q>vajradhātur vajradhātur!!</q> iti vajranāmābhiṣekeṇaibhiṣiktaḥ |</l>
+	<l>tataḥ sarvatathāgataiḥ sa bhagavān sarvārthasiddhir mahābodhisattvo “vajradhātur vajradhātur!” iti vajranāmābhiṣekeṇaibhiṣiktaḥ |</l>
 </p></div>
 
 <div type="section" n="27"><pb n="1_28_27" edRef="#edho"/>
 <p>
 	<l>atha vajradhātur mahābodhisattvas tān sarvatathāgatān evam āha |</l>
-	<l><q>paśyāmi, bhagavantas tathāgatāḥ, sarvatathāgatakāyam ātmānam||</q></l>
+	<l>“paśyāmi, bhagavantas tathāgatāḥ, sarvatathāgatakāyam ātmānam||”</l>
 </p></div>
 <!-- 2024-05-12 Arlo has checked the TEI structure (skipping some lg/l cases) down to here -->
 <div type="section" n="28"><pb n="1_27_28" edRef="#edho"/>
 <p>
 	<l>sarvatathāgatāḥ prāhuḥ |</l>
-<q>tena hi mahāsattvaḥ! sattvavajraṃ sarvākāravaropetaṃ buddhabimbam ātmānaṃ bhāvayā! 'nena prakṛtisiddhena mantreṇa rucitaḥ parijāpya || <q>oṃ yathā sarvatathāgatās tathā 'ham</q></q>||
+“tena hi mahāsattvaḥ! sattvavajraṃ sarvākāravaropetaṃ buddhabimbam ātmānaṃ bhāvayā! 'nena prakṛtisiddhena mantreṇa rucitaḥ parijāpya || “oṃ yathā sarvatathāgatās tathā 'ham””||
 </p></div>
 
 <div type="section" n="29"><pb n="1_28_29" edRef="#edho"/><lg><l>athaivam ukte vajradhātur mahābodhisattvas tathāgatam ātmānam abhisaṃbudhya tān sarvatathāgatān praṇipatyāhūyaivam āha |</l>
-<l><q>adhitiṣṭhata māṃ! bhagavantas tathāgatāḥ! imām abhisaṃbodhiṃ dṛdhīkuruta ce!</q> 'ti ||</l></lg></div>
+<l>“adhitiṣṭhata māṃ! bhagavantas tathāgatāḥ! imām abhisaṃbodhiṃ dṛdhīkuruta ce!” 'ti ||</l></lg></div>
 
 <div type="section" n="30"><pb n="1_29_30" edRef="#edho"/><ab>athaivam ukte sarvatathāgatāḥ vajradhātos tathāgatasya tasmin sattvavajre praviṣṭāḥ iti||</ab></div>
 
@@ -415,7 +416,7 @@ sarvatathāgatakāyavākcittavajrabandhamudrājñānaḥ ||</p></div>
 <l>sarvatathāgatatvaṃ svayam ātmany adhiṣṭhāya,</l></lg></div>
 
 <div type="section" n="35"><pb n="1_32_35" edRef="#edho"/><lg><l>sarvatathāgatasamantabhadramahābodhisattvasamayasaṃbhavasattvādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatamahāyānābhisamayaṃ nāma sarvatathāgatahṛdayaṃsvahṛdayān niścacāra ||</l>
-<l><q>vajrasattva</q> |</l></lg></div>
+<l>“vajrasattva” |</l></lg></div>
 
 <div type="section" n="36"><pb n="1_36_36" edRef="#edho"/><ab>athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān samantabhadraś candramaṇḍalāni bhūtvā viniḥsṛtya sarvasattvānāṃ mahābodhicittāni saṃśodhya sarvatathāgatānāṃ sarvapārśveṣv avasthitaḥ|
 atha tebhyaś candramaṇḍalebhyaḥ sarvatathāgatajñānavajrāṇi viniḥsṛtya bhagavato vairocanasya tathāgatasya hṛdaye praviṣṭāni|</ab></div>
@@ -438,7 +439,7 @@ atha tebhyaś candramaṇḍalebhyaḥ sarvatathāgatajñānavajrāṇi viniḥs
 <div type="section" n="41"><pb n="1_3940_41" edRef="#edho"/><lg><l>atha samantabhadramahābodhisattvakāyo bhagavato hṛdayād avatīrya sarvatathāgatānāṃ purataś candramaṇḍalāśrito bhūtvājñāṃ mārgayām āsa ||</l></lg></div>
 
 <div type="section" n="42"><pb n="1_40_42" edRef="#edho"/><lg><l>atha bhagavān sarvatathāgatajñānasamayavajraṃ nāma samādhiṃ samāpadya, sarvatathāgataśīlasamādhiprajñāvimuktivimuktijñānadarśanadharmacakrapravartanasattvārthamahopāyabalavīryamahājñānasamayam, aśeṣānavaśeṣasattvadhātuparitrāṇasarvādhipatyasarvasukhasaumanasyānubhavārthaṃ yāvat sarvatathāgatasamatājñānābhijñānuttaramahāyānābhisamayottamasiddhyavāptiphalahetos, tat sarvatathāgatasiddhivajraṃ tasmai samantabhadrāya mahābodhisattvāya sarvatathāgatacakravartitve sarvabuddhakāyaratnamukuṭapaṭṭābhiṣekeṇabhiṣicya pāṇibhyām anuprādāt |</l>
-<l>tataḥ sarvatathāgatair <q>vajrapāṇir vajrapāṇir!!</q> iti vajranāmābhiṣekeṇābhiṣitaḥ ||</l></lg></div>
+<l>tataḥ sarvatathāgatair “vajrapāṇir vajrapāṇir!” iti vajranāmābhiṣekeṇābhiṣitaḥ ||</l></lg></div>
 
 <div type="section" n="43"><pb n="1_40_43" edRef="#edho"/>
 <p><l>atha vajrapāṇir bodhisattvo mahāsattvo vāmavajragarvollālanatayā tad vajraṃ svahṛdy utkarṣaṇayogena dhārayann idam udānam udānayām āsa ||</l></p>
@@ -449,7 +450,7 @@ atha tebhyaś candramaṇḍalebhyaḥ sarvatathāgatajñānavajrāṇi viniḥs
 </div>
 
 <div type="section" n="44"><pb n="1_41_44" edRef="#edho"/><lg><l>atha bhagavām punar apy amogharājamahābodhisattvasamayasaṃbhavasattvādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
-<l><q>vajrarāja</q> || </l></lg></div>
+<l>“vajrarāja” || </l></lg></div>
 
 <div type="section" n="45"><pb n="1_41_45" edRef="#edho"/><ab>athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajrapāṇiḥ sarvatathāgatamahāṅkuśāni bhūtvā viniḥsṛtya, bhagavato vairocanasya hṛdaye praviṣṭavaikaghano vajrāṅkuśamahāvigrahaḥ prādurbhūya, bhagavataḥ pāṇau pratiṣṭhitaḥ|</ab></div>
 
@@ -470,7 +471,7 @@ atha tebhyaś candramaṇḍalebhyaḥ sarvatathāgatajñānavajrāṇi viniḥs
 
 <div type="section" n="48"><pb n="1_42-43_48" edRef="#edho"/>
 <p><l>atha bhagavān sarvatathāgatākarṣaṇasamayavajraṃ nāma samādhiṃ samāpadya, sarvatathāgatākarṣaṇasamayam, aśeṣānavaśeṣasattvadhātusarvākarṣaṇasarva sukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatasamājādhiṣṭhānottamasiddhyarthaṃ tad vajrāṅkuśaṃ tasmā amogharājāya mahābodhisattvāya tathaiva pāṇibhyām anuprādāt |</l>
-<l>tataḥ sarvatathāgatair <q>vajrākarṣo vajr'ākarṣaḥ!!</q> iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l>
+<l>tataḥ sarvatathāgatair “vajrākarṣo vajr'ākarṣaḥ!” iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l>
 </p>
 </div>
 
@@ -487,7 +488,7 @@ atha tebhyaś candramaṇḍalebhyaḥ sarvatathāgatajñānavajrāṇi viniḥs
 <div type="section" n="50"><pb n="1_43_50" edRef="#edho"/>
 <p>
 <l>atha bhagavān punar api māramahābodhisattvasamayasaṃbhavasattvādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatānurāgaṇasamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
-<l><q>vajrarāga</q> || </l>
+<l>“vajrarāga” || </l>
 </p>
 </div>
 
@@ -504,7 +505,7 @@ atha tebhyaś candramaṇḍalebhyaḥ sarvatathāgatajñānavajrāṇi viniḥs
 <div type="section" n="53"><pb n="1_44_53" edRef="#edho"/><lg><l>atha sa māramahābodhisattvakāyo bhagavato hṛdayād avatīrya sarvatathāgatānāṃ vāmacandramaṇḍalāśrito bhūtvā, punar apy ājñāṃ mārgayām āsa ||</l></lg></div>
 
 <div type="section" n="54"><pb n="1_44_54" edRef="#edho"/><lg><l>atha bhagavān sarvatathāgatānurāgaṇādhiṣṭhānavajraṃ nāma samādhiṃ samāpadya, sarvatathāgatamāraṇavajrasamayam aśeṣānavaśeṣasattvadhāṭvanurāgaṇasarvasukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatamārakarmottamasiddhyavāptiphalahetos tad vajravāṇaṃ tasmai mārāya mahābodhisattvāya tathaiva pāṇibhyām anuprādāt |</l>
-	<l>tataḥ sarvatathāgatair <q>vajradhanur vajradhanur!!</q> iti vajranāmābhiṣekeṇābhisiktaḥ |</l></lg></div>
+	<l>tataḥ sarvatathāgatair “vajradhanur vajradhanur!” iti vajranāmābhiṣekeṇābhisiktaḥ |</l></lg></div>
 
 <div type="section" n="55"><pb n="1_44_55" edRef="#edho"/>
 	<p>atha vajradhanur bodhisattvo mahāsattvas tena vajravāṇena sarvatathāgatān mārayann idam udanam udānayām āsa ||</p>
@@ -515,29 +516,29 @@ atha tebhyaś candramaṇḍalebhyaḥ sarvatathāgatajñānavajrāṇi viniḥs
 </div>
 
 <div type="section" n="56"><pb n="1_45_56" edRef="#edho"/><lg><l>atha bhagavān punar api prāmodyarājamahābodhisattvasamayasaṃbhavasattvādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatapramodasamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
-<l><q>vajrasādhu</q> || </l></lg></div>
+<l>“vajrasādhu” || </l></lg></div>
 
 <div type="section" n="57"><pb n="1_45_57" edRef="#edho"/><ab>athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajradharaḥ sādhukārāṇi bhūtvā bhagavato vairocanasya hṛdaye praviṣṭaikaghano bhūtvā vajratuṣṭivigrahaḥ prādur bhūya, bhagavataḥ pāṇau pratiṣṭhitaḥ|</ab></div>
 
 <div type="section" n="58"><pb n="1_45_58" edRef="#edho"/><lg><l>atha tato vajratuṣṭivigrahaḥ sarvalokadhātuparamāṇuparamāṇurājaḥsamās tathāgatavigrahā viniḥsṛtya, sarvatathāgatasādhukār'ādīni sarvabuddharddhivikurvitāni kṛtvā, supramodyatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghanaḥ prāmodyarājamahābodhisattvakāyaḥ saṃbhūya, bhagavato vairocanasya tathāgatasya hṛdaye sthitvedam udānam udānayām āsa ||</l>
-<l><q>aho hi sādhukāro 'haṃ sarvaḥ sarvavidāṃ varaḥ |</l>
-<l>yad vikalpaprahīṇānāṃ tuṣṭiṃ janayate dhruvam</q> ||</l></lg></div>
+<l>“aho hi sādhukāro 'haṃ sarvaḥ sarvavidāṃ varaḥ |</l>
+<l>yad vikalpaprahīṇānāṃ tuṣṭiṃ janayate dhruvam” ||</l></lg></div>
 
 <div type="section" n="59"><pb n="1_45_59" edRef="#edho"/><lg><l>atha sa prāmodyarājamahābodhisattvakāyo bhagavato vairocanasya hṛdayād avatīrya, sarvatathāgatānāṃ pṛṣṭhataś candramaṇḍalāśrito bhūtvā, punar apy ājñāṃ mārgayām āsa ||</l></lg></div>
 
 <div type="section" n="60"><pb n="1_4546_60" edRef="#edho"/>
 <p><l>atha bhagavān sarvatathāgatasaṃtoṣaṇavajraṃ nāma samādhiṃ samāpadya sarvatathāgatānuttaraprāmodyajñānasamayam aśeṣānavaśeṣasattvadhātusarvasattvasaṃtoṣaṇamahāsukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatānuttaraharṣarasottamasiddhiprāptiphalahetos tad vajratuṣṭiṃ tasmai prāmodyarājāya mahābodhisattvāya tathaiva pāṇibhyām anuprādāt ||</l>
-<l>tataḥ sarvatathāgatair <q>vajraharṣo vajraharṣa!!</q> iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></p></div>
+<l>tataḥ sarvatathāgatair “vajraharṣo vajraharṣa!” iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></p></div>
 
 <div type="section" n="61"><pb n="1_46_61" edRef="#edho"/><lg><l>atha vajraharṣo bodhisattvo mahāsattvas tena vajratuṣṭinā sarvatathāgatān sādhukāraiḥ praharṣayann idam udānam udānayām āsa ||</l>
-<l><q>idaṃ tat sarvabuddhānāṃ sādhukārapravartakam |</l>
-<l>sarvatuṣṭikaraṃ vajraṃ divyaṃ prāmodyavardhanam</q> iti ||</l></lg></div>
+<l>“idaṃ tat sarvabuddhānāṃ sādhukārapravartakam |</l>
+<l>sarvatuṣṭikaraṃ vajraṃ divyaṃ prāmodyavardhanam” iti ||</l></lg></div>
 
 <div type="section" n="62"><pb n="1_46_62" edRef="#edho"/><lg><l>mahābodhicittaṃ sarvatathāgat'ākarṣaṇasamayaḥ sarvatathāgatānurāgaṇajñānaṃ mahātuṣṭiś ce 'ti |</l>
 <l>sarvatathāgatamahāsamayasattvāḥ ||</l></lg></div>
 
 <div type="section" n="63"><pb n="1_4647_63" edRef="#edho"/><lg><l>atha bhagavān punar apy ākāśagarbhamahābodhisattvasamayasaṃbhavaratnādiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatābhiṣekasamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
-<l><q>vajraratna</q> ||</l></lg></div>
+<l>“vajraratna” ||</l></lg></div>
 
 <div type="section" n="64"><pb n="1_47_64" edRef="#edho"/><lg><l>athāsmin viniḥsṛtamātresarvatathāgatahṛdayebhyaḥ sarvākāśasamatājñānasuprativedhatvād vajrasattvasamādheḥ sa eva bhagavān vajradharaḥ sarvākāśaraśmayo bhūtvā viniḥsṛtāḥ  taiḥ sarvākāśaraśmibhiḥ sarvalokadhātavo 'vabhāsitāḥ |</l>
  <l>sarvākāśadhātumayāḥ saṃvṛttā abhūvān||</l></lg></div>
@@ -546,80 +547,80 @@ atha tebhyaś candramaṇḍalebhyaḥ sarvatathāgatajñānavajrāṇi viniḥs
 <l>suparibhāvitatvāc ca vajrasattvasamādheḥ sarvākāśadhātugarbhamayaḥ, sarvalokadhātusamavasaraṇa*pramāṇo<unclear>pramāṇā</unclear> mahāvajraratnavigrahaḥ prādur bhūya| bhagavataḥ pāṇau pratiṣṭhitaḥ |</l></lg></div>
 
 <div type="section" n="66"><pb n="1_47_66" edRef="#edho"/><lg><l>atha tasmād vajraratnavigrahāt sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahāḥ prādurbhūya sarvatathāgatābhiṣekādīni sarvatathāgatarddhivikurvitāni sarvalokadhātuṣu kṛtvā sarvākāśadhātugarbhasusaṃbhavatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghana ākāśagarbhamahābodhisattvakāyaḥ saṃbhūya bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āsa ||</l>
-<l><q>aho hi svabhiṣeko 'haṃ vajraratnam anuttaram |</l>
-<l>yan niḥsaṅgā api jinās tridhātupatayaḥ smṛtāḥ</q> ||</l></lg></div>
+<l>“aho hi svabhiṣeko 'haṃ vajraratnam anuttaram |</l>
+<l>yan niḥsaṅgā api jinās tridhātupatayaḥ smṛtāḥ” ||</l></lg></div>
 
 <div type="section" n="67"><pb n="1_48_67" edRef="#edho"/><lg><l>atha sa ākāśagarbhamahābodhisattvakāyo bhagavato hṛdayād avatīrya, sarvataghāgatānāṃ purataś candramaṇḍalāśrito bhūtvā punar apy ājñāṃ mārgayām asa ||</l></lg></div>
 
 <div type="section" n="68"><pb n="1_4849_68" edRef="#edho"/><lg><l>atha bhagavān sarvatathāgatamaṇiratnavajraṃ nāma samādhiṃ samāpadya, sarvatathāgatābhiprāyaparipūraṇasamayam aśeṣānavaśeṣasattvadhātusarvārthapariprāptisarvasukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatārthasaṃpaduttamasiddhiprāptyai tad vajramaṇiṃ tasmā ākāśagarbhāya mahābodhisattvāya vajraratnacakravartitve vajraratnāṅkuśābhiṣekeṇābhiṣicya pāṇibhyām anuprādāt |</l>
-<l>tataḥ sarvatathāgatair <q>vajragarbho vajragarbha!!</q> iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
+<l>tataḥ sarvatathāgatair “vajragarbho vajragarbha!” iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
 
 <div type="section" n="69"><pb n="1_49_69" edRef="#edho"/><lg><l>atha vajragarbho mahābodhisattvas tad vajramaṇiṃ svābhiṣekasthāne sthāpayann idam udānam udānayām āsa ||</l>
-<l><q>idaṃ tat sarvabuddhānāṃ sattvadhātvabhiṣecanam |</l>
-<l>ahaṃ mama kare dattaṃ ratne ratnaṃ niyojitam</q> iti ||</l></lg></div>
+<l>“idaṃ tat sarvabuddhānāṃ sattvadhātvabhiṣecanam |</l>
+<l>ahaṃ mama kare dattaṃ ratne ratnaṃ niyojitam” iti ||</l></lg></div>
 
 <div type="section" n="70"><pb n="1_50_70" edRef="#edho"/><lg><l>atha bhagavān punar api mahātejamahābodhisattvasamayasaṃbhavaratnādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgataraśmisamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
-<l><q>vajrateja</q> || </l></lg></div>
+<l>“vajrateja” || </l></lg></div>
 
 <div type="section" n="71"><pb n="1_50_71" edRef="#edho"/><ab>athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajrapāṇir mahāsūryamaṇḍalāni bhūtvā bhagavato vairocanasya hṛdaye praviṣṭaikaghano vajrasūryavigrahaḥ prādurbhūya, bhagavataḥ pāṇau pratiṣṭhitaḥ|</ab></div>
 
 <div type="section" n="72"><pb n="1_50_72" edRef="#edho"/><lg><l>atha tato vajrasūryamaṇḍalāt sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā viniḥsṛtya, sarvatathāgataraśmipramāñcan'ādīni sarvatathāgatarddhivikurvitāni kṛtvā, sumahātejastvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghano mahātejamahābodhisattvakāyaḥ saṃbhūya, bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āsa ||</l>
-<l><q>aho hy anupamaṃ tejaḥ sattvadhātvavabhāsanam |</l>
-<l>yac chodhayati śuddhānāṃ buddhānām api tāyinām</q> ||</l></lg></div>
+<l>“aho hy anupamaṃ tejaḥ sattvadhātvavabhāsanam |</l>
+<l>yac chodhayati śuddhānāṃ buddhānām api tāyinām” ||</l></lg></div>
 
 <div type="section" n="73"><pb n="1_50_73" edRef="#edho"/><lg><l>atha sa vimalatejamahābodhisattvakāyo bhagavato hṛdayād avatīrya sarvatathāgatānāṃ dakṣiṇacandramaṇḍalāśrito bhūtvā, punar apy ājñāṃ mārgayām āsa ||</l></lg></div>
 
 <div type="section" n="732"><pb n="1_5051_732" edRef="#edho"/><lg><l>atha bhagavān sarvatathāgataprabhāmaṇḍalādhiṣṭhānavajraṃ nāma samādhiṃ samāpadya, sarvatathāgataraśmisamayam aśeṣānavaśeṣasattvadhātvanupamatejaḥsarvasukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatasvayaṃprabhāvāptyuttamasiddhaye tad vajrasūryaṃ tasmaimahātejāya mahābodhisattvāya tataiva pāṇibhyām anuprādāt |</l>
-<l>tataḥ sarvatathāgatair <q>vajraprabho vajraprabha</q> iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
+<l>tataḥ sarvatathāgatair “vajraprabho vajraprabha” iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
 
 <div type="section" n="74"><pb n="1_51_74" edRef="#edho"/><lg><l>atha vajraprabho mahābodhisattvas tena vajrasūryeṇa sarvatathāgatān avabhāsayann idam udānam udānayām āsa ||</l>
-<l><q>idaṃ tat sarvabuddhānām ajñānadhvāntanāśanam |</l>
-<l>paramāṇurajaḥsaṃkhyasūryādhikataraprabham</q> iti ||</l></lg></div>
+<l>“idaṃ tat sarvabuddhānām ajñānadhvāntanāśanam |</l>
+<l>paramāṇurajaḥsaṃkhyasūryādhikataraprabham” iti ||</l></lg></div>
 
 <div type="section" n="75"><pb n="1_52_75" edRef="#edho"/><lg><l>atha bhagavān punar api ratnaketubodhisattvasamayasaṃbhavaratnādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatāśaparipūraṇasamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
-<l><q>vajraketu</q> || </l></lg></div>
+<l>“vajraketu” || </l></lg></div>
 
 <div type="section" n="76"><pb n="1_52_76" edRef="#edho"/><ab>athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajradharo vicitravarṇarūpālaṅkārasaṃsthānāḥ patākā bhūtvā viniḥsṛtya, bhagavato vairocanasya hṛdaye praviṣṭaikaghano vajradhvajavigrahaḥ prādur bhūya bhagavataḥ pāṇau pratiṣṭhitaḥ|</ab></div>
 
 <div type="section" n="77"><pb n="1_52_77" edRef="#edho"/><lg><l>atha tato vajradhvajavigrahāt sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā viniścaritvā, sarvatathāgataratnadhvajocchrayaṇādīni sarvabuddharddhivikurvitāni kṛtvā, mahāratnaketutvād vajrasarvasamādheḥ sudṛḍhatvāc caikaghano ratnaketumahābodhisattvakāyaḥ saṃbhūya bhagavato vairocanasya tathāgatasya hṛdaye sthitvedam udānam udānayām āsa ||</l>
-<l><q>aho hy asadṛśaḥ ketur ahaṃ sarvārthasiddhinām |</l>
-<l>yat sarvāśāparipūrṇānāṃ sarvārthaparipūraṇam</q> iti ||</l></lg></div>
+<l>“aho hy asadṛśaḥ ketur ahaṃ sarvārthasiddhinām |</l>
+<l>yat sarvāśāparipūrṇānāṃ sarvārthaparipūraṇam” iti ||</l></lg></div>
 
 <div type="section" n="78"><pb n="1_52_78" edRef="#edho"/><lg><l>atha sa ratnaketur mahābodhisattvakāyo bhagavato hṛdayād a vatīrya sarvatathāgatānāṃ vāmacandramaṇḍalāśrito bhūtvā punar apy ājñāṃ mārgayām āsa ||</l></lg></div>
 
 <div type="section" n="79"><pb n="1_5253_79" edRef="#edho"/><lg><l>atha bhagavān sarvatathāgatocchrayādhiṣṭhānavajraṃ nāma samādhiṃ samāpadya sarvatathāgatacintārājamaṇidhvajocchrayaṇsamayam aśeṣānavaśeṣasattvasarvāśāparipūrisarvasukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatamahārthottamasiddhiprāptiphalahetos tad vajradhvajaṃ tasmai ratnaketave mahābodhisattvāya tathaiva pāṇibhyām anuprādāt |</l>
-<l>tataḥ sarvatathāgatair <q>vajrayaṣṭir vajrayaṣṭir!!</q> iti vajranāmābhiṣekeṇābhiṣiktaḥ||</l></lg></div>
+<l>tataḥ sarvatathāgatair “vajrayaṣṭir vajrayaṣṭir!” iti vajranāmābhiṣekeṇābhiṣiktaḥ||</l></lg></div>
 
 <div type="section" n="80"><pb n="1_53_80" edRef="#edho"/><lg><l>atha vajrayaṣṭir bodhisattvo mahāsattvas tena vajradhvajena sarvatathāgatān dānapāramitāyāṃ niyojanann idam udānam udānayām āsa ||</l>
-<l><q>idaṃ tat sarvabuddhānāṃ sarvāśāparipūraṇam |</l>
-<l>cintāmaṇidhvajaṃ nāma dānapāramitānayam</q> iti ||</l></lg></div>
+<l>“idaṃ tat sarvabuddhānāṃ sarvāśāparipūraṇam |</l>
+<l>cintāmaṇidhvajaṃ nāma dānapāramitānayam” iti ||</l></lg></div>
 
 <div type="section" n="81"><pb n="1_5354_81" edRef="#edho"/><lg><l>atha bhagavān punar api nityaprītipramuditendriyamahābodhisattvasamayasaṃbhavaratnādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgataprītisamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
-<l><q>vajrahāsa</q> || </l></lg></div>
+<l>“vajrahāsa” || </l></lg></div>
 
 <div type="section" n="82"><pb n="1_54_82" edRef="#edho"/><ab>asthāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyḥ sa eva bhagavān vajradharaḥ sarvatathāgatasmitāni bhūtvā viniḥsṛtya, bhagavato vairocanasya hṛdaye praviṣṭvaikaghano vajrasmitavigrahaḥ prādur bhūya, pāṇau pratiṣṭhitaḥ|</ab></div>
 
 <div type="section" n="83"><pb n="1_54_83" edRef="#edho"/><lg><l>atha tato vajrasmitavigrahāt sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā viniḥsṛtya sarvatathāgatādbhutādīni sarvabuddharddhivikurvitāni kṛtvā |</l>
 <l>nityaprītipramuditendriyatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghano nityaprītipramuditendriyamahābodhisattvakāyaḥ saṃbhūya |</l>
 <l>bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āsa ||</l>
-<l><q>aho mahāhāsam ahaṃ sarvāgryāṇāṃ mahādbhutam |</l>
-<l>yat prayuñjanti buddhārthaṃ sadaiva susamāhitāḥ</q> ||</l></lg></div>
+<l>“aho mahāhāsam ahaṃ sarvāgryāṇāṃ mahādbhutam |</l>
+<l>yat prayuñjanti buddhārthaṃ sadaiva susamāhitāḥ” ||</l></lg></div>
 
 <div type="section" n="84"><pb n="1_54_84" edRef="#edho"/><lg><l>atha sa nityaprītipramuditendriyamahābodhisattvakāyo bhagavato hṛdayād avatīrya, sarvatathāgatānāṃ pṛṣṭhataś candramaṇḍalāśrito bhūtvā punar apy ājñāṃ mārgayām āsa ||</l></lg></div>
 
 <div type="section" n="85"><pb n="1_5455_85" edRef="#edho"/><lg><l>atha bhagavān sarvatathāgatādbhutādhiṣṭhānavajraṃ nāma samādhiṃ samāpadya sarvatathāgatābhūtopādasamayam aśeṣānavaśeṣasattvadhātusarvendriyānuttarasukhasamuanasyānubhavanārhaṃ yāvat sarvatathāgatendriyapariśodhanajñānābhijñāvāptiphalahetos tad vajrasmitaṃ tasmai nityaprītipramuditendriyāya mahābodhisattvāya tathaiva pāṇibhyām anuprādāt |</l>
-<l>tataḥ sarvatathāgatair <q>vajraprītir vajraprītir!!</q> iti vajranāmābhiṣekeṇabhiṣiktaḥ |</l></lg></div>
+<l>tataḥ sarvatathāgatair “vajraprītir vajraprītir!” iti vajranāmābhiṣekeṇabhiṣiktaḥ |</l></lg></div>
 
 <div type="section" n="86"><pb n="1_55_86" edRef="#edho"/><lg><l>atha vajraprītir bodhisattvo mahāsattvas tena vajrasmitena sarvatathāgatān praharṣyann idam udānam udānayām āsa ||</l>
-<l><q>idaṃ tat sarvabuddhānām adbhutotpādadarśakam |</l>
-<l>mahāharṣakaraṃ jñānam ajñātaṃ parasāmitir śāstribhir</q> iti ||</l></lg></div>
+<l>“idaṃ tat sarvabuddhānām adbhutotpādadarśakam |</l>
+<l>mahāharṣakaraṃ jñānam ajñātaṃ parasāmitir śāstribhir” iti ||</l></lg></div>
 
 <div type="section" n="87"><pb n="1_55_87" edRef="#edho"/><lg><l>mahābhiṣeko vyāmaprabhāmaṇḍalaṃ mahāsattvārtho mahāhāsaś ce 'ti |</l>
 <l>sarvatathāgatamahābhiṣekasattvāḥ ||</l>
 
 <l>atha bhagavān punar apy avalokiteśvaramahābodhisattvasamayasaṃbhavadharmādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatadharmasamayaṃ nāma</l>
 <l>sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
-<l><q>vajradharma</q> || </l></lg></div>
+<l>“vajradharma” || </l></lg></div>
 
 <div type="section" n="89"><pb n="1_56_89" edRef="#edho"/><lg><l>athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajradharaḥ svabhāvaśuddhadharmasamatājñānasuprativedhatvad vajrasattvasamādheḥ saddharmaraśmayo bhūtvā viniścaritāḥ |</l>
 <l>taiḥ saddharmaraśmibhiḥ sarvalikadhātavo 'vabhāsitāḥ |</l>
@@ -629,67 +630,67 @@ atha tebhyaś candramaṇḍalebhyaḥ sarvatathāgatajñānavajrāṇi viniḥs
 
 <div type="section" n="91"><pb n="1_56_91" edRef="#edho"/><lg><l>atha tasmād vajrapadmavigrahāt |</l>
 <l>sarvalokadhātuparamāṇurajahsamās tathāgatavigrahā viniḥsṛtya sarvatathāgatasamādhijñānābhijñādīni sarvabuddhārddhivikurvitāni sarvalokadhātuṣu kṛtvā svavalokanaiśvaryatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghano 'valokiteśvaramahābodhisattvakāyaḥ saṃbhūya bhagavato vairocanasya tathāgatasya hṛdaye sthitvedam udānam udānayām āsa ||</l>
-<l><q>aho hi paramārtho 'haṃ ādiśuddhaḥ svayaṃbhuvām |</l>
-<l>yat kolopamadharmāṇāṃ viśuddhir upalabhyate</q> ||</l></lg></div>
+<l>“aho hi paramārtho 'haṃ ādiśuddhaḥ svayaṃbhuvām |</l>
+<l>yat kolopamadharmāṇāṃ viśuddhir upalabhyate” ||</l></lg></div>
 
 <div type="section" n="92"><pb n="1_57_92" edRef="#edho"/><lg><l>atha so 'valokiteśvaramahābodhisattvakāyo bhagavato vairocanasya hṛdayād avatīrya, sarvatathāgatānāṃ purataś candramaṇḍalāśrito bhūtvā punar apy ājñāṃ mārgayām āsa ||</l></lg></div>
 
 <div type="section" n="93"><pb n="1_57_93" edRef="#edho"/><lg><l>atha bhagavān sarvatathāgatasamādhijñānasamayavajraṃ nāma samādhiṃ samāpadya, sarvatathāgataviśodhanasamayam aśeṣānvaśeṣasattvātmapariśuddhisarvasukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatadharmajñānābhijñāvāptiphalahetos tad vajrapadmaṃ tasmā avalokiteśvarāya mahābodhisattvāya saddharmacakravartitve sarvatathāgatadharmakāyābhiṣekeṇabhiṣicya pāṇibhyām anuprādāt |</l>
-<l>tataḥ sarvatathāgatair <q>vajranetro vajranetra!!</q> iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
+<l>tataḥ sarvatathāgatair “vajranetro vajranetra!” iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
 
 <div type="section" n="94"><pb n="1_57_94" edRef="#edho"/><lg><l>atha vajranetro bodhisattvo mahāsattvas tad vajrapadmaṃ pattravikāsanatayā rāgaviśuddhinirlepasvabhāvāvalokanatayā 'valokayann idam udānam udānayām āsa ||</l>
-<l><q>idaṃ tat sarvabuddhānāṃ rāgatattvāvabodhanam |</l>
-<l>ahaṃ mama kare dattaṃ dharmaṃ dharmapratiṣṭhitam</q> iti ||</l></lg></div>
+<l>“idaṃ tat sarvabuddhānāṃ rāgatattvāvabodhanam |</l>
+<l>ahaṃ mama kare dattaṃ dharmaṃ dharmapratiṣṭhitam” iti ||</l></lg></div>
 
 <div type="section" n="95"><pb n="1_58_95" edRef="#edho"/><lg><l>atha bhagavān punar api mañjuśrīmahābodhisattvasamayasaṃbhavadharmādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatamahāprajñājñānasamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
-<l><q>vajratīkṣṇa</q> || </l></lg></div>
+<l>“vajratīkṣṇa” || </l></lg></div>
 
 <div type="section" n="96"><pb n="1_5859_96" edRef="#edho"/><ab>athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajradharaḥ prajñāśatrāṇi bhūtvā viniḥsṛtya, bhagavato vairocanasya hṛdaye praviṣṭvaikaghano vajrakośavigrahaḥ prādurbhūya bhagavataḥ pāṇau pratiṣṭhitaḥ|</ab></div>
 
 <div type="section" n="97"><pb n="1_59_97" edRef="#edho"/><lg><l>atha tato vajrakośavigrahāt sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā viniścaritvā sarvatathāgataprajñājñānādīni sarvabhuddharddhivikurvitāni kṛtvā, sumañjuśriyatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghano mañjuśrīmahābodhisattvakāyaḥ saṃbhūya bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āsa ||</l>
-<l><q>aho hi sarvabuddhānāṃ mañjughoṣam ahaṃ smṛtaḥ ||</l>
-<l>yat prajñāyā arūpiṇyā ghoṣattvam upalabhyate</q> ||</l></lg></div>
+<l>“aho hi sarvabuddhānāṃ mañjughoṣam ahaṃ smṛtaḥ ||</l>
+<l>yat prajñāyā arūpiṇyā ghoṣattvam upalabhyate” ||</l></lg></div>
 
 <div type="section" n="98"><pb n="1_59_98" edRef="#edho"/><lg><l>atha sa mañjuśrīmahābodhisattvakāyo bhagavato hṛdayād avatīrya sarvatathāgatānāṃ dakṣiṇacandramaṇḍal'āśrito bhūtvā, punar apy ājñāṃ mārgayām āsa ||</l></lg></div>
 
 <div type="section" n="99"><pb n="1_60_99" edRef="#edho"/><ab>atha bhagavan sarvatathāgataprajñājñānavajraṃ nāma samādhiṃ samāpadya, sarvatathāgatakleśacchedanasamayam aśeṣānavaśeṣasattvadhātusarvaduḥkhacchedanasarvasukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgataghoṣānugaprajñāpāripūryuttamasiddhyarthaṃ tad vajrakośaṃ tasmai mañjuśriye mahābodhisattvāya tathaiva pāṇibhyām anuprādāt||
-tataḥ sarvatathāgatair <q>vajrabuddhir vajrabuddhir!!</q> iti vajranāmābhiṣekeṇābhiṣiktaḥ|</ab></div>
+tataḥ sarvatathāgatair “vajrabuddhir vajrabuddhir!” iti vajranāmābhiṣekeṇābhiṣiktaḥ|</ab></div>
 
 <div type="section" n="100"><pb n="1_60_100" edRef="#edho"/><lg><l>atha sa vajrabuddhir bodhisattvo mahāsattvas tena vajrakośena sarvatathāgatān praharann idam udānam udānayām āsa ||</l>
-<l><q>idaṃ tat sarvabuddhānāṃ prajñāpāramitānayam |</l>
-<l>chettāraṃ sarvaśatrūṇāṃ sarvapāpaharaṃ param</q> iti ||</l></lg></div>
+<l>“idaṃ tat sarvabuddhānāṃ prajñāpāramitānayam |</l>
+<l>chettāraṃ sarvaśatrūṇāṃ sarvapāpaharaṃ param” iti ||</l></lg></div>
 
 <div type="section" n="101"><pb n="1_60_101" edRef="#edho"/><lg><l>atha bhagavān punar api sahacittotpāditadharmacakrapravartimahābodhisattvasamayasaṃbhavadharmādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatacakrasamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
-<l><q>vajrahetu</q> || </l></lg></div>
+<l>“vajrahetu” || </l></lg></div>
 
 <div type="section" n="102"><pb n="1_61_102" edRef="#edho"/><ab>athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajradharo vajradhātumahāmaṇḍal'ādīni sarvatathāgatamaṇḍalāni bhūtvā viniḥsṛtya, bhagavato vairocanasya hṛdaye praviṣṭvaikaghano vajracakravigrahaḥ prādurbhūya bhagavataḥ pāṇau pratiṣṭhitaḥ|</ab></div>
 
 <div type="section" n="103"><pb n="1_61_103" edRef="#edho"/><lg><l>atha tato vajracakravigrahāt sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā viniścaritvā sahacittotpādadharmacakrapravartanatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghanaḥ sahacittotpāditadharmacakrapravartimahābodhisattvakāyaḥ saṃbhūya, bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āsa |</l>
-<l><q>aho vajramayaṃ cakram ahaṃ vajrāgradharmiṇām |</l>
-<l>yac cittotpādamātreṇa dharmacakraṃ pravartate</q> ||</l></lg></div>
+<l>“aho vajramayaṃ cakram ahaṃ vajrāgradharmiṇām |</l>
+<l>yac cittotpādamātreṇa dharmacakraṃ pravartate” ||</l></lg></div>
 
 <div type="section" n="104"><pb n="1_62_104" edRef="#edho"/><lg><l>atha sa sahacittopāditadharmacakrapravartimahābodhisattvakāyo bhagavato hṛdayād avatīrya sarvatathāgatānāṃ vāmacandramaṇḍalāśrito bhūtvā, punar apy ājñāṃ mārgayām āsa ||</l></lg></div>
 
 <div type="section" n="105"><pb n="1_62_105" edRef="#edho"/><lg><l>atha bhagavān sarvatathāgatacakravajraṃ nāma samādhiṃ samāpadya, sarvatathāgatamahāmaṇḍalasamayam aśeṣānavaśeṣasattvadhātupraveṣāvaivartikacakrasarvasukhasaumanasyānubhagavanārthaṃ yāvat sarvatathāgatasaddharmacakrapravartanottamasiddhinimittaṃ tad vajracakraṃ tasmai sahacittotpāditadharmacakrapravartine mahābodhisattvāya tathaiva pāṇibhyām anuprādāt |</l>
-<l>tataḥ sarvatathāgatair <q>vajramaṇḍo vajramaṇḍa!!</q> iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
+<l>tataḥ sarvatathāgatair “vajramaṇḍo vajramaṇḍa!” iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
 
 <div type="section" n="106"><pb n="1_62_106" edRef="#edho"/><lg><l>atha vajramaṇḍo bodhisattvo mahāsattvas tena vajracakreṇa sarvatathāgatān avaivartikatve pratiṣṭhāpayann idam udānam udānayām āsa ||</l>
-<l><q>idaṃ tat sarvabuddhānāṃ sarvadharmaviśodhakam |</l>
-<l><pb n="STT_1_62-63_106"/>avaivartikacakraṃ tu bodhimaṇḍam iti smṛtam</q> iti ||</l></lg></div>
+<l>“idaṃ tat sarvabuddhānāṃ sarvadharmaviśodhakam |</l>
+<l><pb n="STT_1_62-63_106"/>avaivartikacakraṃ tu bodhimaṇḍam iti smṛtam” iti ||</l></lg></div>
 
 <div type="section" n="107"><pb n="1_63_107" edRef="#edho"/><lg><l>atha bhagavān punar apy avācamahābodhisattvasamayasaṃbhavadharmādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatajāpasamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
-<l><q>vajrabhāṣa</q> || </l></lg></div>
+<l>“vajrabhāṣa” || </l></lg></div>
 
 <div type="section" n="108"><pb n="1_6364_108" edRef="#edho"/><ab>athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajrapāṇiḥ sarvatathāgatadharmākṣarāṇi bhūtvā viniḥsṛtya, bhagavato vairocanasya hṛdaye praviṣṭvaikaghano vajrajāpavigrahaḥ prādurbhūya, bhagavataḥ pāṇau pratiṣṭhi=taḥ|</ab></div>
 
 <div type="section" n="109"><pb n="1_64_109" edRef="#edho"/><lg><l>atha tato vajrajāpavagrahāt sarvalokadhātuparamāṇuraraḥsamās tathāgatavigrahā viniḥsṛtya, sarvatathāgatadharmatādīni sarvabuddharddhivikurvitāni kṛtvā, svavācatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghano 'vācamahābodhisattvakāyaḥ saṃbhūya bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āsa ||</l>
-<l><q>aho svayaṃbhuvāṃ guhyaṃ saṃdhābhāṣam ahaṃ smṛtaḥ |</l>
-<l>yad deśayanti saddharmaṃ vākprapañcavivarjitam</q> ||</l></lg></div>
+<l>“aho svayaṃbhuvāṃ guhyaṃ saṃdhābhāṣam ahaṃ smṛtaḥ |</l>
+<l>yad deśayanti saddharmaṃ vākprapañcavivarjitam” ||</l></lg></div>
 
 <div type="section" n="110"><pb n="1_65_110" edRef="#edho"/><lg><l>atha so 'vācamahābodhisattvakāyo bhagavato hṛdayād avatīrya, sarvatathāgatānāṃ pṛṣṭhataś candramaṇḍalāśrito bhūtvā punar apy ājñāṃ mārgayām āsa ||</l></lg></div>
 
 <div type="section" n="111"><pb n="1_65_111" edRef="#edho"/><lg><l>atha bhagavān sarvatathāgatavāgvajraṃ nāma samādhiṃ samāpadya sarvatathāgatavāgjñānasamayam aśeṣānavaśeṣasattvadhātuvāksiddhisarvasukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatavāgguhyatāprāptyuttamasiddhaye tad vajrajāpaṃ tasmā avacārya mahābodhisattvāya tathaiva pāṇibhyām anuprādāt |</l>
-<l>tataḥ sarvatathāgatair <q>vajravāco vajravāca!!</q> iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
+<l>tataḥ sarvatathāgatair “vajravāco vajravāca!” iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
 
 <div type="section" n="112"><pb n="1_65_112" edRef="#edho"/><lg><l>atha vajravāco bodhisattvo mahāsattvas tena vajrajāpena sarvatathāgatān saṃlāpayann idam udānam udānayām āsa ||</l>
 <l>idaṃ tat sarvabuddhānāṃ vajrajāpau udāhṛtam |</l>
@@ -699,58 +700,58 @@ tataḥ sarvatathāgatair <q>vajrabuddhir vajrabuddhir!!</q> iti vajranāmābhi�
 <l>sarvatathāgatamahājñānasattvāḥ ||</l></lg></div>
 
 <div type="section" n="114"><pb n="1_67_114" edRef="#edho"/><lg><l>atha bhagavān sarvatathāgataviśvakarmamahābodhisattvasamayasaṃbhavakarmādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatakarmasamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
-<l><q>vajrakarma</q> || </l></lg></div>
+<l>“vajrakarma” || </l></lg></div>
 
 <div type="section" n="115"><pb n="1_67_115" edRef="#edho"/><lg><l>athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sarvakarmasamatājñānasuprativedhatvād vajrasattvasamādheḥ sa eva bhagavān vajradharaḥ sarvatathāgatakarmaraśmayo bhūtvā viniḥsṛtāḥ |</l>
 <l>taiś ca sarvatathāgatakarmaraśmibhiḥ sarvalokadhātavo 'vabhāsitāḥ sarvatathāgatakarmadhātumayāḥ saṃvṛttāḥ sa sakalaḥ sarvatathāgatakarmadhātur bhagavato vairocanasya hṛdaye praviṣṭvā, sarv'ākāśadhātusamavasaraṇapramāṇas, tataḥ sarvatathāgatakarmadhātutaḥ, karmavajravigrahaḥ prādurbhūya bhagavataḥ pāṇau pratiṣṭhitaḥ |</l></lg></div>
 
 <div type="section" n="116"><pb n="1_6768_116" edRef="#edho"/><lg><l>atha tataḥ karmavajravigrahāt sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā viniḥsṛtya, sarvalokadhātuṣu sarvatathāgatakarm'ādīni sarvabuddharddhivikurvitāni kṛtvā, sarvatathāgatānantakarmatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghanaḥ sarvatathāgataviśvakarmamahābodhisattvakāyaḥ saṃbhūya, bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āsa ||</l>
-<l><q>aho hy amoghaṃ buddhānāṃ sarvakarmam ahaṃ bahu |</l>
-<l>yad anābhogabuddhārthaṃ vajrakarma pravartate</q> ||</l></lg></div>
+<l>“aho hy amoghaṃ buddhānāṃ sarvakarmam ahaṃ bahu |</l>
+<l>yad anābhogabuddhārthaṃ vajrakarma pravartate” ||</l></lg></div>
 
 <div type="section" n="117"><pb n="1_68_117" edRef="#edho"/><lg><l>atha sa sarvatathāgataviśvakarmamahābodhisattvakāyo bhagvato hṛdayād avatīrya, sarvatathāgatānāṃ purataś candramaṇḍalāśrito bhūtvā punar apy ājñāṃ mārgayām āsa ||</l></lg></div>
 
-<div type="section" n="118"><pb n="1_6869_118" edRef="#edho"/><ab>atha bhagavān sarvatathāgatāmoghavajraṃ nāma samādhiṃ samāpadya, sarvatathāgatapūjāpravartanādyaprameyāmoghasarvakarmavidhivistarasamayam aśeṣānavaśeṣasattvadhātusarvakarmasiddhisarvasukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatavajrakarmatājñānābhijñottamasiddhiphalahetos tat karmavajraṃ tasmai sarvatathāgatavajrakarmaṇe mahābodhisattvāya sarvakarmacakravartitve sarvatathāgatavajrābhiṣekeṇābhiṣicya pāṇibhyām anuprādāt. tataḥ sarva tathāgatair <q>vajraviśvo vajraviśva!!</q> iti vajranāmābhiṣekeṇābhiṣiktaḥ|</ab></div>
+<div type="section" n="118"><pb n="1_6869_118" edRef="#edho"/><ab>atha bhagavān sarvatathāgatāmoghavajraṃ nāma samādhiṃ samāpadya, sarvatathāgatapūjāpravartanādyaprameyāmoghasarvakarmavidhivistarasamayam aśeṣānavaśeṣasattvadhātusarvakarmasiddhisarvasukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatavajrakarmatājñānābhijñottamasiddhiphalahetos tat karmavajraṃ tasmai sarvatathāgatavajrakarmaṇe mahābodhisattvāya sarvakarmacakravartitve sarvatathāgatavajrābhiṣekeṇābhiṣicya pāṇibhyām anuprādāt. tataḥ sarva tathāgatair “vajraviśvo vajraviśva!” iti vajranāmābhiṣekeṇābhiṣiktaḥ|</ab></div>
 
 <div type="section" n="119"><pb n="1_69_119" edRef="#edho"/><lg><l>atha vajraviśvo bodhisattvo mahāsattvas tad vajraṃ svahṛdi sthāpya sarvatathāgatān karmatāyāṃ niyijayann idam udānam udānayām āsa ||</l>
-<l><q>idaṃ tat sarvabuddhānāṃ viśvakarmakaraṃ param |</l>
-<l>ahaṃ mama kare dattaṃ viśve viśvaṃ niyojitam</q> iti ||</l></lg></div>
+<l>“idaṃ tat sarvabuddhānāṃ viśvakarmakaraṃ param |</l>
+<l>ahaṃ mama kare dattaṃ viśve viśvaṃ niyojitam” iti ||</l></lg></div>
 
 <div type="section" n="120"><pb n="1_71_120" edRef="#edho"/><lg><l>atha bhagavān duryodhanavīryamahābodhisattvasamayasaṃbhavakarmādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatarakṣāsamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
-<l><q>vajrarakṣa</q> || </l></lg></div>
+<l>“vajrarakṣa” || </l></lg></div>
 
 <div type="section" n="121"><pb n="1_71_121" edRef="#edho"/><ab>athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajrapāṇir dṛḍhakavacāni bhūtvā viniḥsṛtya bhagavato vairocanasya hṛdaye praviṣṭvaikaghano mahāvajrakavacavigrahaḥ prādur bhūya bhagavataḥ pāṇau pratiṣṭhitaḥ|</ab></div>
 
 <div type="section" n="122"><pb n="1_71_122" edRef="#edho"/><lg><l>atha tato vajrakavacavigrahāt sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā viniḥsṛtya, sarvatathāgatarakṣāvidhivistarakarmādīni sarvabuddharddhivikurvitāni kṛtvā, duryodhanavīryatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghanoduryodhanavīryamahābodhisattvavigrahaḥ saṃbhūya, bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āsa ||</l>
-<l><q>aho vīryamayo varmaḥ sudṛḍho 'haṃ dṛḍhātmānām |</l>
-<l>yad dṛḍhatvād akāyānāṃ vajrakāyakaraṃ param</q> iti ||</l></lg></div>
+<l>“aho vīryamayo varmaḥ sudṛḍho 'haṃ dṛḍhātmānām |</l>
+<l>yad dṛḍhatvād akāyānāṃ vajrakāyakaraṃ param” iti ||</l></lg></div>
 
 <div type="section" n="123"><pb n="1_72_123" edRef="#edho"/><lg><l>atha sa duryodhanavīryamahābodhisattvakāyo bhagavato hṛdayād avatīrya, sarvatathāgatānāṃ dakṣiṇacandramaṇḍalāśrito bhūtvā punar apy ājñāṃ mārgayām āsa ||</l></lg></div>
 
 <div type="section" n="124"><pb n="1_72_124" edRef="#edho"/><lg><l>atha bhagavān sarvatathāgatadṛḍhavajraṃ nāma samādhiṃ samāpadya, sarvatathāgatavīryapāramitāsamayam aśeṣānavaśeṣasattvadhātuparitrāṇasarvasukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatavajrakāyaprāptyuttamasiddhihetos tad vajravarmaṃ tasmai duryodhanavīryāya mahābodhisattvāya pāṇibhyām anuprādāt |</l>
-<l>tataḥ sarvatathāgatair <q>vajramitro vajramitra!!</q> iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
+<l>tataḥ sarvatathāgatair “vajramitro vajramitra!” iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
 
 <div type="section" n="125"><pb n="1_72_125" edRef="#edho"/><lg><l>atha vajramitro bodhisattvo mahāsattvas tena vajravarmaṇā sarvatathāgatān kavacāyann idam udānam udānayām āsa ||</l>
-<l><q>idaṃ tat sarvabuddhānāṃ maitrīkavacam uttamam |</l>
-<l>dṛḍhavīryamahārakṣaṃ mahāmitram udāhṛtam</q> iti ||</l></lg></div>
+<l>“idaṃ tat sarvabuddhānāṃ maitrīkavacam uttamam |</l>
+<l>dṛḍhavīryamahārakṣaṃ mahāmitram udāhṛtam” iti ||</l></lg></div>
 
 <div type="section" n="126"><pb n="1_73_126" edRef="#edho"/><lg><l>atha bhagavān punar api sarvamārapramardimahābodhisattvasamayasaṃbhavakarmādhiṣṭhanavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatopāyasamayaṃ nāma sarvatathā=gatahṛdayaṃ sarvahṛdayāṇ niścacāra ||</l>
-<l><q>vajrayakṣa</q> || </l></lg></div>
+<l>“vajrayakṣa” || </l></lg></div>
 
 <div type="section" n="127"><pb n="1_73_127" edRef="#edho"/><ab>athāsamin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajradharo mahādaṃṣṭrāyudhāni bhūtvā viniḥsṛtya bhagavato vairocanasya hṛdaye praviṣṭvaikaghano vajradaṃṣṭrāvigrahaḥ prādurbhūya pāṇau pratiṣṭhitaḥ|</ab></div>
 
 <div type="section" n="128"><pb n="1_73_128" edRef="#edho"/><lg><l>atha tato vajradaṃṣṭrāvigrahāt sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā viniścaritvā sarvatathāgataraudravinayādīni sarvabuddharddhivikurvitāni kṛtvā, sarvamarasupramarditvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghanaḥ sarvamārapramardimahābodhisattvakāyaḥ saṃbhūya, bhagavato vairocanasya hṛdaye sthitvedaṃ udānam udānayām āsa ||</l>
-<l><q>aho mahopāyam ahaṃ buddhānāṃ karuṇātmanām |</l>
+<l>“aho mahopāyam ahaṃ buddhānāṃ karuṇātmanām |</l>
 <l>yat sattvārthatayā śāntā raudratvam api kurvate ||</l></lg></div>
 
 <div type="section" n="129"><pb n="1_73_129" edRef="#edho"/><lg><l>atha sa sarvamārapramardimahābodhisattvakāyo bhagavato hṛdayād avatīrya, sarvatathāgatānāṃ vāmacandramaṇḍalāśrito bhūtvā, punar apy ājñāṃ mārgayām āsa ||</l></lg></div>
 
 <div type="section" n="130"><pb n="1_7374_130" edRef="#edho"/><lg><l>atha bhagavān sarvatathāgatapracaṇḍavajraṃ nāma samādhiṃ samāpadya sarvatathāgataduṣṭavinayasamayam aśeṣānavaśeṣasattvadhātvabhayasarvasukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatamahopāyajñānābhijñāvāptyuttamasiddhiphalahetos tad vajradaṃṣṭrāyudhaṃ tasmaisarvamārapramardine mahābodhisattvāya tathaiva pāṇibhyām anuprādāt |</l>
-<l>tataḥ sarvatathāgatair <q>vajracaṇḍo vajracaṇḍa</q> iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
+<l>tataḥ sarvatathāgatair “vajracaṇḍo vajracaṇḍa” iti vajranāmābhiṣekeṇābhiṣiktaḥ |</l></lg></div>
 
 <div type="section" n="131"><pb n="1_74_131" edRef="#edho"/><lg><l>atha vajracaṇḍo bodhisattvo mahāsattvas tad vajradaṃṣṭrāyudhaṃ svamukhe pratiṣṭhāpya, sarvatathāgatān bhiṣayann idam udānam udānayām āsa ||</l>
-<l><q>idaṃ tat sarvabuddhānāṃ sarvaduṣṭāgradāmakam |</l>
-<l>vajradaṃṣṭrāyudhaṃ tīkṣṇam upāyaḥ karuṇātmanām</q> iti ||</l></lg></div>
+<l>“idaṃ tat sarvabuddhānāṃ sarvaduṣṭāgradāmakam |</l>
+<l>vajradaṃṣṭrāyudhaṃ tīkṣṇam upāyaḥ karuṇātmanām” iti ||</l></lg></div>
 
 <div type="section" n="132"><pb n="1_75_132" edRef="#edho"/><lg><l>atha bhagavān punar api sarvatathāgatamuṣṭimahābodhisattvasamayasaṃbhavakarmādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatakāyavākcittavajrabandhasamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayān niścacāra ||</l>
 <l>vajrasandhi ||</l></lg></div>
@@ -9778,7 +9779,7 @@ tāvad yāvan māsānte paṭasyodārāṃ pūjāṃ kṛtvā,</l>
 
 <div type="section" n="2761"><pb n="?_?_2761" edRef="#edho"/><ab>tato vidyādhareṇaivaṃ vaktavyam </ab></div>
 
-<div type="section" n="2762"><pb n="?_?_2762" edRef="#edho"/><lg><l>	yadāhaṃ brūyām <q>āgacchatedaṃ kuruta</q>, tadā bhavadbhir āgatya mamājñā kāryā || iti </l></lg></div>
+<div type="section" n="2762"><pb n="?_?_2762" edRef="#edho"/><lg><l>	yadāhaṃ brūyām “āgacchatedaṃ kuruta”, tadā bhavadbhir āgatya mamājñā kāryā || iti </l></lg></div>
 
 <div type="section" n="2763"><pb n="?_?_2763" edRef="#edho"/><lg><l>tataḥ prabhṛti sakalatrilokādhipatir bhavati ||</l>
 
@@ -10622,7 +10623,7 @@ tad yathā</l>
 
 <div type="section" n="3029"><pb n="?_?_3029" edRef="#edho"/><lg><l>	pratipadyata mārṣās tathāgato 'rhan samyaksaṃ buddho <supplied reason="undefined">lokānuvartanaṃ kṛtvā pu</supplied>nar anuttarāṃ samyaksaṃbodhiṃ darśayiṣyati ||</l>
 
-<l>	mā marṣā evaṃ vidyur <q>na tathāgato mānuṣo bhavati</q> |</l>
+<l>	mā marṣā evaṃ vidyur “na tathāgato mānuṣo bhavati” |</l>
 <l>	evā eva <supplied reason="undefined">tathāgatāḥ bhaviṣyanti, devasaṃ</supplied>pattaye ghaṭayeyuḥ |</l>
 <l>	na tathāgatatva iti |</l>
 <l>	tat sādhu pratipadyata tatra pūjanāya gantum |</l></lg></div>
@@ -10637,7 +10638,7 @@ tad yathā</l>
 
 <l>atha <supplied reason="undefined">bhagavān devā</supplied>dhipatīn evam āha ||</l>
 
-	<l><q>pratipadyata mārṣā mamānuttarāṃ samyksaṃbodhiṃ dātum</l></lg></div>
+	<l>“pratipadyata mārṣā mamānuttarāṃ samyksaṃbodhiṃ dātum</l></lg></div>
 
 <div type="section" n="3033"><pb n="?_?_3033" edRef="#edho"/><lg><l>iti ||</l>
 
