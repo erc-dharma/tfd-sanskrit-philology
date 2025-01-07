@@ -153,7 +153,7 @@
           <p/>
         </normalization>
         <punctuation>
-          <p/>
+          <p>We implement western punctuation in prose passages, while retaining single and double daṇḍas in verses. See the model of Isaacson's edition of Ratnākaraśānti's Muktāvalī.</p>
         </punctuation>
         <interpretation>
           <p/>
@@ -238,26 +238,35 @@
 
         <div type="subchapter" n="1">
           <head type="editorial">Ādiyoga</head>
-          <!--  maṇḍalarājāgrī -->
 
           <p part="F">
-            <lb edRef="#cod" n="21r1"/>
-            <app>
+            <pb edRef="#cod" n="21r"/>
+            <!-- <app>
               <lem>
                 <app>
-                  <lem type="emn">cintanīyetyā</lem>                  <!-- use omitted_elsewhere-->
+                  <lem type="emn">cintanīyetyā</lem>
                   <rdg wit="#cod">cintanīyatyā</rdg>
                   <rdg wit="#MSK">
                     <gap reason="omitted"/>
                   </rdg>
-                </app>diyogo nāma samādhiḥ//  ||</lem>
+                </app>diyogo nāma samādhiḥ.</lem>
               <rdg wit="#MSK">
                 <gap reason="omitted"/>
               </rdg>
               <note>
                 <ptr target="#MSK"/>
  omits this part. The scribe makes no clear interruption for the string hole in line 1, where the elaborate punctuation sequence occupies precisely this space.</note>
-            </app>
+            </app> -->
+                <app>
+                  <lem type="omitted_elsewhere">
+                  <app>
+                  <lem type="emn" rend="hyphenright">cintanīyetyādi</lem>
+                  <rdg wit="#cod">cintanīyatyādi-</rdg>
+                  </app>yogo nāma samādhiḥ.</lem>
+                  <witDetail type="retained" wit="#cod"/>
+                  <rdg wit="#MSK"><gap reason="omitted"/></rdg>
+                  <note><ptr target="#MSK"/> omits these first words preserved in the manuscript, forming the end of chapter 2 of the text.<!--The scribe makes no clear interruption for the string hole in line 1, where the elaborate punctuation sequence occupies precisely this space.--></note>
+                </app>
           </p>
         </div>
 
