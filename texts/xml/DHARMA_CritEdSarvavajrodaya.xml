@@ -101,6 +101,7 @@
               <citedRange unit="item">2516</citedRange>
             </bibl>
             <!-- Tohoku Catalog no. 2516 -->
+            <!-- https://library.bdrc.io/search?q=%22rdo%20rje%20thams%20cad%20%27byung%20ba%22~1&lg=bo-x-ewts&t=Instance&f=asset,inc,tmp:possibleAccess&f=asset,inc,tmp:catalogOnly&n=6 -->
           </witness>
           <witness xml:id="MSK">
             <abbr type="siglum">Ed<hi rend="superscript">T</hi>
@@ -393,49 +394,45 @@ Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasatt
 
 <!-- RT, SI and AG have reached here on 2024-04-30 -->
 <p>tato <app>
-<lem wit="#MSK">hr̥dayā    <!-- hr̥dayā --></lem>
+<lem wit="#MSK">hr̥dayād</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">hr̥dayod</rdg>
-</app> davatīryākṣobhyasyāgrato <app>
-<lem wit="#MSK">sthitvājñāṁ<!-- sthitvājñāṁ --></lem>
+</app> avatīryākṣobhyasyāgrato 
+<app>
+<lem wit="#MSK">sthitvājñāṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">sthitvājñā</rdg>
 </app>
 <app>
-<lem type="emn" wit="#MSK">mārgayamānaṁ<!-- mārgayamānaṁ --></lem>
+<lem type="emn" wit="#MSK">mārgayamānaṁ</lem>
+<!-- reencode to avoid combinarion of @type and @wit on <lem>? -->
 <rdg wit="#cod">mārgayamānā</rdg>
-<note>
-<ptr target="#MSK"/>
-'s footnote gives the impression that they read  <foreign>rgayamānā</foreign>.
-</note>
-</app> cintayet | 
+<!-- <note><ptr target="#MSK"/>'s footnote gives the impression that they read <foreign>mārgayamānā</foreign>. </note>-->
+</app> cintayet.
 <app>
-<lem wit="#MSK">tato<!-- tato --></lem>
+<lem wit="#MSK">tato</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">tabho</rdg>
-</app>  sarvatathāgatakulacakravartitve <app>
-<lem type="emn">pañcabuddha<!-- pañcabuddha --></lem>
+</app>  
+sarvatathāgata-kula-cakravartitve <app>
+<lem type="emn">pañcabuddha-</lem>
 <rdg wit="#cod">pañcavuddham</rdg>
 </app>
 <app>
-<lem wit="#cod">makuṭa<!-- makuṭa --></lem>
+<lem wit="#cod">makuṭa-</lem>
 <rdg wit="#MSK">mukuṭa-</rdg>
 <witDetail wit="#MSK" type="silemn"/>
 </app>paṭṭābhi<app>
-<lem type="emn">ṣekenābhiṣicyānuttara<!-- ṣekenābhiṣicyānuttara --></lem>
+<lem type="emn" rend="hyphenleft">ṣekenābhiṣicyānuttara</lem>
 <rdg wit="#cod">-ṣekenanābhiṣiñcyānuttara-</rdg>
-<note>
-<ptr target="#MSK"/>
- silently emends <foreign>-ṣekena cābhiṣicyānuttara-</foreign>.
-</note>
-</app>
-<app>
-<lem>śīlādikaṁ<!-- śīlādikaṁ --></lem>
-<note>KSP reads <foreign>-śīlādikayā</foreign>, which is supported by SVU Tib (<seg rend="check">reading of Tib.!!</seg>).
+<rdg wit="#MSK">-ṣekena cābhiṣicyānuttara-</rdg>
+<witDetail wit="#MSK" type="silemn"/></app><app>
+<lem wit="#cod #MSK">śīlādikaṁ</lem>
+<note>KSP reads <foreign>-śīlādikayā</foreign>, which is supported by SVU Tib (<seg rend="check">reading of Tib.!</seg>).
 </note>
 </app>
  yāvatsarvatathāgatasamatājñānā<app>
-<lem>bhisaṁbodhiniṣpādakamā<!-- bhisaṁbodhiniṣpādakamā --></lem>
+<lem>bhisaṁbodhiniṣpādakamā</lem>
 <note>KSP reads <foreign>-bhisaṁbodhiṁ niṣpādyaikam</foreign>.
 </note>
 </app>
