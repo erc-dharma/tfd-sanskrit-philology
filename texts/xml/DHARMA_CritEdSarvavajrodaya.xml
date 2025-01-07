@@ -157,7 +157,7 @@
           <p>We implement western punctuation in prose passages, while retaining single and double daṇḍas in verses. See the model of Isaacson's edition of Ratnākaraśānti's Muktāvalī.</p>
         </punctuation>
         <interpretation>
-          <p/>
+          <p>We implement hyphenation of Sanskrit compounds to help the reader graps their interpretation.</p>
         </interpretation>
       </editorialDecl>
       <!--<refsDecl xml:id="ASLREF">
@@ -241,8 +241,7 @@
           <head type="editorial">Ādiyoga</head>
 
           <p part="F">
-            <pb edRef="#cod" n="21r"/>
-                <app>
+            <pb edRef="#cod" n="21r" break="no"/><app>
                   <lem type="omitted_elsewhere">
                   <app>
                   <lem type="emn" rend="hyphenright">cintanīyetyādi</lem>
@@ -361,7 +360,7 @@ Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasatt
       <rdg wit="#cod" cause="orthographical">-samvoddhyādau</rdg>
     </app> 
    niyojya,
-   punaḥ saṁhāra-yogenaikasattva-kāyo bhūtvā svahr̥dgata<pb n="21v" edRef="#cod" break="no"/>-vajre praviśya,
+   punaḥ saṁhāra-yogenaikasattva-kāyo bhūtvā svahr̥dgata-<pb n="21v" edRef="#cod" break="no"/>vajre praviśya,
    tatrāva<app><lem wit="#MSK" rend="hyphenleft">sthitenodānam</lem>
   <witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">-sthitetodānam</rdg>
