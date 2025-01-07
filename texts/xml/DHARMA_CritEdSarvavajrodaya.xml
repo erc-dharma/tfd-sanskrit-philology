@@ -50,7 +50,7 @@
       <sourceDesc>
         <listWit>          <!-- the codex unicus -->
           <witness xml:id="cod">
-            <abbr type="MS"/>
+            <abbr type="siglum">MS</abbr>
             <!-- Fill in the abbr @type="siglum" with the expected display for the witness siglum. Use <hi> with @rend for superscript and subscript -->
             <msDesc>
               <msIdentifier>
@@ -103,7 +103,7 @@
             <!-- Tohoku Catalog no. 2516 -->
           </witness>
           <witness xml:id="MSK">
-            <abbr type="siglum">Ed<hi rend="superscript">MSK</hi>
+            <abbr type="siglum">Ed<hi rend="superscript">T</hi>
             </abbr>
             <bibl>
               <ptr target="bib:MikkyoSeitenKenkyukai1986_01"/>
@@ -241,22 +241,6 @@
 
           <p part="F">
             <pb edRef="#cod" n="21r"/>
-            <!-- <app>
-              <lem>
-                <app>
-                  <lem type="emn">cintanīyetyā</lem>
-                  <rdg wit="#cod">cintanīyatyā</rdg>
-                  <rdg wit="#MSK">
-                    <gap reason="omitted"/>
-                  </rdg>
-                </app>diyogo nāma samādhiḥ.</lem>
-              <rdg wit="#MSK">
-                <gap reason="omitted"/>
-              </rdg>
-              <note>
-                <ptr target="#MSK"/>
- omits this part. The scribe makes no clear interruption for the string hole in line 1, where the elaborate punctuation sequence occupies precisely this space.</note>
-            </app> -->
                 <app>
                   <lem type="omitted_elsewhere">
                   <app>
@@ -282,19 +266,22 @@
               <p>tadanu 
                 <app>
                   <lem wit="#MSK" type="emn">vajradhātvīśvaryā</lem>
+                  <!-- encode as follows? <lem wit="#MSK">vajradhātvīśvaryā</lem><witDetail type="emn" wit="#MSK"/> -->
                   <note corresp="#KSP #Tib"/>
-                  <rdg wit="#cod" cause="additive">vajradhātvīśvaryādi</rdg>
+                  <rdg wit="#cod">vajradhātvīśvaryādi</rdg>
                 </app> caturṣu sthāneṣv ātmānam adhiṣṭhāya bodhyagrīṁ baddhvā 
                 <app>
                   <lem type="emn" wit="#MSK">hr̥dgatavajrasattvaṁ</lem>
+                  <!-- again, reencode combination of @type and @wit? -->
                   <note corresp="#KSP"/>
-                  <rdg wit="#cod" cause="orthographical">hr̥dgatāvajrasatvañ</rdg>
+                  <rdg wit="#cod">hr̥dgatāvajrasatvañ</rdg>
                   <note>Or emend <foreign xml:lang="san-Latn">hr̥dgataṁ vajrasattvaṁ</foreign>?
                   </note>
-                </app> codayed vajrasattveti//</p>
+                </app> codayed vajrasattveti.</p>
               <listApp type="parallels">
                 <app>
-                  <note>KSP 117                                        <!-- ed. Inui, slightly nornalized -->:                    <foreign>tadanu vajradhātvīśvaryā catuḥsthāneṣv ātmānaṁ adhiṣṭhāya bodhyagrīmudrāṁ baddhvā hr̥dgatavajrasattvaṁ codayet vajrasattva iti</foreign>.
+                  <note>KSP 117<!-- ed. Inui, slightly normalized -->:
+                  <foreign>tadanu vajradhātvīśvaryā catuḥsthāneṣv ātmānaṁ adhiṣṭhāya bodhyagrīmudrāṁ baddhvā hr̥dgatavajrasattvaṁ codayed vajrasattveti</foreign>.
                   </note>
                 </app>
                 <!--  
@@ -303,12 +290,8 @@
     Inui's edition tends to follow the spelling of the mss. We normalize the spelling in our quotations.
   </INTRO> 
 Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasattvaṁ</foreign>.
--->
-                <app>
-                  <note>Cf. STTS 35</note>
-                </app>
-                <!-- <foreign>sarvatathāgatasamantabhadramahābodhisattvasamayasambhavasattvādhiṣṭhānavajraṁ nāma samādhiṁ samāpadyedaṁ sarvatathāgatamahāyānābhisamayaṁ nāma sarvatathāgatahr̥dayaṁ svahr̥dayān niścacāra. vajrasattva<foreign>. -->
-              </listApp>
+-->              
+            </listApp>
 
               <p>tataḥ sarvatathāgatahr̥dayebhyaḥ candramaṇḍalāni bhūtvā viniḥsr̥tya yāvatsarvalokadhātuṣu sarvasattvānāṁ nairātmyaprativedhaṁ kārayitvā candra<app>
                 <lem type="emn" wit="#MSK">maṇḍalākāraṁ cittaikāgratāṁ</lem>
@@ -320,7 +303,7 @@ Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasatt
               <lem wit="#MSK" type="emn">va</lem>
               <note corresp="#KSP"/>
               <rdg wit="#cod" cause="lexical">vaṁ</rdg>
-            </app> bhūtvāvasthitaṁ cintayet//</p>
+            </app> bhūtvāvasthitaṁ cintayet.</p>
           <listApp type="parallels">
             <app>
               <note>KSP 117                                <!--KSP, chapter 6-->                <!-- (Inui 1994: 110) -->:
@@ -391,7 +374,7 @@ vajre praviśya/
   <rdg wit="#MSK">-dānayantaṁ</rdg>
   <witDetail wit="#MSK" type="emn"/>
   <note>The same wording is found in <seg rend="check">2.3 Karmarājāgrī</seg>.        <!-- CHECK CROSS REFERENCE. --></note>
-</app> cintayet//</p>
+</app> cintayet.</p>
 <listApp type="parallels">
 <app>
   <note>KSP 117:         <!-- Inui 1994: 110–109 -->.</note>
@@ -11061,10 +11044,10 @@ brjod par bya ste//</l>
 <l n="a">ji ltar dus gsum mgon po rnams//</l>
 <l n="b">byang chub tu ni nges mdzad pa//</l>
 </lg>
-<p xml:lang="tib">zhes bya ba la sogs pa nas//</p>
+<p xml:lang="tib">zhes bya ba la sogs pa nas.</p>
 <lg xml:lang="tib">
 <l>sems can mya ngan 'das la <lb edRef="#SVUTibD" n="44a3"/> dgod//</l></lg>
-<p xml:lang="tib">ces bya ba'i bar du brjod par bya'o//</p><!-- 
+<p xml:lang="tib">ces bya ba'i bar du brjod par bya'o.</p><!-- 
   Parallel to the <title>Vajraśekhara</title> ends -->
 </note>
 <note>Ānandagarbha (as well as SDP 288:24) here abridges a set of verses whose integral form is found in the
@@ -11227,7 +11210,7 @@ anāśvastān āśvāsayiṣyāmi sattvān sthāpayāmi nirvṛttāv iti //
 <note sameAs="txt:SDP290:1–3">SDP 290:1–3</note>
 <note corresp="txt:SVUTib">SVU Tib. 
 <p xml:lang="tib">de nas rje sems dpar byin gyis brlabs la/ dri dang me tog <lb edRef="#SVUTibD" n="44a5"/>
- la sogs pas mchod de/ me tog gi phreng ba gdags shing/ gdong dri zhim par byas la/ yon gyi mchog blangs la/ des phyi rol na gnas pa'i bum pa'i chus dbang bskur la/ sa ma ya stwaṁ zhes bya ba 'dis/ rdo rje sems ma'i phyag rgya 'ching du gzhug go//</p>
+ la sogs pas mchod de/ me tog gi phreng ba gdags shing/ gdong dri zhim par byas la/ yon gyi mchog blangs la/ des phyi rol na gnas pa'i bum pa'i chus dbang bskur la/ sa ma ya stwaṁ zhes bya ba 'dis/ rdo rje sems ma'i phyag rgya 'ching du gzhug go.</p>
 </note>
 </app>
 </listApp>
@@ -11241,7 +11224,7 @@ anāśvastān āśvāsayiṣyāmi sattvān sthāpayāmi nirvṛttāv iti //
 <listApp type="parallels">
 <app>
 <note corresp="txt:SVUTib">SVU Tib. <p xml:lang="tib">de nas gung mo gnyis kyis me tog gi phreng ba <lb edRef="#SVUTibD" n="44a6"/>
- 'dzin du bcug la/ sa ma ya hūṁ zhes bya ba 'dis gzhug par bya'o// rdo rje lcags kyu la sogs pas kyang/ rang rang gi sgo nas ba dzra aṁ ku sha dzaḥ/ badzra pā sha hūṁ/ ba dzra s+pho ṭa baṁ/ ba dzra ā be sha aḥ/ zhes bya bas dgug pa dang/ gzhug pa dang/ bcing ba dang/ dbang du bya'o//</p>.
+ 'dzin du bcug la/ sa ma ya hūṁ zhes bya ba 'dis gzhug par bya'o// rdo rje lcags kyu la sogs pas kyang/ rang rang gi sgo nas ba dzra aṁ ku sha dzaḥ/ badzra pā sha hūṁ/ ba dzra s+pho ṭa baṁ/ ba dzra ā be sha aḥ/ zhes bya bas dgug pa dang/ gzhug pa dang/ bcing ba dang/ dbang du bya'o.</p>.
 </note>
 <note>KSP, chapter 6 (<foreign>Abhiṣeka</foreign>):
 <foreign>tato madhyamāṅgulidvayena mālām ādāya praveśayed anena samaya hūṁ |
