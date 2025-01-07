@@ -294,25 +294,24 @@ Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasatt
             </listApp>
 
               <p>tataḥ sarvatathāgatahr̥dayebhyaḥ candramaṇḍalāni bhūtvā viniḥsr̥tya yāvatsarvalokadhātuṣu sarvasattvānāṁ nairātmyaprativedhaṁ kārayitvā candra<app>
-                <lem type="emn" wit="#MSK">maṇḍalākāraṁ cittaikāgratāṁ</lem>
+                <lem type="emn" wit="#MSK" rend="hyphenleft">maṇḍalākāraṁ cittaikāgratāṁ</lem>
                 <witDetail wit="#MSK" type="silemn"/>
+                <!-- reencode combination of of @type and @wit? here, <witDetail> adds complexity to the scenario  -->
                 <note corresp="#KSP"/>
                 <rdg wit="#cod" cause="syntactic">-maṇḍalākārāṁ cittaikāgratāṁ</rdg>
               </app> 
- niṣpādyāgatya sarvadevatāsthāneṣu candramaṇḍalānye<app>
-              <lem wit="#MSK" type="emn">va</lem>
+ niṣpādyāgatya sarvadevatāsthāneṣu candramaṇḍalāny <app>
+              <lem wit="#MSK" type="emn">eva</lem>
+              <!-- reencode combination of of @type and @wit? here  -->
               <note corresp="#KSP"/>
-              <rdg wit="#cod" cause="lexical">vaṁ</rdg>
+              <rdg wit="#cod">evaṁ</rdg>
             </app> bhūtvāvasthitaṁ cintayet.</p>
           <listApp type="parallels">
             <app>
-              <note>KSP 117                                <!--KSP, chapter 6-->                <!-- (Inui 1994: 110) -->:
+              <note>KSP 117 <!--KSP, chapter 6 (Inui 1994: 110) -->:
                 <foreign>tataḥ sarvatathāgatahr̥dayebhyaś candramaṇḍalāni bhūtvā viniḥsr̥tya yāvat sarvalokadhātuṣu sarvasattvānāṁ nairātmyaprativedhaṁ kārayitvā candramaṇḍalākāraṁ cittaikāgratāṁ niṣpādyāgatya sarvadevatāsthāneṣu candramaṇḍalāny eva bhūtvāvasthitaṁ cintayet</foreign>.
               </note>
-              <note>Cf. STTS 36</note>
-              <!-- STTS quotation? -->
-              <!-- <foreign>athāsmin viniḥsr̥tamātre sarvatathāgatahr̥dayebhyaḥ sa eva bhagavān samantabhadraś candramaṇḍalāni bhūtvā viniḥsr̥tya sarvasattvānāṁ mahābodhicittāni saṁśodhya sarvatathāgatānāṁ sarvapārśveṣv avasthitaḥ.</foreign> -->
-            </app>
+              </app>
           </listApp>
 
           <p>tatas tebhyo <app rend="hide">
