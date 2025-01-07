@@ -271,7 +271,7 @@
                   <rdg wit="#cod">vajradhātvīśvaryādi</rdg>
                 </app> caturṣu sthāneṣv ātmānam adhiṣṭhāya bodhyagrīṁ baddhvā 
                 <app>
-                  <lem type="emn" wit="#MSK">hr̥dgatavajrasattvaṁ</lem>
+                  <lem type="emn" wit="#MSK">hr̥dgata-vajrasattvaṁ</lem>
                   <!-- again, reencode combination of @type and @wit? -->
                   <note corresp="#KSP"/>
                   <rdg wit="#cod">hr̥dgatāvajrasatvañ</rdg>
@@ -293,14 +293,14 @@ Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasatt
 -->              
             </listApp>
 
-              <p>tataḥ sarvatathāgatahr̥dayebhyaḥ candramaṇḍalāni bhūtvā viniḥsr̥tya yāvatsarvalokadhātuṣu sarvasattvānāṁ nairātmyaprativedhaṁ kārayitvā candra<app>
-                <lem type="emn" wit="#MSK" rend="hyphenleft">maṇḍalākāraṁ cittaikāgratāṁ</lem>
+              <p>tataḥ sarvatathāgata-hr̥dayebhyaḥ candra-maṇḍalāni bhūtvā viniḥsr̥tya yāvat-sarvalokadhātuṣu sarvasattvānāṁ nairātmya-prativedhaṁ kārayitvā candra<app>
+                <lem type="emn" wit="#MSK">-maṇḍalākāraṁ cittaikāgratāṁ</lem>
                 <witDetail wit="#MSK" type="silemn"/>
                 <!-- reencode combination of of @type and @wit? here, <witDetail> adds complexity to the scenario  -->
                 <note corresp="#KSP"/>
                 <rdg wit="#cod" cause="syntactic">-maṇḍalākārāṁ cittaikāgratāṁ</rdg>
               </app> 
- niṣpādyāgatya sarvadevatāsthāneṣu candramaṇḍalāny <app>
+ niṣpādyāgatya sarva-devatā-sthāneṣu candra-maṇḍalāny <app>
               <lem wit="#MSK" type="emn">eva</lem>
               <!-- reencode combination of of @type and @wit? here  -->
               <note corresp="#KSP"/>
@@ -309,87 +309,81 @@ Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasatt
           <listApp type="parallels">
             <app>
               <note>KSP 117 <!--KSP, chapter 6 (Inui 1994: 110) -->:
-                <foreign>tataḥ sarvatathāgatahr̥dayebhyaś candramaṇḍalāni bhūtvā viniḥsr̥tya yāvat sarvalokadhātuṣu sarvasattvānāṁ nairātmyaprativedhaṁ kārayitvā candramaṇḍalākāraṁ cittaikāgratāṁ niṣpādyāgatya sarvadevatāsthāneṣu candramaṇḍalāny eva bhūtvāvasthitaṁ cintayet</foreign>.
+                <foreign>tataḥ sarvatathāgatahr̥dayebhyaś candramaṇḍalāni bhūtvā viniḥsr̥tya yāvatsarvalokadhātuṣu sarvasattvānāṁ nairātmyaprativedhaṁ kārayitvā candramaṇḍalākāraṁ cittaikāgratāṁ niṣpādyāgatya sarvadevatāsthāneṣu candramaṇḍalāny eva bhūtvāvasthitaṁ cintayet</foreign>.
               </note>
               </app>
           </listApp>
 
           <p>tatas tebhyo <app rend="hide">
-            <lem wit="#MSK">jñānaraśmayo</lem>
+            <lem wit="#MSK">jñāna-raśmayo</lem>
             <witDetail wit="#MSK" type="silemn"/>
             <rdg wit="#cod" cause="orthographical">jñānarasmayo</rdg>
           </app> 
-  viniḥsr̥tya svahr̥dgatavajre praviśya tena 
+  viniḥsr̥tya svahr̥dgata-vajre praviśya tena 
           <app>
             <lem type="emn">sahaikībhūya</lem>
             <note corresp="#KSP"/>
             <rdg wit="#cod #MSK">sahaikībhūyaḥ</rdg>
-          </app>/ sarvatathāgatādhiṣṭhānena mahān sarvākāśasamavasaraṇapramāṇapañcasūcikavajravigraho bhūtvā/
+          </app>, 
+          sarvatathāgatādhiṣṭhānena mahān sarvākāśa-samavasaraṇa-pramāṇa-pañcasūcika-vajra-vigraho bhūtvā,
           <app>
-            <lem type="emn">punaḥ pūrvavaddhr̥dgata</lem>
-            <rdg wit="#cod" cause="subtractive">punaḫ pūrvvahr̥dgata-</rdg>
+            <lem type="emn">punaḥ pūrvavad dhr̥dgata-</lem>
+            <rdg wit="#cod">punaḫ pūrvvahr̥dgata-</rdg>
             <rdg wit="#MSK">punaḥ pūrvahr̥dgata-</rdg>
-            <witDetail wit="#MSK" type="silemn"/>
-          </app>vajrapramāṇam eva bhūtvā 
+            <note>The present segment contains the only case of <foreign>upadhmānīya</foreign> in the manuscript.</note>
+          </app>vajra-pramāṇam eva bhūtvā 
           <app>
-            <lem wit="#MSK">tasmādvi</lem>
+            <lem wit="#MSK" rend="hyphenright">tasmād</lem>
             <witDetail wit="#MSK" type="silemn"/>
-            <rdg wit="#cod">tasmā vi</rdg>            <!-- which @cause would fit here?-->
-          </app>niḥsr̥tya svahastasthitaṁ cintayet/ 
-tasmāc <app>
+            <rdg wit="#cod">tasmā</rdg>
+          </app> viniḥsr̥tya svahasta-sthitaṁ cintayet. 
+          tasmāc <app>
           <lem wit="#MSK">ca</lem>
           <witDetail wit="#MSK" type="silemn"/>
           <rdg wit="#cod">caḥ</rdg>
         </app> 
-   punaḥ <app rend="hide">
-        <lem wit="#MSK">vajrākāraraśmayo</lem>
+        <app><lem wit="#MSK">punar</lem><witDetail wit="#MSK" type="silemn"/><rdg wit="#cod">punaḥ</rdg></app> 
+        <app rend="hide">
+        <lem wit="#MSK">vajrākāra-raśmayo</lem>
         <witDetail wit="#MSK" type="silemn"/>
         <rdg wit="#cod" cause="orthographical">vajrākārarasmayo</rdg>
-      </app> 'nekavarṇānekasaṁsthānā viniḥsr̥tya sarvākāśadhātuṁ vyāpya/ 
+      </app> 'neka-varṇāneka-saṁsthānā viniḥsr̥tya sarvākāśa-dhātuṁ vyāpya, 
   tebhyaḥ <app>
-      <lem wit="#MSK">punarva</lem>
+      <lem wit="#MSK">punar</lem>
       <witDetail wit="#MSK" type="silemn"/>
-      <rdg wit="#cod" cause="subtractive">punava-</rdg>
-    </app>jrasattvādirūpeṇa 
-          <!-- vajrasattvādirūpeṇa: em. vajrasattvarūpeṇa? 
-  not necessary, and KSP also has same reading -->
-  sarvasattvadhātuṁ yāvatsarvatathāgatasamatājñānābhi    <app rend="hide">
-      <lem wit="#MSK">saṁbodhyādau</lem>
+      <rdg wit="#cod">puna</rdg>
+    </app> vajrasattvādi-rūpeṇa 
+          <!-- vajrasattvādirūpeṇa: em. vajrasattvarūpeṇa? not necessary, and KSP also has same reading -->
+  sarva-sattvadhātuṁ yāvat sarvatathāgata-samatājñānābhi<app rend="hide">
+      <lem wit="#MSK" rend="hyphenleft">saṁbodhyādau</lem>
       <witDetail wit="#MSK" type="silemn"/>
       <rdg wit="#cod" cause="orthographical">-samvoddhyādau</rdg>
     </app> 
-   niyojya/ 
-   punaḥ saṁhārayogenaikasattvakāyo bhūtvā 
-   svahr̥dgata<pb n="21v1" edRef="#cod" break="no"/>
-vajre praviśya/ 
-   tatrāva<app>
-  <lem wit="#MSK">sthitenodānamu</lem>
+   niyojya,
+   punaḥ saṁhāra-yogenaikasattva-kāyo bhūtvā svahr̥dgata<pb n="21v" edRef="#cod" break="no"/>-vajre praviśya,
+   tatrāva<app><lem wit="#MSK" rend="hyphenleft">sthitenodānam</lem>
   <witDetail wit="#MSK" type="silemn"/>
-  <rdg wit="#cod">-sthitetodānamu-</rdg>  <!-- which @cause would fit here?-->
+  <rdg wit="#cod">-sthitetodānam</rdg>
 </app>
 <app>
-  <lem type="emn">dānayamānaṁ</lem>
-  <rdg wit="#cod">-dāyaṁtāṁ</rdg>
-  <rdg wit="#MSK">-dānayantaṁ</rdg>
-  <witDetail wit="#MSK" type="emn"/>
-  <note>The same wording is found in <seg rend="check">2.3 Karmarājāgrī</seg>.        <!-- CHECK CROSS REFERENCE. --></note>
+  <lem type="emn">udānayamānaṁ</lem>
+  <rdg wit="#cod">udāyaṁtāṁ</rdg>
+  <rdg wit="#MSK">udānayantaṁ</rdg>
+  <note>The same wording is found in <seg rend="check">2.3 Karmarājāgrī</seg>.<!-- CHECK CROSS REFERENCE. --></note>
 </app> cintayet.</p>
 <listApp type="parallels">
 <app>
-  <note>KSP 117:         <!-- Inui 1994: 110–109 -->.</note>
-  <!-- 
+  <note>KSP 117:<!-- Inui 1994: 110–109 -->
   <foreign>tatas tebhyo jñānaraśmayo viniḥsr̥tya hr̥dgatavajre praviśya tena sahaikībhūya sarvatathāgatādhiṣṭhānena mahat sarvākāśadhātusamavasaraṇapramāṇaṁ pañcasūcikavajravigraho bhūtvā
-     *oṁ vajrātmako 'ham ity uccārayet<note>em.;  <foreign>ity uccārayet oṁ vajrātmako 'ham</foreign> ed.</note> punar api hr̥dgatavajrapramāṇam eva bhūtvā tasmād viniḥsr̥tya svahaste sthitaṁ cintayet. tasmāc ca punar vajrākāraraśmayo anekavarṇā anekasaṁsthānā viniḥsr̥tya yāvat sarvākāśadhātuṁ vyāpya tebhyaḥ punar vajrasattvādirūpeṇa sarvasattvadhātuṁ sarvatathāgatāṁś ca samatājñānābhisaṁbodyādau niyojya, punaḥ saṁhārayogenaikasattvakāyo bhūtvā svahr̥dgatavajre praviśya tatrāvasthitenodānam udānayām āsa}.  -->
-  <note>Cf. STTS 36–40.</note>
-  <!-- <foreign>atha tebhyaś candramaṇḍalebhyaḥ sarvatathāgatajñānavajrāṇi viniḥsr̥tya bhagavato vairocanasya tathāgatasya hr̥daye praviṣṭāni. sudr̥ḍhatvāc ca vajrasattvasamādheḥ sarvatathāgatādhiṣṭhānena caikaghanaḥ sakalākāśadhātusamavasaraṇapramāṇo raśmimālī pañcamūrdhā sarvatathāgatakāyavākcittavajramayo vajravigrahaḥ prādur bhūya, sarvatathāgatahr̥dayān niṣkramya pāṇau pratiṣṭhitaḥ. atha tato vajrād vajr'ākārāḥ raśmayo vicitravarṇarūpaḥ sarvalokadhātvābhāsanaspharaṇāh viniścaritāḥ. tebhyaś ca vajraraśmimukhebhyaḥ sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahāḥ viniḥsr̥tya sakaladharmadhātusamavasaraṇeṣu sarvākāśadhātuparyavasāneṣu sarvalokadhātuprasarameghasamudreṣu sarvatathāgatasamatājñānābhijñāsv abhisaṁbodhāt sarvatathāgatamahābodhicittotpādana,samantabhadravividhacaryāniṣpādana-sarvatathāgatakulārāgaṇa-mahābodhimaṇḍopasaṁkramaṇa-saddharmacakrapravartanādīni yāvadaśeṣānavaśeṣasattvadhātu-paritrāṇa-sarvahitasukha-sarvatathāgatajñānābhijñottamasiddhiniṣpādanādīni sarvatathāgatarddhivikurvitāni saṁdarśya samantabhadratvād vajrasattvasamādheḥ sudr̥dhatvāc caikaghanaḥ samantabhadramahābodhisattvakāyaḥ saṁbhūya, bhagavato vairocanasya hr̥daye sthitvedam udānam udānayām āsa</foreign>. -->
+     *oṁ vajrātmako 'ham ity uccārayet</foreign> (em.;  <foreign>ity uccārayet oṁ vajrātmako 'ham</foreign> ed. Inui) <foreign>punar api hr̥dgatavajrapramāṇam eva bhūtvā tasmād viniḥsr̥tya svahaste sthitaṁ cintayet. tasmāc ca punar vajrākāraraśmayo anekavarṇā anekasaṁsthānā viniḥsr̥tya yāvatsarvākāśadhātuṁ vyāpya tebhyaḥ punar vajrasattvādirūpeṇa sarvasattvadhātuṁ sarvatathāgatāṁś ca samatājñānābhisaṁbodyādau niyojya, punaḥ saṁhārayogenaikasattvakāyo bhūtvā svahr̥dgatavajre praviśya tatrāvasthitenodānam udānayām āsa</foreign>.</note>
 </app>
 </listApp>
 
 <lg met="anuṣṭubh">
-<l n="a">aho samantabhadro'haṁ</l>
-<l n="b">dr̥ḍhasattvaḥ svayaṁbhuvām/</l>
-<l n="c">yaddr̥ḍhatvādakāyo'pi</l>
-<l n="d">sattvakāyatvamāgata iti//</l>
+<l n="a">aho samantabhadro 'haṁ</l>
+<l n="b">dr̥ḍhasattvaḥ svayaṁbhuvām |</l>
+<l n="c">yad dr̥ḍhatvād akāyo 'pi</l>
+<l n="d">sattvakāyatvam āgata iti ||</l>
 </lg>
 <listApp type="parallels">
 <app>
@@ -920,7 +914,7 @@ sūryā<app>
 <!-- <INTRO>discussion of various edition sof STTS. We follow Horiuchi's numbering. No reference to specific editions is made unless there is a difference.</INTRO>-->
 <rdg wit="#cod">aho hi mahāhāsa-</rdg>
 </app>mahaṁ</l>
-<l n="b">sarvāgryāṇāṁ mahādbhutam/</l>
+<l n="b">sarvāgryāṇāṁ mahādbhutam|</l>
 <l n="c">
 <app>
 <lem wit="#MSK" type="emn">yatprayuñjanti</lem>
@@ -3286,7 +3280,7 @@ sattvavajrīṁ <app>
 <lem wit="#MSK">ghaṇṭāṁ<!-- ghaṇṭāṁ --></lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">ghaṭāṁ</rdg>
-</app>  dharmeṇa vādya ca/</l>
+</app>  dharmeṇa vādya ca|</l>
 <l n="cd">samayena mahāmudrāmadhiṣṭhāya hr̥dayaṁ <app>
 <lem type="emn" wit="#MSK">japet<!-- japet --></lem>
 <rdg wit="#cod">jopet</rdg>
@@ -5709,7 +5703,7 @@ hūm̐ vam̐ hūm̐ ityādi<app>
 </app> vajrahūṁkāreṇa pādaprahārābhighātena meghādikaṁ <app>
 <lem type="emn">bhasmīkriyamāṇaṁ<!-- bhasmīkriyamāṇaṁ --></lem>
 <rdg wit="#cod #MSK">bhasmīkr̥yamāṇaṁ</rdg>
-</app>  cintayet/</l>
+</app>  cintayet|</l>
 <l n="d">
 <app>
 <lem type="emn" wit="#MSK">evaṁ<!-- evaṁ --></lem>
@@ -10145,10 +10139,10 @@ diśāsu <app><lem wit="#PSM">bhūtvā</lem>
   <app>
     <note sameAs="txt:SDP282:23-24">SDP 282:23-24</note> 
     <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
-      <l n="a">bdag ming 'di zhes bgyi ba yis//</l>
-      <l n="b">rdo rje slob dpon dka' thub ches//</l>
-      <l n="c">sems can kun la phan pa'i phyir//</l>
-      <l n="d">slob ma rnams ni gzhug par <seg rend="check">bgyi</seg>//</l>
+      <l n="a">bdag ming 'di zhes bgyi ba yis||</l>
+      <l n="b">rdo rje slob dpon dka' thub ches||</l>
+      <l n="c">sems can kun la phan pa'i phyir||</l>
+      <l n="d">slob ma rnams ni gzhug par <seg rend="check">bgyi</seg>||</l>
     </lg>
 </note>
 </app>
@@ -10235,16 +10229,16 @@ icchāmy ahaṁ mahānātha mahābodhinayaṁ dr̥ḍham ||
 dehi me samayatattvaṁ saṁvaraṁ ca dadasva me || iti |</foreign></note>
 <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
 <l n="a">dga' chen khyod bdag ston pas <lb edRef="#SVUTibD" n="43a1"/>
- bas/</l>
-<l n="b">slob dpon khyod ni dgongs su gsol//</l>
-<l n="c">byang chub sems dpa'i tshul brtan pa//</l>
-<l n="d">mgon po chen po bdag 'tshal lo//</l>
+ bas|</l>
+<l n="b">slob dpon khyod ni dgongs su gsol||</l>
+<l n="c">byang chub sems dpa'i tshul brtan pa||</l>
+<l n="d">mgon po chen po bdag 'tshal lo||</l>
 <l n="e">dam tshig de nyid <app>
 <lem>bdag la stsol</lem>
 <note>VŚ: stsal du gsol</note>
 </app>//
 </l>
-<l n="f">sdom pa rnams kyang bdag la stsol//</l>
+<l n="f">sdom pa rnams kyang bdag la stsol||</l>
 <note>This verse is also attested in <title>Vajraśekhara</title> D 182b.</note>
 </lg></note>
 <note><title>Vajraśekhara</title> D 182b!???: <foreign>
@@ -10316,7 +10310,7 @@ rjes su yi rang kun tu bya ||</foreign> (D f.182v3–183r1)
 <app>
 <note sameAs="txt:SDP286:3">SDP 286:3</note>
 <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
-<l n="a">gtso bo bdag la sdom pa stsol//</l>
+<l n="a">gtso bo bdag la sdom pa stsol||</l>
 </lg></note>
 <note><title>Vajraśekhara</title>: <foreign>gtso bo bdag la sdom pa stso</foreign> (D f.183r2).</note>
 </app>
@@ -10337,11 +10331,11 @@ rjes su yi rang kun tu bya ||</foreign> (D f.182v3–183r1)
 <app>
 <note sameAs="txt:SDP286:4-5">SDP 286:4-5.</note>
 <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
-<l n="a">thub pa'i nyi ma ma lus pa'i//</l>
+<l n="a">thub pa'i nyi ma ma lus pa'i||</l>
 <l n="b">sangs rgyas rnams ni bdag <lb edRef="#SVUTibD" n="43a4"/>
- la dgongs//</l>
-<l n="c">bdag ming 'di zhes bya ba ni//</l>
-<l n="d">slob dpon <seg rend="check">dang</seg> du gnas pa la//</l>
+ la dgongs||</l>
+<l n="c">bdag ming 'di zhes bya ba ni||</l>
+<l n="d">slob dpon <seg rend="check">dang</seg> du gnas pa la||</l>
 </lg></note>
 <note>
 <title>Vajraśekhara</title>:
@@ -10363,10 +10357,10 @@ slob dpon <seg rend="check">dpang</seg> du gnas pa la ||</foreign>
 <app>
 <note sameAs="txt:SDP286:6-7">SDP 286:6-7</note>
 <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
-<l n="a">sangs rgyas rol mo las byung ba//</l>
-<l n="b">mi ldog pa yi 'khor los 'byor//</l>
-<l n="c">thar pa'i rang bzhin grong khyer cher//</l>
-<l n="d">gsang ba chen por 'jug par bgyi//</l>
+<l n="a">sangs rgyas rol mo las byung ba||</l>
+<l n="b">mi ldog pa yi 'khor los 'byor||</l>
+<l n="c">thar pa'i rang bzhin grong khyer cher||</l>
+<l n="d">gsang ba chen por 'jug par bgyi||</l>
 </lg></note>
 <note>
 <title>Vajraśekhara</title>:
@@ -10391,9 +10385,9 @@ gsang ba chen po 'jug par bgyi ||</foreign> (D f.183r3)
 <note sameAs="txt:SDP286:8-9">SDP 286:8-9</note>
 <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
 <l n="a">gsang ba chen por bsdus pa ni// <lb edRef="#SVUTibD" n="43a5"/></l>
-<l n="b">slob dpon chen po bdag 'jug mdzod//</l>
-<l n="c">mi ldog pa yi dbang bskur ba//</l>
-<l n="d">skal pa chen po bdag la stsol//</l>
+<l n="b">slob dpon chen po bdag 'jug mdzod||</l>
+<l n="c">mi ldog pa yi dbang bskur ba||</l>
+<l n="d">skal pa chen po bdag la stsol||</l>
 </lg></note>
 <note>
 <title>Vajraśekhara</title>:
@@ -10419,11 +10413,11 @@ skal ba chen po bdag la stsol ||</foreign>
 <app>
 <note sameAs="txt:SDP286:10-11">SDP 286:10-11</note>
 <note corresp="txt:SVUTib"><lg xml:lang="tib">
-<l n="a">mtshan rnams kyis ni rgyas btab cing//</l>
-<l n="b">dpe byad rnams dang yang dag ldan//</l>
+<l n="a">mtshan rnams kyis ni rgyas btab cing||</l>
+<l n="b">dpe byad rnams dang yang dag ldan||</l>
 <l n="c">
-<seg rend="check">sangs rgyas sku ni</seg> yid 'ong ba//</l>
-<l n="d">slob dpon chen po bdag la stsol//</l>
+<seg rend="check">sangs rgyas sku ni</seg> yid 'ong ba||</l>
+<l n="d">slob dpon chen po bdag la stsol||</l>
 </lg></note>
 <note>
 <title>Vajraśekhara</title>:
@@ -10449,10 +10443,10 @@ slob dpon chen po bdag la stsol ||</foreign>
 <note sameAs="txt:SDP286:12-13">SDP 286:12-13</note>
 <note corresp="txt:SVUTib"><lg xml:lang="tib">
 <l n="a">dbang <lb edRef="#SVUTibD" n="43a6"/>
- bskur chen po rmad byung ba//</l>
-<l n="b">sems can kun gyi don bgyid phyir//</l>
-<l n="c">bdag ni rtag tu slob dpon gyur//</l>
-<l n="d">slob dpon chen po bdag la stsol//</l>
+ bskur chen po rmad byung ba||</l>
+<l n="b">sems can kun gyi don bgyid phyir||</l>
+<l n="c">bdag ni rtag tu slob dpon gyur||</l>
+<l n="d">slob dpon chen po bdag la stsol||</l>
 </lg></note>
 <note>
 <title>Vajraśekhara</title>:
@@ -10493,10 +10487,10 @@ slob dpon chen po bdag la stsol ||</foreign>
 <note sameAs="txt:SDP286:15-16">SDP 286:15-16<foreign>ayam evāmukanāmnā bodhicittaparigrahaḥ //
 icchate guhyacakre 'smin praveṣṭāṁ samayasaṁvaram //</foreign></note>
 <note corresp="txt:SVUTib">SVU Tib.<lg xml:lang="tib">
-<l n="a">che ge zhes bya 'di nyid ni//</l>
-<l n="b">byang chub sems ni <lb edRef="#SVUTibD" n="43a7"/>yongs 'dzin zhing//</l>
-<l n="c">dam tshig sdom dang gsang ba yi//</l>
-<l n="d">'khor lo 'dir yang 'jug par 'tshal//</l>
+<l n="a">che ge zhes bya 'di nyid ni||</l>
+<l n="b">byang chub sems ni <lb edRef="#SVUTibD" n="43a7"/>yongs 'dzin zhing||</l>
+<l n="c">dam tshig sdom dang gsang ba yi||</l>
+<l n="d">'khor lo 'dir yang 'jug par 'tshal||</l>
 </lg></note>
 <note>
 <title>Vajraśekhara</title>:<foreign>bdag nyid nye bar zhi ba nyid || byang chub sems ni yongs su gzung || gsang ba yi ni 'khor lo ru || sdom pa dang bcas 'jug par bgyi ||</foreign>(D f.183r5–6)</note>
@@ -10521,10 +10515,10 @@ icchate guhyacakre 'smin praveṣṭāṁ samayasaṁvaram //</foreign></note>
 <note><title>Bhūtaḍāmara manual (f.8r)</title>
 <foreign>icchasi tvaṁ mahān mahāguhyakulaṁ śuddhaṁ rahasyaṁ parigr̥hnitum | tenaivaṁ vācyam icchāmy aham iti |</foreign></note>
 <note corresp="txt:SVUTib">SVU Tib.<lg xml:lang="tib"> 
-<l n="a">gsang ba chen po'i rigs dag pa'i//</l>
-<l n="b">gsang ba yongs su 'dzin par ni//</l>
-<l n="c">bdag nyid chen po khyod 'dod <lb edRef="#SVUTibD" n="43b1"/> dam//</l>
-<l n="d">des kyang 'tshal zhes brjod par bya//</l>
+<l n="a">gsang ba chen po'i rigs dag pa'i||</l>
+<l n="b">gsang ba yongs su 'dzin par ni||</l>
+<l n="c">bdag nyid chen po khyod 'dod <lb edRef="#SVUTibD" n="43b1"/> dam||</l>
+<l n="d">des kyang 'tshal zhes brjod par bya||</l>
 </lg></note>
 <note>
 <title>Vajraśekhara</title>:
@@ -10562,10 +10556,10 @@ des kyang 'tshal zhes brjod par bya ||</foreign>
 <app>
 <note sameAs="txt:SDP286:20-21">SDP 286:20–21.</note>
 <note corresp="txt:SDPTib">SVU Tib.<lg xml:lang="tib">
-<l n="a">sangs rgyas chos dang dge 'dun te//</l>
-<l n="b">dkon mchog gsum la skyabs su song//</l>
-<l n="c">'di ni sangs rgyas rigs dag pa'i//</l>
-<l n="d">dam tshig brtan par gyur pa'o//</l>
+<l n="a">sangs rgyas chos dang dge 'dun te||</l>
+<l n="b">dkon mchog gsum la skyabs su song||</l>
+<l n="c">'di ni sangs rgyas rigs dag pa'i||</l>
+<l n="d">dam tshig brtan par gyur pa'o||</l>
 </lg></note>
 <note>
 <title>Vajraśekhara</title>:
@@ -10591,10 +10585,10 @@ dam tshig brtan par gyur pa'o ||</foreign> (D ff.183r7–183v1)</note>
 <note corresp="txt:SDPTib">SVU Tib.
 <lg xml:lang="tib">
 <l n="a">rdo rje dril bu'i phyag <lb edRef="#SVUTibD" n="43b2"/>
- rgya dag/</l>
-<l n="b">blo chen khyod kyis gzung bar bgyi//</l>
-<l n="c">byang chub sems gang de rdo rje//</l>
-<l n="d">shes rab dril bu zhes brjod do//</l>
+ rgya dag|</l>
+<l n="b">blo chen khyod kyis gzung bar bgyi||</l>
+<l n="c">byang chub sems gang de rdo rje||</l>
+<l n="d">shes rab dril bu zhes brjod do||</l>
 </lg></note>
 <note>
 <title>Vajraśekhara</title>:
@@ -10615,8 +10609,8 @@ shes rab dril bu zhes bshad do ||</foreign> (D f.183v1)
 <listApp type="parallels"><app>
 <note sameAs="txt:SDP286:24-25">SDP 286:24–25.</note>
 <note corresp="txt:SVUTib">SVU Tib.<lg xml:lang="tib">
-<l n="a">slob dpon dag kyang gzung bar bya//</l>
-<l n="b">bla ma sangs rgyas kun dang mnyam//</l>
+<l n="a">slob dpon dag kyang gzung bar bya||</l>
+<l n="b">bla ma sangs rgyas kun dang mnyam||</l>
 <l n="c">'di ni rdo rje rigs dag pa'i</l>
 <l n="d">sdom pa dam tshig yin par gsungs ||</l>
 </lg></note>
@@ -10644,12 +10638,12 @@ sdom pa dam tshig yin par gsungs ||</foreign> (D f.183v1–2)
 <note sameAs="SDP286:26-27">SDP 286:26–27.</note>
 <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
 <l n="a">rin chen rigs <lb edRef="#SVUTibD" n="43b3"/>
- mchog chen po la//</l>
-<l n="b">nyin dang mtshan mo lan gsum du//</l>
-<l n="c">zang zing mi 'jigs chos dang byams//</l>
-<l n="d">sbyin pa rnams bzhi rtag tu sbyin//</l>
-<l n="e">'di ni rin chen rigs dag pa'i//</l>
-<l n="f">dam tshig sdom pa yin par gsungs//</l>
+ mchog chen po la||</l>
+<l n="b">nyin dang mtshan mo lan gsum du||</l>
+<l n="c">zang zing mi 'jigs chos dang byams||</l>
+<l n="d">sbyin pa rnams bzhi rtag tu sbyin||</l>
+<l n="e">'di ni rin chen rigs dag pa'i||</l>
+<l n="f">dam tshig sdom pa yin par gsungs||</l>
 </lg></note>
 <note>
 <title>Vajraśekhara</title>:
@@ -10679,11 +10673,11 @@ compared with the parallel in the <title>Vajraśekhara</title>, the Tibetan tran
 <note sameAs="txt:SDP288:1-2">SDP 288:1–2 (<foreign>bāhyaṁ</foreign> omitted due to eye-skip).
 </note>
 <note corresp="txt:SVUTib">SVUTib.<lg xml:lang="tib">
-<l n="a">phyi dang gsang ba theg pa gsum//</l>
+<l n="a">phyi dang gsang ba theg pa gsum||</l>
 <l n="b">dam chos khyod kyis gzung <lb edRef="#SVUTibD" n="43b4"/>
- bar bya//</l>
-<l n="c">'di ni padma'i rigs dag pa'i//</l>
-<l n="d">dam pa'i sdom pa yin par gsungs//</l>
+ bar bya||</l>
+<l n="c">'di ni padma'i rigs dag pa'i||</l>
+<l n="d">dam pa'i sdom pa yin par gsungs||</l>
 </lg></note>
 <note>
 <title>Vajraśekhara</title>:
@@ -10709,10 +10703,10 @@ dam tshig sdom pa yin par gsungs ||</foreign> (D f.183v2–3)</note>
   <app>
   <note sameAs="txt:SDP288:3-4">SDP 288:3–4.</note>
   <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
-  <l n="a">las kyi rigs mchog chen po la//</l>
-  <l n="b">sdom pa thams cad ldan par ni//</l>
-  <l n="c">yang dag nyid du gzung bar gyis//</l>
-  <l n="d">mchod pa'i las kyang ci nus bya//</l>
+  <l n="a">las kyi rigs mchog chen po la||</l>
+  <l n="b">sdom pa thams cad ldan par ni||</l>
+  <l n="c">yang dag nyid du gzung bar gyis||</l>
+  <l n="d">mchod pa'i las kyang ci nus bya||</l>
   </lg></note>
   <note>
     <title>Vajraśekhara</title>:
@@ -10786,11 +10780,11 @@ sdom pa'i cho ga'o || closer 13 ||
   <app>
   <note sameAs="txt:SDP288;5-6">SDP 288:5–6.</note>
   <note corresp="txt:SVUTib"><lg xml:lang="tib">
-    <l n="a">gzhan yang bcu bzhi 'di dag ni//</l>
+    <l n="a">gzhan yang bcu bzhi 'di dag ni||</l>
     <l n="b">phas pham <lb edRef="#SVUTibD" n="43b5"/>
-     par ni rab tu bshad//</l>
-    <l n="c">spang zhing dor bar mi bya'o//</l>
-    <l n="d">rtsa ba'i ltung bar shes par bya//</l>
+     par ni rab tu bshad||</l>
+    <l n="c">spang zhing dor bar mi bya'o||</l>
+    <l n="d">rtsa ba'i ltung bar shes par bya||</l>
     </lg></note>
   <note>
       <title>Vajraśekhara</title>:
@@ -10813,10 +10807,10 @@ sdom pa'i cho ga'o || closer 13 ||
 <app>
 <note sameAs="txt:SDP288:7-8">SDP 288:7–8.</note>
 <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
-  <l n="a">nyin dang mtshan mo lan gsum du//</l>
-  <l n="b">nyin re bzhin ni bklag par bya//</l>
-  <l n="c">gang tshe nyams na rnal 'byor pa//</l>
-  <l n="d">kha na ma tho sbom por 'gyur //</l>
+  <l n="a">nyin dang mtshan mo lan gsum du||</l>
+  <l n="b">nyin re bzhin ni bklag par bya||</l>
+  <l n="c">gang tshe nyams na rnal 'byor pa||</l>
+  <l n="d">kha na ma tho sbom por 'gyur ||</l>
   </lg></note>
 <note>
     <title>Vajraśekhara</title>:
@@ -10839,11 +10833,11 @@ sdom pa'i cho ga'o || closer 13 ||
 <app>
 <note sameAs="txt:SDP288:9-10">SDP 288:9–10.</note>
 <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
-  <l n="a">khyod kyis srog chags gsad mi bya//</l>
+  <l n="a">khyod kyis srog chags gsad mi bya||</l>
   <l n="b">ma byin par <lb edRef="#SVUTibD" n="43b6"/>
-   ni blang mi bya//</l>
-  <l n="c">'dod pa log par mi spyad cing//</l>
-  <l n="d">brdzun du smra bar mi bya'o//</l>
+   ni blang mi bya||</l>
+  <l n="c">'dod pa log par mi spyad cing||</l>
+  <l n="d">brdzun du smra bar mi bya'o||</l>
   </lg></note>
 <note>
     <title>Vajraśekhara</title>:
@@ -10866,10 +10860,10 @@ sdom pa'i cho ga'o || closer 13 ||
 <app>
 <note sameAs="txt:SDP288:11-12">SDP 288:11–12.</note>
 <note corresp="#SVUTib">SVU Tib. <lg xml:lang="tib">
-  <l n="a">phung khrol kun gyi rtsa ba yi//</l>
-  <l n="b">chang ni rnam par spang bar bya//</l>
-  <l n="c">sems can gdul phyir ma gtogs pa//</l>
-  <l n="d">bya ba ma yin thams cad spang//</l>
+  <l n="a">phung khrol kun gyi rtsa ba yi||</l>
+  <l n="b">chang ni rnam par spang bar bya||</l>
+  <l n="c">sems can gdul phyir ma gtogs pa||</l>
+  <l n="d">bya ba ma yin thams cad spang||</l>
   </lg></note>
 <note><title>Vajraśekhara</title>:
     <lg><l>phung khrol kun gyi rtsa ba yi ||</l>
@@ -10890,11 +10884,11 @@ sdom pa'i cho ga'o || closer 13 ||
 <app>
 <note sameAs="txt:SDP288:13-14">SDP 288:13–14.</note>
 <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
-  <l n="a">dam pa nye bar bsten bya zhing//</l>
+  <l n="a">dam pa nye bar bsten bya zhing||</l>
   <l n="b">rnal 'byor ba rnams bsnyen <lb edRef="#SVUTibD" n="43b7"/>
-   bkur bya//</l>
-  <l n="c">lus kyi las ni rnam gsum dang//</l>
-  <l n="d">ngag gi rnam pa bzhi rnams dang//</l>
+   bkur bya||</l>
+  <l n="c">lus kyi las ni rnam gsum dang||</l>
+  <l n="d">ngag gi rnam pa bzhi rnams dang||</l>
   </lg></note>
 <note><title>Vajraśekhara</title>:
     <lg xml:lang="tib"><l n="a">dam pa nye bar bsten bya zhing ||</l>
@@ -10916,10 +10910,10 @@ sdom pa'i cho ga'o || closer 13 ||
   <app>
   <note sameAs="txt:SDP288:15-17">SDP 288:15–17. The first hemistich is printed twice in Skorupski's edition.</note>
   <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
-    <l n="a">yid kyi rnam pa gsum dag ni//</l>
-    <l n="b">ci nus par ni rjes su skyong//</l><!-- skyong D; skyongs P -->
-    <l n="c">theg pa dman pa 'dod mi bya//</l>
-    <l n="b">sems can don la rgyab mi phyogs//</l>
+    <l n="a">yid kyi rnam pa gsum dag ni||</l>
+    <l n="b">ci nus par ni rjes su skyong||</l><!-- skyong D; skyongs P -->
+    <l n="c">theg pa dman pa 'dod mi bya||</l>
+    <l n="b">sems can don la rgyab mi phyogs||</l>
     </lg></note>
   <note>
         <title>Vajraśekhara</title>:
@@ -10945,11 +10939,11 @@ sdom pa'i cho ga'o || closer 13 ||
 </note>
 <note corresp="txt:SVUTib">SVU Tib. 
 <lg xml:lang="tib">
-<l n="a">'khor ba dag kyang yongs mi spang//</l>
+<l n="a">'khor ba dag kyang yongs mi spang||</l>
 <l n="b">rtag tu mya ngan <lb edRef="#SVUTibD" n="44a1"/>
-       'das mi chags//</l>
-<l n="c">lha dang lha min gsang ba la//</l>
-<l n="d">khyod kyis brnyas par mi bya zhing//</l>
+       'das mi chags||</l>
+<l n="c">lha dang lha min gsang ba la||</l>
+<l n="d">khyod kyis brnyas par mi bya zhing||</l>
 </lg>
 </note>
 <note>
@@ -10978,10 +10972,10 @@ sdom pa'i cho ga'o || closer 13 ||
 </note>
 <note corresp="txt:SVUTib">SVU Tib. 
 <lg xml:lang="tib">
-<l n="a">phyag rgya bzhon pa mtshon cha dang//</l>
-<l n="b">mtshan ma 'gom par mi bya'o//</l>
-<l n="c">'di dag dam tshig yin par bshad//</l>
-<l n="d">khyod kyis rtag tu bsrung bar bya//</l>
+<l n="a">phyag rgya bzhon pa mtshon cha dang||</l>
+<l n="b">mtshan ma 'gom par mi bya'o||</l>
+<l n="c">'di dag dam tshig yin par bshad||</l>
+<l n="d">khyod kyis rtag tu bsrung bar bya||</l>
 </lg>
 </note>
 <note>
@@ -11017,10 +11011,10 @@ sdom pa'i cho ga'o || closer 13 ||
 <note corresp="txt:SVUTib">SVU Tib. 
 <lg xml:lang="tib">
 <l n="a">des kyang 'di skad <lb edRef="#SVUTibD" n="44a2"/>
-brjod par bya ste//</l>
-<l n="b">slob dpon 'dir ni bdag la gson//</l>
-<l n="c">gtso bos ji ltar bka' stsal pa//</l>
-<l n="d">de ltar bdag ni bgyid par 'tshal//</l></lg>
+brjod par bya ste||</l>
+<l n="b">slob dpon 'dir ni bdag la gson||</l>
+<l n="c">gtso bos ji ltar bka' stsal pa||</l>
+<l n="d">de ltar bdag ni bgyid par 'tshal||</l></lg>
 </note>
 <note>
 <title>Vajraśekhara</title>:
@@ -11040,12 +11034,12 @@ brjod par bya ste//</l>
 <app>
 <note corresp="txt:SVUTib">SVU Tib. 
 <lg xml:lang="tib">
-<l n="a">ji ltar dus gsum mgon po rnams//</l>
-<l n="b">byang chub tu ni nges mdzad pa//</l>
+<l n="a">ji ltar dus gsum mgon po rnams||</l>
+<l n="b">byang chub tu ni nges mdzad pa||</l>
 </lg>
 <p xml:lang="tib">zhes bya ba la sogs pa nas.</p>
 <lg xml:lang="tib">
-<l>sems can mya ngan 'das la <lb edRef="#SVUTibD" n="44a3"/> dgod//</l></lg>
+<l>sems can mya ngan 'das la <lb edRef="#SVUTibD" n="44a3"/> dgod||</l></lg>
 <p xml:lang="tib">ces bya ba'i bar du brjod par bya'o.</p><!-- 
   Parallel to the <title>Vajraśekhara</title> ends -->
 </note>
@@ -11186,12 +11180,12 @@ anāśvastān āśvāsayiṣyāmi sattvān sthāpayāmi nirvṛttāv iti //
 <note sameAs="txt:SDP288:28-30">SDP 288:28–30</note>
 <note>The same set of six <foreign>pāda</foreign>s appears in <seg rend="check">§3.3</seg><!-- CROSS REFERENCE!!-->.</note>
 <note corresp="txt:SVUTib">SVU Tib. <lg xml:lang="tib">
-<l n="a">byang chub sems ni bla med pa//</l>
-<l n="b">dam pa bdag gis bskyed nas su//</l>
-<l n="c">de yi snying gar snying po ni//</l>
-<l n="d">rdo rje rab tu gzhag par bya//</l>
+<l n="a">byang chub sems ni bla med pa||</l>
+<l n="b">dam pa bdag gis bskyed nas su||</l>
+<l n="c">de yi snying gar snying po ni||</l>
+<l n="d">rdo rje rab tu gzhag par bya||</l>
 <l n="e">su ra te sa ma ya staṁ ho</l><!-- stwaṁ?-->
-<l n="f">ba dzra sid dhya ya thā su khaṁ/</l>
+<l n="f">ba dzra sid dhya ya thā su khaṁ|</l>
 </lg>
 </note>
 <!-- encode also SDPTib parallel ?-->
@@ -12582,7 +12576,7 @@ ajñānapaṭalaṁ <app>
 <lem type="emn" wit="#MSK">vatsa<!-- vatsa --></lem>
 <note corresp="#VĀ"/>
 <rdg wit="#cod">vaccha</rdg>
-</app>  apanītaṁ jinaistava/</l>
+</app>  apanītaṁ jinaistava|</l>
 <l n="cd">
 <app>
 <lem type="emn">śalāki<!-- śalāki --></lem>
@@ -12603,12 +12597,12 @@ ajñānapaṭalaṁ <app>
 <l n="ab">athāsya hr̥dayam | oṁ vajranetrāpahara <app>
 <lem type="emn" wit="#MSK">paṭalaṁ<!-- paṭalaṁ --></lem>
 <rdg wit="#cod">paṭaliṁ</rdg>
-</app>  hrīriti/</l>
+</app>  hrīriti|</l>
 
 <l n="cd">tato darpaṇamādāya <app>
 <lem type="emn" wit="#MSK">dharmalakṣaṇaṁ<!-- dharmalakṣaṇaṁ --></lem>
 <rdg wit="#cod">dharmmaṇalakṣaṇaṁ</rdg>
-</app>  kathayet/</l>
+</app>  kathayet|</l>
 
 <lg met="FILL-ME-IN">
 <l n="ab">pratibimbasamā dharmā acchāḥ śuddhā hyanāvi<supplied reason="lost">lāḥ</supplied>/
@@ -12700,7 +12694,7 @@ As mentioned above, the source of the first verse is Dīpaṁkarabhadra's <forei
 <ptr target="#MSK"/>
  emends <foreign>ākāśaś cāpy</foreign>
 </note>
-</app>lakṣaṇam/</l>
+</app>lakṣaṇam|</l>
 <l n="cd">ākāśa<app>
 <lem type="emn" wit="#MSK">samatāyogā<!-- samatāyogā --></lem>
 <witDetail wit="#MSK" type="silemn"/>
@@ -12759,7 +12753,7 @@ māyopamaṁ ca sarva[ṁ] vai traidhātukam aśeṣataḥ [||]</foreign>
 <lem wit="#MSK">śarāḥ<!-- śarāḥ --></lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">sarāḥ</rdg>
-</app>  kṣeptavyāḥ/</l>
+</app>  kṣeptavyāḥ|</l>
 <l n="c">
 <app>
 <lem type="conj">eke tūrdhva<!-- eke tūrdhva --></lem>
@@ -12792,7 +12786,7 @@ māyopamaṁ ca sarva[ṁ] vai traidhātukam aśeṣataḥ [||]</foreign>
 <lem wit="#MSK">ste'cchaḥ<!-- ste'cchaḥ --></lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#MS">te acchaḥ</rdg>
-</app> śuddho hyanāvilaḥ/</l>
+</app> śuddho hyanāvilaḥ|</l>
 <l n="cd">hr̥daye tiṣṭhate <app>
 <lem type="emn" wit="#MSK">vatsa<!-- vatsa --></lem>
 <rdg wit="#cod">vaṁsa</rdg>
@@ -12894,7 +12888,7 @@ VĀ 42.1: <foreign>adyaprabhr̥ti sahacittotpādamātreṇa dharmcakraṁ pravar
 <lem wit="#MSK">nirviśaṅkena<!-- nirviśaṅkena --></lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">nninniśaṅkona</rdg>
-</app>  cetasā/</l>
+</app>  cetasā|</l>
 <l n="d">prakāśaya sadā loke <app>
 <lem type="emn" wit="#MSK">mantracaryānayaṁ<!-- mantracaryānayaṁ --></lem>
 <rdg wit="#cod">mantrācayānayam</rdg>
@@ -12950,11 +12944,11 @@ te ca vajradharāḥ sarve rakṣanti tāv sarvaśaḥ ||</foreign> (Sakurai 199
 <lem type="emn" wit="#MSK">prayoktavyau<!-- prayoktavyau --></lem>
 <rdg wit="#cod">prayoktavyo</rdg>
 </app> |  
-punaḥ/</l>
+punaḥ|</l>
 </lg>
 
 <lg met="FILL-ME-IN">
-<l n="ab">sarvasattvahitārthāya sarvalokeṣu sarvataḥ/</l>
+<l n="ab">sarvasattvahitārthāya sarvalokeṣu sarvataḥ|</l>
 <l n="cd">yathāvinayato <app>
 <lem type="emn" wit="#MSK">viśvaṁ<!-- viśvaṁ --></lem>
 <rdg wit="#cod">visvam</rdg>
@@ -12985,7 +12979,7 @@ yathāvinayato viśvaṁ dharmacakraṁ pravartaya ||</foreign>
 </app>
 </listApp>
 </l>
-<l n="c">sarvasattvahitārthāya sarvalokeṣu sarvataḥ/</l>
+<l n="c">sarvasattvahitārthāya sarvalokeṣu sarvataḥ|</l>
 <l n="d">yathāvinayato viśvaṁ vajracakraṁ <app>
 <lem>pravartyatām<!--pravartyatām--></lem>
 <note>
@@ -13051,7 +13045,7 @@ gāthāpañcakenānujñāṁ dadyāditi/
 </app>
 </listApp>//
 </l>
-<l n="c">oṁ eṣo 'haṁ vyākaromi tvāṁ vajrasattvastathāgataḥ/</l>
+<l n="c">oṁ eṣo 'haṁ vyākaromi tvāṁ vajrasattvastathāgataḥ|</l>
 <l n="d">
 <app>
 <lem type="emn">bhavadurgatitoddhr̥tya atyantabhavasiddhaye</lem>
@@ -13110,7 +13104,7 @@ bhavadurgatitoddhr̥tya atyantabhavasiddhaye ||</foreign> 369 ||;
 <lem wit="#MSK">śiṣyebhyo<!-- śiṣyebhyo --></lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">siṣyebhyo</rdg>
-</app>  vaktavyam/</l>
+</app>  vaktavyam|</l>
 <!-- \pend -->
 
 <!-- \verse -->
@@ -13193,7 +13187,7 @@ anayā dharmāhr̥tayā mudrayā vyākaraṇaṁ kriyate sa sarvatathāgataiḥ 
 <ptr target="#MSK"/>
  restored after STTS \S\S\ 607–608;</note>
 <rdg wit="#cod">+++</rdg>
-</app> sadr̥śaṁ pāpamasattvāsti tridhātuke/</l>
+</app> sadr̥śaṁ pāpamasattvāsti tridhātuke|</l>
 <l n="cd">tasmā<app>
 <lem wit="#cod">tkāmavirāgitvaṁ<!-- tkāmavirāgitvaṁ --></lem>
 <note corresp="#STTS"/>
@@ -13245,7 +13239,7 @@ imaṁ mahāsamayamantraṁ <app>
 <lem wit="#MSK">caturmudrā<!-- caturmudrā --></lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-catumudrā-</rdg>
-</app> jñānaṁ śikṣayet/</l>
+</app> jñānaṁ śikṣayet|</l>
 <l n="cd">anena vidhinā vaktavyam/ 
 na kasya ci<app>
 <lem wit="#MSK" type="emn">ttvayānyasyaiṣāṁ<!-- ttvayānyasyaiṣāṁ --></lem>
@@ -13263,7 +13257,7 @@ na kasya ci<app>
  read <foreign>akovidamya | ekatarāpi</foreign> and emend <foreign>akovidasyaikatarāpi</foreign>
 </note>
 </app> mudrā darśayitavyā/ 
-tatkasya hetoḥ/</l>
+tatkasya hetoḥ|</l>
 <l n="c">tathā hi te sattvā <app>
 <lem type="emn" wit="#MSK">adr̥ṣṭamahāmaṇḍalāḥ<!-- adr̥ṣṭamahāmaṇḍalāḥ --></lem>
 <witDetail wit="#MSK" type="silemn"/>
@@ -13284,7 +13278,7 @@ tatkasya hetoḥ/</l>
 <note corresp="#STTS"/>
 <rdg wit="#cod">mudrāvaddhaṁ</rdg>
 </app>  prayokṣyanti/ </l>
-<l n="d">tadā teṣāṁ na tathā siddhirbhaviṣyati/</l>
+<l n="d">tadā teṣāṁ na tathā siddhirbhaviṣyati|</l>
 <l n="e">tataste vicikitsā <app>
 <lem type="emn">prāptā<!-- prāptā --></lem>
 <rdg wit="#cod">prāpta</rdg>
@@ -13470,7 +13464,7 @@ akāro mukhamityādinā <app>
 <lem wit="#MSK">ścaturhūṁkāreṇa<!-- tata\edtext{ścaturhūṁkāreṇa --></lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">catuhūṁkāreṇa</rdg>
-</app> sarvakīlānutpāṭya/</l>
+</app> sarvakīlānutpāṭya|</l>
 <l n="d">oṁ ruru sphuru jvala tiṣṭha siddhalocane sarvārthasādhani <app>
 <lem>svāhe<supplied reason="lost">tyaṣṭottara</supplied>śa<supplied reason="lost">taparijapta</supplied>kṣīreṇa</lem><!--svāhe- ... -kṣīreṇa-->
 <note>
