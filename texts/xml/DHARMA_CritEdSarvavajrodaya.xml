@@ -417,13 +417,12 @@ Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasatt
 sarvatathāgata-kula-cakravartitve <app>
 <lem type="emn">pañcabuddha-</lem>
 <rdg wit="#cod">pañcavuddham</rdg>
-</app>
-<app>
+</app><app>
 <lem wit="#cod">makuṭa-</lem>
 <rdg wit="#MSK">mukuṭa-</rdg>
 <witDetail wit="#MSK" type="silemn"/>
 </app>paṭṭābhi<app>
-<lem type="emn" rend="hyphenleft">ṣekenābhiṣicyānuttara</lem>
+<lem type="emn" rend="hyphenleft">ṣekenābhiṣicyānuttara-</lem>
 <rdg wit="#cod">-ṣekenanābhiṣiñcyānuttara-</rdg>
 <rdg wit="#MSK">-ṣekena cābhiṣicyānuttara-</rdg>
 <witDetail wit="#MSK" type="silemn"/></app><app>
@@ -431,38 +430,26 @@ sarvatathāgata-kula-cakravartitve <app>
 <note>KSP reads <foreign>-śīlādikayā</foreign>, which is supported by SVU Tib (<seg rend="check">reading of Tib.!</seg>).
 </note>
 </app>
- yāvatsarvatathāgatasamatājñānā<app>
-<lem>bhisaṁbodhiniṣpādakamā</lem>
-<note>KSP reads <foreign>-bhisaṁbodhiṁ niṣpādyaikam</foreign>.
+ yāvat sarvatathāgata-samatājñānābhi<app><lem wit="#cod #MSK" rend="hyphenleft">saṁbodhi-niṣpādakam</lem>
+<note>KSP reads <foreign>-saṁbodhiṁ niṣpādyaikam</foreign>.
 </note>
 </app>
-dyavajramādya<app>
-<lem type="emn">vajrāṅkita<!-- vajrāṅkita --></lem>
+ādya-vajram 
+ādya-<app><lem type="emn">vajrāṅkita-</lem>
 <rdg wit="#cod #MSK">-vajrāṅkitaṁ</rdg>
 </app>
 <app>
-<lem type="emn">ghaṇṭāsahitamaśeṣānavaśeṣasattva<!-- ghaṇṭāsahitamaśeṣānavaśeṣasattva --></lem>
-<rdg wit="#cod">ghaṇṭasahita aśeṣānavaśeṣā-</rdg>
-<rdg wit="#MSK">ghaṇṭāsahitam aśeṣānavaśeṣa-</rdg>
-<witDetail wit="#MSK" type="emn"/>
-<note>(<foreign>ghaṇṭāsahitam</foreign> is a silent emendation)</note>
-</app>dhātūnāṁ niṣpādanāya samantabhadrāya dadyāt |
-<!-- hr̥dayod: em. hr̥dayād, with MSK (sil. em.). -->
-<!-- sthitvājñā: em. sthitvājñāṁ, with MSK (sil. em.). -->
-<!-- mārgayamānā: em. mārgayamānaṁ, with MSK; MSK's footnote gives the impression that they read  rgayamānā. -->
-<!-- tabho: em. tato, with MSK (sil. em.). -->
-<!-- makuṭa-: mukuṭa- MSK (sil. em.). -->
-<!-- -ṣekenanābhiṣiñcyānuttara-: em. -ṣekenābhiṣicyānuttara-; MSK silently emends -ṣekena cābhiṣicyānuttara-. -->
-<!-- ghaṇṭasahita: em. ghaṇṭāsahitaṁ; ghaṇṭāsahitaṁ MSK (sil. em.). -->
-<!-- -*śeṣāsatva-: em. -śeṣasattva-, with MSK. -->
-<!--    -->
-tato<app>
-<lem wit="#cod">nāmābhiṣekādi<!-- nāmābhiṣekādi --></lem>
+<lem type="emn" rend="hyphenleft">ghaṇṭā-sahitam aśeṣānavaśeṣa-</lem>
+<rdg wit="#cod">-ghaṇṭasahita aśeṣānavaśeṣā-</rdg>
+<rdg wit="#MSK">-ghaṇṭāsahitam aśeṣānavaśeṣa-</rdg>
+</app>sattvadhātūnāṁ niṣpādanāya samantabhadrāya dadyāt.
+
+tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <rdg wit="#MSK">nāmābhiṣekādiṁ</rdg>
-<witDetail wit="#MSK" type="silemn"/>
-</app> dadyāt <listApp type="parallels">
+</app> dadyāt.</p>
+<listApp type="parallels">
 <app>
-<lem>tato ... dadyāt</lem>
+<!-- <lem>tato ... dadyāt</lem> -->
 <note>
 <foreign>tato hr̥dayād avatīrya ... pañcabuddhaṁ makuṭapaṭṭābhiṣekena cābhiṣicyānuttaraśīlādikayā ... -bhisaṁbodhiṁ niṣpādyaikam ādyavajraṁ vajrāṇkitaṁ ghaṇṭāsahitam ...</foreign> (Inui 1994: 109);
 Cf. STTS 41–42:
@@ -470,8 +457,7 @@ Cf. STTS 41–42:
 atha bhagavān ... sarvatathāgata-<hi rend="bold">śīla</hi>-samādhi-... mahājñāna-samayam, ... yāvat-sarvatathāgata-samatā-jñānābhijñānuttara-mahāyānābhisamay<hi rend="bold">ottama-siddhy</hi>avāpti-phala-hetos, ...</foreign>
 </note>
 </app>
-</listApp>//
-</p>
+</listApp>
 
 <p>tadanu <app>
 <lem wit="#MSK">vajrapāṇyahaṁkāreṇa<!-- vajrapāṇyahaṁkāreṇa --></lem>
