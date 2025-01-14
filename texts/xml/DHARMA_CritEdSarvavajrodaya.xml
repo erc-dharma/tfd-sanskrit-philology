@@ -513,42 +513,30 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <note><ptr target="#MSK"/> reads <foreign>bhavati</foreign> which it emends to <foreign>bhavanti</foreign>.</note>
 </app>.</p>
 
-
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrarāja</head>
-<l n="a">aho hya<app>
-<lem wit="#cod">mogharājo'haṁ<!-- mogharājo'haṁ --></lem>
-<rdg wit="#MSK">amogharājāhaṁ</rdg>
-<note corresp="#KSP #Ied #STTS #Hed #STTS #Yed"/>
-<!--  STTT 46 as edited by Horiuchi reads <foreign>amogharājāhaṁ}.% -->
+<l n="a">aho hy amogha<app>
+<lem wit="#cod" rend="hyphenleft">rājo 'haṁ</lem>
+<rdg wit="#MSK">-rājāhaṁ</rdg>
+<note corresp="#KSP #STTS"/>
+<!--  STTS 46 as edited by Horiuchi reads <foreign>amogharājāhaṁ</foreign>. -->
 </app>
 </l>
-<l n="b">
-<app>
-<lem wit="#MSK">vajrasaṁbhavamaṅkuśaḥ<!-- vajrasaṁbhavamaṅkuśaḥ --></lem>
+<l n="b"><app><lem wit="#MSK">vajrasaṁbhavam aṅkuśaḥ</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">vajrāsambhavamaṅkuśa</rdg>
-</app>  |
-</l>
-<l n="c">yatsarvavyāpino <app>
-<lem wit="#MSK">buddhāḥ</lem>
+<rdg wit="#cod">vajrāsambhavam aṅkuśa</rdg></app> |</l>
+<l n="c">yat sarva-vyāpino <app><lem wit="#MSK">buddhāḥ</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">v<unclear>uddha</unclear>ḥ
-</rdg>
-</app>
-</l>
-<l n="d">samākr̥ṣyanti <pb n="22r" edRef="#cod"/>
-  
-siddhaye//
+<rdg wit="#cod">v<unclear>uddha</unclear>ḥ</rdg></app></l>
+<l n="d">samākr̥ṣyanti <pb n="22r" edRef="#cod"/> siddhaye ||</l>
+</lg>
 <listApp type="parallels">
 <app>
-<lem>aho ... siddhaye</lem>
-<note>STTS 46. % Horiuchi reads <foreign>amogharājāhaṁ</foreign> for <foreign>amogharājo 'haṁ</foreign>.
-</note>
+    <note>STTS 46 (Horiuchi as well as Yamada reads <foreign>amogharājāhaṁ</foreign> for <foreign>amogharājo 'haṁ</foreign>).</note>
+    <note>KSP 118 (ed. Inui 1994: 107–108)</note>
 </app>
 </listApp>
-</l>
-</lg>
+
 
 <!-- KSP evam utpattispharaṇasaṁhārayogena vairocanahr̥dgatamadhyāvasthitenodānam udānayanto 'bhiṣekānantare vajrasattvād ārabhya yāvad vajramuṣṭiparyantaṁ svasvacihnāni pūrvavat spharaṇasaṁhārayogenodānam udānayanti. -->
 <!-- °evaṁ○mut-: em. °evamut-, with MSK (sil. em.). -->
