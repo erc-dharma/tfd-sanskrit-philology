@@ -519,12 +519,11 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <lem wit="#cod" rend="hyphenleft">rājo 'haṁ</lem>
 <rdg wit="#MSK">-rājāhaṁ</rdg>
 <note corresp="#KSP #STTS"/>
-<!--  STTS 46 as edited by Horiuchi reads <foreign>amogharājāhaṁ</foreign>. -->
 </app>
 </l>
-<l n="b"><app><lem wit="#MSK">vajrasaṁbhavam aṅkuśaḥ</lem>
+<l n="b"><app><lem wit="#MSK">vajrasaṁbhava-m-aṅkuśaḥ</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">vajrāsambhavam aṅkuśa</rdg></app> |</l>
+<rdg wit="#cod">vajrāsambhavamaṅkuśa</rdg></app> |</l>
 <l n="c">yat sarva-vyāpino <app><lem wit="#MSK">buddhāḥ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">v<unclear>uddha</unclear>ḥ</rdg></app></l>
@@ -532,8 +531,8 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 </lg>
 <listApp type="parallels">
 <app>
-    <note>STTS 46: Horiuchi as well as Yamada misreads <foreign>amogharājāhaṁ</foreign> for <foreign>amogharājo 'haṁ</foreign> in the manuscript.</note>
-    <note>KSP 118 (ed. Inui 1994: 107–108)</note>
+    <note corresp="STTS:46">STTS 46: Horiuchi as well as Yamada misreads <foreign>amogharājāhaṁ</foreign> for <foreign>amogharājo 'haṁ</foreign> in the manuscript.</note>
+    <note corresp="KSP:188">KSP 118 (ed. Inui 1994: 107–108)</note>
 </app>
 </listApp>
 
