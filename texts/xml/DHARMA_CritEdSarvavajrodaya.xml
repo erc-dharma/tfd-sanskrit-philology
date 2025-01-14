@@ -474,7 +474,6 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 </listApp>
 </div>
 
-<!-- RT, SI and AG have reached here on 2025-01-07 -->
 <div type="subsection" n="2">
 <head type="editorial">The Other Fifteen Bodhisattvas</head>
 
@@ -608,6 +607,7 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 </app>
 </listApp> 
 
+<!-- RT, SI and AG have reached here on 2025-01-14 -->
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrasādhu</head>
@@ -619,7 +619,10 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <ptr target="#MSK"/>
  reads <foreign>-prahīṇyanāṁ</foreign>.
 </note>
-</app> tuṣṭiṁ janayate dhruvam<listApp type="parallels">
+</app> tuṣṭiṁ janayate dhruvam ||
+</l>
+</lg>
+<listApp type="parallels">
 <app>
 <lem>aho ... dhruvam</lem>
 <note>STTS 58
@@ -627,9 +630,7 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <!-- yad vikalpaprahīṇānāṁ tuṣṭiṁ janayate dhruvam ||"/>-->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp> 
 <!-- -prahīṇyano: em. -prahīṇānāṁ, with MSK, wich reads -prahīṇyanāṁ. -->
 
 <lg met="anuṣṭubh">
