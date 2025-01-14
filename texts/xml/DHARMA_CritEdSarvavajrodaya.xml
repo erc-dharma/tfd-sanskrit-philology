@@ -634,8 +634,11 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <!-- -prahīṇyano: em. -prahīṇānāṁ, with MSK, wich reads -prahīṇyanāṁ. -->
 
 <lg met="anuṣṭubh">
-<l n="ab">idaṁ tat sarvabuddhānāṁ sādhukārapravartakam |</l>
-<l n="cd">sarvatuṣṭikaraṁ vajraṁ divyaṁ prāmodyavardhanamiti<listApp type="parallels">
+<l n="a">idaṁ tat sarva-buddhānāṁ</l> 
+<l n="b"> sādhukāra-pravartakam |</l>
+<l n="c">sarva-tuṣṭikaraṁ vajraṁ </l>
+<l n="d">divyaṁ prāmodya-vardhanam iti ||</l>
+</lg><listApp type="parallels">
 <app>
 <lem>idaṁ ... vardhanam iti</lem>
 <note>STTS 61
@@ -643,15 +646,13 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <!--   sarvatuṣṭikaraṁ vajraṁ divyaṁ prāmodyavardhanam iti ||"/>-->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp>
 
 <!--  Vajraratna -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajraratna</head>
 <l n="ab">aho hi svabhiṣeko<app>
-<lem wit="#MSK">'haṁ<!-- 'haṁ --></lem>
+<lem wit="#MSK">'haṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">haṁm</rdg>
 </app>  vajraratnamanuttaram |</l>
