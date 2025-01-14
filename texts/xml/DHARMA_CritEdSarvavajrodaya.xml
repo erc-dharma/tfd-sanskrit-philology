@@ -769,20 +769,21 @@ sūryā<app>
 <lg met="anuṣṭubh">
 <head type="editorial">Vajraketu</head>
 <l n="ab">aho <app>
-<lem type="emn" wit="#MSK">hyasadr̥śaḥ</lem>
+<lem type="emn" wit="#MSK">hy asadr̥śaḥ</lem>
 <rdg wit="#cod">hy isadr̥śaḥ</rdg>
-</app>  ketuḥ ahaṁ sarvārthasiddhinām |</l>
-<l n="cd">yatsarvāśā<app>
-<lem wit="#MSK">prapūrṇānāṁ<!-- prapūrṇānāṁ --></lem>
+</app>  ketuḥ ahaṁ sarvārtha-siddhinām |</l>
+<l n="cd">yat sarvāśā-<app>
+<lem wit="#MSK">prapūrṇānāṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-prapūṇṇānāṁ</rdg>
 <rdg wit="STTS(\cod\ \Hed\ \Yed)">-paripūrṇānāṁ</rdg>
-</app> sarvārtha<app>
-<lem wit="#MSK">paripūraṇa<!-- paripūraṇa --></lem>
+</app> sarvārtha-<app>
+<lem wit="#MSK">paripūraṇa</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">paripūrṇṇām</rdg>
 <rdg wit="STTS(\cod\ \Hed\ \Yed)">-pratipūraṇam</rdg>
-</app>miti<listApp type="parallels">
+</app>m iti ||</l>
+</lg><listApp type="parallels">
 <app>
 <lem>aho ... paripūraṇam iti</lem>
 <note>STTS 77 
@@ -791,14 +792,14 @@ sūryā<app>
 <!-- <foreign>yat sarvāśāparipūrṇānāṁ sarvārthapratipūraṇam"/>\Hed\ \Yed\ (unmetrical). -->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp>
+
 
 <lg met="anuṣṭubh">
-<l n="ab">idaṁ tasarvabuddhānāṁ <pb edRef="#cod" n="22v"/>
- sarvāśāparipūraṇam |</l>
-<l n="cd">cintāmaṇidhvajaṁ nāma dānapāramitānayam<listApp type="parallels">
+<l n="ab">idaṁ ta sarva-buddhānāṁ <pb edRef="#cod" n="22v"/>
+ sarvāśā-paripūraṇam |</l>
+<l n="cd">cintāmaṇi-dhvajaṁ nāma dāna-pāramitā-nayam ||</l>
+</lg><listApp type="parallels">
 <app>
 <lem>idaṁ ... dānapāramitānayam</lem>
 <note>STTS 80
@@ -806,9 +807,8 @@ sūryā<app>
 <!--   cintāmaṇidhvajaṁ nāma dānapāramitānayam iti ||"/>-->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp>
+
 
 <!--  Vajrahāsa -->
 <lg met="anuṣṭubh">
