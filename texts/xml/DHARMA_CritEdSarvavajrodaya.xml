@@ -502,6 +502,7 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <note>KSP 117 <seg rend="check">(ed. Inui 1994: 109,16–17)</seg><!-- apply this mode of reference also in other cases where we used Inui -->: <foreign>evam utpatti-spharaṇa-saṁhāra-yogena vairocana-hr̥dgata-madhyāvasthitenodānam udānayanto 'bhiṣekānantare vajrasattvād ārabhya yāvad vajramuṣṭi-paryantaṁ sva-sva-cihnāni pūrvavat spharaṇa-saṁhāra-yogenodānam udānayanti</foreign>.</note>
 </app>
 </listApp>
+<!-- An amazingly ill-constructed sentence? KSP seems even worse. Provisional  translation: '... (Vajrasattva) who is present in the Vajra inside the heart of Vairocana who is ...., while doing the udāna and (also doing) the udāna immediately after the unction, should be visualized (and so should the other Bodhisattvas) up to Vajramuṣṭi'. -->
 
 <p>vajra<app>
 <lem wit="#MSK" rend="hyphenleft">rājādīnām udānāni</lem>
@@ -519,8 +520,7 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <lem wit="#cod" rend="hyphenleft">rājo 'haṁ</lem>
 <rdg wit="#MSK">-rājāhaṁ</rdg>
 <note corresp="#KSP #STTS"/>
-</app>
-</l>
+</app></l>
 <l n="b"><app><lem wit="#MSK">vajrasaṁbhava-m-aṅkuśaḥ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">vajrāsambhavamaṅkuśa</rdg></app> |</l>
@@ -536,59 +536,33 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 </app>
 </listApp>
 
-
-<!-- KSP evam utpattispharaṇasaṁhārayogena vairocanahr̥dgatamadhyāvasthitenodānam udānayanto 'bhiṣekānantare vajrasattvād ārabhya yāvad vajramuṣṭiparyantaṁ svasvacihnāni pūrvavat spharaṇasaṁhārayogenodānam udānayanti. -->
-<!-- °evaṁ○mut-: em. °evamut-, with MSK (sil. em.). -->
-<!-- -ṇilaya-: em. -nilaya-, with MSK (sil. em.). -->
-<!-- -bhāva-: -bhava- MSK. -->
-<!-- -madhyovasthitonodānam udānaṁ: em. -madhyāvasthita udānam udānayan -->
-<!-- vajramuṣṭhi- em. vajramuṣṭi-. -->
-<!-- draṣṭavyam iti: em. draṣṭavya iti. -->
-<!-- An amazingly ill-constructed sentence? KSP seems even worse. Provisional  translation: '... (Vajrasattva) who is present in the Vajra inside the heart of Vairocana who is ...., while doing the udāna and (also doing) the udāna immediately after the unction, should be visualized (and so should the other Bodhisattvas) up to Vajramuṣṭi'. -->
-<!-- uddānāni: em. udānāni, with MSK (sil. em.). -->
-<!-- bhavan\unclear{t}i: MSK reads bhavati which it emends to bhavanti. -->
-<!-- amogharājo haṁ: amogharājāhaṁ MSK. STTT §46 as edited by Horiuchi reads amogharājāhaṁ. -->
-<!-- vajrāsambhavamaṅkuśa: em. vajrasambhava-m-aṅkuśaḥ, with MSK (sil. em.). -->
-<!-- v\unclear{uddha}ḥ: em. buddhāḥ, with MSK (sil. em.).% -->
-
 <lg met="anuṣṭubh">
 <l n="a">
-<app>
-<lem wit="#MSK">idaṁ tat sarvabuddhānāṁ<!-- idaṁ tat sarvabuddhānāṁ --></lem>
+<app><lem wit="#MSK">idaṁ tat sarvabuddhānāṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">idan ta savavuddhānā</rdg>
+<rdg wit="#cod">idanta savavuddhānā</rdg>
 </app>
 </l>
-<l n="b">
-<app>
-<lem wit="#MSK">vajrajñāna<!-- vajrajñāna --></lem>
+<l n="b"><app><lem wit="#MSK">vajrajñānam</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">vajrānam</rdg>
-</app> manuttaram |</l>
-<l n="c">
-<app>
-<lem wit="#MSK" type="emn">yatsarvabuddhārthasiddhyarthaṁ<!-- yatsarvabuddhārthasiddhyarthaṁ --></lem>
+<rdg wit="#cod">vajrānam</rdg></app> anuttaram |</l>
+<l n="c"><app><lem wit="#MSK" type="emn">yatsarvabuddhārthasiddhyarthaṁ</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">yatsarvavuddhārthasiddhārtha</rdg>
-<note>
-<ptr target="#MSK"/>
- emends <foreign>sarvavuddhārthasiddhyarthaṁ</foreign>, mentioning Horiuchi’s different reading for STTS but ignoring that the SVU ms. agrees with the STTS ms.</note>
+<note><ptr target="#MSK"/> emends <foreign>sarvavuddhārthasiddhyarthaṁ</foreign>, mentioning Horiuchi’s different reading for STTS but ignoring that the SVU ms. agrees with the STTS ms.</note>
 </app>
 </l>
-<l n="d">samākarṣaṇamuttamamiti<listApp type="parallels">
+<l n="d">samākarṣaṇam uttamam iti ||</l>
+</lg>
+<listApp type="parallels">
 <app>
-<lem>idaṁ ... uttamam</lem>
 <note>STTS 49
-<!--   <foreign>idaṁ tat sarvabuddhānāṁ vajrajñānam anuttaram | -->
-<!--   yat sarvabuddhārthasiddhyarthaṁ samākarṣaṇam uttamam iti ||"/>-->
+<!--   idaṁ tat sarvabuddhānāṁ vajrajñānam anuttaram | -->
+<!--   yat sarvabuddhārthasiddhyarthaṁ samākarṣaṇam uttamam iti || -->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
-<!-- °idan ta savavuddhānā: em. idaṁ tat sarvabuddhānāṁ, with MSK (sil. em.). -->
-<!-- vajrānam: em. vajrajñānam, with MSK (sil. em.). -->
-<!-- yatsarvavuddhārthasiddhārtha: em. yatsarvabuddhārthasiddhyarthaṁ, with STTS; MSK emends sarvavuddhārthasiddhyarthaṁ, mentioninh Horiuchi's different reading for STTS but ignoring our ms. readings. -->
+</listApp> 
+<!-- yatsarvavuddhārthasiddhārtha: em. yatsarvabuddhārthasiddhyarthaṁ, with STTS; MSK emends sarvavuddhārthasiddhyarthaṁ, mentioning Horiuchi's different reading for STTS but ignoring our ms. readings. -->
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrarāga</head>
