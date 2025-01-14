@@ -701,23 +701,24 @@ miti<listApp type="parallels">
 <!--  Vajrateja -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrateja</head>
-<l n="ab">aho'nupamatejo'haṁ <app>
-<lem type="emn" wit="#MSK">sattva<!-- sattva --></lem>
+<l n="ab">aho 'nupamatejo 'haṁ <app>
+<lem type="emn" wit="#MSK">sattva-</lem>
 <note corresp="#STTS #SVU #Tib"/>
 <note>
 <foreign>Tattvālokakarī</foreign>
 </note>
 <rdg wit="#cod #MSK">sarva-</rdg>
-</app> dhātvavabhāsanam |</l>
+</app>dhātv-avabhāsanam |</l>
 <l n="cd">ya<app>
-<lem wit="#cod">cchodhayati<!-- cchodhayati --></lem>
+<lem wit="#cod">c chodhayati</lem>
 <rdg wit="#MSK">chodayati</rdg>
 </app>
 <app>
-<lem wit="#MSK">śuddhānāṁ<!-- śuddhānāṁ --></lem>
+<lem wit="#MSK">śuddhānāṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">suddhānāṁ</rdg>
-</app>  buddhānāmapi tāyi<supplied reason="lost">nā</supplied>m<listApp type="parallels">
+</app>  buddhānām api tāyi<supplied reason="lost">nā</supplied>m ||</l>
+</lg><listApp type="parallels">
 <app>
 <lem>aho ... tāyi<supplied reason="lost">nā</supplied>m</lem>
 <note>STTS 72. 
@@ -730,27 +731,27 @@ miti<listApp type="parallels">
 <!--   STTS has variants here. -->
 </note>
 </app>
-</listApp>//
-</l>
-</lg>
+</listApp>
+
 <!-- STTS has variants here. -->
 <!-- suddhānāṁ: em. śuddhānāṁ, with MSK (sil. em.). -->
 
 <lg met="anuṣṭubh">
-<l n="ab">idaṁ tatsarvabuddhānāmajñāna<app>
-<lem wit="#MSK">dhvānta<!-- dhvānta --></lem>
+<l n="ab">idaṁ tat sarvabuddhānām ajñāna-<app>
+<lem wit="#MSK">dhvānta-</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-dhvanta-</rdg>
-</app> nāśanam |</l>
-<l n="cd">paramāṇurajaḥ<app>
-<lem wit="#cod #MSK">saṁkhyā<!-- saṁkhyā --></lem>
+</app>nāśanam |</l>
+<l n="cd">paramāṇu-rajaḥ-<app>
+<lem wit="#cod #MSK">saṁkhyā</lem>
 <rdg wit="STTS(\cod\ \Hed\ \Yed)">-saṁkhya-</rdg>
 </app>
 sūryā<app>
-<lem type="emn" wit="#MSK">dhikataraprabham<!-- dhikataraprabham --></lem>
+<lem type="emn" wit="#MSK">dhikatara-prabham</lem>
 <rdg wit="#cod">-dhikataprabham</rdg>
 </app>
-<listApp type="parallels">
+|| </l>
+</lg><listApp type="parallels">
 <app>
 <lem>idaṁ ... -prabham</lem>
 <note>STTS 74 
@@ -759,9 +760,8 @@ sūryā<app>
 <!--   paramāṇurajaḥsaṁkhyasūryādhikataraprabham iti ||}% -->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp>
+
 <!-- -dhvanta-: em. -dhvānta-, with MSK (sil. em.). -->
 <!-- -dhikataprabham: em. -dhikataraprabham, with MSK. -->
 
