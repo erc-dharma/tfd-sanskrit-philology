@@ -849,23 +849,23 @@ sūryā<app>
 <!-- aho mahāhāsam ahaṁ sarvāgryāṇāṁ mahādbhutam | yat prayuñjanti buddhārthaṁ sadaiva susamāhitāḥ || -->
 
 <lg met="anuṣṭubh">
-<l n="ab">idaṁ tatsarva<app>
-<lem wit="#MSK">buddhānā<!-- buddhānā --></lem>
+<l n="ab">idaṁ tat sarva<app>
+<lem wit="#MSK">buddhānā</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-vuddhānāṁm</rdg>
 </app>
 <app>
-<lem type="emn" wit="#MSK">madbhutotpādadarśakam<!-- madbhutotpādadarśakam --></lem>
+<lem type="emn" wit="#MSK">m adbhutotpāda-darśakam</lem>
 <rdg wit="#cod">adbhut·pādadarśakam</rdg>
 </app>  |
 </l>
 <l n="cd">
 <app>
-<lem wit="#MSK" type="emn">mahāharṣakaraṁ<!-- mahāharṣakaraṁ --></lem>
+<lem wit="#MSK" type="emn">mahāharṣakaraṁ</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">mahākarṣakaraṁ</rdg>
-</app>  jñānamajñātaṁ <app>
-<lem type="emn" wit="#MSK">paraśāsibhi<!-- paraśāsibhi --></lem>
+</app>  jñānam ajñātaṁ <app>
+<lem type="emn" wit="#MSK">para-śāsibhi</lem>
 <note corresp="#STTS #cod #Yed"/>
 <rdg wit="#cod">paraparaśāsibhir</rdg>
 <rdg wit="#MSK">paraśāstribhiḥ</rdg>
@@ -878,7 +878,8 @@ sūryā<app>
   We should accept the reading <foreign>paraśāsibhir</foreign> as equivalent to <foreign>paraśāstribhir</foreign>. 
 </note>
 </app>
-riti<listApp type="parallels">
+r iti ||</l>
+</lg><listApp type="parallels">
 <app>
 <lem>idaṁ ... paraśāstribhir iti</lem>
 <note>STTS 86
@@ -886,9 +887,8 @@ riti<listApp type="parallels">
 <!--   mahāharṣakaraṁ jñānam ajñātaṁ parasāmitir śāstribhir iti ||"/>-->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp>
+
 <!-- -vuddhānāṁm: em. -buddhānām, with MSK (sil. em.). -->
 <!-- adbhut·pādadarśakam·: em. adbhutotpādadarśakam·, with MSK. -->
 <!-- mahāka○rṣakaraṁ: em. mahāharṣakaraṁ, with MSK and STTS. -->
