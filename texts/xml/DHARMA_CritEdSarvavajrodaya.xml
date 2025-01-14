@@ -479,15 +479,15 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <head type="editorial">The Other Fifteen Bodhisattvas</head>
 
 <p>
-<app rend="hide"><lem wit="#MSK">evam ut-</lem>
+<app rend="hide"><lem wit="#MSK" rend="hyphenright">evam ut</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">evaṁmut-</rdg></app>patti-spharaṇa-saṁhāra-<app>
 <lem wit="#MSK">nilaya-</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">ṇilaya-</rdg>
-</app><app>
-<lem wit="#cod">dr̥ḍhībhāva-</lem>
-<rdg wit="#MSK">dr̥ḍhībhava-</rdg>
+</app>dr̥ḍhī<app>
+<lem wit="#cod" rend="hyphenleft">bhāva-</lem>
+<rdg wit="#MSK">-bhava-</rdg>
 </app>vairocana-hr̥dgata-vajra-<app>
 <lem type="emn">madhyāvasthitenodānam udānayamānam</lem>
 <rdg wit="#cod">madhyovasthitonodānam udānaṁ</rdg>
@@ -499,30 +499,19 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 </app>paryantena draṣṭavyam iti.</p>
 <listApp type="parallels">
 <app>
-<lem>evam ... draṣṭavya iti</lem>
-<note>KSP 117 <seg rend="check">(ed. Inui 1994: 109,16–17)</seg><!-- apply this mode of reference also in other cases where we used Inui -->: <foreign>evam utpattispharaṇasaṁhārayogena vairocanahr̥dgatamadhyāvasthitenodānam udānayanto 'bhiṣekānantare vajrasattvād ārabhya yāvad vajramuṣṭiparyantaṁ svasvacihnāni pūrvavat spharaṇasaṁhārayogenodānam udānayanti</foreign>.</note>
+<note>KSP 117 <seg rend="check">(ed. Inui 1994: 109,16–17)</seg><!-- apply this mode of reference also in other cases where we used Inui -->: <foreign>evam utpatti-spharaṇa-saṁhāra-yogena vairocana-hr̥dgata-madhyāvasthitenodānam udānayanto 'bhiṣekānantare vajrasattvād ārabhya yāvad vajramuṣṭi-paryantaṁ sva-sva-cihnāni pūrvavat spharaṇa-saṁhāra-yogenodānam udānayanti</foreign>.</note>
 </app>
 </listApp>
 
-
-<!-- <p> -->
-<!-- [udāna] -->
-<!-- \pend -->
-
-
-<p>vajrarājādīnā<app>
-<lem wit="#MSK">mudānāni<!-- mudānāni --></lem>
+<p>vajra<app>
+<lem wit="#MSK" rend="hyphenleft">rājādīnām udānāni</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">uddānāni</rdg>
-</app>
+<rdg wit="#cod">-rājādīnāṁ uddānāni</rdg>
+</app><!-- cod: rājādīnāṁ Uddānāni -->
 <app>
-<lem wit="#cod">bhavanti<!-- bhavanti --></lem>
-<note>
-<ptr target="#MSK"/>
- reads <foreign>bhavati</foreign> which it emends to <foreign>bhavanti</foreign>.
-</note>
-</app> |
-</p>
+<lem wit="#cod">bhavanti</lem>
+<note><ptr target="#MSK"/> reads <foreign>bhavati</foreign> which it emends to <foreign>bhavanti</foreign>.</note>
+</app>.</p>
 
 
 <lg met="anuṣṭubh">
