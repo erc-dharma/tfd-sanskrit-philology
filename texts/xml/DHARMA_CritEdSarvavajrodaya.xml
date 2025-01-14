@@ -538,18 +538,17 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 
 <lg met="anuṣṭubh">
 <l n="a">
-<app><lem wit="#MSK">idaṁ tat sarvabuddhānāṁ</lem>
+<app><lem wit="#MSK">idaṁ tat sarva-buddhānāṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">idanta savavuddhānā</rdg>
 </app>
 </l>
-<l n="b"><app><lem wit="#MSK">vajrajñānam</lem>
+<l n="b"><app><lem wit="#MSK">vajra-jñānam</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">vajrānam</rdg></app> anuttaram |</l>
-<l n="c"><app><lem wit="#MSK" type="emn">yatsarvabuddhārthasiddhyarthaṁ</lem>
+<l n="c"><app><lem wit="#cod">yat</lem><rdg wit="#MSK"><gap reason="omitted"/></rdg><note><ptr target="#MSK"/> removes the word, presumably in order to resolve the metrical problem in this <foreign>pāda</foreign>, but the presence of <foreign>yat</foreign> is supported by STTS as well as KSP.</note></app> sarva-buddhārtha-<!-- cod. yatsarvavuddhārtha --><app><lem wit="#MSK" type="emn">siddhy-arthaṁ</lem>
 <note corresp="#STTS"/>
-<rdg wit="#cod">yatsarvavuddhārthasiddhārtha</rdg>
-<note><ptr target="#MSK"/> emends <foreign>sarvavuddhārthasiddhyarthaṁ</foreign>, mentioning Horiuchi’s different reading for STTS but ignoring that the SVU ms. agrees with the STTS ms.</note>
+<rdg wit="#cod">siddhārtha</rdg>
 </app>
 </l>
 <l n="d">samākarṣaṇam uttamam iti ||</l>
@@ -560,6 +559,7 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <!--   idaṁ tat sarvabuddhānāṁ vajrajñānam anuttaram | -->
 <!--   yat sarvabuddhārthasiddhyarthaṁ samākarṣaṇam uttamam iti || -->
 </note>
+<note>KSP 118</note>
 </app>
 </listApp> 
 <!-- yatsarvavuddhārthasiddhārtha: em. yatsarvabuddhārthasiddhyarthaṁ, with STTS; MSK emends sarvavuddhārthasiddhyarthaṁ, mentioning Horiuchi's different reading for STTS but ignoring our ms. readings. -->
