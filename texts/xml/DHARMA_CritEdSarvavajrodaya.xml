@@ -562,67 +562,52 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <note>KSP 118</note>
 </app>
 </listApp> 
-<!-- yatsarvavuddhārthasiddhārtha: em. yatsarvabuddhārthasiddhyarthaṁ, with STTS; MSK emends sarvavuddhārthasiddhyarthaṁ, mentioning Horiuchi's different reading for STTS but ignoring our ms. readings. -->
+
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrarāga</head>
-<l n="ab">aho svabhāvaśuddho'hamanurāgaḥ <app>
-<lem wit="#MSK">svayambhuvām<!-- svayambhuvām --></lem>
+<l n="a">aho svabhāvaśuddho 'ham</l>
+<l n="b">anurāgaḥ <app><lem wit="#MSK">svayambhuvām</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">svayabhuvam</rdg>
-</app> |
-</l>
-<l n="c">
-<app>
-<lem wit="#MSK">yacchuddhyarthaṁ</lem>
+<rdg wit="#cod">svayabhuvam</rdg> </app> |</l>
+<l n="c"><app>
+<lem wit="#MSK">yac chuddhyarthaṁ</lem>
 <note corresp="#STTS"/>
-<rdg wit="#cod">
-<unclear>ya</unclear>
-<gap reason="lost" unit="character" quantity="3"/>
+<rdg wit="#cod"><unclear>ya</unclear><gap reason="lost" unit="character" quantity="3"/>
 </rdg>
-</app>  viraktānāṁ</l>
-<l n="d">
-<app>
-<lem wit="#MSK">rāgeṇa</lem>
+</app> viraktānāṁ</l>
+<l n="d"><app><lem wit="#MSK">rāgeṇa</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">sagaṇa</rdg>
-</app>  vinayanti hi<listApp type="parallels">
+</app> vinayanti hi ||</l>
+</lg>
+<listApp type="parallels">
 <app>
-<lem>aho ... vinayanti hi</lem>
 <note>STTS 52
-<!-- : <foreign>aho svabhāvaśuddho 'ham anurāgaḥ svayaṁbhuvām | yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi ||"/>-->
+<!-- aho svabhāvaśuddho 'ham anurāgaḥ svayaṁbhuvām | yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi || />-->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
-<!-- svayabhuvam·: em. svayambhuvām, with MSK (sil. em.). -->
-<!-- \unclear{ya"/>+ + +: restore yac chuddhyarthaṁ, with MSK (sil. em.) and STTS. -->
-<!-- sagaṇa: em. rāgeṇa, with MSK (sil. em.). -->
+</listApp> 
 
 <lg met="anuṣṭubh">
-<l n="ab">idaṁ tat sarvabuddhānāṁ rāgajñānamanāvilam |</l>
-<l n="cd">hatvā <app>
-<lem wit="#MSK">virāgaṁ<!-- virāgaṁ --></lem>
+<l n="a">idaṁ tat sarvabuddhānāṁ</l> 
+<l n="b">rāgajñānam anāvilam |</l>
+<l n="cd">hatvā <app><lem wit="#MSK">virāgaṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">virāga</rdg>
-</app>  rāgeṇa <app>
-<lem wit="#MSK">sarva<!-- sarva --></lem>
+</app>  rāgeṇa <app><lem wit="#MSK">sarva-</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">tsarva-</rdg>
-</app> saukhyaṁ dadanti hīti<listApp type="parallels">
+</app>saukhyaṁ dadanti hīti ||</l>
+</lg><listApp type="parallels">
 <app>
-<lem>idaṁ ... dadanti hīti</lem>
 <note>STTS 55
-<!-- : <foreign>idaṁ tat sarvabuddhānāṁ rāgajñānam anāvilam | -->
-<!-- hatvā virāgaṁ rāgeṇa sarvasaukhyaṁ dadanti hi ||"/>-->
+<!-- idaṁ tat sarvabuddhānāṁ rāgajñānam anāvilam | -->
+<!-- hatvā virāgaṁ rāgeṇa sarvasaukhyaṁ dadanti hi || -->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
-<!-- virāga: em. virāgaṁ, with MSK (sil. em.). -->
-<!-- tsarva-: em. sarva-, with MSK (sil. em.). -->
+</listApp> 
+
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrasādhu</head>
