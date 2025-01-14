@@ -308,7 +308,7 @@ Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasatt
             </app> bhūtvāvasthitaṁ cintayet.</p>
           <listApp type="parallels">
             <app>
-              <note>KSP 117 <!--KSP, chapter 6 (Inui 1994: 110) -->:
+              <note>KSP 117<!--KSP, chapter 6 (Inui 1994: 110) -->:
                 <foreign>tataḥ sarvatathāgatahr̥dayebhyaś candramaṇḍalāni bhūtvā viniḥsr̥tya yāvatsarvalokadhātuṣu sarvasattvānāṁ nairātmyaprativedhaṁ kārayitvā candramaṇḍalākāraṁ cittaikāgratāṁ niṣpādyāgatya sarvadevatāsthāneṣu candramaṇḍalāny eva bhūtvāvasthitaṁ cintayet</foreign>.
               </note>
               </app>
@@ -479,33 +479,30 @@ tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <head type="editorial">The Other Fifteen Bodhisattvas</head>
 
 <p>
-<app>
-<lem wit="#cod">evaṁ</lem>
-<rdg wit="#MSK">evam</rdg>
+<app rend="hide"><lem wit="#MSK">evam ut-</lem>
 <witDetail wit="#MSK" type="silemn"/>
-</app> utpattispharaṇasaṁhāra<app>
-<lem wit="#MSK">nilaya<!-- nilaya --></lem>
+<rdg wit="#cod">evaṁmut-</rdg></app>patti-spharaṇa-saṁhāra-<app>
+<lem wit="#MSK">nilaya-</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">-ṇilaya-</rdg>
-</app>
-<app>
-<lem wit="#cod">dr̥ḍhībhāva<!-- dr̥ḍhībhāva --></lem>
-<rdg wit="#MSK">-dr̥ḍhībhava-</rdg>
-</app> vairocanahr̥dgatavajra<app>
-<lem type="emn">madhyāvasthitena udānamudānayamāna<!-- madhyāvasthitena udānamudānayamāna --></lem>
-<rdg wit="#cod">-madhyovasthitonodānam udānaṁ</rdg>
-</app> mabhiṣekānantarodānaṁ ca <app>
-<lem wit="#MSK">vajramuṣṭi<!-- vajramuṣṭi --></lem>
+<rdg wit="#cod">ṇilaya-</rdg>
+</app><app>
+<lem wit="#cod">dr̥ḍhībhāva-</lem>
+<rdg wit="#MSK">dr̥ḍhībhava-</rdg>
+</app>vairocana-hr̥dgata-vajra-<app>
+<lem type="emn">madhyāvasthitenodānam udānayamānam</lem>
+<rdg wit="#cod">madhyovasthitonodānam udānaṁ</rdg>
+<rdg wit="#MSK">madhyovasthitodānam udānayad</rdg>
+</app> abhiṣekānantarodānaṁ ca <app>
+<lem wit="#MSK">vajramuṣṭi-</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">vajramuṣṭhi-</rdg>
-</app> paryantena draṣṭavyamiti<listApp type="parallels">
+</app>paryantena draṣṭavyam iti.</p>
+<listApp type="parallels">
 <app>
 <lem>evam ... draṣṭavya iti</lem>
-<note>KSP: <foreign>evam utpattispharaṇasaṁhārayogena vairocanahr̥dgatamadhyāvasthitenodānam udānayanto 'bhiṣekānantare vajrasattvād ārabhya yāvad vajramuṣṭiparyantaṁ svasvacihnāni pūrvavat spharaṇasaṁhārayogenodānam udānayanti</foreign>.
-</note>
+<note>KSP 117 <seg rend="check">(ed. Inui 1994: 109,16–17)</seg><!-- apply this mode of reference also in other cases where we used Inui -->: <foreign>evam utpattispharaṇasaṁhārayogena vairocanahr̥dgatamadhyāvasthitenodānam udānayanto 'bhiṣekānantare vajrasattvād ārabhya yāvad vajramuṣṭiparyantaṁ svasvacihnāni pūrvavat spharaṇasaṁhārayogenodānam udānayanti</foreign>.</note>
 </app>
-</listApp> |
-</p>
+</listApp>
 
 
 <!-- <p> -->
