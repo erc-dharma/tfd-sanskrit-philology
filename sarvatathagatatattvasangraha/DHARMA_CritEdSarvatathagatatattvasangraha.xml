@@ -99,6 +99,13 @@
 						 <ptr target="bib:Horiuchi1983_01"/>
 						</bibl>
 					   </witness>
+					<witness xml:id="edya">
+						<abbr type="siglum">Ed<hi rend="superscript">Y</hi>
+						</abbr>
+						<bibl>
+							<ptr target="bib:Yamada1981_01"/>
+						</bibl>
+					</witness>
 				</listWit>
 			</sourceDesc>
 		</fileDesc>
@@ -114,7 +121,7 @@
 					<p/>
 				</correction>
 				<normalization>
-					<p/>
+					<p>All avagraha marks are editorial.</p>
 				</normalization>
 				<punctuation>
 					<p/>
@@ -210,38 +217,41 @@
 <div type="section" n="1"><pb n="1_1_1" edRef="#edho"/><p>evaṃ mayā śrutam: ekasmin samaye</p></div>
 
 <div type="section" n="2"><pb n="1_1_2" edRef="#edho"/><p>
-<l>bhagavān</l>
-<l>sarvataghāgatavajrādhiṣṭhānasamayajñānavividhaviśeṣasamanvāgataḥ |</l>
-<l>sarvatathāgataratnamukuṭatraidhātukadharmarājyābhiṣekaprāptaḥ |</l>
-<l>sarvatathāgatasarvajñajñānamahāyogīśvaraḥ |</l>
-<l>sarvatathāgatasarvamudrāsamatādhigataviśvakāryakaraṇatāśeṣānavaśeṣasattvadhātusarvāśāparipūrakaḥ |</l></p></div>
+bhagavān
+sarvatathāgatavajrādhiṣṭhānasamayajñānavividhaviśeṣasamanvāgataḥ |
+sarvatathāgataratnamukuṭatraidhātukadharmarājyābhiṣekaprāptaḥ |
+sarvatathāgatasarvajñajñānamahāyogīśvaraḥ |
+sarvatathāgatasarvamudrāsamatādhigataviśvakāryakaraṇatāśeṣānavaśeṣasattvadhātusarvāśāparipūrakaḥ |</p>
+</div>
 
-<div type="section" n="3"><pb n="1_2_3" edRef="#edho"/><p>mahākṛpo vairocanaḥ śāśvatas tryadhvasamayavyavasthitaḥ sarvakāryavākcittavajras tathāgataḥ
-sarvatathāgatādhyuṣitapraśastastavite mahāmaṇiratnapratyupte vicitravarṇaghaṇṭāvasaktamārutoddhūtapaṭṭasrakcāmarahārārdhahārārdhacandropaśobhite 'kaniṣṭhadevarājasya
-bhavane vijahāra |</p></div>
+<div type="section" n="3"><pb n="1_2_3" edRef="#edho"/>
+<p>mahākṛpo vairocanaḥ śāśvatas tryadhvasamayavyavasthitaḥ sarvakāryavākcittavajras tathāgataḥ
+sarvatathāgatādhyuṣitapraśastastavite mahāmaṇiratnapratyupte vicitravarṇaghaṇṭāvasaktamārutoddhūtapaṭṭasrakcāmarahārārdhahārārdhacandropaśobhite 'kaniṣṭhadevarājasya bhavane vijahāra |</p>
+</div>
 
-<div type="section" n="5"><pb n="1_2_5" edRef="#edho"/><p>
-<l>navanavatibhir bodhisattvakoṭibhiḥ sārdhaṃ |</l>
-<l>tad yathā</l>
-<l>vajrapāṇinā ca bodhisattvena |</l>
-<l>avalokiteśvareṇa ca bodhisattvena |</l>
-<l>ākāśagarbheṇa ca |</l>
-<l>vajramuṣṭinā ca |</l>
-<l>mañjuśriyā ca |</l>
-<l>sahacittotpādadharmacakrapravartinā ca |</l>
-<l>gaganagañjena ca |</l>
-<l>sarvamārabalapramardinā ca |</l>
-<l>evaṃpramukhair navanavatibhir bodhisattvakoṭibhiḥ |</l>
+<div type="section" n="5"><pb n="1_2_5" edRef="#edho"/>
+<p>
+navanavatibhir bodhisattvakoṭibhiḥ sārdhaṃ |
+tad yathā
+vajrapāṇinā ca bodhisattvena |
+avalokiteśvareṇa ca bodhisattvena |
+ākāśagarbheṇa ca |
+vajramuṣṭinā ca |
+mañjuśriyā ca |
+sahacittotpādadharmacakrapravartinā ca |
+gaganagañjena ca |
+sarvamārabalapramardinā ca |
+evaṃpramukhair navanavatibhir bodhisattvakoṭibhiḥ |
 </p></div>
 
-<div type="section" n="6"><pb n="1_2_6" edRef="#edho"/><p>
-	<l>gaṅgānadīvālukāsamākhyātaiś ca tathāgatais, tad yathāpi nāma tilabimbam iva, paripūrṇaṃ jambūdvīpe saṃdṛśyate |</l>
-	<l>taiś cāprameyais tathāgatakāyair ekaikasmāc ca tathāgatakāyād aprameyāsaṃkhyenāni buddhakṣetrāṇi saṃdṛśyante teṣu ca buddhakṣetreṣv imam eva dharmanayaṃ deśayanti sma ||</l>
-</p></div>
+<div type="section" n="6"><pb n="1_2_6" edRef="#edho"/>
+<p>taiś cāprameyais tathāgatakāyair ekaikasmāc ca tathāgatakāyād aprameyāsaṃkhyenāni buddhakṣetrāṇi saṃdṛśyante teṣu ca buddhakṣetreṣv imam eva dharmanayaṃ deśayanti sma ||</p>
+</div>
 
-<div type="section" n="7"><pb n="1_9_7" edRef="#edho"/><p>
-	<l>atha bhagavān mahāvairocanaḥ</l>
-	<l>sarvākāśadhātusadāvasthitakāyavākcittavajraḥ |</l>
+<div type="section" n="7"><pb n="1_9_7" edRef="#edho"/>
+<p>
+	atha bhagavān mahāvairocanaḥ
+	sarvākāśadhātusadāvasthitakāyavākcittavajraḥ |
 </p></div>
 
 <div type="section" n="8"><pb n="1_9_8" edRef="#edho"/><lg><l>sarvatathāgatasamavasaraṇatayā sarvavajradhātvavabodhanajñānasattvaḥ |</l>
@@ -278,7 +288,8 @@ sarvatathāgatakāyavākcittavajrabandhamudrājñānaḥ ||</p></div>
 <l n="c">avāco viśvakarmā ca</l> <l n="d">vīryaś caṇḍo dṛḍhagarbhaḥ ||</l>
 </lg></div>
 
-<div type="section" n="12"><pb n="1_1314_12" edRef="#edho"/>
+<div type="section" n="12">
+<pb n="1_1314_12" edRef="#edho"/>
 <lg n="anuṣṭubh">
 	<l n="a">vajro 'ṅkuśaḥ śaras tuṣṭī</l> <l n="b">ratnaḥ sūryo dhvajaḥ smitaḥ |</l>
 	<l n="c">padmaḥ kośaḥ sucakro vāk</l> <l n="d">karma varma bhayo grahaḥ ||</l>
@@ -366,8 +377,8 @@ sarvatathāgatakāyavākcittavajrabandhamudrājñānaḥ ||</p></div>
 </div>
 
 <div type="section" n="24"><pb n="1_25_24" edRef="#edho"/>
-<p><l>sarvatathāgatāḥ āhuḥ |</l>
-<l>“sarvatathāgatahṛdayaṃ te samantabhadraś cittotpādaḥ sāmīcībhūtaḥ| tad sādhu pratipadyasva! sarvatathāgatasamantabhadracittotpādasya dṛḍhīkaraṇahetoḥ svahṛdi candramaṇḍale vajrabimbaṃ cintayānena mantreṇa! ||“oṃ tiṣṭha! vajra!”||”</l>
+<p>sarvatathāgatāḥ āhuḥ | “sarvatathāgatahṛdayaṃ te samantabhadraś cittotpādaḥ sāmīcībhūtaḥ| tad sādhu pratipadyasva! sarvatathāgatasamantabhadracittotpādasya dṛḍhīkaraṇahetoḥ svahṛdi candramaṇḍale vajrabimbaṃ cintayānena mantreṇa! ||
+“oṃ tiṣṭha! vajra!”||”
 </p>
 </div>
 
@@ -376,10 +387,8 @@ sarvatathāgatakāyavākcittavajrabandhamudrājñānaḥ ||</p></div>
 </div>
 
 <div type="section" n="25-2"><pb n="1_27_25-2" edRef="#edho"/>
-<p>
-	<l>sarvatathāgatāḥ āhuḥ |</l>
-	<l>“dṛḍhīkurv idaṃ sarvatathāgatasamantabhadracittavajram anena mantreṇa!|| “oṃ vajrātmako 'ham!”||”</l>
-</p></div>
+<p>sarvatathāgatāḥ āhuḥ | “dṛḍhīkurv idaṃ sarvatathāgatasamantabhadracittavajram anena mantreṇa! || “oṃ vajrātmako 'ham!” ||”</p>
+</div>
 
 <div type="section" n="26"><pb n="1_27_26" edRef="#edho"/>
 <p>
@@ -388,10 +397,9 @@ sarvatathāgatakāyavākcittavajrabandhamudrājñānaḥ ||</p></div>
 </p></div>
 
 <div type="section" n="27"><pb n="1_28_27" edRef="#edho"/>
-<p>
-	<l>atha vajradhātur mahābodhisattvas tān sarvatathāgatān evam āha |</l>
-	<l>“paśyāmi, bhagavantas tathāgatāḥ, sarvatathāgatakāyam ātmānam||”</l>
-</p></div>
+<p>atha vajradhātur mahābodhisattvas tān sarvatathāgatān evam āha | “paśyāmi, bhagavantas tathāgatāḥ, sarvatathāgatakāyam ātmānam ||”</p>
+</div>
+
 <!-- 2024-05-12 Arlo has checked the TEI structure (skipping some lg/l cases) down to here -->
 <div type="section" n="28"><pb n="1_27_28" edRef="#edho"/>
 <p>
@@ -455,14 +463,13 @@ atha tebhyaś candramaṇḍalebhyaḥ sarvatathāgatajñānavajrāṇi viniḥs
 <div type="section" n="45"><pb n="1_41_45" edRef="#edho"/><ab>athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajrapāṇiḥ sarvatathāgatamahāṅkuśāni bhūtvā viniḥsṛtya, bhagavato vairocanasya hṛdaye praviṣṭavaikaghano vajrāṅkuśamahāvigrahaḥ prādurbhūya, bhagavataḥ pāṇau pratiṣṭhitaḥ|</ab></div>
 
 <div type="section" n="46"><pb n="1_41_46" edRef="#edho"/>
-<p>
-	<l>atha tato vajrāṅkuśamahāvigrahāt |</l>
-	<l>sarvalokadhātuparamāṇurājaḥsamās tathāgatavigrahāḥ viniḥsṛtya, sarvatathāgatākarṣaṇādīni sarvabuddharddhivikurvitāni kṛtvā, svamogharājatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghano 'mogharājamahābodhisattvakāyaḥ saṃbhūya bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āsa ||</l>
-</p>
+<p>atha tato vajrāṅkuśamahāvigrahāt | sarvalokadhātuparamāṇurājaḥsamās tathāgatavigrahāḥ viniḥsṛtya, sarvatathāgatākarṣaṇādīni sarvabuddharddhivikurvitāni kṛtvā, svamogharājatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghano 'mogharājamahābodhisattvakāyaḥ saṃbhūya bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āsa ||</p>
 <quote>
-<lg>
-<l>aho hy amogharāja 'haṃ</l> <l>vajrasaṃbhavam aṅkuśaḥ |</l>
-<l>yat sarvavyāpino buddhāḥ</l> <l>samākṛṣyanti siddhaya iti ||</l>
+<lg met="anuṣṭubh">
+<l n="a">aho hy amogha<app><lem wit="#cod">rājo 'haṃ</lem><rdg wit="#edho #edya">rājāhaṃ</rdg></app></l> 
+<l n="b">vajrasaṃbhavam aṅkuśaḥ |</l>
+<l n="c">yat sarvavyāpino buddhāḥ</l> 
+<l n="d">samākṛṣyanti siddhaya iti ||</l>
 </lg>
 </quote>
 </div>
