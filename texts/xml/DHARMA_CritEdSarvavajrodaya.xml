@@ -898,7 +898,7 @@ r iti ||</l>
 <lg met="anuṣṭubh">
 <head type="editorial">Vajradharma</head>
 <l n="ab">aho hi paramārtho'hamādiśuddhaḥ <app>
-<lem type="emn" wit="#MSK">svayambhuvām<!-- aho hi paramārtho'hamādiśuddhaḥ svayambhuvām --></lem>
+<lem type="emn" wit="#MSK">svayambhuvām</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <note corresp="#STTS #cod #Hed"/>
 <rdg wit="#cod">svayadbhuvam</rdg>
@@ -907,7 +907,7 @@ r iti ||</l>
 </app>
 </l>
 <l n="cd">ya<app>
-<lem wit="#MSK" type="emn">tkolopamadharmāṇāṁ<!-- tkolopamadharmāṇāṁ --></lem>
+<lem wit="#MSK" type="emn">t kolopamadharmāṇāṁ</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">lokopamadharmmā<unclear>ṁ</unclear>
 </rdg>
@@ -916,7 +916,9 @@ r iti ||</l>
 <lem wit="#MSK" type="emn">viśuddhi<!-- viśuddhi --></lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">viśuddhim</rdg>
-</app> rupalabhyate<listApp type="parallels">
+</app>r upalabhyate ||</l>
+</lg>
+<listApp type="parallels">
 <app>
 <lem>aho ... upalabhyate</lem>
 <note>STTS 91
@@ -924,21 +926,21 @@ r iti ||</l>
 <!--   yat kolopamadharmāṇāṁ viśuddhir upalabhyate ||"/>-->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp>
 <!-- svayadbhuvam·: em. svayambhuvām·, with MSK (sil. em.). -->
 <!-- lokopamadharmmā\unclear{ṁ}: em. kolopamadharmāṇāṁ, with MSK. -->
 <!-- viśuddhim: em. viśuddhir, with MSK. -->
 
 <lg met="anuṣṭubh">
-<l n="ab">idaṁ tat sarvabuddhānāṁ rāgatattvāvabodhanam |</l>
+<l n="ab">idaṁ tat sarvabuddhānāṁ</l>
+<l n="b">rāgatattvāvabodhanam |</l>
 <l n="cd">ahaṁ mama kare dattaṁ <app>
-<lem wit="#MSK" type="emn">dharmaṁ dharme<!-- dharmaṁ dharme --></lem>
+<lem wit="#MSK" type="emn">dharmaṁ dharme</lem>
 <note corresp="#STTS #cod #Yed"/>
 <rdg wit="#cod">dharmma dharme</rdg>
 <rdg wit="#STTS #Hed">dharmaṁ dharma-</rdg>
-</app> pratiṣṭhitam<listApp type="parallels">
+</app> pratiṣṭhitam ||</l>
+</lg><listApp type="parallels">
 <app>
 <lem>idaṁ ... pratiṣṭhitam</lem>
 <note>STTS 94
@@ -946,31 +948,31 @@ r iti ||</l>
 <!--   ahaṁ mama kare dattaṁ dharmaṁ dharmapratiṣṭhitam iti"/>-->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp>
 <!-- dharmma: em. dharmaṁ, with MSK. -->
 
 <!--  Vajratīkṣṇa -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajratīkṣṇa</head>
-<l n="ab">aho hi sarvabuddhānāṁ mañjughoṣamahaṁ smr̥taḥ |</l>
+<l n="a">aho hi sarvabuddhānāṁ </l>
+<l n="b">mañjughoṣamahaṁ smr̥taḥ |</l>
 <l n="cd">
 <app>
-<lem type="emn" wit="#MSK">ya<!-- ya --></lem>
+<lem type="emn" wit="#MSK">ya</lem>
 <rdg wit="#cod">ya</rdg>
 </app>
 <app>
-<lem wit="#MSK" type="emn">tprajñāyā<!-- tprajñāyā --></lem>
+<lem wit="#MSK" type="emn">tprajñāyā</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">prajñayā</rdg>
 </app>
 <app>
-<lem type="emn" wit="#MSK">arūpiṇyā<!-- arūpiṇyā --></lem>
+<lem type="emn" wit="#MSK">arūpiṇyā</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">rūpināḥ</rdg>
 <rdg wit="#MSK">-rūpiṇyā</rdg>
-</app>  ghoṣatvamupalabhyate<listApp type="parallels">
+</app>  ghoṣatvam upalabhyate ||</l>
+</lg><listApp type="parallels">
 <app>
 <lem>aho ... upalabhyate</lem>
 <note>STTS 97%:
@@ -978,24 +980,23 @@ r iti ||</l>
 <!--   yat prajñāyā arūpiṇyā ghoṣatvam upalabhyate ||"/>-->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp>
 <!-- ya pra-: em. yat pra-, with MSK. -->
 <!-- rūpiṇāḥ: em. -rūpiṇyā, with MSK. -->
 
 <lg met="anuṣṭubh">
-<l n="ab">idaṁ tat sarvabuddhānāṁ prajñāpāramitānayam |</l>
+<l n="a">idaṁ tat sarvabuddhānāṁ</l>
+<l n="b">prajñāpāramitānayam |</l>
 <l n="cd">
 <app>
-<lem type="emn" wit="#MSK">chettāraṁ<!-- chettāraṁ --></lem>
+<lem type="emn" wit="#MSK">chettāraṁ</lem>
 <rdg wit="#cod">cchetāraṁ</rdg>
 </app>
 <app>
-<lem wit="#MSK">sarvaśatrūṇāṁ<!-- sarvaśatrūṇāṁ --></lem>
+<lem wit="#MSK">sarvaśatrūṇāṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">sarvasatrūṇāṁ</rdg>
-</app>  sarvapāpaharaṁ param<listApp type="parallels">
+</app>  sarvapāpaharaṁ param||</l></lg><listApp type="parallels">
 <app>
 <lem>idaṁ... param</lem>
 <note>STTS 100%:
@@ -1003,20 +1004,20 @@ r iti ||</l>
 <!--   chettāraṁ sarvaśatrūṇāṁ sarvapāpaharaṁ param iti ||"/>-->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp> 
 <!-- cchetāraṁ: em. chettāraṁ, with MSK. -->
 <!-- sarvasatrūṇāṁ: em. sarvaśatrūṇāṁ, with MSK (sil. em.). -->
 <!--    -->
+
 <!--  Vajrahetu -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrahetu</head>
-<l n="ab">aho vajramayaṁ cakramahaṁ vajrāgradharmiṇām |</l>
+<l n="a">aho vajramayaṁ cakram </l>
+<l n="b">ahaṁ vajrāgradharmiṇām |</l>
 <l n="cd">ya<app>
-<lem type="emn" wit="#MSK">ccittotpāda<!-- ccittotpāda --></lem>
+<lem type="emn" wit="#MSK">ccittotpāda</lem>
 <rdg wit="#cod">citotpāda-</rdg>
-</app> mātreṇa dharmacakraṁ pravartate<listApp type="parallels">
+</app> mātreṇa dharmacakraṁ pravartate ||</l></lg><listApp type="parallels">
 <app>
 <lem>aho ... pravartate</lem>
 <note>STTS 103
@@ -1024,25 +1025,27 @@ r iti ||</l>
 <!--   yac cittotpādamātreṇa dharmacakraṁ pravartate ||"/>-->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp> 
 <!-- citotpāda-: em. cittotpāda-, with MSK. -->
 
 <lg met="anuṣṭubh">
-<l n="ab">idaṁ tat sarvabuddhānāṁ sarvadharma<app>
-<lem wit="#MSK">viśodhanam<!-- viśodhanam --></lem>
+<l n="a">idaṁ tat sarvabuddhānāṁ</l> 
+<l n="b">sarvadharma<app>
+<lem wit="#MSK">viśodhanam</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-visodhanam</rdg>
 <rdg wit="STTS(\cod\ \Hed\ \Yed)">-viśodhakaṁ</rdg>
 </app>/
 </l>
-<l n="cd">
+<l n="c">
 <app>
 <lem wit="#MSK">avaivartika</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">avaivarttika-</rdg>
-</app> cakraṁ tu bodhimaṇḍamiti smr̥tam<listApp type="parallels">
+</app>cakraṁ tu</l> 
+<l n="d">bodhimaṇḍamiti smr̥tam ||
+</l>
+</lg><listApp type="parallels">
 <app>
 <lem>idaṁ... smr̥tam</lem>
 <note>STTS 106
@@ -1050,31 +1053,31 @@ r iti ||</l>
 <!--   avaivartikacakraṁ tu bodhimaṇḍam iti smr̥tam iti ||"/>-->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp>
 <!-- -visodhanam: em. -viśodhanam, with MSK (sil. em.). -->
 <!-- avaivarttika-: em. avaivartika, with MSK (sil. em.). -->
 
 <!--  Vajrabhāṣa -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrabhāṣa</head>
-<l n="ab">aho <app>
+<l n="a">aho <app>
 <lem wit="#MSK">svayambhuvāṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">svayaṁdbhuvāṁ</rdg>
-</app>  guhyaṁ saṁdhābhāṣamahaṁ smr̥taḥ |</l>
-<l n="cd">yaddeśayanti <app>
+</app>  guhyaṁ</l> 
+<l n="b">saṁdhābhāṣamahaṁ smr̥taḥ |</l>
+<l n="c">yad deśayanti <app>
 <lem type="emn" wit="#MSK">saddharmaṁ</lem>
 <rdg wit="#cod">sadharmma</rdg>
 <note>
 <ptr target="#MSK"/>
  reports only the variant <foreign>sadha-</foreign>.
 </note>
-</app> vā<app>
+</app> </l>
+<l n="d">vā<app>
 <lem type="emn" wit="#MSK">kprapañca</lem>
 <rdg wit="#cod">-prapañcā-</rdg>
-</app> vivarjitam<listApp type="parallels">
+</app> vivarjitam||</l></lg><listApp type="parallels">
 <app>
 <lem>aho ... -vivarjitam</lem>
 <note>STTS 109
@@ -1082,14 +1085,12 @@ r iti ||</l>
 <!--   yad deśayanti saddharmaṁ vākprapañcavivarjitam ||"/>-->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg><!-- svayaṁdbhuvāṁ: em. svayambhuvāṁ, with MSK (sil. em.). -->
+</listApp> <!-- svayaṁdbhuvāṁ: em. svayambhuvāṁ, with MSK (sil. em.). -->
 <!-- sadharmma: em. saddharmaṁ, with MSK; MSK reports only the variant sadha-. -->
 <!-- -prapañcāvi-: em. -prapañcavi-, with MSK. -->
 
 <lg met="anuṣṭubh">
-<l n="ab">idaṁ tatsarvabuddhā<supplied reason="omitted">nāṁ</supplied> vajrajāpa<app>
+<l n="ab">idaṁ tat sarvabuddhā<supplied reason="omitted">nāṁ</supplied> vajrajāpa<app>
 <lem wit="#cod #MSK">manantaram<!-- manantaram</seg> --></lem>
 <rdg wit="#STTS">udāhr̥taṁ</rdg>
 </app>
@@ -1102,8 +1103,7 @@ r iti ||</l>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">sā<pb edRef="#cod" n="23r"/>
 nam</rdg>
-</app>
-miti<listApp type="parallels">
+</app>m iti||</l></lg><listApp type="parallels">
 <app>
 <lem>idaṁ... sā<supplied reason="lost">dha</supplied>nam iti</lem>
 <note>STTS 112
@@ -1111,9 +1111,7 @@ miti<listApp type="parallels">
 <!--   sarvatathāgatānāṁ tu mantrāṇām āśu sādhanam iti ||"/>-->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp> 
 <!--  sarvabuddhānā\supplied{ṁ"/>-->
 <!--  vajrajāpamanantara\cancelled{ṁ}m -->
 <!-- sānam: em. sādhanam, with MSK (sil. em.). -->
