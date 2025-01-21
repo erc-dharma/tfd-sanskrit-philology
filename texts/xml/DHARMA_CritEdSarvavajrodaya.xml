@@ -148,7 +148,9 @@
       <editorialDecl>
         <!-- As stated in the EGC, this element shall be used only if your edition follows principles that are different from or more fine-grained than those established in the project's guides. Among the following elements, you may keep only the ones your need for your edition. If you use one, its contents must be contained in at least one <p> of free text. If you don't need any <editorialDecl> at all, you may eventually remove this entire section of the file. -->
         <correction>
-          <p/>
+        	<p>
+Arlo2025-01-21: We have to decide whether we will keep using code of the type <note corresp="#abc"/> to mark cases where an emendation follows source abc, and if so probably apply it with more consistency. Interaction with parallels and possible use of <seg type="highlight"/> is also to be made more consistent.
+</p>
         </correction>
         <normalization>
           <p/>
@@ -720,71 +722,68 @@ yac chodhayati śuddhānāṁ buddhānām api tāyinām ||</foreign>.</note>
 <l n="a">idaṁ tat sarva-buddhānām</l>
 <l n="b">ajñāna-<app>
 <lem wit="#MSK">dhvānta-</lem>
+<!-- <note corresp="#STTS"/> -->
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-dhvanta-</rdg>
 </app>nāśanam |</l>
 <l n="c">paramāṇu-rajaḥ-<app>
 <lem wit="#cod #MSK">saṁkhyā</lem>
-<rdg wit="STTS(\cod\ \Hed\ \Yed)">-saṁkhya-</rdg>
+<note>STTS reads <foreign>-saṁkhya-</foreign>.</note>
 </app></l>
 <l n="d">sūryā<app>
-<lem type="emn" wit="#MSK" rend="hyphenleft">dhikatara-</lem>
+<lem wit="#MSK" rend="hyphenleft">dhikatara-</lem>
 <rdg wit="#cod">-dhikata-</rdg></app>prabham ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:74">STTS 74 
-<!-- Horiuchi reads <foreign>-saṁkhya-</foreign> for <foreign>-saṁkhyā-</foreign>. -->
-<!--   <foreign>idaṁ tat sarvabuddhānām ajñānadhvāntanāśanam | -->
-<!--   paramāṇurajaḥsaṁkhyasūryādhikataraprabham iti ||-</foreign> -->
-</note>
+<note corresp="STTS:74">STTS 74: <foreign>idaṁ tat sarvabuddhānām ajñāna<seg type="highlight">dhvānta</seg>nāśanam | 
+paramāṇurajaḥ<seg type="highlight">saṁkhya</seg>sūryādhikataraprabham iti ||</foreign></note>
 </app>
 </listApp>
-
-<!-- -dhvanta-: em. -dhvānta-, with MSK (sil. em.). -->
-<!-- -dhikataprabham: em. -dhikataraprabham, with MSK. -->
 
 <!--  Vajraketu -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajraketu</head>
-<l n="ab">aho <app>
-<lem type="emn" wit="#MSK">hy asadr̥śaḥ</lem>
+<l n="a">aho <app>
+<lem wit="#MSK">hy asadr̥śaḥ</lem>
+<!-- <note corresp="#STTS"/> -->
 <rdg wit="#cod">hy isadr̥śaḥ</rdg>
-</app>  ketuḥ ahaṁ sarvārtha-siddhinām |</l>
-<l n="cd">yat sarvāśā-<app>
-<lem wit="#MSK">prapūrṇānāṁ</lem>
+</app> ketuḥ</l>
+<l n="b">ahaṁ sarvārtha-siddhinām |</l>
+<l n="c">yat sarvāśā<app>
+<lem wit="#MSK">-prapūrṇānāṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-prapūṇṇānāṁ</rdg>
-<rdg wit="STTS(\cod\ \Hed\ \Yed)">-paripūrṇānāṁ</rdg>
-</app> sarvārtha-<app>
-<lem wit="#MSK">paripūraṇa</lem>
+<note>STTS reads <foreign>-paripūrṇānāṁ</foreign> (hypermetrical).</note>
+</app></l>
+<l n="d">sarvārtha<app>
+<lem wit="#MSK">-paripūraṇam</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">paripūrṇṇām</rdg>
-<rdg wit="STTS(\cod\ \Hed\ \Yed)">-pratipūraṇam</rdg>
-</app>m iti ||</l>
-</lg><listApp type="parallels">
+<note>STTS reads <foreign>-pratipūraṇam</foreign>.</note>
+</app> iti ||</l>
+</lg>
+<listApp type="parallels">
 <app>
-<lem>aho ... paripūraṇam iti</lem>
-<note>STTS 77 
-<!-- STTS reads the latter half as follows: -->
+<note corresp="STTS:77">STTS 77: <foreign>aho hy <seg type="highlight">asadr̥śaḥ</seg> ketur ahaṁ sarvārthasiddhinām | yat sarvāśā<seg type="highlight">paripūrṇānāṁ</seg> sarvārtha<seg type="highlight">pratipūraṇam</seg> ||</foreign>
+<!-- \Hed\ \Yed\ (unmetrical). -->
 <!-- <rdg wit="#cod">yat sarvāśāparipūrṇṇānāṁ sarvārthapratipūraṇam</rdg> -->
-<!-- <foreign>yat sarvāśāparipūrṇānāṁ sarvārthapratipūraṇam"/>\Hed\ \Yed\ (unmetrical). -->
 </note>
 </app>
 </listApp>
 
 
 <lg met="anuṣṭubh">
-<l n="ab">idaṁ ta sarva-buddhānāṁ <pb edRef="#cod" n="22v"/>
- sarvāśā-paripūraṇam |</l>
-<l n="cd">cintāmaṇi-dhvajaṁ nāma dāna-pāramitā-nayam ||</l>
-</lg><listApp type="parallels">
+<l n="a">idaṁ tat sarva-buddhānāṁ</l> 
+<l n="b"><pb edRef="#cod" n="22v"/>sarvāśā-paripūraṇam |</l>
+<l n="c">cintāmaṇi-dhvajaṁ nāma</l> 
+<l n="d">dāna-pāramitā-nayam ||</l>
+</lg>
+<listApp type="parallels">
 <app>
-<lem>idaṁ ... dānapāramitānayam</lem>
-<note>STTS 80
-<!--   <foreign>idaṁ tat sarvabuddhānāṁ sarvāśāparipūraṇam | -->
-<!--   cintāmaṇidhvajaṁ nāma dānapāramitānayam iti ||"/>-->
-</note>
+<note sameAs="STTS:80">STTS 80</note>
+<!--   idaṁ tat sarvabuddhānāṁ sarvāśāparipūraṇam | -->
+<!--   cintāmaṇidhvajaṁ nāma dānapāramitānayam iti || -->
 </app>
 </listApp>
 
@@ -792,40 +791,29 @@ yac chodhayati śuddhānāṁ buddhānām api tāyinām ||</foreign>.</note>
 <!--  Vajrahāsa -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrahāsa</head>
-<l n="a">
-<app>
-<lem wit="#MSK" type="emn">aho mahāhāsa</lem>
+<l n="a"><app>
+<lem wit="#MSK">aho mahā-</lem>
 <note corresp="#STTS"/>
-<!-- <INTRO>discussion of various edition sof STTS. We follow Horiuchi's numbering. No reference to specific editions is made unless there is a difference.</INTRO>-->
-<rdg wit="#cod">aho hi mahāhāsa-</rdg>
-</app>mahaṁ</l>
-<l n="b">sarvāgryāṇāṁ mahādbhutam|</l>
-<l n="c">
-<app>
-<lem wit="#MSK" type="emn">yatprayuñjanti</lem>
-<note corresp="#STTS"/>
-<rdg wit="#cod">prayujyanti</rdg>
-<rdg wit="#MSK">prayuṁjaṁ*ya(cancelled ?)nti</rdg>
-<note corresp="#STTS #cod"/>
-</app>
-<app>
-<lem wit="#cod #MSK">buddhārthe</lem>
-<note corresp="#STTS #cod #Yed"/>
-<rdg wit="#MSK">buddhārthaṁ</rdg>
-<note corresp="#STTS #Hed"/>
-</app>
-</l>
+<!-- <INTRO>discussion of various editions of STTS. We follow Horiuchi's numbering. 
+No reference to specific editions is made unless there is a difference.</INTRO>-->
+<rdg wit="#cod">aho hi mahā-</rdg>
+</app>hāsa-m-ahaṁ</l>
+<l n="b">sarvāgryāṇāṁ mahādbhutam |</l>
+<l n="c">yat <app><lem wit="#cod #MSK">prayujyanti</lem>
+<note>The MS of STTS reads <foreign>prayuṁja<del>ya</del>ntiprayuñjanti</foreign>, which editors have interpreted as meaning <foreign>prayuñjanti</foreign>.</note>
+</app> buddhārthe</l>
 <l n="d">sadaiva <app>
 <lem wit="#cod">susamāhitāḥ</lem>
-<rdg wit="#MSK">susamāhitaḥ</rdg><!-- typo?--></app> ||
-</l>
+<rdg wit="#MSK">susamāhitaḥ</rdg><!-- typo?--></app> ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<note>STTS 83.</note>
+<note corresp="STTS:83">STTS 83: <foreign>aho mahāhāsa-m-ahaṁ sarvāgryāṇāṁ mahādbhutam | yat <seg type="highlight">prayuñjanti</seg> buddhārthe sadaiva susamāhitāḥ ||</foreign>. Horiuchi reads <foreign>buddhārthaṁ</foreign>.</note>
+<!-- the MS of STTS reads prayuṁja<del>ya</del>nti -->
 </app>
 </listApp>
-<!-- aho mahāhāsam ahaṁ sarvāgryāṇāṁ mahādbhutam | yat prayuñjanti buddhārthaṁ sadaiva susamāhitāḥ || -->
+
+<!-- RT, SI and AG have reached here on 2025-01-21 -->
 
 <lg met="anuṣṭubh">
 <l n="ab">idaṁ tat sarva<app>
