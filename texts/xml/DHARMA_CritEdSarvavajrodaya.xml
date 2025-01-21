@@ -1090,12 +1090,11 @@ r iti ||</l>
 <!-- -prapañcāvi-: em. -prapañcavi-, with MSK. -->
 
 <lg met="anuṣṭubh">
-<l n="ab">idaṁ tat sarvabuddhā<supplied reason="omitted">nāṁ</supplied> vajrajāpa<app>
-<lem wit="#cod #MSK">manantaram<!-- manantaram</seg> --></lem>
-<rdg wit="#STTS">udāhr̥taṁ</rdg>
-</app>
- |
-</l>
+<l n="a">idaṁ tat sarvabuddhā<supplied reason="omitted">nāṁ</supplied></l>
+<l n="b">vajrajāpam <app>
+<lem wit="#cod #MSK">anantaram</lem>
+<note>In STTS, we read udāhr̥taṁ</note>
+</app>|</l>
 <l n="cd">sarvatathāgatānāṁ tu mantrāṇāmā<supplied reason="omitted">śu</supplied>
 <app>
 <lem wit="#MSK">sā<pb edRef="#cod" n="23r"/>
