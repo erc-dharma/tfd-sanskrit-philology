@@ -1131,10 +1131,10 @@ r iti ||</l>
 <l n="ab">idaṁ tat sarvabuddhānāṁ viśvakarmakaraṁ param |</l>
 <l n="cd">ahaṁ mama ka<supplied reason="lost">re</supplied> da<supplied reason="lost">ttaṁ</supplied>
 <app>
-<lem wit="#MSK">viśve<!-- viśve --></lem>
+<lem wit="#MSK">viśve</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">visva</rdg>
-</app>  viśvaṁ niyojitam<listApp type="parallels">
+</app> viśvaṁ niyojitam<listApp type="parallels">
 <app>
 <lem>idaṁ... niyojitam</lem>
 <note>STTS 119
@@ -1201,12 +1201,12 @@ r iti ||</l>
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrayakṣa</head>
 <l n="ab">aho mahopāyamahaṁ buddhānāṁ karuṇātmanām |</l>
-<l n="cd">ya<app>
-<lem type="emn" wit="#MSK">tsattvārthatayā<!-- tsattvārthatayā --></lem>
+<l n="cd">yat <app>
+<lem type="emn" wit="#MSK">sattvārthatayā</lem>
 <witDetail type="silemn" wit="#MSK"/>
 <note corresp="#STTS"/>
 <rdg wit="#cod">sarvārthatayā</rdg>
-</app>  śāntā raudratvamapi <app>
+</app> śāntā raudratvamapi <app>
 <lem wit="#MSK" type="emn">kurvate<!-- kurvate --></lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">kurvataḥ</rdg>
