@@ -817,21 +817,22 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 
 <lg met="anuṣṭubh">
 <l n="ab">idaṁ tat sarva<app>
-<lem wit="#MSK">buddhānā</lem>
+<lem wit="#MSK">buddhānām</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-vuddhānāṁm</rdg>
-</app>
-<app>
-<lem type="emn" wit="#MSK">m adbhutotpāda-darśakam</lem>
+</app></l>
+<l n="b"><app><lem type="emn" wit="#MSK">adbhutotpāda-darśakam</lem>
 <rdg wit="#cod">adbhut·pādadarśakam</rdg>
 </app>  |
 </l>
-<l n="cd">
+<l n="c">
 <app>
 <lem wit="#MSK" type="emn">mahāharṣakaraṁ</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">mahākarṣakaraṁ</rdg>
-</app>  jñānam ajñātaṁ <app>
+</app>  jñānam</l> 
+<l n="d">ajñātaṁ 
+<app>
 <lem type="emn" wit="#MSK">para-śāsibhi</lem>
 <note corresp="#STTS #cod #Yed"/>
 <rdg wit="#cod">paraparaśāsibhir</rdg>
@@ -864,7 +865,8 @@ r iti ||</l>
 <!--  Vajradharma -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajradharma</head>
-<l n="ab">aho hi paramārtho'hamādiśuddhaḥ <app>
+<l n="a">aho hi paramārtho'ham</l>
+<l n="b">ādiśuddhaḥ <app>
 <lem type="emn" wit="#MSK">svayambhuvām</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <note corresp="#STTS #cod #Hed"/>
@@ -873,13 +875,13 @@ r iti ||</l>
 <note corresp="#STTS #Yed"/>
 </app>
 </l>
-<l n="cd">ya<app>
-<lem wit="#MSK" type="emn">t kolopamadharmāṇāṁ</lem>
+<l n="c">yat<app>
+<lem wit="#MSK" type="emn">kolopamadharmāṇāṁ</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">lokopamadharmmā<unclear>ṁ</unclear>
 </rdg>
-</app>
-<app>
+</app></l>
+<l n="d"><app>
 <lem wit="#MSK" type="emn">viśuddhi</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">viśuddhim</rdg>
@@ -899,9 +901,10 @@ r iti ||</l>
 <!-- viśuddhim: em. viśuddhir, with MSK. -->
 
 <lg met="anuṣṭubh">
-<l n="ab">idaṁ tat sarva-buddhānāṁ</l>
+<l n="a">idaṁ tat sarva-buddhānāṁ</l>
 <l n="b">rāgatattvāvabodhanam |</l>
-<l n="cd">ahaṁ mama kare dattaṁ <app>
+<l n="c">ahaṁ mama kare dattaṁ </l>
+<l n="d"><app>
 <lem wit="#MSK" type="emn">dharmaṁ dharme</lem>
 <note corresp="#STTS #cod #Yed"/>
 <rdg wit="#cod">dharmma dharme</rdg>
@@ -923,13 +926,13 @@ r iti ||</l>
 <head type="editorial">Vajratīkṣṇa</head>
 <l n="a">aho hi sarvabuddhānāṁ </l>
 <l n="b">mañjughoṣamahaṁ smr̥taḥ |</l>
-<l n="cd">
+<l n="c">
 <app>
-<lem type="emn" wit="#MSK">ya</lem>
-<rdg wit="#cod">ya</rdg>
+<lem type="emn" wit="#MSK">yat</lem>
+<rdg wit="#cod">yat</rdg>
 </app>
 <app>
-<lem wit="#MSK" type="emn">tprajñāyā</lem>
+<lem wit="#MSK" type="emn">prajñāyā</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">prajñayā</rdg>
 </app>
@@ -938,7 +941,8 @@ r iti ||</l>
 <note corresp="#STTS"/>
 <rdg wit="#cod">rūpināḥ</rdg>
 <rdg wit="#MSK">-rūpiṇyā</rdg>
-</app>  ghoṣatvam upalabhyate ||</l>
+</app></l>  
+<l n="d">ghoṣatvam upalabhyate ||</l>
 </lg><listApp type="parallels">
 <app>
 <lem>aho ... upalabhyate</lem>
@@ -953,17 +957,18 @@ r iti ||</l>
 
 <lg met="anuṣṭubh">
 <l n="a">idaṁ tat sarva-buddhānāṁ</l>
-<l n="b">prajñāpāramitānayam |</l>
-<l n="cd">
+<l n="b">prajñāpāramitā-nayam |</l>
+<l n="c">
 <app>
 <lem type="emn" wit="#MSK">chettāraṁ</lem>
 <rdg wit="#cod">cchetāraṁ</rdg>
 </app>
 <app>
-<lem wit="#MSK">sarvaśatrūṇāṁ</lem>
+<lem wit="#MSK">sarva-śatrūṇāṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">sarvasatrūṇāṁ</rdg>
-</app>  sarvapāpaharaṁ param||</l></lg><listApp type="parallels">
+</app></l>  
+<l n="d">sarvapāpaharaṁ param||</l></lg><listApp type="parallels">
 <app>
 <lem>idaṁ... param</lem>
 <note>STTS 100%:
@@ -981,10 +986,11 @@ r iti ||</l>
 <head type="editorial">Vajrahetu</head>
 <l n="a">aho vajramayaṁ cakram </l>
 <l n="b">ahaṁ vajrāgradharmiṇām |</l>
-<l n="cd">ya<app>
-<lem type="emn" wit="#MSK">ccittotpāda</lem>
+<l n="c">yac<app>
+<lem type="emn" wit="#MSK">cittotpāda</lem>
 <rdg wit="#cod">citotpāda-</rdg>
-</app> mātreṇa dharmacakraṁ pravartate ||</l></lg><listApp type="parallels">
+</app> mātreṇa</l> 
+<l n="d">dharmacakraṁ pravartate ||</l></lg><listApp type="parallels">
 <app>
 <lem>aho ... pravartate</lem>
 <note>STTS 103
@@ -997,7 +1003,7 @@ r iti ||</l>
 
 <lg met="anuṣṭubh">
 <l n="a">idaṁ tat sarva-buddhānāṁ</l> 
-<l n="b">sarvadharma<app>
+<l n="b">sarva-dharma-<app>
 <lem wit="#MSK">viśodhanam</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-visodhanam</rdg>
@@ -1078,8 +1084,8 @@ r iti ||</l>
 <!--  Vajrakarma -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrakarma</head>
-<l n="ab">aho hya<app>
-<lem wit="#MSK" type="emn">moghaṁ</lem>
+<l n="ab">aho hy<app>
+<lem wit="#MSK" type="emn">amoghaṁ</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">amogha</rdg>
 <note>
