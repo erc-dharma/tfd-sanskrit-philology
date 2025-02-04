@@ -1050,14 +1050,11 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 <!--  Vajrakarma -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrakarma</head>
-<l n="a">aho hy<app>
+<l n="a">aho hy <app>
 <lem wit="#MSK" type="emn">amoghaṁ</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">amogha</rdg>
-<note>
-<ptr target="#MSK"/>
- emends <foreign>amogho</foreign>.
-</note>
+<note><ptr target="#MSK"/> emends <foreign>amogho</foreign>.</note>
 </app> buddhānāṁ</l> 
 <l n="b"><app>
 <lem wit="#MSK" type="emn">sarvakarma-m-ahaṁ bahu</lem>
@@ -1069,18 +1066,16 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 <seg rend="check">STTS CHECK MS AND YAMADA!!</seg>
 </note>
 <!--   Possibly sarvakarmāvahaṁm aham (Aiśa sandhi, analogous to sandhi -nn a-) in meaning of sarvakarmāvaham aham? -->
-</app> |
-</l>
-<l n="cd">yadanābhogabuddhārthaṁ vajrakarma <app>
-<lem wit="#MSK" type="emn">pravartate<!-- pravartate --></lem>
+</app> |</l>
+<l n="c">yad anābhoga-buddhārthaṁ</l>
+<l n="d">vajrakarma <app>
+<lem wit="#MSK" type="emn">pravartate</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">pravartakaḥ</rdg>
-<note>
-<foreign>pravartate</foreign> STTS (<seg rend="check">CHECK MS AND YAMADA!!</seg>)
-</note>
-</app>
-||</l>
-</lg><listApp type="parallels">
+<note><foreign>pravartate</foreign> STTS (<seg rend="check">CHECK MS AND YAMADA!!</seg>)</note>
+</app> ||</l>
+</lg>
+<listApp type="parallels">
 <app>
 <lem>aho ... pravartate</lem>
 <note>STTS 116
