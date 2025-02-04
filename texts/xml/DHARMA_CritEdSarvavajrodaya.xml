@@ -1033,12 +1033,12 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 <l n="b">vajrajāpam <app>
 <lem wit="#cod #MSK">anantaram</lem>
 <note>In STTS, we read <foreign>udāhr̥taṁ</foreign>.</note>
-</app>|</l>
+</app> |</l>
 <l n="c">sarva-tathāgatānāṁ tu</l>
 <l n="d">mantrāṇām <app>
 <lem wit="#MSK">āśu sā<pb edRef="#cod" n="23r" break="no"/>dhanam</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">āś<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg> sā<pb n="23r" break="no"/>"<lb n="23r1" break="no"/>nam</rdg>
+<rdg wit="#cod">āś<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg> sā<pb n="23r" break="no"/><lb n="23r1" break="no"/>nam</rdg>
 </app> iti ||</l>
 </lg>
 <listApp type="parallels">
