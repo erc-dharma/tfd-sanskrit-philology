@@ -966,7 +966,7 @@ sarva<app>
 <l n="b">sarva-dharma<app>
 <lem wit="#MSK" type="norm">-viśodhanam</lem>
 <rdg wit="#cod">-visodhanam</rdg>
-<note>STTS read <foreign>-viśodhakaṁ</foreign>.</note>
+<note>In STT, we read <foreign>-viśodhakaṁ</foreign>.</note>
 </app> |</l>
 <l n="c"><app rend="hide">
 <lem wit="#MSK">avaivartika-</lem>
@@ -1003,29 +1003,32 @@ avaivartikacakraṁ tu bodhimaṇḍam iti smr̥tam iti ||</foreign></note>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:109">STTS 109</note>
-<!--   aho svayaṁbhuvāṁ guhyaṁ saṁdhābhāṣa-m-ahaṁ smr̥taḥ | -->
-<!--   yad deśayanti saddharmaṁ vākprapañcavivarjitam || -->
+<note sameAs="STTS:109">STTS 109.<!-- <foreign>aho svayaṁbhuvāṁ guhyaṁ saṁdhābhāṣa-m-ahaṁ smr̥taḥ |
+yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 </app>
 </listApp>
 
 
 <lg met="anuṣṭubh">
-<l n="a">idaṁ tat sarva-buddhā<supplied reason="omitted">nāṁ</supplied></l>
-<l n="b">vajrajāpam <app>
-<lem wit="#cod #MSK">anantaram</lem>
-<note>In STTS, we read <foreign>udāhr̥taṁ</foreign>.</note>
+<l n="a">idaṁ tat sarva<app rend="hide">
+<lem wit="#MSK">-buddhānāṁ</lem>
+<rdg wit="#cod">-vuddhānā<unclear>ṁ</unclear></rdg>
+</app></l>
+<l n="b">vajra-jāpam <app>
+<lem wit="#cod #MSK">anantaram</lem><!-- cod anantara<del rend="mark">ṁ</del>m· -->
+<note>In STTS, we read <foreign>udāhr̥tam</foreign>.</note>
 </app> |</l>
 <l n="c">sarva-tathāgatānāṁ tu</l>
 <l n="d">mantrāṇām <app>
-<lem wit="#MSK">āśu sā<pb edRef="#cod" n="23r" break="no"/>dhanam</lem>
+<lem wit="#MSK" type="emn">āśu sā<pb edRef="#cod" n="23r" break="no"/>dhanam</lem>
 <witDetail wit="#MSK" type="silemn"/>
+<note corresp="#STTS"/>
 <rdg wit="#cod">āś<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg> sā<pb n="23r" break="no"/><lb n="23r1" break="no"/>nam</rdg>
 </app> iti ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<note>STTS 112: <foreign>idaṁ tat sarvabuddhānāṁ vajrajāpau udāhr̥tam | sarvatathāgatānāṁ tu mantrāṇām āśu sādhanam iti ||</foreign></note>
+<note corresp="#STTS:112">STTS 112: <foreign>idaṁ tat sarvabuddhānāṁ vajrajāpam udāhr̥tam | sarvatathāgatānāṁ tu mantrāṇām āśu sādhanam iti ||</foreign></note>
 </app>
 </listApp>
 
