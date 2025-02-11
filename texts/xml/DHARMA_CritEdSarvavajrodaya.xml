@@ -1032,49 +1032,48 @@ avaivartikacakraṁ tu bodhimaṇḍam iti smr̥tam iti ||</foreign></note>
 <!--  Vajrakarma -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrakarma</head>
-<l n="a">aho hy <app>
-<lem wit="#MSK" type="emn">amoghaṁ</lem>
+<l n="a" real="=+-++--=" met="ma-vipulā">aho hy <app>
+<lem type="emn">amoghaṁ</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">amogha</rdg>
-<note><ptr target="#MSK"/> emends <foreign>amogho</foreign>.</note>
+<rdg wit="#MSK">amogho</rdg>
+<!-- <note><ptr target="#MSK"/> emends <foreign>amogho</foreign>.</note> -->
 </app> buddhānāṁ</l> 
 <l n="b"><app>
-<lem wit="#MSK" type="emn">sarvakarma-m-ahaṁ bahu</lem>
+<lem type="emn">sarvakarma-m-ahaṁ bahu</lem>
 <note corresp="#STTS"/>
-<rdg wit="#cod">sarvakarmāvaham ahaṁ</rdg>
+<rdg wit="#cod">sarvakarmāvahaṁmahaṁ</rdg><!-- sarvakarmāva§<space type="binding-hole"/>haṁm ahaṁ  -->
 <rdg wit="#MSK">sarvakarmā ahaṁ bahuḥ</rdg>
-<rdg wit="#STTS #Hed">sarvakarma-m-ahaṁ bahu</rdg>
-<note>
-<seg rend="check">STTS CHECK MS AND YAMADA!!</seg>
-</note>
 <!--   Possibly sarvakarmāvahaṁm aham (Aiśa sandhi, analogous to sandhi -nn a-) in meaning of sarvakarmāvaham aham? -->
+<!--   sarvakarmāvaha-m-aham is unmetrical -->
+<!--   Or sarvakarma bahum aham? -->
+<!--   But we reject any emendation based upon the SVU variant for pāda b, because the last verse of §2.2.2 (= STTS 150) too clearly argues in favor of a reading with <foreign>bahum</foreign>. -->
 </app> |</l>
 <l n="c">yad anābhoga-buddhārthaṁ</l>
-<l n="d">vajrakarma <app>
+<l n="d">vajrakarma<!-- vajra<del rend="strikeout">ṁ</del>karmma: MSK vajrakarma -->
+<app>
 <lem wit="#MSK" type="emn">pravartate</lem>
 <note corresp="#STTS"/>
 <rdg wit="#cod">pravartakaḥ</rdg>
-<note><foreign>pravartate</foreign> STTS (<seg rend="check">CHECK MS AND YAMADA!!</seg>)</note>
 </app> ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<lem>aho ... pravartate</lem>
-<note>STTS 116
-<!--   <foreign>aho hy amoghaṁ buddhānāṁ sarvakarma-m-ahaṁ bahu |  -->
-<!--   yadanābhogabuddhārthaṁ vajrakarma pravartate ||}; -->
-<!--   we reject any emendation based upon the SVU variant for pāda b, because the last verse of §2.2.2 (= STTS 150) too clearly argues in favor of a reading with <foreign>bahum</foreign>. -->
-<!--   <seg rend="check">Move this note to the third layer!!</seg> -->
-</note>
+<!-- SVUTib 
+        ae ma'o sangs rgyas rnams kyis nges || phrin las mang po kun bdag yin || 
+        sangs rgyas don kun lhun grub phyir || rdo rje {18b3} las ni 'jug par 'gyur || 23--> 
+<note sameAs="#STTS:116">STTS 116</note>
+<!--   aho hy amoghaṁ buddhānāṁ sarvakarma-m-ahaṁ bahu |  -->
+<!--   yad anābhogabuddhārthaṁ vajrakarma pravartate || -->
+<!-- STTS Tib.: 
+      ae ma'o sangs rgyas rnams kyi nges/ /'phrin las mang po kun bdag yin/ /
+      sangs rgyas don ni lhun grub phyir; ;rdo rje las ni 'jug par 'gyur/ /-->
+<note corresp="#KSP:129">KSP 129: <foreign>aho hy amoghabuddhānāṁ sarvakarmāvaham ahaṁ | yad anābhogabuddhārthaṁ vajrakarmapravartakam ||</foreign>. Although the ms. of SVU transmits a reading of the stanza nearly identical to that transmitted in KSP, we do not believe the ms. faithfully transmits what Ānandagarbha wrote.</note>
 </app>
-</listApp> 
-<!-- STTS §116 aho hy amoghaṁ buddhānāṁ sarvakarmam ahaṁ bahu | yad anābhogavuddhārthaṁ vajrakarma pravartate || -->
-<!-- Note interesting variant in pāda c. -->
-<!-- amogha: em. amoghaṁ, after STTS; MSK emends amogho. -->
-<!--  sarvakarmā ahaṁ bahuḥ MSK -->
-<!-- sarvakarmā: STTS reads sarvakarmam. -->
-<!-- vajraṁkarmma: MST vajrakarma -->
-<!-- vajra\cancelled{ṁ"/>-->
+</listApp>
+<!-- <INTRO>The ms. of SVU clearly transmits a reading of the stanza nearly identical to that transmitted in KSP. The Tibetan translation of SVU shows no trace of the specific readings shared by the our ms. and KSP. And these readings are very likely the result of a reinterpretation of the stanza. This passage this suggests that the transmission of SVU has suffered lateral influence from the ritual/textual tradition of (or reflected in) KSP.</INTRO> -->
+
+<!-- RT, SI and AG have reached here on 2025-02-11 -->
 
 <lg met="anuṣṭubh">
 <l n="a">idaṁ tat sarva-buddhānāṁ</l> 
