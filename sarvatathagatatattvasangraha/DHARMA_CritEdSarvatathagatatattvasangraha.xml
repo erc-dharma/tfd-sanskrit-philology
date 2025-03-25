@@ -346,7 +346,7 @@ sarvatathāgatakāyavākcittavajrabandhamudrājñānaḥ ||</p></div>
 </div><!-- Arlo: I am proposing here a convention for undoing sandhi with iti at the end of a quotation. --> 
 
 <div type="section" n="19"><pb n="1_24_19" edRef="#edho"/>
-	<p>atha sarvārthasiddhir bodhisattvo mahāsattvaḥ sarvatathāgataiś coditaḥ samānas tataḥ āsphānakasamādhito vyutthāya sarvatathāgatān praṇipatyāhūyaivam āha |</l>
+	<p>atha sarvārthasiddhir bodhisattvo mahāsattvaḥ sarvatathāgataiś coditaḥ samānas tataḥ āsphānakasamādhito vyutthāya sarvatathāgatān praṇipatyāhūyaivam āha |
 	“bhagavantas tathāgatāḥ ājñāpayata! “kathaṁ pratipadyāmi? kīdṛśaṁ tattvam?”” iti ||</p>
 </div>
 
@@ -1060,13 +1060,14 @@ tataḥ sarvatathāgatair “vajrabuddhir vajrabuddhir!” iti vajranāmābhiṣ
 </div>
 
 <div type="section" n="134"><pb n="1_7576_134" edRef="#edho"/>
-<p>atha tato vajrabandhavigrahāt sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā viniścaritvā, sarvalokadhātuṣu sarvatathāgatamudrājñānādīni sarvabuddharddhivikurvitāni kṛtvā, sarvatathāgatamahāmuṣṭisubandhatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghanaḥ sarvatathāgatamuṣṭimahābodhisattvakāyaḥ saṁbhūya bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āha ||</p>
+<p>atha tato vajrabandhavigrahāt sarvalokadhātuparamāṇurajaḥsamās tathāgatavigrahā viniścaritvā, 
+sarvalokadhātuṣu sarvatathāgatamudrājñānādīni sarvabuddharddhivikurvitāni kṛtvā, 
+sarvatathāgatamahāmuṣṭisubandhatvād vajrasattvasamādheḥ sudṛḍhatvāc caikaghanaḥ sarvatathāgatamuṣṭimahābodhisattvakāyaḥ saṁbhūya bhagavato vairocanasya hṛdaye sthitvedam udānam udānayām āha ||</p>
 <lg met="anuṣṭubh">
-<l n="a">aho hi sudṛḍhabandhaḥ</l>
+<l n="a">aho hi <app><lem wit="#cod #edya">sudṛḍho bandhaḥ</lem><rdg wit="#edho">sudṛḍhabandhaḥ</rdg></app></l>
 <l n="b">samayo 'haṁ dṛḍhātmanām |</l>
-<l n="c">yat sarvāśāprasidhyarthaṁ</l>
-<l n="d">muktānām api bandhanam ||</l>
-</lg>
+<l n="c">yat sarvāśāprasidhyarthaṁ</l> 
+<l n="d">muktānām api bandhanam ||</l></lg>
 </div>
 
 <div type="section" n="135"><pb n="1_76_135" edRef="#edho"/>
@@ -1081,13 +1082,15 @@ tataḥ sarvatathāgatair “vajrabuddhir vajrabuddhir!” iti vajranāmābhiṣ
 <div type="section" n="137"><pb n="1_76_137" edRef="#edho"/>
 <p>atha vajramuṣṭir bodhisattvo mahāsattvas tena vajrabandhena sarvatathāgatān bandhayann idam udānam udānayām āsa ||</p>
 <lg met="anuṣṭubh">
-<l n="a">idaṁ tat sarvabuddhānāṁ</l>
+<l n="a">idaṁ tat sarvabuddhānāṁ</l> 
 <l n="b">muṣṭibandhaṁ mahādṛḍham |</l>
-<l n="c">yat sarvabuddhās tu siddhyarthaṁ</l>
+<l n="c"><app><lem type="emn" rend="hyphenright">sarvabuddhāśu</lem>
+<rdg wit="#cod #edya">yat sarvabuddhāśu</rdg>
+<rdg wit="#edho">yat sarvabuddhās tu</rdg>
+<note>The word <foreign>yat</foreign> is obviously superfluous here and needs to be removed to render the <foreign>pāda</foreign> metrical. Neither SVU nor KSP transmits the stanza with <foreign>yat</foreign>.</note>
+</app>siddhyarthaṁ</l>
 <l n="d">samayo duratikrama iti ||</l>
-</lg>
-</div>
-<!-- pāda d: hyper metrical -->
+</lg></div>
 
 <div type="section" n="138"><pb n="1_78_138" edRef="#edho"/>
 <p>sarvatathāgatapūjāvidhivistarakarma mahāvīryadṛḍhakavacaḥ sarvatathāgatamahopāyaḥ sarvamudrājñānaṁ ceti |</p>

@@ -1081,8 +1081,7 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 <lg met="anuṣṭubh">
 <l n="a">idaṁ tat sarva-buddhānāṁ</l> 
 <l n="b">viśva-karmakaraṁ param |</l>
-<l n="c">ahaṁ mama ka<supplied reason="lost">re</supplied> da<supplied reason="lost">ttaṁ</supplied>
-</l>
+<l n="c">ahaṁ mama ka<supplied reason="lost">re</supplied> datta<supplied reason="lost">ṁ</supplied></l>
 <l n="d"><app>
 <lem wit="#MSK">viśve</lem>
 <witDetail wit="#MSK" type="silemn"/>
@@ -1096,18 +1095,13 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 <!--   ahaṁ mama kare dattaṁ viśve viśvaṁ niyojitam iti || -->
 </app>
 </listApp> 
-<!-- visva: em. viśve, with MSK (sil. em.). -->
-<!-- kar\supplied{e"/>-->
-<!-- datta\supplied{ṁ"/>-->
 
 <!--  Vajrarakṣa -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrarakṣa</head>
 <l n="a">aho vīryamayo <app>
 <lem wit="#cod #MSK">varma</lem>
-<note>
-<foreign>varmaḥ</foreign> STTS (<seg rend="check">CHECK MS AND YAMADA!!</seg>).<seg rend="check">check MSK</seg>
-</note>
+<note>STTS reads <foreign>varmaḥ</foreign>.</note>
 </app></l>
 <l n="b">sudr̥ḍho 'haṁ dr̥ḍhātmanām |</l>
 <l n="c">
@@ -1115,25 +1109,21 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 <lem wit="#MSK">yad</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">ya</rdg>
-</app> dr̥ḍhatvādakāyānāṁ</l>
+</app> dr̥ḍhatvād akāyānāṁ</l>
 <l n="d"><app>
-<lem wit="#MSK">vajrakāyakaraṁ</lem>
+<lem wit="#MSK" rend="hyphenright">vajrakāya</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">vajrākāyakaram</rdg>
-</app> param ||</l>
+<rdg wit="#cod">vajrākāya-</rdg>
+</app>karaṁ param ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<lem>aho ... param</lem>
-<note>STTS 122
-<!--   <foreign>aho vīryamayo varmaḥ sudr̥ḍho 'haṁ dr̥ḍhātmanām | -->
-<!--   yad dr̥ḍhatvād akāyānāṁ vajrakāyakaraṁ param iti || -->
-</note>
+<note sameAs="KSP:129">KSP 129</note>
+<note corresp="STTS:122">STTS 122:
+ <foreign>aho vīryamayo <seg type="highlight">varmaḥ</seg> sudr̥ḍho 'haṁ dr̥ḍhātmanām | 
+ yad dr̥ḍhatvād akāyānāṁ vajrakāyakaraṁ param iti ||</foreign>. The codex reads <foreign>varmaḥ</foreign>, which Horiuchi and Yamada accept in their editions.</note>
 </app>
 </listApp>
-<!-- varma: STTS reads varmaḥ. -->
-<!-- ya dr̥ḍhatvād: em. yad dr̥ḍhatvād, with MSK (sil. em.). -->
-<!-- vajrākāyakaram: em. vajrakāyakaram, with MSK (sil. em.). -->
 
 <lg met="anuṣṭubh">
 <l n="a">idaṁ tat sarva-buddhānāṁ</l>
@@ -1148,14 +1138,13 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 <!--   dr̥ḍhavīryamahārakṣaṁ mahāmitram udāhr̥tam iti || -->
 </app>
 </listApp>
-<!-- \unclear{u}ttamam· -->
 
 <!--  Vajrayakṣa -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrayakṣa</head>
-<l n="a">aho mahopāyam ahaṁ</l> 
+<l n="a">aho mahopāya-m ahaṁ</l> 
 <l n="b">buddhānāṁ karuṇātmanām |</l>
-<l n="c">yat <app>
+<l n="c">yat <app rend="hide">
 <lem wit="#MSK" type="emn">sattvārthatayā</lem>
 <witDetail type="silemn" wit="#MSK"/>
 <note corresp="#STTS"/>
@@ -1166,51 +1155,40 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 <note corresp="#STTS"/>
 <rdg wit="#cod">kurvataḥ</rdg>
 <rdg wit="#MSK">kuruvataḥ</rdg>
-<note>(unintentional error)</note>
-<note>
-<seg rend="check">CHECK STTS MS AND YAMADA!!</seg>
-</note>
-<!--  kurvataḥ: nominative plural -->
+<note>The MSK reading is no doubt an simple typing error. The nominative plural form <foreign>kurvataḥ</foreign> seems to be an unsuccessful attempt to lend sense to the form kurvate which was not understood. Both STTS and KSP read <foreign>kurvate</foreign>.</note>
 </app> ||</l>
 </lg>
 <listApp type="parallels">
 <app>
 <note sameAs="STTS:128">STTS 128</note>
-<!--   <foreign>aho mahopāya-m-ahaṁ buddhānāṁ karuṇātmanām | -->
+<!--   aho mahopāya-m ahaṁ buddhānāṁ karuṇātmanām | -->
 <!--   yat sattvārthatayā śāntā raudratvam api kurvate || -->
+<note sameAs="KSP:131">KSP 131</note>
 </app>
 </listApp> 
-<!-- sarvārthatayā: em. sattvārthatayā, with MSK (sil. em.) after STTS. -->
-<!-- kurvataḥ: kuruvataḥ MSK (unintentional error). -->
 
 <lg met="anuṣṭubh">
 <l n="a">idaṁ tat sarva-buddhānāṁ</l> 
 <l n="b">sarva-<app>
-<lem wit="#MSK" type="emn">duṣṭāgrya-</lem>
+<lem wit="#MSK" type="emn" rend="hyphenaround">duṣṭāgrya</lem>
 <note corresp="#KSP"/>
-<note>
-<seg rend="check">CHECK!!</seg>
-</note>
 <rdg wit="#cod">-<unclear>d</unclear>uṣṭāpya-</rdg>
-<rdg wit="#STTS">-duṣṭāgra-</rdg>
-<note>
-<seg rend="check">CHECK STTS MS AND YAMADA!!</seg>
-</note>
+<note>STTS reads <foreign>-duṣṭāgra-</foreign>. The cod. reading is misrepresented as <foreign>-draṣṭāpya</foreign> in MSK.</note>
 </app>
-<!-- \MSK\ reads <foreign>-draṣṭāpya}, emended to <foreign>-duṣṭāgra-"/>after STTS. <seg rend="check">Emend rather <foreign>-duṣṭāpya-, -duṣṭādya-, -duṣṭasya}</seg>? -->
-<app><lem wit="#MSK">dāmakam</lem>
+<app><lem wit="#MSK" rend="hyphenleft">dāmakam</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">-dāyakam</rdg>
-</app>  |
-</l>
+<note corresp="#STTS"/>
+<rdg wit="#cod">-dāyakaṁ</rdg>
+<note corresp="#KSP"/>
+</app> |</l>
 <l n="c">
 <app>
 <lem wit="#MSK">vajra-daṁṣṭrāyudhaṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
+<note corresp="#STTS #KSP"/>
 <rdg wit="#cod">vajradraṣṭrāyudha</rdg>
-</app></l>
-<l n="d">tīkṣṇam
-upāyaḥ <app>
+</app> tīkṣṇam</l>
+<l n="d">upāyaḥ <app>
 <lem wit="#MSK">karuṇātmanām</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">karuṇātmanā</rdg>
@@ -1218,77 +1196,58 @@ upāyaḥ <app>
 </lg>
 <listApp type="parallels">
 <app>
-<lem>idaṁ... karuṇātmanām</lem>
-<note>STTS 131
-<!--   <foreign>idaṁ tat sarvabuddhānāṁ sarvaduṣṭāgradāmakam | -->
-<!--   vajradaṁṣṭrāyudhaṁ tīkṣṇam upāyaḥ karuṇātmanām iti || -->
-</note>
-</app>
+<note corresp="SVUTib">SVU Tib.: <foreign xml:lang="tib">'di ni sangs rgyas thams cad kyi || ma rungs thams cad <seg type="highlight">'dul ba'i</seg> mchog || kun gyi mchog ni 'dul byed pa || rdo rje mche ba'i mtshon rno ste || thabs dang snying rje'i bdag nyid do ||</foreign></note>
+<note corresp="STTS:131">STTS 131: <foreign>idaṁ tat sarva-buddhānāṁ sarva<seg type="highlight">-duṣṭāgra-dāmakam</seg> | vajra-daṁṣṭrāyudhaṁ tīkṣṇam upāyaḥ karuṇātmanām iti ||</foreign>. <title>Tattvālokakarī</title> ad STTS 131: <foreign><seg type="highlight">ma rungs thams cad 'dul ba'i <lb n="84a5"/> mchog</seg> | ces bya ba ni | ma rungs pa yang yin la thams cad kyang yin pas na ma rungs pa thams cad de | lha'i bu'i bdud la sogs pa yin la | de rnams <seg type="highlight">'dul ba'i</seg> mchog yin pas na de skad ces bya'o ||</foreign>.</note>
+<note corresp="KSP:131">KSP 131: <foreign>idan tat sarva-buddhānāṁ sarva<seg type="highlight">-duṣṭāgrya-dāyakam</seg> | vajra-daṁṣṭrāyudhaṁ tīkṣṇam upāyaḥ karuṇātmanām ||</foreign></note></app>
 </listApp>
-<!-- -\unclear{d}uṣṭāpya-: MSK -draṣṭāpya, emended to -duṣṭāgra- after STTS. Emend rather -duṣṭāpya-, -duṣṭādya-, -duṣṭasya? -->
-<!-- -dāyakam: em. -dāmakam, with MSK (sil. em.)? -->
-<!-- vajradraṣṭrāyudha-: em. vajradaṁṣṭrāyudhaṁ, with MSK (sil. em.). -->
-<!-- karuṇātmanā: em. karuṇātmanām, with MSK (sil. em.). -->
 
 <!--  Vajramuṣṭi -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajramuṣṭi</head>
-<l n="a">aho hi <app>
-<lem wit="#cod #MSK">sudr̥ḍho bandhaḥ</lem>
-<rdg wit="#STTS">sudr̥ḍhabandhaḥ</rdg>
-<note>(<seg rend="check">CHECK MS AND YAMADA!!</seg>)
-</note>
-</app></l>
+<l n="a">aho hi sudr̥ḍho bandhaḥ</l>
 <l n="b">samayo 'haṁ <app>
 <lem wit="#MSK">dr̥ḍhātmanām</lem>
 <witDetail wit="#MSK" type="silemn"/>
+<note corresp="#STTS #KSP"/>
 <rdg wit="#cod">dr̥ḍhātmānāṁ</rdg>
-</app>  |
-</l>
+</app> |</l>
 <l n="c">yat sarvāśā-<app>
-<lem wit="#MSK" type="emn">prasiddhy-arthaṁ</lem>
-<rdg wit="#cod">pratasiddhyarthaṁ</rdg>
+<lem wit="#MSK" type="emn" rend="hyphenleft">prasiddhy-arthaṁ</lem>
+<rdg wit="#cod">-pratasiddhyarthaṁ</rdg>
 </app></l>
-<l n="d">muktānāmapi bandhanam ||</l>
-</lg><listApp type="parallels">
+<l n="d">muktānām api bandhanam ||</l>
+</lg>
+<listApp type="parallels">
 <app>
-<lem>aho ... bandhanam</lem>
-<note>STTS 134
-<!--   <foreign>aho hi sudr̥ḍhabandhaḥ samayo 'haṁ dr̥ḍhātmanām | -->
+<note sameAs="STTS:134">STTS 134. The codex reads <foreign>sudr̥ḍho bandhaḥ</foreign> and this reading is adopted by Yamada. It is only in Horiuchi's edition that we find the error <foreign>sudr̥ḍhabandhaḥ</foreign>.
+<!--   aho hi sudr̥ḍhabandhaḥ samayo 'haṁ dr̥ḍhātmanām | -->
 <!--   yat sarvāśāprasidhyarthaṁ muktānām api bandhanam || -->
 </note>
+<note corresp="KSP:132">KSP 132.</note>
 </app>
 </listApp> 
-<!-- sudr̥ḍho vandhaḥ: STTS reads sudr̥ḍhavandhaḥ. -->
-<!-- dr̥ḍhātmānāṁ: em. dr̥ḍhātmanām, with MSK (sil. em.). -->
-<!-- -pratasiddhyarthaṁ: em. -prasiddhyarthaṁ, with MSK  -->
 
 <lg met="anuṣṭubh">
 <l n="a">idaṁ tat sarva-buddhānāṁ</l>
 <l n="b">mudrā-bandhaṁ mahā-dr̥ḍham |</l>
 <l n="c">sarva-<app>
-<lem wit="#MSK" type="emn">buddhāśu-siddhy-arthaṁ</lem>
-<rdg wit="#cod">vuddhāstusiddhyarthaṁ</rdg>
-<!--   <foreign>-buddhāśusiddhyarthaṁ"/>\emn\ \MSK -->
-</app></l>
-<l n="d">samayo duratikrama iti||</l>
-</lg><listApp type="parallels">
+<lem wit="#MSK" type="emn" rend="hyphenaround">buddhāśu</lem>
+<note corresp="#STTS"/>
+<rdg wit="#cod">-vuddhāstu-</rdg>
+</app>-siddhyarthaṁ</l>
+<l n="d">samayo duratikrama iti ||</l>
+</lg>
+<listApp type="parallels">
 <app>
-<lem>idaṁ ... duratikrama</lem>
-<note>STTS 137:
-<foreign>idaṁ tat sarvabuddhānāṁ muṣṭibandhaṁ mahādr̥ḍham |
-  yat sarvabuddhās tu siddhyarthaṁ samayo duratikrama iti ||</foreign>.
-  SVU has a variant in <foreign>pāda</foreign> c.
-<seg rend="check">REPORT MS AND YAMADA!!</seg>
-<!--   The STTS reading of <foreign>pāda"/>c is unmetrical; the SVU reading is metrical but still unsatisfactory, so we propose an emendation.  -->
+<note corresp="STTS:137">STTS 137: <foreign>idaṁ tat sarvabuddhānāṁ muṣṭibandhaṁ mahādr̥ḍham |
+  <seg type="highlight">yat</seg> sarvabuddhās tu siddhyarthaṁ samayo duratikrama iti ||</foreign>. The cod. shows <foreign>buddhāśu</foreign> and this is accepted in Yamada's edition, while Horiuchi's gives <foreign>buddhās tu</foreign>. Both editions accept yat although it renders the stanza unmetrical and must obviously be removed.
 </note>
 </app>
 </listApp> 
-<!-- STTS begins pāda c with yat. -->
-<!-- -vuddhāstusiddhyarthaṁ: MSK emends -buddhāśusiddhyarthaṁ. We propose -buddhājñāsiddhyarthaṁ. -->
-<!-- \unclear{sa}rvavuddhānāṁ -->
 </div>
 </div>
+
+<!-- RT, SI and AG have reached here on 2025-03-25 -->
 
 <div type="section" n="2">
 <head type="editorial">Emanation of the Four Goddesses Surrounding Vairocana</head>
