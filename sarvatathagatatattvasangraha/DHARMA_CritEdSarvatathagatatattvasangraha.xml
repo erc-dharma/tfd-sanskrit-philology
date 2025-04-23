@@ -4,33 +4,24 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
 	xml:lang="eng"
-	xml:id="sarvavajrodaya"
+	xml:id="sarvatathagatatattvasangraha"
 	type="edition">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type="main">Sarvatathāgatatattvasaṅgraha</title>
-				<title type="sub" subtype="editorial">Digital Critical Edition with Reference to the Codex Unicus and Previous Editions</title>
-				<!-- <editor ref="part:argr">
-					<forename>Arlo</forename>
-					<surname>Griffiths</surname>
-				</editor> -->
-				<editor ref="part:ryta">
-					<forename>Ryugen</forename>
-					<surname>Tanemura</surname>
-				</editor>
+				<title type="main">Sarvatathāgatatattvasaṅgraha: Digital Critical Edition with Reference to the Codex Unicus and Previous Editions</title>
 				<respStmt>
-					<resp>structuring of the TEI file</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
+					<resp>Author of the digital edition</resp>
+					<persName ref="part:ryta">
+						<forename>Ryugen</forename>
+						<surname>Tanemura</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>creation of the file</resp>
-					<persName ref="part:axja">
-						<forename>Axelle</forename>
-						<surname>Janiak</surname>
+					<resp>Contributor</resp>
+					<persName ref="part:argr">
+						<forename>Arlo</forename>
+						<surname>Griffiths</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>
