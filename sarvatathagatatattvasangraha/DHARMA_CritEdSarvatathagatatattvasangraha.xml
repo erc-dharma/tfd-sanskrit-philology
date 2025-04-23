@@ -48,11 +48,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<listWit>
-					<!-- One witness for each manuscript. Update the content -->
 					<witness xml:id="cod">
-						<!-- Give your witness an unique identifier -->
 						<abbr type="MS"/>
-						<!-- Fill in the abbr @type="siglum" with the expected display for the witness siglum. Use <hi> with @rend for superscript and subscript -->
 						<msDesc>
 							<msIdentifier>
 								<settlement>Kathmandu</settlement>
@@ -1375,7 +1372,7 @@ tebhyaś ca dhūpapūjāmeghasamudrebhyaḥ sarvalokadhātuparamāṇurajaḥdh�
 
 <div type="section" n="184"><pb n="1_98_184" edRef="#edho"/>
 <p>atha bhagavān punar api sarvatathāgatasamayasphoṭamahāsattvasamayodbhavasattvavajraṁ nāma samādhiṁ samāpadyemaṁ sarvatathāgatasamayabandhaṁ nāma sarvatathāgatadūtaṁ svahṛdayān niścacāra ||</p>
-<l>vajrasphoṭa ||</l>
+<p>vajrasphoṭa ||</p>
 </div>
 
 <div type="section" n="185"><pb n="1_98_185" edRef="#edho"/>
@@ -1459,8 +1456,10 @@ tebhyaś ca dhūpapūjāmeghasamudrebhyaḥ sarvalokadhātuparamāṇurajaḥdh�
 <l n="d">vajrapāṇe namo 'stu te ||</l>
 </lg>
 <lg met="anuṣṭubh">
-<l>vajrarāja subuddhāgrya vajrāṅkuśa tathāgata |</l>
-<l>amogharāja vajrāgrya vajrākarṣa namo 'stu te ||</l>
+<l n="a">vajrarāja subuddhāgrya</l>
+<l n="b">vajrāṅkuśa tathāgata |</l>
+<l n="c">amogharāja vajrāgrya</l> 
+<l n="d">vajrākarṣa namo 'stu te ||</l>
 </lg>
 <lg met="anuṣṭubh">
 <l n="a">vajrarāga mahāsaukhya</l> 
@@ -1836,7 +1835,7 @@ tat kasmād dhetoḥ:</p>
 <l n="c">nirbhidya tatkṣaṇaṁ yāyād</l> 
 <l n="d">yadi brūyād imaṁ nayam ||</l>
 </lg>
-<l>vajrodaka ṭhaḥ ||</l>
+<p>vajrodaka ṭhaḥ ||</p>
 </div>
 
 <div type="section" n="223"><pb n="1_123_223" edRef="#edho"/>
@@ -1848,14 +1847,15 @@ ity uktvā vaktavyaṁ:</p>
 </div>
 
 <div type="section" n="224"><pb n="1_125_224" edRef="#edho"/>
-<l>tatas tvaramāṇena vajrācāryeṇa sattvavajrimudrāṁ baddhvedam uccārayitavyam ||</l>
+<p>tatas tvaramāṇena vajrācāryeṇa sattvavajrimudrāṁ baddhvedam uccārayitavyam ||</p>
 <lg met="anuṣṭubh">
 <l n="a">ayaṁ tat samayo vajraṁ</l> 
 <l n="b">vajrasattvam iti smṛtam |</l>
 <l n="c">āveśayatu te 'dyaiva</l> 
 <l n="d">vajrajñānam anuttaram ||</l>
 </lg>
-<l>vajrāveśa aḥ ||</l></div>
+<p>vajrāveśa aḥ ||</p>
+</div>
 
 <div type="section" n="225"><pb n="1_125_225" edRef="#edho"/>
 <p>tataḥ krodhamuṣṭiṁ baddhvā sattvavajrimudrāṁ sphoṭayet.</p>
@@ -1920,7 +1920,7 @@ ity uktvā vaktavyaṁ:</p>
 </div>
 
 <div type="section" n="233"><pb n="1_129_233" edRef="#edho"/>
-<l>tatas tv ekatamāṁ mudrāmālāṁ baddhvā svacihnaṁ pāṇau pratiṣṭhāpyaivaṁ vadet ||</l>
+<p>tatas tv ekatamāṁ mudrāmālāṁ baddhvā svacihnaṁ pāṇau pratiṣṭhāpyaivaṁ vadet ||</p>
 <lg met="anuṣṭubh">
 <l n="a">adyābhiṣiktas tvam asi</l> 
 <l n="b">buddhair vajrābhiṣekataḥ |</l>
@@ -1983,7 +1983,7 @@ ity uktvā vaktavyaṁ:</p>
 </div>
 
 <div type="section" n="238"><pb n="1_133_238" edRef="#edho"/>
-<l>tato vajrarddhiṣīdhiniṣpattimudrājñānaṁ śikṣayet ||</l>
+<p>tato vajrarddhiṣīdhiniṣpattimudrājñānaṁ śikṣayet ||</p>
 <lg met="anuṣṭubh">
 <l n="a">vajrāveśe samutpanne</l> 
 <l n="b">vajrabimbamayaṁ jalam |</l>
@@ -2018,7 +2018,7 @@ ity uktvā vaktavyaṁ:</p>
 </div>
 
 <div type="section" n="240"><pb n="1_136_240" edRef="#edho"/>
-<l>tato vajravidyādharasiddhiniṣpattimudrājñānaṁ śikṣayet |</l>
+<p>tato vajravidyādharasiddhiniṣpattimudrājñānaṁ śikṣayet |</p>
 <lg met="anuṣṭubh">
 <l n="a">candrabimbaṁ samālikhya</l> 
 <l n="b">nabhaṁ mūrdhaṁ samāruhet |</l>
@@ -2191,8 +2191,10 @@ tat kasya hetos</p>
 <div type="section" n="252"><pb n="1_145_252" edRef="#edho"/>
 <p>atha vajrasattvasādhanamahāmudrābandho bhavati ||</p>
 <lg met="anuṣṭubh">
-<l>sagarvaṁ vajram ullālya vajragarvāṁ samudvahan |</l>
-<l>kāyavākcittavajrais tu vajrasattvaḥ svayaṁ bhavet ||</l>
+<l n="a">sagarvaṁ vajram ullālya</l> 
+<l n="b">vajragarvāṁ samudvahan |</l>
+<l n="c">kāyavākcittavajrais tu</l> 
+<l n="d">vajrasattvaḥ svayaṁ bhavet ||</l>
 </lg>
 <lg met="anuṣṭubh">
 <l n="a">anayā sarvagāmī tu</l> 
@@ -2223,7 +2225,7 @@ tat kasya hetos</p>
 </lg>
 <p>tatrāyaṁ mahāmudrāsādhanavidhivastaro bhavati ||</p>
 <lg met="anuṣṭubh">
-<l n="a">vajrāveśaṁ samutpādya</l>m
+<l n="a">vajrāveśaṁ samutpādyam</l>
 <l n="b">ahāmudrāṁ yathāvidhi |</l>
 <l n="c">baddhvā tu puratas taṁ tu</l> 
 <l n="d">mahāsattvaṁ prabhāvayet ||</l>
@@ -2727,7 +2729,7 @@ tat kasya hetos</p>
 <l n="b">dakṣiṇena samutthitā |</l>
 <l n="c">bodhāgrī nāma mudreyaṁ</l> 
 <l n="d">buddhabodhipradāyikā ||</l>
-</lg>]
+</lg>
 </div>
 
 <div type="section" n="286"><pb n="1_185_286" edRef="#edho"/>
@@ -2851,7 +2853,7 @@ tat kasya hetos</p>
 		<l n="a">mahāvajramaṇiṁ baddhvā</l> 
 		<l n="b">śāstṛbhiḥ so 'bhiṣicyate |</l>
 		<l n="c">vajrasūryāṁ samādhāya</l> 
-		l n="d">vajrasūryasamo bhavet ||</l>
+		<l n="d">vajrasūryasamo bhavet ||</l>
 	</lg>
 	<lg met="anuṣṭubh">
 		<l n="a">vajradhvajāṁ samucchrāpya</l> 
@@ -2959,7 +2961,7 @@ tat kasya hetos</p>
 
 <div type="section" n="306"><pb n="1_203_306" edRef="#edho"/>
 	<p>atha vidyādharasiddhim icched anena hṛdayena |</p>
-	<p>vajravidyādhara ||</>
+	<p>vajravidyādhara ||</p>
 	<p>anena yathābhirucitavidyādharasiddhiḥ |</p>
 	<p>athottamasiddhim icchet svamudrāhṛdayeneti |</p>
 	<p>siddhividhivistaraḥ ||</p>
@@ -5754,7 +5756,7 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 
 <div type="section" n="1168"><pb n="1_479_1168" edRef="#edho"/><lg><l>sarvatathāgatavajrasamayān mahākalparājād vajrakulakarmamaṇḍalavidhivistaraḥ samāptaḥ ||</l></lg></div>
 
-<div type="section" n="1169"><pb n="1_480_1169" edRef="#edho"/><p>mahākalpavidhivistara</unclear><note>=mahāvajrakalpavidhivistara?</note></ab></div>
+<div type="section" n="1169"><pb n="1_480_1169" edRef="#edho"/><p>mahākalpavidhivistara<note>=mahāvajrakalpavidhivistara?</note></p></div>
 
 <div type="section" n="1170"><pb n="1_480_1170" edRef="#edho"/><lg><l>atha bhagavān punar api sarvatathāgatavajrasamayamudrādhiṣṭhānaṁ nāma samādhiṁ samāpadyemāṁ svavidyottamām abhāṣat ||</l>
 <l>oṁ sarvatathāgatavajrasamaye hūṁ ||</l></lg></div>
