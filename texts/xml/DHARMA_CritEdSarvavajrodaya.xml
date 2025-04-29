@@ -5,7 +5,9 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="sarvavajrodaya">  <!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
   <teiHeader>
     <fileDesc>
-      
+      <titleStmt>
+        <title>Sarvavajrodayā Maṇḍalopāyikā: digital edition</title>
+      </titleStmt>
       <publicationStmt>
         <authority>DHARMA</authority>
         <pubPlace>Lyon, Tokyo, Jakarta</pubPlace>
@@ -174,9 +176,9 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
       <change who="part:axja" when="2024-03">Form tex to tei</change>
     </revisionDesc>
   </teiHeader>
-  <text xml:space="preserve" xml:lang="san-Latn">    <!-- update the language code -->
+  <text xml:space="preserve"> 
     <body>
-      <div type="edition">
+      <div type="edition" xml:lang="san-Latn">
       <div type="chapter" n="1">
         <head type="editorial">Maṅgala</head>
       </div>
