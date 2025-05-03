@@ -1,30 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_DiplEDSchema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_DiplEDSchema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Sarvavajrodayā Maṇḍalopāyikā</title>
-                <title type="sub">Digital Diplomatic Edition of the Nepalese <foreign>codex unicus</foreign></title>
-                <editor ref="part:ryta">
+            	<title>Sarvavajrodayā Maṇḍalopāyikā: Digital Diplomatic Edition of the Nepalese codex unicus</title>
+            	<respStmt>
+            		<resp>Author of the digital edition</resp>
+                <persName ref="part:ryta">
 					<forename>Ryugen</forename>
 					<surname>Tanemura</surname>
-				</editor>
-                <editor ref="part:argr">
+				</persName>
+                <persName ref="part:argr">
 					<forename>Arlo</forename>
 					<surname>Griffiths</surname>
-				</editor>
-                <respStmt>
-                    <resp>creation of the file</resp>
-                    <!-- work done in the file, e.g. editor, intellectual authorship of edition ...-->
-                    <persName ref="part:argr"><!-- update the id -->
-                        <forename>Arlo</forename><!-- fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
-                        <surname>Griffiths</surname>
-                    </persName>
-                </respStmt>
-            </titleStmt>
+				</persName>
+            	</respStmt>
+                            </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Tokyo, Lyon, Jakarta</pubPlace>
@@ -56,6 +50,7 @@
                                 <objectDesc>
                                     <p>Palm-leaf manuscript. ... leaves in Bhujimol script. Apparently written in the 14th century CE.</p>
                                 </objectDesc>
+                            	<handDesc><p/></handDesc>
                             </physDesc>
                             <history>
                                 <!-- Here you can decribe the history of the manuscript in prose. Use <origDate> and <origPlace> to emphasize the place and date of creation -->
@@ -86,34 +81,19 @@
                 <!-- To be kept only to explain in prose the method to choose the corpus, e.g. ommission of the material ...-->
                 <p/>
             </samplingDecl>
-            <!--schemaRef  will need to be added once a  official realase is done -->
-            <!-- variantEncoding is a  mandatory element. You have to select one of the two solutions given in DHARMA depending how you chave chosen to encode your apparatus. If inline, select @method="parallel-segmentation" as per section §5 of EGC, but if you are encoding your apparatus after any section, mostly being stanza, use  @method="location-referenced". 
-				
-			<variantEncoding method="parallel-segmentation" location="internal"/>
-			<variantEncoding method="location-referenced" location="internal"/>.
-			
-			Note that the current by default behaviour is set on parallel-segmentation -->
-            <variantEncoding method="parallel-segmentation" location="internal"/>
         </encodingDesc>
         <profileDesc>
             <langUsage>
                 <language ident="san-Latn">Sanskrit, romanized</language>
             </langUsage>
-            <textClass>
-                <keywords>
-                    <!-- In due course we will can use this element to declare keywords as <term>s, but at the moment please ignore <keywords>  -->
-                    <term/>
-                    <!-- Ignore this element for the time being. -->
-                </keywords>
-            </textClass>
         </profileDesc>
         <revisionDesc>
             <change who="part:argr" when="2024-04-29" status="draft">started casting diplomatic edition into TEI form</change>
         </revisionDesc>
     </teiHeader>
-    <text xml:space="preserve" xml:lang="san-Latn">
+    <text xml:space="preserve" >
       <body>
-         <div>
+         <div type="edition" xml:lang="san-Latn">
             <!-- 
             %%% Vajradhātumahāmaṇḍalopāyikā-sarvavajrodaya
             %%% edited by Mikkyo Seiten Kenkyukai
@@ -3986,10 +3966,16 @@ maṁgali 7 sarā 2  <space type="binding-hole"/> ripu 8 vyāyā 9 muni 7 param�
 
 
 -->
-
-
-           </ab>
-         </div>
+            </ab>
+            </div>
+            	<div type="translation"><p/></div>
+		<div type="commentary"><p/></div>
+            	<div type="bibliography">
+            		<p/>
+            		<listBibl>
+            			<bibl/>
+            		</listBibl>
+            	</div>
       </body>
   </text>
 </TEI>
