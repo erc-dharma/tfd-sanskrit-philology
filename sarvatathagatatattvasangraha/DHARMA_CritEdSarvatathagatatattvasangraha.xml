@@ -3032,7 +3032,7 @@ samanantarasamāpanne cātha tāvad eva sarvatathāgatahṛdayebhyaḥ sa eva bh
 
 <div type="section" n="324"><pb n="1_219_324" edRef="#edho"/>
 	<p>atha khalv akṣobhyas tathāgataḥ sarvatathāgatavajrasattvasamayajñānamudrāmaṇḍalādhiṣṭhānaṁ nāma samādhiṁ samāpadyemāṁ svavidyottamām abhāṣat ||</p>
-<ab type="mantra">oṁ vajravajriṇi hūṁ ||</ab>
+	<ab type="mantra">oṁ vajravajriṇi hūṁ ||</ab>
 </div>
 
 <div type="section" n="325"><pb n="1_219_325" edRef="#edho"/>
@@ -3091,10 +3091,12 @@ samanantarasamāpanne cātha tāvad eva sarvatathāgatahṛdayebhyaḥ sa eva bh
 	<ab type="mantra">oṁ vajraguhyajāpasamaye hūṁ ||</ab>
 </div>
 
-<div type="section" n="334"><pb n="1_221_334" edRef="#edho"/><lg><l>vajrāmbujā |</l>
-<l>ādhāraṇī |</l>
-<l>sarvacakrā |</l>
-<l>sahasrāvartā ca |</l></lg></div>
+<div type="section" n="334"><pb n="1_221_334" edRef="#edho"/>
+	<p>vajrāmbujā |</p>
+	<p>ādhāraṇī |</p>
+	<p>sarvacakrā |</p>
+	<p>sahasrāvartā ca |</p>
+</div>
 
 <div type="section" n="335"><pb n="1_221_335" edRef="#edho"/>
 	<ab type="mantra">oṁ vajraguhyakarmasamaye hūṁ ||</ab>
@@ -3103,13 +3105,17 @@ samanantarasamāpanne cātha tāvad eva sarvatathāgatahṛdayebhyaḥ sa eva bh
 	<ab type="mantra">oṁ vajraguhyamuṣṭi hūṁ ||</ab>
 </div>
 
-<div type="section" n="336"><pb n="1_221_336" edRef="#edho"/><lg><l>siddhottarā |</l>
-<l>sarvarakṣā |</l>
-<l>ojaḥpratyāhāriṇī |</l>
-<l>dhāraṇīmudrā ca |</l>
-<l>sarvadhāraṇya iti ||</l></lg></div>
+<div type="section" n="336"><pb n="1_221_336" edRef="#edho"/>
+	<p>siddhottarā |</p>
+	<p>sarvarakṣā |</p>
+	<p>ojaḥpratyāhāriṇī |</p>
+	<p>dhāraṇīmudrā ca |</p>
+	<p>sarvadhāraṇya iti ||</p>
+</div>
 
-<div type="section" n="337"><pb n="1_223_337" edRef="#edho"/><lg><l>atha vajrapāṇir mahābodhisattvaḥ punar api sarvatathāgatavajraguhyasamayamudrācatuṣṭayam abhāṣat ||</l></lg></div>
+<div type="section" n="337"><pb n="1_223_337" edRef="#edho"/>
+	<p>atha vajrapāṇir mahābodhisattvaḥ punar api sarvatathāgatavajraguhyasamayamudrācatuṣṭayam abhāṣat ||</p>
+</div>
 
 <div type="section" n="338"><pb n="1_223_338" edRef="#edho"/>
 	<ab type="mantra">oṁ guhyasattvavajri hūṁ ||</ab>
@@ -3154,47 +3160,115 @@ samanantarasamāpanne cātha tāvad eva sarvatathāgatahṛdayebhyaḥ sa eva bh
 	</lg>
 </div>
 
-<div type="section" n="346"><pb n="1_226_346" edRef="#edho"/><lg><l>mahāmaṇḍalayogena sarvamaṇḍalam ālikhet |</l>
-<l>sarvamaṇḍalamadhyeṣu buddhamudrā samālikhet ||</l></lg></div>
+<div type="section" n="346"><pb n="1_226_346" edRef="#edho"/>
+	<lg met="anuṣṭubh">
+		<l n="a">mahāmaṇḍalayogena</l> 
+		<l n="b">sarvamaṇḍalam ālikhet |</l>
+		<l n="c">sarvamaṇḍalamadhyeṣu</l> 
+		<l n="d">buddhamudrā samālikhet ||</l>
+	</lg>
+</div>
 
-<div type="section" n="347"><pb n="1_226_347" edRef="#edho"/><lg><l>paryaṅkasusthitaṁ caityaṁ vajradhātvīśvarī smṛtā |</l>
-<l>paryaṅke vajravajraṁ tu vajracitteti kīrtitā ||</l></lg></div>
+<div type="section" n="347"><pb n="1_226_347" edRef="#edho"/>
+	<lg met="anuṣṭubh">
+		<l n="a">paryaṅkasusthitaṁ caityaṁ</l> 
+		<l n="b">vajradhātvīśvarī smṛtā |</l>
+		<l n="c">paryaṅke vajravajraṁ tu</l> 
+		<l n="d">vajracitteti kīrtitā ||</l>
+	</lg>
+</div>
 
-<div type="section" n="348"><pb n="1_226_348" edRef="#edho"/><lg><l>vajraratnaṁ tu paryaṅke svabhiṣeketi kīrtitā |</l>
-<l>paryaṅke vajrapadmaṁ tu āyudheti prakīrtitā ||</l></lg></div>
+<div type="section" n="348"><pb n="1_226_348" edRef="#edho"/>
+	<lg met="anuṣṭubh">
+		<l n="a">vajraratnaṁ tu paryaṅke</l> 
+		<l n="b">svabhiṣeketi kīrtitā |</l>
+		<l n="c">paryaṅke vajrapadmaṁ tu</l> 
+		<l n="d">āyudheti prakīrtitā ||</l>
+	</lg>
+</div>
 
-<div type="section" n="349"><pb n="1_226_349" edRef="#edho"/><lg><l>karmavajraṁ tu paryaṅke sarvavajreti kirtitā |</l>
-<l>padmapratiṣṭhāḥ saṁlekhyāḥ prabhāmaṇḍalasaṁsthitāḥ ||</l></lg></div>
+<div type="section" n="349"><pb n="1_226_349" edRef="#edho"/>
+	<lg met="anuṣṭubh">
+		<l n="a">karmavajraṁ tu paryaṅke</l> 
+		<l n="b">sarvavajreti kirtitā |</l>
+		<l n="c">padmapratiṣṭhāḥ saṁlekhyāḥ</l> 
+		<l n="d">prabhāmaṇḍalasaṁsthitāḥ ||</l>
+	</lg>
+</div>
 
-<div type="section" n="350"><pb n="1_226_350" edRef="#edho"/><lg><l>paryaṅketu likhed vajram utthitaṁ dvyaṅkuśaṁ tathā |</l>
-<l>vajraṁ vajrapariṣvaktaṁ sādhukāradvayaṁ tathā ||</l></lg></div>
+<div type="section" n="350"><pb n="1_226_350" edRef="#edho"/>
+	<lg met="anuṣṭubh">
+		<l n="a">paryaṅketu likhed vajram</l> 
+		<l n="b">utthitaṁ dvyaṅkuśaṁ tathā |</l>
+		<l n="c">vajraṁ vajrapariṣvaktaṁ</l> 
+		<l n="d">sādhukāradvayaṁ tathā ||</l>
+	</lg>
+</div>
 
-<div type="section" n="351"><pb n="1_226_351" edRef="#edho"/><lg><l>ratnaṁ karojjvalaṁ kuryāt sūryamudrāṁ tathaiva ca |</l>
-<l>dhvajāgraṁ caiva sajvālaṁ dantapaṅktir dvivajrage ||</l></lg></div>
+<div type="section" n="351"><pb n="1_226_351" edRef="#edho"/>
+	<lg met="anuṣṭubh">
+		<l n="a">ratnaṁ karojjvalaṁ kuryāt</l> 
+		<l n="b">sūryamudrāṁ tathaiva ca |</l>
+		<l n="c">dhvajāgraṁ caiva sajvālaṁ</l> 
+		<l n="d">dantapaṅktir dvivajrage ||</l>
+	</lg>
+</div>
 
-<div type="section" n="352"><pb n="1_226_352" edRef="#edho"/><lg><l>vajramadhye likhet padmaṁ khaḍgaṁ sajvālam eva ca |</l>
-<l>vajrāraṁ vajracakraṁ tu jihvāṁ raśmikarojjvalām ||</l></lg></div>
+<div type="section" n="352"><pb n="1_226_352" edRef="#edho"/>
+	<lg met="anuṣṭubh">
+		<l n="a">vajramadhye likhet padmaṁ</l> 
+		<l n="b">khaḍgaṁ sajvālam eva ca |</l>
+		<l n="c">vajrāraṁ vajracakraṁ tu</l> 
+		<l n="d">jihvāṁ raśmikarojjvalām ||</l>
+	</lg>
+</div>
 
-<div type="section" n="353"><pb n="1_226_353" edRef="#edho"/><lg><l>vajraṁ tu sarvato vaktraṁ kavacaṁ vajrasaṁyutam |</l>
-<l>vajradaṁṣṭre tathā likhye muṣṭimudrā karadvaye ||</l></lg></div>
+<div type="section" n="353"><pb n="1_226_353" edRef="#edho"/>
+	<lg met="anuṣṭubh">
+		<l n="a">vajraṁ tu sarvato vaktraṁ</l> 
+		<l n="b">kavacaṁ vajrasaṁyutam |</l>
+		<l n="c">vajradaṁṣṭre tathā likhye</l> 
+		<l n="d">muṣṭimudrā karadvaye ||</l>
+	</lg>
+</div>
 
-<div type="section" n="354"><pb n="1_227_354" edRef="#edho"/><lg><l>sattvavajrādayo lekhyā yathāvad dhātumaṇḍale |</l>
-<l>cihnamudrāḥ samālekhyā vajralāsyādimaṇḍale ||</l></lg></div>
+<div type="section" n="354"><pb n="1_227_354" edRef="#edho"/>
+	<lg met="anuṣṭubh">
+		<l n="a">sattvavajrādayo lekhyā</l> 
+		<l n="b">yathāvad dhātumaṇḍale |</l>
+		<l n="c">cihnamudrāḥ samālekhyā</l> 
+		<l n="d">vajralāsyādimaṇḍale ||</l>
+	</lg>
+</div>
 
-<div type="section" n="355"><pb n="1_227_355" edRef="#edho"/><lg><l>bāhyataś ca yathānyāyaṁ svacihnaṁ tu samālikhet |</l>
-<l>maitreyādisvacihnāni yathābhirucitaṁ likhed iti ||</l></lg></div>
+<div type="section" n="355"><pb n="1_227_355" edRef="#edho"/>
+	<lg met="anuṣṭubh">
+		<l n="a">bāhyataś ca yathānyāyaṁ</l> 
+		<l n="b">svacihnaṁ tu samālikhet |</l>
+		<l n="c">maitreyādisvacihnāni</l> 
+		<l n="d">yathābhirucitaṁ likhed iti ||</l>
+	</lg>
+</div>
 
-<div type="section" n="356"><pb n="1_229_356" edRef="#edho"/><lg><l>athātra vajraguhyamaṇḍale praveśādividhivistaro bhavati ||</l>
-<l>tatra prathamaṁ tāvad vajrācāryaḥ svayaṁ sattvavajrimudrāṁ baddhvā praviśet. praviśya, skṛt pradakṣiṇīkṛtya, tāṁ mudrāṁ bhagavate vajrapāṇaye niryātya,</l></lg></div>
+<div type="section" n="356"><pb n="1_229_356" edRef="#edho"/>
+	<p>athātra vajraguhyamaṇḍale praveśādividhivistaro bhavati ||</p>
+	<p>tatra prathamaṁ tāvad vajrācāryaḥ svayaṁ sattvavajrimudrāṁ baddhvā praviśet. praviśya, skṛt pradakṣiṇīkṛtya, tāṁ mudrāṁ bhagavate vajrapāṇaye niryātya,</p>
+</div>
 
-<div type="section" n="357"><pb n="1_230_357" edRef="#edho"/><lg><l>svahṛdaye yathāvan muktvā, caturṣu dvāreṣu vajrāṅkuśakarmamudrādibhir yathāvat karmāṇi kṛtvā niṣkramed.</l>
-<l>abhiniṣkramya śiṣyān praveśayet vajradhātumahāmaṇḍalayogeneti ||</l></lg></div>
+<div type="section" n="357"><pb n="1_230_357" edRef="#edho"/>
+	<p>svahṛdaye yathāvan muktvā, caturṣu dvāreṣu vajrāṅkuśakarmamudrādibhir yathāvat karmāṇi kṛtvā niṣkramed.</p>
+	<p>abhiniṣkramya śiṣyān praveśayet vajradhātumahāmaṇḍalayogeneti ||</p>
+</div>
 
 <div type="section" n="358"><pb n="1_230_358" edRef="#edho"/>
 	<p>tataḥ praveṣya muṣṭyācchādya siddhiguhyavajracihnaṁ dattvā, vajraguhyamudrājñānaṁ ṣikṣayet|</p>
 </div>
 
-<div type="section" n="359"><pb n="1_231_359" edRef="#edho"/><lg><l>tatra prathamaṁ tāvad vajraguhyakāyamudrājñānaṁ śikṣayet ||</l></lg></div>
+<div type="section" n="359"><pb n="1_231_359" edRef="#edho"/>
+	<p>tatra prathamaṁ tāvad vajraguhyakāyamudrājñānaṁ śikṣayet ||</p>
+</div>
+
+<!-- RT reached here 2025-05-06 12:12 JST -->
 
 <div type="section" n="360"><pb n="1_231_360" edRef="#edho"/><lg><l>candramaṇḍalamadhye tu hastapādāñjalir mukham |</l>
 <l>vijṛmbhan bhāvayed vajraṁ vajriṇīm api rāgayet ||</l></lg></div>
@@ -8437,15 +8511,19 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 
 <!-- RT finished marking up mantras upto here 2025-05-04 15:41 JST -->
 
-<div type="section" n="1800"><pb n="?_?_1800" edRef="#edho"/><lg><ab type="mantra"> oṁ vajraratnamukuṭi hūṁ ||</ab>
+<div type="section" n="1800"><pb n="?_?_1800" edRef="#edho"/>
+	<ab type="mantra"> oṁ vajraratnamukuṭi hūṁ ||</ab>
+	<p>atha vajranetro bodhisattva imāṁ svamudrām abhāṣat ||:</p>
+</div>
 
-<l>atha vajranetro bodhisattva imāṁ svamudrām abhāṣat ||:</l></lg></div>
+<div type="section" n="1801"><pb n="?_?_1801" edRef="#edho"/>
+	<ab type="mantra">oṁ dharmapadma dhī <note>or dhe?</note> ||</ab>
+	<p>atha vajraviśvo bodhisattva imāṁ svamudrām abhāṣat ||:</p>
+</div>
 
-<div type="section" n="1801"><pb n="?_?_1801" edRef="#edho"/><lg><l>	oṁ dharmapadma dhī <note>or dhe?</note> ||</l>
-
-<l>atha vajraviśvo bodhisattva imāṁ svamudrām abhāṣat ||:</l></lg></div>
-
-<div type="section" n="1802"><pb n="?_?_1802" edRef="#edho"/><lg><ab type="mantra"> oṁ sarvamukhi hūṁ ||</ab></lg></div>
+<div type="section" n="1802"><pb n="?_?_1802" edRef="#edho"/>
+	<ab type="mantra"> oṁ sarvamukhi hūṁ ||</ab>
+</div>
 
 <div type="section" n="1803"><pb n="?_?_1803" edRef="#edho"/><lg><l>athāryāvalokteśvaro bodhisattvo mahāsattva idaṁ caturmudrāmaṇḍalam abhāṣat ||:</l> 
 
@@ -8475,32 +8553,36 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 <l>	caturmukhaṁ tu vai padmaṁ kārayitvā kareṇa tu |</l>
 <l>	saṁgṛhyāveśanādīni bhrāmayan prakaroti saḥ ||</l></lg></div>
 
-<div type="section" n="1811"><pb n="?_?_1811" edRef="#edho"/><lg><l>athāiṣāṁ hṛdayāni bhavanti ||:</l> 
+<div type="section" n="1811"><pb n="?_?_1811" edRef="#edho"/>
+	<p>athāiṣāṁ hṛdayāni bhavanti ||:</p> 
+	<ab type="mantra"> oṁ gandhapūjāgrya sādhaya hrīḥ ||</ab>
+	<ab type="mantra"> oṁ padmamukuṭatathāgata vaśīkuru sarvān lokeśvarābhiṣekasamaya hoḥ ||</ab>
+	<ab type="mantra">	oṁ padmapadma māraya sarvapratyarthikān, samādhijñāna dhik ||</ab>
+	<ab type="mantra"> oṁ viśvapadma sarvakarmakaro bhava lalilvali lali hūṁ phaṭ ||</ab>
 
-<ab type="mantra"> oṁ gandhapūjāgrya sādhaya hrīḥ ||</ab>
-<ab type="mantra"> oṁ padmamukuṭatathāgata vaśīkuru sarvān lokeśvarābhiṣekasamaya hoḥ ||</ab>
+	<p>tato mudrārahasyajñānaṁ śikṣayet ||:</p>
+	<lg>
+		<l>	raktaḥ san sarvakāryāṇi sādhayet samayo hy ayam |</l>
+		<l>	duḥsādhyā 'pi hi mudrā vai kṣaṇāt sidhyati yogata iti ||</l>
+	</lg>
+	<p>tatrāsya samayo bhavati ||:</p>
+</div>
 
-<l>	oṁ padmapadma māraya sarvapratyarthikān, samādhijñāna dhik ||</l>
-<ab type="mantra"> oṁ viśvapadma sarvakarmakaro bhava lalilvali lali hūṁ phaṭ ||</ab>
-
-<l>tato mudrārahasyajñānaṁ śikṣayet ||:</l>
-
-<l>	raktaḥ san sarvakāryāṇi sādhayet samayo hy ayam |</l>
-<l>	duḥsādhyā 'pi hi mudrā vai kṣaṇāt sidhyati yogata iti ||</l>
-
-<l>tatrāsya samayo bhavati ||:</l></lg></div>
-
-<div type="section" n="1815"><pb n="?_?_1815" edRef="#edho"/><lg><ab type="mantra"> oṁ sādhaya padmarāgasamaya aḥ ||</ab></lg></div>
+<div type="section" n="1815"><pb n="?_?_1815" edRef="#edho"/>
+	<ab type="mantra"> oṁ sādhaya padmarāgasamaya aḥ ||</ab>
+</div>
 
 <div type="section" n="1816"><pb n="?_?_1816" edRef="#edho"/><lg><l>tato mahāmudrādisarvamudrābandhaṁ śikṣayet ||:</l></lg></div>
 
-<div type="section" n="1817"><pb n="?_?_1817" edRef="#edho"/><lg><l><supplied reason="undefined">caturmudrāmaṇḍalavidhivistaraḥ samāptaḥ (Tib.)</supplied></l>
+<div type="section" n="1817"><pb n="?_?_1817" edRef="#edho"/>
+	<p><supplied reason="undefined">caturmudrāmaṇḍalavidhivistaraḥ samāptaḥ (Tib.)</supplied></p>
 
-<l>athāryāvalokiteśvaro mahābodhisattva idaṁ sarvajagadvinayaṁ nāma hṛdayam abhāṣat ||:</l>
+<p>athāryāvalokiteśvaro mahābodhisattva idaṁ sarvajagadvinayaṁ nāma hṛdayam abhāṣat ||:</p>
 
-	<l>oṁ sarvajagadvinayamahāsattvāgaccha, śīghraṁ</l>
-	<l>vaiśvarūpyaṁ saṁdarśaya,</l>
-<ab type="mantra">	mama ca sarvasiddhayaḥ prayaccha hrīḥ ||</ab></lg></div>
+	<ab type="mantra">oṁ sarvajagadvinayamahāsattvāgaccha, śīghraṁ</ab>
+	<ab type="mantra">vaiśvarūpyaṁ saṁdarśaya,</ab>
+	<ab type="mantra">	mama ca sarvasiddhayaḥ prayaccha hrīḥ ||</ab>
+</div>
 
 <div type="section" n="1819"><pb n="?_?_1819" edRef="#edho"/><lg><l>athāryāvalokiteśvaro mahābodhisattva idaṁ sarvajagadvinayaṁ nāma maṇḍalam abhāṣat ||:</l> 
 
@@ -8600,27 +8682,39 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 <l>athākāśagarbho bodhisattva idaṁ sarvatathāgatavacanam upaśrutya,</l>
 <l>sarvatathāgatābhiṣekasamayaṁ nāma svahṛdayam abhāṣat ||:</l></lg></div>
 
-<div type="section" n="1850"><pb n="?_?_1850" edRef="#edho"/><lg><ab type="mantra"> oṁ vajraratna hūṁ ||</ab>
+<div type="section" n="1850"><pb n="?_?_1850" edRef="#edho"/>
+	<ab type="mantra"> oṁ vajraratna hūṁ ||</ab>
 
-<l>atha bhagavān vairocanas tathāgata idaṁ sarvatathāgatamaṇisamayaṁ nāma vidyottamam abhāṣat ||:</l></lg></div>
+	<p>atha bhagavān vairocanas tathāgata idaṁ sarvatathāgatamaṇisamayaṁ nāma vidyottamam abhāṣat ||:</p>
+</div>
 
-<div type="section" n="1851"><pb n="?_?_1851" edRef="#edho"/><lg><ab type="mantra"> oṁ sarvatathāgatāśāparipūraṇamahāratna hūṁ ||</ab>
+<div type="section" n="1851"><pb n="?_?_1851" edRef="#edho"/>
+	<ab type="mantra"> oṁ sarvatathāgatāśāparipūraṇamahāratna hūṁ ||</ab>
 
-<l>atha vajrapāṇir mahābodhisattva imaṁ svakulasaṁbhavaṁ vidyottamam abhāṣat ||:</l></lg></div>
+	<p>atha vajrapāṇir mahābodhisattva imaṁ svakulasaṁbhavaṁ vidyottamam abhāṣat ||:</p>
+</div>
 
-<div type="section" n="1852"><pb n="?_?_1852" edRef="#edho"/><lg><l>	oṁ vajra hūṁ traḥ ||</l>
+<div type="section" n="1852"><pb n="?_?_1852" edRef="#edho"/>
+	<ab type="mantra">oṁ vajra hūṁ traḥ ||</ab>
 
-<l>atha vajragarbho bodhisattva imaṁ svavidyottamam abhāṣat ||:</l></lg></div>
+	<p>atha vajragarbho bodhisattva imaṁ svavidyottamam abhāṣat ||:</p>
+</div>
 
-<div type="section" n="1853"><pb n="?_?_1853" edRef="#edho"/><lg><ab type="mantra"> oṁ maṇi hūṁ ||</ab>
+<div type="section" n="1853"><pb n="?_?_1853" edRef="#edho"/>
+	<ab type="mantra"> oṁ maṇi hūṁ ||</ab>
 
-<l>atha vajranetro bodhisattva imaṁ svakulasaṁbhavaṁ vidyottamam abhāṣat ||:</l></lg></div>
+	<p>atha vajranetro bodhisattva imaṁ svakulasaṁbhavaṁ vidyottamam abhāṣat ||:</p>
+</div>
 
-<div type="section" n="1854"><pb n="?_?_1854" edRef="#edho"/><lg><ab type="mantra"> oṁ padma hrīḥ ||</ab>
+<div type="section" n="1854"><pb n="?_?_1854" edRef="#edho"/>
+	<ab type="mantra"> oṁ padma hrīḥ ||</ab>
 
-<l>atha vajraviśvo bodhisattvo mahāsattva imaṁ svavidyottamam abhāṣat ||</l></lg></div>
+	<p>atha vajraviśvo bodhisattvo mahāsattva imaṁ svavidyottamam abhāṣat ||</p>
+</div>
 
-<div type="section" n="1855"><pb n="?_?_1855" edRef="#edho"/><ab type="mantra"> oṁ viśvaratna hūṁ ||</ab></div>
+<div type="section" n="1855"><pb n="?_?_1855" edRef="#edho"/>
+	<ab type="mantra"> oṁ viśvaratna hūṁ ||</ab>
+</div>
 
 <div type="section" n="1856"><pb n="?_?_1856" edRef="#edho"/><lg><l>athāryākāśagarbho bodhisattva mahāsattvaḥ sarvatathāgatābhiṣekaratnaṁ nāma samādhiṁ samāpannaḥ ||</l></lg></div>
 
@@ -8801,9 +8895,9 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 <l>tatraiṣāṁ hṛdayāni bhavanti ||:</l>
 
 <ab type="mantra"> oṁ mahāmaṇiratnāviśa hūṁ ||</ab>
-<l>	oṁ maṇipīḍa darśaya ||</l>
-<l>	oṁ ratnasamādhi brūhi ||</l>
-<l>	oṁ ratnāveśa darśaya ||</l>
+<ab type="mantra">	oṁ maṇipīḍa darśaya ||</ab>
+<ab type="mantra">	oṁ ratnasamādhi brūhi ||</ab>
+<ab type="mantra">	oṁ ratnāveśa darśaya ||</ab>
 
 <l>	mahāmudrāṁ samādhāya yatra kāyaṁ tu veṣṭayet |</l>
 <l>	tatra ratnanidhānaṁ tu jñātavyaṁ samayāttmabhiḥ ||</l>
@@ -8998,24 +9092,26 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 <l>	ekāṅkuśyādiyogena sarvakarmaprasādhikāḥ ||</l> <l>iti</l> 
 
 <l>atha mahāmaṇikuladharmamudrājñānaṁ bhavati ||:</l>
-<l>	traḥ |</l>
-<l>	graḥ |</l>
-<l>	triḥ |</l>
-<l>	hrīḥ |</l>
-<l>	śriḥ |</l>
-<l>	iḥ |</l>
-<l>	raḥ |</l>
-<l>	haḥ |</l>
-<l>	dhrīḥ |</l>
-<l>	dhiḥ |</l>
-<l>	kṛ |</l>
-<l>	vā |</l>
-<l>	rī |</l>
-<l>	ḍhaḥ |</l>
-<l>	ya |</l>
-<l>	aḥ ||</l></lg></div>
+<ab type="mantra">	traḥ |</ab>
+<ab type="mantra">	graḥ |</ab>
+<ab type="mantra">	triḥ |</ab>
+<ab type="mantra">	hrīḥ |</ab>
+<ab type="mantra">	śriḥ |</ab>
+<ab type="mantra">	iḥ |</ab>
+<ab type="mantra">	raḥ |</ab>
+<ab type="mantra">	haḥ |</ab>
+<ab type="mantra">	dhrīḥ |</ab>
+<ab type="mantra">	dhiḥ |</ab>
+<ab type="mantra">	kṛ |</ab>
+<ab type="mantra">	vā |</ab>
+<ab type="mantra">	rī |</ab>
+<ab type="mantra">	ḍhaḥ |</ab>
+<ab type="mantra">	ya |</ab>
+<ab type="mantra">	aḥ ||</ab></lg></div>
 
-<div type="section" n="1960"><pb n="?_?_1960" edRef="#edho"/>	<ab>ratnamuṣṭiṁ dvidhīkṛtya karmamudrās tu sādhe|| iti </ab></div>
+<div type="section" n="1960"><pb n="?_?_1960" edRef="#edho"/>
+	<p>ratnamuṣṭiṁ dvidhīkṛtya karmamudrās tu sādhe|| iti </p>
+</div>
 
 <div type="section" n="1961"><pb n="?_?_1961" edRef="#edho"/><lg><l>sarvatathāgatakarmasamayān mahākalparājāt sarvārthasiddhimahāmaṇḍalavidhivistaraḥ samāptaḥ ||</l>
 
@@ -9024,23 +9120,33 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 
 <l>atha bhagavān punar api sarvatathāgatābhiṣekadhāraṇīsamayasaṁbhavaratnādhiṣṭhānaṁ nāma samādhiṁ samāpadyemāṁ svamudrām abhāṣat ||:</l></lg></div>
 
-<div type="section" n="1962"><pb n="?_?_1962" edRef="#edho"/><lg><ab type="mantra"> oṁ vajraratnastūpe hūṁ ||</ab>
+<div type="section" n="1962"><pb n="?_?_1962" edRef="#edho"/>
+	<ab type="mantra"> oṁ vajraratnastūpe hūṁ ||</ab>
 
-<l>atha vajrapāṇir mahābodhisattva imāṁ svakulasaṁbhavāṁ mudrām abhāṣat ||:</l></lg></div>
+	<p>atha vajrapāṇir mahābodhisattva imāṁ svakulasaṁbhavāṁ mudrām abhāṣat ||:</p>
+</div>
 
-<div type="section" n="1963"><pb n="?_?_1963" edRef="#edho"/><lg><ab type="mantra"> oṁ vajrābhiṣekamāle 'bhiṣiñca samaye hūṁ ||</ab>
+<div type="section" n="1963"><pb n="?_?_1963" edRef="#edho"/>
+	<ab type="mantra"> oṁ vajrābhiṣekamāle 'bhiṣiñca samaye hūṁ ||</ab>
 
-<l>atha vajragarbho bodhisattvo mahāsattva imāṁ svamudrām abhāṣat ||:</l></lg></div>
+	<p>atha vajragarbho bodhisattvo mahāsattva imāṁ svamudrām abhāṣat ||:</p>
+</div>
 
-<div type="section" n="1964"><pb n="?_?_1964" edRef="#edho"/><lg><ab type="mantra"> oṁ vajraratnābhiṣeka hūṁ ||</ab>
+<div type="section" n="1964"><pb n="?_?_1964" edRef="#edho"/>
+	<ab type="mantra"> oṁ vajraratnābhiṣeka hūṁ ||</ab>
 
-<l>atha vajranetro bodhisattvo mahāsattva imāṁ svamudrām abhāṣat ||:</l></lg></div>
+	<p>atha vajranetro bodhisattvo mahāsattva imāṁ svamudrām abhāṣat ||:</p>
+</div>
 
-<div type="section" n="1965"><pb n="?_?_1965" edRef="#edho"/><lg><l>	oṁ vajradharmābhiṣiñca māṁ ||</l>
+<div type="section" n="1965"><pb n="?_?_1965" edRef="#edho"/>
+	<ab type="mantra">oṁ vajradharmābhiṣiñca māṁ ||</ab>
 
-<l>atha vajraviśvo bodhisattvo mahāsattva imāṁ svamudrām abhāṣat ||:</l></lg></div>
+	<p>atha vajraviśvo bodhisattvo mahāsattva imāṁ svamudrām abhāṣat ||:</p>
+</div>
 
-<div type="section" n="1966"><pb n="?_?_1966" edRef="#edho"/><lg><ab type="mantra"> oṁ sarvābhiṣekapūjāsamaye hūṁ ||</ab></lg></div>
+<div type="section" n="1966"><pb n="?_?_1966" edRef="#edho"/>
+	<ab type="mantra"> oṁ sarvābhiṣekapūjāsamaye hūṁ ||</ab>
+</div>
 
 <div type="section" n="1967"><pb n="?_?_1967" edRef="#edho"/><lg><l>atha bhagavān āryākāśagarbho bodhisattvo mahāsattva idaṁ svakulasamayamudrāmaṇḍalam abhāṣat ||:</l> 
 
@@ -9055,11 +9161,11 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 
 <l>tatrāsāṁ mudrā bhavanti ||:</l>
 
-<l>	oṁ trāḥ ||</l>
-<ab type="mantra"> oṁ maṇisamaye hūṁ ||</ab>
-<ab type="mantra"> oṁ maṇiratnābhiṣekamāle hūṁ ||</ab>
-<ab type="mantra"> oṁ maṇiratnapadmi hūṁ ||</ab>
-<ab type="mantra"> oṁ maṇiratnavṛṣṭisamaye hūṁ ||</ab>
+<ab type="mantra">oṁ trāḥ ||</ab>
+<ab type="mantra">oṁ maṇisamaye hūṁ ||</ab>
+<ab type="mantra">oṁ maṇiratnābhiṣekamāle hūṁ ||</ab>
+<ab type="mantra">oṁ maṇiratnapadmi hūṁ ||</ab>
+<ab type="mantra">oṁ maṇiratnavṛṣṭisamaye hūṁ ||</ab>
 
 <l>	vajravegena niṣkramya sarvasiddhes tu maṇḍale |</l>
 <l>	vajraratnasya madhye tu mahāratnamaṇiṁ likhet ||</l>
@@ -9069,12 +9175,12 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 
 <l>tatrāsāṁ mudrā bhavanti ||:</l>
 
-<ab type="mantra"> oṁ sarvārthasiddhiprade mahāvajraratnasamayamaṇi sarvārthān me sādhaya dhāraṇi hūṁ ||</ab>
-<ab type="mantra"> oṁ maṇiratnākarṣe hūṁ ||</ab>
+<ab type="mantra">oṁ sarvārthasiddhiprade mahāvajraratnasamayamaṇi sarvārthān me sādhaya dhāraṇi hūṁ ||</ab>
+<ab type="mantra">oṁ maṇiratnākarṣe hūṁ ||</ab>
 
-<ab type="mantra"> oṁ maṇiratnasamayāṅkuśy ākarṣaya maṇikulaṁ jaḥ ||</ab>
-<ab type="mantra"> oṁ maṇirāgasamaye hūṁ ||</ab>
-<l>	oṁ maṇisādhvi <supplied reason="undefined">hūṁ</supplied> ||</l>
+<ab type="mantra">oṁ maṇiratnasamayāṅkuśy ākarṣaya maṇikulaṁ jaḥ ||</ab>
+<ab type="mantra">oṁ maṇirāgasamaye hūṁ ||</ab>
+<ab type="mantra">oṁ maṇisādhvi <supplied reason="undefined">hūṁ</supplied> ||</ab>
 
 <l>	vajravegena cākramya dvitīyamaṇḍalaṁ tathā |</l>
 <l>	tatra madhye maṇiṁ lekhyaṁ netradvikasamanvitam ||</l>
@@ -9102,11 +9208,11 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 
 <l>tatrāsāṁ mudrā bhavanti ||:</l>
 
-<ab type="mantra"> oṁ maṇisamādhipadmini hūṁ ||</ab>
-<ab type="mantra"> oṁ maṇiratnatyāgasamaye hūṁ ||</ab>
-<ab type="mantra"> oṁ maṇisamayakośe hūṁ ||</ab>
-<ab type="mantra"> oṁ maṇisamayacakre hūṁ ||</ab>
-<ab type="mantra"> oṁ maṇibhāṣāgri hūṁ ||</ab>
+<ab type="mantra">oṁ maṇisamādhipadmini hūṁ ||</ab>
+<ab type="mantra">oṁ maṇiratnatyāgasamaye hūṁ ||</ab>
+<ab type="mantra">oṁ maṇisamayakośe hūṁ ||</ab>
+<ab type="mantra">oṁ maṇisamayacakre hūṁ ||</ab>
+<ab type="mantra">oṁ maṇibhāṣāgri hūṁ ||</ab>
 
 <l>	vajravegeṇa cākramya caturthaṁ maṇḍalottamam |</l>
 <l>	tatrasthaṁ ratnavṛṣṭyā tu vajraṁ ratnasamanvitam ||</l>
@@ -9116,11 +9222,11 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 
 <l>athāsāṁ mudrā bhavanti ||:</l>
 
-<ab type="mantra"> oṁ ratnavṛṣṭi sādhaya mahāmaṇi hūṁ ||</ab>
-<ab type="mantra"> oṁ mahāpūjāsamaye nṛtya nṛtya aḥ ||</ab>
-<l>	oṁ maṇiratnasamayarakṣe ||</l>
-<ab type="mantra"> oṁ vajramaṇiratnadaṁṣṭrākarāle hara hara hūṁ ||</ab>
-<l>	oṁ maṇisamayamuṣṭi ||</l>
+<ab type="mantra">oṁ ratnavṛṣṭi sādhaya mahāmaṇi hūṁ ||</ab>
+<ab type="mantra">oṁ mahāpūjāsamaye nṛtya nṛtya aḥ ||</ab>
+<ab type="mantra">oṁ maṇiratnasamayarakṣe ||</ab>
+<ab type="mantra">oṁ vajramaṇiratnadaṁṣṭrākarāle hara hara hūṁ ||</ab>
+<ab type="mantra">oṁ maṇisamayamuṣṭi ||</ab>
 
 <l>athātra maṇiguhyamaṇḍale yathāvat karma kṛtvā,</l>
 <l>śiṣyān praveśya brūyāt ||:</l>
@@ -9166,9 +9272,9 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 <l>athāsāṁ hṛdayāni bhavanti ||:</l>
 
 <ab type="mantra"> oṁ vajraratnahṛdayābhiṣiñca hoḥ ||</ab>
-<l>	oṁ vajraratnābhiṣeka traḥ ||</l>
+<ab type="mantra">	oṁ vajraratnābhiṣeka traḥ ||</ab>
 <ab type="mantra"> oṁ vajraratnajñānābhiṣeka vaṁ ||</ab>
-<l>	oṁ vajraratnoṣṇīṣādhitiṣṭhasva mām ||</l>
+<ab type="mantra">	oṁ vajraratnoṣṇīṣādhitiṣṭhasva mām ||</ab>
 
 <l>	paṭādiṣu samālikhya vajraratnaṁ svam ātmanā |</l>
 <l>	bhāvayaṁs tu mahāmudrāṁ mahārājā bhavet sa tu ||</l>
@@ -9203,10 +9309,10 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 
 <l>tatraiṣāṁ hṛdayāni bhavanti ||:</l>
 
-<ab type="mantra"> oṁ vajraratnahṛdayābharaṇa hūṁ ||</ab>
-<l>	oṁ vajraratnābhiṣekamahārthaprada ||</l>
-<l>	oṁ vajraratnavācaspate ||</l>
-<l>	oṁ vajraratnamahākarmapate ||</l>
+<ab type="mantra">oṁ vajraratnahṛdayābharaṇa hūṁ ||</ab>
+<ab type="mantra">oṁ vajraratnābhiṣekamahārthaprada ||</ab>
+<ab type="mantra">oṁ vajraratnavācaspate ||</ab>
+<ab type="mantra">oṁ vajraratnamahākarmapate ||</ab>
 
 <l>tato maṇikulasamayamudrārahasyajñānaṁ śikṣayet ||:</l>
 
@@ -9319,23 +9425,33 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 
 <l>atha bhagavān punar api sarvatathāgatābhiṣekajñānasamayasaṁbhavādhiṣṭhanaṁ nāma samādhiṁ samāpadyemaṁ svavidyottamam abhāṣat ||:</l></lg></div>
 
-<div type="section" n="2038"><pb n="?_?_2038" edRef="#edho"/><lg><ab type="mantra"> oṁ sarvatathāgatābhiṣekajñānottama hūṁ ||</ab>
+<div type="section" n="2038"><pb n="?_?_2038" edRef="#edho"/>
+	<ab type="mantra"> oṁ sarvatathāgatābhiṣekajñānottama hūṁ ||</ab>
 
-<l>atha vajrapāṇir mahābodhisattva imaṁ svavidyottamam abhāṣat ||:</l></lg></div>
+	<p>atha vajrapāṇir mahābodhisattva imaṁ svavidyottamam abhāṣat ||:</p>
+</div>
 
-<div type="section" n="2039"><pb n="?_?_2039" edRef="#edho"/><lg><ab type="mantra"> oṁ vajrajñānābhiṣekasamaya hūṁ ||</ab>
+<div type="section" n="2039"><pb n="?_?_2039" edRef="#edho"/>
+	<ab type="mantra"> oṁ vajrajñānābhiṣekasamaya hūṁ ||</ab>
 
-<l>atha vajragarbho bodhisattvo mahāsattva imaṁ svavidyottamam abhāṣat ||:</l></lg></div>
+	<p>atha vajragarbho bodhisattvo mahāsattva imaṁ svavidyottamam abhāṣat ||:</p>
+</div>
 
-<div type="section" n="2040"><pb n="?_?_2040" edRef="#edho"/><lg><ab type="mantra"> oṁ maṇiratnābhiṣekajñāna hūṁ ||</ab>
+<div type="section" n="2040"><pb n="?_?_2040" edRef="#edho"/>
+	<ab type="mantra"> oṁ maṇiratnābhiṣekajñāna hūṁ ||</ab>
 
-<l>atha vajranetro bodhisattvo mahāsattva imaṁ svavidyottamam abhāṣat ||:</l></lg></div>
+	<p>atha vajranetro bodhisattvo mahāsattva imaṁ svavidyottamam abhāṣat ||:</p>
+</div>
 
-<div type="section" n="2041"><pb n="?_?_2041" edRef="#edho"/><lg><ab type="mantra"> oṁ dharmābhiṣekajñāna hūṁ ||</ab>
+<div type="section" n="2041"><pb n="?_?_2041" edRef="#edho"/>
+	<ab type="mantra"> oṁ dharmābhiṣekajñāna hūṁ ||</ab>
 
-<l>atha vajraviśvo bodhisattvo mahāsattva imaṁ svavidyottamam abhāṣat ||:</l></lg></div>
+	<p>atha vajraviśvo bodhisattvo mahāsattva imaṁ svavidyottamam abhāṣat ||:</p>
+</div>
 
-<div type="section" n="2042"><pb n="?_?_2042" edRef="#edho"/><ab type="mantra"> oṁ sarvābhiṣekajñāna hūṁ ||</ab></div>
+<div type="section" n="2042"><pb n="?_?_2042" edRef="#edho"/>
+	<ab type="mantra"> oṁ sarvābhiṣekajñāna hūṁ ||</ab>
+</div>
 
 <div type="section" n="2043"><pb n="?_?_2043" edRef="#edho"/><lg><l>athākāśagarbho bodhisattvo mahāsattva idaṁ svakulajñānamaṇḍalam abhāṣat ||:</l> 
 
@@ -9349,27 +9465,27 @@ trilokavijayamahāmaṇḍalavidhivistaraḥ</ab></div>
 
 <ab type="mantra"> oṁ sarvārthasiddhijñāna hūṁ ||</ab>
 <ab type="mantra">	oṁ maṇijñāna hūṁ ||</ab>
-<l>	oṁ maṇijñānaṅkuśa ||</l>
-<l>	oṁ maṇijñānarāga ||</l>
-<l>	oṁ maṇijñānatuṣṭi ||</l>
+<ab type="mantra">	oṁ maṇijñānaṅkuśa ||</ab>
+<ab type="mantra">	oṁ maṇijñānarāga ||</ab>
+<ab type="mantra">	oṁ maṇijñānatuṣṭi ||</ab>
 
 <ab type="mantra"> oṁ maṇijñānadṛṣṭi hūṁ ||</ab>
-<l>	oṁ maṇijñānābhiṣeka ||</l>
-<l>	oṁ maṇijñānasūrya ||</l>
-<l>	oṁ maṇijñānadhvaja ||</l>
-<l>	oṁ maṇijñānāṭṭahāsa ||</l>
+<ab type="mantra">	oṁ maṇijñānābhiṣeka ||</ab>
+<ab type="mantra">	oṁ maṇijñānasūrya ||</ab>
+<ab type="mantra">	oṁ maṇijñānadhvaja ||</ab>
+<ab type="mantra">	oṁ maṇijñānāṭṭahāsa ||</ab>
 
 <ab type="mantra"> oṁ maṇijñānapadma hūṁ ||</ab>
-<l>	oṁ jñānamaṇityāga ||</l>
-<l>	oṁ jñānamaṇikośa ||</l>
-<l>	oṁ jñānamaṇicakra ||</l>
-<l>	oṁ jñānamaṇibhāṣa ||</l>
+<ab type="mantra">	oṁ jñānamaṇityāga ||</ab>
+<ab type="mantra">	oṁ jñānamaṇikośa ||</ab>
+<ab type="mantra">	oṁ jñānamaṇicakra ||</ab>
+<ab type="mantra">	oṁ jñānamaṇibhāṣa ||</ab>
 
-<l>	oṁ jñānamaṇiratnavarṣa ||</l>
-<l>	oṁ maṇijñānanṛtyapūjāsamaya ||</l>
-<l>	oṁ maṇijñānarakṣa ||</l>
-<l>	oṁ maṇijñānayakṣa ||</l>
-<l>	oṁ maṇijñānamuṣṭi<note>or -muṣṭe?</note> ||</l>
+<ab type="mantra">	oṁ jñānamaṇiratnavarṣa ||</ab>
+<ab type="mantra">	oṁ maṇijñānanṛtyapūjāsamaya ||</ab>
+<ab type="mantra">	oṁ maṇijñānarakṣa ||</ab>
+<ab type="mantra">	oṁ maṇijñānayakṣa ||</ab>
+<ab type="mantra">	oṁ maṇijñānamuṣṭi<note>or -muṣṭe?</note> ||</ab>
 <l>
 athātra maṇḍale yathāvad vidhivistaraṁ kṛtvā,</l>
 <l>śiṣyān evaṁ brūyāt |:</l>
@@ -9512,18 +9628,22 @@ athātra maṇḍale yathāvad vidhivistaraṁ kṛtvā,</l>
 
 <l>atha bhagavān punar api sarvatathāgatābhiṣekakarmasamayasaṁbhavādhiṣṭhānaṁ nāma samādhiṁ samāpadyemāṁ svavidyottamām abhāṣat ||:</l></lg></div>
 
-<div type="section" n="2081"><pb n="?_?_2081" edRef="#edho"/><lg><ab type="mantra"> oṁ sarvatathāgatakarmābhiṣeka hūṁ ||</ab>
+<div type="section" n="2081"><pb n="?_?_2081" edRef="#edho"/>
+	<ab type="mantra"> oṁ sarvatathāgatakarmābhiṣeka hūṁ ||</ab>
 
-<l>atha vajrapāṇir mahābodhisattva imāṁ svakarmasaṁbhavāṁ vidyottamām abhāṣat ||:</l></lg></div>
+	<p>atha vajrapāṇir mahābodhisattva imāṁ svakarmasaṁbhavāṁ vidyottamām abhāṣat ||:</p>
+</div>
 
-<div type="section" n="2082"><pb n="?_?_2082" edRef="#edho"/><lg><l>	oṁ vajrahūṁkārābhiṣeke ||</l>
+<div type="section" n="2082"><pb n="?_?_2082" edRef="#edho"/>
+	<lab type="mantra">	oṁ vajrahūṁkārābhiṣeke ||</p>
 
-<l>atha vajragarbho bodhisattva imāṁ svavidyottamām abhāṣat ||</l>
+	<p>atha vajragarbho bodhisattva imāṁ svavidyottamām abhāṣat ||</p>
 
 <ab type="mantra"> oṁ sarvākāśasamatābhiṣkekaratne hūṁ ||</ab>
 <ab type="mantra"> oṁ sarvatathāgatasamantābhiṣeka hūṁ ||</ab>
 
-<l>atha vajranetro bodhisattva imāṁ svavidyottamām abhaṣat ||</l></lg></div>
+<p>atha vajranetro bodhisattva imāṁ svavidyottamām abhaṣat ||</p>
+</div>
 
 <div type="section" n="2084"><pb n="?_?_2084" edRef="#edho"/><lg><l>	oṁ saddharmābhiṣekaratne ||</l>
 
@@ -9543,19 +9663,19 @@ athātra maṇḍale yathāvad vidhivistaraṁ kṛtvā,</l>
 
 <l>tatrāsāṁ mudrā bhavanti ||:</l>
 
-<l>	oṁ maṇiratnapūjāgrya ||</l>
+<ab type="mantra">	oṁ maṇiratnapūjāgrya ||</ab>
 <ab type="mantra"> oṁ sarvārthasiddhivajraratnābhiṣeke hūṁ ||</ab>
 <ab type="mantra"> oṁ vajramaṇidhāriṇisamaye hūṁ ||</ab>
 
 <ab type="mantra"> oṁ maṇiratnākarṣakarmasamaye hūṁ ||</ab>
-<l>	oṁ maṇiratnarāgaratikarmapūje pravarta ||</l>
-<l>	oṁ maṇiratnasādhukārapūjāsamaye ||</l>
+<ab type="mantra">	oṁ maṇiratnarāgaratikarmapūje pravarta ||</ab>
+<ab type="mantra">	oṁ maṇiratnasādhukārapūjāsamaye ||</ab>
 
-<l>	oṁ mahāmaṇiratnadṛṣṭyākarṣe ||</l>
-<l>	oṁ maṇiratnamālāpūje ||</l>
-<l>	oṁ maṇiratnasūryālokapūje ||</l>
-<l>	oṁ maṇiratnadhvajapatākāpūje ||</l>
-<l>	oṁ maṇiratnāṭṭahāsapūje ||</l>
+<ab type="mantra">	oṁ mahāmaṇiratnadṛṣṭyākarṣe ||</ab>
+<ab type="mantra">	oṁ maṇiratnamālāpūje ||</ab>
+<ab type="mantra">	oṁ maṇiratnasūryālokapūje ||</ab>
+<ab type="mantra">	oṁ maṇiratnadhvajapatākāpūje ||</ab>
+<ab type="mantra">	oṁ maṇiratnāṭṭahāsapūje ||</ab>
 
 <ab type="mantra"> oṁ padmamaṇisamādhisamaye hūṁ ||</ab>
 <ab type="mantra"> oṁ sarvatyāgānusmṛtisamādhikarmakāri hūṁ ||</ab>
@@ -9570,14 +9690,14 @@ athātra maṇḍale yathāvad vidhivistaraṁ kṛtvā,</l>
 <ab type="mantra"> oṁ maṇiratnakarmamuṣṭi hūṁ ||</ab>
 
 <ab type="mantra"> oṁ maṇiratnalāsye pūjaya hoḥ ||</ab>
-<l>	oṁ maṇiratnamālābhiṣeke pūjaya ||</l>
-<l>	oṁ maṇiratnagīte pūjaya ||</l>
-<l>	oṁ maṇiratnanṛtye pūjaya ||</l>
+<ab type="mantra">	oṁ maṇiratnamālābhiṣeke pūjaya ||</ab>
+<ab type="mantra">	oṁ maṇiratnagīte pūjaya ||</ab>
+<ab type="mantra">	oṁ maṇiratnanṛtye pūjaya ||</ab>
 
-<l>	oṁ maṇiratnadhūpe pūjaya ||</l>
-<l>	oṁ maṇiratnapuṣpe pūjaya ||</l>
-<l>	oṁ maṇiratnadīpe pūjaya ||</l>
-<l>	oṁ maṇiratnagandhe pūjaya ||</l>
+<ab type="mantra">	oṁ maṇiratnadhūpe pūjaya ||</ab>
+<ab type="mantra">	oṁ maṇiratnapuṣpe pūjaya ||</ab>
+<ab type="mantra">	oṁ maṇiratnadīpe pūjaya ||</ab>
+<ab type="mantra">	oṁ maṇiratnagandhe pūjaya ||</ab>
 
 <ab type="mantra"> oṁ maṇiratnāṅkuśyākarṣe jjaḥ ||</ab>
 <ab type="mantra"> oṁ maṇiratnapāśe hūṁ ||</ab>
@@ -9655,19 +9775,27 @@ athātra karmamaṇḍale yathāvad vidhivistaraṁ kṛtvā,</l>
 
 <l>atha vajrapāṇir bodhisattvo mahāsattva imāṁ svamudrām abhāṣat ||:</l></lg></div>
 
-<div type="section" n="2111"><pb n="?_?_2111" edRef="#edho"/><lg><ab type="mantra"> oṁ vajramāle hūṁ ||</ab>
+<div type="section" n="2111"><pb n="?_?_2111" edRef="#edho"/>
+	<ab type="mantra"> oṁ vajramāle hūṁ ||</ab>
 
-<l>atha vajragarbho bodhisattvo mahāsattva imāṁ svamudrām abhāṣat ||:</l></lg></div>
+	<p>atha vajragarbho bodhisattvo mahāsattva imāṁ svamudrām abhāṣat ||:</p>
+</div>
 
-<div type="section" n="2112"><pb n="?_?_2112" edRef="#edho"/><lg><l>	om maniratne ||</l>
+<div type="section" n="2112"><pb n="?_?_2112" edRef="#edho"/>
+	<ab type="mantra">om maniratne ||</ab>
 
-<l>atha vajranetro bodhisattvo mahāsattva imāṁ svamudrām abhāṣat ||:</l></lg></div>
+<p>atha vajranetro bodhisattvo mahāsattva imāṁ svamudrām abhāṣat ||:</p>
+</div>
 
-<div type="section" n="2115"><pb n="?_?_2115" edRef="#edho"/><lg><l>	om dharmaratne ||</l>
+<div type="section" n="2115"><pb n="?_?_2115" edRef="#edho"/>
+	<ab type="mantra">om dharmaratne ||</ab>
 
-<l>atha vajraviśvo bodhisattvo mahāsattva imāṁ svamudrām abhāṣat ||</l></lg></div>
+	<p>atha vajraviśvo bodhisattvo mahāsattva imāṁ svamudrām abhāṣat ||</p>
+</div>
 
-<div type="section" n="2114"><pb n="?_?_2114" edRef="#edho"/><lg><l>	oṁ viśvavṛṣṭi ||</l></lg></div>
+<div type="section" n="2114"><pb n="?_?_2114" edRef="#edho"/>
+	<ab type="mantra">oṁ viśvavṛṣṭi ||</ab>
+</div>
 
 <div type="section" n="2115"><pb n="?_?_2115" edRef="#edho"/><lg><l>athāryākāśagarbho bidhisattvo mahāsattva idaṁ maṇikulacaturmudrāmaṇḍalam abhāṣat ||:</l> 
 
@@ -9704,8 +9832,7 @@ athātra karmamaṇḍale yathāvad vidhivistaraṁ kṛtvā,</l>
 <l>catumudrāmaṇḍalam ||</l>
 
 <l>athākāśagarbho bodhisattvo mahāsattva idaṁ sarvārthasiddhiṁ nāma hṛdayam abhāṣat ||:</l>
-<l>
-	oṁ vajramaṇidhara sarvārthasiddhiṁ me prayaccha</l>
+<ab type="mantra">oṁ vajramaṇidhara sarvārthasiddhiṁ me prayaccha</ab>
 <ab type="mantra">v	ho bhagavan vajraratna hūṁ ||</ab>
 
 <l>athātra maṇḍalaṁ bhavati ||:</l>
@@ -12761,6 +12888,8 @@ ta evam āhuḥ</l>
 <div type="section" n="3068"><pb n="?_?_3068" edRef="#edho"/><ab>iti. </ab></div>
 
 <div type="section" n="3069"><pb n="?_?_3069" edRef="#edho"/><lg><l>idam avoca<supplied reason="undefined">d bhagavān āttamanasaḥ sarvatathāgatāḥ sahāryabodhisattvaiḥ svahṛdayāvasthitair</supplied> bhagavato bhāṣitam abhyanandann iti ||</l></lg></div>
+
+<!-- RT finished marking up mantras 2025-05-06 21:22 JST -->
 
 <div type="section" n="3070"><pb n="?_?_3070" edRef="#edho"/><lg><l>sarvatathāgatatattvasaṁgrahaṁ nāma mahāyānasūtraṁ sopasaṁhāratan]traṁ samāptam ||</l></lg></div></div>
       	<div type="translation"><p/></div>
