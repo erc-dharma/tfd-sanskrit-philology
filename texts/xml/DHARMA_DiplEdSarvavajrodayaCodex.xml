@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-            	<title>Sarvavajrodayā Maṇḍalopāyikā: Digital Diplomatic Edition of the Nepalese codex unicus</title>
+            	<title type="editorial">Sarvavajrodayā Maṇḍalopāyikā: Digital Diplomatic Edition of the Nepalese codex unicus</title>
             	<respStmt>
             		<resp>author of digital edition</resp>
                 <persName ref="part:ryta">
