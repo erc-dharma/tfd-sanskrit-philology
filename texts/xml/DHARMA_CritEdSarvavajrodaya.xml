@@ -6,7 +6,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Sarvavajrodayā Maṇḍalopāyikā: digital edition</title>
+        	<title type="editorial">Sarvavajrodayā Maṇḍalopāyikā, by Ānandagarbha: Digital Critical Edition based on the Codex Unicus</title>
+      	<title type="original" xml:lang="san-Latn">Sarvavajrodayā Maṇḍalopāyikā</title>
+	<author>Ānadagarbha</author>
       </titleStmt>
       <publicationStmt>
         <authority>DHARMA</authority>
