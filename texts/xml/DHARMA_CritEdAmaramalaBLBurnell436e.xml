@@ -2,76 +2,71 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="id"><!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="amaramalaBurnell">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="editorial">Burnell Ms. Transliteration</title>
-                <respStmt>
-                    <!-- repeat the respStmt when necessary; you can also provided a free text explanation of the process in the bibliography part-->
-                    <resp>author of digital edition</resp>
-                    <!-- work done in the file, e.g. editor, intellectual authorship of edition ...-->
-                    <persName ref="part:jodo"><!-- update the id -->
-                        <forename>John</forename><!-- fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
-                        <surname>Doe</surname>
-                    </persName>
-                </respStmt>
+                <title type="editorial">Amaramālā: Digital Critical Edition of British Library, Burnell 436e</title>
+            	<respStmt>
+            		<resp>author of digital edition</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            		<persName ref="part:zapa">
+            			<name>Zakariya Pamuji Aminullah</name>
+            		</persName>
+            	</respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
-                <pubPlace><!-- fill in here the place or places where the encoding has been done --></pubPlace>
+                <pubPlace>Hamburg, Jakarta</pubPlace>
                 <idno type="filename">DHARMA_CritEdAmaramalaBLBurnell436e.xml</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by John Doe.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
                 <listWit>
-                    <!-- One witness for each manuscript. Update the content -->
-                    <witness xml:id="fakeID">
-                        <!-- Give your witness an unique identifier -->
-                        <abbr type="siglum"></abbr>
-                        <!-- Fill in the abbr @type="siglum" with the expected display for the witness siglum. Use <hi> with @rend for superscript and subscript -->
+                    <witness xml:id="msBLBurnell436e">
+                         <abbr type="siglum">MS</abbr>
                         <msDesc>
                             <msIdentifier>
-                                <settlement>Leiden</settlement>
-                                <institution>University Library (UB)</institution>
-                                <repository>Lontar</repository>
-                                <idno>Or. 23732</idno>
+                                <settlement>London</settlement>
+                                <institution>British Library</institution>
+                                <repository>Oriental manuscript</repository>
+                                <idno>Brunell 436 (e)</idno>
                             </msIdentifier>
-                            <msContents>
-                                <!-- the msContents isn't mandatory -->
+                            <!--<msContents>
                                 <msItem>
-                                    <author>Śāntarakṣita</author>
-                                    <title>Vipañcitārthā</title>
-                                    <!-- You can also add a colophon if needed -->
-                                    <!--<colophon>
+                                    <title>Amaramālā</title>
+                                    <!-\- You can also add a colophon if needed -\->
+                                    <!-\-<colophon>
 										<quote></quote>
-										</colophon> -->
-                                    <!-- colophon should be structures with quote elements with attribute @type and @xml:lang when necessary -->
+										</colophon> -\->
+                                    <!-\- colophon should be structures with quote elements with attribute @type and @xml:lang when necessary -\->
                                 </msItem>
-                            </msContents>
+                            </msContents>-->
                             <physDesc>
                                 <objectDesc>
                                     <!-- Here you can give a physical description of the manuscript in prose-->
-                                    <p>Palm-leaf manuscript. 89 leaves in Kuṭilā script. Apparently written in 1152 A.C.</p>
+                                	<p>According to Keith and Thomas (1935: 315, no. 5172), the text is written in Devanāgarī script across nine folios of paper, each measuring 6.5 by 3.5 inches.</p>
                                 </objectDesc>
                                 <handDesc> <!-- Add an attribute @hands if you have more than one hand -->
                                     <!-- Create a handNote for each hand -->
-                                    <handNote xml:id= "A1_H1" scriptRef="class:57470 maturity:83215"> <!-- update the content of the @xml:id and the @scriptRef using the xml:id-of-the-witness -->
-                                        <abbr type="hand">A<hi rend="superscript">1</hi>:H<hi rend="subscript">1</hi></abbr><!-- Give the abbreviation siglum for the hand built on xml:id-of-the-manuscript, ":", H1, the number being incremental -->
-                                        <p>main hand of the manuscript, black ink, Sundanese script</p><!-- provide a description of the hand -->
+                                	<handNote xml:id= "msBLBurnell436e_H1" scriptRef="class:38771 maturity:83215">
+                                        <abbr type="hand">MS:H<hi rend="subscript">1</hi></abbr>
+                                        <p>Main hand of the manuscript, black ink, Devanagari script</p>
                                     </handNote>
                                 </handDesc>
                             </physDesc>
-                            <history>
-                                <!-- Here you can decribe the history of the manuscript in prose. Use <origDate> and <origPlace> to emphasize the place and date of creation -->
-                                <p>In June 1934, Sāṅkṛtyāyana found this manuscript in the monastery of Kun-de-ling (Lhasa).</p>
-                            </history>
+                            <!--<history>
+                                <!-\- Here you can decribe the history of the manuscript in prose. Use <origDate> and <origPlace> to emphasize the place and date of creation -\->
+                                <p></p>
+                            </history>-->
                         </msDesc>
                     </witness>
                 </listWit>
@@ -100,32 +95,55 @@
                 </samplingDecl>    
             </encodingDesc>
             <revisionDesc>
-                <change who="part:axja" when="2021-12-23" status="draft">Updating the content for variantEncoding</change>
+            	  <change who="part:axja" when="2025-05-16" status="draft">Encode teiHeader and bibliography; solved validation problems</change>
+                <change who="part:axja" when="2025-05-15" status="draft">Imported from googledoc</change>
             </revisionDesc>
     </teiHeader>
     <text >
-		<body>
-			<div type="edition" xml:lang="und">
-<ab>			    
-<pb n="1r"/>
-<lb n="1r1"/>श्रीगणेशाय नमः ॥ श्रीगुरुचर्णकमलेभ्यो <note> Correct श्रीगुरुचरणकमलाभ्यां, श्रीगुरुचरणकमलेभ्यो, or श्रीगुरुचरणकमलाभ्यां</note>
-<lb n="1r2"/>नमः ॥ श्रीसरस्वत्यै नमः ॥ श्रियै नमः ॥ §
-<lb n="1r3"/>प्रणम्य परमात्मानं वालधी-वृद्धि-सिद्धये शव्द-भेद
-<lb n="1r4" break="no"/>मृजुं कुर्वे ऽमरमाला करोम्यहम् ॥ §§ <note> Two indistinct space filling symbols.</note>
-<lb n="1r5"/>अहंकार-नाम ॥ दर्पोभिमानहंकारो स्मय-गर्व-मदस्तथा 
-<lb n="1r6"/>वक्षस्थल-नाम ॥ वक्षस्थलोरूवत्सश्च विशालो पीनकस्तथा 
-<lb n="1r7"/>सखी-नाम ॥ सखी  वेश्या च संघ्रीची आलीश्च सहचारिणी – 
-<lb n="1r8"/>वुधि-नाम ॥ वुधि-मनीषाधिषणा-मेधा प्रज्ञा च सैमुखी धी
-<lb n="1r9" break="no"/>मति-धारणाश्चैव घुपजब्धिज्ञानकारका ॥ 
-<lb n="1r10"/>सरस्वती-नाम ॥ वाणी-सरस्वती वाक् च गिरां ? ? सार<hi rend="check">स्त</hi> ॥ शीघ्र-नाम ॥ सहसा 
-<lb n="1r11"/>ऊटति<note>if ujjvala is correct in the last line, then it is unlikely that ū is correct here. anyhow, I don't grasp yet which word is intended.</note> तूर्ण-शीघ्रं आसुनरश्च सजवर भस<hi rend="check">म्भोलवत्स्वाजीयेरात्या
-<lb n="1r12" break="no"/>न्तर ॥ धाम-नाम ॥ सदन-सद्म-नागार-गेह-वेस्मश्चं मंदिर-आलय-
-<lb n="1r13" break="no"/>गृह-संकेत-निकेत-निलयायतन् ॥ भवनं </hi><hi rend="check">संडुकं</hi> चाप्यस्थानं वस
-<lb n="1r14" break="no"/>तिका<hi rend="check">त्या</hi> ॥ स्वर्ण-नाम ॥ कंचनार्जुनकांतिश्च सुरहेम-हिरण्यकः 
-<lb n="1r15"/>पटुवर्ण<hi rend="check">श्चपु</hi>रटघुष्टापह-हाटकस्तथा सातकुंभं हरिश्चर्ण चामी
-<lb n="1r16" break="no"/>कर-हरिधौतकः जातरूपश्च कनक-रुक्म<hi rend="check">स्तह</hi>-महारजत ॥ 
-<lb n="1r17"/>रूपा-माम ॥ रौक्मं रजत-दूर्बानजातरूपश्च खर्जुर । उज्ज्>ल-नाम ॥
-There are invocations, a maṅgala verse, and then a series of anuṣṭubh verses with synonym lists, introduced each time by a heading X-nāma
+	<body>
+		<div type="edition" xml:lang="san">
+<div>
+	<ab type="invocation"><pb n="1r"/><lb n="1r1"/>श्रीगणेशाय नमः ॥ श्रीगुरुचर्णकमलेभ्यो<note> Correct श्रीगुरुचरणकमलाभ्यां, श्रीगुरुचरणकमलेभ्यो, or श्रीगुरुचरणकमलाभ्यां.</note>
+	<lb n="1r2"/>नमः ॥ श्रीसरस्वत्यै नमः ॥ श्रियै नमः ॥ §</ab>
+</div>
+<div type="group">
+<lg met="anuṣṭubh" n="1">
+<l n="ab"><lb n="1r3"/>प्रणम्य परमात्मानं वालधी-वृद्धि-सिद्धये</l> 
+<l n="cd">शव्द-भेद<lb n="1r4" break="no"/>मृजुं कुर्वे ऽमरमाला करोम्यहम् ॥ §§ <note>Two indistinct space filling symbols.</note></l>
+</lg>
+<lg met="anuṣṭubh" n="2">
+<l n="ab"><label><lb n="1r5"/>अहंकार-नाम ॥</label> दर्पोभिमानहंकारो स्मय-गर्व-मदस्तथा</l>
+<l n="cd"><lb n="1r6"/>वक्षस्थल-नाम ॥ वक्षस्थलोरूवत्सश्च विशालो पीनकस्तथा</l>
+</lg>
+<lg met="anuṣṭubh" n="3">
+<l n="ab"><lb n="1r7"/><label>सखी-नाम ॥</label> सखी  वेश्या च संघ्रीची आलीश्च सहचारिणी –</l> 
+<l n="cd"><lb n="1r8"/><label>वुधि-नाम ॥</label> वुधि-मनीषाधिषणा-मेधा प्रज्ञा च सैमुखी धी</l>
+</lg>
+<lg met="anuṣṭubh" n="4">
+<l n="ab"><lb n="1r9" break="no"/>मति-धारणाश्चैव घुपजब्धिज्ञानकारका ॥</l>
+<l n="cd"><lb n="1r10"/><label>सरस्वती-नाम ॥</label> वाणी-सरस्वती वाक् च गिरां ? ? सार<hi rend="check">स्त</hi> ॥</l>
+</lg>
+<lg met="anuṣṭubh" n="5">
+<l n="ab"><label>शीघ्र-नाम ॥</label> सहसा <lb n="1r11"/>ऊटति<note>If ujjvala is correct in the last line, then it is unlikely that ū is correct here. We don't grasp yet which word is intended.</note> तूर्ण-शीघ्रं आसुनरश्च</l> 
+<l n="cd">सजवर भस<hi rend="check">म्भोलवत्स्वाजीयेरात्या<lb n="1r12" break="no"/>न्तर ॥</hi></l>
+</lg>
+<lg met="anuṣṭubh" n="6">
+<l n="ab"><label>धाम-नाम ॥</label> <hi rend="check">सदन-सद्म-नागार-गेह-वेस्मश्चं मंदिर</hi></l>
+<l n="cd"><hi rend="check">आलय<lb n="1r13" break="no"/>-गृह-संकेत-निकेत-निलयायतन् ॥</hi></l>
+</lg>
+<lg met="anuṣṭubh" n="7">
+<l n="ab">भवनं <hi rend="check">संडुकं</hi> चाप्यस्थानं वस<lb n="1r14" break="no"/>तिका<hi rend="check">त्या</hi> ॥</l>
+<l n="cd"><label>स्वर्ण-नाम ॥</label> कंचनार्जुनकांतिश्च सुरहेम-हिरण्यकः</l>
+</lg>
+<lg met="anuṣṭubh" n="8">
+<l n="ab"><lb n="1r15"/>पटुवर्ण<hi rend="check">श्चपु</hi>रटघुष्टापह-हाटकस्तथा</l>
+<l n="cd">सातकुंभं हरिश्चर्ण चामी<lb n="1r16" break="no"/>कर-हरिधौतकः</l>
+</lg>
+<lg met="anuṣṭubh" n="9">
+<l n="ab">जातरूपश्च कनक-रुक्म<hi rend="check">स्तह</hi>-महारजत ॥</l>
+<l n="cd"><lb n="1r17"/><label>रूपा-माम ॥</label> रौक्मं रजत-दूर्बानजातरूपश्च खर्जुर ।</l>
+</lg>
+<!--There are invocations, a maṅgala verse, and then a series of anuṣṭubh verses with synonym lists, introduced each time by a heading X-nāma
 Pride (ahaṃkāra-nāma): ahaṃkāra, darpa, abhimāna, smaya, garva, mada
 Breast (vakṣasthala-nāma): vakṣasthala, ūrūvatsa, viśāla, pīnaka
 Girlfriend (sakhī-nāma): sakhī, veśyā, sadhrīcī, ālī, sahacāriṇī
@@ -134,9 +152,11 @@ Speech (sarasvatī-nāma): vāṇī, sarasvatī, vāk, girāṃ sāra
 Swift (śīghra-nāma): sahasā, ūṭati, tūrṇa, śīghra, āsu, sajvara
 Building (dhāma-nāma): sadana, sadma, anāgāra, geha, vesma, mandira, ālaya, gṛha, saṅketa, niketa, nilaya, āyatana
 Gold (svarṇa-nāma): kañcana, arjunakānti, sura, hema, hiraṇyaka, hāṭaka, sātakumbha, hariścaraṇa, cāmīkara, haridhauṭaka, jātarūpa, kanaka, rukma, mahārajata
-Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura
-<pb n="1v"/>
-<fw n="1v"><num value="1">1</num></fw>
+Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura-->
+</div>
+<div type="group"><ab>
+	उज्ज्ल-नाम ॥
+<pb n="1v"/><fw n="1v" place="top-left"><num value="1">1</num></fw>
 <lb n="1v1"/>शुक्र-शुभ्र-सुचि-स्वेत-विशदश्चेति पांडुर<note>I am not sure what the meaning of the dot to the right if this word is, but I don't think it's anusvāra. Maybe a low-level punctuation mark, like our comma? Let's see if we get other cases.</note><note>I think that it is used for ण, we have other examples such as पुंडरीक, शिखंडी, श्रीषंड</note><note>I meant the dot to the right of र. the use of anusvāra as multipurpose nasal is completely standard in Indian mss. it is one of the main differences between use of anusvāra/cecak in Indonesia (where at least after the 7th c. it only serves as equivalent to ṅ) and the use of anusvāra in India.</note><note>Ah, interesting. Another new information! Thank you! Concerning the dot just in the right, could it be ः ?</note>-धवलासिता 
 <lb n="1v2" break="no"/>र्जुनश्चैव ह्यवदातश्च कांतिकृत् ॥ सोभा-नाम ॥ भाभा-सा 
 <lb n="1v3" break="no"/>भा-प्रभाश्चेव सुषमा-परमाछवि-द्युति-कांति तथैवेति
@@ -176,7 +196,7 @@ Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura
 <lb n="2r17"/><hi rend="check">भ्रमा</hi>शय्या शयानीय तथैव च ॥ कुसुम-नाम ॰
 <lb n="2r18"/>(प्र)सून-कुसुमं पुष्पं सुमनश्च सुगंधि-सुम ॥<note>this reading seems very doubtful</note><note>probably one final syllable and a spacing mark</note>
 <pb n="2v"/>
-<fw n="2v"><num value="2">2</num></fw>
+<fw n="2v" place="top-left"><num value="2">2</num></fw>
 <lb n="2v1"/><hi rend="check">उतीता-नाम  उशनजुतं नोशधानं कुंडुं सुधीरकं ? ? ?</hi><note>@andrew.ollett@gmail.com any suggestions?_Assigned to Andrew Ollett_</note>
 <lb n="2v2"/>मुख-नाम ॥ आननं वदनं आस्यं लभनं <note> Corr. लपनं ?</note><note>@andrew.ollett@gmail.com I cannot read लभनं here. There seems to be a vertical bar at the start. How can we interpret it? Read खमनं?_Assigned to Andrew Ollett_</note> वक्त्रकं मुखं<note>Pañcatattvaprakāśaānanaṃ vadanaṃ vaktraṃ mukham āsyaṃ radālayam |kākapakṣaṃ śikhā veṇir veṇī kuntalaśṛṅkhalā || 80 ||</note> भृ
 <lb n="2v3" break="no"/>कुटी <hi rend="check">प्रतिमुंखंमु</hi><note>I have no serious idea. Just for the sake of offering something else छविमुंडंर्पमु At least छविमुंडं may be plausible</note><hi rend="check">कखरंछवि </hi>संपुनं ॥ केश-नाम ॥ शिरोरु
@@ -217,7 +237,7 @@ Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura
 <lb n="3r19"/>आं<hi rend="check">Xपादययाऽ</hi>कं ॥ वीणा-नाम ॥ वल्लकी
 <lb n="3r20"/>वीणिकातंत्री जंत्री <hi rend="check">वरूरि</hi> आहिका ॥ हरिद्रा-नाम ॥
 <pb n="3v"/>
-<fw n="3v"><num value="3">3</num></fw>
+<fw n="3v" place="top-left"><num value="3">3</num></fw>
 <lb n="3v1"/>पीता-गौरिकाचनी च हरिद्र-वीराजनी तथा ॥ भकुटी-नाम ॥
 <lb n="3v2"/>भ्रूतं <hi rend="check">X</hi> भृकुटी चैव करिनालं तथैव च ॥ समय-नाम ॥
 <lb n="3v3"/>कालं समय-वेला च अनीहा-निमिषं तथा ॥ कुशल-नाम ॥
@@ -257,7 +277,7 @@ Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura
 <lb n="4r16"/>कमलप्रिया ॥ लता-नाम ॥ व्रतती विशती वदन्ती 
 <lb n="4r17"/>लता अमर वेलिक ॥ मित्र-नाम ॥ मुहृदं वल्ल 
     <lb n="4r18" break="no"/>भश्चैव सखा-<hi rend="check">प्रीतमक</hi>-प्रिय ॥ मनुष्य-नाम ॥
-<pb n="4v"/><fw n="4v"><num value="4">4</num></fw>
+<pb n="4v"/><fw n="4v" place="top-left"><num value="4">4</num></fw>
 <lb n="4v1"/>मनुष्यं मानुषं मर्त्यं नर-मानवक-पुमान् ॥ वेद-नाम
 <lb n="4v2"/>श्रात्मा ह्येकश्रुति-ब्रह्म-निगमागम-ब्रह्मस्तव धर्म्म 
 <lb n="4v3" break="no"/>मूलं च वेदश्च धर्म्ममूलं ह्यभावकृत् ॥ <hi rend="check">जोगीषा</hi><note>maybe Prakrit form for योगीश?</note>
@@ -265,7 +285,7 @@ Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura
 <lb n="4v5"/>ऋषि-भिक्षुक-तापस्वी ।। ज्ञानदीप्ति-मलापहुत्
 <lb n="4v6"/>धर्म्म-नमा ॥ वैबस्वत-पितृपति तथा संजमनी पति
 <lb n="4v7"/>कृतांन्रोयमुनाभ्रा <hi rend="check">तामहिषध्वज‌</hi> चांनक गुह्यक 
-<lb n="4v8"/>अंबकसखावैश्च वणश्च जनेश्वर ॥ शेष<note>the synonyms are for Viṣṇu, but I have no idea why the term शेष as heading</note>-नाम ॥
+<lb n="4v8"/>अंबकसखावैश्च वणश्च जनेश्वर ॥ शेष<note>The synonyms are for Viṣṇu. The term शेष as heading seems out of inappropriate.</note>-नाम ॥
 <lb n="4v9"/>शेर्षेनं नोसर्प्पपति सहस्र फणिनस्तथा घरणी 
 <lb n="4v10" break="no"/>घर-महाहीश-वि<hi rend="check">ष्णो</hi> वै<hi rend="check">X</hi>>वरूप ह्यक ॥ गणेश-नाम 
 <lb n="4v11"/>॥ लंबोदाश्च हेरंबो घैमातुर-गणाधिप-मूषवाहन
@@ -296,7 +316,7 @@ Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura
 <lb n="5r18"/></hi>ह्यनन्मिषं <note> Corr. ह्यनिमिषं</note> मत्स्यं प्रथुरिोमा <note> Corr. पृथुरोमा</note> तिमिस्तथा मकरं ह्युलूप्यंड
 <lb n="5r19" break="no"/>भव पाठीकष-मीनकस्तथा ॥ समुद्र-नाम ॥ सिंधू-श
 <pb n="5v"/>
-<fw n="5v"><num value="5">5</num></fw>
+<fw n="5v" place="top-left"><num value="5">5</num></fw>
 <lb n="5v1" break="no"/>लि<hi rend="check">लय</hi>श्चैव ईरावान् सरितांपति उदधि-समुद्न-मंवोध 
 <lb n="5v2"/>पारावारणारश्च <hi rend="check">सागरः</hi> ॥ वनर-नाम ॥ शाखामृग-कपिश्चैव
 <lb n="5v3"/>प्लवगश्च प्लवंगमं लांगूल-वानरश्चैव कीश-किटकिटा
@@ -338,7 +358,7 @@ Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura
 <lb n="6r19"/></hi>खड्ग-नाम ॥ असि-कुशेय <note> Corr. कौक्षेय</note>-रिष्टिश्च खड्गं च मंडलाग्र<hi rend="check">X</hi>
 
 <pb n="6v"/>
-<fw n="6v"><num value="6">6</num></fw>
+<fw n="6v" place="top-left"><num value="6">6</num></fw>
 <lb n="6v1"/> …
 <lb n="6v2"/> … ॥ नीच-नाम ॥ नीच-निर्गत<hi rend="check">ते</hi> चैव
 <lb n="6v3"/>कुब्ज अंधक तथा ॥ आकाश-नाम ॥ अंबरं पुष्करं व्योमं न
@@ -376,7 +396,7 @@ Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura
 <lb n="7r17"/>नाम ॥ रथ्या-प्रतोलिका <hi rend="check">वीथापमृपं अरुचवीति</hi> च
 <lb n="7r18"/>अंधकार-नाम ॥ अंधं तनिश्रं <note> Corr. तमिस्रं</note> ध्वांतं च कुहाली <hi rend="check">हा</hi>रकं तथा (॥)
 <pb n="7v"/>
-<fw n="7v"><num value="7">7</num></fw>
+<fw n="7v" place="top-left"><num value="7">7</num></fw>
 <lb n="7v1"/>वान-नाम ॥ उपवनं चैव उद्यानं कृत्तिमं वन-बृंह
 <lb n="7v2"/>कं ॥ अर्धरात्रि-नाम ॥ रात्री निशिथिनी चैव दिन
 <lb n="7v3"/>हाति कृत्तमं वतं ॥ वसंत-नाम ॥ ऋतु-राजं वसंतश्च कु
@@ -411,7 +431,7 @@ Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura
 <lb n="8r16"/>विद्रुम-नाम ॥ धमनिनषी नटी चैव कपोताघ्रि 
 <lb n="8r17"/>प्रवालिका ॥ दाषनाम • <hi rend="check">किसमिसभाषयं</hi> ।
 <pb n="8v"/>
-<fw n="8v"><num value="8">8</num></fw>
+<fw n="8v" place="top-left"><num value="8">8</num></fw>
 <lb n="8v1"/>सा<hi rend="check">धी</hi> मृदीम<hi rend="check">ध्क</hi>रसा गुडाडा च प्रपालिका ॥ 
 <lb n="8v2"/>गोस्तनी च चारुफला<hi rend="check">X</hi>क्षा क्ष<hi rend="check">X</hi> तथैव च ॥
 <lb n="8v3"/>केशर-नाम ॥ काश्मीर-कुंकुमरूचि केशरं देवव 
@@ -445,7 +465,8 @@ Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura
 <lb n="9r15"/>अमरमाला संपूर्णम्‌ सं १८२७ काला<hi rend="check">XX
 <lb n="9r16" break="no"/></hi><hi rend="check">का८चंर</hi> ई स १८७१ <hi rend="check">फरनटी</hi> २१ अज्ञे<hi rend="check">रम</hi>ध्ये पंडि 
 <lb n="9r17" break="no"/>तवाल<hi rend="check">भुकं देनस्वनिभिचांलिपिX</hi>तं ॥
-    </ab>
+</ab>
+</div>
 </div>
 		    <div type="translation">
 		        <!-- Structure as necessary with <div>, <p>, <ab>, <lg>  -->
@@ -455,9 +476,9 @@ Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura
 			     <!-- <p>The asterisk * is used to flag lemmata or forms of lemmata not recorded in the <title>Old Javanese-English Dictionary</title>.</p>-->
 			  </div>
 		    <div type="bibliography">
-		        <p><!-- explain the process of your edition here --></p>
+		        <p>Cataloged by Keith &amp; Thomas (1935); referred to in NCC.</p>
 		        <listBibl>
-		            <bibl/>
+		        	<bibl><ptr target="bib:Keith+Thomas1935_01"/><citedRange unit="page">315</citedRange><citedRange unit="item">,5172</citedRange></bibl>
 		        </listBibl>
 		    </div>
 		</body>
