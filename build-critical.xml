@@ -40,8 +40,7 @@
     <fileset id="critical-display" dir="./output/ids" includes="**/*.xml"/>
 
     <!-- file set for dharma -->
-    <fileset id="dharma-crited" dir="./texts/xml" includes="DHARMA_CritEd*.xml" excludes="*_biblio.xml *_trans*.xml _com*.xml"/>
-    <fileset id="dharma-dipled" dir="./texts/xml" includes="DHARMA_DiplEd*.xml" excludes="*_biblio.xml *_trans*.xml _com*.xml"/>
+    <fileset id="dharma-ed" dir="./texts/xml" includes="DHARMA_CritEd*.xml DHARMA_DiplEd*.xml" />
 
     <!-- Transformation from xml vers XML avec application de moving-app-->
     <xslt force="true" style="./project-documentation/stylesheets/shivadharma/moving-app.xsl" destdir="./output/dharma-normed" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
@@ -63,16 +62,18 @@
 
      <!-- Transformation XML vers HTML pour crit ed  -->
      <!-- TO BE ADDED WHEN NECESSARY -->
-     <xslt force="true" style="./project-documentation/stylesheets/criticalEditions/start-edition.xsl" destdir="./output/html" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
-        <fileset refid="dharma-crited"/>
+     <xslt force="true" style="./project-documentation/stylesheets/criticalEditions/start_v02.xsl" destdir="./output/html" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+        <fileset refid="dharma-ed"/>
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
     </xslt>
 
       <!-- Transformation XML vers HTML -->
-      <xslt force="true" style="./project-documentation/stylesheets/diplomaticEditions/start-diplEd.xsl" destdir="./output/diplEd" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+       <!-- deleted not necessary anymore-->
+
+     <!-- <xslt force="true" style="./project-documentation/stylesheets/diplomaticEditions/start-diplEd.xsl" destdir="./output/diplEd" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <param name="edition-type" expression="physical"/>
         <param name="corpus-type" expression="nusantara"/>
         <fileset refid="dharma-dipled"/>
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
-    </xslt>
+    </xslt>-->
 </project>
