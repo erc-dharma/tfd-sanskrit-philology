@@ -21,7 +21,6 @@
                 <idno type="filename">DHARMA_DiplEdOSM-Dh95</idno>                <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -78,20 +77,6 @@
                 <p/>
             </samplingDecl>
         </encodingDesc>
-        <profileDesc>
-            <langUsage>
-                <!-- choose the language(s) of your text, remove the others -->
-                <language ident="san-Latn">Sanskrit, romanized</language>
-                <language ident="ori-Latn">Oriya, romanized</language>
-            </langUsage>
-            <textClass>
-                <keywords>
-                    <!-- In due course we will can use this element to declare keywords as <term>s, but at the moment please ignore <keywords>  -->
-                    <term/>
-                    <!-- Ignore this element for the time being. -->
-                </keywords>
-            </textClass>
-        </profileDesc>
         <revisionDesc>
             <change who="part:argr" when="2023-01-28" status="draft">started encoding of the manuscript</change>
         </revisionDesc>

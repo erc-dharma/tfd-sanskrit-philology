@@ -17,7 +17,6 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-            <p>Copyright (c) 2019-2025 by Arlo Griffiths, Ryugen Tanemura and Shiori Ijuin.</p>
           </licence>
         </availability>
         <date from="2019" to="2025">2019-2025</date>
@@ -108,7 +107,7 @@
           <witness xml:id="BhD">
             <abbr type="siglum">BhḌ</abbr>
             <bibl>
-              <ptr target="bib:Natori2020_01"/>
+              <!--<ptr target="bib:Natori2020_01"/>-->
             </bibl>
           </witness>
         </listWit>
@@ -168,11 +167,6 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
       <variantEncoding method="parallel-segmentation" location="internal"/>
       <!-- Part mandatory --> 
     </encodingDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="san-Latn">Sanskrit, romanized</language>
-      </langUsage>
-    </profileDesc>
     <revisionDesc>
       <change who="part:argr" when="2024-12">finished first round of cleaning the xml code</change>
       <change who="part:axja" when="2024-03">Form tex to tei</change>
