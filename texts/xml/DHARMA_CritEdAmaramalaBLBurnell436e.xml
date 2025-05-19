@@ -1,7 +1,3 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="amaramalaBurnell">
     <teiHeader>
         <fileDesc>
@@ -40,33 +36,21 @@
                                 <repository>Oriental manuscript</repository>
                                 <idno>Brunell 436 (e)</idno>
                             </msIdentifier>
-                            <!--<msContents>
-                                <msItem>
-                                    <title>Amaramālā</title>
-                                    <!-\- You can also add a colophon if needed -\->
-                                    <!-\-<colophon>
-										<quote></quote>
-										</colophon> -\->
-                                    <!-\- colophon should be structures with quote elements with attribute @type and @xml:lang when necessary -\->
-                                </msItem>
-                            </msContents>-->
+                            
                             <physDesc>
                                 <objectDesc>
-                                    <!-- Here you can give a physical description of the manuscript in prose-->
+                                    
                                 	<p>According to Keith and Thomas (1935: 315, no. 5172), the text is written in Devanāgarī script across nine folios of paper, each measuring 6.5 by 3.5 inches.</p>
                                 </objectDesc>
-                                <handDesc> <!-- Add an attribute @hands if you have more than one hand -->
-                                    <!-- Create a handNote for each hand -->
-                                	<handNote xml:id= "msBLBurnell436e_H1" scriptRef="class:38771 maturity:83215">
+                                <handDesc> 
+                                    
+                                	<handNote xml:id="msBLBurnell436e_H1" scriptRef="class:38771 maturity:83215">
                                         <abbr type="hand">MS:H<hi rend="subscript">1</hi></abbr>
                                         <p>Main hand of the manuscript, black ink, Devanagari script</p>
                                     </handNote>
                                 </handDesc>
                             </physDesc>
-                            <!--<history>
-                                <!-\- Here you can decribe the history of the manuscript in prose. Use <origDate> and <origPlace> to emphasize the place and date of creation -\->
-                                <p></p>
-                            </history>-->
+                            
                         </msDesc>
                     </witness>
                 </listWit>
@@ -75,11 +59,9 @@
             <encodingDesc>
                 <projectDesc>
                     <p>Encoded in TEI according to the <ref target="{URI for DHARMA editorial conventions or page with link to Encoding Guides}">Conventions of ERC-Project DHARMA</ref>.</p>
-                    <!-- A second paragraph can be used to acknowledge any relevant funding agency, project acronym and number, any to specify for instance that the edition results from a personal research project such as a PhD.  
-  -->
                 </projectDesc>
                 <editorialDecl> 
-                    <p></p>
+                    <p/>
                     <correction>
                         <p/>
                     </correction>
@@ -99,143 +81,134 @@
                 <change who="part:axja" when="2025-05-15" status="draft">Imported from googledoc</change>
             </revisionDesc>
     </teiHeader>
-    <text >
+    <text>
 	<body>
-		<div type="edition" xml:lang="san">
+		<div type="edition" xml:lang="san-Latn">
 <div>
-	<ab type="invocation"><pb n="1r"/><lb n="1r1"/>श्रीगणेशाय नमः ॥ श्रीगुरुचर्णकमलेभ्यो<note> Correct श्रीगुरुचरणकमलाभ्यां, श्रीगुरुचरणकमलेभ्यो, or श्रीगुरुचरणकमलाभ्यां.</note>
-	<lb n="1r2"/>नमः ॥ श्रीसरस्वत्यै नमः ॥ श्रियै नमः ॥ §</ab>
+	<ab type="invocation"><pb n="1r"/><lb n="1r1"/>śrīgaṇēśāya namaḥ || śrīgurucarṇakamalēbhyō<note> Correct śrīgurucaraṇakamalābhyāṁ, śrīgurucaraṇakamalēbhyō, or śrīgurucaraṇakamalābhyāṁ.</note>
+		<lb n="1r2"/>namaḥ || śrīsarasvatyai namaḥ || śriyai namaḥ || §</ab>
 </div>
 <div type="group">
 <lg met="anuṣṭubh" n="1">
-<l n="ab"><lb n="1r3"/>प्रणम्य परमात्मानं वालधी-वृद्धि-सिद्धये</l> 
-<l n="cd">शव्द-भेद<lb n="1r4" break="no"/>मृजुं कुर्वे ऽमरमाला करोम्यहम् ॥ §§ <note>Two indistinct space filling symbols.</note></l>
+	<l n="ab"><lb n="1r3"/>praṇamya paramātmānaṁ vāladhī-vr̥ddhi-siddhayē</l> 
+	<l n="cd">śavda-bhēda<lb n="1r4" break="no"/>mr̥juṁ kurvē ’maramālā karōmyaham || §§ <note>Two indistinct space filling symbols.</note></l>
 </lg>
 <lg met="anuṣṭubh" n="2">
-<l n="ab"><label><lb n="1r5"/>अहंकार-नाम ॥</label> दर्पोभिमानहंकारो स्मय-गर्व-मदस्तथा</l>
-<l n="cd"><lb n="1r6"/>वक्षस्थल-नाम ॥ वक्षस्थलोरूवत्सश्च विशालो पीनकस्तथा</l>
+	<l n="ab"><label><lb n="1r5"/>ahaṁkāra-nāma ||</label> darpōbhimānahaṁkārō smaya-garva-madastathā</l>
+	<l n="cd"><lb n="1r6"/>vakṣasthala-nāma || vakṣasthalōrūvatsaśca viśālō pīnakastathā</l>
 </lg>
 <lg met="anuṣṭubh" n="3">
-<l n="ab"><lb n="1r7"/><label>सखी-नाम ॥</label> सखी  वेश्या च संघ्रीची आलीश्च सहचारिणी –</l> 
-<l n="cd"><lb n="1r8"/><label>वुधि-नाम ॥</label> वुधि-मनीषाधिषणा-मेधा प्रज्ञा च सैमुखी धी</l>
+	<l n="ab"><lb n="1r7"/><label>sakhī-nāma ||</label> sakhī  vēśyā ca saṁghrīcī ālīśca sahacāriṇī –</l> 
+	<l n="cd"><lb n="1r8"/><label>vudhi-nāma ||</label> vudhi-manīṣādhiṣaṇā-mēdhā prajñā ca saimukhī dhī</l>
 </lg>
 <lg met="anuṣṭubh" n="4">
-<l n="ab"><lb n="1r9" break="no"/>मति-धारणाश्चैव घुपजब्धिज्ञानकारका ॥</l>
-<l n="cd"><lb n="1r10"/><label>सरस्वती-नाम ॥</label> वाणी-सरस्वती वाक् च गिरां ? ? सार<hi rend="check">स्त</hi> ॥</l>
+	<l n="ab"><lb n="1r9" break="no"/>mati-dhāraṇāścaiva ghupajabdhijñānakārakā ..</l>
+	<l n="cd"><lb n="1r10"/><label>sarasvatī-nāma ||</label> vāṇī-sarasvatī vāk ca girāṁ ? ? sāra<hi rend="check">sta</hi> ..</l>
 </lg>
 <lg met="anuṣṭubh" n="5">
-<l n="ab"><label>शीघ्र-नाम ॥</label> सहसा <lb n="1r11"/>ऊटति<note>If ujjvala is correct in the last line, then it is unlikely that ū is correct here. We don't grasp yet which word is intended.</note> तूर्ण-शीघ्रं आसुनरश्च</l> 
-<l n="cd">सजवर भस<hi rend="check">म्भोलवत्स्वाजीयेरात्या<lb n="1r12" break="no"/>न्तर ॥</hi></l>
+	<l n="ab"><label>śīghra-nāma ||</label> sahasā <lb n="1r11"/>ūṭati<note>If ujjvala is correct in the last line, then it is unlikely that ū is correct here. We don't grasp yet which word is intended.</note> tūrṇa-śīghraṁ āsunaraśca</l> 
+	<l n="cd">sajavara bhasa<hi rend="check">mbhōlavatsvājīyērātyā<lb n="1r12" break="no"/>ntara ..</hi></l>
 </lg>
 <lg met="anuṣṭubh" n="6">
-<l n="ab"><label>धाम-नाम ॥</label> <hi rend="check">सदन-सद्म-नागार-गेह-वेस्मश्चं मंदिर</hi></l>
-<l n="cd"><hi rend="check">आलय<lb n="1r13" break="no"/>-गृह-संकेत-निकेत-निलयायतन् ॥</hi></l>
+	<l n="ab"><label>dhāma-nāma ||</label> <hi rend="check">sadana-sadma-nāgāra-gēha-vēsmaścaṁ maṁdira</hi></l>
+	<l n="cd"><hi rend="check">ālaya<lb n="1r13" break="no"/>-gr̥ha-saṁkēta-nikēta-nilayāyatan ..</hi></l>
 </lg>
 <lg met="anuṣṭubh" n="7">
-<l n="ab">भवनं <hi rend="check">संडुकं</hi> चाप्यस्थानं वस<lb n="1r14" break="no"/>तिका<hi rend="check">त्या</hi> ॥</l>
-<l n="cd"><label>स्वर्ण-नाम ॥</label> कंचनार्जुनकांतिश्च सुरहेम-हिरण्यकः</l>
+	<l n="ab">bhavanaṁ <hi rend="check">saṁḍukaṁ</hi> cāpyasthānaṁ vasa<lb n="1r14" break="no"/>tikā<hi rend="check">tyā</hi> ..</l>
+	<l n="cd"><label>svarṇa-nāma ||</label> kaṁcanārjunakāṁtiśca surahēma-hiraṇyakaḥ</l>
 </lg>
 <lg met="anuṣṭubh" n="8">
-<l n="ab"><lb n="1r15"/>पटुवर्ण<hi rend="check">श्चपु</hi>रटघुष्टापह-हाटकस्तथा</l>
-<l n="cd">सातकुंभं हरिश्चर्ण चामी<lb n="1r16" break="no"/>कर-हरिधौतकः</l>
+	<l n="ab"><lb n="1r15"/>paṭuvarṇa<hi rend="check">ścapu</hi>raṭaghuṣṭāpaha-hāṭakastathā</l>
+	<l n="cd">sātakuṁbhaṁ hariścarṇa cāmī<lb n="1r16" break="no"/>kara-haridhautakaḥ</l>
 </lg>
 <lg met="anuṣṭubh" n="9">
-<l n="ab">जातरूपश्च कनक-रुक्म<hi rend="check">स्तह</hi>-महारजत ॥</l>
-<l n="cd"><lb n="1r17"/><label>रूपा-माम ॥</label> रौक्मं रजत-दूर्बानजातरूपश्च खर्जुर ।</l>
+	<l n="ab">jātarūpaśca kanaka-rukma<hi rend="check">staha</hi>-mahārajata ..</l>
+	<l n="cd"><lb n="1r17"/><label>rūpā-māma ||</label> raukmaṁ rajata-dūrbānajātarūpaśca kharjura .</l>
 </lg>
-<!--There are invocations, a maṅgala verse, and then a series of anuṣṭubh verses with synonym lists, introduced each time by a heading X-nāma
-Pride (ahaṃkāra-nāma): ahaṃkāra, darpa, abhimāna, smaya, garva, mada
-Breast (vakṣasthala-nāma): vakṣasthala, ūrūvatsa, viśāla, pīnaka
-Girlfriend (sakhī-nāma): sakhī, veśyā, sadhrīcī, ālī, sahacāriṇī
-Intelligence (buddhi-nāma): buddhi, manīṣā, dhīṣaṇa, medhā, prajñā, saimukhī, dhīmatā, dhāraṇā
-Speech (sarasvatī-nāma): vāṇī, sarasvatī, vāk, girāṃ sāra
-Swift (śīghra-nāma): sahasā, ūṭati, tūrṇa, śīghra, āsu, sajvara
-Building (dhāma-nāma): sadana, sadma, anāgāra, geha, vesma, mandira, ālaya, gṛha, saṅketa, niketa, nilaya, āyatana
-Gold (svarṇa-nāma): kañcana, arjunakānti, sura, hema, hiraṇyaka, hāṭaka, sātakumbha, hariścaraṇa, cāmīkara, haridhauṭaka, jātarūpa, kanaka, rukma, mahārajata
-Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura-->
+
 </div>
 <div type="group"><ab>
-	उज्ज्ल-नाम ॥
+	ujjla-nāma ||
 <pb n="1v"/><fw n="1v" place="top-left"><num value="1">1</num></fw>
-<lb n="1v1"/>शुक्र-शुभ्र-सुचि-स्वेत-विशदश्चेति पांडुर<note>I am not sure what the meaning of the dot to the right if this word is, but I don't think it's anusvāra. Maybe a low-level punctuation mark, like our comma? Let's see if we get other cases.</note><note>I think that it is used for ण, we have other examples such as पुंडरीक, शिखंडी, श्रीषंड</note><note>I meant the dot to the right of र. the use of anusvāra as multipurpose nasal is completely standard in Indian mss. it is one of the main differences between use of anusvāra/cecak in Indonesia (where at least after the 7th c. it only serves as equivalent to ṅ) and the use of anusvāra in India.</note><note>Ah, interesting. Another new information! Thank you! Concerning the dot just in the right, could it be ः ?</note>-धवलासिता 
+<lb n="1v1"/>शुक्र-शुभ्र-सुचि-स्वेत-विशदश्चेति पांडुर<note>I am not sure what the meaning of the dot to the right if this word is, but I don't think it's anusvāra. Maybe a low-level punctuation mark, like our comma? Let's see if we get other cases.</note><note>I think that it is used for ṇa, we have other examples such as puṁḍarīka, śikhaṁḍī, śrīṣaṁḍa</note><note>I meant the dot to the right of ra. the use of anusvāra as multipurpose nasal is completely standard in Indian mss. it is one of the main differences between use of anusvāra/cecak in Indonesia (where at least after the 7th c. it only serves as equivalent to ṅ) and the use of anusvāra in India.</note><note>Ah, interesting. Another new information! Thank you! Concerning the dot just in the right, could it be ḥ ?</note>-धवलासिता 
 <lb n="1v2" break="no"/>र्जुनश्चैव ह्यवदातश्च कांतिकृत् ॥ सोभा-नाम ॥ भाभा-सा 
 <lb n="1v3" break="no"/>भा-प्रभाश्चेव सुषमा-परमाछवि-द्युति-कांति तथैवेति
 <lb n="1v4"/>? ष-<note>@andrew.ollett@gmail.comhow would you read the first aksara?_Assigned to Andrew Ollett_</note><note>I have no idea.</note>सौभाग्यदापिनी ॥ कीर्त्ति-नाम ॥ अंसुग-भक्ति
-<lb n="1v5" break="no"/>गश्चैव मरीचिस्तु मयूष <note> Corr. मयूख</note>-कर-रस्मि <note> Corr. रश्मि</note>-ज्योति-वसुश्चैव की
+<lb n="1v5" break="no"/>गश्चैव मरीचिस्तु मयूष <note> Corr. mayūkha</note>-कर-रस्मि <note> Corr. raśmi</note>-ज्योति-वसुश्चैव की
 <lb n="1v6" break="no"/>र्त्तिश्वैव तथापर ॥ <note>It seems that we now get synonyms of peacock, but the heading has been omitted.</note> बर्हिशिखी च नीलकंठी च व्याल
-<lb n="1v7" break="no"/>भुक् शिव<hi rend="check">सुनू</hi>वाहनश्चैव<note>śivasūnuvāhana makes sense but it seems to be hypermetrical</note> कलापी च मयूरकः ॥  सिंह-नाम (॥) 
-<lb n="1v8"/>केहरि <note> Corr. केशरि</note>-हरि-द्वीपी च व्याघ्र-पंचानतस्तथा कंटीरद <note> Corr. कंटीरव</note>-मृगपति
-<lb n="1v9" break="no"/>पुंडरीकश्च जक्षपो <note> Corr. यक्षपो. Cf. Revākhaṇḍa of the Skandapurāṇa 78.9–10: caturtho lokapālānām akṣayo yakṣapo 'pi vā | yakṣo yakṣādhipaḥ śreṣṭhaḥ kuṇḍadhāro 'bhavat sutaḥ | susvaṁrūpavayaḥ prāpya mātāpitror anujñayā || tapaś cakāra vipulaṁ narmadātīram āśritaḥ | yatra vyāghreśvaraṁ liṅgaṁ vyāghrakheṭakam uttamam ||.</note> मृगराजस्तु-सिंहश्च ॥ दुरा<note>this cannot be correct, but I don't see the solution yet.</note><note>@andrew.ollett@gmail.com can you help?</note><note>I am also having a hard time with this. Maybe द्वरदघ्न = द्विरदघ्न?</note>द <note> <hi rend="check">Corr. द्विरद</hi> ?</note>-घ्नश्च केशरी ॥
-<lb n="1v10"/>अश्व-नाम || हय-सैंधव-वाजी च तुरगश्च तुरंगम <hi rend="check">वा</hi><hi rend="check">क</hi><note>not sure, but possibly ह्य is written or at least intended here</note>
-<lb n="1v11" break="no"/>श्व-घोटकश्चैव <hi rend="check">पू</hi>पा<note>it looks like श्पा, error for श्वा? still, I don't see śvākarṇa as synonym of 'horse' anywhere.</note><note>or, maybe श्या ? But I don't know yet that the cluster -'va' and -'ya' are interchangeable also in Sanskrit mss. as they are in Javanese script.. If so, then we have to accept śvākarṇa as synonym for 'horse'</note>कर्णाश्च <hi rend="check">य</hi>दावुक<note>हेडावुक ?</note><note>I see यज्ञपुक्, यज्ञवुक् or यज्ञधुक्. The latter could mean 'milking the sacrifice'. I don't know any synonym of 'horse' like this.</note> ॥ हस्ती-नाम ||
-<lb n="1v12"/>दंती-द्वरद <note> Corr. द्विरद</note>- द्वीपश्च पद्मी-कुंजर-कुंभीकाः<note>I think this is indeed what the manuscript has. since kumbhīka has a different meaning than 'elephant', an emendation is probably required.</note> करीभः <note> Corr. करीभ-</note> वार
-<lb n="1v13" break="no"/>न <note> Corr. वारण</note>-व्यालः <hi rend="check">स्तंवंसुंगृल</hi> <note> Corr. <hi rend="check">स्तम्बेरम-सुंडाल-नागुहाटो</hi> ?</note>-<note>here we seem to have a part of the expected word स्तम्बेरम, then सुंडाल (meaning शुण्डाल), and then something like नागुहटो.</note><hi rend="check">नाग-</hi>ह<hi rend="check">गे</hi>-मत्त-मातांग-नागश्च <hi rend="check">मपं
-<lb n="1v14" break="no"/></hi><hi rend="check">दानगप</hi>-गज एकंदंतो <note> Corr. <hi rend="check">एकदन्तो</hi> ?</note> द्विदंतश्च क<hi rend="check">जा</hi>ले<note>or kukṣāle? kakṣāle? I don't know yet which word is intended.</note>-<hi rend="check">वस</hi><hi rend="check">भम्रभी</hi><note>समसमी? not yet sure...</note> ॥
+<lb n="1v7" break="no"/>भुक् शिव<hi rend="check">sunū</hi>वाहनश्चैव<note>śivasūnuvāhana makes sense but it seems to be hypermetrical</note> कलापी च मयूरकः ॥  सिंह-नाम (॥) 
+<lb n="1v8"/>केहरि <note> Corr. kēśari</note>-हरि-द्वीपी च व्याघ्र-पंचानतस्तथा कंटीरद <note> Corr. kaṁṭīrava</note>-मृगपति
+<lb n="1v9" break="no"/>पुंडरीकश्च जक्षपो <note> Corr. yakṣapō. Cf. Revākhaṇḍa of the Skandapurāṇa 78.9–10: caturtho lokapālānām akṣayo yakṣapo 'pi vā | yakṣo yakṣādhipaḥ śreṣṭhaḥ kuṇḍadhāro 'bhavat sutaḥ | susvaṁrūpavayaḥ prāpya mātāpitror anujñayā || tapaś cakāra vipulaṁ narmadātīram āśritaḥ | yatra vyāghreśvaraṁ liṅgaṁ vyāghrakheṭakam uttamam ||.</note> मृगराजस्तु-सिंहश्च ॥ दुरा<note>this cannot be correct, but I don't see the solution yet.</note><note>@andrew.ollett@gmail.com can you help?</note><note>I am also having a hard time with this. Maybe dvaradaghna = dviradaghna?</note>द <note> <hi rend="check">Corr. dvirada</hi> ?</note>-घ्नश्च केशरी ॥
+<lb n="1v10"/>अश्व-नाम || हय-सैंधव-वाजी च तुरगश्च तुरंगम <hi rend="check">vā</hi><hi rend="check">ka</hi><note>not sure, but possibly hya is written or at least intended here</note>
+<lb n="1v11" break="no"/>श्व-घोटकश्चैव <hi rend="check">pū</hi>पा<note>it looks like śpā, error for śvā? still, I don't see śvākarṇa as synonym of 'horse' anywhere.</note><note>or, maybe śyā ? But I don't know yet that the cluster -'va' and -'ya' are interchangeable also in Sanskrit mss. as they are in Javanese script.. If so, then we have to accept śvākarṇa as synonym for 'horse'</note>कर्णाश्च <hi rend="check">ya</hi>दावुक<note>hēḍāvuka ?</note><note>I see yajñapuk, yajñavuk or yajñadhuk. The latter could mean 'milking the sacrifice'. I don't know any synonym of 'horse' like this.</note> ॥ हस्ती-नाम ||
+<lb n="1v12"/>दंती-द्वरद <note> Corr. dvirada</note>- द्वीपश्च पद्मी-कुंजर-कुंभीकाः<note>I think this is indeed what the manuscript has. since kumbhīka has a different meaning than 'elephant', an emendation is probably required.</note> करीभः <note> Corr. karībha-</note> वार
+<lb n="1v13" break="no"/>न <note> Corr. vāraṇa</note>-व्यालः <hi rend="check">staṁvaṁsuṁgr̥la</hi> <note> Corr. <hi rend="check">stambērama-suṁḍāla-nāguhāṭō</hi> ?</note>-<note>here we seem to have a part of the expected word stambērama, then suṁḍāla (meaning śuṇḍāla), and then something like nāguhaṭō.</note><hi rend="check">nāga-</hi>ह<hi rend="check">gē</hi>-मत्त-मातांग-नागश्च <hi rend="check">mapaṁ
+<lb n="1v14" break="no"/></hi><hi rend="check">dānagapa</hi>-गज एकंदंतो <note> Corr. <hi rend="check">ēkadantō</hi> ?</note> द्विदंतश्च क<hi rend="check">jā</hi>ले<note>or kukṣāle? kakṣāle? I don't know yet which word is intended.</note>-<hi rend="check">vasa</hi><hi rend="check">bhamrabhī</hi><note>samasamī? not yet sure...</note> ॥
 <lb n="1v15"/>=अष्टसिद्धि-नामा • अणिमा महिमा चैव गरिमा लघिमान्तथा
 <lb n="1v16"/>प्राप्ति-प्राकाम्पमी-शत्वं-वसित्वं चाष्टसिद्वयः ॥ निधि-नाम ॥ म 
 <lb n="1v17" break="no"/>हापद्मश्च पद्मश्च शंख-मकर-कछपौ मुकंद-मकरश्चैव खर्वकुंद 
-<lb n="1v18" break="no"/>श्च नीलकः ॥ मनोरथ-नाम ॥ कामो भिलाष-<hi rend="check">तर्षू</hi>श्च <hi rend="check">वषम</hi>
-<lb n="1v19" break="no"/><hi rend="check">स</hi>च मनोरथ ॥ मोक्ष-नाम ॥ मुक्ति-अमृत-कैवाल्यं
+<lb n="1v18" break="no"/>श्च नीलकः ॥ मनोरथ-नाम ॥ कामो भिलाष-<hi rend="check">tarṣū</hi>श्च <hi rend="check">vaṣama</hi>
+<lb n="1v19" break="no"/><hi rend="check">sa</hi>च मनोरथ ॥ मोक्ष-नाम ॥ मुक्ति-अमृत-कैवाल्यं
 <pb n="2r"/>
 <lb n="2r1"/>निर्वाणं ह्यपवर्गकं महासिद्धिपद-स्वर्ग-मुक्ति-श्रेयस
 <lb n="2r2" break="no"/>स्तथा ॥ राजा-नाम ॥ स्वामी भूपति-भूपश्च अधिपतिश्च परि
-<lb n="2r3" break="no"/>वृढी <note>  Corr. वृढः. Cf. AK 03.01.010–11ab: guṇaiḥ pratīte tu kṛtalakṣaṇāhatalakṣaṇau | ibhya āḍhyo dhanī svāmī tvīśvaraḥ patirīśitā || adhibhūr nāyako netā prabhuḥ parivṛḍho 'dhipaḥ |</note>-अधीशश्च प्रभु चैव <note> Corr. प्रभुश्चैव</note> ह्यधिराजस्तथैव च ॥ मंगल-नाम <note> AK.01.03.025: śukro daityaguruḥ kāvya uśanā bhārgavaḥ kaviḥ | aṅgārakaḥ kujo bhaumo lohitāṅgo mahīsutaḥ || 25 ||AṬS: aṅgārakaḥ kujo bhaumo lohitāṅgo mahīsutaḥ || 24 ||aṅgārakādayaḥ pañca maṅgale | agirgatyarthaḥ | mandāravad āran | bhaumaḥ | ‘śivādibhyo'ṇ’ (4. 1. 112) ||</note> ॥
-<lb n="2r4"/>कुजः अंगारकश्चैव लोहितांगो महिसुतः <note> Corr. महीसुतः</note> <hi rend="check">हाव</hi>भालक
+<lb n="2r3" break="no"/>वृढी <note>  Corr. vr̥ḍhaḥ. Cf. AK 03.01.010–11ab: guṇaiḥ pratīte tu kṛtalakṣaṇāhatalakṣaṇau | ibhya āḍhyo dhanī svāmī tvīśvaraḥ patirīśitā || adhibhūr nāyako netā prabhuḥ parivṛḍho 'dhipaḥ |</note>-अधीशश्च प्रभु चैव <note> Corr. prabhuścaiva</note> ह्यधिराजस्तथैव च ॥ मंगल-नाम <note> AK.01.03.025: śukro daityaguruḥ kāvya uśanā bhārgavaḥ kaviḥ | aṅgārakaḥ kujo bhaumo lohitāṅgo mahīsutaḥ || 25 ||AṬS: aṅgārakaḥ kujo bhaumo lohitāṅgo mahīsutaḥ || 24 ||aṅgārakādayaḥ pañca maṅgale | agirgatyarthaḥ | mandāravad āran | bhaumaḥ | ‘śivādibhyo'ṇ’ (4. 1. 112) ||</note> ॥
+<lb n="2r4"/>कुजः अंगारकश्चैव लोहितांगो महिसुतः <note> Corr. mahīsutaḥ</note> <hi rend="check">hāva</hi>भालक
 <lb n="2r5"/>कल्की च भवनश्च भौमकस्तथा ॥ शुक्र-नाम ॥ शुक्रो दैत्यगुरु
 <lb n="2r6"/>काव्य उशना-भर्गव-कवि ॥ बृहस्पति-नाम ॥ बृहस्पति-देवगु
-<lb n="2r7" break="no"/>रो धिषणा ॥ <hi rend="check">श्रीषंड</hi>-<hi rend="check">ह्यं</hi>गिराग्<hi rend="check">हयलि</hi>श्च गुरोश्चैव तथा
-<lb n="2r8"/>देवपुरोहितं ॥ स्रोता-नाम <note> Either the heading does not fit with all the terms, or the emendation kāśyapasuta is wrong, or we have to assume a gap in the text before kāśyapasuta.</note> ॥ शशिगिरी <note> Corr. तरंगिणी ?</note> <add place="above">च</add> जलजमुक्तागुलि
-<lb n="2r9" break="no"/>कशीपसुत <note> Corr. काश्यपसुतः. Cf. Vaijayantī 1.1.37 garuḍaḥ kāśyapasuto garutmān uragāśanaḥ | suparṇītanayas tārkṣyo vainateyo mahendrajit ||</note> ॥लक्ष्मी-नाम <note> Cf. Vaijayantī 1.1.35cd–36: aṣṭakarmaparibhraṣṭo vītarāgaśca kevalī || lakṣmīḥ padmālayā śaktirmā kṣīrodasutendirā | ramābdhijā bhārgavī ca strīliṃgāścāṃbujāhvayāḥ || </note> ॥ लक्ष्मी-पद्मालया-पद्मा क
-<lb n="2r10" break="no"/>मला-श्री-हरिप्रिया इंदिरा-लोकमातामा <note>Corr. लोकमाता</note> चपला<hi rend="check">र्कमहामो
-<lb n="2r11" break="no"/>क्षीराब्धितनया चैव तथा </hi>च वि<hi rend="check">ष्णु</hi>व<hi rend="check">ऽ</hi>भभ <note> Corr. विष्णुवत्सला ?</note> <note>The reading ṣṇu is very uncertain. But if it is correct (or if this reading was originally intended) then we might emend viṣṇuvatsalā. But it doesn't look like this was actually written.</note><note>Could the last word be read as वच्छला = वत्सला?</note><hi>॥ माता-नाम</hi> <note> ACM 557cd-558ab: māturmātāmahādyevaṃ mātāmbā jananī prasūḥ || savitrī janayitrī ca kṛmilā tu bahuprasūḥ |</note> −
-<lb n="2r12"/>अंबा-जननि <note> Corr. जननी</note>-सावित्री-माता-<hi rend="check">सुज</hi>नि-इंदिरा ॥ नमस्कार-नाम −
+<lb n="2r7" break="no"/>रो धिषणा ॥ <hi rend="check">śrīṣaṁḍa</hi>-<hi rend="check">hyaṁ</hi>गिराग्<hi rend="check">hayali</hi>श्च गुरोश्चैव तथा
+<lb n="2r8"/>देवपुरोहितं ॥ स्रोता-नाम <note> Either the heading does not fit with all the terms, or the emendation kāśyapasuta is wrong, or we have to assume a gap in the text before kāśyapasuta.</note> ॥ शशिगिरी <note> Corr. taraṁgiṇī ?</note> <add place="above">ca</add> जलजमुक्तागुलि
+<lb n="2r9" break="no"/>कशीपसुत <note> Corr. kāśyapasutaḥ. Cf. Vaijayantī 1.1.37 garuḍaḥ kāśyapasuto garutmān uragāśanaḥ | suparṇītanayas tārkṣyo vainateyo mahendrajit ||</note> ॥लक्ष्मी-नाम <note> Cf. Vaijayantī 1.1.35cd–36: aṣṭakarmaparibhraṣṭo vītarāgaśca kevalī || lakṣmīḥ padmālayā śaktirmā kṣīrodasutendirā | ramābdhijā bhārgavī ca strīliṃgāścāṃbujāhvayāḥ || </note> ॥ लक्ष्मी-पद्मालया-पद्मा क
+<lb n="2r10" break="no"/>मला-श्री-हरिप्रिया इंदिरा-लोकमातामा <note>Corr. lōkamātā</note> चपला<hi rend="check">rkamahāmō
+<lb n="2r11" break="no"/>क्षीराब्धितनया चैव तथा </hi>च वि<hi rend="check">ṣṇu</hi>व<hi rend="check">’</hi>भभ <note> Corr. viṣṇuvatsalā ?</note> <note>The reading ṣṇu is very uncertain. But if it is correct (or if this reading was originally intended) then we might emend viṣṇuvatsalā. But it doesn't look like this was actually written.</note><note>Could the last word be read as vacchalā = vatsalā?</note><hi>.. mātā-nāma</hi> <note> ACM 557cd-558ab: māturmātāmahādyevaṃ mātāmbā jananī prasūḥ || savitrī janayitrī ca kṛmilā tu bahuprasūḥ |</note> −
+<lb n="2r12"/>अंबा-जननि <note> Corr. jananī</note>-सावित्री-माता-<hi rend="check">suja</hi>नि-इंदिरा ॥ नमस्कार-नाम −
 <lb n="2r13"/>अभिवादनं नमसकारः वदनं प्रणतिं तथा ॥ सीढी <note> It is a Hindi word for ladder.</note>-नाम ॰
 <lb n="2r14"/>आरोहणं च निश्रेणी सोपानं च मणिमयं ॥ कन्या-नाम •
 <lb n="2r15"/>दुहिता कंन्यका पुत्री तनया तनुजा सुता ॥ शय्या-नाम (॥)
 <lb n="2r16"/>कसीपु-तल्प-शय्या च शयन-संवेशनन्तथा दुग्धफेन<note>I don't understand what this term is doing here, unless it is a metaphor for semen.</note>-
-<lb n="2r17"/><hi rend="check">भ्रमा</hi>शय्या शयानीय तथैव च ॥ कुसुम-नाम ॰
+<lb n="2r17"/><hi rend="check">bhramā</hi>शय्या शयानीय तथैव च ॥ कुसुम-नाम ॰
 <lb n="2r18"/>(प्र)सून-कुसुमं पुष्पं सुमनश्च सुगंधि-सुम ॥<note>this reading seems very doubtful</note><note>probably one final syllable and a spacing mark</note>
 <pb n="2v"/>
 <fw n="2v" place="top-left"><num value="2">2</num></fw>
-<lb n="2v1"/><hi rend="check">उतीता-नाम  उशनजुतं नोशधानं कुंडुं सुधीरकं ? ? ?</hi><note>@andrew.ollett@gmail.com any suggestions?_Assigned to Andrew Ollett_</note>
-<lb n="2v2"/>मुख-नाम ॥ आननं वदनं आस्यं लभनं <note> Corr. लपनं ?</note><note>@andrew.ollett@gmail.com I cannot read लभनं here. There seems to be a vertical bar at the start. How can we interpret it? Read खमनं?_Assigned to Andrew Ollett_</note> वक्त्रकं मुखं<note>Pañcatattvaprakāśaānanaṃ vadanaṃ vaktraṃ mukham āsyaṃ radālayam |kākapakṣaṃ śikhā veṇir veṇī kuntalaśṛṅkhalā || 80 ||</note> भृ
-<lb n="2v3" break="no"/>कुटी <hi rend="check">प्रतिमुंखंमु</hi><note>I have no serious idea. Just for the sake of offering something else छविमुंडंर्पमु At least छविमुंडं may be plausible</note><hi rend="check">कखरंछवि </hi>संपुनं ॥ केश-नाम ॥ शिरोरु
-<lb n="2v4" break="no"/>ह कचः केशः अलकः कुंतलस्तथा चि<hi rend="check">कु</hi>रे<note>looks more like किपुरे or चिपुरे to me</note> <hi rend="check">शीख</hi>रेवाली<note>unsure, especially the consonant after शो that has u below it.शो ुते वालो</note> <hi rend="check">श</hi>
-<lb n="2v5"  break="no"/><hi rend="check">म</hi>जं च <hi rend="check">विशालकः</hi><note>the reading seems correct to me, though the meaning doesn't seem to fit.</note> ॥ मस्तक-नाम ॥ ललाटंमस्तकं चैव अ(नी)
-<lb n="2v6" break="no"/>कं च शिरस्तथा ॥ वाम-नाम ॥ <hi rend="check">वामासितकुंचितं</hi> चैव <hi rend="check">कुटिलं
-<lb n="2v7" break="no"/></hi><hi rend="check">भृकु</hi>टीस्तथा ॥ लोचन-नाम ॥ लोचनं अंबकं<note>I think we have व instead of ब and I cannot read a plain कं.</note> नेत्रं नयनं
-<lb n="2v8"/>च<hi rend="check">क्षुष</hi>स्तथा <hi rend="check">X</hi><note>still unclear about the symbol just before word karṇa-nāma</note><note>number ६२ or ६३?</note> कर्ण-नाम ॥ श्रवण-श्रुति-श्रवं-शव्द 
-<lb n="2v9"/>कर्णं <subst><del>श</del><add place="above">स</add></subst>व्दग्राहकं ॥ हस्त-नाम ॥ हस्त-पानी करं चैव प्र<hi rend="check">लंब
-<lb n="2v10" break="no"/></hi>सय…कः<note>looks like नमनाकुकः but I am not yet getting what words are intended</note><note>@andrew.ollett@gmail.com any idea?</note> ॥ वनसी<note>@andrew.ollett@gmail.com what is this? could it be a vernacular-style spelling for what is vaṁśī in formal spelling of Hindi?but what follow don't seem to be synonyms of 'flute'._Assigned to Andrew Ollett_</note>-नाम ॥ वरी चैव कवेनी <note>कुवेनी ?</note><hi rend="check">ह्यात</hi><note>स्यात ?</note><hi rend="check">मीन
-<lb n="2v11" break="no"/>हा-म</hi><hi rend="check">त्स्य</hi><hi rend="check">धनिक</hi><note>धतिमा ?धनिमा ?</note><hi rend="check"> वेस्ती वनसी </hi>चैव कंठप्राणावरोधकः
-<lb n="2v12"/>अधर-नाम ॥ ओष्ठ<note>what is th ething below this? is it actually ष्ठ्य ? but for the meaning, we don't want y.</note>श्चैव रदश्चैव अधरश्च रद-छवि…<note>दमितं ?दमिंत ?उमितं ?</note>
-<lb n="2v13" break="no"/>मकतश्चैव तथा <hi rend="check">बिंबासं</hi><note>विनास ?विंवास ?</note>णछवि ॥ दंत-नाम ॥ रदनश्च रद
-<lb n="2v14" break="no"/>श्चैव द्विज-दंत-<hi rend="check">हमिमु</hi><hi rend="check">ख</hi><note>or मुख. I still don't understand what synonym for 'teeth' we have here.</note> ॥ ढोरी<note>I don't know this term</note><note>Me neither</note>-नाम ॥ चिबुकं चा<hi rend="check">ह</hi>चाचं च
-<lb n="2v15"/><hi rend="check">क</hi>नयोः राजितछवि ॥ ग्रीवा-नाम ॥ गलो नल-कंधरश्च
-<lb n="2v16"/>ग्रीवा-कंढक<hi rend="check">पो</hi>लिनी ॥ उरज <note> Corr. उरोज</note>-नाम ॥ कुचं पयोधरं ऊर्जं
+<lb n="2v1"/><hi rend="check">utītā-nāma  uśanajutaṁ nōśadhānaṁ kuṁḍuṁ sudhīrakaṁ ? ? ?</hi><note>@andrew.ollett@gmail.com any suggestions?_Assigned to Andrew Ollett_</note>
+<lb n="2v2"/>मुख-नाम ॥ आननं वदनं आस्यं लभनं <note> Corr. lapanaṁ ?</note><note>@andrew.ollett@gmail.com I cannot read labhanaṁ here. There seems to be a vertical bar at the start. How can we interpret it? Read khamanaṁ?_Assigned to Andrew Ollett_</note> वक्त्रकं मुखं<note>Pañcatattvaprakāśaānanaṃ vadanaṃ vaktraṃ mukham āsyaṃ radālayam |kākapakṣaṃ śikhā veṇir veṇī kuntalaśṛṅkhalā || 80 ||</note> भृ
+<lb n="2v3" break="no"/>कुटी <hi rend="check">pratimuṁkhaṁmu</hi><note>I have no serious idea. Just for the sake of offering something else chavimuṁḍaṁrpamu At least chavimuṁḍaṁ may be plausible</note><hi rend="check">kakharaṁchavi </hi>संपुनं ॥ केश-नाम ॥ शिरोरु
+<lb n="2v4" break="no"/>ह कचः केशः अलकः कुंतलस्तथा चि<hi rend="check">ku</hi>रे<note>looks more like kipurē or cipurē to me</note> <hi rend="check">śīkha</hi>रेवाली<note>unsure, especially the consonant after śō that has u below it.śō utē vālō</note> <hi rend="check">śa</hi>
+<lb n="2v5" break="no"/><hi rend="check">ma</hi>जं च <hi rend="check">viśālakaḥ</hi><note>the reading seems correct to me, though the meaning doesn't seem to fit.</note> ॥ मस्तक-नाम ॥ ललाटंमस्तकं चैव अ(नी)
+<lb n="2v6" break="no"/>कं च शिरस्तथा ॥ वाम-नाम ॥ <hi rend="check">vāmāsitakuṁcitaṁ</hi> चैव <hi rend="check">kuṭilaṁ
+<lb n="2v7" break="no"/></hi><hi rend="check">bhr̥ku</hi>टीस्तथा ॥ लोचन-नाम ॥ लोचनं अंबकं<note>I think we have va instead of ba and I cannot read a plain kaṁ.</note> नेत्रं नयनं
+<lb n="2v8"/>च<hi rend="check">kṣuṣa</hi>स्तथा <hi rend="check">X</hi><note>still unclear about the symbol just before word karṇa-nāma</note><note>number 62 or 63?</note> कर्ण-नाम ॥ श्रवण-श्रुति-श्रवं-शव्द 
+<lb n="2v9"/>कर्णं <subst><del>śa</del><add place="above">sa</add></subst>व्दग्राहकं ॥ हस्त-नाम ॥ हस्त-पानी करं चैव प्र<hi rend="check">laṁba
+<lb n="2v10" break="no"/></hi>सय…कः<note>looks like namanākukaḥ but I am not yet getting what words are intended</note><note>@andrew.ollett@gmail.com any idea?</note> ॥ वनसी<note>@andrew.ollett@gmail.com what is this? could it be a vernacular-style spelling for what is vaṁśī in formal spelling of Hindi?but what follow don't seem to be synonyms of 'flute'._Assigned to Andrew Ollett_</note>-नाम ॥ वरी चैव कवेनी <note>kuvēnī ?</note><hi rend="check">hyāta</hi><note>syāta ?</note><hi rend="check">mīna
+<lb n="2v11" break="no"/>हा-म</hi><hi rend="check">tsya</hi><hi rend="check">dhanika</hi><note>dhatimā ?dhanimā ?</note><hi rend="check"> vēstī vanasī </hi>चैव कंठप्राणावरोधकः
+<lb n="2v12"/>अधर-नाम ॥ ओष्ठ<note>what is th ething below this? is it actually ṣṭhya ? but for the meaning, we don't want y.</note>श्चैव रदश्चैव अधरश्च रद-छवि…<note>damitaṁ ?damiṁta ?umitaṁ ?</note>
+<lb n="2v13" break="no"/>मकतश्चैव तथा <hi rend="check">biṁbāsaṁ</hi><note>vināsa ?viṁvāsa ?</note>णछवि ॥ दंत-नाम ॥ रदनश्च रद
+<lb n="2v14" break="no"/>श्चैव द्विज-दंत-<hi rend="check">hamimu</hi><hi rend="check">kha</hi><note>or mukha. I still don't understand what synonym for 'teeth' we have here.</note> ॥ ढोरी<note>I don't know this term</note><note>Me neither</note>-नाम ॥ चिबुकं चा<hi rend="check">ha</hi>चाचं च
+<lb n="2v15"/><hi rend="check">ka</hi>नयोः राजितछवि ॥ ग्रीवा-नाम ॥ गलो नल-कंधरश्च
+<lb n="2v16"/>ग्रीवा-कंढक<hi rend="check">pō</hi>लिनी ॥ उरज <note> Corr. urōja</note>-नाम ॥ कुचं पयोधरं ऊर्जं
 <lb n="2v17"/>स्तनौ ऊर-मंडलछवि ॥ रोमराजी-नाम ॥ रोमं राजी च
-<lb n="2v18"/>मवली अगलितं ततिरी<note>रो ?</note>मयं रोमयं रोमकं रम्यं ऊंचितं
+<lb n="2v18"/>मवली अगलितं ततिरी<note>rō ?</note>मयं रोमयं रोमकं रम्यं ऊंचितं
 <pb n="3r"/><note>Arlo to continue here</note>
-<lb n="3r1"/>च तनूरुहं ॥ <hi rend="check">छुड</hi><note>should be error for चुडा?</note><note>the meaning doesn't fit. we must have छुद्रघंटिका. seeAK.02.06.110ab haṃsakaḥ pādakaṭakaḥ kiṃkiṇī kṣudraghaṇṭikāconfusion of ch/kṣ is very common in Devanagari mss.</note>  घंटिका-नाम<note>AM CK:253Synonyms of Woman’s Girdlemekhalā, saptakī, kāñcī, kakṣyā, raśanā, ṅa kəṇḍit.</note> ॥ किंकिनी <note> Corr. किंकिणी</note>-रसना कांची
-<lb n="3r2"/>मेषला <note> Corr. मेखला</note>-<hi rend="check">जाल</hi>कं  तथा <hi rend="check">छुद्रा वलिमनुमान द्युर्द्युरी वंर
-    <lb n="3r3" break="no"/><hi rend="check">मालिका ॥ </hi>सरकस<note>AM CK:50Synonyms of Quivertūṇo niṣaṅgas tūṇīraḥ, upāsaṅgaś ca bāṇadhiḥ,śaradhiś cāpi tūṇistrī, iṣudhir astriyāṁ bhavet.</note> <note> Corr. <hi rend="check">शरकस</hi> ?</note>-नाम ॥ उपासंगश्च तूनीर <note> Corr. तूणीर</note> इषुधी
-<lb n="3r4"/>धनु<hi rend="check">षंगनि</hi> ॥ नूपुर-नाम</hi><note>AM CK:130Synonyms of Braceletmañjīra, pādakaṭaka, tulākoṭi, nūpura, ṅa gəlaṅ.</note> ॥ तुलाकोटिश्च मंजिर-नूपु
-<lb n="3r5" break="no"/>र-<hi rend="check">क</hi>नकस्तथा मंजिका <hi rend="check">कुंकुणपुता मणिसंजिरकश्च</hi>
-<lb n="3r6"/><hi rend="check">स</hi> ॥ वस्त्र-नाम ॥ दूकूलं <note> Corr. दुकूलं</note> च पटं लोलं निचोलं ह्यंबर
-<lb n="3r7" break="no"/>स्तथा वशनं <note> Corr. वसनं</note> वस्त्रकं चैव सुचीलं वसुचीटकं ॥ तांबूल
-<lb n="3r8" break="no"/>नाम ॥ मुखवास-तांबूलं <hi rend="check">धजयानसखिरकं</hi> अहिव
-<lb n="3r9" break="no"/>द्वितरलकं चैव मुखमंडनकास्तथा ॥ दर्प्पन<note>AM CK:219Synonyms of Mirrorādarśa, ṅa pahyasan.------227Synonyms of Picturephalaka, ṅa vimba.</note> <note> Corr. दर्प्पण</note>-नाम ॥
-<lb n="3r10"/>मुकुटं प्रतिविं बंब <note> Corr. बिंब</note>-व्यंजनं-दर्प्पणं तथा आदर्शकं मु
+<lb n="3r1"/>च तनूरुहं ॥ <hi rend="check">chuḍa</hi><note>should be error for cuḍā?</note><note>the meaning doesn't fit. we must have chudraghaṁṭikā. seeAK.02.06.110ab haṃsakaḥ pādakaṭakaḥ kiṃkiṇī kṣudraghaṇṭikāconfusion of ch/kṣ is very common in Devanagari mss.</note>  घंटिका-नाम<note>AM CK:253Synonyms of Woman’s Girdlemekhalā, saptakī, kāñcī, kakṣyā, raśanā, ṅa kəṇḍit.</note> ॥ किंकिनी <note> Corr. kiṁkiṇī</note>-रसना कांची
+<lb n="3r2"/>मेषला <note> Corr. mēkhalā</note>-<hi rend="check">jāla</hi>कं  तथा <hi rend="check">chudrā valimanumāna dyurdyurī vaṁra
+    <lb n="3r3" break="no"/><hi rend="check">mālikā || </hi>सरकस<note>AM CK:50Synonyms of Quivertūṇo niṣaṅgas tūṇīraḥ, upāsaṅgaś ca bāṇadhiḥ,śaradhiś cāpi tūṇistrī, iṣudhir astriyāṁ bhavet.</note> <note> Corr. <hi rend="check">śarakasa</hi> ?</note>-नाम ॥ उपासंगश्च तूनीर <note> Corr. tūṇīra</note> इषुधी
+<lb n="3r4"/>धनु<hi rend="check">ṣaṁgani</hi> ॥ नूपुर-नाम</hi><note>AM CK:130Synonyms of Braceletmañjīra, pādakaṭaka, tulākoṭi, nūpura, ṅa gəlaṅ.</note> ॥ तुलाकोटिश्च मंजिर-नूपु
+<lb n="3r5" break="no"/>र-<hi rend="check">ka</hi>नकस्तथा मंजिका <hi rend="check">kuṁkuṇaputā maṇisaṁjirakaśca</hi>
+<lb n="3r6"/><hi rend="check">sa</hi> ॥ वस्त्र-नाम ॥ दूकूलं <note> Corr. dukūlaṁ</note> च पटं लोलं निचोलं ह्यंबर
+<lb n="3r7" break="no"/>स्तथा वशनं <note> Corr. vasanaṁ</note> वस्त्रकं चैव सुचीलं वसुचीटकं ॥ तांबूल
+<lb n="3r8" break="no"/>नाम ॥ मुखवास-तांबूलं <hi rend="check">dhajayānasakhirakaṁ</hi> अहिव
+<lb n="3r9" break="no"/>द्वितरलकं चैव मुखमंडनकास्तथा ॥ दर्प्पन<note>AM CK:219Synonyms of Mirrorādarśa, ṅa pahyasan.------227Synonyms of Picturephalaka, ṅa vimba.</note> <note> Corr. darppaṇa</note>-नाम ॥
+<lb n="3r10"/>मुकुटं प्रतिविं बंब <note> Corr. biṁba</note>-व्यंजनं-दर्प्पणं तथा आदर्शकं मु
 <lb n="3r11" break="no"/>द्वदार्शकां चकं पारदर्शकं ॥ मुक-नाम ॥ रक-चुंचु
-<lb n="3r12"/>ककंश्चैव मुकः कीर तथैव च ॥ अं<hi rend="check">तःय</hi>नि-नाम ॥
-<lb n="3r13"/>गुप्तं मंतरितं गूठं दूरूहं च तिरोहतं <note> Corr. तिरोहितं</note> अं<hi rend="check">तःय</hi>निं ति
+<lb n="3r12"/>ककंश्चैव मुकः कीर तथैव च ॥ अं<hi rend="check">taḥya</hi>नि-नाम ॥
+<lb n="3r13"/>गुप्तं मंतरितं गूठं दूरूहं च तिरोहतं <note> Corr. tirōhitaṁ</note> अं<hi rend="check">taḥya</hi>निं ति
 <lb n="3r14" break="no"/>रोध्यानं पिधान-छंदनानि च ॥ जल-नाम ॥ अं
-<lb n="3r15" break="no"/>बु-पयं च कमलं कीलालमुदकं तथा पुष्कतं <hi rend="check">वन</hi> <note> Corr. भुवन</note>-वा
-<lb n="3r16" break="no"/>री च अमृतं जीवनं अंभं <add place="above">क</add>-मेघपुष्पं च तोयं च कृ
-<lb n="3r17" break="no"/>षी आयुस्तथैव च <hi rend="check">॥</hi> शंभरं शलिलं तोयं तथा पा
-<lb n="3r18" break="no"/>नी-प्रपादिका ॥ <hi rend="check">चर्ण</hi><note>unclear, maybe error for चूर्ण?</note>-नाम ॥ चर्णं च पलगतिवत्‌
-<lb n="3r19"/>आं<hi rend="check">Xपादययाऽ</hi>कं ॥ वीणा-नाम ॥ वल्लकी
-<lb n="3r20"/>वीणिकातंत्री जंत्री <hi rend="check">वरूरि</hi> आहिका ॥ हरिद्रा-नाम ॥
+<lb n="3r15" break="no"/>बु-पयं च कमलं कीलालमुदकं तथा पुष्कतं <hi rend="check">vana</hi> <note> Corr. bhuvana</note>-वा
+<lb n="3r16" break="no"/>री च अमृतं जीवनं अंभं <add place="above">ka</add>-मेघपुष्पं च तोयं च कृ
+<lb n="3r17" break="no"/>षी आयुस्तथैव च <hi rend="check">..</hi> शंभरं शलिलं तोयं तथा पा
+<lb n="3r18" break="no"/>नी-प्रपादिका ॥ <hi rend="check">carṇa</hi><note>unclear, maybe error for cūrṇa?</note>-नाम ॥ चर्णं च पलगतिवत्‌
+<lb n="3r19"/>आं<hi rend="check">Xpādayayā’</hi>कं ॥ वीणा-नाम ॥ वल्लकी
+<lb n="3r20"/>वीणिकातंत्री जंत्री <hi rend="check">varūri</hi> आहिका ॥ हरिद्रा-नाम ॥
 <pb n="3v"/>
 <fw n="3v" place="top-left"><num value="3">3</num></fw>
 <lb n="3v1"/>पीता-गौरिकाचनी च हरिद्र-वीराजनी तथा ॥ भकुटी-नाम ॥
@@ -243,237 +216,237 @@ Silver (rūpa-nāma): rūpa, raukma, rajata, dūrbāna, jātarūpa, kharjura-->
 <lb n="3v3"/>कालं समय-वेला च अनीहा-निमिषं तथा ॥ कुशल-नाम ॥
 <lb n="3v4"/>क्षेमं ह्यनामयं भद्रं शिव-शुभ-भवं तथ श्रेयं कल्याणकं
 <lb n="3v5"/>चैव भव्यं मंगलकं तथा ॥ संज्ञा-नाम ॥ संज्ञा चाह्वय-गो 
-<lb n="3v6" break="no"/><hi rend="check">य्य</hi>श्च <note> Corr. गोत्रश्च</note> क्षेमवामत्वनामयं ॥  नारी-नाम ॥ नारी वधूश्च व 
+<lb n="3v6" break="no"/><hi rend="check">yya</hi>श्च <note> Corr. gōtraśca</note> क्षेमवामत्वनामयं ॥  नारी-नाम ॥ नारी वधूश्च व 
 <lb n="3v7" break="no"/>निता ललना-स्त्री तथैव च । युवती ह्यबला-बाला ह्यं
-<lb n="3v8" break="no"/>गना प्रमदा <del rend="strikeout">स्त</del><add place="above">त</add>था वामाकांता च बाला च तरुणी-रमणी तथा
-<lb n="3v9"/>तरु<hi rend="check">णी</hi> सुंदरी च प्रयं <note>Corr. प्रियं ?</note> च विधि-लंपटा ॥ ब्रह्मा-नाम ॥ ब्रह्मात्म
+<lb n="3v8" break="no"/>गना प्रमदा <del rend="strikeout">sta</del><add place="above">ta</add>था वामाकांता च बाला च तरुणी-रमणी तथा
+<lb n="3v9"/>तरु<hi rend="check">ṇī</hi> सुंदरी च प्रयं <note>Corr. priyaṁ ?</note> च विधि-लंपटा ॥ ब्रह्मा-नाम ॥ ब्रह्मात्म
 <lb n="3v10" break="no"/>भू स्वयंभूश्च धाता स<hi rend="check">X</hi>ति पिता विधाता विश्व-सुरज्येष्ठा 
 <lb n="3v11"/>चतुरानन-विधिस्तथा वेधा कमलजश्चैव परमेष्ठी पिता 
 <lb n="3v12" break="no"/>महा ॥ सुंदर-नाम ॥ शुभग-सुमन-बंधुश्च कमनीयं सु-पेश
-<lb n="3v13" break="no"/>लं कमनीय-रम्य-रुचिरं सुंदरं <hi rend="check">थुXकोनिकः</hi> ॥ ज्येष्टपांडव 
+<lb n="3v13" break="no"/>लं कमनीय-रम्य-रुचिरं सुंदरं <hi rend="check">thuXkōnikaḥ</hi> ॥ ज्येष्टपांडव 
 <lb n="3v14"/>नाम ॥ युधिष्ठिरो धर्मसुनु-ह्यजातरिपुकस्तथा कौंतेयं 
 <lb n="3v15"/>धर्म्मरूपश्च कुरुरेव तथैव च ॥ दीर्घ-नामा ॥ दीर्घश्च दा
-<lb n="3v16" break="no"/>घुलश्वासो पृथु पाश-विशालकः ॥  अर्जुन-नाम ॥ वि<hi rend="check">ष्णु
+<lb n="3v16" break="no"/>घुलश्वासो पृथु पाश-विशालकः ॥  अर्जुन-नाम ॥ वि<hi rend="check">ṣṇu
 <lb n="3v17"/>धनंजयश्चैव गुडाकेशश्च फाल्गुनी गांडीव-धनुषी पार्थ
-<lb n="3v18"/>पांडवश्च कपिध्वज अर्जुनं धनुधरं चैव कृष्ण-</hi><hi rend="check">XXभक
+<lb n="3v18"/>पांडवश्च कपिध्वज अर्जुनं धनुधरं चैव कृष्ण-</hi><hi rend="check">XXbhaka
 <lb n="3v19" break="no"/>स्तथा ॥ गंगा-नाम ॥ विष्णुपदी देवनदी नंदा मंदाकिनी
 <lb n="3v20"/>तथा गंगा भागीरथी ज्योयां त्रिपथगा क्लेशहारिणी ॥
 <pb n="4r"/>
 <lb n="4r1"/></hi>कमल-नामा ॥ पुष्करं पुंडरीकं च कमलं जलजस्तथा
-<lb n="4r2"/>पंकजमंभोज-पद्मं च अंबुजो <hi rend="check">त्य</hi>लकं तथा ॥ चंद्रम-नाम ॥ 
+<lb n="4r2"/>पंकजमंभोज-पद्मं च अंबुजो <hi rend="check">tya</hi>लकं तथा ॥ चंद्रम-नाम ॥ 
 <lb n="4r3"/>इन्दु-कलानिधि-सोम-शशि चैव सुधानिधि जैवात्रिका हि
 <lb n="4r4" break="no"/>मकर औषधीश-निशाकर ॥ कुमुद्वं <hi rend="check">X</hi> श्रीबं <hi rend="check">X</hi> ऊडु 
-<lb n="4r5" break="no"/>राज-द्विजप्रिय अत्रिया<hi rend="check" >X </hi>मृगांक-<hi rend="check">ग्लौ</hi> चंद्र-चंद्रानना
+<lb n="4r5" break="no"/>राज-द्विजप्रिय अत्रिया<hi rend="check">X </hi>मृगांक-<hi rend="check">glau</hi> चंद्र-चंद्रानना
 <lb n="4r6" break="no"/>पति ॥ काम<note>Totally different with AM CK, which mentions Aniruddha and Uṣāpati as the synonyms of Kāmadeva... Here it is not the case. So, maybe there is no direct relationship between this AM and AM CK.</note>-नाम ॥ मदनो मन्मथो मार-भव-पंचशरस्त
-<lb n="4r7" break="no"/>था कंदर्पो मीनकेतुश्च <del rend="strikeout">क</del> मकश्धज‌ ह्यन्मथ <note> Corr. मन्मथ</note>-संबरद
+<lb n="4r7" break="no"/>था कंदर्पो मीनकेतुश्च <del rend="strikeout">ka</del> मकश्धज‌ ह्यन्मथ <note> Corr. manmatha</note>-संबरद
 <lb n="4r8" break="no"/>लनानंग-विश्वमोहन-मोहकृत् ॥ मेघ-नाम ॥ धाराध 
 <lb n="4r9" break="no"/>रो जलघर-जलदं जगजीवनं बलाहकश्चैवातिमेघकृत्‌ 
 <lb n="4r10"/>॥ विजली<note>non-Skt. this word is correlated with Gujarat?</note>-नाम ॥ तडिन-सौदामिनि-विद्युत्‌-चंच्चला-चप 
-<lb n="4r11" break="no"/>ला<hi rend="check">श्चा</hi>पि॥ सैन्य-नाम ॥ प्रतना <note> Corr. पृतना</note> ध्वजिनी चैव वाहिनी 
-<lb n="4r12"/>च वरूथिनी चमू-सेना <hi rend="check">मा</hi>वीचैव तथासंग्राम-कारि
+<lb n="4r11" break="no"/>ला<hi rend="check">ścā</hi>पि॥ सैन्य-नाम ॥ प्रतना <note> Corr. pr̥tanā</note> ध्वजिनी चैव वाहिनी 
+<lb n="4r12"/>च वरूथिनी चमू-सेना <hi rend="check">mā</hi>वीचैव तथासंग्राम-कारि
 <lb n="4r13" break="no"/>णी ॥ धनुष-नाम ॥ धनु-कोदंड-चापश्च कार्मुकश्च 
-<lb n="4r14" break="no"/>पकस्तथा ॥ भ्रमर-नामा ॥ मधुमधुकरं <note> Corr. मधुकरं</note> मकलिड 
+<lb n="4r14" break="no"/>पकस्तथा ॥ भ्रमर-नामा ॥ मधुमधुकरं <note> Corr. madhukaraṁ</note> मकलिड 
 <lb n="4r15"/>अलि-भृंगश्च चंचरी द्विरेफं भ्रमरश्चैव षट्पद 
 <lb n="4r16"/>कमलप्रिया ॥ लता-नाम ॥ व्रतती विशती वदन्ती 
 <lb n="4r17"/>लता अमर वेलिक ॥ मित्र-नाम ॥ मुहृदं वल्ल 
-    <lb n="4r18" break="no"/>भश्चैव सखा-<hi rend="check">प्रीतमक</hi>-प्रिय ॥ मनुष्य-नाम ॥
+    <lb n="4r18" break="no"/>भश्चैव सखा-<hi rend="check">prītamaka</hi>-प्रिय ॥ मनुष्य-नाम ॥
 <pb n="4v"/><fw n="4v" place="top-left"><num value="4">4</num></fw>
 <lb n="4v1"/>मनुष्यं मानुषं मर्त्यं नर-मानवक-पुमान् ॥ वेद-नाम
 <lb n="4v2"/>श्रात्मा ह्येकश्रुति-ब्रह्म-निगमागम-ब्रह्मस्तव धर्म्म 
-<lb n="4v3" break="no"/>मूलं च वेदश्च धर्म्ममूलं ह्यभावकृत् ॥ <hi rend="check">जोगीषा</hi><note>maybe Prakrit form for योगीश?</note>
+<lb n="4v3" break="no"/>मूलं च वेदश्च धर्म्ममूलं ह्यभावकृत् ॥ <hi rend="check">jōgīṣā</hi><note>maybe Prakrit form for yōgīśa?</note>
 <lb n="4v4"/>नाम ॥ जती ब्रती तपी चैव जोगी निर्मल-मानसं 
 <lb n="4v5"/>ऋषि-भिक्षुक-तापस्वी ।। ज्ञानदीप्ति-मलापहुत्
 <lb n="4v6"/>धर्म्म-नमा ॥ वैबस्वत-पितृपति तथा संजमनी पति
-<lb n="4v7"/>कृतांन्रोयमुनाभ्रा <hi rend="check">तामहिषध्वज‌</hi> चांनक गुह्यक 
-<lb n="4v8"/>अंबकसखावैश्च वणश्च जनेश्वर ॥ शेष<note>The synonyms are for Viṣṇu. The term शेष as heading seems out of inappropriate.</note>-नाम ॥
+<lb n="4v7"/>कृतांन्रोयमुनाभ्रा <hi rend="check">tāmahiṣadhvaja</hi> चांनक गुह्यक 
+<lb n="4v8"/>अंबकसखावैश्च वणश्च जनेश्वर ॥ शेष<note>The synonyms are for Viṣṇu. The term śēṣa as heading seems out of inappropriate.</note>-नाम ॥
 <lb n="4v9"/>शेर्षेनं नोसर्प्पपति सहस्र फणिनस्तथा घरणी 
-<lb n="4v10" break="no"/>घर-महाहीश-वि<hi rend="check">ष्णो</hi> वै<hi rend="check">X</hi>>वरूप ह्यक ॥ गणेश-नाम 
+<lb n="4v10" break="no"/>घर-महाहीश-वि<hi rend="check">ṣṇō</hi> वै<hi rend="check">X</hi>&gt;वरूप ह्यक ॥ गणेश-नाम 
 <lb n="4v11"/>॥ लंबोदाश्च हेरंबो घैमातुर-गणाधिप-मूषवाहन
 <lb n="4v12"/>गणपति गजवदनो ह्युमासुतः एकदंतश्च हेरंबो 
-<lb n="4v13"/>अदि<hi rend="check">पू</hi>ज्यश्च वैकटो ॥ जन्म-नामा ॥भवो भवो रुमनकं
-<lb n="4v14"/>जननि-जनुजन्मनि ॥ धूर्त-नाम ॥ व्याजी जि<hi rend="check">णी</hi>भी<hi rend="check">त्र</hi> 
-<lb n="4v15"/>कुटिलं छमी करुककैनवी ॥ मृगव<hi rend="check">न</hi>-नाम ॥
+<lb n="4v13"/>अदि<hi rend="check">pū</hi>ज्यश्च वैकटो ॥ जन्म-नामा ॥भवो भवो रुमनकं
+<lb n="4v14"/>जननि-जनुजन्मनि ॥ धूर्त-नाम ॥ व्याजी जि<hi rend="check">ṇī</hi>भी<hi rend="check">tra</hi> 
+<lb n="4v15"/>कुटिलं छमी करुककैनवी ॥ मृगव<hi rend="check">na</hi>-नाम ॥
 <lb n="4v16"/>ऐनं हरिण-सारंग-ऐणश्च मृग नातपुर ॥ 
 <lb n="4v17"/>पाप-नाम || इष्टु-तंदुरितं चैव अघं वृजिन-पापकं ।
 <pb n="5r"/>
-<lb n="5r1"/>पाषान <note> Corr. पाषाण</note>-नाम ॥ प्रस्थोपलोपलपाखनं पाहनं पर्वतं ताथा
- <lb n="5r2"/>नौका-नाम ॥ नौका-तरणि पोतं च उडपं <note> Corr. उडूपं</note> जलजं त्रक ॥ रुधिर
-<lb n="5r3"/>नाम ॥ श्रोणितं <note> Corr. शोणितं</note> राक्त-रुधिरं लोहितं <hi rend="check">शोनक</hi>स्तथा ॥ राक्षस
-<lb n="5r4"/>नाम ॥ कौनपं <note> Corr. कौणपं</note> कर्वुरं चैव रत्रिचर-निशाचरं यातुधानं चा
+<lb n="5r1"/>पाषान <note> Corr. pāṣāṇa</note>-नाम ॥ प्रस्थोपलोपलपाखनं पाहनं पर्वतं ताथा
+ <lb n="5r2"/>नौका-नाम ॥ नौका-तरणि पोतं च उडपं <note> Corr. uḍūpaṁ</note> जलजं त्रक ॥ रुधिर
+<lb n="5r3"/>नाम ॥ श्रोणितं <note> Corr. śōṇitaṁ</note> राक्त-रुधिरं लोहितं <hi rend="check">śōnaka</hi>स्तथा ॥ राक्षस
+<lb n="5r4"/>नाम ॥ कौनपं <note> Corr. kauṇapaṁ</note> कर्वुरं चैव रत्रिचर-निशाचरं यातुधानं चा
 <lb n="5r5" break="no"/>सुरं च निकषात्मज-राक्षसं ॥ धूरि-नाम ॥ धूलि-धूमर-पांसु
-<lb n="5r6"/>च शर्करा <note> Corr. शंकारो</note> रेणु-पंकसं <note> Corr. पांसुकं</note> ॥ महादेव-नाम ॥ गंगाधरोंधकरिपु
+<lb n="5r6"/>च शर्करा <note> Corr. śaṁkārō</note> रेणु-पंकसं <note> Corr. pāṁsukaṁ</note> ॥ महादेव-नाम ॥ गंगाधरोंधकरिपु
 <lb n="5r7"/>शूलपाणि-शशिधर-शंकर-सर्व-शंभुश्च भवो कामरिपुस्तथ ॥
 <lb n="5r8"/>पिनाकी-धूर्जटि-रुद्र-ऋषभध्वज-अंबक-उग्रकपर्दि-भूतपति
 <lb n="5r9"/>पशुपतिश्च ह्यमापति शितकंठो नीलकंठश्च वामदेव-क
 <lb n="5r10" break="no"/>पालभृत्‌ ॥ सूर्य-नाम ॥ सूर्यो किरण-पूषांशु-गभस्ति-घृणर
-<lb n="5r11" break="no"/>स्मयः <note> Corr. घृणरश्मयः</note> प्रभाकरं दिनकरं विवस्वा-नभास्करो रवि-मार्तंड-स
-<lb n="5r12" break="no"/>विता चैव पतंगश्च पतंजलि-चित्रभानु-हX-भानु अंशुमा<hi rend="check">ञ्
-<lb n="5r13"/></hi>जगचाक्षुष नगो प<hi rend="check">दृ</hi>न्वश्चैव अंबरो शX-काश्यपः ॥ मिथ्या
+<lb n="5r11" break="no"/>स्मयः <note> Corr. ghr̥ṇaraśmayaḥ</note> प्रभाकरं दिनकरं विवस्वा-नभास्करो रवि-मार्तंड-स
+<lb n="5r12" break="no"/>विता चैव पतंगश्च पतंजलि-चित्रभानु-हX-भानु अंशुमा<hi rend="check">ñ
+<lb n="5r13"/></hi>जगचाक्षुष नगो प<hi rend="check">dr̥</hi>न्वश्चैव अंबरो शX-काश्यपः ॥ मिथ्या
 <lb n="5r14"/>नाम ॥ मिथ्या-मोघ-मृषा चैव व्यर्थं अनृतं तथा निरथ
-<lb n="5r15" break="no"/>कं <note> Corr. निरर्थकं </note> मालीकं च <hi rend="check">ह्यंपवादाऋतं वतं</hi> ॥ निकट-नाम ॥ संन्नि
-<lb n="5r16" break="no"/>धिं पार्श्व-सामीप्पं <note> Corr. समीपं</note> <hi rend="check">मविदूरत्तटं</hi> तथा ॥ चंदन-नाम ॥ शा
-<lb n="5r17" break="no"/>बरं गंधसारं च मलयं <note> Corr. मलयजं</note> भद्रपटी<hi rend="check">स्कं</hi> ॥ मीन-नाम ॥ मक<hi rend="check">रः
-<lb n="5r18"/></hi>ह्यनन्मिषं <note> Corr. ह्यनिमिषं</note> मत्स्यं प्रथुरिोमा <note> Corr. पृथुरोमा</note> तिमिस्तथा मकरं ह्युलूप्यंड
+<lb n="5r15" break="no"/>कं <note> Corr. nirarthakaṁ </note> मालीकं च <hi rend="check">hyaṁpavādār̥taṁ vataṁ</hi> ॥ निकट-नाम ॥ संन्नि
+<lb n="5r16" break="no"/>धिं पार्श्व-सामीप्पं <note> Corr. samīpaṁ</note> <hi rend="check">mavidūrattaṭaṁ</hi> तथा ॥ चंदन-नाम ॥ शा
+<lb n="5r17" break="no"/>बरं गंधसारं च मलयं <note> Corr. malayajaṁ</note> भद्रपटी<hi rend="check">skaṁ</hi> ॥ मीन-नाम ॥ मक<hi rend="check">raḥ
+<lb n="5r18"/></hi>ह्यनन्मिषं <note> Corr. hyanimiṣaṁ</note> मत्स्यं प्रथुरिोमा <note> Corr. pr̥thurōmā</note> तिमिस्तथा मकरं ह्युलूप्यंड
 <lb n="5r19" break="no"/>भव पाठीकष-मीनकस्तथा ॥ समुद्र-नाम ॥ सिंधू-श
 <pb n="5v"/>
 <fw n="5v" place="top-left"><num value="5">5</num></fw>
-<lb n="5v1" break="no"/>लि<hi rend="check">लय</hi>श्चैव ईरावान् सरितांपति उदधि-समुद्न-मंवोध 
-<lb n="5v2"/>पारावारणारश्च <hi rend="check">सागरः</hi> ॥ वनर-नाम ॥ शाखामृग-कपिश्चैव
+<lb n="5v1" break="no"/>लि<hi rend="check">laya</hi>श्चैव ईरावान् सरितांपति उदधि-समुद्न-मंवोध 
+<lb n="5v2"/>पारावारणारश्च <hi rend="check">sāgaraḥ</hi> ॥ वनर-नाम ॥ शाखामृग-कपिश्चैव
 <lb n="5v3"/>प्लवगश्च प्लवंगमं लांगूल-वानरश्चैव कीश-किटकिटा
 <lb n="5v4" break="no"/>कृति ॥ संकर्षण-नाम ॥ बलभद्र-रौहिनेयं रामं संकर्ष 
-<lb n="5v5" break="no"/>णं वलं नीलांबरो हलधर-मुसलेयं रेवातीपति <note> Corr. रेवतीपतिः</note> ॥ पृथ्वी
+<lb n="5v5" break="no"/>णं वलं नीलांबरो हलधर-मुसलेयं रेवातीपति <note> Corr. rēvatīpatiḥ</note> ॥ पृथ्वी
 <lb n="5v6"/>नाम ॥ क्षितीला-पृथिवी चैव धरणी धत्री तथैव च ॥ 
-<lb n="5v7"/>ऊर्वी <note> Corr. उर्वी</note> वसुमती धरा काश्यपी मेदिनीति च ॥ सर <note> Corr. शर</note>-नाम ॥
-    <lb n="5v8"/>खगजिह्मग <note> Corr. खगाजिह्मग</note>-बाणे च विशिषं <note> Corr. विशिखं</note> च शीलीमुखं <hi rend="check">कर्ननार्गनX</hi>
-<lb n="5v9"/>एच <note> Corr. एव</note> इषु-शायककं <note> Corr. सायकं</note> शरं ॥ अग्नि-नाम ॥ पावकं बह्नि-<hi rend="check">दमुनं</hi> <note> <hi rend="check">Corr. दमुनसः(?)</hi></note>
-<lb n="5v10"/>ज्वलनं च धनंजयं ऊषर्बुधं <note> Corr. उषर्बुधं</note> वायुसखावीति होत्रं चतावेद <note> Corr. जातवेद</note>
-<lb n="5v11"/>चित्रभानु-हरिभनु अनलं च ऊताशनं <note> Corr. हुताशनं</note> कृशानु ह्यग्नि<hi rend="check">णं
+<lb n="5v7"/>ऊर्वी <note> Corr. urvī</note> वसुमती धरा काश्यपी मेदिनीति च ॥ सर <note> Corr. śara</note>-नाम ॥
+    <lb n="5v8"/>खगजिह्मग <note> Corr. khagājihmaga</note>-बाणे च विशिषं <note> Corr. viśikhaṁ</note> च शीलीमुखं <hi rend="check">karnanārganaX</hi>
+<lb n="5v9"/>एच <note> Corr. ēva</note> इषु-शायककं <note> Corr. sāyakaṁ</note> शरं ॥ अग्नि-नाम ॥ पावकं बह्नि-<hi rend="check">damunaṁ</hi> <note> <hi rend="check">Corr. damunasaḥ(?)</hi></note>
+<lb n="5v10"/>ज्वलनं च धनंजयं ऊषर्बुधं <note> Corr. uṣarbudhaṁ</note> वायुसखावीति होत्रं चतावेद <note> Corr. jātavēda</note>
+<lb n="5v11"/>चित्रभानु-हरिभनु अनलं च ऊताशनं <note> Corr. hutāśanaṁ</note> कृशानु ह्यग्नि<hi rend="check">ṇaṁ
 <lb n="5v12"/></hi>च पावकं पवनानकं ॥ सूढ-नाम ॥ मुग्ध-मूढ-जडो मंद
-<lb n="5v13"/>अज्ञो क<hi rend="check">डकभाषण</hi>-मूर्खो भिमानयुकश्च । कलही <hi rend="check">श्रेश
-<lb n="5v14"/></hi><hi rend="check">नत्यरः</hi> ॥ >भिज्ञ<note>unfamiliar</note>-नाम ॥ कोविदो कुशलो धीरः प्रवीनं <note> Corr. प्रवीणं</note> पटु<hi rend="check">क</hi>
-    <lb n="5v15"/>कृती ॥ अपराध-नाम ॥ अधांश-हेलनाहित्यं <hi rend="check">आवार्ये
-<lb n="5v16"/></hi><hi rend="check">पुरुानि</hi>कत्‌ ॥ स्नेह-नाम ॥ आर्दं<note>Corr. हार्दं</note>स्नेहं च गलितं ललितं
-<lb n="5v17"/>प्रिय<hi rend="check">नाक-शु</hi>चि अनुरागो नुरगश्च प्रिय-प्रिताकरस्तथ 
+<lb n="5v13"/>अज्ञो क<hi rend="check">ḍakabhāṣaṇa</hi>-मूर्खो भिमानयुकश्च । कलही <hi rend="check">śrēśa
+<lb n="5v14"/></hi><hi rend="check">natyaraḥ</hi> ॥ &gt;भिज्ञ<note>unfamiliar</note>-नाम ॥ कोविदो कुशलो धीरः प्रवीनं <note> Corr. pravīṇaṁ</note> पटु<hi rend="check">ka</hi>
+    <lb n="5v15"/>कृती ॥ अपराध-नाम ॥ अधांश-हेलनाहित्यं <hi rend="check">āvāryē
+<lb n="5v16"/></hi><hi rend="check">puruāni</hi>कत्‌ ॥ स्नेह-नाम ॥ आर्दं<note>Corr. hārdaṁ</note>स्नेहं च गलितं ललितं
+<lb n="5v17"/>प्रिय<hi rend="check">nāka-śu</hi>चि अनुरागो नुरगश्च प्रिय-प्रिताकरस्तथ 
 <lb n="5v18"/>॥ पर्वत-नाम ॥ अग-नगं भूभृतं चैव भूधरं गिरि-पर्वतं
 <lb n="5v19"/>ह्युपलं शृंगी शिषरं नागं गोवर्धनस्तथा ॥ सर्प-नाम ॥
 <pb n="6r"/>
 <lb n="6r1"/>उरगः पन्नगो भोगी जिह्मगः पवनाशनः भुजंगो सर्पो
-<lb n="6r2"/>नागः काकोदर-बिलेशय-चक्षुश्रवा <note> Corr. चक्षुःश्रवा</note>-दर्विकर आशी
-<lb n="6r3" break="no"/>विषो विषधर-शेष-व्याल-सरीसृप-व्यली अलि-<hi rend="check">गो-जन
-<lb n="6r4" break="no"/></hi>श्चैव <hi rend="check">कु</hi>णिमणि <hi rend="check">चतै</hi>जित ॥ पीडा-नाम ॥ बाधा-व्य
-<lb n="6r5" break="no"/>था-दूः<hi rend="check">ख</hi>श्च पीडा <hi rend="check">आधिगलाति</hi> च ॥ वन-नाम ॥ काननं
-<lb n="6r6"/><hi rend="check">विषवाररायं</hi> गहनं कांतार-कछकं ॥ असुर-नाम ॥ दनुजं
-<lb n="6r7"/>दानवं दैत्यं सुररि <note> Corr. सुरारि</note>-पुनियटासंन<hi rend="check">XXXX</hi>धरो ऽसुर: ॥ विष-नाम ॥
-<lb n="6r8"/>हालाहलश्च गरलं कालकुटश्च मारण ॥ <hi rend="check">पपाहा</hi>-नाम ॥
-<lb n="6r9"/><hi rend="check">XX पूहहरि चानक
+<lb n="6r2"/>नागः काकोदर-बिलेशय-चक्षुश्रवा <note> Corr. cakṣuḥśravā</note>-दर्विकर आशी
+<lb n="6r3" break="no"/>विषो विषधर-शेष-व्याल-सरीसृप-व्यली अलि-<hi rend="check">gō-jana
+<lb n="6r4" break="no"/></hi>श्चैव <hi rend="check">ku</hi>णिमणि <hi rend="check">catai</hi>जित ॥ पीडा-नाम ॥ बाधा-व्य
+<lb n="6r5" break="no"/>था-दूः<hi rend="check">kha</hi>श्च पीडा <hi rend="check">ādhigalāti</hi> च ॥ वन-नाम ॥ काननं
+<lb n="6r6"/><hi rend="check">viṣavārarāyaṁ</hi> गहनं कांतार-कछकं ॥ असुर-नाम ॥ दनुजं
+<lb n="6r7"/>दानवं दैत्यं सुररि <note> Corr. surāri</note>-पुनियटासंन<hi rend="check">XXXX</hi>धरो ऽसुर: ॥ विष-नाम ॥
+<lb n="6r8"/>हालाहलश्च गरलं कालकुटश्च मारण ॥ <hi rend="check">papāhā</hi>-नाम ॥
+<lb n="6r9"/><hi rend="check">XX pūhahari cānaka
 <lb n="6r10"/></hi> … ॥ मनोहर-नाम ॥ मनोरमं मंजु
-<lb n="6r11" break="no"/>लं मंजु उद<hi rend="check">ग्रं</hi> ललितं तथा ॥ धन-नाम ॥ वसु-द्रव्यश्च<hi rend="check">XX
-<lb n="6r12"/></hi>वित्तार्थ-सुखवे<hi rend="check">धः</hi> ॥ दासी-नाम ॥ पुंश्चली दासीका <note> Corr. दासिका</note> चैव मनु<hi rend="check">X
-<lb n="6r13" break="no"/></hi>र्पन-जोषिता ॥ पतिव्रता-नाम ॥ मनस्वि<hi rend="check">ती</hi> सती चैव सुचरी च
-<lb n="6r14"/>पतिव्रता सत्य<hi rend="check">व्रधर्त</hi>व्रता चरी सुचरी च स<hi rend="check">खी</hi> <note> Corr. साध्वी</note> तथा ॥ पार्वती
-<lb n="6r15"/>नाम ॥ देव्यादेवी ईश्वरी च उमा <hi rend="check">व्यत्यपिति</hi> तथा गिरिजा मे
+<lb n="6r11" break="no"/>लं मंजु उद<hi rend="check">graṁ</hi> ललितं तथा ॥ धन-नाम ॥ वसु-द्रव्यश्च<hi rend="check">XX
+<lb n="6r12"/></hi>वित्तार्थ-सुखवे<hi rend="check">dhaḥ</hi> ॥ दासी-नाम ॥ पुंश्चली दासीका <note> Corr. dāsikā</note> चैव मनु<hi rend="check">X
+<lb n="6r13" break="no"/></hi>र्पन-जोषिता ॥ पतिव्रता-नाम ॥ मनस्वि<hi rend="check">tī</hi> सती चैव सुचरी च
+<lb n="6r14"/>पतिव्रता सत्य<hi rend="check">vradharta</hi>व्रता चरी सुचरी च स<hi rend="check">khī</hi> <note> Corr. sādhvī</note> तथा ॥ पार्वती
+<lb n="6r15"/>नाम ॥ देव्यादेवी ईश्वरी च उमा <hi rend="check">vyatyapiti</hi> तथा गिरिजा मे
 <lb n="6r16" break="no"/>नकाश्चैव भवानी ह्युंबिका तथा आर्य्या <hi rend="check">XX</hi>वी गौरी शर्व
 <lb n="6r17" break="no"/>णी सर्वतां चंडि हैमवती चैव कालिका मुंद्रता शिव ॥
-<lb n="6r18"/>कृपा-नाम ॥ कृपा दया सुकं <note> Corr. शूकं</note> <hi rend="check">पास्याद</hi>नुक्रोश-दया<hi rend="check">तिधि (॥)
-<lb n="6r19"/></hi>खड्ग-नाम ॥ असि-कुशेय <note> Corr. कौक्षेय</note>-रिष्टिश्च खड्गं च मंडलाग्र<hi rend="check">X</hi>
+<lb n="6r18"/>कृपा-नाम ॥ कृपा दया सुकं <note> Corr. śūkaṁ</note> <hi rend="check">pāsyāda</hi>नुक्रोश-दया<hi rend="check">tidhi (..)
+<lb n="6r19"/></hi>खड्ग-नाम ॥ असि-कुशेय <note> Corr. kaukṣēya</note>-रिष्टिश्च खड्गं च मंडलाग्र<hi rend="check">X</hi>
 
 <pb n="6v"/>
 <fw n="6v" place="top-left"><num value="6">6</num></fw>
 <lb n="6v1"/> …
-<lb n="6v2"/> … ॥ नीच-नाम ॥ नीच-निर्गत<hi rend="check">ते</hi> चैव
+<lb n="6v2"/> … ॥ नीच-नाम ॥ नीच-निर्गत<hi rend="check">tē</hi> चैव
 <lb n="6v3"/>कुब्ज अंधक तथा ॥ आकाश-नाम ॥ अंबरं पुष्करं व्योमं न
 <lb n="6v4" break="no"/>...संतरिक्षं सुरवर्त्म विहायसं गगना
-<lb n="6v5" break="no"/>काशकश्चैव ऊडुगणगृहं <note> Corr. उडुगणगृहं</note> तथा ॥ संग्राम-नाम ॥ आयोधनं
-<lb n="6v6" break="no"/>च संग्रामं समरं युद्ध-संगमं ॥ सूदन-नाम ॥ सूक्ष्मदह्य<hi rend="check">X</hi>-लवं <note> Corr. लावं</note><hi rend="check">X
-<lb n="6v7" break="no"/></hi>वलहिन<hi rend="check">X</hi>शो<hi rend="check">दर</hi> ॥ मकरी-नाम ॥ सूनासूत्रामर्कटी च उर्ण
-<lb n="6v8" break="no"/><hi rend="check">माति</hi> तथैव च ॥ व<hi rend="check">र्लध्धा</hi>सनिषथं <hi rend="check">संचरीनगभृष्टलत्‌</hi> ॥
-<lb n="6v9" break="no"/>दिशा-नाम ॥ कलाकाष्टाककुभगो दिश<hi rend="check">X</hi>दशभिति<hi rend="check">Xतः
-<lb n="6v10" break="no"/></hi>॥ नदी-नाम ॥ सरिता-तरंगिनी चैव तटनी <note> Corr. तटिनी</note> ह्रदिनी धुनि <note> Corr. धुनी </note> स्रोत्र
-<lb n="6v11" break="no"/>वती निम्नगा च नदी स्रोत्रनीति च शैलवनी <note> Corr. शैवलिनी</note> शैलाभंगी <hi rend="check">द्विरका
+<lb n="6v5" break="no"/>काशकश्चैव ऊडुगणगृहं <note> Corr. uḍugaṇagr̥haṁ</note> तथा ॥ संग्राम-नाम ॥ आयोधनं
+<lb n="6v6" break="no"/>च संग्रामं समरं युद्ध-संगमं ॥ सूदन-नाम ॥ सूक्ष्मदह्य<hi rend="check">X</hi>-लवं <note> Corr. lāvaṁ</note><hi rend="check">X
+<lb n="6v7" break="no"/></hi>वलहिन<hi rend="check">X</hi>शो<hi rend="check">dara</hi> ॥ मकरी-नाम ॥ सूनासूत्रामर्कटी च उर्ण
+<lb n="6v8" break="no"/><hi rend="check">māti</hi> तथैव च ॥ व<hi rend="check">rladhdhā</hi>सनिषथं <hi rend="check">saṁcarīnagabhr̥ṣṭalat</hi> ॥
+<lb n="6v9" break="no"/>दिशा-नाम ॥ कलाकाष्टाककुभगो दिश<hi rend="check">X</hi>दशभिति<hi rend="check">Xtaḥ
+<lb n="6v10" break="no"/></hi>॥ नदी-नाम ॥ सरिता-तरंगिनी चैव तटनी <note> Corr. taṭinī</note> ह्रदिनी धुनि <note> Corr. dhunī </note> स्रोत्र
+<lb n="6v11" break="no"/>वती निम्नगा च नदी स्रोत्रनीति च शैलवनी <note> Corr. śaivalinī</note> शैलाभंगी <hi rend="check">dvirakā
 <lb n="6v12"/></hi>जलपूरिता ॥ वृन्द-नाम ॥ साखी विटप-वृन्दश्च ऊजपादप
 <lb n="6v13" break="no"/>नुमस्तथा पत्रिदली कली चैव महीरुहव रु<hi rend="check">X</hi>हक त<hi rend="check">XXX
-<lb n="6v14"/></hi>तरुश्चैव छादकं तरुपत्रकं ॥ पवन-नाम ॥ स्वसनं <note> Corr. श्वसनं</note> सदागति चैव जगप्र
-<lb n="6v15" break="no"/>णं <del rend="strikeout">अलिलाक</del><add place="above">समीरक</add><hi rend="check">नंगंधकर</hi>-पवनं गमधवहं चैव । समीर-जलकंतक
-<lb n="6v16"/>(॥) ध्वनि-नाम ॥ निस्वनं <note> Corr. निःस्वनं</note> निनदं नादं आकानं मुषरं रुतं ॥ वज्र-नाम
-<lb n="6v17"/>(॥) <hi rend="check">X</hi>सिनं कुलिशं वज्रं निश्वासं थीथरोतकः ॥ ल<hi rend="check">जग</hi>-नाम ॥
+<lb n="6v14"/></hi>तरुश्चैव छादकं तरुपत्रकं ॥ पवन-नाम ॥ स्वसनं <note> Corr. śvasanaṁ</note> सदागति चैव जगप्र
+<lb n="6v15" break="no"/>णं <del rend="strikeout">alilāka</del><add place="above">samīraka</add><hi rend="check">naṁgaṁdhakara</hi>-पवनं गमधवहं चैव । समीर-जलकंतक
+<lb n="6v16"/>(॥) ध्वनि-नाम ॥ निस्वनं <note> Corr. niḥsvanaṁ</note> निनदं नादं आकानं मुषरं रुतं ॥ वज्र-नाम
+<lb n="6v17"/>(॥) <hi rend="check">X</hi>सिनं कुलिशं वज्रं निश्वासं थीथरोतकः ॥ ल<hi rend="check">jaga</hi>-नाम ॥
 <pb n="7r"/>
 <lb n="7r1"/> …कं तथा ॥ सपुत्र
-<lb n="7r2" break="no"/>ता-नाम ॥ अनुजं श्रवजरं चैव कनिष्ठं <hi rend="check">सपुशोदरं</hi> ॥
-<lb n="7r3"/>पिता-नाम ॥ पिता तातं च जनक-<hi rend="check">गुणधान</hi>-युतस्तथा (॥)
-<lb n="7r4"/>विवाह-नाम ॥ परिणं <note> Corr. परिणयः</note> निवेशनं चैव नयनोद्वह-विवा
+<lb n="7r2" break="no"/>ता-नाम ॥ अनुजं श्रवजरं चैव कनिष्ठं <hi rend="check">sapuśōdaraṁ</hi> ॥
+<lb n="7r3"/>पिता-नाम ॥ पिता तातं च जनक-<hi rend="check">guṇadhāna</hi>-युतस्तथा (॥)
+<lb n="7r4"/>विवाह-नाम ॥ परिणं <note> Corr. pariṇayaḥ</note> निवेशनं चैव नयनोद्वह-विवा
 <lb n="7r5" break="no"/>हकं ॥ मदिरा-नाम ॥ मदिरा माधी मधु चैव रेपं
-<lb n="7r6"/>वारुणी सुरा आसनं <note> Corr. प्रसन्ना ?</note> <hi rend="check">मयकासिं XXदिहासिंधुX
+<lb n="7r6"/>वारुणी सुरा आसनं <note> Corr. prasannā ?</note> <hi rend="check">mayakāsiṁ XXdihāsiṁdhuX
 <lb n="7r7"/></hi>तथा ॥ समूह-नाम ॥ समूह-समुदायं च निकरं प्रकरं
-<lb n="7r8"/>तथा पटलं पुंगवकं पुरं संचयं निचयं तथा<hi rend="check">युह
-<lb n="7r9" break="no"/></hi>दलं चैव कलाप-ब<hi rend="check">रुदृंदक</hi> ॥ <hi rend="check">व्यति</hi><note>why व्यति or maybe wrong transliteration</note>-नाम ॥ भृशं अ
+<lb n="7r8"/>तथा पटलं पुंगवकं पुरं संचयं निचयं तथा<hi rend="check">yuha
+<lb n="7r9" break="no"/></hi>दलं चैव कलाप-ब<hi rend="check">rudr̥ṁdaka</hi> ॥ <hi rend="check">vyati</hi><note>why vyati or maybe wrong transliteration</note>-नाम ॥ भृशं अ
 <lb n="7r10" break="no"/>तिशय-त्यर्थं नितांतं चाधिकं तथा ॥ अज्ञा-नाम ॥
 <lb n="7r11"/>आदेश-निदेशं च आज्ञा-शासन-योगकं ॥ दर-नाम (॥)
-<lb n="7r12"/>दरस्नेक ईषुधीत <hi rend="check">च कमंदमनाकपि अकीमहचरि
-<lb n="7r13"/></hi>चैव अलं दालपरं तथा ॥ जूती-नामा ॥ उपान<hi rend="check">सै</hi> पाद
-<lb n="7r14"/>पीठ-पादत्राण <note> Corr. पादत्राण</note>-मृ<hi rend="check">दु</hi>स्तथा ॥ <hi rend="check">उच्चधम</hi>-नाम ॥ सौध-ध
-<lb n="7r15" break="no"/>र्म्यं प्रशादं <note> Corr. प्रसादं</note> च <hi rend="check">उजलं</hi> जलधरं तथा ॥ मकरचांद्रनी-नाम (॥)
+<lb n="7r12"/>दरस्नेक ईषुधीत <hi rend="check">ca kamaṁdamanākapi akīmahacari
+<lb n="7r13"/></hi>चैव अलं दालपरं तथा ॥ जूती-नामा ॥ उपान<hi rend="check">sai</hi> पाद
+<lb n="7r14"/>पीठ-पादत्राण <note> Corr. pādatrāṇa</note>-मृ<hi rend="check">du</hi>स्तथा ॥ <hi rend="check">uccadhama</hi>-नाम ॥ सौध-ध
+<lb n="7r15" break="no"/>र्म्यं प्रशादं <note> Corr. prasādaṁ</note> च <hi rend="check">ujalaṁ</hi> जलधरं तथा ॥ मकरचांद्रनी-नाम (॥)
 <lb n="7r16"/>चंद्रिका कौमुदी ज्योत्स्ना महीचिचंद्रिका जिता ॥ गलि
-<lb n="7r17"/>नाम ॥ रथ्या-प्रतोलिका <hi rend="check">वीथापमृपं अरुचवीति</hi> च
-<lb n="7r18"/>अंधकार-नाम ॥ अंधं तनिश्रं <note> Corr. तमिस्रं</note> ध्वांतं च कुहाली <hi rend="check">हा</hi>रकं तथा (॥)
+<lb n="7r17"/>नाम ॥ रथ्या-प्रतोलिका <hi rend="check">vīthāpamr̥paṁ arucavīti</hi> च
+<lb n="7r18"/>अंधकार-नाम ॥ अंधं तनिश्रं <note> Corr. tamisraṁ</note> ध्वांतं च कुहाली <hi rend="check">hā</hi>रकं तथा (॥)
 <pb n="7v"/>
 <fw n="7v" place="top-left"><num value="7">7</num></fw>
 <lb n="7v1"/>वान-नाम ॥ उपवनं चैव उद्यानं कृत्तिमं वन-बृंह
 <lb n="7v2"/>कं ॥ अर्धरात्रि-नाम ॥ रात्री निशिथिनी चैव दिन
 <lb n="7v3"/>हाति कृत्तमं वतं ॥ वसंत-नाम ॥ ऋतु-राजं वसंतश्च कु
-<lb n="7v4" break="no"/>सुमाकर माधवं मधु-सुरभि पुकश्च पुष्पा<hi rend="check">पुधप्रधप्रघर्द्वकः</hi>॥<lb n="7v5"/>पक्षी-नाम ॥ द्विजः संकुति-पक्षी च सकुनि अंडजं तथा पत्र
-<lb n="7v6" break="no"/>पतत्री वियग <note> Corr. विहग</note>-रटतश्च विहंगमं ॥अरुण-नाम ॥अरुणं श्रो
-<lb n="7v7" break="no"/>णितं रक्तं त्र्यारक्तं पुनिलोहितं ॥ <hi rend="check">पीयल</hi>-नाम ॥ चलंदलं 
-<lb n="7v8"/>पिय्यलं च गज <hi rend="check">अश्वप्त्यवृक्ष</hi>क॥ आम्र-नाम ॥ आम्र
+<lb n="7v4" break="no"/>सुमाकर माधवं मधु-सुरभि पुकश्च पुष्पा<hi rend="check">pudhapradhapraghardvakaḥ</hi>॥<lb n="7v5"/>पक्षी-नाम ॥ द्विजः संकुति-पक्षी च सकुनि अंडजं तथा पत्र
+<lb n="7v6" break="no"/>पतत्री वियग <note> Corr. vihaga</note>-रटतश्च विहंगमं ॥अरुण-नाम ॥अरुणं श्रो
+<lb n="7v7" break="no"/>णितं रक्तं त्र्यारक्तं पुनिलोहितं ॥ <hi rend="check">pīyala</hi>-नाम ॥ चलंदलं 
+<lb n="7v8"/>पिय्यलं च गज <hi rend="check">aśvaptyavr̥kṣa</hi>क॥ आम्र-नाम ॥ आम्र
 <lb n="7v9" break="no"/>श्चूतौ रसालूसो सहकारितो सौरभ-पिकवल्लभभे 
 <lb n="7v10" break="no"/>ढं च मदिरासहकारक ॥ पाडर-नाम ॥ फलरूहा पा 
 <lb n="7v11" break="no"/>टली पाली वामास्यामा तथैव च अंबष्टाया सधुवती 
 <lb n="7v12"/>पाडरी कारिका तथा ॥ चंपक-नाभ ॥ मधूश्रवा मा
 <lb n="7v13" break="no"/>धवं च गदुपुष्प-मधुद्रुम-मधूक-मधुश्रष्टी च मऊमा
-<lb n="7v14" break="no"/>धूक<hi rend="check">श्व</hi>स ॥ दाडिमी-नाम ॥ दाडिमी रक्तवीजं च हाली 
+<lb n="7v14" break="no"/>धूक<hi rend="check">śva</hi>स ॥ दाडिमी-नाम ॥ दाडिमी रक्तवीजं च हाली 
 <lb n="7v15"/>शुकप्रियं तथा ॥ कदली-नाम ॥ रंभा-मोचा-गजवशा 
 <lb n="7v16"/>कदली ऊरुवन्तथा ॥ वेल-नाम ॥ बिल्व-मालुर
 <pb n="8r"/>
 <lb n="8r1"/>सुरभि नालसैलूफलास्तथ ॥ तमाल-नाम ॥ 
 <lb n="8r2"/>कालकं धरतायिछंतिंदुकं च तमालकं ॥ कदंब
-<lb n="8r3"/>नाम ॥ हलिप्रिय-नीयप्रिय कदंब-चलिका <hi rend="check">क्र</hi>का 
+<lb n="8r3"/>नाम ॥ हलिप्रिय-नीयप्रिय कदंब-चलिका <hi rend="check">kra</hi>का 
 <lb n="8r4"/>॥ किंथुक-नाम ॥ वात्सपोथं ब्रस्वद्रुमं किंथुकं च 
-<lb n="8r5"/>पालाशकं ॥ वहे<hi rend="check">डा</hi>-नाम ॥ अछंविभीतके चैव क
-<lb n="8r6" break="no"/>लिदृक्षं संवर्तकं भूतवासं कर्षफलं बहेडं तर<hi rend="check">कै</hi> 
+<lb n="8r5"/>पालाशकं ॥ वहे<hi rend="check">ḍā</hi>-नाम ॥ अछंविभीतके चैव क
+<lb n="8r6" break="no"/>लिदृक्षं संवर्तकं भूतवासं कर्षफलं बहेडं तर<hi rend="check">kai</hi> 
 <lb n="8r7" break="no"/>जति ॥ सुपारी-नाम ॥ घोटा क्रमुकपुत्राक पुंगीफ
 <lb n="8r8" break="no"/>ल-विरसं तथा कोलवल्लिकपिलता सुपारी देवपुं 
-<lb n="8r9" break="no"/>गीका ॥ मरिच-नाम ॥ कंकोला च कृ<hi rend="check">द्ध</hi>फला नि<hi rend="check">लो
-<lb n="8r10" break="no"/></hi><hi rend="check">ला</hi> मरिचं तथा ॥ पीपर-नाम ॥ कोलाकृ<hi rend="check">घ्मा</hi> माग
-<lb n="8r11" break="no"/>धी च तिग्मतं दुलकं तथा । स्पामा सु<hi rend="check">री</hi>कहि चैव । 
-<lb n="8r12"/>पीपरि पिथलं तथा <add place="above">॥ <hi rend="check">X</hi>तकी-नाम</add> ॥ कायस्था अमरता चैव तथ 
-    <lb n="8r13"/><hi rend="check">हैभबतीतिच</hi> ॥ हरितकी हरति च तथा द्विहरीतकी  
+<lb n="8r9" break="no"/>गीका ॥ मरिच-नाम ॥ कंकोला च कृ<hi rend="check">ddha</hi>फला नि<hi rend="check">lō
+<lb n="8r10" break="no"/></hi><hi rend="check">lā</hi> मरिचं तथा ॥ पीपर-नाम ॥ कोलाकृ<hi rend="check">ghmā</hi> माग
+<lb n="8r11" break="no"/>धी च तिग्मतं दुलकं तथा । स्पामा सु<hi rend="check">rī</hi>कहि चैव । 
+<lb n="8r12"/>पीपरि पिथलं तथा <add place="above">.. <hi rend="check">X</hi>तकी-नाम</add> ॥ कायस्था अमरता चैव तथ 
+    <lb n="8r13"/><hi rend="check">haibhabatītica</hi> ॥ हरितकी हरति च तथा द्विहरीतकी  
 <lb n="8r14"/>॥ सूंठि-नाम ॥ विस्वानागरिकं चैव सूंठि-लूंठी तथै 
 <lb n="8r15" break="no"/>वच मृंगी महैषधी चैव नाठीथूलनाशिती ॥ 
 <lb n="8r16"/>विद्रुम-नाम ॥ धमनिनषी नटी चैव कपोताघ्रि 
-<lb n="8r17"/>प्रवालिका ॥ दाषनाम • <hi rend="check">किसमिसभाषयं</hi> ।
+<lb n="8r17"/>प्रवालिका ॥ दाषनाम • <hi rend="check">kisamisabhāṣayaṁ</hi> ।
 <pb n="8v"/>
 <fw n="8v" place="top-left"><num value="8">8</num></fw>
-<lb n="8v1"/>सा<hi rend="check">धी</hi> मृदीम<hi rend="check">ध्क</hi>रसा गुडाडा च प्रपालिका ॥ 
+<lb n="8v1"/>सा<hi rend="check">dhī</hi> मृदीम<hi rend="check">dhka</hi>रसा गुडाडा च प्रपालिका ॥ 
 <lb n="8v2"/>गोस्तनी च चारुफला<hi rend="check">X</hi>क्षा क्ष<hi rend="check">X</hi> तथैव च ॥
 <lb n="8v3"/>केशर-नाम ॥ काश्मीर-कुंकुमरूचि केशरं देवव 
-<lb n="8v4" break="no"/><hi rend="check">Xल</hi>भा ॥ <hi rend="check">खर्जजूथिका</hi>-नाम ॥ दिरण्या-वलिकाज 
+<lb n="8v4" break="no"/><hi rend="check">Xla</hi>भा ॥ <hi rend="check">kharjajūthikā</hi>-नाम ॥ दिरण्या-वलिकाज 
 <lb n="8v5" break="no"/>थी तथा चहेमपुष्पिका जाईजूथी गूथी चैव स्व
 <lb n="8v6" break="no"/>र्जजूथी तथैव च ॥ मालती-नाम ॥ मल्लिका सु 
-<lb n="8v7" break="no"/>मनाजाति उत्रमगंध-व<hi rend="check">हा</hi>सुचि अंबष्टा-प्रियवा 
-<lb n="8v8" break="no"/>सिला मालति<hi rend="check">जूथिका</hi> तथा ॥ संजीविनी-नाम ॥ 
-<lb n="8v10"/>जीवति-म<hi rend="check">धु</hi>-जीवाच-जीववं तमधुश्रावा ॥ कुंद
+<lb n="8v7" break="no"/>मनाजाति उत्रमगंध-व<hi rend="check">hā</hi>सुचि अंबष्टा-प्रियवा 
+<lb n="8v8" break="no"/>सिला मालति<hi rend="check">jūthikā</hi> तथा ॥ संजीविनी-नाम ॥ 
+<lb n="8v10"/>जीवति-म<hi rend="check">dhu</hi>-जीवाच-जीववं तमधुश्रावा ॥ कुंद
 <lb n="8v11"/>नामा ॥ लताललितमध्यं मुकुंदो कुंदरत्यपि 
 <lb n="8v13" break="no"/>नपुष्पकं ॥ गुंजा-नाम ॥ चिंचिका कृष्णला काक 
-<lb n="8v14"/>गुंजा-मुखर-स्वमता ॥ केतकी-नाम ॥ तृनद्रुमा <note> Corr. तृणद्रुमा</note> के
+<lb n="8v14"/>गुंजा-मुखर-स्वमता ॥ केतकी-नाम ॥ तृनद्रुमा <note> Corr. tr̥ṇadrumā</note> के
 <lb n="8v15" break="no"/>तकी च तालखर्जूरका तथा ॥ लवंग-नाम ॥ 
-<lb n="8v16"/>श्रीसंगं <note> Corr. श्रीसञ्ज्ञं</note> देवकुसुमं लवंगे ललितं लता ॥ 
-<lb n="8v17"/>इलाची-नाम ॥ एला-कुलं वालुका <hi rend="check">बे</hi>लि
+<lb n="8v16"/>श्रीसंगं <note> Corr. śrīsañjñaṁ</note> देवकुसुमं लवंगे ललितं लता ॥ 
+<lb n="8v17"/>इलाची-नाम ॥ एला-कुलं वालुका <hi rend="check">bē</hi>लि
 <pb n="9r"/>
 <lb n="9r1"/>त्रिकुटी चंद्रकं न्यका ॥ माधवी-नाम ॥ अत्युक्त 
 <lb n="9r2" break="no"/>वातिमुक्तश्च पौंडुक वासंतिकं तथा ॥ नागलता
-<lb n="9r3"/>नाम ॥ तांबूल अहिवल्ली च दि<hi rend="check">न</hi>जा नागवल्लि 
-<lb n="9r4" break="no"/>का ॥ वट-नामा। जटी <hi rend="check">वे</hi>टी रक्तफला निग्रोधं<hi rend="check">बक</hi> 
-<lb n="9r5"/><hi rend="check">पादपु</hi>त्‌ ॥ सरोवर-नाम। ह्रद-पुष्कर-कासार 
-<lb n="9r6"/>सारसं सरसी <hi rend="check">द्रहं</hi> तडाग-कुम्भीका कुंडं ताल<hi rend="check">पानी</hi> 
-<lb n="9r7"/>प्रपूरकं ॥ कालींद्री <note> Corr. कालिंदी</note>-नाम ॥ यमोनुजा च कालिंदी 
+<lb n="9r3"/>नाम ॥ तांबूल अहिवल्ली च दि<hi rend="check">na</hi>जा नागवल्लि 
+<lb n="9r4" break="no"/>का ॥ वट-नामा। जटी <hi rend="check">vē</hi>टी रक्तफला निग्रोधं<hi rend="check">baka</hi> 
+<lb n="9r5"/><hi rend="check">pādapu</hi>त्‌ ॥ सरोवर-नाम। ह्रद-पुष्कर-कासार 
+<lb n="9r6"/>सारसं सरसी <hi rend="check">drahaṁ</hi> तडाग-कुम्भीका कुंडं ताल<hi rend="check">pānī</hi> 
+<lb n="9r7"/>प्रपूरकं ॥ कालींद्री <note> Corr. kāliṁdī</note>-नाम ॥ यमोनुजा च कालिंदी 
 <lb n="9r8"/>रविजाकुल ह्यौरसी ॥  तट-नामा ॥ उपकंठं पुलि 
 <lb n="9r9" break="no"/>नं कलं निकटो तटकं तथा ॥ वेतस-नाम ॥ वेत 
-<lb n="9r10" break="no"/>शं सीत-विकुलं <note> Corr. विदुलं</note> मंजुलं वंजुलं तथा ॥ कोकिल-नाम ॥ 
-<lb n="9r11"/>कलरवं परभृतं चैव रक्तदृग्‌ पिक-<hi rend="check">धुनि</hi> तथा ॥ 
-<lb n="9r12"/>ना<del rend="strikeout">र</del>द-नाम ॥ निश्वनं <note> Corr. निस्वानं</note> निनदं नादं मुखरं ध्वनि-राव 
+<lb n="9r10" break="no"/>शं सीत-विकुलं <note> Corr. vidulaṁ</note> मंजुलं वंजुलं तथा ॥ कोकिल-नाम ॥ 
+<lb n="9r11"/>कलरवं परभृतं चैव रक्तदृग्‌ पिक-<hi rend="check">dhuni</hi> तथा ॥ 
+<lb n="9r12"/>ना<del rend="strikeout">ra</del>द-नाम ॥ निश्वनं <note> Corr. nisvānaṁ</note> निनदं नादं मुखरं ध्वनि-राव 
 <lb n="9r13" break="no"/>कं ॥ जुगुल-नाम ॥ जमालं युगलं द्वंद्वं मिथुनं
-<lb n="9r14"/>द्वै उभेनिच ॥ <hi rend="check">इतिश्ची</hi> अमराचार्य्येण कृतं
+<lb n="9r14"/>द्वै उभेनिच ॥ <hi rend="check">itiścī</hi> अमराचार्य्येण कृतं
 <lb n="9r15"/>अमरमाला संपूर्णम्‌ सं १८२७ काला<hi rend="check">XX
-<lb n="9r16" break="no"/></hi><hi rend="check">का८चंर</hi> ई स १८७१ <hi rend="check">फरनटी</hi> २१ अज्ञे<hi rend="check">रम</hi>ध्ये पंडि 
-<lb n="9r17" break="no"/>तवाल<hi rend="check">भुकं देनस्वनिभिचांलिपिX</hi>तं ॥
+<lb n="9r16" break="no"/></hi><hi rend="check">kā8caṁra</hi> ई स १८७१ <hi rend="check">pharanaṭī</hi> २१ अज्ञे<hi rend="check">rama</hi>ध्ये पंडि 
+<lb n="9r17" break="no"/>तवाल<hi rend="check">bhukaṁ dēnasvanibhicāṁlipiX</hi>तं ॥
 </ab>
 </div>
 </div>
 		    <div type="translation">
-		        <!-- Structure as necessary with <div>, <p>, <ab>, <lg>  -->
+		        
 		    </div>
 			  <div type="commentary">
-			      <!-- Comment regarding your edition such as the following example -->
-			     <!-- <p>The asterisk * is used to flag lemmata or forms of lemmata not recorded in the <title>Old Javanese-English Dictionary</title>.</p>-->
+			      
+			     
 			  </div>
 		    <div type="bibliography">
 		        <p>Cataloged by Keith &amp; Thomas (1935); referred to in NCC.</p>
