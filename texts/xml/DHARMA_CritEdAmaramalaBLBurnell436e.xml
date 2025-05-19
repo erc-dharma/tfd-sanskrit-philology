@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="amaramalaBurnell">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="amaramalaBurnell">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -94,28 +94,28 @@
 	<l n="cd">śavda-bhēda<lb n="1r4" break="no"/>mr̥juṁ kurvē ’maramālā karōmyaham || §§ <note>Two indistinct space filling symbols.</note></l>
 </lg>
 <lg met="anuṣṭubh" n="2">
-	<l n="ab"><label><lb n="1r5"/>ahaṁkāra-nāma ||</label> darpōbhimānahaṁkārō smaya-garva-madastathā</l>
+    <l n="ab"><label type="headword"><lb n="1r5"/>ahaṁkāra-nāma ||</label> darpōbhimānahaṁkārō smaya-garva-madastathā</l>
 	<l n="cd"><lb n="1r6"/>vakṣasthala-nāma || vakṣasthalōrūvatsaśca viśālō pīnakastathā</l>
 </lg>
 <lg met="anuṣṭubh" n="3">
-	<l n="ab"><lb n="1r7"/><label>sakhī-nāma ||</label> sakhī  vēśyā ca saṁghrīcī ālīśca sahacāriṇī –</l> 
-	<l n="cd"><lb n="1r8"/><label>vudhi-nāma ||</label> vudhi-manīṣādhiṣaṇā-mēdhā prajñā ca saimukhī dhī</l>
+	<l n="ab"><lb n="1r7"/><label type="headword">sakhī-nāma ||</label> sakhī  vēśyā ca saṁghrīcī ālīśca sahacāriṇī –</l> 
+    <l n="cd"><lb n="1r8"/><label type="headword">vudhi-nāma ||</label> vudhi-manīṣādhiṣaṇā-mēdhā prajñā ca saimukhī dhī</l>
 </lg>
 <lg met="anuṣṭubh" n="4">
 	<l n="ab"><lb n="1r9" break="no"/>mati-dhāraṇāścaiva ghupajabdhijñānakārakā ..</l>
-	<l n="cd"><lb n="1r10"/><label>sarasvatī-nāma ||</label> vāṇī-sarasvatī vāk ca girāṁ ? ? sāra<hi rend="check">sta</hi> ..</l>
+    <l n="cd"><lb n="1r10"/><label type="headword">sarasvatī-nāma ||</label> vāṇī-sarasvatī vāk ca girāṁ ? ? sāra<hi rend="check">sta</hi> ..</l>
 </lg>
 <lg met="anuṣṭubh" n="5">
-	<l n="ab"><label>śīghra-nāma ||</label> sahasā <lb n="1r11"/>ūṭati<note>If ujjvala is correct in the last line, then it is unlikely that ū is correct here. We don't grasp yet which word is intended.</note> tūrṇa-śīghraṁ āsunaraśca</l> 
+    <l n="ab"><label type="headword">śīghra-nāma ||</label> sahasā <lb n="1r11"/>ūṭati<note>If ujjvala is correct in the last line, then it is unlikely that ū is correct here. We don't grasp yet which word is intended.</note> tūrṇa-śīghraṁ āsunaraśca</l> 
 	<l n="cd">sajavara bhasa<hi rend="check">mbhōlavatsvājīyērātyā<lb n="1r12" break="no"/>ntara ..</hi></l>
 </lg>
 <lg met="anuṣṭubh" n="6">
-	<l n="ab"><label>dhāma-nāma ||</label> <hi rend="check">sadana-sadma-nāgāra-gēha-vēsmaścaṁ maṁdira</hi></l>
+    <l n="ab"><label type="headword">dhāma-nāma ||</label> <hi rend="check">sadana-sadma-nāgāra-gēha-vēsmaścaṁ maṁdira</hi></l>
 	<l n="cd"><hi rend="check">ālaya<lb n="1r13" break="no"/>-gr̥ha-saṁkēta-nikēta-nilayāyatan ..</hi></l>
 </lg>
 <lg met="anuṣṭubh" n="7">
 	<l n="ab">bhavanaṁ <hi rend="check">saṁḍukaṁ</hi> cāpyasthānaṁ vasa<lb n="1r14" break="no"/>tikā<hi rend="check">tyā</hi> ..</l>
-	<l n="cd"><label>svarṇa-nāma ||</label> kaṁcanārjunakāṁtiśca surahēma-hiraṇyakaḥ</l>
+    <l n="cd"><label type="headword">svarṇa-nāma ||</label> kaṁcanārjunakāṁtiśca surahēma-hiraṇyakaḥ</l>
 </lg>
 <lg met="anuṣṭubh" n="8">
 	<l n="ab"><lb n="1r15"/>paṭuvarṇa<hi rend="check">ścapu</hi>raṭaghuṣṭāpaha-hāṭakastathā</l>
@@ -123,7 +123,7 @@
 </lg>
 <lg met="anuṣṭubh" n="9">
 	<l n="ab">jātarūpaśca kanaka-rukma<hi rend="check">staha</hi>-mahārajata ..</l>
-	<l n="cd"><lb n="1r17"/><label>rūpā-māma ||</label> raukmaṁ rajata-dūrbānajātarūpaśca kharjura .</l>
+    <l n="cd"><lb n="1r17"/><label type="headword">rūpā-māma ||</label> raukmaṁ rajata-dūrbānajātarūpaśca kharjura .</l>
 </lg>
 
 </div>
