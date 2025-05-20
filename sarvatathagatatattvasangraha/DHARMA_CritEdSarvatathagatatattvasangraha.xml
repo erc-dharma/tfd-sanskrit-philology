@@ -15,9 +15,6 @@
 						<forename>Ryugen</forename>
 						<surname>Tanemura</surname>
 					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>Contributor</resp>
 					<persName ref="part:argr">
 						<forename>Arlo</forename>
 						<surname>Griffiths</surname>
@@ -3414,11 +3411,11 @@ samanantarasamāpanne cātha tāvad eva sarvatathāgatahṛdayebhyaḥ sa eva bh
 </div>
 
 <div type="section" n="379"><pb n="1_236_379" edRef="#edho"/>
-	<lg>
-		<l>sarvākāravaropetaṁ</l> 
-		<l n="a">bhāvayan svayam ātmanā |</l>
-		<l n="a">vajragarbhaṁ svam ātmānam 
-			<app>
+	<lg met="anuṣṭubh">
+		<l n="a">sarvākāravaropetaṁ</l> 
+		<l n="b">bhāvayan svayam ātmanā |</l>
+		<l n="c">vajragarbhaṁ svam ātmānam</l> 
+		<l n="d"><app>
 				<lem>ākarṣayed</lem> 
 				<rdg wit="#cod">ākarṣayed</rdg> 
 				<rdg wit="#edho">ākaṣayed</rdg>
@@ -4473,7 +4470,8 @@ samanantarasamāpanne ca bhagavaty, atha tāvad eva, sarvatathāgatahṛdayebhya
 
 <div type="section" n="533"><pb n="1_290_533" edRef="#edho"/>
 	<lg met="anuṣṭubh">
-		<l n="a">sarvabuddhamahāpuṇya</l><l n="b">kāyavākcittavajrajam |</l>
+		<l n="a">sarvabuddhamahāpuṇya</l>
+		<l n="b">kāyavākcittavajrajam |</l>
 		<l n="c">anumodanapūjātmā</l> 
 		<l n="d">buddhatvaṁ kṣipram āpnuyāt ||</l>
 	</lg>
@@ -4481,14 +4479,15 @@ samanantarasamāpanne ca bhagavaty, atha tāvad eva, sarvatathāgatahṛdayebhya
 
 <div type="section" n="534"><pb n="1_290_534" edRef="#edho"/>
 	<lg met="anuṣṭubh">
-		<l n="a">ātmananiryātanād divya</l><l n="b">kāyavākcittavajrataḥ |</l>
+		<l n="a">ātmananiryātanād divya</l>
+		<l n="b">kāyavākcittavajrataḥ |</l>
 		<l n="c">sarvapūjābhiḥ saṁbuddhān</l> 
 		<l n="d">pūjayāmīti pūjyate ||</l>
 	</lg>
 </div>
 
 <div type="section" n="535"><pb n="1_290_535" edRef="#edho"/>
-	<lg>
+	<lg met="anuṣṭubh">
 		<l n="a">sarvaṁ kuśalasaṁbhāraṁ</l> 
 		<l n="b">kāyavākcittavajrataḥ |</l>
 		<l n="c">pariṇāmanapūjābhiḥ</l> 
@@ -4498,19 +4497,35 @@ samanantarasamāpanne ca bhagavaty, atha tāvad eva, sarvatathāgatahṛdayebhya
 
 <!-- RT reached here 2025-05-17 16:15 JST -->
 
-<div type="section" n="536"><pb n="1_290_536" edRef="#edho"/><lg><l>tatraitāni hṛdayāni bhavanti ||</l>
-<l>praṇamāmi |</l>
-<l>anumode |</l>
-<l>buddhapūja |</l>
-<l>pariṇāma ||</l></lg></div>
+<div type="section" n="536"><pb n="1_290_536" edRef="#edho"/>
+<p>tatraitāni hṛdayāni bhavanti ||</p>
+<ab type="mantra">praṇamāmi |</ab>
+<ab type="mantra">anumode |</ab>
+<ab type="mantra">buddhapūja |</ab>
+<ab type="mantra">pariṇāma ||</ab>
+</div>
 
-<div type="section" n="537"><pb n="1_291_537" edRef="#edho"/><lg><l>tato dharmapūjāmudrājñānaṁ śikṣayet ||</l></lg></div>
+<div type="section" n="537"><pb n="1_291_537" edRef="#edho"/>
+<p>tato dharmapūjāmudrājñānaṁ śikṣayet ||</p>
+</div>
 
-<div type="section" n="538"><pb n="1_291_538" edRef="#edho"/><lg><l>prakṛtiprabhāsvarā dharmā hy ādiśuddhāḥ svabhāvataḥ |</l>
-<l>pūjitā 'nena dharmeṇa labhed ratisukhāni tu ||</l></lg></div>
+<div type="section" n="538"><pb n="1_291_538" edRef="#edho"/>
+<lg met="anuṣṭubh">
+<l n="a">prakṛtiprabhāsvarā dharmā</l>
+<l n="b">hy ādiśuddhāḥ svabhāvataḥ |</l>
+<l n="c">pūjitānena dharmeṇa</l>
+<l n="d">labhed ratisukhāni tu ||</l>
+</lg>
+</div>
 
-<div type="section" n="539"><pb n="1_291_539" edRef="#edho"/><lg><l>akāras tu mukhaṁ vācya sarvadharmasamuccaye |</l>
-<l>anayā dharmamudrayā sarvaduḥkhāṁś chinatti saḥ ||</l></lg></div>
+<div type="section" n="539"><pb n="1_291_539" edRef="#edho"/>
+<lg met="anuṣṭubh">
+<l n="a">akāras tu mukhaṁ vācya</l>
+<l n="b">sarvadharmasamuccaye |</l>
+<l n="c">anayā dharmamudrayā</l> 
+<l n="d">sarvaduḥkhāṁś chinatti saḥ ||</l>
+</lg>
+</div>
 
 <div type="section" n="540"><pb n="1_291_540" edRef="#edho"/><lg><l>sarveṣām eva dharmāṇāṁ hetur atra tathāgataḥ |</l>
 <l>saddharmacakrapūjāyā pūjya dharmadharo bhavet ||</l></lg></div>
