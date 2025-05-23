@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="sarvavajrodaya">  <!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="sarvavajrodaya"> 
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -107,7 +107,7 @@
           <witness xml:id="BhD">
             <abbr type="siglum">BhḌ</abbr>
             <bibl>
-              <!--<ptr target="bib:Natori2020_01"/>-->
+              <ptr target="bib:Natori2020_01"/>
             </bibl>
           </witness>
         </listWit>
@@ -136,36 +136,10 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
           <p>We implement hyphenation of Sanskrit compounds to help the reader graps their interpretation.</p>
         </interpretation>
       </editorialDecl>
-      <!--<refsDecl xml:id="ASLREF">
-				<cRefPattern matchPattern="(\S+) ([^.]+)\.(.*)" replacementPattern="#xpath(//div1[@n='$1']/div/[@n='$2']//lb[@n='$3'])">
-					<p>A reference is created by assembling the following, in the reverse order as that
-						listed here: <list>
-							<item>the <att>n</att> value of the preceding <gi>lb</gi>
-							</item>
-							<item>a period</item>
-							<item>the <att>n</att> value of the ancestor <gi>div</gi>
-							</item>
-							<item>a space</item>
-							<item>the <att>n</att> value of the parent <gi>div1</gi>
-							</item>
-						</list>
-					</p>
-				</cRefPattern>
-			</refsDecl>-->
       <samplingDecl>
         <!-- To be kept only to explain in prose the method to choose the corpus, e.g. ommission of the material ...-->
         <p/>
       </samplingDecl>
-      <schemaRef type="guide" key=" EGCv01" url="https://docs.google.com/document/d/15HFxHJTOzIU1UDyVrB2yQYJ5wI6JyEshEkYgg5qwj8M/edit#"/>
-      <!-- Will need to be updated once a more official realase is done -->
-      <!-- variantEncoding is a  mandatory element. You have to select one of the two solutions given in DHARMA depending how you chave chosen to encode your apparatus. If inline, select @method="parallel-segmentation" as per section §5 of EGC, but if you are encoding your apparatus after any section, mostly being stanza, use @method="location-referenced". 
-				
-			<variantEncoding method="parallel-segmentation" location="internal"/>
-			<variantEncoding method="location-referenced" location="internal"/>.
-			
-			Note that the current by default behaviour is set on parallel-segmentation -->
-      <variantEncoding method="parallel-segmentation" location="internal"/>
-      <!-- Part mandatory --> 
     </encodingDesc>
     <revisionDesc>
       <change who="part:argr" when="2024-12">finished first round of cleaning the xml code</change>
@@ -237,7 +211,7 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
 Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasattvaṁ</foreign>.
 -->              
             </listApp>
-
+<head type="editorial">Vajrarāja</head>
               <p>tataḥ sarvatathāgata-hr̥dayebhyaḥ candra-maṇḍalāni bhūtvā viniḥsr̥tya yāvat-sarvalokadhātuṣu sarvasattvānāṁ nairātmya-prativedhaṁ kārayitvā candra<app>
                 <lem wit="#MSK" type="emn">-maṇḍalākāraṁ cittaikāgratāṁ</lem>
                 <witDetail wit="#MSK" type="silemn"/>
