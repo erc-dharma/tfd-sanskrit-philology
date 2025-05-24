@@ -1730,16 +1730,14 @@ tato vairocanena sahābhinnamātmānaṁ vicintya samājaṁ kuryāt | tata<app>
 </note>
 </app>
 nsabodhisattvaparṣa<app>
-<lem wit="#MSK" type="emn">nmaṇḍalān<!-- nmaṇḍalān --></lem>
-<note corresp="#KSP"/>
+<lem wit="#MSK" type="emn" corresp="#KSP">nmaṇḍalān<!-- nmaṇḍalān --></lem>
 <rdg wit="#cod">-maṇḍalam</rdg>
 <note>sabodhisattva<pb edRef="#cod" n="24v"/>
 <g type="siddham"/>
 parṣanmaṇḍalān</note>
 </app> oṁ <app>
-<lem wit="#MSK" type="emn">sarva</lem>
+<lem wit="#MSK" type="emn" corresp="#KSP">sarva</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<note corresp="#KSP"/>
 <rdg wit="#cod">sava-</rdg>
 </app> tathāgatapāda<app>
 <lem wit="#MSK" type="emn">vandana<seg rend="check">ṁ</seg>
@@ -2316,8 +2314,7 @@ etaduktaṁ <app>
 <rdg wit="#MSK">mantrāñ</rdg>
 <witDetail wit="#MSK" type="silemn"/>
 </app> śrīvairocanādīnāṁ triruccārya | dharmakarmamahāmudrābhi<app>
-<lem type="emn">ścainānāmudryābhi</lem>
-<note corresp="#Tib"/>
+<lem type="emn" corresp="#Tib">ścainānāmudryābhi</lem>
 <rdg wit="#cod #MSK">ca nānāmudrābhi</rdg>
 <note>
 <foreign>chos dang las dang phyag rgya chen po rnams kyis kyang | de rnams la rgyas btab ste | dbang bskur
@@ -2717,9 +2714,7 @@ khede sati <app>
 </app> rnāmāṣṭaśata<app>
 <lem wit="#MSK">stuti</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<note>
-<seg rend="check">CHECK!!</seg>
-</note>
+<!--<note><seg rend="check">CHECK!!</seg></note>-->
 <rdg wit="#cod">stutiṁm</rdg>
 </app> marghaṁ dattvā pūjāṁ catuḥpraṇāmaṁ ca kr̥tvā yatoyataḥ samutpannā mudrāstāstatratatraiva muñcet | sattvavajrādimudrāmokṣam | 
 <app>
@@ -2884,11 +2879,9 @@ sattvavajrīṁ <app>
 </app>
  kuryāt | evaṁ pratyahaṁ <app>
 <lem type="emn">catuḥsaṁdhyaṁ</lem>
-<note>(see end of next paragraph);</note>
+<!--<note>(see end of next paragraph);</note>-->
 <rdg wit="#cod">catusadhyaṁ</rdg>
-<note>
-<ptr target="#MSK"/>
- emends <foreign>catuṣṭayaṁ</foreign>
+<note><ptr target="#MSK"/>  emends <foreign>catuṣṭayaṁ</foreign>
 </note>
 </app>
 <app>
@@ -4310,12 +4303,9 @@ anena caivaṁ <app>
 <rdg wit="#cod">samudānitena</rdg>
 </app>  kuśalamūlena sarvasvaparityāginā mayā bhavitavyam |</l>
 <l n="cd">sarvasattvānām antike samacittatā <app>
-<lem wit="#MSK" type="emn">mayotpādayitavyā</lem>
-<note>ma<pb edRef="#cod" n="32v"/>
-yotpādayitavyā</note>
+<lem wit="#MSK" type="emn">ma<pb edRef="#cod" n="32v"/>yotpādayitavyā</lem>
 <rdg wit="#cod">māyotpādayitavyā</rdg>
-</app>  |
-</l>
+</app>  |</l>
 <l n="c">sarvasattvā mayā sarvayānaiḥ <app>
 <lem type="emn" wit="#MSK #cod">sarvopāyavisarai<!-- sarvopāyavisarai --></lem>
 <rdg wit="#cod">sarvopāyavisarai</rdg>
@@ -4953,8 +4943,7 @@ iti <app>
 </app> rjaḥkārairuttarasādhakena sūtrākarṣaṇaṁ <app>
 <lem wit="#MSK" type="emn">kāryam |<!-- kāryam | --></lem>
 <witDetail wit="#MSK" type="silemn"/>
-<note>(<foreign>kāryaṁ</foreign>);
-</note>
+<!--<note>(<foreign>kāryaṁ</foreign>);</note>-->
 <rdg wit="#cod">kāyāṁ</rdg>
 </app>
 </p>
@@ -6704,9 +6693,8 @@ gatamataḥ</rdg>
 <supplied reason="lost">gandeśvaraḥ 2 | mahāya</supplied>śaḥ</rdg>
 <note>Moriguchi's text shows the small error <foreign>nd</foreign> for <foreign>ndh</foreign> and accepts ungrammatical <foreign>-śaḥ</foreign> for <foreign>-śāḥ</foreign> from the manuscript.</note>
 </app> 3 | valadevaḥ 4 | guṇamālī 5 | nāgabhujaḥ 6 | <app>
-<lem wit="#MorMit" type="emn">
+<lem wit="#MorMit" type="emn" corresp="#Tib">
 <supplied reason="omitted">netra</supplied>pratimaṇḍitaḥ</lem>
-<note corresp="#Tib"/>
 <rdg wit="#cod">pratimaṇḍitaḥ</rdg>
 </app> 7 | sucīrṇabuddhiḥ 8 | jñānavibhuḥ 9 | <app>
 <lem type="emn">
@@ -6749,7 +6737,7 @@ gatamataḥ</rdg>
 </app> |<app>
 <lem wit="#cod">arthaṅgamaḥ 1<!-- arthaṅgamaḥ 1 --></lem>
 <rdg wit="#MorMit">arthamatiḥ 3</rdg>
-<note>(with citation of ms. variant!)</note>
+<!--<note>(with citation of ms. variant!)</note>-->
 <note>difference between MM numbering and our ms. no longer noted from here on.</note>
 </app> | acchambhī 2 | <app>
 <lem wit="#cod">sthitamitraḥ<!-- sthitamitraḥ --></lem>
