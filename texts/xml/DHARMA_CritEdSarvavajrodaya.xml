@@ -6075,25 +6075,20 @@ samālikhet |</l>
 
 <lg met="FILL-ME-IN">
 <l n="ab">athāsya <app>
-<lem wit="#MSK" type="emn">mudrā<!-- mudrā --></lem>
-<note>following STTS</note>
+<lem wit="#MSK" type="emn" corresp="#STTS">mudrā</lem>
 <rdg wit="#cod">muttra</rdg>
-</app> bhavati \</l>
-
+</app> bhavati</l>
 <l n="cd">
 <app>
-<lem wit="#MSK" type="emn">manasotkṣipya<!-- manasotkṣipya --></lem>
+<lem wit="#MSK" type="emn" corresp="#STTS">manasotkṣipya<!-- manasotkṣipya --></lem>
 <witDetail wit="#MSK" type="silemn"/>
-<note>following STTS;</note>
 <rdg wit="#cod">manasokṣipya</rdg>
 </app>
 <app>
-<lem wit="#MSK" type="emn">rekhāṁ<!-- rekhāṁ --></lem>
-<note>following STTS;</note>
+<lem wit="#MSK" type="emn" corresp="#STTS">rekhāṁ<!-- rekhāṁ --></lem>
 <rdg wit="#cod">rekhan</rdg>
 </app>  tu <app>
-<lem wit="#MSK" type="emn">vajrasūtramathāpi<!-- vajrasūtramathāpi --></lem>
-<note>following STTS;</note>
+<lem wit="#MSK" type="emn" corresp="#STTS">vajrasūtramathāpi<!-- vajrasūtramathāpi --></lem>
 <rdg wit="#cod">vajrasūtrayathāpi</rdg>
 <note>emends <foreign>vajrasūtraṁ yathāpi</foreign>
 </note>
@@ -6219,7 +6214,7 @@ evaṁ sattvavajrīti<app>
 <lem wit="#cod">sattvavajrī<!-- sattvavajrī --></lem>
 <rdg wit="#cod">sattvavajriṁ</rdg>
 <rdg wit="#MSK">sattvavajrīṁ</rdg>
-<note>(\emn?)</note>
+<!--<note>(\emn?)</note>-->
 <note>Cf. STTS §139</note>
 </app> yāva<app>
 <lem type="emn">dvajrāveśeti vajrāveśaḥ<!-- dvajrāveśeti vajrāveśaḥ --></lem>
@@ -7068,7 +7063,7 @@ vikrāntagāmī 1 | puṇya<app>
 <app>
 <lem type="conj">pārthivendraḥ</lem>
 <rdg wit="#MorMit">dharaṇīḥ</rdg>
-<witDetail wit="#MitMor" type="silem"/>
+<witDetail wit="#MorMit" type="silemn"/>
 <note>The ms. is damaged here and the <foreign>akṣara</foreign>s after <foreign>pā</foreign> are very hard to read. Our reading takes into account the Chin. and Tib. translations.</note>
 </app> 8 |
   vimuktigāmī 9 | suvarṇacūḍaḥ 10 ||
@@ -7560,7 +7555,7 @@ kuśalaprabhaḥ 1 | dr̥ḍhavikramaḥ 2 | <app>
 
 <ab>
 dharmeśvaraḥ 1 | <app>
-<lem type="emn" wit="#MM?">viśvadevaḥ</lem>
+<lem type="emn" wit="#MorMit">viśvadevaḥ</lem>
 <witDetail wit="#MorMit" type="silemn"/>
 <rdg wit="#cod">visvadevaḥ</rdg>
 </app>  2 | mahāmitraḥ 3 | sumitraḥ 4 | praśāntagatiḥ 5 | <app>
@@ -7776,7 +7771,7 @@ kṣemaṅkaraḥ 1 | <app>
 <lem type="emn" wit="#MorMit">ūrṇaḥ<!-- ūrṇaḥ --></lem>
 <rdg wit="#cod">urṇṇaḥ</rdg>
 </app>  7 | <app>
-<lem type="emn" wit="#MM?">atulapratibhānarājaḥ<!-- atulapratibhānarājaḥ --></lem>
+<lem type="emn" wit="#MorMit">atulapratibhānarājaḥ<!-- atulapratibhānarājaḥ --></lem>
 <rdg wit="#cod">atulapratibhāṇarājaḥ</rdg>
 </app>  8 | vibhaktajñāneśvaraḥ 9 | <app>
 <lem type="emn" wit="#MorMit">siṁhadaṁṣṭraḥ<!-- siṁhadaṁṣṭraḥ --></lem>
@@ -11119,8 +11114,7 @@ The heart mantra (<foreign>hr̥daya</foreign>) is taught to be <foreign>oṁ sar
 
 <lg met="FILL-ME-IN">
 <l n="ab">dakṣiṇahastatale kr̥ṣṇatilaiḥ pāpapratikr̥tiṁ kr̥tvā <app>
-<lem type="emn">hūṁkāraṁ madhye<!-- hūṁkāraṁ madhye --></lem>
-<note>with SDPT;</note>
+<lem type="emn" corresp="#SDPT">hūṁkāraṁ madhye<!-- hūṁkāraṁ madhye --></lem>
 <rdg wit="#cod #MSK">hūṁkāramadhyaṁ</rdg>
 </app>  vicintya tarjanyaṅguṣṭhābhyāṁ homaṁ kuryāt | tato homakuṇḍānnirgatya <app>
 <lem wit="#MSK" type="emn">jvālāmālākulairvajrai<!-- jvālāmālākulairvajrai --></lem>
@@ -11316,12 +11310,10 @@ SDPT 294:
 <head type="editorial">Ṣaḍvidhābhiṣekaḥ</head>
 
 <ab>
-tatastiṣṭha vajretyādinā praveśamudrāmokṣaṁ śiṣyahr̥daye kārayet | tato bāhyamaṇḍalābhyantare pūrvadvārābhi<app>
+tatastiṣṭha vajretyādinā praveśamudrāmokṣaṁ śiṣyahr̥daye kārayet | tato bāhyamaṇḍalābhyantare pūrvadvārā<pb edRef="#cod" n="61r" break="no"/>bhi<app>
 <lem wit="#MSK" type="emn">mukhaṁ<!-- pūrvadvārābhi\edtext{mukhaṁ --></lem>
-<note>%emends <foreign>-mukhaṁ</foreign>, with SDPT. Another possibility might be to emend <foreign>-mukhī</foreign>.
-</note>
 <rdg wit="#cod">-mukhīṁ</rdg>
-<note>pūrvadvārā<pb edRef="#cod" n="61r" break="no"/>bhimukhīṁ</note>
+<note>Emended <foreign>-mukhaṁ</foreign>, with SDPT. Another possibility might be to emend <foreign>-mukhī</foreign>.</note>
 </app> bāhyato vā candramaṇḍalamālikhya <app>
 <lem wit="#MSK" type="emn">śiṣyaṁ</lem>
 <rdg wit="#cod">śiṣya</rdg>
