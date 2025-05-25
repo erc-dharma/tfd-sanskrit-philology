@@ -10589,15 +10589,7 @@ brjod par bya ste||</l>
 <listApp type="parallels">
 <app>
 <note corresp="txt:SVUTib">SVU Tib. 
-<lg xml:lang="tib">
-<l n="a">ji ltar dus gsum mgon po rnams||</l>
-<l n="b">byang chub tu ni nges mdzad pa||</l>
-</lg>
-<p xml:lang="tib">zhes bya ba la sogs pa nas.</p>
-<lg xml:lang="tib">
-<l>sems can mya ngan 'das la <lb edRef="#SVUTibD" n="44a3"/> dgod||</l></lg>
-<p xml:lang="tib">ces bya ba'i bar du brjod par bya'o.</p><!-- 
-  Parallel to the <title>Vajraśekhara</title> ends -->
+<foreign>ji ltar dus gsum mgon po rnams || byang chub tu ni nges mdzad pa || zhes bya ba la sogs pa nas || sems can mya ngan 'das la <lb edRef="#SVUTibD" n="44a3"/> dgod || ces bya ba'i bar du brjod par bya'o ||</foreign><!--  Parallel to the <title>Vajraśekhara</title> ends -->
 </note>
 <note>Ānandagarbha (as well as SDP 288:24) here abridges a set of verses whose integral form is found in the
 <title>Vajraśekhara</title>:
