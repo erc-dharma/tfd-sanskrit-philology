@@ -86,6 +86,9 @@
             <bibl>
               <ptr target="bib:MikkyoSeitenKenkyukai1987_01"/>
             </bibl>
+          </witness>
+        	<witness xml:id="HT">
+        		<abbr type="siglum">Ed<hi rend="superscript">T</hi></abbr>
             <bibl>
               <ptr target="bib:Takahashi1988_01"/>
             </bibl>
@@ -7846,7 +7849,7 @@ atibalaḥ 1 | prajñāpuṣpaḥ 2 | <app>
 <seg rend="check">tpa</seg>llava<!---pallava--></lem>
 <witDetail wit="#HT" type="silemn"/>
 <rdg wit="#cod">-palava-</rdg>
-<note>\HT\ reads <foreign>satpallvaphalavaktraṁ</foreign> (sic), without note.</note>
+<note>reads <foreign>satpallvaphalavaktraṁ</foreign> (sic), without note.</note>
 </app>phala<app>
 <lem wit="#HT" type="emn">vaktraṁ<!-- vaktraṁ --></lem>
 <witDetail wit="#HT" type="silemn"/>
@@ -8205,7 +8208,7 @@ tathaiva vajrāṅkuśādibhiḥ ākr̥ṣya praveśya baddhvā vaśīkr̥tya | 
 </note>
 </app>kavacena sarvarakṣāḥ saṁrakṣyārghadānapūrvikābhiḥ svasamaya<app>
 <lem type="emn" wit="#HT">mudrābhirdr̥śyaṁ<!-- mudrābhirdr̥śyaṁ --></lem>
-<note>(silently for the -r);</note>
+<!--<note>(silently for the -r)</note>-->
 <rdg wit="#cod">-mudrābhidr̥śyā</rdg>
 </app>  kr̥tvā
 <!-- vadhvā: nomalize here and elsewhere baddhvā. -->
@@ -8327,9 +8330,8 @@ tataḥ <app>
  pratyekaikaṁ vā sarvasāmānyam | 
 nānāprakārāṇi vitānāni <app>
 <lem wit="#HT" type="emn">catuḥko<seg rend="check">ṇe</seg><!--catuḥko<seg rend="check">ṇe}--></lem>
-<note>\HT\ reports <foreign>-kona</foreign> as reading (probably a printing error) and emends <foreign>catuḥkoṇe</foreign> as separate word. Perhaps \HT's emendation is not necessary, although it is also easy to imagine how an original text <foreign>-koṇe</foreign> would have come to be misread as <foreign>-koṇa</foreign>.
-</note>
 <rdg wit="#cod">catuḥkoṇa-</rdg>
+<note>\HT\ reports <foreign>-kona</foreign> as reading (probably a printing error) and emends <foreign>catuḥkoṇe</foreign> as separate word. Perhaps \HT's emendation is not necessary, although it is also easy to imagine how an original text <foreign>-koṇe</foreign> would have come to be misread as <foreign>-koṇa</foreign>.</note>
 </app>  vicitrapatākāvasaktāni <seg rend="check">cha</seg>trapatākāśca | 
 oṁkāreṇa vajrasattvena ca <app>
 <lem type="emn">saptaśo<!-- saptaśo --></lem>
@@ -8399,8 +8401,7 @@ puṣpavr̥kṣaśataṁ caturo vā <app>
 <rdg wit="#cod">turaṣkāṇi</rdg>
 </app>  candanādi<app>
 <lem type="emn" wit="#HT">saṁmiśrāṇi<!-- saṁmiśrāṇi --></lem>
-<note>(who, however, misreads <foreign>-n-</foreign> for <foreign>-ṇ-</foreign>)
-</note>
+<!--<note>(who, however, misreads <foreign>-n-</foreign> for <foreign>-ṇ-</foreign>)</note>-->
 <rdg wit="#cod">-samiśrāṇi</rdg>
 </app>
 </ab>
@@ -9235,8 +9236,8 @@ kuberasya.</foreign>
 <rdg wit="#cod">tarjanyo</rdg>
 </app>
 <app>
-<lem wit="#HT" type="emn">pūrvavad</lem>
-<note>as in SDPT; see note \HT;</note>
+<lem wit="#HT" type="emn" corresp="#SDPT">pūrvavad</lem>
+<!--<note>see note \HT;</note>-->
 <rdg wit="#cod">pūrvva</rdg>
 </app> vajrākāreṇa dhārayedīśānasya samayamudrā | āvāhanamudrāyāstarjanyau <app>
 <lem wit="#HT">prasārya<!-- prasārya --></lem>
@@ -9702,7 +9703,10 @@ diśāsu <app><lem wit="#PSM">bhūtvā</lem>
 </app>
 </listApp>
 
-  <p><supplied reason="lost">atra mahāmaṇḍalapraveśe pātrāpātraparīkṣā na kāryā | tat kasmād dhetoḥ | santi <app><lem>bhagavantas tathāgatāḥ</lem><note corresp="#STTS #SDPS"></note><note>This segment is absent in Tib., while Tib. starts the paragraph with the term <foreign>bcom ldan 'das</foreign> corresponding to <foreign>bhagavān/bhagavan</foreign>. It seems, by comparison with the next two paragraphs, that the Tib. translator intentionally moved the translation of <foreign>bhagavantas</foreign> to stand at the beginning of the Tibetan sentences. On this ground, we give preference to the evidence of the Sanskrit parallel texts.</note></app> kecit sattvā mahāpāpakāriṇas ta idaṁ vajradhātumahāmaṇḍalaṁ dr̥ṣṭvā praviṣṭvā ca sarvāpāyavigatā bhaviṣyanti |</supplied></p>
+  <p><supplied reason="lost">atra mahāmaṇḍalapraveśe pātrāpātraparīkṣā na kāryā | tat kasmād dhetoḥ | santi 
+<app>
+<lem corresp="#STTS #SDPT">bhagavantas tathāgatāḥ</lem>
+<note>This segment is absent in Tib., while Tib. starts the paragraph with the term <foreign>bcom ldan 'das</foreign> corresponding to <foreign>bhagavān/bhagavan</foreign>. It seems, by comparison with the next two paragraphs, that the Tib. translator intentionally moved the translation of <foreign>bhagavantas</foreign> to stand at the beginning of the Tibetan sentences. On this ground, we give preference to the evidence of the Sanskrit parallel texts.</note></app> kecit sattvā mahāpāpakāriṇas ta idaṁ vajradhātumahāmaṇḍalaṁ dr̥ṣṭvā praviṣṭvā ca sarvāpāyavigatā bhaviṣyanti |</supplied></p>
 <listApp type="parallels">
   <app>
     <note sameAs="txt:SDP282:25-28">SDP 282:25-28: <foreign>atra ca maṇḍalapraveśe pātrāpātraparīkṣā na kāryā | tat <seg type="highlight">kasya</seg> hetoḥ | santi bhadantas tathāgatāḥ kecit sattvā mahāpāpakāriṇas ta idaṁ <seg type="highlight">vajrahuṁkāramaṇḍalaṁ</seg> dr̥ṣṭvā praviṣṭvā ca sarvāpāyavigatā bhaviṣyanti |</foreign>. The reading <foreign>bhadantas</foreign> is grammatically impossible and several manuscripts cited by Skorupski actually support <foreign>bhagavantas</foreign>.</note>
@@ -11366,8 +11370,7 @@ tatastiṣṭha vajretyādinā praveśamudrāmokṣaṁ śiṣyahr̥daye kāraye
 <lem wit="#MSK" type="emn">pūjayā<!-- pūjayā --></lem>
 <rdg wit="#cod">pūjāyā</rdg>
 </app> ca <app>
-<lem type="emn">saṁpūjayet ||</lem>
-<note>with SDPT;</note>
+<lem type="emn" corresp="#SDPT">saṁpūjayet ||</lem>
 <rdg wit="#cod">sampūjyaye ||</rdg>
 <rdg wit="#MSK">saṁpūjya</rdg>
 <note>
