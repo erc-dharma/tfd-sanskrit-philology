@@ -33,32 +33,32 @@
 
     <!-- file set for shivadharma -->
     <!-- based to apply moving-app -->
-    <fileset id="critical-shiva-normed" dir="./texts/xml" includes="**/*_tei.xml" excludes="*_parallel.xml *_apparatus.xml *_listWit.xml"/>
+    <!--<fileset id="critical-shiva-normed" dir="./texts/xml" includes="**/*_tei.xml" excludes="*_parallel.xml *_apparatus.xml *_listWit.xml"/>-->
     <!-- based to apply ids -->
-    <fileset id="critical-dharma-normed" dir="./output/dharma-normed" includes="**/*.xml"/>
+    <!--<fileset id="critical-dharma-normed" dir="./output/dharma-normed" includes="**/*.xml"/>-->
     <!-- based to run the dispaly -->
-    <fileset id="critical-display" dir="./output/ids" includes="**/*.xml"/>
+   <!-- <fileset id="critical-display" dir="./output/ids" includes="**/*.xml"/> --> 
 
     <!-- file set for dharma -->
-    <fileset id="dharma-ed" dir="./texts/xml" includes="DHARMA_CritEd*.xml DHARMA_DiplEd*.xml" />
+    <fileset id="dharma-ed" dir="./editions" includes="DHARMA_CritEd*.xml DHARMA_DiplEd*.xml" />
 
     <!-- Transformation from xml vers XML avec application de moving-app-->
-    <xslt force="true" style="./project-documentation/stylesheets/shivadharma/moving-app.xsl" destdir="./output/dharma-normed" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+    <!--  <xslt force="true" style="./project-documentation/stylesheets/shivadharma/moving-app.xsl" destdir="./output/dharma-normed" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <fileset refid="critical-shiva-normed"/>
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
-    </xslt>
+    </xslt>-->
 
     <!-- Transformation XML vers xml avec ids -->
-    <xslt force="true" style="./project-documentation/stylesheets/varia/DHARMA_NumberingMS_v01.xsl" destdir="./output/ids" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+    <!--  <xslt force="true" style="./project-documentation/stylesheets/varia/DHARMA_NumberingMS_v01.xsl" destdir="./output/ids" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <fileset refid="critical-dharma-normed"/>
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
-    </xslt>
+    </xslt>-->
 
     <!-- Transformation XML vers xml avec ids -->
-    <xslt force="true" style="./project-documentation/stylesheets/criticalEditions/start-edition.xsl" destdir="./output/html" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+   <!-- --> <xslt force="true" style="./project-documentation/stylesheets/criticalEditions/start-edition.xsl" destdir="./output/html" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <fileset refid="critical-display"/>
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
-    </xslt>
+    </xslt>-->
 
      <!-- Transformation XML vers HTML pour crit ed  -->
      <!-- TO BE ADDED WHEN NECESSARY -->
