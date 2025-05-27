@@ -1210,21 +1210,13 @@ amogha<app>
 </app></l>
 <l n="d"><app>
 <lem wit="#MSK" type="emn" sameAs="#STTS #cod #Hed">abhiṣekanayaṁ</lem>
-<note>
-<seg rend="check">CHECK YAMADA!!</seg>
-</note>
 <rdg wit="#cod">abhi<unclear>ṣ</unclear>ekataḥyaṁ</rdg>
+<note><seg rend="check">CHECK YAMADA!!</seg></note>
 </app>
 <app>
 <lem wit="#MSK" type="emn" sameAs="#STTS #cod #Hed">dr̥ḍham</lem>
-<note>
-<seg rend="check">CHECK YAMADA!!</seg>
-</note>
 <rdg wit="#cod">dr̥ḍhaṁḥ</rdg>
-<note>
-<ptr target="#MSK"/>
- reads <foreign>dr̥ḍhaḥ</foreign>
-</note>
+<note><ptr target="#MSK"/> reads <foreign>dr̥ḍhaḥ</foreign>. <seg rend="check">CHECK YAMADA!!</seg></note>
 </app>||
 </l>
 </lg>
