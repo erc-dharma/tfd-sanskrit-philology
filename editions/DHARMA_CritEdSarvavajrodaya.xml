@@ -100,7 +100,7 @@
               <ptr target="bib:Moriguchi1989_01"/>
             </bibl>
           </witness>
-          <witness xml:id="SDPS">
+          <witness xml:id="SDPEdS">
             <abbr type="siglum">SDP<hi rend="superscript">S</hi></abbr>
             The Sanskrit text of the Sarvadurgatipariśodhanatantra as edited by Skorupski
             <bibl>
@@ -8220,7 +8220,7 @@ tathaiva vajrāṅkuśādibhiḥ ākr̥ṣya praveśya baddhvā vaśīkr̥tya | 
 <l n="cd">
 <app>
 <lem wit="#HT">jaḥ</lem>
-<witDetail wit="#MHT" type="silemn"/>
+<witDetail wit="#HT" type="silemn"/>
 <rdg wit="#cod">jāḥ</rdg>
 </app>  hūm̐ vam̐ hoḥ <app>
 <lem wit="#HT">pravartayan<!-- pravartayan --></lem>
@@ -8840,7 +8840,7 @@ ity agneḥ.</foreign>
 <ab>
 <app>
 <lem type="emn">yāmyabhimukho</lem>
-<rdg wit="#cod" corresp="#SDPT">yāmyābhimukho</rdg>
+<rdg wit="#cod" corresp="#SDPEdS">yāmyābhimukho</rdg>
 <note>
 <foreign>yāmyām abhimukho</foreign>
 </note>
@@ -9236,7 +9236,7 @@ kuberasya.</foreign>
 <rdg wit="#cod">tarjanyo</rdg>
 </app>
 <app>
-<lem wit="#HT" type="emn" sameAs="#SDPT">pūrvavad</lem>
+<lem wit="#HT" type="emn" sameAs="#SDPEdS>pūrvavad</lem>
 <!--<note>see note \HT;</note>-->
 <rdg wit="#cod">pūrvva</rdg>
 </app> vajrākāreṇa dhārayedīśānasya samayamudrā | āvāhanamudrāyāstarjanyau <app>
@@ -9596,7 +9596,7 @@ bhrāmayāmāsa nagara<hi rend="bold">grāmaghoṣeṣv</hi> itas tataḥ || SoK
 <l n="a"><supplied reason="lost">siṁhebhar̥kṣādhyuṣiteṣu ye ca</supplied></l>
 <l n="b"><supplied reason="lost"><app><lem>vasanti</lem>
 	<note>Padmaśrīmitra</note>
-	<rdg wit="#SDPT">vadanti</rdg>
+	<rdg wit="#SDPEdS">vadanti</rdg>
 </app> ghorāsu mahāṭavīṣu |</supplied></l>
 <l n="c"><supplied reason="lost">dvīpeṣu divyeṣu kr̥tālayāś ca</supplied></l>
 <l n="d"><supplied reason="lost">merau śmaśāne nivasanti ye ca ||</supplied></l>
@@ -9605,34 +9605,37 @@ bhrāmayāmāsa nagara<hi rend="bold">grāmaghoṣeṣv</hi> itas tataḥ || SoK
 <l n="a"><supplied reason="lost">hr̥ṣṭāḥ prasannāḥ srajagandhamālyam</supplied></l> 
 <l n="b"><supplied reason="lost">dhūpaṁ baliṁ <app>
 	<lem type="emn">dīpavidhiṁ</lem>
-	<rdg wit="#SDPT">dīpaṁ vidhiṁ</rdg>
+	<rdg wit="#SDPEdS">dīpaṁ vidhiṁ</rdg>
 	<note><foreign>dīpavidhiś</foreign> Padmaśrīmitra</note>
 	</app> ca bhaktyā |</supplied></l>
 <l n="c"><supplied reason="lost">gr̥hṇantu bhuñjantu pibantu cedam</supplied></l>
-<l n="d"><supplied reason="lost">idaṁ ca <app><lem>karma</lem><note>Padmaśrīmitra</note>
-			<rdg wit="#SDPT">karmaṁ</rdg>
-			</app> saphalaṁ juṣantu ||</supplied></l>
+<l n="d"><supplied reason="lost">idaṁ ca 
+<app>
+<lem>karma</lem>
+<rdg wit="#SDPEdS">karmaṁ</rdg>
+<note>Padmaśrīmitra</note>
+</app> saphalaṁ juṣantu ||</supplied></l>
 </lg>
 <lg met="indravajrā">
 <l n="a"><supplied reason="lost">evaṁ tu kr̥tvā grahapūjanaṁ tu</supplied></l>
-<l n="b"><supplied reason="lost">digarcanaṁ tv ekamanā <app><lem type="emn">prakuryāt</lem><rdg wit="#SDPT">prakuryā</rdg></app> |</supplied></l>
+<l n="b"><supplied reason="lost">digarcanaṁ tv ekamanā <app><lem type="emn">prakuryāt</lem><rdg wit="#SDPEdS">prakuryā</rdg></app> |</supplied></l>
 <l n="c"><supplied reason="lost"><app><lem wit="#PSM">aindryāṁ</lem><note>indrā SDPT</note></app> tu vajrī saha devasaṁghaiḥ</supplied></l>
 <l n="d"><supplied reason="lost">imaṁ ca gr̥hṇantu baliṁ viśiṣṭam ||</supplied></l>
 </lg>
 <lg met="indravajrā">
-<l n="a"><supplied reason="lost">agnir yamo <app><lem wit="#PSM">nairr̥tibhūpatiś</lem><rdg wit="#SDPT">nairr̥tir bhūpatiś</rdg>
+<l n="a"><supplied reason="lost">agnir yamo <app><lem wit="#PSM">nairr̥tibhūpatiś</lem><rdg wit="#SDPEdS">nairr̥tir bhūpatiś</rdg>
 </app> ca</supplied></l>
-<l n="b"><supplied reason="lost">apāṁ patir <app><lem wit="#PSM">vāyudhanādhipaś ca</lem><rdg wit="#SDPT">vāyudhanādhipatiḥ</rdg></app> |</supplied></l>
+<l n="b"><supplied reason="lost">apāṁ patir <app><lem wit="#PSM">vāyudhanādhipaś ca</lem><rdg wit="#SDPEdS">vāyudhanādhipatiḥ</rdg></app> |</supplied></l>
 <l n="c"><supplied reason="lost"><app>
 	<lem wit="#PSM">aiśānabhūtādhipatiś</lem>
-	<rdg wit="#SDPT">īśānabhūtādhipatiś</rdg>
+	<rdg wit="#SDPEdS">īśānabhūtādhipatiś</rdg>
 	</app> ca devāḥ</supplied></l>
 <l n="d"><supplied reason="lost">ūrdhvaṁ tu <app><lem>candrārka</lem>
-			<rdg wit="#SDPT">candro 'rkaḥ</rdg>
+			<rdg wit="#SDPEdS">candro 'rkaḥ</rdg>
 			</app>
 	<app><lem type="emn"><seg rend="check">pitāmahaś</seg></lem>
 	<note><foreign>pitāmahāś</foreign> Padmaśrīmitra;</note>
-	<rdg wit="#SDPT">pitā mahāṁś</rdg>
+	<rdg wit="#SDPEdS">pitā mahāṁś</rdg>
 	</app> 
 ca ||</supplied></l>
 </lg>
@@ -9641,23 +9644,23 @@ ca ||</supplied></l>
 <l n="b"><supplied reason="lost">dharādharā guhyagaṇaiḥ sametāḥ |</supplied></l>
 <l n="c"><supplied reason="lost">pratiprati tv <app>
 	<lem type="emn">ekaniveditās</lem>
-	<rdg wit="#SDPT">ekanivedanaṁ</rdg>
+	<rdg wit="#SDPEdS">ekanivedanaṁ</rdg>
 	<rdg wit="#PSM">ekaniveditaṁ</rdg>
 	</app> 
 tu</supplied></l>
 <l n="d"><supplied reason="lost"><app><lem type="emn">svakasvakāsv eva</lem>
-	<rdg wit="#SDPT">svakasvakāś caiva</rdg>
+	<rdg wit="#SDPEdS">svakasvakāś caiva</rdg>
 	<rdg wit="#PSM">svakasvakasvāsu</rdg>
 	</app> 
 diśāsu <app><lem wit="#PSM">bhūtvā</lem>
-		<rdg wit="#SDPT">bhūtāḥ</rdg>
+		<rdg wit="#SDPEdS">bhūtāḥ</rdg>
 </app> ||</supplied></l>
 </lg>
 <lg met="indravajrā">
 <l n="a"><supplied reason="lost">gr̥hṇantu tuṣṭāḥ sabalāḥ sasainyāḥ</supplied></l>
 <l n="b"><supplied reason="lost">saputramitrasvajanaiḥ sametāḥ |</supplied></l>
 <l n="c"><supplied reason="lost">dhūpaṁ baliṁ <app><lem type="emn">dīpapuṣpavilepanaṁ</lem>
-			<rdg wit="#SDPT">dīpaṁ puṣpavilepanaṁ</rdg>
+			<rdg wit="#SDPEdS">dīpaṁ puṣpavilepanaṁ</rdg>
 			<rdg wit="#PSM">puṣpanivedanaṁ</rdg>
 			<note>N.B. PSM's reading is metrically preferable.</note>
 </app> ca</supplied></l> 
@@ -9684,7 +9687,7 @@ diśāsu <app><lem wit="#PSM">bhūtvā</lem>
 
 <lg met="anuṣṭubh">
   <l n="a"><supplied reason="lost">aham <app><lem type="emn">amukanāmā</lem>
-    <rdg wit="#SDPT">amukanāmnā</rdg>
+    <rdg wit="#SDPEdS">amukanāmnā</rdg>
     </app> ca</supplied></l>
   <l n="b"><supplied reason="lost">vajrācāryo mahātapāḥ |</supplied></l>
   <l n="c"><supplied reason="lost">śiṣyān praveśayiṣyāmi</supplied></l>
@@ -9705,7 +9708,7 @@ diśāsu <app><lem wit="#PSM">bhūtvā</lem>
 
   <p><supplied reason="lost">atra mahāmaṇḍalapraveśe pātrāpātraparīkṣā na kāryā | tat kasmād dhetoḥ | santi 
 <app>
-<lem sameAs="#STTS #SDPT">bhagavantas tathāgatāḥ</lem>
+<lem sameAs="#STTS #SDPEdS>bhagavantas tathāgatāḥ</lem>
 <note>This segment is absent in Tib., while Tib. starts the paragraph with the term <foreign>bcom ldan 'das</foreign> corresponding to <foreign>bhagavān/bhagavan</foreign>. It seems, by comparison with the next two paragraphs, that the Tib. translator intentionally moved the translation of <foreign>bhagavantas</foreign> to stand at the beginning of the Tibetan sentences. On this ground, we give preference to the evidence of the Sanskrit parallel texts.</note></app> kecit sattvā mahāpāpakāriṇas ta idaṁ vajradhātumahāmaṇḍalaṁ dr̥ṣṭvā praviṣṭvā ca sarvāpāyavigatā bhaviṣyanti |</supplied></p>
 <listApp type="parallels">
   <app>
@@ -10834,7 +10837,7 @@ te sphārayed yadi tvaṁ kasya cid brūyāt |</foreign></note>
   <l n="a"><supplied reason="lost">vajrasattvaḥ svayaṁ te 'dya</supplied></l> 
   <l n="b"><supplied reason="lost">hr̥daye samavasthitaḥ |</supplied></l>
   <l n="c"><supplied reason="lost">nirbhidya tat kṣaṇaṁ yāyād</supplied></l>
-  <l n="d"><supplied reason="lost">yadi <app><lem wit="#SDPT">brūyā</lem><rdg wit="#STTS">brūyād</rdg></app> imaṁ nayam ||</supplied></l>
+  <l n="d"><supplied reason="lost">yadi <app><lem wit="#SDPEdS">brūyā</lem><rdg wit="#STTS">brūyād</rdg></app> imaṁ nayam ||</supplied></l>
 </lg>
 <listApp type="parallels">
   <app>
@@ -11118,7 +11121,7 @@ The heart mantra (<foreign>hr̥daya</foreign>) is taught to be <foreign>oṁ sar
 
 <lg met="FILL-ME-IN">
 <l n="ab">dakṣiṇahastatale kr̥ṣṇatilaiḥ pāpapratikr̥tiṁ kr̥tvā <app>
-<lem type="emn" sameAs="#SDPT">hūṁkāraṁ madhye<!-- hūṁkāraṁ madhye --></lem>
+<lem type="emn" sameAs="#SDPEdS>hūṁkāraṁ madhye<!-- hūṁkāraṁ madhye --></lem>
 <rdg wit="#cod #MSK">hūṁkāramadhyaṁ</rdg>
 </app>  vicintya tarjanyaṅguṣṭhābhyāṁ homaṁ kuryāt | tato homakuṇḍānnirgatya <app>
 <lem wit="#MSK" type="emn">jvālāmālākulairvajrai<!-- jvālāmālākulairvajrai --></lem>
@@ -11370,7 +11373,7 @@ tatastiṣṭha vajretyādinā praveśamudrāmokṣaṁ śiṣyahr̥daye kāraye
 <lem wit="#MSK" type="emn">pūjayā<!-- pūjayā --></lem>
 <rdg wit="#cod">pūjāyā</rdg>
 </app> ca <app>
-<lem type="emn" sameAs="#SDPT">saṁpūjayet ||</lem>
+<lem type="emn" sameAs="#SDPEdS>saṁpūjayet ||</lem>
 <rdg wit="#cod">sampūjyaye ||</rdg>
 <rdg wit="#MSK">saṁpūjya</rdg>
 <note>
