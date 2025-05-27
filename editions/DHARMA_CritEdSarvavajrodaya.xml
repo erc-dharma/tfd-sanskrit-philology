@@ -111,6 +111,10 @@
               <ptr target="bib:Skorupski1983_01"/>
             </bibl>
           </witness>
+        	<witness xml:id="STTS">
+        		<abbr type="siglum">STTS</abbr>
+        		The Sanskrit text of the Sarvatathāgatatattvasaṅgraha as edited by Yamada, by Horiuchi and checked by us against the codex unicus.
+        	</witness>
           <witness xml:id="BhD">
             <abbr type="siglum">BhḌ</abbr>
             <bibl>
@@ -10742,7 +10746,7 @@ anāśvastān āśvāsayiṣyāmi sattvān sthāpayāmi nirvṛttāv iti //
 
 <p><supplied reason="lost">tatas taṁ vajrasattvam adhiṣṭhāya gandhapuṣpādibhir abhyarcya sragvinaṁ surabhitānanaṁ ca kr̥tvottamāṁ dakṣiṇām ādāya bahiḥsthitakalaśodakenābhi<app>
 <lem type="emn" rend="hyphenleft">ṣicya</lem>
-<rdg wit="#SDPS">-ṣiñcya</rdg>
+<rdg wit="#SDPEdS">-ṣiñcya</rdg>
 </app> samayas tvam ity anena sattvavajrīṁ bandhayet |</supplied></p>
 <listApp type="parallels">
 <app>
@@ -12862,10 +12866,9 @@ pūjayan<pb edRef="#cod" n="65r" break="no"/>tv iti |
 <lem wit="#MSK" type="emn">pūjāṁ<!-- pūjāṁ --></lem>
 <rdg wit="#cod">pūjā</rdg>
 </app>  kārayitvā <app>
-<lem wit="#MSK" type="emn">yathāpraviṣṭā<!-- yathāpraviṣṭā --></lem>
-<note>(sil. for <foreign>ṣṭa</foreign>);
-</note>
+<lem wit="#MSK" type="emn">yathāpraviṣṭā</lem>
 <rdg wit="#cod">yathāpraviṣṭhā</rdg>
+<note>(sil. for <foreign>ṣṭa</foreign>);</note>
 </app>nyathāvibhavataḥ sarvarasāhārādibhiḥ <app>
 <lem wit="#MSK" type="emn" sameAs="#STTS">sarvopakaraṇai<!-- sarvopakaraṇai --></lem>
 <rdg wit="#MS">sarvvopakaraṇe</rdg>
