@@ -103,7 +103,7 @@
             %at the top of consonant clusters, the graphs for <t> and <d> seem to be identical in many cases.
             %upadhmānīya is extremely rare: we have found it only in 21v4
             %avagraha sign is very rare: we have noted them in 56r3, 60v3.
-            %gumkara shape of anusvāra at 65v4 (*ṁ)
+            %gumkara shape of anusvāra at 65v4 (ṁ*)
             % siddham signs as line-filler: 23v1, 40r6, 40v6 (check all photos to see that no case has been left unrepresented)
             % also, \columnfiller represents siddham-like sign found i.a. 37r6
             %62v only 5 lines!
@@ -336,16 +336,16 @@ tata Akṣobhyāhaṁkāreṇa sattvavajrīm· niṣpādayet· | ratnasambhavāh
 
 %MSK     aho hi sarvabuddhānāṁ sattvavajram ahaṁ dṛḍhaḥ / yad dṛḍhatvād akāyo 'pi vajrakāyatvam āgataḥ // 1 //
 
-%RT&AG
-Aho hi sarvavuddhānāṁ satvavajram ahaṁ dṛḍha*ṁ | <pb n="23v"><lb n="23v1"/> <g type="siddham"/> yadṛḍhatvād a§ <space type="binding-hole"/>kāyo pi vajrakāyatvam āgataḥ |
-	%dṛḍha*ṁ: em. dṛḍhaḥ, with MSK. See STTS §141, with note Horiuchi on his reading dṛḍhaḥ. We disagree with Horiuchi; it is conceivable that satvavajram aham stands for satvavajro 'ham in which case dṛḍhaḥ is correct, and this is confirmed by the masculine adjective forms in the following stanzas.
+%RT&AG -->
+Aho hi sarvavuddhānāṁ satvavajram ahaṁ dṛḍhaṁ* | <pb n="23v"/><lb n="23v1"/> <g type="siddham"/> yadṛḍhatvād a§<space type="binding-hole"/>kāyo pi vajrakāyatvam āgataḥ |
+<!--	%dṛḍhaṁ*: em. dṛḍhaḥ, with MSK. See STTS §141, with note Horiuchi on his reading dṛḍhaḥ. We disagree with Horiuchi; it is conceivable that satvavajram aham stands for satvavajro 'ham in which case dṛḍhaḥ is correct, and this is confirmed by the masculine adjective forms in the following stanzas.
 	%yadṛḍhatvād: em. yad dṛḍhatvād, with MSK (sil. em.). Same variant appeared earlier.
 
 %MSK aho hi sarvabuddhānāṁ ratnavajram ahaṁ smṛtaḥ / yan mudrāṇāṁ hi sarvāsām abhiṣekanayaṁ dṛḍham // 2 //
 
-%RT&AG
+%RT&AG -->
 Aho hi sarvavuddhānāṁ ratnavajrām ahaṁ smṛtam· | yan mudrāṇāṁ hi sarvāśām abhi<lb n="23v2"/><unclear>ṣ</unclear>ekataḥyaṁ dṛḍhaṁḥ |
-	%ratnavajrām: em. ratnavajram, with MSK (sil. em.).
+<!--	%ratnavajrām: em. ratnavajram, with MSK (sil. em.).
 	%smṛtam·: perhaps em. smṛtaḥ, with MSK.
 	%sarvāśām: em. sarvāsām, with MSK (sil. em.).
 	%abhi<unclear>ṣ</unclear>ekataḥyaṁ: em. abhiṣekanayaṁ, with MSK.
@@ -3926,7 +3926,7 @@ praveśadvārā <space type="binding-hole"/>bhimukhaṁ sarvakarmmikakuṇḍa�
 
 %RT&AG
 vajrasatvādisasatvasarvasiddhipradāyikam· |
-sarva<lb n="65v4"/>vajropamāṁ kṛtvā yan mayotpacita śubha*ṁ |
+sarva<lb n="65v4"/>vajropamāṁ kṛtvā yan mayotpacita śubhaṁ* |
 Ā§ <space type="binding-hole"/>nandagarbhavidyāgraḥ sarvasattvaikavāndhavaḥ
 Aseṣas tena lokās tu mahāvajradharo vibhuḥ 
 śrīmadāyasarvatathāga<lb n="65v5"/>tatatvasaṁgrahān mahāyānābhisamayāt· | mahā <space type="binding-hole"/>tantrarājād uddhṛtā vajradhātumahāmaṇḍalopayikā sarvavajrodakā nāma samāptaḥ || <g type="flower"/> || kṛteyaṁ mahāvajrācā<lb n="65v6"/>yānandagarbhapādair iti |

@@ -67,6 +67,10 @@
               </history>
             </msDesc>
           </witness>
+        	<witness xml:id="SVUTib">
+        		<abbr type="siglum">Tib</abbr>
+        		The underlying text of various Tibetan blockprint (as published in Pedurma)
+        	</witness>
           <witness xml:id="SVUTibD">
             <abbr type="siglum">Tib<hi rend="superscript">D</hi>
             </abbr>
@@ -187,7 +191,7 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
 
               <p>tadanu 
                 <app>
-                  <lem wit="#MSK" type="emn" sameAs="#KSP #Tib">vajradhātvīśvaryā</lem>
+                  <lem wit="#MSK" type="emn" sameAs="#KSP" corresp="#SVUTib">vajradhātvīśvaryā</lem>
                   <rdg wit="#cod">vajradhātvīśvaryādi</rdg>
                 </app> caturṣu sthāneṣv ātmānam adhiṣṭhāya bodhyagrīṁ baddhvā 
                 <app>
@@ -1134,49 +1138,50 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 
 <p>
 <app>
-<lem wit="#MSK" type="emn">tato 'kṣobhyā</lem>
-<witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">tata akṣobhyā-</rdg>
-</app>haṁkāreṇa sattvavajrīṁ niṣpādayet | ratnasambhavāhaṁkāreṇa ratnavajrīm | amitābhāhaṁkāreṇa dharmavajrīm | amogha<app>
-<lem wit="#MSK">siddhyahaṁkāreṇa</lem>
-<witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">-siddhy-āhaṅkāreṇa</rdg>
-</app>  karmavajrīm | āsā<app>
-<lem wit="#MSK">m udānāni</lem>
-<witDetail wit="#MSK" type="silemn"/>
+<lem wit="#MSK" type="silemn" rend="hyphenright">tato 'kṣobhyāhaṁ</lem>
+<!--<witDetail wit="#MSK" type="silemn"/>-->
+<rdg wit="#cod">tata akṣobhyāhaṁ-</rdg>
+</app>kāreṇa sattvavajrīṁ niṣpādayet | 
+ratnasambhavāhaṁkāreṇa ratnavajrīm | 
+amitābhāhaṁkāreṇa dharmavajrīm | 
+amogha<app>
+<lem wit="#MSK" rend="hyphenleft"  type="silemn">siddhy-ahaṁkāreṇa</lem>
+<!--<witDetail wit="#MSK" type="silemn"/>-->
+<rdg wit="#cod">-siddhyāhaṅkāreṇa</rdg>
+</app>  karmavajrīm | 
+āsām <app>
+<lem wit="#MSK" type="silemn">udānāni</lem>
+<!--<witDetail wit="#MSK" type="silemn"/>-->
 <rdg wit="#cod">uddānāni</rdg>
 <!-- Same variant appeared earlier. -->
 </app> bhavanti ||
-<!-- tata °akṣo-: em. tato 'kṣo-, with MSK (sil. em.). -->
-<!-- -siddhyāhaṅkāreṇa: em. -siddhyahaṁkāreṇa, with MSK (sil. em.). -->
-<!-- uddānāni: em. udānāni, with MSK (sil. em.). Same variant appeared earlier. -->
 </p>
+
+<!-- RT, SI and AG have reached here on 2025-05-27 -->
 
 <lg met="anuṣṭubh">
 <head type="editorial">Sattvavajrī</head>
 <l n="a">aho hi sarvabuddhānāṁ</l> 
 <l n="b">sattvavajra-m-ahaṁ <app>
 <lem wit="#MSK" type="emn" sameAs="#STTS">dr̥ḍhaḥ</lem>
-<rdg wit="#cod">dr̥ḍhaṁ</rdg>
-<note>See STTS 141, where Horiuchi reads <foreign>dr̥ḍhaḥ</foreign> but admits in a note that he cannot justify why the text does not show <foreign>dr̥ḍham</foreign>. We believe that <foreign>satvavajram aham</foreign> is <foreign>metri causa</foreign> for <foreign>satvavajro ’ham</foreign> and thus that <foreign>dr̥ḍhaḥ</foreign> is correct. This explains the masculine adjective forms in the following hemistich.
-<seg rend="check">CHECK MS AND YAMADA!!</seg>
-</note>
+<rdg wit="#cod">dr̥ḍhaṁ*</rdg>
+<note>The special <foreign>anusvāra</foreign> (<foreign>ṁ*</foreign>) found here in the manuscript is easily explained as an error for the <foreign>visarga</foreign> observed in STTS 141. <!--Yamada and Horiuchi both read <foreign>dr̥ḍhaḥ</foreign>, but--> Horiuchi admits in a note that he cannot justify why the text does not show <foreign>dr̥ḍham</foreign>. We believe that <foreign>satvavajram aham</foreign> is <foreign>metri causa</foreign> for <foreign>satvavajro ’ham</foreign> and thus that <foreign>dr̥ḍhaḥ</foreign> is correct. This explains the masculine adjective forms in the following hemistich.</note>
 </app>
 </l>
-<l n="c">dr̥ḍham [siddham sign] <pb edRef="#cod" n="23v"/>
-yad dr̥ḍhatvādda-kāyo 'pi</l> 
+<l n="c"><pb edRef="#cod" n="23v"/><app>
+<lem wit="#MSK" type="silemn">yad dr̥ḍhatvād</lem><rdg wit="#cod">yadr̥ḍhatvād</rdg>
+<!--  Same variant appeared earlier. --></app> akāyo 'pi</l> 
 <l n="d">vajra-kāyatvam āgataḥ ||</l>
-</lg><listApp type="parallels">
+</lg>
+<listApp type="parallels">
 <app>
-<lem>aho ... āgataḥ</lem>
-<note>STTS 141
+<note>STTS 141<!-- ms. checked; edho edya checked; -->
 <!--   <foreign>aho hi sarvabuddhānāṁ sattvavajra-m-ahaṁ dr̥ḍhaḥ | -->
 <!--   yaddr̥dhatvād akāyo vajrakāyatvam āgata iti || -->
 </note>
 </app>
 </listApp> 
-<!-- dr̥ḍha*ṁ: em. dr̥ḍhaḥ, with MSK. See STTS §141, with note Horiuchi on his reading dr̥ḍhaḥ. We disagree with Horiuchi; it is conceivable that satvavajram aham stands for satvavajro 'ham in which case dr̥ḍhaḥ is correct, and this is confirmed by the masculine adjective forms in the following stanzas. -->
-<!-- yadr̥ḍhatvād: em. yad dr̥ḍhatvād, with MSK (sil. em.). Same variant appeared earlier. -->
+
 
 <lg met="anuṣṭubh">
 <head type="editorial">Ratnavajrī</head>
@@ -1190,10 +1195,9 @@ yad dr̥ḍhatvādda-kāyo 'pi</l>
 <rdg wit="#cod">ratnavajrām</rdg>
 </app>ahaṁ <app>
 <lem wit="#MSK" type="emn">smr̥taḥ</lem>
-<rdg wit="#cod" corresp="#STTS #cod #Hed">smr̥tam</rdg>
-<note>
-<seg rend="check">YAMADA!!</seg>
-</note>
+<rdg wit="#cod" sameAs="#STTS">smr̥tam</rdg>
+<!--<rdg wit="#cod" corresp="#STTS #cod #Hed">smr̥tam</rdg>-->
+<note><seg rend="check">YAMADA!!</seg></note>
 </app> |
 </l>
 <l n="c">yan mudrāṇāṁ hi <app>
@@ -1529,7 +1533,8 @@ yad dr̥ḍhatvādda-kāyo 'pi</l>
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajragandhā</head>
-<l n="a">aho gandhamayī pūjā</l><l n="b"> divyāhaṁ hi manoramā |</l>
+<l n="a">aho gandhamayī pūjā</l>
+<l n="b"> divyāhaṁ hi manoramā |</l>
 <l n="c">yat tathāgata<app>
 <lem wit="#MSK">-gandhaṁ</lem>
 <rdg wit="#cod">-gandho</rdg>
@@ -2025,7 +2030,7 @@ tato yathāva<app>
 <lem type="emn">
 <seg rend="check">savyatāleti</seg>
 </lem>
-<!--<note corresp="#SVU #Tib">
+<!--<note corresp="#SVUTib">
 <foreign>g-yas pa thal mo zhes bya ste</foreign>
 </note>-->
 <!-- did we mean #STTS or #KSP instead of #SVU? Or maybe we meant Tibetan translation of SVU?-->
@@ -2293,7 +2298,7 @@ etaduktaṁ <app>
 <rdg wit="#MSK">mantrāñ</rdg>
 <witDetail wit="#MSK" type="silemn"/>
 </app> śrīvairocanādīnāṁ triruccārya | dharmakarmamahāmudrābhi<app>
-<lem type="emn" sameAs="#Tib">ścainānāmudryābhi</lem>
+<lem type="emn" corresp="#SVUTib">ścainānāmudryābhi</lem>
 <rdg wit="#cod #MSK">ca nānāmudrābhi</rdg>
 <note>
 <foreign>chos dang las dang phyag rgya chen po rnams kyis kyang | de rnams la rgyas btab ste | dbang bskur
@@ -3381,7 +3386,7 @@ maṇḍalapraveśadivase <app>
 </app>cāryeṇa śiṣyasahitena bhavitavyam ||</p>
 
 <p>tatra tāvan <app>
-<lem wit="#MSK" type="emn" sameAs="#Tib">maṇḍalabhūmimadhye</lem>
+<lem wit="#MSK" type="emn" corresp="#SVUTib">maṇḍalabhūmimadhye</lem>
 <!-- T32(92)de la re zhig dkyil 'khor <lb edRef="#SVUTibD" n=23b7"/>gyi sa'i dbus su 'dug la |-->
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">mahālabhūmimadhye</rdg>
@@ -3539,7 +3544,7 @@ agro me divaso hy *adya</foreign> (\corr\ <ptr target="#cod"/>: <foreign xml:lan
 <!--reached here on 2024-05-20, reconsider the choice of reading ghaṭikā or varttikā -->
 </app>hastaḥ
 <app>
-<lem wit="#MSK" sameAs="#Tib">sarva<supplied reason="lost">buddhān nimantra</supplied>
+<lem wit="#MSK" corresp="#SVUTib">sarva<supplied reason="lost">buddhān nimantra</supplied>
 <pb edRef="#cod" n="30r"/>
 yet</lem>
 <note>The reconstruction was initially proposed by MSK following Tib.:
@@ -3669,7 +3674,7 @@ utthāpayen mr̥taṁ sarvaṁ vajrottiṣṭheti saṁjñitā ||(STT 1,414,963)
 
 tatas tayā svasamayamudrayātmānaṁ 
 <app>
-<lem wit="#MSK" type="emn" sameAs="#Tib">sakr̥d</lem>
+<lem wit="#MSK" type="emn" corresp="#SVUTib">sakr̥d</lem>
 <rdg wit="#cod">kr̥d</rdg>
 </app> adhiṣṭhāya
 <app>
@@ -3927,7 +3932,7 @@ pañcatathāgatasthāneṣu <app>
 <rdg wit="#cod">vaṁtulāni</rdg>
 </app>  |
 <app>
-<lem type="emn" sameAs="#Tib">svasvamantraiśca<!-- svasvamantraiśca --></lem>
+<lem type="emn" corresp="#SVUTib">svasvamantraiśca<!-- svasvamantraiśca --></lem>
 <rdg wit="#cod">svamantrais ca</rdg>
 <rdg wit="#MSK" type="norm">svamantraiś ca</rdg>
 <!--<note>This emendation is supported by Tib.</note>--> <!-- does this note apply to MSK's norm. or our emn? -->
@@ -4156,7 +4161,7 @@ tataḥ pāpadeśanādikaṁ kārayet |
 <lg met="FILL-ME-IN">
 <l n="ab">
 <app>
-<lem wit="#MSK" type="emn" sameAs="#Tib">rāgādyuraga</lem>
+<lem wit="#MSK" type="emn" corresp="#SVUTib">rāgādyuraga</lem>
 <note>Tib’dod chags la sogs sbrul</note>
 <rdg wit="#cod">rā[gādyu]+ga-</rdg>
 </app> viṣāpahamurukaruṇāmānasaṁ vibuddhadhiyam |</l>
@@ -6174,7 +6179,7 @@ sūryaprabhāmaṇḍalā vairocanābhimukhā ratna<app>
 </app>  
 nīlapītaraktaśyāmāvarṇā yathākrameṇa | 
 ekamukhāḥ <app>
-<lem type="emn" sameAs="#Tib">pañcasūcikavajravajraratnavajrapadmaviśvavajradharāḥ</lem>
+<lem type="emn" corresp="#SVUTib">pañcasūcikavajravajraratnavajrapadmaviśvavajradharāḥ</lem>
 <rdg wit="#MSK">pañcasūcikavajravajraratnapadmacakraviśvavajradharāḥ</rdg>
 <!-- Derge 31r5 rdo rje rtse lnga pa dang | rdo rje rin po che dang | rdo rje padma dang | sna tshogs rdo rje la sogs pa bsnams pa'o ||-->
 <!-- if necessary, quote Tib. in annotation to translation -->
@@ -6638,7 +6643,7 @@ gatamataḥ</rdg>
 <supplied reason="lost">gandeśvaraḥ 2 | mahāya</supplied>śaḥ</rdg>
 <note>Moriguchi's text shows the small error <foreign>nd</foreign> for <foreign>ndh</foreign> and accepts ungrammatical <foreign>-śaḥ</foreign> for <foreign>-śāḥ</foreign> from the manuscript.</note>
 </app> 3 | valadevaḥ 4 | guṇamālī 5 | nāgabhujaḥ 6 | <app>
-<lem wit="#MorMit" type="emn" sameAs="#Tib">
+<lem wit="#MorMit" type="emn" corresp="#SVUTib">
 <supplied reason="omitted">netra</supplied>pratimaṇḍitaḥ</lem>
 <rdg wit="#cod">pratimaṇḍitaḥ</rdg>
 </app> 7 | sucīrṇabuddhiḥ 8 | jñānavibhuḥ 9 | <app>
@@ -7836,7 +7841,7 @@ atibalaḥ 1 | prajñāpuṣpaḥ 2 | <app>
 <unclear>tābhisso</unclear>ṣadhībhiḥ</rdg>
 <note> \HT's emendation to <foreign>-dhibhiḥ</foreign> is perhaps not necessary.</note>
 </app> śāliyavagodhūmatilamāṣaiḥ sarvadhānyaiḥ <app>
-<lem type="emn" sameAs="#Tib">sugandhodakasitasugandhakusumaiś</lem>
+<lem type="emn" corresp="#SVUTib">sugandhodakasitasugandhakusumaiś</lem>
 <!--<note><foreign>spos chu dri zhim pa dang | me tog dkar po dri zhim pas</foreign></note>-->
 <rdg wit="#cod #HT">sugandhodakasitasugandhair kusumaiś</rdg>
 </app> ca paripūrṇaṁ samantato gandhopaliptaṁ <app>
@@ -7913,7 +7918,7 @@ atibalaḥ 1 | prajñāpuṣpaḥ 2 | <app>
 <lem type="emn">kalaśān pratyekasvacihnān<!-- kalaśān pratyekasvacihnān --></lem>
 <rdg wit="#cod #HT">kalaśaṁ pratyekaṁ svacihnaṁ</rdg>
 </app> bāhyamaṇḍalabāhyataḥ koṇeṣu teṣāṁ svamantrairaṣṭottaraśata<app>
-<lem type="emn" sameAs="#Tib">
+<lem type="emn" corresp="#SVUTib">
 <seg rend="check">japtān</seg>
 </lem>
 <rdg wit="#cod">+ptāṁ paṣṭa</rdg>
@@ -9236,7 +9241,7 @@ kuberasya.</foreign>
 <rdg wit="#cod">tarjanyo</rdg>
 </app>
 <app>
-<lem wit="#HT" type="emn" sameAs="#SDPEdS>pūrvavad</lem>
+<lem wit="#HT" type="emn" sameAs="#SDPEdS">pūrvavad</lem>
 <!--<note>see note \HT;</note>-->
 <rdg wit="#cod">pūrvva</rdg>
 </app> vajrākāreṇa dhārayedīśānasya samayamudrā | āvāhanamudrāyāstarjanyau <app>
@@ -9708,7 +9713,7 @@ diśāsu <app><lem wit="#PSM">bhūtvā</lem>
 
   <p><supplied reason="lost">atra mahāmaṇḍalapraveśe pātrāpātraparīkṣā na kāryā | tat kasmād dhetoḥ | santi 
 <app>
-<lem sameAs="#STTS #SDPEdS>bhagavantas tathāgatāḥ</lem>
+<lem sameAs="#STTS #SDPEdS">bhagavantas tathāgatāḥ</lem>
 <note>This segment is absent in Tib., while Tib. starts the paragraph with the term <foreign>bcom ldan 'das</foreign> corresponding to <foreign>bhagavān/bhagavan</foreign>. It seems, by comparison with the next two paragraphs, that the Tib. translator intentionally moved the translation of <foreign>bhagavantas</foreign> to stand at the beginning of the Tibetan sentences. On this ground, we give preference to the evidence of the Sanskrit parallel texts.</note></app> kecit sattvā mahāpāpakāriṇas ta idaṁ vajradhātumahāmaṇḍalaṁ dr̥ṣṭvā praviṣṭvā ca sarvāpāyavigatā bhaviṣyanti |</supplied></p>
 <listApp type="parallels">
   <app>
@@ -10815,10 +10820,17 @@ te sphārayed yadi tvaṁ kasya cid brūyāt |</foreign></note>
 </app>
 </listApp>
 
-<p><supplied reason="lost">tatas tathaiva samayamudrayodakaṁ śapathāhr̥dayena sakr̥t parijāpya tasmai śiṣyāya <app><lem sameAs="#SVUTib">pāyayitvā evaṁ vadet</lem><note>These words are not found in STTS and SDPT.</note></app> |
-  tatredaṁ <app><lem>śapathāhr̥dayaṁ</lem>
+<p><supplied reason="lost">tatas tathaiva samaya-mudrayodakaṁ śapathā-hr̥dayena sakr̥t parijāpya tasmai śiṣyāya 
+<app>
+<lem corresp="#SVUTib">pāyayitvā evaṁ vadet</lem>
+<note>These words are not found in STTS and SDPT.</note>
+</app> |
+  tatredaṁ 
+<app>
+<lem>śapathā-hr̥dayaṁ</lem>
 <note>SVU Tib.: <foreign>dam tshig gi snying po</foreign> (*<foreign>samayahr̥dayam</foreign>). Both STTS ans SDPT support <foreign>śapathāhr̥dayaṁ</foreign>. The reading of the latter, <foreign>śayathāhr̥dayaṁ</foreign> should be emended.</note>
-</app> bhavati |</supplied></p>
+</app> 
+bhavati |</supplied></p>
 <listApp type="parallels">
   <app>
     <note corresp="txt:STTS0221-0222">STTS 221–222 
@@ -11119,23 +11131,31 @@ The heart mantra (<foreign>hr̥daya</foreign>) is taught to be <foreign>oṁ sar
 <!-- tasya § \linebreak{60r4"/>punaḥ -->
 
 
-<lg met="FILL-ME-IN">
-<l n="ab">dakṣiṇahastatale kr̥ṣṇatilaiḥ pāpapratikr̥tiṁ kr̥tvā <app>
-<lem type="emn" sameAs="#SDPEdS>hūṁkāraṁ madhye<!-- hūṁkāraṁ madhye --></lem>
+<p>
+<l n="ab">dakṣiṇa-hasta-tale kr̥ṣṇa-tilaiḥ pāpa-pratikr̥tiṁ kr̥tvā 
+<app>
+<lem type="emn" sameAs="#SDPEdS">hūṁkāraṁ madhye</lem>
 <rdg wit="#cod #MSK">hūṁkāramadhyaṁ</rdg>
-</app>  vicintya tarjanyaṅguṣṭhābhyāṁ homaṁ kuryāt | tato homakuṇḍānnirgatya <app>
-<lem wit="#MSK" type="emn">jvālāmālākulairvajrai<!-- jvālāmālākulairvajrai --></lem>
+</app>  
+vicintya tarjany-aṅguṣṭhābhyāṁ homaṁ kuryāt | 
+tato homa-kuṇḍān nirgatya 
+<app>
+<lem wit="#MSK" type="emn">jvālā-mālākulair vajrais</lem>
 <rdg wit="#cod">jvālāmālākulerdvajres</rdg>
 <note>MSK reads <foreign>jvālāmālākuled vajrais</foreign>. It is possible that the scribe has either written superscript part of <foreign>-ai</foreign> on top of <foreign>repha</foreign>, or converted a <foreign>repha</foreign> into such a superscript part of <foreign>-ai</foreign>. In the latter case, ours is the AC reading, and MSK's the PC reading.</note>
-</app>stasya śarīre <app>
-<lem wit="#MSK" type="emn">pāpaṁ<!-- pāpaṁ --></lem>
+</app>
+tasya śarīre 
+<app>
+<lem wit="#MSK" type="emn">pāpaṁ</lem>
 <rdg wit="#cod">pāpāṁ</rdg>
-</app>  dahyamānaṁ cintayet <seg rend="check">/</seg> niyatamāviśati | evamapi <app>
-<lem wit="#MSK">yasyāveśo<!-- yasyāveśo --></lem>
-<witDetail wit="#MSK" type="silemn"/>
+</app>  
+dahyamānaṁ cintayet <seg rend="check">|</seg> niyatam āviśati | evam api 
+<app>
+<lem wit="#MSK" type="silemn">yasyāveśo</lem>
+<!--<witDetail wit="#MSK" type="silemn"/>-->
 <rdg wit="#cod">yasyāveso</rdg>
-</app>  na bhavati tasyābhiṣekaṁ na kuryāditi ||</l>
-</lg>
+</app> na bhavati tasyābhiṣekaṁ na kuryāditi ||</l>
+</p>
 
 <lg met="FILL-ME-IN">
 <l n="ab">
@@ -11373,13 +11393,10 @@ tatastiṣṭha vajretyādinā praveśamudrāmokṣaṁ śiṣyahr̥daye kāraye
 <lem wit="#MSK" type="emn">pūjayā<!-- pūjayā --></lem>
 <rdg wit="#cod">pūjāyā</rdg>
 </app> ca <app>
-<lem type="emn" sameAs="#SDPEdS>saṁpūjayet ||</lem>
+<lem type="emn" sameAs="#SDPEdS">saṁpūjayet ||</lem>
 <rdg wit="#cod">sampūjyaye ||</rdg>
 <rdg wit="#MSK">saṁpūjya</rdg>
-<note>
-<ptr target="#MSK"/>
- emends <foreign>saṁpūjya</foreign>. %After this, a new paragraph starts, with Ānandagarbha prescribing the manners of a <foreign>śiṣya</foreign>
-</note>
+<note><ptr target="#MSK"/> emends <foreign>saṁpūjya</foreign>.<!--After this, a new paragraph starts, with Ānandagarbha prescribing the manners of a <foreign>śiṣya</foreign>--></note>
 </app>
 <listApp type="parallels">
 <app>
@@ -11405,7 +11422,7 @@ tataḥ sarvavidhim anuṣṭhāya nāmāṣṭaśatena saṁstutya gāthāpañc
 <lem wit="#MSK" type="emn">cottamāṁ<!-- cottamāṁ --></lem>
 <rdg wit="#cod">cottamān</rdg>
 </app>  dakṣiṇāṁ dattvācāryaṁ <app>
-<lem wit="#MSK" type="emn" sameAs="#Tib">praṇamya<!-- praṇamya"/>--></lem>
+<lem wit="#MSK" type="emn" corresp="#SVUTib">praṇamya<!-- praṇamya"/>--></lem>
 <rdg wit="#cod #MSK">praṇamya praṇamya</rdg>
 <note>
   This could be a dittography.</note>
@@ -12473,7 +12490,7 @@ te ca vajradharāḥ sarve rakṣanti tāv sarvaśaḥ ||</foreign> (Sakurai 199
 <lg met="FILL-ME-IN">
 <l n="ab">
 <app>
-<lem wit="#MSK" type="emn" sameAs="#Tib">vajracakravajrabhāṣau<!--vajracakravajrabhāṣau--></lem>
+<lem wit="#MSK" type="emn" corresp="#SVUTib">vajracakravajrabhāṣau<!--vajracakravajrabhāṣau--></lem>
 <rdg wit="#cod">vajracakrabhāṣau</rdg>
 </app>  dharmākṣarasahitau <app>
 <lem wit="#MSK" type="emn">prayoktavyau<!-- prayoktavyau --></lem>
@@ -12956,12 +12973,12 @@ tataḥ sarveṣāṁ punar api na kasya cid vaktavyam iti.
 <rdg wit="#cod">tri[vā]rāṁ</rdg>
 </app>
 <app>
-<lem wit="#MSK">saptavārān<!-- saptavārān --></lem>
+<lem wit="#MSK">saptavārān</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">saptavārām</rdg>
-</app> vā maṇḍalaṁ pradakṣiṇīkr̥tya pūrvavadvisarjanādikaṁ kr̥tvā/ 
-akāro mukhamityādinā <app>
-<lem wit="#MSK" type="emn" sameAs="#VA #Tib">maṇḍalaṁ<!-- maṇḍalaṁ --></lem>
+</app> vā maṇḍalaṁ pradakṣiṇīkr̥tya pūrvavadvisarjanādikaṁ kr̥tvā | akāro mukham ityādinā 
+<app>
+<lem wit="#MSK" type="emn" sameAs="#VA" corresp="#SVUTib">maṇḍalaṁ</lem>
 <rdg wit="#cod">maṇḍalamudrāṁ</rdg>
 </app> vikopayet/</l>
 <l n="cd">
@@ -13112,7 +13129,7 @@ akāro mukhamityādinā <app>
 </note>
 </app>
 <app>
-<lem wit="#MSK" type="emn" sameAs="#Tib">yathoktasaptasaptāhutiṁ<!-- yathoktasaptasaptāhutiṁ --></lem>
+<lem wit="#MSK" type="emn" corresp="#SVUTib">yathoktasaptasaptāhutiṁ<!-- yathoktasaptasaptāhutiṁ --></lem>
 <note>
 <foreign>ji skad du bshad pa’i sbyin sreg lan bdun bdun</foreign>
 </note>
@@ -13350,8 +13367,6 @@ Oh, I am the Wheel full of Vajras of (the Buddhas) whose Law is the best of Vajr
 This is that purification of all Laws of All Buddhas, the wheel of the non-returners known as the Platform of Awakening!
 </p>
 
-<!--%reached here on 2021-05-18-->
-
 <p rend="stanza">
 <head type="editorial">Vajrabhāṣa</head>
 Oh, I am known as the secret of the Selfborn (Buddhas), as the one of cryptic speech, through which they instruct the Good Law free of verbal prolixity!\\
@@ -13545,7 +13560,6 @@ Oh, the (vajra) of great loftiness, born without beginning, by which the Buddhas
 
 <p>[Thus far] the Absorption called Summit of Action Kings.</p>
  
-<!-- %@@@@ reached here on 2021-07-14-->
 </div>
 <div type="subchapter"><head type="editorial">Supplement (or Prior Service???)</head>
 
@@ -13565,8 +13579,6 @@ STTS 857–858 <foreign>tato madhyasthito bhūtvā vajrācāryaḥ samāhitaḥ 
 vidārayeta saṃkruddho dvārodghāṭanam uttamam iti //</foreign>;
 however, we find a different mantra at SDPT p. 172 <foreign>vajramuṣṭidvayaṃ baddhvā tarjanī dve prasārayet // kaniṣṭhāṃ śṛṅkhalīkṛtya dvārodghāṭanamudrayā //
 oṃ sarvavid dvāram udghāṭaya hūṃ / dvārodghāṭanamantramudrayā dvāram udghāṭayet /</foreign></seg></note> and display the great seal of Śrī Vajrasattva, after empowering it with <hi rend="mantra">oṁ vajrasattva hūṁ</hi>.</p>
-
-<!--%@@ reached here on 2022-01-31-->
 
 <p rend="stanza">
 Himself in union with Śrī Vajrasattva, he should assemble All Buddhas using his arms, a Vajra-bind [or] releases of the Vajra-snap.\\
