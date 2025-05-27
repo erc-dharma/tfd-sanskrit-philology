@@ -8556,9 +8556,8 @@ tathā
   kā<seg rend="check">ryā</seg>
 <app>
 <lem wit="#HT" type="emn">srakcāmara<!--srakcāmara- --></lem>
-<note> \HT\ emends <foreign>srak cāmara-</foreign>.
-</note>
 <rdg wit="#cod">srakḍāmara</rdg>
+<note>\HT\ emends <foreign>srak cāmara-</foreign>.</note>
 </app> vibhūṣitā |</l>
 <l n="cd">
 <app>
@@ -8860,8 +8859,8 @@ ity agneḥ.</foreign>
 <rdg wit="#cod">aṇāmikā</rdg>
 </app> dvayāsaktasūcīṁ puna<app>
 <lem type="emn" wit="#HT">rabhyantaraṁ<!-- rabhyantaraṁ --></lem>
-<note>(misreading abhyāntara);</note>
 <rdg wit="#cod">a<unclear>bhya</unclear>ntara</rdg>
+<note>(misreading abhyāntara);</note>
 </app>  dhārayedyamasyāvāhanamudrā | anāmikāṁ <app>
 <lem type="emn" wit="#HT">puna<!-- puna --></lem>
 <rdg wit="#cod">punā</rdg>
@@ -11123,8 +11122,7 @@ The heart mantra (<foreign>hr̥daya</foreign>) is taught to be <foreign>oṁ sar
 <!-- tasya § \linebreak{60r4"/>punaḥ -->
 
 
-<p>
-<l n="ab">dakṣiṇa-hasta-tale kr̥ṣṇa-tilaiḥ pāpa-pratikr̥tiṁ kr̥tvā 
+<p>dakṣiṇa-hasta-tale kr̥ṣṇa-tilaiḥ pāpa-pratikr̥tiṁ kr̥tvā 
 <app>
 <lem type="emn" sameAs="#SDPEdS">hūṁkāraṁ madhye</lem>
 <rdg wit="#cod #MSK">hūṁkāramadhyaṁ</rdg>
@@ -11146,7 +11144,7 @@ dahyamānaṁ cintayet <seg rend="check">|</seg> niyatam āviśati | evam api
 <lem wit="#MSK" type="silemn">yasyāveśo</lem>
 <!--<witDetail wit="#MSK" type="silemn"/>-->
 <rdg wit="#cod">yasyāveso</rdg>
-</app> na bhavati tasyābhiṣekaṁ na kuryāditi ||</l>
+</app> na bhavati tasyābhiṣekaṁ na kuryāditi ||
 </p>
 
 <lg met="FILL-ME-IN">
@@ -11803,9 +11801,9 @@ yaḥ śrīnivāsaḥ pravaro gaṇānāṁ tan maṅgalaṁ bhavatu śāntikara
 </app> |</l>
 <l n="c">nāthasya <app>
 <lem wit="#MSK">janmani babhūva bhavāntakasya</lem>
-<note>restoration on the basis of Padmaśrīmitra and other sources.</note>
 <rdg wit="#cod">
 <unclear>janmani vabhūva bhavāntaka</unclear>sya</rdg>
+<note>restoration on the basis of Padmaśrīmitra and other sources.</note>
 </app></l>
 <l n="d">tanmaṅgalaṁ bhavatu śāntikaraṁ tavādya ||</l></lg>
 <listApp type="parallels">
@@ -11933,8 +11931,8 @@ tathāgatasya</l>
 <!-- MSK yan maṅgalaṁ jvalitakāñcanavigrahasya vaiḍūryavarṇatr̥ṇasaṁstaramadhyagasya | paryaṅkabaddhanibiḍottamaniścalasya tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || 10 || -->
 <l n="a">yanmaṅgalaṁ jvalitakāñcanavigrahasya</l>
 <l n="b">vaiḍūryavarṇatr̥ṇa<app><lem wit="#MSK" type="emn" rend="hyphenaround">saṁstara</lem>
-<note>with PŚM,</note>
 <rdg wit="#cod">-saptara-</rdg>
+<note>with PŚM,</note>
 </app>madhyagasya |</l>
 <l n="c">paryaṅkabaddha<app>
 <lem wit="#MSK" type="emn">nibiḍottama</lem><!-- emends -nibiḍottama-, which is graphically very plausible. -->
@@ -12122,39 +12120,32 @@ tato ratnaśalākāṁ sauvarṇa<app>
 
 <!-- SI RT AG have reached here on 2024-12-17 -->
 
-<app>
-<lem>
-<l n="ab">
-ajñānapaṭalaṁ <app>
-<lem wit="#MSK" type="emn" sameAs="#VĀ">vatsa<!-- vatsa --></lem>
+<lg>
+<l n="ab"> ajñānapaṭalaṁ <app>
+<lem wit="#MSK" type="emn" sameAs="#VĀ">vatsa</lem>
 <rdg wit="#cod">vaccha</rdg>
-</app>  apanītaṁ jinaistava|</l>
-<l n="cd">
-<app>
-<lem type="emn">śalāki<!-- śalāki --></lem>
+</app> apanītaṁ jinais tava |</l>
+<l n="cd"><app><lem type="emn">śalāki</lem>
 <rdg wit="#cod">śalākī-</rdg>
-</app> vaidyarājaistu yathā lokasya <app>
-<lem wit="#MSK" type="emn">taimiram<!-- taimiram --></lem>
+</app>vaidyarājais tu yathā lokasya <app>
+<lem wit="#MSK" type="emn">taimiram</lem>
 <rdg wit="#cod">vai purā</rdg>
-<note>(<ptr target="#MSK"/>
- reads <foreign>cai purā</foreign>)
-</note>
-</app>//
-</l>
-</lem>
-<note type="altLem">ajñānapaṭalaṁ ... purā</note>
+<note>(<ptr target="#MSK"/> reads <foreign>cai purā</foreign>)</note>
+</app> ||</l>
+</lg>
+<listApp type="parallels"><app>
 <note>The <foreign>ajñānapaṭalam</foreign> stanza is also found in several other texts. See Tanemura 2004: 180.</note>
-</app>
+</app></listApp>
 
-<l n="ab">athāsya hr̥dayam | oṁ vajranetrāpahara <app>
+<p>athāsya hr̥dayam | oṁ vajranetrāpahara <app>
 <lem wit="#MSK" type="emn">paṭalaṁ<!-- paṭalaṁ --></lem>
 <rdg wit="#cod">paṭaliṁ</rdg>
-</app>  hrīriti|</l>
+</app> hrīr iti |</p> 
 
-<l n="cd">tato darpaṇamādāya <app>
-<lem wit="#MSK" type="emn">dharmalakṣaṇaṁ<!-- dharmalakṣaṇaṁ --></lem>
+<p>tato darpaṇam ādāya <app>
+<lem wit="#MSK" type="emn">dharmalakṣaṇaṁ</lem>
 <rdg wit="#cod">dharmmaṇalakṣaṇaṁ</rdg>
-</app>  kathayet|</l>
+</app> kathayet |</p>
 
 <lg met="FILL-ME-IN">
 <l n="ab">pratibimbasamā dharmā acchāḥ śuddhā hyanāvi<supplied reason="lost">lāḥ</supplied>/
@@ -12213,16 +12204,13 @@ As mentioned above, the source of the first verse is Dīpaṁkarabhadra's <forei
 </l>
 </lg>
 
-<ab>
+<p>
 <app>
 <lem>
-<supplied reason="lost">tato ghaṇṭāmādāya vādayan</supplied><!--tato ghaṇṭāmādāya vādayan--></lem>
-<note>
-  tentative restoration by RT.</note>
-<note>only cited Tib.:  <foreign>de nas dril bu blans la dkrol te</foreign>
-</note>
-</app>/
-</ab>
+<supplied reason="lost">tato ghaṇṭāmādāya vādayan</supplied></lem>
+<note>tentative restoration by RT. Only cited Tib.:  <foreign>de nas dril bu blans la dkrol te</foreign></note>
+</app> |
+</p>
 
 <lg met="FILL-ME-IN">
 <l n="ab">
