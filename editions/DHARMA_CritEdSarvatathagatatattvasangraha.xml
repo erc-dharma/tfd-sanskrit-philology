@@ -1514,7 +1514,13 @@ tebhyaś ca dhūpapūjāmeghasamudrebhyaḥ sarvalokadhātuparamāṇurajaḥdh�
 		<lem rend="hyphenaround" type="emn">kramet sa</lem>
 		<rdg wit="#cod #edya">-krameta-</rdg>
 		<rdg wit="#edho">-kramena</rdg>		
-		<note>Emended based on parallels.</note></app>garveṇa</l> 
+		<note>Emended based on parallels.</note>
+<!-- We believe the reading <foreign>parikrameta garveṇa</foreign> in the STTS codex unicus (accepted by Yamada, Horiuchi reads <foreign>-kramena</foreign>) is in need of correction to <foreign>parikramet sagarveṇa</foreign> because <foreign>sagarva</foreign> is a common expression in the language of this text while the med. opt. form <foreign>parikrameta</foreign> is unattested.
+       Dānapāla's (Sego) translation of STTS: 以高擧相次第行　金剛薩埵應念誦　　　　應取新線堅妙合　稱其分量而善用  
+       CHECK Bhūtaḍāmara manual has -kramet svagarveṇa: tathaivotthāya mudrāsthaḥ sarvato vyavalokayan | parikramet svagarveṇa svamantraṁ samudāharan || 
+       SVU cod. has -krameta sagarvveṇa.
+-->
+</app>garveṇa</l> 
 <l n="d">vajrasattvam udāharan ||</l>
 </lg>
 <lg met="anuṣṭubh">
