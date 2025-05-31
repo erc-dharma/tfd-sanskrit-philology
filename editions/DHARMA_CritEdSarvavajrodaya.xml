@@ -503,7 +503,7 @@ sarvatathāgata-kula-cakravartitve <app>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:52">STTS 52: <foreign>aho svabhāvaśuddho 'ham anurāgaḥ svayaṁbhuvām | 
+<note sameAs="#STTS:52">STTS 52: <foreign>aho svabhāvaśuddho 'ham anurāgaḥ svayaṁbhuvām | 
 yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi ||</foreign></note>
 </app>
 </listApp> 
@@ -521,7 +521,7 @@ yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi ||</foreign></note>
 </app>saukhyaṁ dadanti hīti ||</l>
 </lg><listApp type="parallels">
 <app>
-<note sameAs="STTS:55">STTS 55</note>
+<note sameAs="#STTS:55">STTS 55</note>
 <!-- idaṁ tat sarvabuddhānāṁ rāgajñānam anāvilam | -->
 <!-- hatvā virāgaṁ rāgeṇa sarvasaukhyaṁ dadanti hi || -->
 </app>
@@ -542,7 +542,7 @@ yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi ||</foreign></note>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:58">STTS 58</note>
+<note sameAs="#STTS:58">STTS 58</note>
 <!-- <foreign>aho hi sādhukāro 'haṁ sarvaḥ sarvavidāṁ varaḥ | -->
 <!-- yad vikalpaprahīṇānāṁ tuṣṭiṁ janayate dhruvam ||</foreign>-->
 </app>
@@ -556,7 +556,7 @@ yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi ||</foreign></note>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:61">STTS 61</note>
+<note sameAs="#STTS:61">STTS 61</note>
 <!--   <foreign>idaṁ tat sarvabuddhānāṁ sādhukārapravartakam | -->
 <!--   sarvatuṣṭikaraṁ vajraṁ divyaṁ prāmodyavardhanam iti || -->
 </app>
@@ -576,7 +576,7 @@ yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi ||</foreign></note>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:66">STTS 66</note>
+<note sameAs="#STTS:66">STTS 66</note>
 <!--   <foreign>aho hi svabhiṣeko 'haṁ vajraratnam anuttaram | -->
 <!--   yan niḥsaṅgā api jinās tridhātupatayaḥ smr̥tāḥ ||</fforeign> -->
 </app>
@@ -699,7 +699,7 @@ paramāṇurajaḥ<seg type="highlight">saṁkhya</seg>sūryādhikataraprabham i
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:80">STTS 80</note>
+<note sameAs="#STTS:80">STTS 80</note>
 <!--   idaṁ tat sarvabuddhānāṁ sarvāśāparipūraṇam | -->
 <!--   cintāmaṇidhvajaṁ nāma dānapāramitānayam iti || -->
 </app>
@@ -757,7 +757,7 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:86">STTS 86</note>
+<note sameAs="#STTS:86">STTS 86</note>
 <!--   <foreign>idaṁ tat sarvabuddhānām adbhutotpādadarśakam | -->
 <!--   mahāharṣakaraṁ jñānam ajñātaṁ paraśāsitir iti || -->
 </app>
@@ -783,7 +783,7 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:91">STTS 91. Yamada misreads <foreign>svayambhuvān</foreign>.</note>
+<note sameAs="#STTS:91">STTS 91. Yamada misreads <foreign>svayambhuvān</foreign>.</note>
 <!--   aho hi paramārtho 'haṁ ādiśuddhaḥ svayaṁbhuvām | -->
 <!--   yat kolopamadharmāṇāṁ viśuddhir upalabhyate || -->
 </app>
@@ -799,7 +799,7 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:94">STTS 94. Yamada correctly edits <foreign>dharmaṁ dharme pratiṣṭhitam</foreign>, but Horiuchi misreads <foreign>dharmaṁ dharmapratiṣṭhitam</foreign>.</note>
+<note sameAs="#STTS:94">STTS 94. Yamada correctly edits <foreign>dharmaṁ dharme pratiṣṭhitam</foreign>, but Horiuchi misreads <foreign>dharmaṁ dharmapratiṣṭhitam</foreign>.</note>
 <!--   idaṁ tat sarvabuddhānāṁ rāgatattvāvabodhanam | -->
 <!--   ahaṁ mama kare dattaṁ dharmaṁ dharme pratiṣṭhitam iti ||-->
 </app>
@@ -821,7 +821,7 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:97">STTS 97</note>
+<note sameAs="#STTS:97">STTS 97</note>
 <!--   aho hi sarvabuddhānāṁ mañjughoṣa-m-ahaṁ smr̥taḥ | -->
 <!--   yat prajñāyā arūpiṇyā ghoṣatvam upalabhyate || -->
 </app>
@@ -844,7 +844,7 @@ sarva<app>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:100">STTS 100</note>
+<note sameAs="#STTS:100">STTS 100</note>
 <!--   idaṁ tat sarvabuddhānāṁ prajñāpāramitānayam | -->
 <!--   chettāraṁ sarvaśatrūṇāṁ sarvapāpaharaṁ param iti || -->
 </app>
@@ -863,7 +863,7 @@ sarva<app>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:103">STTS 103</note>
+<note sameAs="#STTS:103">STTS 103</note>
 <!--   aho vajramayaṁ cakram ahaṁ vajrāgradharmiṇām | -->
 <!--   yac cittotpādamātreṇa dharmacakraṁ pravartate || -->
 </app>
@@ -911,7 +911,7 @@ avaivartikacakraṁ tu bodhimaṇḍam iti smr̥tam iti ||</foreign></note>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:109">STTS 109.<!-- <foreign>aho svayaṁbhuvāṁ guhyaṁ saṁdhābhāṣa-m-ahaṁ smr̥taḥ |
+<note sameAs="#STTS:109">STTS 109.<!-- <foreign>aho svayaṁbhuvāṁ guhyaṁ saṁdhābhāṣa-m-ahaṁ smr̥taḥ |
 yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 </app>
 </listApp>
@@ -993,7 +993,7 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:119">STTS 119</note>
+<note sameAs="#STTS:119">STTS 119</note>
 <!--   <foreign>idaṁ tat sarvabuddhānāṁ viśvakarmakaraṁ param | -->
 <!--   ahaṁ mama kare dattaṁ viśve viśvaṁ niyojitam iti || -->
 </app>
@@ -1021,7 +1021,7 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="KSP:129">KSP 129</note>
+<note sameAs="#KSP:129">KSP 129</note>
 <note corresp="#STTS:122">STTS 122:
  <foreign>aho vīryamayo <seg type="highlight">varmaḥ</seg> sudr̥ḍho 'haṁ dr̥ḍhātmanām | 
  yad dr̥ḍhatvād akāyānāṁ vajrakāyakaraṁ param iti ||</foreign>. The codex reads <foreign>varmaḥ</foreign>, which Horiuchi and Yamada accept in their editions.</note>
@@ -1036,7 +1036,7 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:125">STTS 125</note>
+<note sameAs="#STTS:125">STTS 125</note>
 <!--   <foreign>idaṁ tat sarvabuddhānāṁ maitrīkavacam uttamam | -->
 <!--   dr̥ḍhavīryamahārakṣaṁ mahāmitram udāhr̥tam iti || -->
 </app>
@@ -1061,10 +1061,10 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:128">STTS 128</note>
+<note sameAs="#STTS:128">STTS 128</note>
 <!--   aho mahopāya-m ahaṁ buddhānāṁ karuṇātmanām | -->
 <!--   yat sattvārthatayā śāntā raudratvam api kurvate || -->
-<note sameAs="KSP:131">KSP 131</note>
+<note sameAs="#KSP:131">KSP 131</note>
 </app>
 </listApp> 
 
@@ -1112,7 +1112,7 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:134">STTS 134. The codex reads <foreign>sudr̥ḍho bandhaḥ</foreign> and this reading is adopted by Yamada. It is only in Horiuchi's edition that we find the error <foreign>sudr̥ḍhabandhaḥ</foreign>.
+<note sameAs="#STTS:134">STTS 134. The codex reads <foreign>sudr̥ḍho bandhaḥ</foreign> and this reading is adopted by Yamada. It is only in Horiuchi's edition that we find the error <foreign>sudr̥ḍhabandhaḥ</foreign>.
 <!--   aho hi sudr̥ḍhabandhaḥ samayo 'haṁ dr̥ḍhātmanām | -->
 <!--   yat sarvāśāprasidhyarthaṁ muktānām api bandhanam || -->
 </note>
@@ -1229,7 +1229,7 @@ amogha<app>
 <listApp type="parallels">
 <app>
 <lem>aho ... dr̥ḍham</lem>
-<note sameAs="STTS:144">STTS 144</note>
+<note sameAs="#STTS:144">STTS 144</note>
 <!--   <foreign>aho hi sarvabuddhānāṁ ratnavajram ahaṁ smr̥tam | -->
 <!--   yan mudrāṇāṁ hi sarvāsām abhiṣekanayaṁ dr̥ḍham iti || -->
 </app>
@@ -1259,7 +1259,7 @@ amogha<app>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:147">STTS 147</note>
+<note sameAs="#STTS:147">STTS 147</note>
 <!--   <foreign>aho hi sarvabuddhānāṁ dharmavajram ahaṁ śuciḥ | -->
 <!--   yatsvabhāvaviśuddhyā vai rāgo 'pi hi sunirmala iti || -->
 </app>
@@ -1286,7 +1286,7 @@ amogha<app>
 </app>  sukarma-kr̥d iti ||</l>
 </lg><listApp type="parallels">
 <app>
-<note sameAs="STTS:150">STTS 150</note>
+<note sameAs="#STTS:150">STTS 150</note>
 <!--   <foreign>aho hi sarvabuddhānāṁ karmavajram ahaṁ bahu | -->
 <!--   ya-d-ekaḥ sann aśeṣasya sattvadhātoḥ sukarmakr̥d iti || -->
 </app>
@@ -1357,7 +1357,7 @@ amogha<app>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:157">STTS 157</note>
+<note sameAs="#STTS:157">STTS 157</note>
 <!--   <foreign>aho hy asadr̥śāhaṁ vai ratnapūjeti kīrtitā | -->
 <!--   yat traidhātukarājyāgryaṁ śāsayanti prapūjitā iti || -->
 </app>
@@ -1388,7 +1388,7 @@ amogha<app>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="STTS:160">STTS 160</note>
+<note sameAs="#STTS:160">STTS 160</note>
 <!--   <foreign>aho hi saṁgītimayī pūjāhaṁ sarvadarśinām | -->
 <!--   yat toṣayanti pūjābhiḥ pratiśrutkopameṣv apīti || -->
 </app>
