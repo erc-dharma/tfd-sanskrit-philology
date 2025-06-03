@@ -1177,13 +1177,14 @@ amogha<app>
 </app>
 </l>
 <l n="c"><pb edRef="#cod" n="23v"/><app>
-<lem wit="#MSK" type="silemn">yad dr̥ḍhatvād</lem><rdg wit="#cod">yadr̥ḍhatvād</rdg>
-<!--  Same variant appeared earlier. --></app> akāyo 'pi</l> 
+<lem wit="#MSK" type="silemn">yad dr̥ḍhatvād</lem>
+<rdg wit="#cod">yadr̥ḍhatvād</rdg><!--  Same variant appeared earlier. -->
+</app> akāyo 'pi</l> 
 <l n="d">vajra-kāyatvam āgataḥ ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<note>STTS 141<!-- ms. checked; edho edya checked; -->
+<note sameAs="#STTS141">STTS 141<!-- ms. checked; edho edya checked; -->
 <!--   <foreign>aho hi sarvabuddhānāṁ sattvavajra-m-ahaṁ dr̥ḍhaḥ | -->
 <!--   yaddr̥dhatvād akāyo vajrakāyatvam āgata iti || -->
 </note>
@@ -1195,50 +1196,35 @@ amogha<app>
 <head type="editorial">Ratnavajrī</head>
 <l n="a">aho hi sarva-buddhānāṁ</l> 
 <l n="b"><app>
-<lem wit="#MSK" corresp="#STTS #cod #Hed">ratnavajra-m-</lem>
-<witDetail wit="#MSK" type="silemn"/>
+<lem wit="#MSK" type="silemn" corresp="#STTS">ratnavajra-m-</lem>
 <rdg wit="#cod">ratnavajrām</rdg>
-<note>
-<seg rend="check">CHECK YAMADA!!</seg>
-</note>
 </app>ahaṁ <app>
-<lem wit="#MSK" type="emn">smr̥taḥ</lem>
-<rdg wit="#cod" sameAs="#STTS">smr̥tam</rdg>
-<!--<rdg wit="#cod" corresp="#STTS #cod #Hed">smr̥tam</rdg>-->
-<note><seg rend="check">YAMADA!!</seg></note>
-</app> |
-</l>
+<lem wit="#cod" sameAs="#STTS">smr̥tam</lem>
+<rdg wit="#MSK" type="emn">smr̥taḥ</rdg>
+<note>We tentatively maintain the unanimous reading of the SVU and STTS mss.</note>
+</app> |</l>
 <l n="c">yan mudrāṇāṁ hi <app>
-<lem wit="#MSK" corresp="#STTS #cod #Hed">sarvāsām</lem>
-<witDetail wit="#MSK" type="silemn"/>
+<lem wit="#MSK" type="silemn" corresp="#STTS">sarvāsām</lem>
 <rdg wit="#cod">sarvāśām</rdg>
-<note><seg rend="check">CHECK YAMADA!!</seg></note>
 </app></l>
 <l n="d"><app>
-<lem wit="#MSK" type="emn" corresp="#STTS #cod #Hed">abhiṣekanayaṁ</lem>
+<lem wit="#MSK" type="emn" corresp="#STTS">abhiṣekanayaṁ</lem>
 <rdg wit="#cod">abhi<unclear>ṣ</unclear>ekataḥyaṁ</rdg>
-<note><seg rend="check">CHECK YAMADA!!</seg></note>
 </app>
 <app>
-<lem wit="#MSK" type="emn" corresp="#STTS #cod #Hed">dr̥ḍham</lem>
+<lem wit="#MSK" type="emn" corresp="#STTS">dr̥ḍham</lem>
 <rdg wit="#cod">dr̥ḍhaṁḥ</rdg>
-<note><ptr target="#MSK"/> reads <foreign>dr̥ḍhaḥ</foreign>. <seg rend="check">CHECK YAMADA!!</seg></note>
-</app>||
-</l>
+<note><ptr target="#MSK"/> reads the ms. as <foreign>dr̥ḍhaḥ</foreign>.</note>
+</app>||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<lem>aho ... dr̥ḍham</lem>
-<note sameAs="#STTS:144">STTS 144</note>
+<note sameAs="#STTS144">STTS 144</note><!-- ms. checked (might have -mayaṁ instead of -nayaṁ; edho edya checked; -->
 <!--   <foreign>aho hi sarvabuddhānāṁ ratnavajram ahaṁ smr̥tam | -->
 <!--   yan mudrāṇāṁ hi sarvāsām abhiṣekanayaṁ dr̥ḍham iti || -->
 </app>
 </listApp> 
-<!-- ratnavajrām: em. ratnavajram, with MSK (sil. em.). -->
-<!-- smr̥tam·: perhaps em. smr̥taḥ, with MSK. -->
-<!-- sarvāśām: em. sarvāsām, with MSK (sil. em.). -->
-<!-- abhi\unclear{ṣ}ekataḥyaṁ: em. abhiṣekanayaṁ, with MSK. -->
-<!-- dr̥ḍhaṁḥ: dr̥ḍhaḥ MSK. Em. dr̥ḍham, with MSK. -->
+
 
 <lg met="anuṣṭubh">
 <head type="editorial">Dharmavajrī</head>
@@ -1246,78 +1232,61 @@ amogha<app>
 <l n="b">dharmavajra-m-ahaṁ śuciḥ |</l>
 <l n="c">yat svabhāva-viśuddhyā vai</l>
 <l n="d"><app>
-<lem wit="#MSK" type="emn" corresp="#STTS #cod #Hed">rāgo'pi</lem>
+<lem wit="#MSK" type="emn" corresp="#STTS">rāgo 'pi</lem>
 <rdg wit="#cod">rāṇyepi</rdg>
-<note><seg rend="check">CHECK YAMADA!!</seg></note>
-</app>  hi <app>
-<lem wit="#MSK" type="emn" corresp="#STTS #cod #Hed">sunirmalaḥ</lem>
+</app> hi 
+<app>
+<lem wit="#MSK" type="emn" corresp="#STTS">sunirmalaḥ</lem>
 <rdg wit="#cod">sunirmmalaṁ</rdg>
-<note>
-<seg rend="check">CHECK YAMADA!!</seg>
-</note>
 </app> ||</l>
 </lg>
 <listApp type="parallels">
 <app>
 <note sameAs="#STTS:147">STTS 147</note>
-<!--   <foreign>aho hi sarvabuddhānāṁ dharmavajram ahaṁ śuciḥ | -->
+<!--   <foreign>aho hi sarvabuddhānāṁ dharmavajra-m ahaṁ śuciḥ | -->
 <!--   yatsvabhāvaviśuddhyā vai rāgo 'pi hi sunirmala iti || -->
 </app>
 </listApp> 
-<!-- rāṇyapi: em. rāgo 'pi, with MSK. -->
-<!-- sunirmmalaṁ: em. sunirmalaḥ, with MSK. -->
 
 <lg met="anuṣṭubh">
 <head type="editorial">Karmavajrī</head>
 <l n="a">aho hi sarva-buddhānāṁ</l>
-<l n="b">karmavajra-m-ahaṁ <app>
-<lem wit="#cod #MSK">bahuḥ</lem>
-<rdg wit="#MSK" corresp="#STTS #cod #Hed">bahu</rdg>
-<note>
-<seg rend="check">CHECK YAMADA!!</seg>
-</note>
-</app> |</l>
+<l n="b">karmavajra-m-ahaṁ <app><lem type="emn" corresp="#STTS">bahu</lem><rdg wit="#cod #MSK">bahuḥ</rdg></app> |</l>
 <l n="c">yad ekaḥ sann aśeṣasya</l>
 <l n="d"><app>
-<lem wit="#MSK" type="emn" corresp="#STTS #cod #Hed">sattva-dhātoḥ</lem>
-<witDetail wit="#MSK" type="silemn"/>
+<lem wit="#MSK" type="silemn" corresp="#STTS">sattva-dhātoḥ</lem>
 <rdg wit="#cod">satvadhāto</rdg>
-<note><seg rend="check">CHECK YAMADA!!</seg></note>
-</app>  sukarma-kr̥d iti ||</l>
-</lg><listApp type="parallels">
+</app> sukarma-kr̥d iti ||</l>
+</lg>
+<listApp type="parallels">
 <app>
-<note sameAs="#STTS:150">STTS 150</note>
+<note sameAs="#STTS:150">STTS 150</note><!-- ms. checked; edho edya checked -->
 <!--   <foreign>aho hi sarvabuddhānāṁ karmavajram ahaṁ bahu | -->
 <!--   ya-d-ekaḥ sann aśeṣasya sattvadhātoḥ sukarmakr̥d iti || -->
 </app>
 </listApp> 
-<!-- satvadhāto |: em. sattvadhātoḥ, with MSK (sil. em.). -->
-<!-- ya\unclear{d"/>-->
 </div>
 
 <div type="section" n="3"><!-- 2.2.3. -->
 <head type="editorial">The Four Goddesses of Worship in the Inner Circle</head>
 
 <p>punaḥ vairocanāhaṁkāreṇa lāsyādi<app>
-<lem wit="#MSK" type="emn">catuṣṭayam</lem>
+<lem wit="#MSK" type="emn">-catuṣṭayam</lem>
 <rdg wit="#cod">-catuṣṭhayam</rdg>
-</app> | <app>
-<lem wit="#MSK" type="emn">udānānyāsām</lem>
+</app> | 
+<app>
+<lem wit="#MSK" type="emn">udānāny āsām</lem>
 <rdg wit="#cod">uddānayāmāsām</rdg>
 <note>
-<ptr target="#MSK"/>
- reads <foreign>udānayāmāsām</foreign> and emends <foreign>udānāny āsām</foreign>; we accept the emendation. %The corruption is influenced by STTS §154 <foreign>udānayām āsa</foreign>.
-</note>
-</app>
-<!--  ; MSK reads udānayāmāsām and emends udānāny āsām. We accept the emendation. --> ||</p>
-<!-- -catuṣṭhayam·: em. -catuṣṭayam, with MSK. -->
-<!-- °uddānayāmāsām·: MSK reads udānayāmāsām and emends udānāny āsām. We accept the emendation. The corruption is influenced by STTS §154 udānayām āsa. -->
+<ptr target="#MSK"/> reads <foreign>udānayāmāsām</foreign> and emends <foreign>udānāny āsām</foreign>; we accept the emendation.
+The text has become corrupt under influence from STTS §154 <foreign>udānayām āsa</foreign>.</note>
+</app> ||</p>
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajralāsyā</head>
-<l n="a">aho na <app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">sadr̥śī</lem>
-<witDetail type="silemn" wit="#MSK"/>
+<l n="a">aho na 
+<app>
+<lem wit="#MSK" type="silemn" sameAs="#STTS">sadr̥śī</lem>
 <rdg wit="#cod">ṣadr̥sī</rdg>
 </app> me 'sti</l>
 <l n="b">pūjā hy
@@ -1332,15 +1301,14 @@ amogha<app>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS0154">STTS 154
+<note sameAs="#STTS:0154">STTS 154<!-- ms. checked; edho edya checked -->
 <!--   <foreign>aho na sadr̥śī me 'sti pūjā hy anyā svayaṁbhuvām | -->
 <!--   yat kāmaratipūjābhiḥ sarvapūjā pravartata iti || -->
 </note>
 </app>
 </listApp>
-<!-- ṣadr̥sī: em. sadr̥śī, with MSK (sil. em.). -->
-<!-- at\unclear{ya}ḥ: em. anyā, with MSK (sil. em.). -->
-<!--    -->
+
+<!-- RT, SI and AG have reached here on 2025-06-03 -->
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajramālā</head>
@@ -1851,7 +1819,8 @@ tataḥ śrīvajrasattvasthānastho yogī sarvatathāgatebhyo
 <lem>pūjayā sarvatathāgatapūjane</lem>
 <note>-pūjayā <pb edRef="#cod" n="25r"/>
  sarvatathāgatapūjane</note>
-</app> | anyayānaspr̥hā<app>
+</app> | 
+anya-yāna-spr̥hā<app>
 <lem wit="#MSK">cittā</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod #KSP #Ied">-cittā</rdg>
@@ -1860,45 +1829,42 @@ tataḥ śrīvajrasattvasthānastho yogī sarvatathāgatebhyo
 <lem wit="#MSK" type="emn" sameAs="#KSP">tkleśopa</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">klesopa</rdg>
-</app> kleśādibhayebhya<app>
-<lem wit="#cod #MSK" sameAs="#KSP">ścārakṣaṇe</lem>
+</app>kleśādibhayebhyaś
+<app>
+<lem wit="#cod #MSK" sameAs="#KSP">cārakṣaṇe</lem>
 <rdg wit="#MSK">ca rakṣaṇe</rdg>
 <witDetail wit="#MSK" type="silemn"/>
-<note>The <ptr target="#MSK"/>
- emendation is unnecessary.</note>
-</app> |<app>
+<note>The <ptr target="#MSK"/> emendation is unnecessary.</note>
+</app> |
+<app>
 <lem wit="#cod #MSK #KSP #Ied">sarvarakṣāparipālane</lem>
-<note>
-<ptr target="#MSK"/>
- needlessly emends <foreign>sarvarakṣāt paripālane</foreign>
-</note>
-</app> | kāyavākcittaikīkaraṇabandha<app>
-<lem type="emn" sameAs="$STTS 132, KSP">tathāgata</lem>
+<note><ptr target="#MSK"/> needlessly emends <foreign>sarvarakṣāt paripālane</foreign>.</note>
+</app> | 
+kāya-vāk-cittaikīkaraṇa-bandha<app>
+<lem type="emn">-tathāgata-</lem>
 <rdg wit="#cod #MSK">-tathatā-</rdg>
-<!--   KSP seems to read -tathāgata-}. -->
+<!--   KSP seems to read -tathāgata-. -->
+<!--  STTS 132: atha bhagavān punar api sarvatathāgatamuṣṭimahābodhisattvasamayasaṁbhavakarmādhiṣṭhānavajraṁ nāma samādhiṁ samāpadyedaṁ sarvatathāgatakāyavākcittavajrabandhasamayaṁ nāma sarvatathāgatahṛdayaṁ svahṛdayān niścacāra ||. -->
 </app>
 <app>
-<lem wit="#MSK">muṣṭyā<!-- muṣṭyā --></lem>
-<witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">-muṣṭhyā <unclear>|</unclear>
-</rdg>
+<lem wit="#MSK" type="silemn" rend="hyphenleft">muṣṭyā</lem>
+<rdg wit="#cod">-muṣṭhyā <unclear>|</unclear></rdg>
 </app>
 <app>
-<lem wit="#cod">sarvabuddhatvaniṣpādane</lem>
-<note>
-<ptr target="#MSK"/>
- misreads <foreign>-buddhaddha-</foreign> and emends <foreign>sarvabuddhaniṣpādane</foreign>;
-  n.e.\ KSP (\Ied)</note>
-</app>
- |<app>
-<lem sameAs="#KSP">dānaśīlakṣāntivīryaprajñādhyānapraṇidhyupāyaniṣpādane</lem>
+<lem wit="#cod">sarvabuddhatva-niṣpādane</lem>
+<note><ptr target="#MSK"/> misreads <foreign>-buddhaddha-</foreign> and emends <foreign>sarvabuddhaniṣpādane</foreign>; the reading in
+ KSP is different.</note>
+</app> |
+<app>
+<lem wit="#cod">dāna-śīla-kṣānti-vīrya-prajñā-dhyāna-praṇidhy-upāya-niṣpādane</lem>
 <note type="altLem">dāna... niṣpādane</note>
-<note>why only 8 pāramitās, and not 10? KSP too mentions only the same 8.</note>
-</app> | bodhicittāṅkuśena mahāmokṣapure sarvasattvākarṣaṇe | daśapāramitācaryayā praveśane | anyayānapr̥hācittasphoṭane | prakr̥tiprabhāsvarānutpādāveśe | saddharmanagarapālane ca niyojayediti ||
-</p>
+<note>Why only 8 pāramitās, and not 10? KSP (ed. Inui §159) too mentions only the same 8: <foreign>sarvatathāgata-dāna-pāramitā-niṣpādane, evaṁ śīla-kṣānti-vīrya-dhyāna-prajñā-praṇidhy-upāya<supplied reason="lost">-niṣpādane</supplied></foreign>.</note>
+</app> | bodhicittāṅkuśena mahāmokṣapure sarvasattvākarṣaṇe | daśapāramitācaryayā praveśane | anyayānapr̥hācittasphoṭane | prakr̥tiprabhāsvarānutpādāveśe | saddharmanagarapālane ca niyojayediti ||</p>
+</div>
 
-
-<ab>// karmarājāgrī nāma samādhiḥ ||</ab>
+<div>
+<ab type="colophon">karmarājāgrī nāma samādhiḥ ||</ab>
+</div>
 <!-- mālābhikākādikam: mālābhiṣekādikam, with MSK. -->
 <!-- vajrāṅkuśādir: em. vajrāṅkuśādibhir, with MSK (with wrong reading -śādīr in the footnote). -->
 <!-- ākr̥śya: em. ākr̥ṣya, with MSK (sil. em.). -->
@@ -1912,12 +1878,7 @@ tataḥ śrīvajrasattvasthānastho yogī sarvatathāgatebhyo
 <!-- klesopa-: em. kleśopa-, with MSK (sil. em.). -->
 <!-- cārakṣaṇe: MSK silently emends ca rakṣaṇe, but the emendation is unnecessary. -->
 <!-- sarvarakṣāparipālane:  MSK emends sarvarakṣāt paripālane, but the emendation is unwanted. -->
-<!-- -tathatā-: KSP seems to read -tathāgata-. -->
-<!-- -muṣṭhyā \unclear{|}: em. -muṣṭyā (without |), with MSK (sil. em.). -->
-<!-- sarvavuddhatvaniṣpādane: MSK misreads -buddhaddha- and emends sarvabuddhaniṣpādane. -->
-<!-- why only 8 pāramitās, and not 10? -->
 
-</div>
 
 <div type="subchapter" n="4">
 <head type="editorial">Supplement
