@@ -1279,7 +1279,7 @@ amogha<app>
 <rdg wit="#cod">uddānayāmāsām</rdg>
 <note>
 <ptr target="#MSK"/> reads <foreign>udānayāmāsām</foreign> and emends <foreign>udānāny āsām</foreign>; we accept the emendation.
-The text has become corrupt under influence from STTS §154 <foreign>udānayām āsa</foreign>.</note>
+The text has becomeyadālokavatī corrupt under influence from STTS §154 <foreign>udānayām āsa</foreign>.</note>
 </app> ||</p>
 
 <lg met="anuṣṭubh">
@@ -1302,7 +1302,7 @@ The text has become corrupt under influence from STTS §154 <foreign>udānayām 
 <listApp type="parallels">
 <app>
 <note sameAs="#STTS:0154">STTS 154<!-- ms. checked; edho edya checked -->
-<!--   <foreign>aho na sadr̥śī me 'sti pūjā hy anyā svayaṁbhuvām | -->
+<!--   aho na sadr̥śī me 'sti pūjā hy anyā svayaṁbhuvām | -->
 <!--   yat kāmaratipūjābhiḥ sarvapūjā pravartata iti || -->
 </note>
 </app>
@@ -1315,7 +1315,7 @@ The text has become corrupt under influence from STTS §154 <foreign>udānayām 
 <l n="a">aho hy asadr̥śāhaṁ vai</l>
 <l n="b">ratna-pūjeti kīrtitā |</l>
 <l n="c">yat traidhātuka<app>
-<lem wit="#MSK" type="emn" rend="hyphenleft" sameAs="#STTS">rājyāgryaṁ</lem>
+<lem wit="#MSK" type="emn" sameAs="#STTS">-rājyāgryaṁ</lem>
 <rdg wit="#cod">-rājāgryaṁ</rdg>
 </app></l>
 <l n="d">śāsayanti <app>
@@ -1325,28 +1325,21 @@ The text has become corrupt under influence from STTS §154 <foreign>udānayām 
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:157">STTS 157</note>
-<!--   <foreign>aho hy asadr̥śāhaṁ vai ratnapūjeti kīrtitā | -->
+<note sameAs="#STTS:157">STTS 157</note><!-- ms. checked; edho edya checked -->
+<!--   aho hy asadr̥śāhaṁ vai ratnapūjeti kīrtitā | -->
 <!--   yat traidhātukarājyāgryaṁ śāsayanti prapūjitā iti || -->
 </app>
 </listApp>
-<!-- prapūjitā: em. prapūjitāḥ, with MSK. -->
-<!-- -rājāgryaṁ: em. -rājyāgryaṁ, with MSK. -->
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajragītā</head>
 <l n="a">aho hi saṁgītimayī</l>
 <l n="b">pūjāhaṁ <app>
 <lem wit="#MSK" type="emn" sameAs="#STTS">sarva-darśinām</lem>
-<rdg wit="#cod">sarvadarsinam</rdg>
-<note>
-<ptr target="#MSK"/>
- reads <foreign>sarvadarśinam</foreign>
-</note>
+<rdg wit="#cod">sarvadarśinam</rdg>
 </app> |</l>
 <l n="c">yat <app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">toṣayanti</lem>
-<witDetail type="silemn" wit="#MSK"/>
+<lem wit="#MSK" type="silemn" sameAs="#STTS">toṣayanti</lem>
 <rdg wit="#cod">tośayanti</rdg>
 </app> pūjābhiḥ</l> 
 <l n="d"><app>
@@ -1356,25 +1349,20 @@ The text has become corrupt under influence from STTS §154 <foreign>udānayām 
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:160">STTS 160</note>
-<!--   <foreign>aho hi saṁgītimayī pūjāhaṁ sarvadarśinām | -->
+<note sameAs="#STTS:160">STTS 160</note><!-- ms. ?; edho ?; edya ? -->
+<!--   aho hi saṁgītimayī pūjāhaṁ sarvadarśinām | -->
 <!--   yat toṣayanti pūjābhiḥ pratiśrutkopameṣv apīti || -->
 </app>
 </listApp>
-<!-- sarvadarsinam·:  sarvadarśinam MSK; em. sarvadarśinām, with MSK. -->
-<!-- tośayanti: em. toṣayanti, with MSK (sil. em.). -->
-<!-- pratiśrutakopameṣv: em. pratiśrutkopameṣv, with MSK. -->
+
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajranr̥tyā</head>
-<l n="a">aho hy udār-apūjāhaṁ</l> 
-<l n="b">sarva-pūjārthakāriṇām |</l>
+<l n="a">aho hy udāra-pūjāhaṁ</l> 
+<l n="b">sarva-pūjārtha-kāriṇām |</l>
 <l n="c">yad vajra<app>
-<lem wit="#cod #MSK" rend="hyphenaround">nr̥tya</lem>
-<rdg wit="#MSK" corresp="#STTS #Hed">-nr̥tta-</rdg>
-<note>
-<seg rend="check">CHECK MS AND YAMADA!!</seg>
-</note>
+<lem wit="#cod #MSK">-nr̥tya-</lem>
+<note>STTS reads <foreign>-nr̥tta-</foreign>.</note>
 </app>vidhinā</l>
 <l n="d"><app>
 <lem wit="#MSK" type="emn" sameAs="#STTS">buddha-pūjā</lem>
@@ -1382,22 +1370,15 @@ The text has become corrupt under influence from STTS §154 <foreign>udānayām 
 </app>
 <app>
 <lem wit="#MSK" type="emn" sameAs="#STTS">prakalpyata iti</lem>
-<rdg wit="#cod">
-<seg rend="check">prakalpyateti</seg>
-</rdg>
-<note>
-<ptr target="#MSK"/>
- as usual separates the <foreign>iti</foreign> and edits <foreign>prakalpyate || iti</foreign>
-</note>
-</app> ||
-</l>
+<rdg wit="#cod">prakalpyateti</rdg>
+<!--<note><ptr target="#MSK"/> as usual separates the <foreign>iti</foreign> and edits <foreign>prakalpyate || iti</foreign></note>-->
+</app> ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<lem>aho ... prakalpyata iti</lem>
-<note>STTS 163
-<!--   <foreign>aho hy udārapūjāhaṁ sarvapūjārthakāriṇām | -->
-<!--   yad vajra<seg rend="check">nr̥tta}vidhinā buddhapūjā prakalpyata iti ||</seg> -->
+<note>STTS 163<!-- ms. ?; edho checked; edya checked -->
+<foreign>aho hy udārapūjāhaṁ* sarvapūjārthakāriṇām |
+yad vajra<seg rend="highlight">nr̥tta</seg>vidhinā buddhapūjā prakalpyata iti ||</foreign>. The codex actually reads <foreign>-pūjānāṁ</foreign>.
 </note>
 </app>
 </listApp>
@@ -1474,11 +1455,15 @@ The text has become corrupt under influence from STTS §154 <foreign>udānayām 
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajradīpā</head>
-<l n="ab">aho hya<supplied reason="lost">haṁ</supplied> mahodārā pūjā dīpamayī śubhā |</l>
-<l n="cd">yadālokavatī kṣipraṁ sarvabuddha<app>
+<l n="a">aho hy a<supplied reason="lost">haṁ</supplied> mahodārā</l> 
+<l n="b">pūjā dīpamayī śubhā |</l>
+<l n="c">yadālokavatī kṣipraṁ</l>
+<l n="d">sarvabuddha<app>
 <lem wit="#MSK" type="emn" sameAs="#STTS">dr̥śo<!-- dr̥śo --></lem><witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-dr̥so</rdg>
-</app>  labhet<listApp type="parallels">
+</app> labhet ||</l>
+</lg>
+<listApp type="parallels">
 <app>
 <lem>aho ... labhet</lem>
 <note>STTS 173.
@@ -1488,9 +1473,7 @@ The text has become corrupt under influence from STTS §154 <foreign>udānayām 
 <!--   <seg rend="check">CHECK MS AND YAMADA!!</seg> -->
 </note>
 </app>
-</listApp> ||
-</l>
-</lg>
+</listApp> 
 <!-- -dr̥so: em. -dr̥śo, with MSK (sil. em.). -->
 <!-- aha\supplied{ṁ"/>-->
 
