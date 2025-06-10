@@ -1443,7 +1443,7 @@ yad vajra<seg type="highlight">nr̥tta</seg>vidhinā buddhapūjā prakalpyata it
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajradīpā</head>
-<l n="a">aho hy <app><lem wit="#MSK" sameAs="#STTS">ahaṁ</lem><note>The <foreign>anusvāra</foreign> is lost due to damage.</note></app> mahodārā</l> 
+<l n="a">aho hy <app><lem wit="#MSK" sameAs="#STTS">ahaṁ</lem><note>In the codex, the <foreign>anusvāra</foreign> is lost due to damage.</note></app> mahodārā</l> 
 <l n="b">pūjā dīpamayī śubhā |</l>
 <l n="c">yad ālokavatī kṣipraṁ</l>
 <l n="d">sarvabuddha-dr̥śo labhet ||</l>
@@ -1474,7 +1474,7 @@ yad vajra<seg type="highlight">nr̥tta</seg>vidhinā buddhapūjā prakalpyata it
 </app>
 <app>
 <lem wit="#MSK" sameAs="#STTS">dadāti</lem>
-<note>The second <foreign>d</foreign> is lost due to damage.</note>
+<note>In the codex, the second <foreign>d</foreign> is lost due to damage.</note>
 </app> hīti ||</l>
 </lg>
 <listApp type="parallels">
@@ -1486,6 +1486,8 @@ yad vajra<seg type="highlight">nr̥tta</seg>vidhinā buddhapūjā prakalpyata it
 </app>
 </listApp>
 </div>
+
+<!-- RT, SI and AG have reached here on 2025-06-10 -->
 
 <div type="section" n="5">
 <head type="editorial">The Four Gate-keepers</head>
@@ -1601,7 +1603,7 @@ yad vajra<seg type="highlight">nr̥tta</seg>vidhinā buddhapūjā prakalpyata it
 <l n="ab">aho hi sarvabuddhānāṁ vajrāveśamahaṁ <app>
 <lem wit="#MSK" type="emn">dr̥ḍhaḥ<!-- dr̥ḍhaḥ --></lem>
 <rdg wit="#cod">dr̥ḍhaṁ</rdg>
-</app>  |
+i
 </l>
 <l n="cd">ya<app>
 <lem wit="#MSK" type="emn">tsarvapatayo<!-- tsarvapatayo --></lem>
