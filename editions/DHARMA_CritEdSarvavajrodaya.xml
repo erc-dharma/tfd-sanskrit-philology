@@ -1418,95 +1418,73 @@ yad vajra<seg type="highlight">nr̥tta</seg>vidhinā buddhapūjā prakalpyata it
 <head type="editorial">Vajrapuṣpā</head>
 <l n="a">aho hi puṣpapūjāhaṁ</l>
 <l n="b"><app>
-<lem wit="#MSK">sarvālaṁkāra-</lem>
-<witDetail wit="#MSK" type="silemn"/>
+<lem wit="#MSK" type="silemn">sarvālaṁkāra-</lem>
 <rdg wit="#cod">sarvālāṅkāra-</rdg>
 </app>kārikā |</l>
 <l n="c">yat
 <app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">tathāgata-</lem><witDetail wit="#MSK" type="silemn"/>
+<lem wit="#MSK" type="emn" sameAs="#STTS">tathāgata-</lem>
 <rdg wit="#cod">sarvatathāgata-</rdg>
 </app>ratnatvaṁ</l>
 <l n="d"><app>
-<lem wit="#MSK">pūjya</lem>
-<witDetail wit="#MSK" type="silemn"/>
+<lem wit="#MSK" type="silemn">pūjya</lem>
 <rdg wit="#cod">pūjā</rdg>
-<!--   emend <foreign>pūjya}, with \MSK\ and STTS? Or <foreign>pūjyaṁ}? -->
-</app> kṣipramavāpyate ||</l>
+<!--   emend <foreign>pūjya</foreign>, with \MSK\ and STTS? Or <foreign>pūjyaṁ</foreign>? -->
+</app> kṣipram avāpyate ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<lem>aho ... avāpyate</lem>
-<note>STTS 170
-<!--   <foreign>aho hi puṣpapūjāhaṁ sarvālaṁkārakārikā | -->
+<note>STTS 170<!-- AG2RT ms. ?; edho ?; edya ? -->
+<!--   aho hi puṣpapūjāhaṁ sarvālaṁkārakārikā | -->
 <!--   yat tathāgataratnatvaṁ pūjya kṣipram avāpyata iti || -->
 </note>
 </app>
 </listApp>
-<!-- sarvālāṅkāra-: em. sarvālaṁkāra-, with MSK (sil. em.). -->
-<!--  yat sarvatathāgata-: em.  yat tathāgata-, with MSK. -->
-<!-- pūjā: em. pūjya, with MSK and STSS? Or pūjyaṁ? -->
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajradīpā</head>
-<l n="a">aho hy a<supplied reason="lost">haṁ</supplied> mahodārā</l> 
+<l n="a">aho hy <app><lem wit="#MSK" sameAs="#STTS">ahaṁ</lem><note>The <foreign>anusvāra</foreign> is lost due to damage.</note></app> mahodārā</l> 
 <l n="b">pūjā dīpamayī śubhā |</l>
-<l n="c">yadālokavatī kṣipraṁ</l>
-<l n="d">sarvabuddha<app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">dr̥śo<!-- dr̥śo --></lem><witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">-dr̥so</rdg>
-</app> labhet ||</l>
+<l n="c">yad ālokavatī kṣipraṁ</l>
+<l n="d">sarvabuddha-dr̥śo labhet ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<lem>aho ... labhet</lem>
-<note>STTS 173.
-<!--   <foreign>aho hy ahaṁ mahodārā pūjā dīpamayī śubhā | -->
-<!--   yad ālokavatī kṣipraṁ sarvabuddhadr̥śo labhed iti ||}; -->
-  It seems that<foreign>ālokavatī</foreign> should be understood as or emended to <foreign>ālokavatīḥ</foreign>.
-<!--   <seg rend="check">CHECK MS AND YAMADA!!</seg> -->
+<note>STTS 173<!-- AG2RT ms. ?; edho ?; edya ? -->
+<!--   aho hy ahaṁ mahodārā pūjā dīpamayī śubhā | -->
+<!--   yad ālokavatī kṣipraṁ sarvabuddhadr̥śo labhed iti || -->
+<!-- Perhaps <foreign>ālokavatī</foreign> should be understood as or emended to <foreign>ālokavatīḥ</foreign> or <foreign>ālokavatīṁ</foreign>. But it can also be taken with pādas ab. -->
 </note>
 </app>
 </listApp> 
-<!-- -dr̥so: em. -dr̥śo, with MSK (sil. em.). -->
-<!-- aha\supplied{ṁ"/>-->
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajragandhā</head>
 <l n="a">aho gandhamayī pūjā</l>
-<l n="b"> divyāhaṁ hi manoramā |</l>
+<l n="b">divyāhaṁ hi manoramā |</l>
 <l n="c">yat tathāgata<app>
-<lem wit="#MSK">-gandhaṁ</lem>
+<lem wit="#MSK">-<seg rend="check">gandhaṁ</seg></lem>
 <rdg wit="#cod">-gandho</rdg>
-<!--   emend <foreign>-gandhaṁ}, with MSK? -->
+<note>The reading <foreign>gandho</foreign> is actually shared with the STTS codex, accepted by Yamada, but rejected by Horiuchi.</note>
 </app> vai</l>
 <l n="d"><app>
-<lem type="emn">sarvakāye</lem>
+<lem wit="#MSK" type="emn" sameAs="#STTS">sarvakāye</lem>
 <rdg wit="#cod">sarvakāma</rdg>
-<note>
-<ptr target="#MSK"/>
- reads <foreign>sarvakāme</foreign> and emend <foreign>sarvakāye</foreign>
-</note>
+<note><ptr target="#MSK"/> reads <foreign>sarvakāme</foreign> and emends this to <foreign>sarvakāye</foreign>.</note>
 </app>
 <app>
-<lem wit="#MSK">da<supplied reason="lost">dā</supplied>ti<!-- da<supplied reason="lost">dā</supplied>ti --></lem>
-<witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">da.āti</rdg>
-</app>  hīti ||
-</l>
+<lem wit="#MSK" sameAs="#STTS">dadāti</lem>
+<note>The second <foreign>d</foreign> is lost due to damage.</note>
+</app> hīti ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<lem>aho ... dadāti hīti</lem>
-<note>STTS 176
-<!--   <foreign>aho gandhamayī pūjā divyāhaṁ hi manoramā | -->
+<note>STTS 176<!-- AG2RT ms. ?; edho ?; edya ? -->
+<!--   aho gandhamayī pūjā divyāhaṁ hi manoramā | -->
 <!--   yat tathāgatagandhaṁ vai sarvakāye dadāti hīti || -->
 </note>
 </app>
 </listApp>
-<!-- -gandho: em. -gandhaṁ, with MSK? -->
-<!-- sarvakāma: sarvakāme MSK; em. sarvakāye, with MSK? -->
-<!-- dada\supplied{d}āti: em. dadāti, with MSK (sil. em.). -->
 </div>
 
 <div type="section" n="5">
@@ -13304,7 +13282,9 @@ Oh, I am the pure Dharma-vajra of All Buddhas, because even passion is fully imm
 </p>
 
 <p rend="stanza">
-<label type="editorial">Vajradīpā</label>Oh, I am the very lofty worship, the beautiful one full of lamps! Because he will quickly obtain the light-filled eyes of All Buddhas.
+<label type="editorial">Vajradīpā</label>
+Oh, I am the very lofty worship, the beautiful one full of lamps! Because he will quickly obtain the light-filled eyes of All Buddhas.<note>
+This translation implies emendation to <foreign>ālokavatīḥ</foreign>.</note>
 </p>
 
 <p rend="stanza">
