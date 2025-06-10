@@ -1273,12 +1273,13 @@ amogha<app>
 <p>punaḥ vairocanāhaṁkāreṇa lāsyādi<app>
 <lem wit="#MSK" type="emn">-catuṣṭayam</lem>
 <rdg wit="#cod">-catuṣṭhayam</rdg>
-</app> | 
+</app>. 
 <app>
-<lem wit="#MSK" type="emn">udānāny āsām</lem>
+<lem type="emn">udānam āsām</lem>
+<rdg wit="#MSK" type="emn">udānāny āsām</rdg>
 <rdg wit="#cod">uddānayāmāsām</rdg>
-<note><ptr target="#MSK"/> reads <foreign>udānayām āsām</foreign> and emends this to <foreign>udānāny āsām</foreign>; we accept the emendation. The text has become corrupt under influence of STTS §154 <foreign>udānayām āsa</foreign>.</note>
-</app> ||</p>
+<note>The text has become corrupt under influence of STTS §153 <foreign>udānam udānayām āsa</foreign>. <ptr target="#MSK"/> misrepresents the codex as reading <foreign>udānayām āsām</foreign> and emends this to <foreign>udānāny āsām</foreign>; we propose an alternative emendation  aligned with the openings of the next two sections.</note>
+</app>.</p>
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajralāsyā</head>
@@ -1347,7 +1348,7 @@ amogha<app>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:160">STTS 160</note><!-- ms. ?; edho ?; edya ? -->
+<note sameAs="#STTS:160">STTS 160</note><!-- AG2RT ms. ?; edho ?; edya ? -->
 <!--   aho hi saṁgītimayī pūjāhaṁ sarvadarśinām | -->
 <!--   yat toṣayanti pūjābhiḥ pratiśrutkopameṣv apīti || -->
 </app>
@@ -1385,35 +1386,33 @@ yad vajra<seg type="highlight">nr̥tta</seg>vidhinā buddhapūjā prakalpyata it
 <div type="section" n="4">
 <head type="editorial">The Four Goddesses of Worship at the Corners</head>
 
-<p>punar akṣobhyādy-ahaṁkāreṇa vajradhūpādi-catuṣṭayam | <app>
+<p>punar akṣobhyādy-ahaṁkāreṇa vajradhūpādi-catuṣṭayam.
+<app>
 <lem type="emn">udānam āsām</lem>
 <rdg wit="#MSK" type="emn">udānāny āsām</rdg>
 <rdg wit="#cod">uddānayāmāsām</rdg>
 <note>As at the beginning of the previous section, <ptr target="#MSK"/> reads <foreign>udānayām āsām</foreign> and emends it to <foreign>udānāny āsām</foreign>.</note>
-</app> ||</p>
+</app>.</p>
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajradhūpā</head>
-<l n="a">aho hyahaṁ mahāpūjā</l> 
+<l n="a">aho hy ahaṁ mahāpūjā</l> 
 <l n="b">prahlādanavatī śubhā |</l>
-<l n="c"><pb edRef="#cod" n="24r"/>
- yat <app>
-<lem wit="#MSK">sattvāveśayogād</lem>
-<witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">-satvāveśayogod</rdg>
+<l n="c"><pb edRef="#cod" n="24r"/> yat <app>
+<lem wit="#MSK" type="silemn" sameAs="#STTS">sattvāveśa-yogād</lem>
+<rdg wit="#cod">satvāveśayogod</rdg>
 </app> dhi</l>
-<l n="d">kṣipraṁ bodhiravāpyate ||
-</l>
+<l n="d">kṣipraṁ bodhir avāpyate ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<note>STTS 167
-<!--   <foreign>aho hy ahaṁ mahāpūjā prahlādanavatī śubhā | -->
-<!--   yatsattvāveśayogād dhi kṣipraṁ bodhir avāpyata iti || -->
+<note>STTS 167<!-- AG2RT ms. ?; edho ?; edya ? -->
+<!--  aho hy ahaṁ mahāpūjā prahlādanavatī śubhā | -->
+<!--  yat sattvāveśayogād dhi kṣipraṁ bodhir avāpyata iti || -->
 </note>
 </app>
 </listApp>
-<!-- satvāveśayogod: em. sattvāveśayogād, with MSK (sil. em.). -->
+
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrapuṣpā</head>
