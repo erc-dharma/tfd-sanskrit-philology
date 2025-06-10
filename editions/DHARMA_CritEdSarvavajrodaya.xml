@@ -172,7 +172,7 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
       <div type="chapter" n="2">
         <head type="editorial">Trisamādhi (Pūrvasevā)</head>
 
-        <div type="subchapter" n="1">
+        <div type="subchapter" n="2.1">
           <head type="editorial">Ādiyoga</head>
 
           <p part="F">
@@ -189,13 +189,13 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
           </p>
         </div>
 
-        <div type="subchapter" n="2">
+        <div type="subchapter" n="2.2">
           <head type="editorial">Maṇḍalarājāgrī</head>
 
-          <div type="section" n="1">
+          <div type="section" n="2.2.1">
             <head type="editorial">Emanation of the Sixteen Bodhisattvas</head>
 
-            <div type="subsection" n="1">
+            <div type="subsection" n="2.2.1.1">
               <head type="editorial">Vajrasattva</head>
               <p>tadanu 
                 <app>
@@ -401,7 +401,7 @@ sarvatathāgata-kula-cakravartitve <app>
 </listApp>
 </div>
 
-<div type="subsection" n="2">
+<div type="subsection" n="2.2.1.2">
 <head type="editorial">The Other Fifteen Bodhisattvas</head>
 
 <p>
@@ -1277,9 +1277,7 @@ amogha<app>
 <app>
 <lem wit="#MSK" type="emn">udānāny āsām</lem>
 <rdg wit="#cod">uddānayāmāsām</rdg>
-<note>
-<ptr target="#MSK"/> reads <foreign>udānayāmāsām</foreign> and emends <foreign>udānāny āsām</foreign>; we accept the emendation.
-The text has becomeyadālokavatī corrupt under influence from STTS §154 <foreign>udānayām āsa</foreign>.</note>
+<note><ptr target="#MSK"/> reads <foreign>udānayām āsām</foreign> and emends this to <foreign>udānāny āsām</foreign>; we accept the emendation. The text has become corrupt under influence of STTS §154 <foreign>udānayām āsa</foreign>.</note>
 </app> ||</p>
 
 <lg met="anuṣṭubh">
@@ -1382,20 +1380,17 @@ yad vajra<seg type="highlight">nr̥tta</seg>vidhinā buddhapūjā prakalpyata it
 </note>
 </app>
 </listApp>
-<!-- prakalpyateti: em. prakalpyata iti; MSK as usual separates the iti and edits prakalpyate || iti. -->
 </div>
 
 <div type="section" n="4">
 <head type="editorial">The Four Goddesses of Worship at the Corners</head>
 
-<p>punarakṣobhyādyahaṁkāreṇa vajradhūpādicatuṣṭayam | <app>
-<lem type="emn">udānamāsām</lem>
-<rdg wit="#MSK">udānānyāsām</rdg>
-<witDetail wit="#MSK" type="emn"/>
+<p>punar akṣobhyādy-ahaṁkāreṇa vajradhūpādi-catuṣṭayam | <app>
+<lem type="emn">udānam āsām</lem>
+<rdg wit="#MSK" type="emn">udānāny āsām</rdg>
 <rdg wit="#cod">uddānayāmāsām</rdg>
-</app>
-<!-- \MSK\ again reads <foreign>udānayāmāsām"/>and emends <foreign>udānāny āsām}. We accept the emendation.  --> ||</p>
-<!-- °uddānayāmāsām·: MSK again reads udānayāmāsām and emends udānāny āsām. We accept the emendation.  -->
+<note>As at the beginning of the previous section, <ptr target="#MSK"/> reads <foreign>udānayām āsām</foreign> and emends it to <foreign>udānāny āsām</foreign>.</note>
+</app> ||</p>
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajradhūpā</head>
