@@ -37,7 +37,7 @@
     <!-- based to apply ids -->
     <!--<fileset id="critical-dharma-normed" dir="./output/dharma-normed" includes="**/*.xml"/>-->
     <!-- based to run the dispaly -->
-   <!-- <fileset id="critical-display" dir="./output/ids" includes="**/*.xml"/> --> 
+   <!-- <fileset id="critical-display" dir="./output/ids" includes="**/*.xml"/> -->
 
     <!-- file set for dharma -->
     <fileset id="dharma-ed" dir="./editions" includes="DHARMA_CritEd*.xml DHARMA_DiplEd*.xml" />
@@ -77,3 +77,4 @@
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
     </xslt>-->
 </project>
+
