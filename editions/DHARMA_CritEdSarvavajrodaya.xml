@@ -8,7 +8,22 @@
       <titleStmt>
         	<title type="editorial">Sarvavajrodayā Maṇḍalopāyikā, by Ānandagarbha: Digital Critical Edition based on the Codex Unicus</title>
       	<title type="original" xml:lang="san-Latn">Sarvavajrodayā Maṇḍalopāyikā</title>
-	<author>Ānadagarbha</author>
+	<author>Ānandagarbha</author>
+      	<respStmt>
+      		<resp>author of digital edition</resp>
+      		<persName ref="part:argr">
+			<forename>Arlo</forename>
+      			<surname>Griffiths</surname>
+      		</persName>
+      		<persName ref="part:ryta">
+      			<surname>Tanemura</surname>
+      			<forename>Ryugen</forename>
+      		</persName>
+      		<persName ref="part:shij">
+      			<surname>Ijuin</surname>
+      			<forename>Shiori</forename>
+      		</persName>
+      	</respStmt> 
       </titleStmt>
       <publicationStmt>
         <authority>DHARMA</authority>
