@@ -330,6 +330,7 @@ Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasatt
 <listApp type="parallels">
 <app>
   <note sameAs="#STTS">STTS 40.</note>
+  <note sameAs="#KSP">KSP 117.</note>
 </app>
 </listApp>
 
@@ -963,7 +964,7 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 <!-- <note><ptr target="#MSK"/> emends <foreign>amogho</foreign>.</note> -->
 </app> buddhānāṁ</l> 
 <l n="b"><app>
-<lem type="emn"  sameAs="#STTS">sarvakarma-m-ahaṁ bahu</lem>
+<lem type="emn" sameAs="#STTS">sarvakarma-m-ahaṁ bahu</lem>
 <rdg wit="#cod">sarvakarmāvahaṁmahaṁ</rdg><!-- sarvakarmāva§<space type="binding-hole"/>haṁm ahaṁ  -->
 <rdg wit="#MSK">sarvakarmā ahaṁ bahuḥ</rdg>
 <!--   Possibly sarvakarmāvahaṁm aham (Aiśa sandhi, analogous to sandhi -nn a-) in meaning of sarvakarmāvaham aham? -->
