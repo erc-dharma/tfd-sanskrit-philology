@@ -380,18 +380,23 @@ sarvatathāgata-kula-cakravartitve <app>
 <rdg wit="#cod #MSK">-vajrāṅkitaṁ</rdg>
 </app><app>
 <lem type="emn" rend="hyphenleft">ghaṇṭā-sahitam aśeṣānavaśeṣa-</lem>
-<rdg wit="#cod">-ghaṇṭasahita aśeṣānavaśeṣā-</rdg>
-<rdg wit="#MSK">-ghaṇṭāsahitam aśeṣānavaśeṣa-</rdg>
-</app> sattvadhātūnāṁ niṣpādanāya samantabhadrāya dadyāt.</p>
+<rdg wit="#cod">-ghaṇṭa-sahita aśeṣānavaśeṣā-</rdg>
+<rdg wit="#MSK">-ghaṇṭā-sahitam aśeṣānavaśeṣa-</rdg>
+</app>sattvadhātūnāṁ niṣpādanāya samantabhadrāya dadyāt.</p>
+<listApp type="parallels">
+<app>
+<note>KSP 117:<!-- Inui 1994: 109 -->
+<foreign>tato hr̥dayād avatīrya ... pañcabuddhaṁ makuṭapaṭṭābhiṣekena cābhiṣicyānuttaraśīlādikayā ... -bhisaṁbodhiṁ niṣpādyaikam ādyavajraṁ vajrāṇkitaṁ ghaṇṭāsahitam ...</foreign></note>
+</app>
+</listApp>
 
 <p>tato <app><lem wit="#cod">nāmābhiṣekādi</lem>
 <rdg wit="#MSK">nāmābhiṣekādiṁ</rdg>
 </app> dadyāt.</p>
 <listApp type="parallels">
 <app>
-<!-- <lem>tato ... dadyāt</lem> -->
-<note>KSP 117:<!-- Inui 1994: 109 -->
-<foreign>tato hr̥dayād avatīrya ... pañcabuddhaṁ makuṭapaṭṭābhiṣekena cābhiṣicyānuttaraśīlādikayā ... -bhisaṁbodhiṁ niṣpādyaikam ādyavajraṁ vajrāṇkitaṁ ghaṇṭāsahitam ...</foreign></note>
+<note corresp="#KSP">KSP 117:<!-- Inui 1994: 109 -->
+<foreign>nāmābhiṣekeṇābhisiktaḥ</foreign>.</note>
 </app>
 </listApp>
 
@@ -399,7 +404,13 @@ sarvatathāgata-kula-cakravartitve <app>
 <lem wit="#MSK">vajrapāṇyahaṁkāreṇa</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">vajrapāṇyāhaṅkāreṇa</rdg>
-</app>  udānam udānayet.</p>
+</app> udānam udānayet.</p>
+<listApp type="parallels">
+<app>
+<note sameAs="#KSP">KSP 117.
+</note>
+</app>
+</listApp>
 
 <lg met="anuṣṭubh">
 <l n="a">idaṁ tat sarva-buddhānāṁ</l>
@@ -409,9 +420,9 @@ sarvatathāgata-kula-cakravartitve <app>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:43">STTS 43
-<!--   idaṁ tat sarvabuddhānāṁ siddhivajram anuttaram | -->
-<!--   ahaṁ mama kare dattaṁ vajraṁ vajrapratiṣṭhitam || >-->
+<note sameAs="#STTS:43">STTS 43: <foreign>idaṁ tat sarvabuddhānāṁ siddhivajram anuttaram | ahaṁ mama kare dattaṁ vajraṁ vajrapratiṣṭhitam ||</foreign>
+</note>
+<note sameAs="#KSP">KSP 117.
 </note>
 </app>
 </listApp>
