@@ -451,7 +451,7 @@ sarvatathāgata-kula-cakravartitve <app>
 </app>paryantena draṣṭavyam iti.</p>
 <listApp type="parallels">
 <app>
-<note>KSP 117 <seg rend="check">(ed. Inui 1994: 109,16–19)</seg><!-- apply this mode of reference also in other cases where we used Inui -->: <foreign>evam utpatti-spharaṇa-saṁhāra-yogena vairocana-hr̥dgata-madhyāvasthitenodānam udānayanto 'bhiṣekānantare vajrasattvād ārabhya yāvad vajramuṣṭi-paryantaṁ sva-sva-cihnāni pūrvavat spharaṇa-saṁhāra-yogenodānam udānayanti</foreign>.</note>
+<note>KSP 117 (ed. Inui 1994: 109,16–19)<!-- apply this mode of reference also in other cases where we used Inui -->: <foreign>evam utpatti-spharaṇa-saṁhāra-yogena vairocana-hr̥dgata-madhyāvasthitenodānam udānayanto 'bhiṣekānantare vajrasattvād ārabhya yāvad vajramuṣṭi-paryantaṁ sva-sva-cihnāni pūrvavat spharaṇa-saṁhāra-yogenodānam udānayanti</foreign>.</note>
 </app>
 </listApp>
 <!-- An amazingly ill-constructed sentence? KSP seems even worse. Provisional  translation: '... (Vajrasattva) who is present in the Vajra inside the heart of Vairocana who is ...., while doing the udāna and (also doing) the udāna immediately after the unction, should be visualized (and so should the other Bodhisattvas) up to Vajramuṣṭi'. -->
@@ -465,6 +465,11 @@ sarvatathāgata-kula-cakravartitve <app>
 <lem wit="#cod">bhavanti</lem>
 <note><ptr target="#MSK"/> reads <foreign>bhavati</foreign> which it emends to <foreign>bhavanti</foreign>.</note>
 </app>.</p>
+<listApp type="parallels">
+<app>
+<note>KSP 118 (ed. Inui 1994: 109,20): <foreign>tatra vajrarājādīnām udānāni bhavanti</foreign>.</note>
+</app>
+</listApp>
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrarāja</head>
@@ -482,7 +487,8 @@ sarvatathāgata-kula-cakravartitve <app>
 <listApp type="parallels">
 <app>
     <note corresp="#STTS:46">STTS 46: Horiuchi as well as Yamada misreads <foreign>amogharājāhaṁ</foreign> for <foreign>amogharājo 'haṁ</foreign> in the manuscript.</note>
-    <note corresp="#KSP:188">KSP 118 (ed. Inui 1994: 107–108)</note>
+    <note corresp="#KSP:188">KSP 118 (ed. Inui 1994: 108,1–2): <foreign>aho hy amogharājo 'haṁ vajrasaṃbhavam aṅkuśam ||
+yat sarvavyāpino buddhāḥ samākṛṣyanti siddhayaḥ ||</foreign></note>
 </app>
 </listApp>
 
@@ -503,11 +509,11 @@ sarvatathāgata-kula-cakravartitve <app>
 </lg>
 <listApp type="parallels">
 <app>
-<note>STTS 49
+<note sameAs="#STTS:49">STTS 49.
 <!--   idaṁ tat sarvabuddhānāṁ vajrajñānam anuttaram | -->
 <!--   yat sarvabuddhārthasiddhyarthaṁ samākarṣaṇam uttamam iti || -->
 </note>
-<note>KSP 118</note>
+<note sameAs="#KSP:118">KSP 118 (ed. Inui 1994: 108,3–4).</note>
 </app>
 </listApp> 
 
@@ -519,7 +525,7 @@ sarvatathāgata-kula-cakravartitve <app>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">svayabhuvam</rdg> </app> |</l>
 <l n="c"><app>
-<lem wit="#MSK"  sameAs="#STTS">yac chuddhy-arthaṁ</lem>
+<lem wit="#MSK" sameAs="#STTS">yac chuddhy-arthaṁ</lem>
 <rdg wit="#cod"><unclear>ya</unclear><gap reason="lost" unit="character" quantity="3"/></rdg>
 </app> viraktānāṁ</l>
 <l n="d"><app><lem wit="#MSK">rāgeṇa</lem>
@@ -531,6 +537,7 @@ sarvatathāgata-kula-cakravartitve <app>
 <app>
 <note sameAs="#STTS:52">STTS 52: <foreign>aho svabhāvaśuddho 'ham anurāgaḥ svayaṁbhuvām | 
 yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi ||</foreign></note>
+<note sameAs="#KSP:119">KSP 119 (ed. Inui 1994: 108,8–9).</note>
 </app>
 </listApp> 
 
@@ -547,9 +554,10 @@ yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi ||</foreign></note>
 </app>saukhyaṁ dadanti hīti ||</l>
 </lg><listApp type="parallels">
 <app>
-<note sameAs="#STTS:55">STTS 55</note>
+<note sameAs="#STTS:55">STTS 55.</note>
 <!-- idaṁ tat sarvabuddhānāṁ rāgajñānam anāvilam | -->
 <!-- hatvā virāgaṁ rāgeṇa sarvasaukhyaṁ dadanti hi || -->
+ <note sameAs="#KSP:119">KSP 119 (ed. Inui 1994: 108,11–12).</note>
 </app>
 </listApp> 
 
@@ -571,6 +579,8 @@ yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi ||</foreign></note>
 <note sameAs="#STTS:58">STTS 58</note>
 <!-- <foreign>aho hi sādhukāro 'haṁ sarvaḥ sarvavidāṁ varaḥ | -->
 <!-- yad vikalpaprahīṇānāṁ tuṣṭiṁ janayate dhruvam ||</foreign>-->
+<note sameAs="#KSP:120">KSP 120 (ed. Inui 1994: 108,15–16): <foreign>aho hi sādhukāro 'haṁ sarvasattvavidām varaḥ |
+yat kalpaṁ hi prahīṇānāṁ tuṣṭiṁ janayate dhruvam ||</foreign></note>
 </app>
 </listApp> 
 
@@ -585,6 +595,8 @@ yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi ||</foreign></note>
 <note sameAs="#STTS:61">STTS 61</note>
 <!--   <foreign>idaṁ tat sarvabuddhānāṁ sādhukārapravartakam | -->
 <!--   sarvatuṣṭikaraṁ vajraṁ divyaṁ prāmodyavardhanam iti || -->
+<note sameAs="#KSP:120">KSP 120 (ed. Inui 1994: 108,18–19): <foreign>idaṁ tat sarvvabuddhānāṁ sādhukārapravartikam ||
+sarvatuṣṭikaraṁ vajraṁ divyaṁ prmāmodyavardhanam ||</foreign></note>
 </app>
 </listApp>
 
