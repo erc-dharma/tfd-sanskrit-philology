@@ -538,8 +538,8 @@ Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasatt
 </lg>
 <listApp type="parallels">
 <app>
-  <note sameAs="#STTS">STTS 40.</note>
-  <note sameAs="#KSP">KSP 117 (ed. Inui 1994: 109,4–5).</note>
+  <note sameAs="#STTS">STTS 40</note>
+  <note sameAs="#KSP:117">KSP 117 (ed. Inui 1994: 109,4–5)</note>
 </app>
 </listApp>
 
@@ -604,8 +604,8 @@ sarvatathāgata-kula-cakravartitve <app>
 </app> dadyāt.</p>
 <listApp type="parallels">
 <app>
-<note corresp="#KSP">KSP 117 (ed. Inui 1994: 109,12):
-<foreign>nāmābhiṣekeṇābhisiktaḥ</foreign>.</note>
+<note corresp="#KSP:117">KSP 117 (ed. Inui 1994: 109,12):
+<foreign>nāmābhiṣekeṇābhisiktaḥ</foreign></note>
 </app>
 </listApp>
 
@@ -616,7 +616,7 @@ sarvatathāgata-kula-cakravartitve <app>
 </app> udānam udānayet.</p>
 <listApp type="parallels">
 <app>
-<note sameAs="#KSP">KSP 117 (ed. Inui 1994: 109,13).
+<note sameAs="#KSP:117">KSP 117 (ed. Inui 1994: 109,13)
 </note>
 </app>
 </listApp>
@@ -631,7 +631,7 @@ sarvatathāgata-kula-cakravartitve <app>
 <app>
 <note sameAs="#STTS:43">STTS 43: <foreign>idaṁ tat sarvabuddhānāṁ siddhivajram anuttaram | ahaṁ mama kare dattaṁ vajraṁ vajrapratiṣṭhitam ||</foreign>
 </note>
-<note sameAs="#KSP">KSP 117 (ed. Inui 1994: 109,14–15).
+<note sameAs="#KSP:117">KSP 117 (ed. Inui 1994: 109,14–15)
 </note>
 </app>
 </listApp>
@@ -697,7 +697,7 @@ sarvatathāgata-kula-cakravartitve <app>
 <listApp type="parallels">
 <app>
     <note corresp="#STTS:46">STTS 46: Horiuchi as well as Yamada misreads <foreign>amogharājāhaṁ</foreign> for <foreign>amogharājo 'haṁ</foreign> in the manuscript.</note>
-    <note corresp="#KSP:188">KSP 118 (ed. Inui 1994: 108,1–2): <foreign>aho hy amogharājo 'haṁ vajrasaṃbhavam aṅkuśam ||
+    <note corresp="#KSP118">KSP 118 (ed. Inui 1994: 108,1–2): <foreign>aho hy amogharājo 'haṁ vajrasaṃbhavam aṅkuśam ||
 yat sarvavyāpino buddhāḥ samākṛṣyanti siddhayaḥ ||</foreign></note>
 </app>
 </listApp>
@@ -723,7 +723,7 @@ yat sarvavyāpino buddhāḥ samākṛṣyanti siddhayaḥ ||</foreign></note>
 <!--   idaṁ tat sarvabuddhānāṁ vajrajñānam anuttaram | -->
 <!--   yat sarvabuddhārthasiddhyarthaṁ samākarṣaṇam uttamam iti || -->
 </note>
-<note sameAs="#KSP:118">KSP 118 (ed. Inui 1994: 108,3–4).</note>
+<note sameAs="#KSP:118">KSP 118 (ed. Inui 1994: 108,3–4)</note>
 </app>
 </listApp> 
 
@@ -747,7 +747,7 @@ yat sarvavyāpino buddhāḥ samākṛṣyanti siddhayaḥ ||</foreign></note>
 <app>
 <note sameAs="#STTS:52">STTS 52: <foreign>aho svabhāvaśuddho 'ham anurāgaḥ svayaṁbhuvām | 
 yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi ||</foreign></note>
-<note sameAs="#KSP:119">KSP 119 (ed. Inui 1994: 108,8–9).</note>
+<note sameAs="#KSP:119">KSP 119 (ed. Inui 1994: 108,8–9)</note>
 </app>
 </listApp> 
 
@@ -767,7 +767,7 @@ yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi ||</foreign></note>
 <note sameAs="#STTS:55">STTS 55.</note>
 <!-- idaṁ tat sarvabuddhānāṁ rāgajñānam anāvilam | -->
 <!-- hatvā virāgaṁ rāgeṇa sarvasaukhyaṁ dadanti hi || -->
- <note sameAs="#KSP:119">KSP 119 (ed. Inui 1994: 108,11–12).</note>
+ <note sameAs="#KSP:119">KSP 119 (ed. Inui 1994: 108,11–12)</note>
 </app>
 </listApp> 
 
@@ -789,8 +789,8 @@ yac chuddhyarthaṁ viraktānāṁ rāgeṇa vinayanti hi ||</foreign></note>
 <note sameAs="#STTS:58">STTS 58</note>
 <!-- <foreign>aho hi sādhukāro 'haṁ sarvaḥ sarvavidāṁ varaḥ | -->
 <!-- yad vikalpaprahīṇānāṁ tuṣṭiṁ janayate dhruvam ||</foreign>-->
-<note sameAs="#KSP:120">KSP 120 (ed. Inui 1994: 108,15–16): <foreign>aho hi sādhukāro 'haṁ sarvasattvavidām varaḥ |
-yat kalpaṁ hi prahīṇānāṁ tuṣṭiṁ janayate dhruvam ||</foreign></note>
+<note corresp="#KSP:120">KSP 120 (ed. Inui 1994: 108,15–16): <foreign>aho hi sādhukāro 'haṁ sarvasattvavidām varaḥ |
+yat <seg type="highlight">kalpaṁ hi</seg> prahīṇānāṁ tuṣṭiṁ janayate dhruvam ||</foreign></note>
 </app>
 </listApp> 
 
@@ -805,7 +805,7 @@ yat kalpaṁ hi prahīṇānāṁ tuṣṭiṁ janayate dhruvam ||</foreign></no
 <note sameAs="#STTS:61">STTS 61</note>
 <!--   <foreign>idaṁ tat sarvabuddhānāṁ sādhukārapravartakam | -->
 <!--   sarvatuṣṭikaraṁ vajraṁ divyaṁ prāmodyavardhanam iti || -->
-<note sameAs="#KSP:120">KSP 120 (ed. Inui 1994: 108,18–19): <foreign>idaṁ tat sarvvabuddhānāṁ sādhukārapravartikam ||
+<note corresp="#KSP:120">KSP 120 (ed. Inui 1994: 108,18–19): <foreign>idaṁ tat sarvabuddhānāṁ sādhukāra<seg type="highlight">pravartikam</seg> ||
 sarvatuṣṭikaraṁ vajraṁ divyaṁ prmāmodyavardhanam ||</foreign></note>
 </app>
 </listApp>
@@ -827,6 +827,7 @@ sarvatuṣṭikaraṁ vajraṁ divyaṁ prmāmodyavardhanam ||</foreign></note>
 <note sameAs="#STTS:66">STTS 66</note>
 <!--   <foreign>aho hi svabhiṣeko 'haṁ vajraratnam anuttaram | -->
 <!--   yan niḥsaṅgā api jinās tridhātupatayaḥ smr̥tāḥ ||</fforeign> -->
+<note sameAs="#KSP:121">KSP 121 (ed. Inui 1994: 108,22–23)</note>
 </app>
 </listApp>
 
@@ -849,6 +850,7 @@ sarvatuṣṭikaraṁ vajraṁ divyaṁ prmāmodyavardhanam ||</foreign></note>
 <app>
 <note corresp="#STTS:69">STTS 69: <foreign>idaṁ tat sarvabuddhānāṁ sattvadhātvabhiṣecanam | ahaṁ mama kare dattaṁ ratne ratnaṁ niyojitam iti ||</foreign>
 </note>
+<note sameAs="KSP:121">KSP 121 (ed. Inui 1994: 107,1–2)</note>
 </app>
 </listApp>
 
@@ -879,17 +881,19 @@ sarvatuṣṭikaraṁ vajraṁ divyaṁ prmāmodyavardhanam ||</foreign></note>
 <listApp type="parallels">
 <app>
 <note corresp="#STTS:72">STTS 72: <foreign xml:lang="san-Latn">aho hy <seg type="highlight">anupaman tejaḥ sattva</seg>dhātvavabhāsanam | 
-yac chodhayati śuddhānāṁ buddhānām api tāyinām ||</foreign>.</note>
+yac chodhayati śuddhānāṁ buddhānām api tāyinām ||</foreign></note>
 <!-- The MS and  ed. Yamada read the first half as follows: 
 <foreign xml:lang="san-Latn">aho hy anupaman tejaḥ satvadhātvavabhāsanaṁ</foreign>. Horiuchi normalizes this as follows: 
 <foreign xml:lang="san-Latn">aho hy anupamaṁ tejaḥ sattvadhātvavabhāsanam</foreign>.  -->
+<note corresp="#KSP:122">KSP 122 (ed. Inui 1994: 107,5–6): <foreign xml:lang="san-Latn">aho hy <seg type="highlight">anupamatejo 'haṁ sattva</seg>dhātvavabhāsanam | 
+yac chodhayati śuddhānāṁ buddhānām api tāyinām ||</foreign></note>
 </app>
 </listApp>
 
 <lg met="anuṣṭubh">
 <l n="a">idaṁ tat sarva-buddhānām</l>
 <l n="b">ajñāna-<app>
-<lem wit="#MSK" sameAs="#STTS">dhvānta-</lem>
+<lem wit="#MSK" sameAs="#STTS #KSP">dhvānta-</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-dhvanta-</rdg>
 </app>nāśanam |</l>
@@ -905,6 +909,8 @@ yac chodhayati śuddhānāṁ buddhānām api tāyinām ||</foreign>.</note>
 <app>
 <note corresp="#STTS:74">STTS 74: <foreign>idaṁ tat sarvabuddhānām ajñāna<seg type="highlight">dhvānta</seg>nāśanam | 
 paramāṇurajaḥ<seg type="highlight">saṁkhya</seg>sūryādhikataraprabham iti ||</foreign></note>
+<note corresp="#KSP:122">KSP 122 (ed. Inui 1994: 107,8–9): <foreign>idaṁ tat sarvabuddhānām ajñāna<seg type="highlight">dhvānta</seg>nāśanam | 
+paramāṇurajaḥ<seg type="highlight">saṁkhya</seg>sūryādhikataraprabham ||</foreign></note>
 </app>
 </listApp>
 
@@ -935,9 +941,9 @@ paramāṇurajaḥ<seg type="highlight">saṁkhya</seg>sūryādhikataraprabham i
 <!-- \Hed\ \Yed\ (unmetrical). -->
 <!-- <rdg wit="#cod">yat sarvāśāparipūrṇṇānāṁ sarvārthapratipūraṇam</rdg> -->
 </note>
+<note sameAs="#KSP:123">KSP 123 (ed. Inui 1994: 107,12–13)</note>
 </app>
 </listApp>
-
 
 <lg met="anuṣṭubh">
 <l n="a">idaṁ tat sarva-buddhānāṁ</l> 
@@ -947,18 +953,18 @@ paramāṇurajaḥ<seg type="highlight">saṁkhya</seg>sūryādhikataraprabham i
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:80">STTS 80</note>
+  <note sameAs="#STTS:80">STTS 80</note>
 <!--   idaṁ tat sarvabuddhānāṁ sarvāśāparipūraṇam | -->
 <!--   cintāmaṇidhvajaṁ nāma dānapāramitānayam iti || -->
+  <note sameAs="KSP:123">KSP 123 (ed. Inui 1994: 107,15–16)</note>
 </app>
 </listApp>
-
 
 <!--  Vajrahāsa -->
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrahāsa</head>
 <l n="a"><app>
-<lem wit="#MSK"  sameAs="#STTS">aho mahā-</lem>
+<lem wit="#MSK" sameAs="#STTS">aho mahā-</lem>
 <!-- <INTRO>discussion of various editions of STTS. We follow Horiuchi's numbering. 
 No reference to specific editions is made unless there is a difference.</INTRO>-->
 <rdg wit="#cod">aho hi mahā-</rdg>
@@ -975,6 +981,8 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 <app>
 <note corresp="#STTS:83">STTS 83: <foreign>aho mahāhāsa-m-ahaṁ sarvāgryāṇāṁ mahādbhutam | yat <seg type="highlight">prayuñjanti</seg> buddhārthe sadaiva susamāhitāḥ ||</foreign>. Horiuchi reads <foreign>buddhārthaṁ</foreign>.</note>
 <!-- the MS of STTS reads prayuṁja<del>ya</del>nti -->
+<note corresp="KSP:124">KSP 124 (ed. Inui 1994: 107,19–20): <foreign>aho <seg type="highlight">mahāhāso 'haṁ</seg> sarvāgryāṇāṁ mahādbhutaṁ |
+yat <seg type="highlight">prayuñjanti</seg> buddhārthe sadaiva susamāhitāḥ ||</foreign></note>
 </app>
 </listApp>
 
@@ -996,7 +1004,7 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 </app> jñānam</l> 
 <l n="d">ajñātaṁ 
 <app>
-<lem type="emn"  sameAs="#STTS">para-śāsibhir</lem>
+<lem type="emn" sameAs="#STTS">para-śāsibhir</lem>
 <rdg wit="#cod">paraparaśāsibhir</rdg>
 <rdg wit="#MSK">paraśāstribhiḥ</rdg>
 <witDetail wit="#MSK" type="emn"/>
@@ -1005,9 +1013,11 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:86">STTS 86</note>
+  <note sameAs="#STTS:86">STTS 86</note>
 <!--   <foreign>idaṁ tat sarvabuddhānām adbhutotpādadarśakam | -->
 <!--   mahāharṣakaraṁ jñānam ajñātaṁ paraśāsitir iti || -->
+   <note corresp="#KSP:124">KSP 124 (ed. Inui 1994: 106,1–2): <foreign>idan tat sarvabuddhānām adbhutotpādadarśakaṁ ||
+mahāharṣakaraṃ jñānam <seg type="highlight">ajñānaparihāsibhiḥ(!)</seg> ||</foreign></note>
 </app>
 </listApp>
 
@@ -1031,9 +1041,10 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:91">STTS 91. Yamada misreads <foreign>svayambhuvān</foreign>.</note>
+  <note sameAs="#STTS:91">STTS 91. Yamada misreads <foreign>svayambhuvān</foreign>.</note>
 <!--   aho hi paramārtho 'haṁ ādiśuddhaḥ svayaṁbhuvām | -->
 <!--   yat kolopamadharmāṇāṁ viśuddhir upalabhyate || -->
+   <note sameAs="#KSP:125">KSP 125 (ed. Inui 1994: 106,5–6)</note>
 </app>
 </listApp>
 
@@ -1047,9 +1058,11 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:94">STTS 94. Yamada correctly edits <foreign>dharmaṁ dharme pratiṣṭhitam</foreign>, but Horiuchi misreads <foreign>dharmaṁ dharmapratiṣṭhitam</foreign>.</note>
+  <note sameAs="#STTS:94">STTS 94. Yamada correctly edits <foreign>dharmaṁ dharme pratiṣṭhitam</foreign>, but Horiuchi misreads <foreign>dharmaṁ dharmapratiṣṭhitam</foreign>.</note>
 <!--   idaṁ tat sarvabuddhānāṁ rāgatattvāvabodhanam | -->
 <!--   ahaṁ mama kare dattaṁ dharmaṁ dharme pratiṣṭhitam iti ||-->
+   <note corresp="#KSP:125">KSP 125 (ed. Inui 1994: 106,8–9): <foreign>idaṁ tat sarvabuddhānāṁ rāgatattvāvabodhanam |
+aham mama kare dattaṃ <seg type="highlight">dharme dharmaṁ</seg> pratiṣṭhitam ||</foreign></note>
 </app>
 </listApp>
 
@@ -1061,17 +1074,19 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 <l n="c"><app><lem wit="#MSK" type="emn" sameAs="#STTS">yat</lem>
         <rdg wit="#cod">ya</rdg>
 </app>
-<app><lem type="emn"  sameAs="#STTS">prajñāyā arūpiṇyā</lem>
+<app><lem type="emn" sameAs="#STTS">prajñāyā arūpiṇyā</lem>
 <rdg wit="#cod">prajñayārūpināḥ</rdg>
-<rdg wit="#MSK">prajñayārūpiṇyā</rdg>
+<rdg wit="#MSK #KSP">prajñayārūpiṇyā</rdg>
 </app></l>  
 <l n="d">ghoṣatvam upalabhyate ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:97">STTS 97</note>
+  <note sameAs="#STTS:97">STTS 97</note>
 <!--   aho hi sarvabuddhānāṁ mañjughoṣa-m-ahaṁ smr̥taḥ | -->
 <!--   yat prajñāyā arūpiṇyā ghoṣatvam upalabhyate || -->
+   <note corresp="#KSP:126">KSP 126 (ed. Inui 1994: 106,12–13):<foreign>aho hi sarvabuddhānāṁ mañjughoṣam ahaṁ smṛtaḥ |
+yat <seg type="highlight">prajñayārūpiṇyā</seg> ghoṣatvam upalabhyate ||</foreign></note>
 </app>
 </listApp>
 
@@ -1092,9 +1107,10 @@ sarva<app>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:100">STTS 100</note>
+  <note sameAs="#STTS:100">STTS 100</note>
 <!--   idaṁ tat sarvabuddhānāṁ prajñāpāramitānayam | -->
 <!--   chettāraṁ sarvaśatrūṇāṁ sarvapāpaharaṁ param iti || -->
+   <note sameAs="#KSP:126">KSP 126 (ed. Inui 1994: 106,15–16)</note>
 </app>
 </listApp> 
 
@@ -1111,9 +1127,10 @@ sarva<app>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:103">STTS 103</note>
+  <note sameAs="#STTS:103">STTS 103</note>
 <!--   aho vajramayaṁ cakram ahaṁ vajrāgradharmiṇām | -->
 <!--   yac cittotpādamātreṇa dharmacakraṁ pravartate || -->
+   <note sameAs="#KSP:127">KSP 127 (ed. Inui 1994: 106,19–20)</note>
 </app>
 </listApp>
 
@@ -1122,7 +1139,7 @@ sarva<app>
 <l n="b">sarva-dharma<app>
 <lem wit="#MSK" type="norm">-viśodhanam</lem>
 <rdg wit="#cod">-visodhanam</rdg>
-<note>In STT, we read <foreign>-viśodhakaṁ</foreign>.</note>
+<note>In STTS, we read <foreign>-viśodhakaṁ</foreign>.</note>
 </app> |</l>
 <l n="c"><app rend="hide">
 <lem wit="#MSK">avaivartika-</lem>
@@ -1133,8 +1150,10 @@ sarva<app>
 </lg>
 <listApp type="parallels">
 <app>
-<note corresp="#STTS:106">STTS 106: <foreign>idaṁ tat sarvabuddhānāṁ sarvadharmaviśodhakam |
-avaivartikacakraṁ tu bodhimaṇḍam iti smr̥tam iti ||</foreign></note>
+  <note corresp="#STTS:106">STTS 106: <foreign>idaṁ tat sarvabuddhānāṁ sarvadharmaviśodhakam |
+avaivartikacakraṁ tu bodhimaṇḍam iti smr̥tam iti ||</foreign>
+</note>
+<note corresp="#KSP:127">KSP 127 (ed. Inui 1994: 106,22–23): <foreign> idaṁ tat sarvabuddhānāṁ sarvadharmaviśodhanam | <seg type="highlight">avaivartikacakro 'haṁ</seg> bodhimaṇḍam iti smr̥taṁ ||</foreign></note>
 </app>
 </listApp>
 
@@ -1159,11 +1178,12 @@ avaivartikacakraṁ tu bodhimaṇḍam iti smr̥tam iti ||</foreign></note>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:109">STTS 109.<!-- <foreign>aho svayaṁbhuvāṁ guhyaṁ saṁdhābhāṣa-m-ahaṁ smr̥taḥ |
+<note sameAs="#STTS:109">STTS 109<!-- <foreign>aho svayaṁbhuvāṁ guhyaṁ saṁdhābhāṣa-m-ahaṁ smr̥taḥ |
 yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
+<note corresp="#KSP:128">KSP 128 (ed. Inui 1994: 105,2–3): <foreign>aho svayaṁbhuvāṁ guhyaṁ <seg type="highlight">saṁdhyābhāṣam ahaṁ dr̥ḍham</seg> |
+yad <seg type="highlight">deśayati</seg> saddharmaṁ vākprapañcavivarjitam ||</foreign></note>
 </app>
 </listApp>
-
 
 <lg met="anuṣṭubh">
 <l n="a">idaṁ tat sarva<app rend="hide">
@@ -1183,6 +1203,7 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 <listApp type="parallels">
 <app>
 <note corresp="#STTS:112">STTS 112: <foreign>idaṁ tat sarvabuddhānāṁ vajrajāpam udāhr̥tam | sarvatathāgatānāṁ tu mantrāṇām āśu sādhanam iti ||</foreign></note>
+<note sameAs="KSP:128">KSP 128 (ed. Inui 1994: 105,6–7)</note>
 </app>
 </listApp>
 
@@ -1222,7 +1243,7 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 <!-- STTS Tib.: 
       ae ma'o sangs rgyas rnams kyi nges/ /'phrin las mang po kun bdag yin/ /
       sangs rgyas don ni lhun grub phyir; ;rdo rje las ni 'jug par 'gyur/ /-->
-<note corresp="#KSP:129">KSP 129: <foreign>aho hy amoghabuddhānāṁ sarvakarmāvaham ahaṁ | yad anābhogabuddhārthaṁ vajrakarmapravartakam ||</foreign>. Although the ms. of SVU transmits a reading of the stanza nearly identical to that transmitted in KSP, we do not believe the ms. faithfully transmits what Ānandagarbha wrote.</note>
+<note corresp="#KSP:129">KSP 129 (ed. Inui 1994: 105,9–10): <foreign>aho hy amoghabuddhānāṁ sarvakarmāvaham ahaṁ | yad anābhogabuddhārthaṁ vajrakarmapravartakam ||</foreign>. Although the ms. of SVU transmits a reading of the stanza nearly identical to that transmitted in KSP, we do not believe the ms. faithfully transmits what Ānandagarbha wrote.</note>
 </app>
 </listApp>
 <!-- <INTRO>The ms. of SVU clearly transmits a reading of the stanza nearly identical to that transmitted in KSP. The Tibetan translation of SVU shows no trace of the specific readings shared by the our ms. and KSP. And these readings are very likely the result of a reinterpretation of the stanza. This passage this suggests that the transmission of SVU has suffered lateral influence from the ritual/textual tradition of (or reflected in) KSP.</INTRO> -->
@@ -1244,6 +1265,8 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 <note sameAs="#STTS:119">STTS 119</note>
 <!--   <foreign>idaṁ tat sarvabuddhānāṁ viśvakarmakaraṁ param | -->
 <!--   ahaṁ mama kare dattaṁ viśve viśvaṁ niyojitam iti || -->
+   <note corresp="#KSP:129">KSP 129 (ed. Inui 1994: 105,12–13): <foreign>idaṁ tat sarvabuddhānāṁ viśvakarmakaraṁ param ||
+ahaṁ mama kare dattaṁ viśve viśvaṁ niyojayet ||</foreign></note>
 </app>
 </listApp> 
 
@@ -1269,10 +1292,11 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#KSP:129">KSP 129</note>
 <note corresp="#STTS:122">STTS 122:
  <foreign>aho vīryamayo <seg type="highlight">varmaḥ</seg> sudr̥ḍho 'haṁ dr̥ḍhātmanām | 
  yad dr̥ḍhatvād akāyānāṁ vajrakāyakaraṁ param iti ||</foreign>. The codex reads <foreign>varmaḥ</foreign>, which Horiuchi and Yamada accept in their editions.</note>
+<note corresp="#KSP:130">KSP 130 (ed. Inui 1994: 105,16–17): <foreign>aho vīryamayaṁ varma sudṛḍho 'haṁ dr̥ḍhātmanām |
+yad dr̥ḍhatvād akāyānāṁ vajrakāyakaraṁ param ||</foreign></note>
 </app>
 </listApp>
 
@@ -1284,9 +1308,10 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:125">STTS 125</note>
+  <note sameAs="#STTS:125">STTS 125</note>
 <!--   <foreign>idaṁ tat sarvabuddhānāṁ maitrīkavacam uttamam | -->
 <!--   dr̥ḍhavīryamahārakṣaṁ mahāmitram udāhr̥tam iti || -->
+   <note sameAs="#KSP:130">KSP 130 (ed. Inui 1994: 105,19–20)</note>
 </app>
 </listApp>
 
@@ -1312,7 +1337,7 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 <note sameAs="#STTS:128">STTS 128</note>
 <!--   aho mahopāya-m ahaṁ buddhānāṁ karuṇātmanām | -->
 <!--   yat sattvārthatayā śāntā raudratvam api kurvate || -->
-<note sameAs="#KSP:131">KSP 131</note>
+<note sameAs="#KSP:131">KSP 131 (ed. Inui 1994: 104,2–3)</note>
 </app>
 </listApp> 
 
@@ -1340,7 +1365,7 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 <app>
 <note corresp="#SVUTib">SVU Tib.: <foreign xml:lang="tib">'di ni sangs rgyas thams cad kyi || ma rungs thams cad <seg type="highlight">'dul ba'i</seg> mchog || kun gyi mchog ni 'dul byed pa || rdo rje mche ba'i mtshon rno ste || thabs dang snying rje'i bdag nyid do ||</foreign></note>
 <note corresp="#STTS:131">STTS 131: <foreign>idaṁ tat sarva-buddhānāṁ sarva<seg type="highlight">-duṣṭāgra-dāmakam</seg> | vajra-daṁṣṭrāyudhaṁ tīkṣṇam upāyaḥ karuṇātmanām iti ||</foreign>. <title>Tattvālokakarī</title> ad STTS 131: <foreign><seg type="highlight">ma rungs thams cad 'dul ba'i <lb n="84a5"/> mchog</seg> | ces bya ba ni | ma rungs pa yang yin la thams cad kyang yin pas na ma rungs pa thams cad de | lha'i bu'i bdud la sogs pa yin la | de rnams <seg type="highlight">'dul ba'i</seg> mchog yin pas na de skad ces bya'o ||</foreign>.</note>
-<note corresp="#KSP:131">KSP 131: <foreign>idan tat sarva-buddhānāṁ sarva<seg type="highlight">-duṣṭāgrya-dāyakam</seg> | vajra-daṁṣṭrāyudhaṁ tīkṣṇam upāyaḥ karuṇātmanām ||</foreign></note></app>
+<note corresp="#KSP:131">KSP 131 (ed. Inui 1994: 104,5–6): <foreign>idan tat sarva-buddhānāṁ sarva<seg type="highlight">-duṣṭāgrya-dāyakam</seg> | vajra-daṁṣṭrāyudhaṁ tīkṣṇam upāyaḥ karuṇātmanām ||</foreign></note></app>
 </listApp>
 
 <!--  Vajramuṣṭi -->
@@ -1364,7 +1389,7 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 <!--   aho hi sudr̥ḍhabandhaḥ samayo 'haṁ dr̥ḍhātmanām | -->
 <!--   yat sarvāśāprasidhyarthaṁ muktānām api bandhanam || -->
 </note>
-<note corresp="#KSP:132">KSP 132.</note>
+<note corresp="#KSP:132">KSP 132 (ed. Inui 1994: 104,9–10)</note>
 </app>
 </listApp> 
 
@@ -1379,9 +1404,12 @@ yad deśayanti saddharmaṁ vākprapañcavivarjitam ||</foreign>.--></note>
 </lg>
 <listApp type="parallels">
 <app>
+  <note corresp="#SVUTib">SVU Tib.: <foreign xml:lang="tib">'di de sangs rgyas thams cad kyi || phyag rgya bcing ba che zhing brtan || sangs rgyas kun du <seg type="highlight">myur</seg> 'grub phyir || dam tshig shin tu 'da' bar dka' || </foreign></note>
 <note corresp="#STTS:137">STTS 137: <foreign>idaṁ tat sarvabuddhānāṁ muṣṭibandhaṁ mahādr̥ḍham |
-  <seg type="highlight">yat</seg> sarvabuddhās tu siddhyarthaṁ samayo duratikrama iti ||</foreign>. The cod. shows <foreign>buddhāśu</foreign> and this is accepted in Yamada's edition, while Horiuchi's gives <foreign>buddhās tu</foreign>. Both editions accept yat although it renders the stanza unmetrical and must obviously be removed.
+  <seg type="highlight">yat sarvabuddhās tu</seg> siddhyarthaṁ samayo duratikrama iti ||</foreign>. The cod. shows <foreign>buddhāśu</foreign> and this is accepted in Yamada's edition, while Horiuchi's gives <foreign>buddhās tu</foreign>. Both editions accept yat although it renders the stanza unmetrical and must obviously be removed.
 </note>
+<note corresp="#KSP:132">KSP 132 (ed. Inui 1994: 104,12–13): <foreign>idaṁ tat sarvabuddhānāṃ mudrābandham ahaṃ dṛḍham |
+<seg type="highlight">sarvabuddhasu</seg>siddhyarthaṃ samayo duratikramaḥ ||</foreign></note>
 </app>
 </listApp> 
 </div>
@@ -1409,8 +1437,15 @@ amitābhāhaṁkāreṇa dharmavajrīm. amogha<app>
 <!-- Same variant appeared earlier. -->
 </app> bhavanti.
 </p>
+<listApp type="parallels">
+<app>
+<note corresp="#KSP:133-134">KSP 133–134 (ed. Inui 1994: 104,14–20): <foreign>tato 'kṣobhyāhaṁkāreṇa sattvavajrīṁ niṣpādayet. ratnasambhavāhaṁkāreṇa ratnavajrīm.
+amitābhāhaṁkāreṇa dharmavajrīm. amoghasiddhyahaṁkāreṇa karmavajrīm. catuḥṣu(!) dikṣu vairocanasyāgrādāv avasthitān cintayet. āsām udānāni bhavanti.</foreign></note>
+</app>
+</listApp> 
 
 <!-- RT, SI and AG have reached here on 2025-05-27 -->
+<!-- SI 2025-07-06-->
 
 <lg met="anuṣṭubh">
 <head type="editorial">Sattvavajrī</head>
