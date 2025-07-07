@@ -185,16 +185,16 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
       </div>
 
       <div type="chapter" n="2">
-        <head type="editorial">Trisamādhi (Pūrvasevā)</head>
+        <head type="editorial">Trisamādhi as Prior Service</head>
 
         <div type="subchapter" n="1"><!-- 2.1 -->
           <head type="editorial">Ādiyoga</head>
           <div type="section" n="1"><!-- 2.1.1 -->
-            <head type="editorial">Internal Purification (Meditation on the Voidness of Intrinsic Nature of All Phenomena)</head>
+            <head type="editorial">Internal Purification: Meditation on All Phenomena Being Void of Intrinsic Nature</head>
 
           </div>
           <div type="section" n="2"><!-- 2.1.2 -->
-            <head type="editorial">Protection of a Practitioner, a Site for Yoga and Yogas</head>
+            <head type="editorial">Protection of the Practitioner, of the Site for Yoga, and of the Yogas Performed</head>
 
           </div>
           <div type="section" n="3"><!-- 2.1.3 -->
@@ -202,7 +202,7 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
             
           </div>
           <div type="section" n="4"><!-- 2.1.4 -->
-            <head type="editorial">Confession of Sins, Rejoicing of Others' Merit, and Solicitation to Tathāgatas</head>
+            <head type="editorial">Confession of Sins, Rejoicing in Others' Merit, and Solicitation to the Tathāgatas</head>
             
           </div>
           <div type="section" n="5"><!-- 2.1.5 -->
@@ -224,7 +224,7 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
 
             </div>
             <div type="subsection" n="5"><!-- 2.1.5.5-->
-              <head type="editorial">Saṃpuṭāñjali (Treasure)</head>
+              <head type="editorial">Sampuṭāñjali (Treasure)</head>
 
             </div>
             <div type="subsection" n="6"><!-- 2.1.5.6-->
@@ -256,7 +256,7 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
 
             </div>
             <div type="subsection" n="13"><!-- 2.1.5.13-->
-              <head type="editorial">Nṛtyā</head>
+              <head type="editorial">Nr̥tyā</head>
 
             </div>
             <div type="subsection" n="14"><!-- 2.1.5.14-->
@@ -289,7 +289,7 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
             </div>
           </div>
           <div type="section" n="6"><!-- 2.1.6 -->
-            <head type="editorial">Transference of Merit</head>
+            <head type="editorial">Transfer of Merit</head>
             
           </div>
           <div type="section" n="7"><!-- 2.1.7 -->
@@ -297,7 +297,7 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
             
           </div>
           <div type="section" n="8"><!-- 2.1.8 -->
-            <head type="editorial">Possession (āveśa) of the Deities</head>
+            <head type="editorial">Possession by the Deities</head>
             
           </div>
           <div type="section" n="9"><!-- 2.1.9 -->
@@ -335,11 +335,11 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
 
             </div>
             <div type="subsection" n="8"><!-- 2.1.10.8 -->
-              <head type="editorial">Consecration with Vajra</head>
+              <head type="editorial">Consecration with a Vajra</head>
 
             </div>
             <div type="subsection" n="9"><!-- 2.1.10.9 -->
-              <head type="editorial">Consecration with the Name</head>
+              <head type="editorial">Consecration with a Name</head>
 
             </div>
             <div type="subsection" n="10"><!-- 2.1.10.10 -->
@@ -375,7 +375,7 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
               </p>
             </div>
             <div type="subsection" n="3"><!-- 2.1.11.3 -->
-              <head type="editorial">Emanation of Vajrasattva on One's Heart</head>
+              <head type="editorial">Emanation of Vajrasattva in One's Heart</head>
 
             </div>
             <div type="subsection" n="4"><!-- 2.1.11.4 -->
@@ -383,7 +383,7 @@ Arlo2025-01-21: We have to decide whether we will keep using code of the type <n
 
             </div>
             <div type="subsection" n="5"><!-- 2.1.11.5 -->
-              <head type="editorial">Meditation on Emptines</head>
+              <head type="editorial">Meditation on Emptiness</head>
 
             </div>
             <div type="subsection" n="6"><!-- 2.1.11.6 -->
@@ -850,7 +850,7 @@ sarvatuṣṭikaraṁ vajraṁ divyaṁ prmāmodyavardhanam ||</foreign></note>
 <app>
 <note corresp="#STTS:69">STTS 69: <foreign>idaṁ tat sarvabuddhānāṁ sattvadhātvabhiṣecanam | ahaṁ mama kare dattaṁ ratne ratnaṁ niyojitam iti ||</foreign>
 </note>
-<note sameAs="KSP:121">KSP 121 (ed. Inui 1994: 107,1–2)</note>
+<note sameAs="#KSP:121">KSP 121 (ed. Inui 1994: 107,1–2)</note>
 </app>
 </listApp>
 
@@ -893,7 +893,7 @@ yac chodhayati śuddhānāṁ buddhānām api tāyinām ||</foreign></note>
 <lg met="anuṣṭubh">
 <l n="a">idaṁ tat sarva-buddhānām</l>
 <l n="b">ajñāna-<app>
-<lem wit="#MSK" sameAs="#STTS #KSP">dhvānta-</lem>
+<lem wit="#MSK" corresp="#STTS #KSP">dhvānta-</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-dhvanta-</rdg>
 </app>nāśanam |</l>
@@ -956,7 +956,7 @@ paramāṇurajaḥ<seg type="highlight">saṁkhya</seg>sūryādhikataraprabham |
   <note sameAs="#STTS:80">STTS 80</note>
 <!--   idaṁ tat sarvabuddhānāṁ sarvāśāparipūraṇam | -->
 <!--   cintāmaṇidhvajaṁ nāma dānapāramitānayam iti || -->
-  <note sameAs="KSP:123">KSP 123 (ed. Inui 1994: 107,15–16)</note>
+  <note sameAs="#KSP:123">KSP 123 (ed. Inui 1994: 107,15–16)</note>
 </app>
 </listApp>
 
@@ -981,7 +981,7 @@ No reference to specific editions is made unless there is a difference.</INTRO>-
 <app>
 <note corresp="#STTS:83">STTS 83: <foreign>aho mahāhāsa-m-ahaṁ sarvāgryāṇāṁ mahādbhutam | yat <seg type="highlight">prayuñjanti</seg> buddhārthe sadaiva susamāhitāḥ ||</foreign>. Horiuchi reads <foreign>buddhārthaṁ</foreign>.</note>
 <!-- the MS of STTS reads prayuṁja<del>ya</del>nti -->
-<note corresp="KSP:124">KSP 124 (ed. Inui 1994: 107,19–20): <foreign>aho <seg type="highlight">mahāhāso 'haṁ</seg> sarvāgryāṇāṁ mahādbhutaṁ |
+<note corresp="#KSP:124">KSP 124 (ed. Inui 1994: 107,19–20): <foreign>aho <seg type="highlight">mahāhāso 'haṁ</seg> sarvāgryāṇāṁ mahādbhutaṁ |
 yat <seg type="highlight">prayuñjanti</seg> buddhārthe sadaiva susamāhitāḥ ||</foreign></note>
 </app>
 </listApp>
@@ -1203,7 +1203,7 @@ yad <seg type="highlight">deśayati</seg> saddharmaṁ vākprapañcavivarjitam |
 <listApp type="parallels">
 <app>
 <note corresp="#STTS:112">STTS 112: <foreign>idaṁ tat sarvabuddhānāṁ vajrajāpam udāhr̥tam | sarvatathāgatānāṁ tu mantrāṇām āśu sādhanam iti ||</foreign></note>
-<note sameAs="KSP:128">KSP 128 (ed. Inui 1994: 105,6–7)</note>
+<note>KSP 128 (ed. Inui 1994: 105,6–7)</note>
 </app>
 </listApp>
 
@@ -1774,136 +1774,136 @@ yad vajra<seg type="highlight">nr̥tta</seg>vidhinā buddhapūjā prakalpyata it
 
 <p>
 <app>
-<lem wit="#MSK">ato</lem>
-<witDetail wit="#MSK" type="silemn"/>
+<lem wit="#MSK" type="silemn">ato</lem>
 <rdg wit="#cod">ata</rdg>
-</app> vairocanāhaṁkāreṇa vajrāṅkuśādicatuṣṭayam. <app>
-<lem wit="#MSK">udānam</lem>
-<witDetail wit="#MSK" type="silemn"/>
+</app> vairocanāhaṁkāreṇa vajrāṅkuśādi-catuṣṭayam. 
+<app>
+<lem wit="#MSK" type="silemn">udānam</lem>
 <rdg wit="#cod">uddānam</rdg>
-</app> eṣām.
-<!-- °ata: em. °ato, with MSK (sil. em.). -->
-<!-- °uddānam: em. udānam, with MSK (sil. em.). -->
-</p>
+</app> eṣām.</p>
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrāṅkuśa</head>
-<l n="a">aho hi sarvabuddhānāṁ </l><l n="b">samākarṣamahaṁ <app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">dr̥ḍhaḥ</lem>
+<l n="a">aho hi sarva-buddhānāṁ</l>
+<l n="b">samākarṣa-m-ahaṁ <app>
+<lem wit="#MSK" type="emn" corresp="#STTS">dr̥ḍhaḥ</lem>
 <rdg wit="#cod">dr̥ḍhaṁ</rdg>
-<!--   emend <foreign>dr̥ḍhaḥ}, with MSK? -->
-</app> |
-</l>
+</app> |</l>
 <l n="c">yan mayā hi <app>
-<lem wit="#MSK">samākr̥ṣṭā</lem>
-<witDetail wit="#MSK" type="silemn"/>
+<lem wit="#MSK" type="silemn">samākr̥ṣṭā</lem>
 <rdg wit="#cod">samākr̥ṣṭhā</rdg>
-</app> </l><l n="d">bhajante sarvamaṇḍalam ||
-</l>
+</app></l>
+<l n="d">bhajante sarva-maṇḍalam ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:180">STTS 180
-<!--   <foreign>aho hi sarvabuddhānāṁ samākarṣa-m-aham dr̥ḍhaḥ | -->
-<!--   yan mayā hi samākr̥ṣṭā bhajante sarvamaṇḍalam iti || -->
+<note sameAs="#STTS:180">STTS 180<!-- ms. checked; edho edya checked -->
+<!--   aho hi sarvabuddhānāṁ samākarṣa-m-aham dr̥ḍhaḥ | -->
+<!--   yan mayā hi samākr̥ṣṭā bhajante sarvamaṇḍalam iti  || -->
+</note>
+<note>KSP 149 (ed. Inui 1994: @@@)
+<!-- punar api vairocanāhaṅkāreṇa vajrāṅkuśādicatuṣṭayam udānāni ||
+oṃ vajrāṅkuśakrodharājasvabhāvo 'haṃ || aho hi sarvabuddhānāṃ samākarṣam ahaṃ dṛḍhaṃ | yan mayā hi samākṛṣṭā bhajante sarvamaṇḍalaṃ ||1|
+pūrvadvāre || -->
 </note>
 </app>
 </listApp>
-<!-- dr̥ḍhaṁ: em. dr̥ḍhaḥ, with MSK? -->
-<!-- samākr̥ṣṭhā: em. samākr̥ṣṭā, with MSK (sil. em.). -->
-<!-- \unclear{sa}rvamaṇḍalaṁ -->
 
 <lg met="anuṣṭubh">
 <head type="editorial">Vajrapāśa</head>
-<l n="a">aho hi sarvabuddhānāṁ</l> <l n="b">vajrapāśamahaṁ <app>
-<lem wit="#MSK" type="emn">dr̥ḍhaḥ</lem>
-<rdg wit="#cod">dr̥ḍhaṁ</rdg>
-</app> |
-</l>
-<l n="c">yat <app>
-<lem wit="#cod #MSK">sarvatra</lem>
-<rdg wit="#STTS #Hed">sarvāṇu-</rdg>
-<note>
-<seg rend="check">CHECK MS AND YAMADA!!</seg>
-</note>
-</app>
-<app>
-<lem wit="#MSK">praviṣṭāpi</lem>
-<witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">praviṣṭhāpi</rdg>
-</app></l> <l n="d">praveśyante mayā punaḥ ||
-</l>
-</lg>
-<listApp type="parallels">
-<app>
-<note sameAs="#STTS:183">STTS 183
-<!--   <foreign>aho hi sarvabuddhānāṁ vajrapāśa-m-ahaṁ dr̥ḍhaḥ | -->
-<!--   yat sarvāṇupraviṣṭāpi praveśyante mayā punar iti || -->
-</note>
-</app>
-</listApp>
-<!-- dr̥ḍhaṁ: em. dr̥ḍhaḥ, with MSK? -->
-<!-- praviṣṭhāpi: em. praviṣṭāpi, with MSK (sil. em.). -->
-<!-- STTS §183 reads sarvāṇupraviṣṭhāpi. -->
-
-<lg met="anuṣṭubh">
-<head type="editorial">Vajrasphoṭa</head>
-<l n="a">aho hi sarvabuddhānāṁ</l> <l n="b">vajrasphoṭam ahaṁ <app>
-<lem wit="#MSK" type="emn">dr̥ḍhaḥ</lem>
-<rdg wit="#cod">dr̥ḍhaṁ</rdg>
-</app>
-</l>
-<l n="c">yat sa<supplied reason="lost">rva</supplied>
-<app>
-<lem wit="#MSK" type="emn">bandhamuktānāṁ</lem>
-<rdg wit="#cod">-vandhanamuktānāṁ</rdg>
-</app></l>
-<l n="d"><app>
-<lem wit="#MSK">sattvārthādbandha</lem>
-<witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">satvārthān vandha</rdg>
-</app> iṣyate ||
-</l>
-</lg>
-<listApp type="parallels">
-<app>
-<note sameAs="#STTS:186">STTS 186
-<!--   <foreign>aho hi sarvabuddhānāṁ vajrasphoṭa-m-ahaṁ dr̥ḍhaḥ | -->
-<!--   yat sarvabandhamuktānāṁ sattvārthād bandha iṣyata iti || -->
-</note>
-</app>
-</listApp>
-<!-- dr̥ḍhaṁ: em. dr̥ḍhaḥ, with MSK? -->
-<!-- -vandhanamuktānāṁ: em. -vandhamuktānāṁ, with MSK. -->
-<!-- satvārthān vandha: em. sattvārthād bandha, with MSK (sil. em.). -->
-<!-- sa\supplied{r}\unclear{va}vandhanamuktānāṁ -->
-
-<lg met="anuṣṭubh">
-<head type="editorial">Vajrāveśa</head>
-<l n="a">aho hi sarvabuddhānāṁ</l> <l n="b">vajrāveśamahaṁ <app>
+<l n="a">aho hi sarva-buddhānāṁ</l> 
+<l n="b">vajrapāśa-m-ahaṁ <app>
 <lem wit="#MSK" type="emn">dr̥ḍhaḥ</lem>
 <rdg wit="#cod">dr̥ḍhaṁ</rdg></app> |</l>
 <l n="c">yat <app>
-<lem wit="#MSK" type="emn">sarvapatayo</lem>
+<lem wit="#cod #MSK">sarvatra</lem>
+<note>STTS reads <foreign>sarvāṇu-</foreign> and SVU Tib. reflects this same reading. Surprisingly, however, KSP reads <foreign>sarvatra</foreign>.</note>
+</app>
+<app>
+<lem wit="#MSK" type="silemn">praviṣṭāpi</lem>
+<rdg wit="#cod">praviṣṭhāpi</rdg>
+</app>
+</l> 
+<l n="d">praveśyante mayā punaḥ ||</l>
+</lg>
+<listApp type="parallels">
+<app>
+<note corresp="#STTS:183">STTS 183: <foreign> aho hi sarvabuddhānāṁ vajrapāśa-m-ahaṁ dr̥ḍhaḥ | yat <seg rend="highlight">sarvāṇu</seg>praviṣṭāpi praveśyante mayā punar iti ||</foreign></note>
+<note>KSP 150 (ed. Inui 1994: @@@), with reading <foreign>sarvatra</foreign>
+<!-- KSP: §150
+oṃ vajrapāśakrodhavajrasvabhāvo 'haṃ |
+aho hi sarvabuddhānāṃ vajrapāśam ahaṃ dṛḍhaṃ ||
+yan mayā sarvatra praviṣṭāḥ praveśyante mayā punaḥ ||
+dakṣiṇadvāre ||2|| -->
+</note>
+<!--  SVUTib:
+	ae ma'o sangs rgyas thams cad kyi || rdo rje zhags pa dam po'i bdag | 
+        	rdul phran zhugs pa thams cad kyang || bdag gis slar yang drang bar bya ||
+rdul phran corresponds to aṇu
+ -->
+</app>
+</listApp>
+
+<lg met="anuṣṭubh">
+<head type="editorial">Vajrasphoṭa</head>
+<l n="a">aho hi sarva-buddhānāṁ</l> 
+<l n="b">vajrasphoṭa-m-ahaṁ <app>
+<lem wit="#MSK" type="emn">dr̥ḍhaḥ</lem>
+<rdg wit="#cod">dr̥ḍhaṁ</rdg>
+</app></l>
+<l n="c">yat sarva<app><lem wit="#MSK" type="emn">-bandha-</lem>
+<rdg wit="#cod">-vandhana-</rdg>
+</app>muktānāṁ</l>
+<l n="d"><app>
+<lem wit="#MSK">sattvārthād bandha</lem>
+<witDetail wit="#MSK" type="silemn"/>
+<rdg wit="#cod">satvārthān vandha</rdg>
+</app> iṣyate ||</l>
+</lg>
+<listApp type="parallels">
+<app>
+<note sameAs="#STTS:186">STTS 186:   <foreign>aho hi sarvabuddhānāṁ vajrasphoṭa-m-ahaṁ dr̥ḍhaḥ | yat sarva<seg rend="highlight">bandha</seg>muktānāṁ sattvārthād bandha iṣyata iti ||</foreign>
+</note>
+<note>KSP 151 (ed. Inui 1994: @@@), with readings <foreign>-bandhana-</foreign> and <foreign>satvārtham bandhayiṣyate</foreign>
+<!-- KSP §151
+oṃ vajrasphoṭakrodharājasvabhāvo 'haṃ |
+aho hi sarvabuddhānāṃ vajrasphoṭam ahaṃ dṛḍhaṃ |
+yat sarvabandhanamuktānāṁ satvārtham bandhayiṣyate |
+paścimadvāre ||3||
+ --></note>
+</app>
+</listApp>
+
+<lg met="anuṣṭubh">
+<head type="editorial">Vajrāveśa</head>
+<l n="a">aho hi sarva-buddhānāṁ</l> 
+<l n="b">vajrāveśa-m-ahaṁ <app><lem wit="#MSK" type="emn">dr̥ḍhaḥ</lem>
+<rdg wit="#cod">dr̥ḍhaṁ</rdg></app> |</l>
+<l n="c">yat <app><lem wit="#MSK" type="emn">sarva-patayo</lem>
 <rdg wit="#cod">sarvāpatayo</rdg>
-</app> bhūtvā</l> <l n="d">ceṭā api bhavanti hīti ||
-</l>
+</app> bhūtvā</l> 
+<l n="d">ceṭā api bhavanti hīti ||</l>
 </lg>
 <listApp type="parallels">
 <app>
 <note sameAs="#STTS:189">STTS 189
-<!--   <foreign>aho hi sarvabuddhānāṁ vajrāveśa-m-ahaṁ dr̥ḍhaḥ | -->
+<!--   aho hi sarvabuddhānāṁ vajrāveśa-m-ahaṁ dr̥ḍhaḥ | -->
 <!--   yat sarvapatayo bhūtvā ceṭā api bhavanti hīti || -->
 </note>
+<note>KSP 152 (ed. Inui 1994: @@@)
+<!--KSP §152
+oṃ vajrāveśakrodhavajrasvabhāvo 'haṃ ||
+aho hi sarvabuddhānām vajrāveśam ahan dṛḍhaṃ |
+yat sarvāryapatayo bhūtvā ceṭā api bhavanti hi ||
+uttaradvāre ||4||--></note>
 </app>
 </listApp>
-<!-- dr̥ḍhaṁ: em. dr̥ḍhaḥ, with MSK? -->
-<!-- sarvāpatayo: em. sarvapatayo, with MSK. -->
 
-<p>iyatā maṇḍalarājāgrī nāma samādhiḥ.</p>
-
+<p>iyatā maṇḍala-rājāgrī nāma samādhiḥ.</p>
 </div>
 </div>
+
+<!-- RT, SI and AG have reached here on 2025-07-07 -->
 
 <div type="subchapter" n="3">
 <head type="editorial">Karmarājāgrī</head>
