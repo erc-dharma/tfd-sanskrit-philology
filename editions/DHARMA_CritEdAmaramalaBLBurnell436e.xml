@@ -27,24 +27,23 @@
             </publicationStmt>
             <sourceDesc>
                 <listWit>
-                    <witness xml:id="msBLBurnell436e">
+                    <witness xml:id="msBL">
                          <abbr type="siglum">MS</abbr>
                         <msDesc>
                             <msIdentifier>
                                 <settlement>London</settlement>
                                 <institution>British Library</institution>
-                                <repository>Oriental manuscript</repository>
-                                <idno>Brunell 436 (e)</idno>
+                                <repository>Oriental manuscripts</repository>
+                                <idno>Burnell 436 (e)</idno>
                             </msIdentifier>
                             
                             <physDesc>
                                 <objectDesc>
-                                    
-                                	<p>According to Keith and Thomas (1935: 315, no. 5172), the text is written in Devanāgarī script across nine folios of paper, each measuring 6.5 by 3.5 inches.</p>
+                                	<p>As per the description by Keith &amp; Thomas (1935: 315, no. 5172), the text is written in Devanāgarī script across nine folios of paper, each measuring 6.5 by 3.5 inches.</p>
                                 </objectDesc>
                                 <handDesc> 
                                     
-                                	<handNote xml:id="msBLBurnell436e_H1" scriptRef="class:38771 maturity:83215">
+                                	<handNote xml:id="msBL_H1" scriptRef="class:38771 maturity:83215">
                                         <abbr type="hand">MS:H<hi rend="subscript">1</hi></abbr>
                                         <p>Main hand of the manuscript, black ink, Devanagari script</p>
                                     </handNote>
@@ -66,7 +65,12 @@
                         <p/>
                     </correction>
                     <normalization>
-                        <p/>
+                        <p>Our edition silently standardizes punctuation and normalizes spellings involving 
+<list>	<item>the differences b/v; ...</item>
+	<item>degemination of a consonant before v</item>
+	<item>editorial use of avagraha</item>
+</list>
+</p>
                     </normalization>
                     <interpretation>
                         <p/>
@@ -77,45 +81,54 @@
                 </samplingDecl>    
             </encodingDesc>
             <revisionDesc>
-            	  <change who="part:axja" when="2025-05-16" status="draft">Encode teiHeader and bibliography; solved validation problems</change>
-                <change who="part:axja" when="2025-05-15" status="draft">Imported from googledoc</change>
+            	  <change who="part:argr" when="2025-08-24" status="draft">Some corrections and further structuring</change>
+            	  <change who="part:argr" when="2025-05-16" status="draft">Encode teiHeader and bibliography; solved validation problems</change>
+                    <change who="part:axja" when="2025-05-15" status="draft">Imported from googledoc</change>
             </revisionDesc>
     </teiHeader>
     <text>
 	<body>
 		<div type="edition" xml:lang="san-Latn">
 <div>
-	<ab type="invocation"><pb n="1r"/><lb n="1r1"/>śrīgaṇēśāya namaḥ || śrīgurucarṇakamalēbhyō<note> Correct śrīgurucaraṇakamalābhyāṁ, śrīgurucaraṇakamalēbhyō, or śrīgurucaraṇakamalābhyāṁ.</note>
-		<lb n="1r2"/>namaḥ || śrīsarasvatyai namaḥ || śriyai namaḥ || §</ab>
+	<ab type="invocation"><pb n="1r"/><lb n="1r1"/>śrī-gaṇeśāya namaḥ || śrī-guru<app><lem rend="hyphenaround" type="norm">caraṇa</lem><rdg wit="#msBL"></rdg></app>kamalebhyō<!-- Correct -kamalābhyāṁ? -->
+		<lb n="1r2"/>namaḥ || śrī-sarasvatyai namaḥ || śriyai namaḥ ||</ab>
 </div>
 <div type="group">
 <lg met="anuṣṭubh" n="1">
-	<l n="ab"><lb n="1r3"/>praṇamya paramātmānaṁ vāladhī-vr̥ddhi-siddhayē</l> 
-	<l n="cd">śavda-bhēda<lb n="1r4" break="no"/>mr̥juṁ kurvē ’maramālā karōmyaham || §§ <note>Two indistinct space filling symbols.</note></l>
+	<l n="a"><lb n="1r3"/>praṇamya paramātmānaṁ</l> <l n="b">bāla-dhī-vr̥ddhi-siddhaye |</l> 
+	<l n="c">śabda-bheda<lb n="1r4" break="no"/>m r̥juṁ kurve</l> <l>’mara<app><lem type="emn" rend="hyphenleft">mālāṁ</lem><rdg wit="#msBL">-mālā</rdg></app> karōmy aham ||<!-- Two indistinct space filling symbols.--></l>
 </lg>
+	<listApp type="parallels">
+		<app>
+		<note>Information from Harunaga Isaacson: This verse is very similar to the opening verse of Anubhūti Svarūpācārya's <title>Sārasvatavyākaraṇa</title>: <foreign>praṇamya paramātmānaṁ bāla-dhī-vr̥ddhi-siddhaye saravatīm r̥juṁ kurve prakriyāṁ nātivistarām</foreign>
+<!-- Haru attached a pdf, stored on my computer (AG). --></note>
+		</app>
+	</listApp>
 <lg met="anuṣṭubh" n="2">
-    <l n="ab"><label type="headword"><lb n="1r5"/>ahaṁkāra-nāma ||</label> darpōbhimānahaṁkārō smaya-garva-madastathā</l>
-	<l n="cd"><lb n="1r6"/>vakṣasthala-nāma || vakṣasthalōrūvatsaśca viśālō pīnakastathā</l>
+	<l n="a"><lb n="1r5"/><label type="headword">ahaṁkāra-nāma ||</label> <app><lem type="emn">darpābhimānāhaṁkārō</lem><rdg wit="#msBL">darpōbhimānahaṁkārō</rdg></app></l>
+	<l n="b">smaya-garva-madas tathā |</l>
+	<l n="c"><lb n="1r6"/><label type="headword">vakṣasthala-nāma ||</label> vakṣa<app><lem type="emn" rend="hyphenaround">sthaloro</lem><rdg wit="#msBL">-sthalōrū-</rdg></app>vatsaś ca</l>
+	<l n="d">viśālō pīnakas tathā</l>
 </lg>
 <lg met="anuṣṭubh" n="3">
-	<l n="ab"><lb n="1r7"/><label type="headword">sakhī-nāma ||</label> sakhī  vēśyā ca saṁghrīcī ālīśca sahacāriṇī –</l> 
-    <l n="cd"><lb n="1r8"/><label type="headword">vudhi-nāma ||</label> vudhi-manīṣādhiṣaṇā-mēdhā prajñā ca saimukhī dhī</l>
+	<l n="ab"><lb n="1r7"/><label type="headword">sakhī-nāma ||</label> sakhī  veśyā ca saṁghrīcī ālīśca sahacāriṇī –</l> 
+    	<l n="cd"><lb n="1r8"/><label type="headword">vudhi-nāma ||</label> vudhi-manīṣādhiṣaṇā-medhā prajñā ca saimukhī dhī</l>
 </lg>
 <lg met="anuṣṭubh" n="4">
 	<l n="ab"><lb n="1r9" break="no"/>mati-dhāraṇāścaiva ghupajabdhijñānakārakā ..</l>
-    <l n="cd"><lb n="1r10"/><label type="headword">sarasvatī-nāma ||</label> vāṇī-sarasvatī vāk ca girāṁ ? ? sāra<hi rend="check">sta</hi> ..</l>
+    	<l n="cd"><lb n="1r10"/><label type="headword">sarasvatī-nāma ||</label> vāṇī-sarasvatī vāk ca girāṁ ? ? sāra<hi rend="check">sta</hi> ..</l>
 </lg>
 <lg met="anuṣṭubh" n="5">
-    <l n="ab"><label type="headword">śīghra-nāma ||</label> sahasā <lb n="1r11"/>ūṭati<note>If ujjvala is correct in the last line, then it is unlikely that ū is correct here. We don't grasp yet which word is intended.</note> tūrṇa-śīghraṁ āsunaraśca</l> 
-	<l n="cd">sajavara bhasa<hi rend="check">mbhōlavatsvājīyērātyā<lb n="1r12" break="no"/>ntara ..</hi></l>
+	<l n="ab"><label type="headword">śīghra-nāma ||</label> sahasā<lb n="1r11"/>-<app><lem type="emn">jhaṭiti</lem><rdg wit="#msBL">jhaṭati</rdg></app> tūrṇa-śīghraṁ āsunaraśca</l> 
+	<l n="cd">sajavara bhasa<hi rend="check">mbhōlavatsvājīyerātyā<lb n="1r12" break="no"/>ntara ..</hi></l>
 </lg>
 <lg met="anuṣṭubh" n="6">
-    <l n="ab"><label type="headword">dhāma-nāma ||</label> <hi rend="check">sadana-sadma-nāgāra-gēha-vēsmaścaṁ maṁdira</hi></l>
-	<l n="cd"><hi rend="check">ālaya<lb n="1r13" break="no"/>-gr̥ha-saṁkēta-nikēta-nilayāyatan ..</hi></l>
+    	<l n="ab"><label type="headword">dhāma-nāma ||</label> <hi rend="check">sadana-sadma-nāgāra-geha-vesmaścaṁ maṁdira</hi></l>
+	<l n="cd"><hi rend="check">ālaya<lb n="1r13" break="no"/>-gr̥ha-saṁketa-niketa-nilayāyatan ..</hi></l>
 </lg>
 <lg met="anuṣṭubh" n="7">
 	<l n="ab">bhavanaṁ <hi rend="check">saṁḍukaṁ</hi> cāpyasthānaṁ vasa<lb n="1r14" break="no"/>tikā<hi rend="check">tyā</hi> ..</l>
-    <l n="cd"><label type="headword">svarṇa-nāma ||</label> kaṁcanārjunakāṁtiśca surahēma-hiraṇyakaḥ</l>
+    	<l n="cd"><label type="headword">svarṇa-nāma ||</label> kaṁcanārjunakāṁtiśca surahema-hiraṇyakaḥ</l>
 </lg>
 <lg met="anuṣṭubh" n="8">
 	<l n="ab"><lb n="1r15"/>paṭuvarṇa<hi rend="check">ścapu</hi>raṭaghuṣṭāpaha-hāṭakastathā</l>
@@ -123,32 +136,35 @@
 </lg>
 <lg met="anuṣṭubh" n="9">
 	<l n="ab">jātarūpaśca kanaka-rukma<hi rend="check">staha</hi>-mahārajata ..</l>
-    <l n="cd"><lb n="1r17"/><label type="headword">rūpā-māma ||</label> raukmaṁ rajata-dūrbānajātarūpaśca kharjura .</l>
+    	<l n="cd"><lb n="1r17"/><label type="headword">rūpā-māma ||</label> raukmaṁ rajata-dūrbānajātarūpaśca kharjura .</l>
 </lg>
 
 </div>
 <div type="group"><ab>
-	ujjla-nāma ||
+	<label type="headword">ujjvala-nāma ||</label>
 <pb n="1v"/><fw n="1v" place="top-left"><num value="1">1</num></fw>
-<lb n="1v1"/>शुक्र-शुभ्र-सुचि-स्वेत-विशदश्चेति पांडुर<note>I am not sure what the meaning of the dot to the right if this word is, but I don't think it's anusvāra. Maybe a low-level punctuation mark, like our comma? Let's see if we get other cases.</note><note>I think that it is used for ṇa, we have other examples such as puṁḍarīka, śikhaṁḍī, śrīṣaṁḍa</note><note>I meant the dot to the right of ra. the use of anusvāra as multipurpose nasal is completely standard in Indian mss. it is one of the main differences between use of anusvāra/cecak in Indonesia (where at least after the 7th c. it only serves as equivalent to ṅ) and the use of anusvāra in India.</note><note>Ah, interesting. Another new information! Thank you! Concerning the dot just in the right, could it be ḥ ?</note>-धवलासिता 
-<lb n="1v2" break="no"/>र्जुनश्चैव ह्यवदातश्च कांतिकृत् ॥ सोभा-नाम ॥ भाभा-सा 
-<lb n="1v3" break="no"/>भा-प्रभाश्चेव सुषमा-परमाछवि-द्युति-कांति तथैवेति
-<lb n="1v4"/>? ष-<note>@andrew.ollett@gmail.comhow would you read the first aksara?_Assigned to Andrew Ollett_</note><note>I have no idea.</note>सौभाग्यदापिनी ॥ कीर्त्ति-नाम ॥ अंसुग-भक्ति
-<lb n="1v5" break="no"/>गश्चैव मरीचिस्तु मयूष <note> Corr. mayūkha</note>-कर-रस्मि <note> Corr. raśmi</note>-ज्योति-वसुश्चैव की
-<lb n="1v6" break="no"/>र्त्तिश्वैव तथापर ॥ <note>It seems that we now get synonyms of peacock, but the heading has been omitted.</note> बर्हिशिखी च नीलकंठी च व्याल
-<lb n="1v7" break="no"/>भुक् शिव<hi rend="check">sunū</hi>वाहनश्चैव<note>śivasūnuvāhana makes sense but it seems to be hypermetrical</note> कलापी च मयूरकः ॥  सिंह-नाम (॥) 
-<lb n="1v8"/>केहरि <note> Corr. kēśari</note>-हरि-द्वीपी च व्याघ्र-पंचानतस्तथा कंटीरद <note> Corr. kaṁṭīrava</note>-मृगपति
-<lb n="1v9" break="no"/>पुंडरीकश्च जक्षपो <note> Corr. yakṣapō. Cf. Revākhaṇḍa of the Skandapurāṇa 78.9–10: caturtho lokapālānām akṣayo yakṣapo 'pi vā | yakṣo yakṣādhipaḥ śreṣṭhaḥ kuṇḍadhāro 'bhavat sutaḥ | susvaṁrūpavayaḥ prāpya mātāpitror anujñayā || tapaś cakāra vipulaṁ narmadātīram āśritaḥ | yatra vyāghreśvaraṁ liṅgaṁ vyāghrakheṭakam uttamam ||.</note> मृगराजस्तु-सिंहश्च ॥ दुरा<note>this cannot be correct, but I don't see the solution yet.</note><note>@andrew.ollett@gmail.com can you help?</note><note>I am also having a hard time with this. Maybe dvaradaghna = dviradaghna?</note>द <note> <hi rend="check">Corr. dvirada</hi> ?</note>-घ्नश्च केशरी ॥
-<lb n="1v10"/>अश्व-नाम || हय-सैंधव-वाजी च तुरगश्च तुरंगम <hi rend="check">vā</hi><hi rend="check">ka</hi><note>not sure, but possibly hya is written or at least intended here</note>
-<lb n="1v11" break="no"/>श्व-घोटकश्चैव <hi rend="check">pū</hi>पा<note>it looks like śpā, error for śvā? still, I don't see śvākarṇa as synonym of 'horse' anywhere.</note><note>or, maybe śyā ? But I don't know yet that the cluster -'va' and -'ya' are interchangeable also in Sanskrit mss. as they are in Javanese script.. If so, then we have to accept śvākarṇa as synonym for 'horse'</note>कर्णाश्च <hi rend="check">ya</hi>दावुक<note>hēḍāvuka ?</note><note>I see yajñapuk, yajñavuk or yajñadhuk. The latter could mean 'milking the sacrifice'. I don't know any synonym of 'horse' like this.</note> ॥ हस्ती-नाम ||
-<lb n="1v12"/>दंती-द्वरद <note> Corr. dvirada</note>- द्वीपश्च पद्मी-कुंजर-कुंभीकाः<note>I think this is indeed what the manuscript has. since kumbhīka has a different meaning than 'elephant', an emendation is probably required.</note> करीभः <note> Corr. karībha-</note> वार
-<lb n="1v13" break="no"/>न <note> Corr. vāraṇa</note>-व्यालः <hi rend="check">staṁvaṁsuṁgr̥la</hi> <note> Corr. <hi rend="check">stambērama-suṁḍāla-nāguhāṭō</hi> ?</note>-<note>here we seem to have a part of the expected word stambērama, then suṁḍāla (meaning śuṇḍāla), and then something like nāguhaṭō.</note><hi rend="check">nāga-</hi>ह<hi rend="check">gē</hi>-मत्त-मातांग-नागश्च <hi rend="check">mapaṁ
-<lb n="1v14" break="no"/></hi><hi rend="check">dānagapa</hi>-गज एकंदंतो <note> Corr. <hi rend="check">ēkadantō</hi> ?</note> द्विदंतश्च क<hi rend="check">jā</hi>ले<note>or kukṣāle? kakṣāle? I don't know yet which word is intended.</note>-<hi rend="check">vasa</hi><hi rend="check">bhamrabhī</hi><note>samasamī? not yet sure...</note> ॥
-<lb n="1v15"/>=अष्टसिद्धि-नामा • अणिमा महिमा चैव गरिमा लघिमान्तथा
-<lb n="1v16"/>प्राप्ति-प्राकाम्पमी-शत्वं-वसित्वं चाष्टसिद्वयः ॥ निधि-नाम ॥ म 
-<lb n="1v17" break="no"/>हापद्मश्च पद्मश्च शंख-मकर-कछपौ मुकंद-मकरश्चैव खर्वकुंद 
-<lb n="1v18" break="no"/>श्च नीलकः ॥ मनोरथ-नाम ॥ कामो भिलाष-<hi rend="check">tarṣū</hi>श्च <hi rend="check">vaṣama</hi>
-<lb n="1v19" break="no"/><hi rend="check">sa</hi>च मनोरथ ॥ मोक्ष-नाम ॥ मुक्ति-अमृत-कैवाल्यं
+	<lb n="1v1"/>śukra-śubhra-suci-svēta-viśadaś cēti pāṁḍura<note>
+	AG I am not sure what the meaning of the dot to the right if this word is, but I don't think it's anusvāra. Maybe a low-level punctuation mark, like our comma? Let's see if we get other cases.
+	ZPA I think that it is used for ṇa, we have other examples such as puṁḍarīka, śikhaṁḍī, śrīṣaṁḍa.
+	AG I meant the dot to the right of ra. the use of anusvāra as multipurpose nasal is completely standard in Indian mss. it is one of the main differences between use of anusvāra/cecak in Indonesia (where at least after the 7th c. it only serves as equivalent to ṅ) and the use of anusvāra in India.
+	ZPA Ah, interesting. Another new information! Thank you! Concerning the dot just in the right, could it be ḥ ?</note>-dhavalāsitā<lb n="1v2" break="no"/>rjunaś caiva hyavadātaśca kāṁtikr̥t .. sōbhā-nāma .. bhābhā-sā
+	<lb n="1v3" break="no"/>bhā-prabhāścēva suṣamā-paramāchavi-dyuti-kāṁti tathaivēti
+	<lb n="1v4"/>? ṣa-<!--@andrew.ollett@gmail.com how would you read the first aksara?_Assigned to Andrew Ollett_ answer: I have no idea.-->saubhāgyadāpinī .. kīrtti-nāma .. aṁsuga-bhakti
+	<lb n="1v5" break="no"/>gaścaiva marīcistu mayūṣa <note> Corr. mayūkha</note>-kara-rasmi <note> Corr. raśmi</note>-jyōti-vasuścaiva kī
+	<lb n="1v6" break="no"/>rttiśvaiva tathāpara .. <note>It seems that we now get synonyms of peacock, but the heading has been omitted.</note> barhiśikhī ca nīlakaṁṭhī ca vyāla
+	<lb n="1v7" break="no"/>bhuk śiva<hi rend="check">sunū</hi>vāhanaścaiva<note>śivasūnuvāhana makes sense but it seems to be hypermetrical</note> kalāpī ca mayūrakaḥ ..  siṁha-nāma (..) 
+	<lb n="1v8"/>kēhari <note> Corr. keśari</note>-hari-dvīpī ca vyāghra-paṁcānatastathā kaṁṭīrada <note> Corr. kaṁṭīrava</note>-mr̥gapati
+	<lb n="1v9" break="no"/>puṁḍarīkaśca jakṣapō <note> Corr. yakṣapō. Cf. Revākhaṇḍa of the Skandapurāṇa 78.9–10: caturtho lokapālānām akṣayo yakṣapo 'pi vā | yakṣo yakṣādhipaḥ śreṣṭhaḥ kuṇḍadhāro 'bhavat sutaḥ | susvaṁrūpavayaḥ prāpya mātāpitror anujñayā || tapaś cakāra vipulaṁ narmadātīram āśritaḥ | yatra vyāghreśvaraṁ liṅgaṁ vyāghrakheṭakam uttamam ||.</note> mr̥garājastu-siṁhaśca .. durā<note>this cannot be correct, but I don't see the solution yet.</note><note>@andrew.ollett@gmail.com can you help?</note><note>I am also having a hard time with this. Maybe dvaradaghna = dviradaghna?</note>da <note> <hi rend="check">Corr. dvirada</hi> ?</note>-ghnaśca kēśarī ..
+	<lb n="1v10"/>aśva-nāma || haya-saiṁdhava-vājī ca turagaśca turaṁgama <hi rend="check">vā</hi><hi rend="check">ka</hi><note>not sure, but possibly hya is written or at least intended here</note>
+	<lb n="1v11" break="no"/>śva-ghōṭakaścaiva <hi rend="check">pū</hi>pā<note>it looks like śpā, error for śvā? still, I don't see śvākarṇa as synonym of 'horse' anywhere.</note><note>or, maybe śyā ? But I don't know yet that the cluster -'va' and -'ya' are interchangeable also in Sanskrit mss. as they are in Javanese script.. If so, then we have to accept śvākarṇa as synonym for 'horse'</note>karṇāśca <hi rend="check">ya</hi>dāvuka<note>heḍāvuka ?</note><note>I see yajñapuk, yajñavuk or yajñadhuk. The latter could mean 'milking the sacrifice'. I don't know any synonym of 'horse' like this.</note> .. hastī-nāma ||
+	<lb n="1v12"/>daṁtī-dvarada <note> Corr. dvirada</note>- dvīpaśca padmī-kuṁjara-kuṁbhīkāḥ<note>I think this is indeed what the manuscript has. since kumbhīka has a different meaning than 'elephant', an emendation is probably required.</note> karībhaḥ <note> Corr. karībha-</note> vāra
+	<lb n="1v13" break="no"/>na <note> Corr. vāraṇa</note>-vyālaḥ <hi rend="check">staṁvaṁsuṁgr̥la</hi> <note> Corr. <hi rend="check">stamberama-suṁḍāla-nāguhāṭō</hi> ?</note>-<note>here we seem to have a part of the expected word stamberama, then suṁḍāla (meaning śuṇḍāla), and then something like nāguhaṭō.</note><hi rend="check">nāga-</hi>ha<hi rend="check">ge</hi>-matta-mātāṁga-nāgaśca <hi rend="check">mapaṁ
+		<lb n="1v14" break="no"/></hi><hi rend="check">dānagapa</hi>-gaja ēkaṁdaṁtō <note> Corr. <hi rend="check">ekadantō</hi> ?</note> dvidaṁtaśca ka<hi rend="check">jā</hi>lē<note>or kukṣāle? kakṣāle? I don't know yet which word is intended.</note>-<hi rend="check">vasa</hi><hi rend="check">bhamrabhī</hi><note>samasamī? not yet sure...</note> ..
+	<lb n="1v15"/>=aṣṭasiddhi-nāmā • aṇimā mahimā caiva garimā laghimāntathā
+	<lb n="1v16"/>prāpti-prākāmpamī-śatvaṁ-vasitvaṁ cāṣṭasidvayaḥ .. nidhi-nāma .. ma 
+	<lb n="1v17" break="no"/>hāpadmaśca padmaśca śaṁkha-makara-kachapau mukaṁda-makaraścaiva kharvakuṁda 
+	<lb n="1v18" break="no"/>śca nīlakaḥ .. manōratha-nāma .. kāmō bhilāṣa-<hi rend="check">tarṣū</hi>śca <hi rend="check">vaṣama</hi>
+	<lb n="1v19" break="no"/><hi rend="check">sa</hi>ca manōratha .. mōkṣa-nāma .. mukti-amr̥ta-kaivālyaṁ
 <pb n="2r"/>
 <lb n="2r1"/>निर्वाणं ह्यपवर्गकं महासिद्धिपद-स्वर्ग-मुक्ति-श्रेयस
 <lb n="2r2" break="no"/>स्तथा ॥ राजा-नाम ॥ स्वामी भूपति-भूपश्च अधिपतिश्च परि
@@ -173,14 +189,14 @@
 <lb n="2v1"/><hi rend="check">utītā-nāma  uśanajutaṁ nōśadhānaṁ kuṁḍuṁ sudhīrakaṁ ? ? ?</hi><note>@andrew.ollett@gmail.com any suggestions?_Assigned to Andrew Ollett_</note>
 <lb n="2v2"/>मुख-नाम ॥ आननं वदनं आस्यं लभनं <note> Corr. lapanaṁ ?</note><note>@andrew.ollett@gmail.com I cannot read labhanaṁ here. There seems to be a vertical bar at the start. How can we interpret it? Read khamanaṁ?_Assigned to Andrew Ollett_</note> वक्त्रकं मुखं<note>Pañcatattvaprakāśaānanaṃ vadanaṃ vaktraṃ mukham āsyaṃ radālayam |kākapakṣaṃ śikhā veṇir veṇī kuntalaśṛṅkhalā || 80 ||</note> भृ
 <lb n="2v3" break="no"/>कुटी <hi rend="check">pratimuṁkhaṁmu</hi><note>I have no serious idea. Just for the sake of offering something else chavimuṁḍaṁrpamu At least chavimuṁḍaṁ may be plausible</note><hi rend="check">kakharaṁchavi </hi>संपुनं ॥ केश-नाम ॥ शिरोरु
-<lb n="2v4" break="no"/>ह कचः केशः अलकः कुंतलस्तथा चि<hi rend="check">ku</hi>रे<note>looks more like kipurē or cipurē to me</note> <hi rend="check">śīkha</hi>रेवाली<note>unsure, especially the consonant after śō that has u below it.śō utē vālō</note> <hi rend="check">śa</hi>
+<lb n="2v4" break="no"/>ह कचः केशः अलकः कुंतलस्तथा चि<hi rend="check">ku</hi>रे<note>looks more like kipure or cipure to me</note> <hi rend="check">śīkha</hi>रेवाली<note>unsure, especially the consonant after śō that has u below it.śō ute vālō</note> <hi rend="check">śa</hi>
 <lb n="2v5" break="no"/><hi rend="check">ma</hi>जं च <hi rend="check">viśālakaḥ</hi><note>the reading seems correct to me, though the meaning doesn't seem to fit.</note> ॥ मस्तक-नाम ॥ ललाटंमस्तकं चैव अ(नी)
 <lb n="2v6" break="no"/>कं च शिरस्तथा ॥ वाम-नाम ॥ <hi rend="check">vāmāsitakuṁcitaṁ</hi> चैव <hi rend="check">kuṭilaṁ
 <lb n="2v7" break="no"/></hi><hi rend="check">bhr̥ku</hi>टीस्तथा ॥ लोचन-नाम ॥ लोचनं अंबकं<note>I think we have va instead of ba and I cannot read a plain kaṁ.</note> नेत्रं नयनं
 <lb n="2v8"/>च<hi rend="check">kṣuṣa</hi>स्तथा <hi rend="check">X</hi><note>still unclear about the symbol just before word karṇa-nāma</note><note>number 62 or 63?</note> कर्ण-नाम ॥ श्रवण-श्रुति-श्रवं-शव्द 
 <lb n="2v9"/>कर्णं <subst><del>śa</del><add place="above">sa</add></subst>व्दग्राहकं ॥ हस्त-नाम ॥ हस्त-पानी करं चैव प्र<hi rend="check">laṁba
-<lb n="2v10" break="no"/></hi>सय…कः<note>looks like namanākukaḥ but I am not yet getting what words are intended</note><note>@andrew.ollett@gmail.com any idea?</note> ॥ वनसी<note>@andrew.ollett@gmail.com what is this? could it be a vernacular-style spelling for what is vaṁśī in formal spelling of Hindi?but what follow don't seem to be synonyms of 'flute'._Assigned to Andrew Ollett_</note>-नाम ॥ वरी चैव कवेनी <note>kuvēnī ?</note><hi rend="check">hyāta</hi><note>syāta ?</note><hi rend="check">mīna
-<lb n="2v11" break="no"/>हा-म</hi><hi rend="check">tsya</hi><hi rend="check">dhanika</hi><note>dhatimā ?dhanimā ?</note><hi rend="check"> vēstī vanasī </hi>चैव कंठप्राणावरोधकः
+<lb n="2v10" break="no"/></hi>सय…कः<note>looks like namanākukaḥ but I am not yet getting what words are intended</note><note>@andrew.ollett@gmail.com any idea?</note> ॥ वनसी<note>@andrew.ollett@gmail.com what is this? could it be a vernacular-style spelling for what is vaṁśī in formal spelling of Hindi?but what follow don't seem to be synonyms of 'flute'._Assigned to Andrew Ollett_</note>-नाम ॥ वरी चैव कवेनी <note>kuvenī ?</note><hi rend="check">hyāta</hi><note>syāta ?</note><hi rend="check">mīna
+<lb n="2v11" break="no"/>हा-म</hi><hi rend="check">tsya</hi><hi rend="check">dhanika</hi><note>dhatimā ?dhanimā ?</note><hi rend="check"> vestī vanasī </hi>चैव कंठप्राणावरोधकः
 <lb n="2v12"/>अधर-नाम ॥ ओष्ठ<note>what is th ething below this? is it actually ṣṭhya ? but for the meaning, we don't want y.</note>श्चैव रदश्चैव अधरश्च रद-छवि…<note>damitaṁ ?damiṁta ?umitaṁ ?</note>
 <lb n="2v13" break="no"/>मकतश्चैव तथा <hi rend="check">biṁbāsaṁ</hi><note>vināsa ?viṁvāsa ?</note>णछवि ॥ दंत-नाम ॥ रदनश्च रद
 <lb n="2v14" break="no"/>श्चैव द्विज-दंत-<hi rend="check">hamimu</hi><hi rend="check">kha</hi><note>or mukha. I still don't understand what synonym for 'teeth' we have here.</note> ॥ ढोरी<note>I don't know this term</note><note>Me neither</note>-नाम ॥ चिबुकं चा<hi rend="check">ha</hi>चाचं च
@@ -190,7 +206,7 @@
 <lb n="2v18"/>मवली अगलितं ततिरी<note>rō ?</note>मयं रोमयं रोमकं रम्यं ऊंचितं
 <pb n="3r"/><note>Arlo to continue here</note>
 <lb n="3r1"/>च तनूरुहं ॥ <hi rend="check">chuḍa</hi><note>should be error for cuḍā?</note><note>the meaning doesn't fit. we must have chudraghaṁṭikā. seeAK.02.06.110ab haṃsakaḥ pādakaṭakaḥ kiṃkiṇī kṣudraghaṇṭikāconfusion of ch/kṣ is very common in Devanagari mss.</note>  घंटिका-नाम<note>AM CK:253Synonyms of Woman’s Girdlemekhalā, saptakī, kāñcī, kakṣyā, raśanā, ṅa kəṇḍit.</note> ॥ किंकिनी <note> Corr. kiṁkiṇī</note>-रसना कांची
-<lb n="3r2"/>मेषला <note> Corr. mēkhalā</note>-<hi rend="check">jāla</hi>कं  तथा <hi rend="check">chudrā valimanumāna dyurdyurī vaṁra
+<lb n="3r2"/>मेषला <note> Corr. mekhalā</note>-<hi rend="check">jāla</hi>कं  तथा <hi rend="check">chudrā valimanumāna dyurdyurī vaṁra
     <lb n="3r3" break="no"/><hi rend="check">mālikā || </hi>सरकस<note>AM CK:50Synonyms of Quivertūṇo niṣaṅgas tūṇīraḥ, upāsaṅgaś ca bāṇadhiḥ,śaradhiś cāpi tūṇistrī, iṣudhir astriyāṁ bhavet.</note> <note> Corr. <hi rend="check">śarakasa</hi> ?</note>-नाम ॥ उपासंगश्च तूनीर <note> Corr. tūṇīra</note> इषुधी
 <lb n="3r4"/>धनु<hi rend="check">ṣaṁgani</hi> ॥ नूपुर-नाम</hi><note>AM CK:130Synonyms of Braceletmañjīra, pādakaṭaka, tulākoṭi, nūpura, ṅa gəlaṅ.</note> ॥ तुलाकोटिश्च मंजिर-नूपु
 <lb n="3r5" break="no"/>र-<hi rend="check">ka</hi>नकस्तथा मंजिका <hi rend="check">kuṁkuṇaputā maṇisaṁjirakaśca</hi>
@@ -258,7 +274,7 @@
 <lb n="4v5"/>ऋषि-भिक्षुक-तापस्वी ।। ज्ञानदीप्ति-मलापहुत्
 <lb n="4v6"/>धर्म्म-नमा ॥ वैबस्वत-पितृपति तथा संजमनी पति
 <lb n="4v7"/>कृतांन्रोयमुनाभ्रा <hi rend="check">tāmahiṣadhvaja</hi> चांनक गुह्यक 
-<lb n="4v8"/>अंबकसखावैश्च वणश्च जनेश्वर ॥ शेष<note>The synonyms are for Viṣṇu. The term śēṣa as heading seems out of inappropriate.</note>-नाम ॥
+<lb n="4v8"/>अंबकसखावैश्च वणश्च जनेश्वर ॥ शेष<note>The synonyms are for Viṣṇu. The term śeṣa as heading seems out of inappropriate.</note>-नाम ॥
 <lb n="4v9"/>शेर्षेनं नोसर्प्पपति सहस्र फणिनस्तथा घरणी 
 <lb n="4v10" break="no"/>घर-महाहीश-वि<hi rend="check">ṣṇō</hi> वै<hi rend="check">X</hi>&gt;वरूप ह्यक ॥ गणेश-नाम 
 <lb n="4v11"/>॥ लंबोदाश्च हेरंबो घैमातुर-गणाधिप-मूषवाहन
@@ -294,17 +310,17 @@
 <lb n="5v2"/>पारावारणारश्च <hi rend="check">sāgaraḥ</hi> ॥ वनर-नाम ॥ शाखामृग-कपिश्चैव
 <lb n="5v3"/>प्लवगश्च प्लवंगमं लांगूल-वानरश्चैव कीश-किटकिटा
 <lb n="5v4" break="no"/>कृति ॥ संकर्षण-नाम ॥ बलभद्र-रौहिनेयं रामं संकर्ष 
-<lb n="5v5" break="no"/>णं वलं नीलांबरो हलधर-मुसलेयं रेवातीपति <note> Corr. rēvatīpatiḥ</note> ॥ पृथ्वी
+<lb n="5v5" break="no"/>णं वलं नीलांबरो हलधर-मुसलेयं रेवातीपति <note> Corr. revatīpatiḥ</note> ॥ पृथ्वी
 <lb n="5v6"/>नाम ॥ क्षितीला-पृथिवी चैव धरणी धत्री तथैव च ॥ 
 <lb n="5v7"/>ऊर्वी <note> Corr. urvī</note> वसुमती धरा काश्यपी मेदिनीति च ॥ सर <note> Corr. śara</note>-नाम ॥
     <lb n="5v8"/>खगजिह्मग <note> Corr. khagājihmaga</note>-बाणे च विशिषं <note> Corr. viśikhaṁ</note> च शीलीमुखं <hi rend="check">karnanārganaX</hi>
-<lb n="5v9"/>एच <note> Corr. ēva</note> इषु-शायककं <note> Corr. sāyakaṁ</note> शरं ॥ अग्नि-नाम ॥ पावकं बह्नि-<hi rend="check">damunaṁ</hi> <note> <hi rend="check">Corr. damunasaḥ(?)</hi></note>
-<lb n="5v10"/>ज्वलनं च धनंजयं ऊषर्बुधं <note> Corr. uṣarbudhaṁ</note> वायुसखावीति होत्रं चतावेद <note> Corr. jātavēda</note>
+<lb n="5v9"/>एच <note> Corr. eva</note> इषु-शायककं <note> Corr. sāyakaṁ</note> शरं ॥ अग्नि-नाम ॥ पावकं बह्नि-<hi rend="check">damunaṁ</hi> <note> <hi rend="check">Corr. damunasaḥ(?)</hi></note>
+<lb n="5v10"/>ज्वलनं च धनंजयं ऊषर्बुधं <note> Corr. uṣarbudhaṁ</note> वायुसखावीति होत्रं चतावेद <note> Corr. jātaveda</note>
 <lb n="5v11"/>चित्रभानु-हरिभनु अनलं च ऊताशनं <note> Corr. hutāśanaṁ</note> कृशानु ह्यग्नि<hi rend="check">ṇaṁ
 <lb n="5v12"/></hi>च पावकं पवनानकं ॥ सूढ-नाम ॥ मुग्ध-मूढ-जडो मंद
-<lb n="5v13"/>अज्ञो क<hi rend="check">ḍakabhāṣaṇa</hi>-मूर्खो भिमानयुकश्च । कलही <hi rend="check">śrēśa
+<lb n="5v13"/>अज्ञो क<hi rend="check">ḍakabhāṣaṇa</hi>-मूर्खो भिमानयुकश्च । कलही <hi rend="check">śreśa
 <lb n="5v14"/></hi><hi rend="check">natyaraḥ</hi> ॥ &gt;भिज्ञ<note>unfamiliar</note>-नाम ॥ कोविदो कुशलो धीरः प्रवीनं <note> Corr. pravīṇaṁ</note> पटु<hi rend="check">ka</hi>
-    <lb n="5v15"/>कृती ॥ अपराध-नाम ॥ अधांश-हेलनाहित्यं <hi rend="check">āvāryē
+    <lb n="5v15"/>कृती ॥ अपराध-नाम ॥ अधांश-हेलनाहित्यं <hi rend="check">āvārye
 <lb n="5v16"/></hi><hi rend="check">puruāni</hi>कत्‌ ॥ स्नेह-नाम ॥ आर्दं<note>Corr. hārdaṁ</note>स्नेहं च गलितं ललितं
 <lb n="5v17"/>प्रिय<hi rend="check">nāka-śu</hi>चि अनुरागो नुरगश्च प्रिय-प्रिताकरस्तथ 
 <lb n="5v18"/>॥ पर्वत-नाम ॥ अग-नगं भूभृतं चैव भूधरं गिरि-पर्वतं
@@ -328,12 +344,12 @@
 <lb n="6r16" break="no"/>नकाश्चैव भवानी ह्युंबिका तथा आर्य्या <hi rend="check">XX</hi>वी गौरी शर्व
 <lb n="6r17" break="no"/>णी सर्वतां चंडि हैमवती चैव कालिका मुंद्रता शिव ॥
 <lb n="6r18"/>कृपा-नाम ॥ कृपा दया सुकं <note> Corr. śūkaṁ</note> <hi rend="check">pāsyāda</hi>नुक्रोश-दया<hi rend="check">tidhi (..)
-<lb n="6r19"/></hi>खड्ग-नाम ॥ असि-कुशेय <note> Corr. kaukṣēya</note>-रिष्टिश्च खड्गं च मंडलाग्र<hi rend="check">X</hi>
+<lb n="6r19"/></hi>खड्ग-नाम ॥ असि-कुशेय <note> Corr. kaukṣeya</note>-रिष्टिश्च खड्गं च मंडलाग्र<hi rend="check">X</hi>
 
 <pb n="6v"/>
 <fw n="6v" place="top-left"><num value="6">6</num></fw>
 <lb n="6v1"/> …
-<lb n="6v2"/> … ॥ नीच-नाम ॥ नीच-निर्गत<hi rend="check">tē</hi> चैव
+<lb n="6v2"/> … ॥ नीच-नाम ॥ नीच-निर्गत<hi rend="check">te</hi> चैव
 <lb n="6v3"/>कुब्ज अंधक तथा ॥ आकाश-नाम ॥ अंबरं पुष्करं व्योमं न
 <lb n="6v4" break="no"/>...संतरिक्षं सुरवर्त्म विहायसं गगना
 <lb n="6v5" break="no"/>काशकश्चैव ऊडुगणगृहं <note> Corr. uḍugaṇagr̥haṁ</note> तथा ॥ संग्राम-नाम ॥ आयोधनं
@@ -419,25 +435,25 @@
 <lb n="8v14"/>गुंजा-मुखर-स्वमता ॥ केतकी-नाम ॥ तृनद्रुमा <note> Corr. tr̥ṇadrumā</note> के
 <lb n="8v15" break="no"/>तकी च तालखर्जूरका तथा ॥ लवंग-नाम ॥ 
 <lb n="8v16"/>श्रीसंगं <note> Corr. śrīsañjñaṁ</note> देवकुसुमं लवंगे ललितं लता ॥ 
-<lb n="8v17"/>इलाची-नाम ॥ एला-कुलं वालुका <hi rend="check">bē</hi>लि
+<lb n="8v17"/>इलाची-नाम ॥ एला-कुलं वालुका <hi rend="check">be</hi>लि
 <pb n="9r"/>
-<lb n="9r1"/>त्रिकुटी चंद्रकं न्यका ॥ माधवी-नाम ॥ अत्युक्त 
-<lb n="9r2" break="no"/>वातिमुक्तश्च पौंडुक वासंतिकं तथा ॥ नागलता
-<lb n="9r3"/>नाम ॥ तांबूल अहिवल्ली च दि<hi rend="check">na</hi>जा नागवल्लि 
-<lb n="9r4" break="no"/>का ॥ वट-नामा। जटी <hi rend="check">vē</hi>टी रक्तफला निग्रोधं<hi rend="check">baka</hi> 
-<lb n="9r5"/><hi rend="check">pādapu</hi>त्‌ ॥ सरोवर-नाम। ह्रद-पुष्कर-कासार 
-<lb n="9r6"/>सारसं सरसी <hi rend="check">drahaṁ</hi> तडाग-कुम्भीका कुंडं ताल<hi rend="check">pānī</hi> 
-<lb n="9r7"/>प्रपूरकं ॥ कालींद्री <note> Corr. kāliṁdī</note>-नाम ॥ यमोनुजा च कालिंदी 
-<lb n="9r8"/>रविजाकुल ह्यौरसी ॥  तट-नामा ॥ उपकंठं पुलि 
-<lb n="9r9" break="no"/>नं कलं निकटो तटकं तथा ॥ वेतस-नाम ॥ वेत 
-<lb n="9r10" break="no"/>शं सीत-विकुलं <note> Corr. vidulaṁ</note> मंजुलं वंजुलं तथा ॥ कोकिल-नाम ॥ 
-<lb n="9r11"/>कलरवं परभृतं चैव रक्तदृग्‌ पिक-<hi rend="check">dhuni</hi> तथा ॥ 
-<lb n="9r12"/>ना<del rend="strikeout">ra</del>द-नाम ॥ निश्वनं <note> Corr. nisvānaṁ</note> निनदं नादं मुखरं ध्वनि-राव 
-<lb n="9r13" break="no"/>कं ॥ जुगुल-नाम ॥ जमालं युगलं द्वंद्वं मिथुनं
-<lb n="9r14"/>द्वै उभेनिच ॥ <hi rend="check">itiścī</hi> अमराचार्य्येण कृतं
-<lb n="9r15"/>अमरमाला संपूर्णम्‌ सं १८२७ काला<hi rend="check">XX
-<lb n="9r16" break="no"/></hi><hi rend="check">kā8caṁra</hi> ई स १८७१ <hi rend="check">pharanaṭī</hi> २१ अज्ञे<hi rend="check">rama</hi>ध्ये पंडि 
-<lb n="9r17" break="no"/>तवाल<hi rend="check">bhukaṁ dēnasvanibhicāṁlipiX</hi>तं ॥
+	<lb n="9r1"/>trikuṭī caṁdrakaṁ nyakā .. mādhavī-nāma .. atyukta 
+	<lb n="9r2" break="no"/>vātimuktaśca pauṁḍuka vāsaṁtikaṁ tathā .. nāgalatā
+	<lb n="9r3"/>nāma .. tāṁbūla ahivallī ca di<hi rend="check">na</hi>jā nāgavalli 
+	<lb n="9r4" break="no"/>kā .. vaṭa-nāmā. jaṭī <hi rend="check">ve</hi>ṭī raktaphalā nigrōdhaṁ<hi rend="check">baka</hi> 
+	<lb n="9r5"/><hi rend="check">pādapu</hi>t .. sarōvara-nāma. hrada-puṣkara-kāsāra 
+	<lb n="9r6"/>sārasaṁ sarasī <hi rend="check">drahaṁ</hi> taḍāga-kumbhīkā kuṁḍaṁ tāla<hi rend="check">pānī</hi> 
+	<lb n="9r7"/>prapūrakaṁ .. kālīṁdrī <note> Corr. kāliṁdī</note>-nāma .. yamōnujā ca kāliṁdī 
+	<lb n="9r8"/>ravijākula hyaurasī ..  taṭa-nāmā .. upakaṁṭhaṁ puli 
+	<lb n="9r9" break="no"/>naṁ kalaṁ nikaṭō taṭakaṁ tathā .. vētasa-nāma .. vēta 
+	<lb n="9r10" break="no"/>śaṁ sīta-vikulaṁ <note> Corr. vidulaṁ</note> maṁjulaṁ vaṁjulaṁ tathā .. kōkila-nāma .. 
+	<lb n="9r11"/>kalaravaṁ parabhr̥taṁ caiva raktadr̥g pika-<hi rend="check">dhuni</hi> tathā .. 
+	<lb n="9r12"/>nā<del rend="strikeout">ra</del>da-nāma .. niśvanaṁ <note> Corr. nisvānaṁ</note> ninadaṁ nādaṁ mukharaṁ dhvani-rāva 
+	<lb n="9r13" break="no"/>kaṁ .. jugula-nāma .. jamālaṁ yugalaṁ dvaṁdvaṁ mithunaṁ
+	<lb n="9r14"/>dvai ubhēnica .. <hi rend="check">itiścī</hi> amarācāryyēṇa kr̥taṁ
+	<lb n="9r15"/>amaramālā saṁpūrṇam saṁ 1827 kālā<hi rend="check">XX
+		<lb n="9r16" break="no"/></hi><hi rend="check">kā8caṁra</hi> ī sa 1871 <hi rend="check">pharanaṭī</hi> 21 ajñē<hi rend="check">rama</hi>dhyē paṁḍi 
+	<lb n="9r17" break="no"/>tavāla<hi rend="check">bhukaṁ denasvanibhicāṁlipiX</hi>taṁ ..
 </ab>
 </div>
 </div>
