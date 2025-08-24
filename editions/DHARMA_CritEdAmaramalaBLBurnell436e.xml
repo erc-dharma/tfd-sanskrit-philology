@@ -128,6 +128,7 @@
 	<l n="b">śīghram<!-- actually śīghraṁ  --> <app><lem>āśu</lem><rdg wit="#msBL">āsu</rdg></app> taraś ca saṁ</l> 
 	<l n="cd">javara bhasa<hi rend="check">mbhōlavatsvājīyerātyā<lb n="1r12" break="no"/>ntara ||</hi></l>
 </lg>
+<!-- somewhat serious editing by Arlo down to here -->
 <lg met="anuṣṭubh" n="6">
     	<l n="ab"><label type="headword">dhāma-nāma ||</label> <hi rend="check">sadana-sadma-nāgāra-geha-vesmaścaṁ maṁdira</hi> |</l>
 	<l n="cd"><hi rend="check">ālaya<lb n="1r13" break="no"/>-gr̥ha-saṁketa-niketa-nilayāyatan ||</hi></l>
@@ -144,33 +145,68 @@
 	<l n="ab">jātarūpaśca kanaka-rukma<hi rend="check">staha</hi>-mahārajata ..</l>
     	<l n="cd"><lb n="1r17"/><label type="headword">rūpā-māma ||</label> raukmaṁ rajata-dūrbānajātarūpaśca kharjura .</l>
 </lg>
-
-</div>
-<div type="group"><ab>
-	<label type="headword">ujjvala-nāma ||</label>
-<pb edRef="#msBL" n="1v"/><fw n="1v" place="top-left"><num value="1">1</num></fw>
-	<lb n="1v1"/>śukra-śubhra-suci-svēta-viśadaś cēti pāṁḍura<note>
-	AG I am not sure what the meaning of the dot to the right if this word is, but I don't think it's anusvāra. Maybe a low-level punctuation mark, like our comma? Let's see if we get other cases.
+	<lg met="anuṣṭubh" n="...">
+		<l n="ab"><pb edRef="#msBL" n="1v"/><fw n="1v" place="top-left"><num value="1">1</num></fw>
+		<lb n="1v1"/><label type="headword">ujjvala-nāma ||</label>śukra-śubhra-suci-svēta-viśadaś cēti pāṁḍura</l><!--	AG I am not sure what the meaning of the dot to the right if this word is, but I don't think it's anusvāra. Maybe a low-level punctuation mark, like our comma? Let's see if we get other cases.
 	ZPA I think that it is used for ṇa, we have other examples such as puṁḍarīka, śikhaṁḍī, śrīṣaṁḍa.
 	AG I meant the dot to the right of ra. the use of anusvāra as multipurpose nasal is completely standard in Indian mss. it is one of the main differences between use of anusvāra/cecak in Indonesia (where at least after the 7th c. it only serves as equivalent to ṅ) and the use of anusvāra in India.
-	ZPA Ah, interesting. Another new information! Thank you! Concerning the dot just in the right, could it be ḥ ?</note>-dhavalāsitā<lb n="1v2" break="no"/>rjunaś caiva hyavadātaśca kāṁtikr̥t .. sōbhā-nāma .. bhābhā-sā
-	<lb n="1v3" break="no"/>bhā-prabhāścēva suṣamā-paramāchavi-dyuti-kāṁti tathaivēti
-	<lb n="1v4"/>? ṣa-<!--@andrew.ollett@gmail.com how would you read the first aksara?_Assigned to Andrew Ollett_ answer: I have no idea.-->saubhāgyadāpinī .. kīrtti-nāma .. aṁsuga-bhakti
-	<lb n="1v5" break="no"/>gaścaiva marīcistu mayūṣa <note> Corr. mayūkha</note>-kara-rasmi <note> Corr. raśmi</note>-jyōti-vasuścaiva kī
-	<lb n="1v6" break="no"/>rttiśvaiva tathāpara .. <note>It seems that we now get synonyms of peacock, but the heading has been omitted.</note> barhiśikhī ca nīlakaṁṭhī ca vyāla
-	<lb n="1v7" break="no"/>bhuk śiva<hi rend="check">sunū</hi>vāhanaścaiva<note>śivasūnuvāhana makes sense but it seems to be hypermetrical</note> kalāpī ca mayūrakaḥ ..  siṁha-nāma (..) 
-	<lb n="1v8"/>kēhari <note> Corr. keśari</note>-hari-dvīpī ca vyāghra-paṁcānatastathā kaṁṭīrada <note> Corr. kaṁṭīrava</note>-mr̥gapati
-	<lb n="1v9" break="no"/>puṁḍarīkaśca jakṣapō <note> Corr. yakṣapō. Cf. Revākhaṇḍa of the Skandapurāṇa 78.9–10: caturtho lokapālānām akṣayo yakṣapo 'pi vā | yakṣo yakṣādhipaḥ śreṣṭhaḥ kuṇḍadhāro 'bhavat sutaḥ | susvaṁrūpavayaḥ prāpya mātāpitror anujñayā || tapaś cakāra vipulaṁ narmadātīram āśritaḥ | yatra vyāghreśvaraṁ liṅgaṁ vyāghrakheṭakam uttamam ||.</note> mr̥garājastu-siṁhaśca .. durā<note>this cannot be correct, but I don't see the solution yet.</note><note>@andrew.ollett@gmail.com can you help?</note><note>I am also having a hard time with this. Maybe dvaradaghna = dviradaghna?</note>da <note> <hi rend="check">Corr. dvirada</hi> ?</note>-ghnaśca kēśarī ..
-	<lb n="1v10"/>aśva-nāma || haya-saiṁdhava-vājī ca turagaśca turaṁgama <hi rend="check">vā</hi><hi rend="check">ka</hi><note>not sure, but possibly hya is written or at least intended here</note>
-	<lb n="1v11" break="no"/>śva-ghōṭakaścaiva <hi rend="check">pū</hi>pā<note>it looks like śpā, error for śvā? still, I don't see śvākarṇa as synonym of 'horse' anywhere.</note><note>or, maybe śyā ? But I don't know yet that the cluster -'va' and -'ya' are interchangeable also in Sanskrit mss. as they are in Javanese script.. If so, then we have to accept śvākarṇa as synonym for 'horse'</note>karṇāśca <hi rend="check">ya</hi>dāvuka<note>heḍāvuka ?</note><note>I see yajñapuk, yajñavuk or yajñadhuk. The latter could mean 'milking the sacrifice'. I don't know any synonym of 'horse' like this.</note> .. hastī-nāma ||
-	<lb n="1v12"/>daṁtī-dvarada <note> Corr. dvirada</note>- dvīpaśca padmī-kuṁjara-kuṁbhīkāḥ<note>I think this is indeed what the manuscript has. since kumbhīka has a different meaning than 'elephant', an emendation is probably required.</note> karībhaḥ <note> Corr. karībha-</note> vāra
-	<lb n="1v13" break="no"/>na <note> Corr. vāraṇa</note>-vyālaḥ <hi rend="check">staṁvaṁsuṁgr̥la</hi> <note> Corr. <hi rend="check">stamberama-suṁḍāla-nāguhāṭō</hi> ?</note>-<note>here we seem to have a part of the expected word stamberama, then suṁḍāla (meaning śuṇḍāla), and then something like nāguhaṭō.</note><hi rend="check">nāga-</hi>ha<hi rend="check">ge</hi>-matta-mātāṁga-nāgaśca <hi rend="check">mapaṁ
-		<lb n="1v14" break="no"/></hi><hi rend="check">dānagapa</hi>-gaja ēkaṁdaṁtō <note> Corr. <hi rend="check">ekadantō</hi> ?</note> dvidaṁtaśca ka<hi rend="check">jā</hi>lē<note>or kukṣāle? kakṣāle? I don't know yet which word is intended.</note>-<hi rend="check">vasa</hi><hi rend="check">bhamrabhī</hi><note>samasamī? not yet sure...</note> ..
-	<lb n="1v15"/>=aṣṭasiddhi-nāmā • aṇimā mahimā caiva garimā laghimāntathā
-	<lb n="1v16"/>prāpti-prākāmpamī-śatvaṁ-vasitvaṁ cāṣṭasidvayaḥ .. nidhi-nāma .. ma 
-	<lb n="1v17" break="no"/>hāpadmaśca padmaśca śaṁkha-makara-kachapau mukaṁda-makaraścaiva kharvakuṁda 
-	<lb n="1v18" break="no"/>śca nīlakaḥ .. manōratha-nāma .. kāmō bhilāṣa-<hi rend="check">tarṣū</hi>śca <hi rend="check">vaṣama</hi>
-	<lb n="1v19" break="no"/><hi rend="check">sa</hi>ca manōratha .. mōkṣa-nāma .. mukti-amr̥ta-kaivālyaṁ
+	ZPA Ah, interesting. Another new information! Thank you! Concerning the dot just in the right, could it be ḥ ?-->
+<l n="cd">-dhavalāsitā<lb n="1v2" break="no"/>rjunaś caiva hyavadātaśca kāṁtikr̥t ||</l>
+	</lg>
+	<lg met="anuṣṭubh" n="...">
+		<l n="ab"><label type="headword">sōbhā-nāma ||</label> 
+		bhābhā-sā<lb n="1v3" break="no"/>bhā-prabhāś cēva</l>
+		<l n="cd">suṣamā-paramāchavi-dyuti-kāṁti tathaivēti</l>
+		<l><lb n="1v4"/>? ṣa-<!--@andrew.ollett@gmail.com how would you read the first aksara?_Assigned to Andrew Ollett_ answer: I have no idea.-->saubhāgyadāpinī ||</l>
+	</lg>
+	<lg met="anuṣṭubh" n="...">
+	<l n="ab"><label type="headword"> kīrtti-nāma ||</label> aṁsuga-bhakti<lb n="1v5" break="no"/>gaś caiva marīcis tu <app><lem type="emn">mayūkha</lem><rdg wit="#msBL">mayūṣa</rdg></app>-kara-</l>
+<l n="cd"><app><lem type="norm">raśmi</lem><rdg wit="#msBL">rasmi</rdg></app>-jyōti-vasuścaiva kī<lb n="1v6" break="no"/>rttiś caivaṁ tathāpara ||
+		</l></lg>
+	<lg met="anuṣṭubh" n="...">
+		<l n="ab"><note>It seems that we now get synonyms of peacock, but the heading has been omitted.</note> 
+barhiśikhī ca nīlakaṁṭhī ca vyāla<lb n="1v7" break="no"/>bhuk </l>
+	<l n="cd">śiva<hi rend="check">sunū</hi>vāhanaścaiva<note>śivasūnuvāhana makes sense but it seems to be hypermetrical</note> 
+	kalāpī ca mayūrakaḥ || </l>
+</lg>
+	<lg met="anuṣṭubh" n="...">
+		<l n="ab"><lb n="1v8"/><label type="headword">siṁha-nāma ||</label> 
+	<app><lem>keśari</lem><rdg wit="#msBL">kēhari</rdg></app>-hari-dvīpī ca vyāghra-paṁcānatas tathā</l>
+		<l n="cd"><app><lem type="emn">kaṁṭīrava</lem><rdg wit="#msBL">kaṁṭīrada</rdg></app>-mr̥gapati
+			<lb n="1v9" break="no"/>puṁḍarīkaś ca <app><lem type="norm">yakṣapō</lem><rdg wit="#msBL">jakṣapō</rdg><note>Cf. Revākhaṇḍa of the Skandapurāṇa 78.9–10: caturtho lokapālānām akṣayo yakṣapo 'pi vā | yakṣo yakṣādhipaḥ śreṣṭhaḥ kuṇḍadhāro 'bhavat sutaḥ | susvaṁrūpavayaḥ prāpya mātāpitror anujñayā || tapaś cakāra vipulaṁ narmadātīram āśritaḥ | yatra vyāghreśvaraṁ liṅgaṁ vyāghrakheṭakam uttamam ||.</note></app></l> 
+<l n="ef">mr̥garājas tu siṁhaś ca || durā<!-- this cannot be correct, but I don't see the solution yet.</note><note>@andrew.ollett@gmail.com can you help?</note><note>I am also having a hard time with this. Maybe dvaradaghna = dviradaghna?-->da <note> <hi rend="check">Corr. dvirada</hi> ?</note>-ghnaś ca kēśarī ||</l></lg>
+	<lg met="anuṣṭubh" n="...">
+		<l n="ab">	<lb n="1v10"/><label type="headword">aśva-nāma ||</label> 
+haya-saiṁdhava-vājī ca turagaś ca turaṁgama</l> 
+<l n="cd"><hi rend="check">vā</hi><hi rend="check">ka</hi><note>not sure, but possibly hya is written or at least intended here</note>
+	<lb n="1v11" break="no"/>śva-ghōṭakaścaiva <hi rend="check">pū</hi>pā<note>it looks like śpā, error for śvā? still, I don't see śvākarṇa as synonym of 'horse' anywhere.</note><note>or, maybe śyā ? But I don't know yet that the cluster -'va' and -'ya' are interchangeable also in Sanskrit mss. as they are in Javanese script.. If so, then we have to accept śvākarṇa as synonym for 'horse'</note>
+karṇāśca <hi rend="check">ya</hi>dāvuka<note>heḍāvuka ?</note><note>I see yajñapuk, yajñavuk or yajñadhuk. The latter could mean 'milking the sacrifice'. I don't know any synonym of 'horse' like this.</note> ||</l>
+	</lg>
+	<lg met="anuṣṭubh" n="...">
+		<l n="ab"><label type="headword">hastī-nāma ||</label>
+			<lb n="1v12"/>daṁtī-<app><lem type="emn">dvirada</lem><rdg wit="#msBL">dvarada</rdg></app>-dvīpaś ca padmī-kuṁjara-kuṁbhīkāḥ<!-- I think this is indeed what the manuscript has. since kumbhīka has a different meaning than 'elephant', an emendation is probably required. --></l> 
+<l n="cd"><app><lem>karībha-</lem><rdg wit="#msBL">karībhaḥ</rdg></app> vāra<lb n="1v13" break="no"/>na <note> Corr. vāraṇa</note>-vyālaḥ <hi rend="check">staṁvaṁsuṁgr̥la</hi> <note> Corr. <hi rend="check">stamberama-suṁḍāla-nāguhāṭō</hi> ?</note>-<!-- here we seem to have a part of the expected word stamberama, then suṁḍāla (meaning śuṇḍāla), and then something like nāguhaṭō.--></l>
+<l><hi rend="check">nāga-</hi>ha<hi rend="check">ge</hi>-matta-mātāṁga-nāgaśca <hi rend="check">mapaṁ
+	<lb n="1v14" break="no"/></hi><hi rend="check">dānagapa</hi>-gaja <app><lem>ekadantō</lem><rdg wit="#msBL">ēkaṁdaṁtō</rdg></app> dvidaṁtaśca ka<hi rend="check">jā</hi>lē<note>or kukṣāle? kakṣāle? I don't know yet which word is intended.</note>-<hi rend="check">vasa</hi><hi rend="check">bhamrabhī</hi><note>samasamī? not yet sure...</note> ||</l></lg>
+	<lg met="anuṣṭubh" n="...">
+		<l n="ab"><lb n="1v15"/><label type="headword">aṣṭasiddhi-nāmā ||</label> 
+		aṇimā mahimā caiva garimā laghimān tathā</l>
+		<l><lb n="1v16"/>prāpti-prākāmpamī-śatvaṁ-vasitvaṁ cāṣṭasidvayaḥ ||</l>
+</lg> 
+	<lg met="anuṣṭubh" n="...">
+		<l n="ab"><label type="headword">nidhi-nāma ||</label> 
+	ma<lb n="1v17" break="no"/>hāpadmaś ca padmaś ca</l> 
+	<l n="cd">śaṁkha-makara-kachapau mukaṁda-makaraś caiva</l> 
+	<l>kharvakuṁda<lb n="1v18" break="no"/>śca nīlakaḥ ||</l>
+	</lg>
+	<lg met="anuṣṭubh" n="...">
+		<l n="ab"><label type="headword">manōratha-nāma ||</label> 
+		kāmō bhilāṣa-<hi rend="check">tarṣū</hi>ś ca <hi rend="check">vaṣama</hi><lb n="1v19" break="no"/><hi rend="check">sa</hi>ca manōratha ||</l></lg>
+</div>
+			<div type="group">
+				<ab>
+<label type="headword">mōkṣa-nāma ||</label> mukti-amr̥ta-kaivālyaṁ
+
 <pb edRef="#msBL" n="2r"/>
 <lb n="2r1"/>निर्वाणं ह्यपवर्गकं महासिद्धिपद-स्वर्ग-मुक्ति-श्रेयस
 <lb n="2r2" break="no"/>स्तथा ॥ राजा-नाम ॥ स्वामी भूपति-भूपश्च अधिपतिश्च परि
