@@ -152,9 +152,7 @@
       <editorialDecl>
         <!-- As stated in the EGC, this element shall be used only if your edition follows principles that are different from or more fine-grained than those established in the project's guides. Among the following elements, you may keep only the ones your need for your edition. If you use one, its contents must be contained in at least one <p> of free text. If you don't need any <editorialDecl> at all, you may eventually remove this entire section of the file. -->
         <correction>
-        	<p>
-Arlo2025-01-21: We have to decide whether we will keep using code of the type <note corresp="#abc"/> to mark cases where an emendation follows source abc, and if so probably apply it with more consistency. Interaction with parallels and possible use of <seg type="highlight"/> is also to be made more consistent.
-</p>
+        	<p>Arlo2025-01-21: We have to decide whether we will keep using code of the type <note corresp="#abc"/> to mark cases where an emendation follows source abc, and if so probably apply it with more consistency. Interaction with parallels and possible use of <seg type="highlight"/> is also to be made more consistent.</p>
         </correction>
         <normalization>
           <p/>
@@ -1908,98 +1906,135 @@ uttaradvāre ||4||--></note>
 <div type="subchapter" n="3">
 <head type="editorial">Karmarājāgrī</head>
 
-<p>
-<app>
-<lem/>
-<note>$\rightarrow$ KSP (\Ied\ sections 157–159)</note>
-</app>
-tato vairocanena sahābhinnamātmānaṁ vicintya samājaṁ kuryāt | tata<app>
-<lem wit="#MSK" type="emn">stānsamājagatānsarvatathāgatā</lem>
-<note type="altLem"> tān samājagatān sarvatathāgatān</note>
+<!-- this whole chapter has a parallel in KSP, ed. Inui sections 157–159 
+§157
+tato vairocanena sahābhinnam |
+ātmānaṃ vicintya samājaṃ kuryāt |
+tatas tān samājagatān sarvabuddhabodhisattvaparṣanmaṇḍalān |
+oṃ sarvatathāgatapādavandanāṅ karomīti udīrayet ||
+aho samantabhadrasya bodhisattvasya satkriyā |
+yat tathāgatacakrasya madhye bhāti tathāgataḥ ||
+ity udānam udānayamānāṃś citayet ||
+
+§158
+tato vairocanasya hṛdaye praviśya niṣkramya sattvavajrādibhir ekībhūya punar api udānayamānaḥ |
+aho hi sarvabuddhānām mahaudāryam anādijaṃ |
+yat sarvānuprasaṃkhyā vai buddhā hy aekatvam āgatāḥ ||
+
+§159
+tataḥ śrīvajrasattvasthānastho yogī mālābhiṣekādim ādāya pūrvavad vajracchaṭakaṃ kṛtvā vajrāṅkuśādibhir ākṛṣya praveśya badhvā vaśīkṛtyārghādibāhyapūjāṅ kṛtvā pūrvoktacaturmmudrāṃ badhnīyāt |
+evaṃ caturmmudrāmudritān vairocanādīn kṛtvā sarvabuddhaikasaṅgrahe |
+sarvakulamudraṇe ||5||
+bodhicittotpādane ||1||
+sarvatathāgatākarṣaṇe ||2||
+anurāgaṇe ||3||
+toṣaṇe ||4||
+abhiṣeke ||5||
+prabhayāvabhāṣaṇe ||6||
+dānapāramitāniyojane ||7||
+smitādbhutapratiṣṭhāpane ||8||
+suviśuddhasamādhiniṣpādane ||9||
+kleśopakleśacchedane ||10||
+mahāmaṇḍalapraveśane ||11||
+niṣprapañcadharmmatāniyojane ||12||
+aśeṣānavaśeṣapūjanayā sarvatathāgatapūjane ||13||
+anyayānaspṛhācittākleśopakleśādibhayebhyaś cārakṣaṇe ||14||
+sarvarakṣāparipālane ||15||
+kāyavākcittaikīkaraṇabandhatathāgatamuṣṭyā ||16||
+sarvatathāgatadānapāramitāniṣpādane ||1||
+evaṃ śīla 2
+kṣānti 3
+vīrya 4
+dhyāna 5
+prajñā 6
+praṇidhi 7
+upāya 8 ||
+bodhicittāṅkuśena mahāmokṣapure sarvasatvākarṣaṇe 1||
+daśapāramitācaryāpraveśane 2||
+anyayānaspṛhācittasphoṭane 3||
+prakṛtiprabhāsvarānutpādāveśa sarvadharmmanagaraparipācane ca niyojayed iti |
+evaṃ prakārakarmmaṇi spharaṇasaṃhārayogena punaḥ punar bhāvayet ||
+iti bhāvanā vai yathoktaṃ mantrajāpaṅ kuryāt |
+-->
+<p>tato vairocanena sahābhinnam ātmānaṁ vicintya samājaṁ kuryāt. 
+tatas <app rend="hide">
+<lem wit="#MSK" type="norm">tān samāja-gatān sarvatathāgatān</lem>
 <rdg wit="#cod">tāṁ samājāgatāṁ sarvatathāgatāṁ</rdg>
 <note>KSP: <foreign xml:lang="san-Latn">tān samājagatān sarvabuddha-</foreign>.
-</note>
-</app>
-nsabodhisattvaparṣa<app>
-<lem wit="#MSK" type="emn" sameAs="#KSP">nmaṇḍalān<!-- nmaṇḍalān --></lem>
+</note></app>
+sabodhisattva<pb edRef="#cod" n="24v" break="no"/>-parṣan-<app>
+<lem wit="#MSK" type="emn" sameAs="#KSP">maṇḍalān</lem>
 <rdg wit="#cod">-maṇḍalam</rdg>
-<note>sabodhisattva<pb edRef="#cod" n="24v"/>
-<g type="siddham"/>
-parṣanmaṇḍalān</note>
-</app> oṁ <app>
-<lem wit="#MSK" type="emn" sameAs="#KSP">sarva</lem>
-<witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">sava-</rdg>
-</app> tathāgatapāda<app>
-<lem wit="#MSK" type="emn">vandana<seg rend="check">ṁ</seg>
-</lem>
-<note>
-<ptr target="#MSK"/>
- reports as their reading <foreign>-vandhanaṁ</foreign>, with an <foreign>anusuvāra</foreign> that is not actually written; STTS read -vandanāṁ, KSP -vandanāṅ.
-<seg rend="check">CHECK MS AND YAMADA!!</seg>
-</note>
-</app> karomītyudīrya |</p>
+</app> 
+om̐ sarvatathāgata-pāda-<app>
+  <lem type="emn" corresp="#STTS #KSP">vandanāṁ</lem>
+  <rdg wit="#cod">vandana</rdg>
+  <rdg wit="#MSK" type="emn">vandanaṁ</rdg>
+<note><ptr target="#MSK"/> reports as their reading <foreign>-vandhanaṁ</foreign>, with an <foreign>anusvāra</foreign> that is not actually written and <foreign>dh</foreign> instead <foreign>d</foreign>.</note>
+</app> karomīty udīrya.</p>
 <listApp type="parallels">
 <app>
-<note>KSP</note>
-<note>STTS 192.</note>
+<note>KSP 157: tato vairocanena sahābhinnam. ātmānaṁ vicintya samājaṁ kuryāt. tatas tān samājagatān sarvabuddhabodhisattvaparṣanmaṇḍalān. oṁ sarvatathāgatapādavandanāṅ karomīti udīrayet.</note>
+<note>STTS 192–193:
+<!-- STTS ms. not yet checked; edho edya checked 
+atha tena kṣaṇalavamuhūrtena sarvatathāgatācchaṭikāsaṁjñāsaṁcoditāḥ sarvalokadhātuprasarameghasamudreṣu sarvalokadhātuparamāṇurajaḥsamās tathāgatāḥ sabodhisattvaparṣanmaṇḍalāḥ samājam āpadya, yena vajramaṇiratnaśikharakūṭāgāro, yena ca bhagavān vairocanas, tenopajagmur, --><foreign>... upetya oṁ sarvatathāgatapādavandanāṁ karomīty</foreign>.</note>
 </app>
 </listApp>
-<!--   <foreign>oṁ sarvatathāgatapādavandanāṁ karomīty anena prakr̥tisiddhena mantre \dots"/>-->
 
-
-<lg met="FILL-ME-IN">
-<l n="ab">aho samantabhadrasya bodhisattvasya satkriyā |</l>
-<l n="cd">yattathāgatacakrasya madhye bhāti tathāgataḥ<listApp type="parallels">
-<app>
-<lem>aho ... tathāgataḥ</lem>
-<note>STTS 193
-<!--   <foreign>aho samantabhadrasya bodhisattvasya satkriyā | -->
-<!--   yat tathāgatacakrasya madhye bhāti tathāgataḥ || -->
-<!--   quoted in KSP (\Ied\ section 157) -->
-</note>
-</app>
-</listApp> ||
-</l>
+<lg met="anuṣṭubh">
+<l n="a">aho samantabhadrasya</l> <l n="b">bodhisattvasya satkriyā |</l><!--  20210713: satkriyā: aiśa verb form? -->
+<l n="c">yat tathāgatacakrasya</l> <l n="d">madhye bhāti tathāgataḥ ||</l>
 </lg>
+<listApp type="parallels">
+<app>
+<note>STTS 193
+<!--   aho samantabhadrasya bodhisattvasya satkriyā | -->
+<!--   yat tathāgatacakrasya madhye bhāti tathāgataḥ || -->
+<!--   quoted in KSP (ed. Inui section 157) -->
+</note>
+<note>KSP 157</note>
+</app>
+</listApp> 
 
-<!--  20210713: satkriyā: aiśa verb form? -->
-
-<ab>
-ityudānamudānayamānāṁścintayet ||</ab>
-<!-- tāṁ samājāgatāṁ sarvatathāgatāṁ: em. tān samājagatān sarvatathāgatān, with MSK. -->
-<!-- -maṇḍalam·: em. maṇḍalān·, with MSK. -->
-<!-- -vandhana: em. -vandanaṁ, with MSK (which reports as their reading -vandhanaṁ, with an ansuvāra that is not actually written). -->
-<!-- sava-: em. sarva, with MSK (sil. em.). -->
+<p>ity udānam <app><lem wit="#cod">udānayamānāṁś</lem><rdg wit="#MSK">udānayāmānāṁś</rdg></app> <app><lem wit="#MSK">cintayet</lem><witDetail wit="#MSK" type="silemn"/><rdg wit="#cod">cittayet</rdg></app>.</p>
+<listApp type="parallels">
+  <app>
+  <note>KSP 157<!-- <foreign>ity udānam udānayamānāṃś citayet</foreign>.--></note>
+  </app>
+  </listApp> 
 <!-- udānaya○mānāṁś: udānayāmānāṁś MSK (misprint?). -->
-<!-- cittayet·: em. cintayet·, with MSK (sil. em.) -->
 <!-- the mantra is STTS §192; the verse is STTS §193. -->
 <!-- from this section onward, there is a long parallel in KSP. -->
 
-<lg met="anuṣṭubh">
-<l n="ab">tato <app>
-<lem wit="#MSK">vairocanahr̥daye<!-- vairocanahr̥daye --></lem>
+<p>tato <app>
+<lem wit="#MSK">vairocanahr̥daye</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">vairocanahr̥daya</rdg>
-<note>KSP reads vairocanasya hr̥daye.</note>
-</app> praviśya niṣkramya sattvavajrādibhirekībhūya punarapyudāna<app>
-<lem wit="#MSK" type="emn">mudānayamānān</lem>
+<note>KSP reads <foreign>vairocanasya hr̥daye</foreign>.</note>
+</app> praviśya niṣkramya sattvavajrādibhir ekībhūya punar apy udānam 
+<app><lem wit="#MSK" type="emn">udānayamānān</lem>
 <rdg wit="#cod">udānayām<supplied reason="lost">ā</supplied>nām</rdg>
-<note>KSP reads udānayamānaḥ.</note>
-</app>
- |
-</l>
-</lg>
-<!-- encode KSP parallel-->
+<note>KSP reads <foreign>udānayamānaḥ</foreign>.</note>
+</app>.
+</p>
+<listApp type="parallels">
+  <app>
+  <note>STTS 193: <foreign>anena prakṛtisiddhena mantreṇa rucijaptena sarvatathāgatapādavandanāṁ kṛtvedam udānam udānayām āsuḥ</foreign>
+  </note>
+  <note>KSP 158: <foreign>tato vairocanasya hṛdaye praviśya niṣkramya sattvavajrādibhir ekībhūya punar api udānayamānaḥ</foreign>.</note>
+  </app>
+  </listApp> 
 
-<lg met="FILL-ME-IN">
-<l n="ab">aho hi sarvabuddhānāṁ mahaudāryamanādijam |</l>
-<l n="cd">
-<app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">yatsarvāṇuprasaṁkhyā</lem>
+<!-- RT, SI and AG have reached here on 2025-09-09 -->
+
+<lg met="anuṣṭubh">
+<l n="a">aho hi sarvabuddhānāṁ</l> <l n="b">mahaudāryam anādijam |</l>
+<l n="c"><app>
+<lem wit="#MSK" type="emn" sameAs="#STTS">yat sarvāṇuprasaṁkhyā</lem>
 <rdg wit="#cod">sarvāṇuprasaṁkhyā</rdg>
 <note>KSP reads sarvānuprasaṁkhyā.</note>
-</app> vai buddhā hyekatvamāgatā iti ||</l>
+</app> vai</l>
+<l n="d">buddhā hy ekatvam āgatā iti ||</l>
 </lg>
 <!-- vairocanahr̥daya: em. vairocanahr̥daye, with MSK (sil. em.). -->
 <!-- udānayām\supplied{ā}nām·: em. udānayāmānān, scil. cintayet, as in prec. section, with MSK. -->
