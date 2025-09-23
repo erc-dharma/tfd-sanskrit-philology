@@ -1998,118 +1998,113 @@ atha tena kṣaṇalavamuhūrtena sarvatathāgatācchaṭikāsaṁjñāsaṁcodi
   <note corresp="#KSP:158">KSP 158 (ed. Inui 1994: 90,8–9): <foreign>tato vairocanasya hṛdaye praviśya niṣkramya sattvavajrādibhir ekībhūya punar api udānayamānaḥ</foreign>.</note>
   </app>
   </listApp> 
+<!-- udānayām\supplied{ā}nām·: em. udānayāmānān, scil. cintayet, as in prec. section, with MSK. -->
 
 <!-- RT, SI and AG have reached here on 2025-09-09 -->
 
 <lg met="anuṣṭubh">
-<l n="a">aho hi sarvabuddhānāṁ</l> <l n="b">mahaudāryam anādijam |</l>
+<l n="a">aho hi sarvabuddhānāṁ</l> 
+<l n="b">mahaudāryam anādijam |</l>
 <l n="c"><app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">yat sarvāṇuprasaṁkhyā</lem>
-<rdg wit="#cod">sarvāṇuprasaṁkhyā</rdg>
-<note>KSP reads sarvānuprasaṁkhyā.</note>
-</app> vai</l>
+<lem wit="#MSK" type="emn" corresp="#STTS">yat</lem>
+<rdg wit="#cod"><gap reason="omitted"/></rdg>
+</app>sarvāṇuprasaṁkhyā vai</l>
 <l n="d">buddhā hy ekatvam āgatā iti ||</l>
 </lg>
-<!-- vairocanahr̥daya: em. vairocanahr̥daye, with MSK (sil. em.). -->
-<!-- udānayām\supplied{ā}nām·: em. udānayāmānān, scil. cintayet, as in prec. section, with MSK. -->
-<!-- sarvāṇuprasaṁkhyā: inserts yat before this, with MSK. -->
+
 <!-- the verse is STTS §195. -->
 <listApp type="parallels">
 <app>
-<note sameAs="#STTS:195">STTS 195<!--  aho hi sarvabuddhānāṁ mahaudāryam anādijam | yat sarvāṇuprasaṁkhyā vai buddhā hy ekatvam āgatā iti || --> quoted in KSP (\Ied\ section 158)
+<note sameAs="#STTS:195">STTS 195<!--  aho hi sarvabuddhānāṁ mahaudāryam anādijam | yat sarvāṇuprasaṁkhyā vai buddhā hy ekatvam āgatā iti || -->
 </note>
-<note corresp="#KSP:158">KSP 158 (ed. Inui 1994: 90,10–11)</note>
+<note corresp="#KSP:158">KSP 158 (ed. Inui 1994: 90,10–11), reading <foreign>sarvānuprasaṁkhyā</foreign>.</note>
 </app>
 </listApp>
 
-<p>
-tataḥ śrīvajrasattvasthānastho yogī sarvatathāgatebhyo 
+<p>tataḥ śrīvajrasattvasthānastho yogī sarvatathāgatebhyo 
 <app>
-<lem wit="#MSK" type="emn">mālābhiṣekādika</lem>
+<lem wit="#MSK" type="emn">mālābhiṣekādikam</lem>
 <rdg wit="#cod">mālābhikākādikam</rdg>
-<note>KSP: mālābhiṣekādim.</note>
-</app>mādāya <app>
-<lem wit="#MSK" type="emn">vajrāṅkuśādibhi</lem>
-<!--<note>(with wrong reading <foreign>-śādīr</foreign> in the footnote) KSP (\Ied);</note>-->
+<!-- KSP: mālābhiṣekādim. -->
+</app> ādāya 
+<app>
+<lem wit="#MSK" type="emn" sameAs="#KSP">vajrāṅkuśādibhir</lem>
+<!--<note>(with wrong reading <foreign>-śādīr</foreign> in the footnote)</note>-->
 <rdg wit="#cod">vajrāṅkuśādir</rdg>
 </app>
 <app>
-<lem wit="#MSK" type="emn" sameAs="#KSP">rākr̥ṣya</lem>
+<lem wit="#MSK" type="emn" sameAs="#KSP">ākr̥ṣya</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">ākr̥śya</rdg>
-</app>  praveśya baddhvā vaśīkr̥tya caturmudrā<app>
-<lem wit="#MSK" type="emn" sameAs="#KSP">mudritān vairocanādīn</lem>
+</app>  
+praveśya baddhvā vaśīkr̥tya caturmudrā<app>
+<lem wit="#MSK" type="emn" sameAs="#KSP">-mudritān vairocanādīn</lem>
 <rdg wit="#cod">-mudritāṁ vairocanādī</rdg>
-</app>  kr̥tvā sarvabuddhaika<app>
-<lem wit="#MSK" type="emn" sameAs="#KSP">saṁgrahe</lem>
+</app>  
+kr̥tvā sarvabuddhaika<app>
+<lem wit="#MSK" type="emn" sameAs="#KSP">-saṁgrahe</lem>
 <rdg wit="#cod">-saṁgrahai</rdg>
-</app>  sarvakulāmudraṇe | bodhicittotpādane | sarvatathāgatākarṣaṇe | <app>
-<lem wit="#MSK">anurāge</lem>
+</app> sarvakulāmudraṇe, bodhicittotpādane, sarvatathāgatākarṣaṇe, 
+<app>
+<lem type="emn" sameAs="#KSP">anurāgaṇe</lem>
+<rdg wit="#MSK">anurāge</rdg>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">anurāgai</rdg>
-<note>KSP: anurāgaṇe.</note>
-</app> | toṣaṇe | abhiṣeke | <app>
-<lem type="emn" sameAs="#KSP">prabhāsā</lem>
-<rdg wit="#cod #MSK">prabhayā-</rdg>
-</app> vabhāsane | dānapāramitāniyojane | smitādbhuta<app>
-<lem wit="#MSK" type="emn" sameAs="#KSP">pratiṣṭhāpane</lem>
+</app>, toṣaṇe, abhiṣeke, 
+<app><lem wit="#cod #MSK">prabhayāvabhāsane</lem>
+<note>KSP reads <foreign>prabhayāvabhāṣaṇe</foreign>.</note>
+</app>, 
+dānapāramitā-niyojane, smitādbhuta<app>
+<lem wit="#MSK" type="emn" sameAs="#KSP">-pratiṣṭhāpane</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-pratiṣṭhāpaṇe</rdg>
-</app>  | suviśuddhisamādhiniṣpādane | <app>
+</app>, suviśuddhi-samādhi-niṣpādane, 
+<app rend="hide">
 <lem wit="#MSK" type="emn" sameAs="#KSP">kleśopa</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">klesopa-</rdg>
-</app> kleśacchedane | mahāmaṇḍalapraveśane | niṣprapañcadharmatāniyojane | aśeṣānavaśeṣa<app>
-<lem>pūjayā sarvatathāgatapūjane</lem>
-<note>-pūjayā <pb edRef="#cod" n="25r"/>
- sarvatathāgatapūjane</note>
-</app> | 
+</app>kleśa-cchedane, mahāmaṇḍala-praveśane, niṣprapañca-dharmatā-niyojane, 
+aśeṣānavaśeṣa-pūjayā <pb edRef="#cod" n="25r"/>sarvatathāgata-pūjane, 
 anya-yāna-spr̥hā<app>
-<lem wit="#MSK">cittā</lem>
+<lem wit="#MSK" type="emn">-cittāt</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod #KSP #Ied">-cittā</rdg>
+<rdg wit="#cod">-cittā</rdg>
+<note>The same error is observed in KSP.</note>
 </app>
-<app>
-<lem wit="#MSK" type="emn" sameAs="#KSP">tkleśopa</lem>
+<app rend="hide">
+<lem wit="#MSK" type="emn" sameAs="#KSP">kleśopa</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">klesopa</rdg>
-</app>kleśādibhayebhyaś
+</app>kleśādi-bhayebhyaś
 <app>
-<lem wit="#cod #MSK" sameAs="#KSP">cārakṣaṇe</lem>
-<rdg wit="#MSK">ca rakṣaṇe</rdg>
+<lem wit="#cod" sameAs="#KSP">cārakṣaṇe</lem>
+<rdg wit="#MSK" type="emn">ca rakṣaṇe</rdg>
 <witDetail wit="#MSK" type="silemn"/>
-<note>The <ptr target="#MSK"/> emendation is unnecessary.</note>
-</app> |
+<note>The KSP parallel shows that the silent emendation made in <ptr target="#MSK"/> is unwanted.</note>
+</app>,
 <app>
-<lem wit="#cod #MSK #KSP #Ied">sarvarakṣāparipālane</lem>
-<note><ptr target="#MSK"/> needlessly emends <foreign>sarvarakṣāt paripālane</foreign>.</note>
-</app> | 
+<lem wit="#cod" sameAs="#KSP">sarvarakṣāparipālane</lem>
+<rdg wit="#MSK" type="emn">sarvarakṣāt paripālane</rdg>
+<note>The emendation in <ptr target="#MSK"/> is unwanted.</note>
+</app>, 
 kāya-vāk-cittaikīkaraṇa-bandha<app>
-<lem type="emn">-tathāgata-</lem>
+<lem type="emn" sameAs="#KSP">-tathāgata-</lem>
 <rdg wit="#cod #MSK">-tathatā-</rdg>
-<!--   KSP seems to read -tathāgata-. -->
 <!--  STTS 132: atha bhagavān punar api sarvatathāgatamuṣṭimahābodhisattvasamayasaṁbhavakarmādhiṣṭhānavajraṁ nāma samādhiṁ samāpadyedaṁ sarvatathāgatakāyavākcittavajrabandhasamayaṁ nāma sarvatathāgatahṛdayaṁ svahṛdayān niścacāra ||. -->
-</app>
-<app>
+</app><app>
 <lem wit="#MSK" type="silemn" rend="hyphenleft">muṣṭyā</lem>
 <rdg wit="#cod">-muṣṭhyā <unclear>|</unclear></rdg>
 </app>
 <app>
-<lem wit="#cod">sarvabuddhatva-niṣpādane</lem>
-<note><ptr target="#MSK"/> misreads <foreign>-buddhaddha-</foreign> and emends <foreign>sarvabuddhaniṣpādane</foreign>; the reading in
- KSP is different.</note>
-</app> |
-<app>
-<lem wit="#cod">dāna-śīla-kṣānti-vīrya-prajñā-dhyāna-praṇidhy-upāya-niṣpādane</lem>
-<note type="altLem">dāna... niṣpādane</note>
-<note>Why only 8 pāramitās, and not 10? KSP (ed. Inui §159) too mentions only the same 8: <foreign>sarvatathāgata-dāna-pāramitā-niṣpādane, evaṁ śīla-kṣānti-vīrya-dhyāna-prajñā-praṇidhy-upāya<supplied reason="lost">-niṣpādane</supplied></foreign>.</note>
-</app> | bodhicittāṅkuśena mahāmokṣapure sarvasattvākarṣaṇe | daśapāramitācaryayā praveśane | anyayānapr̥hācittasphoṭane | prakr̥tiprabhāsvarānutpādāveśe | saddharmanagarapālane ca niyojayediti ||
-</p>
+<lem wit="#cod">sarva-buddhatva-niṣpādane</lem>
+<note><ptr target="#MSK"/> misreads <foreign>-buddhaddha-</foreign> and emends <foreign>sarva-buddha-niṣpādane</foreign>; the reading in KSP diverges for this phrase.</note>
+</app>,
+dāna-śīla-kṣānti-vīrya-prajñā-dhyāna-praṇidhy-upāya-niṣpādane, 
+bodhicittāṅkuśena mahāmokṣa-pure sarvasattvākarṣaṇe, daśa-pāramitā-caryayā praveśane, anya-yāna-spr̥hā-citta-sphoṭane, prakr̥ti-prabhāsvarānutpādāveśe, saddharma-nagara-pālane ca niyojayed iti.</p>
 <listApp type="parallels">
   <app>
     <note corresp="#KSP:159">KSP 159 (ed. Inui 1994: 99,15–97,4)</note>
-  </app>
-</listApp>
+    <!-- interesting -->
 <!--  §159
 tataḥ śrīvajrasattvasthānastho yogī mālābhiṣekādim ādāya pūrvavad vajracchaṭakaṃ kṛtvā vajrāṅkuśādibhir ākṛṣya praveśya badhvā vaśīkṛtyārghādibāhyapūjāṅ kṛtvā pūrvoktacaturmmudrāṃ badhnīyāt |
 evaṃ caturmmudrāmudritān vairocanādīn kṛtvā sarvabuddhaikasaṅgrahe |
@@ -2129,13 +2124,12 @@ niṣprapañcadharmmatāniyojane ||12||
 aśeṣānavaśeṣapūjanayā sarvatathāgatapūjane ||13||
 anyayānaspṛhācittākleśopakleśādibhayebhyaś cārakṣaṇe ||14||
 sarvarakṣāparipālane ||15||
-kāyavākcittaikīkaraṇabandhatathāgatamuṣṭyā ||16||
-sarvatathāgatadānapāramitāniṣpādane ||1||
+kāyavākcittaikīkaraṇabandhatathāgatamuṣṭyā [niṣpādane] ||16||
+sarvatathāgatadānapāramitā[niṣpādane ||1||
 evaṃ śīla 2
 kṣānti 3
 vīrya 4
 dhyāna 5
-prajñā 6
 praṇidhi 7
 upāya 8 ||
 bodhicittāṅkuśena mahāmokṣapure sarvasatvākarṣaṇe 1||
@@ -2144,31 +2138,19 @@ anyayānaspṛhācittasphoṭane 3||
 prakṛtiprabhāsvarānutpādāveśa sarvadharmmanagaraparipācane ca niyojayed iti |
 evaṃ prakārakarmmaṇi spharaṇasaṃhārayogena punaḥ punar bhāvayet ||
 iti bhāvanā vai yathoktaṃ mantrajāpaṅ kuryāt | --> 
+  </app>
+</listApp>
+</div>
+<div>
+<ab type="colophon">karmarājāgrī nāma samādhiḥ.</ab>
 </div>
 
-<div>
-<p type="colophon">karmarājāgrī nāma samādhiḥ.</p>
-</div>
-<!-- mālābhikākādikam: mālābhiṣekādikam, with MSK. -->
-<!-- vajrāṅkuśādir: em. vajrāṅkuśādibhir, with MSK (with wrong reading -śādīr in the footnote). -->
-<!-- ākr̥śya: em. ākr̥ṣya, with MSK (sil. em.). -->
-<!-- vadhvā: em. baddhvā, with MSK (sil. em.). BUT NO NEED TO REPORT THIS. -->
-<!-- -mudritāṁ vairocanādī: em. -mudritān vairocanādīn, with MSK. -->
-<!-- -saṁgrahai: em. -saṁgrahe, with MSK. -->
-<!-- °anurāgai: em. °anurāge, with MSK (sil. em.). -->
-<!-- -ṣṭhāpaṇe: em. -ṣṭhāpane, with MSK (sil. em.). -->
-<!-- kle§○sopa-: em. kleśopa-, with MSK (sil. em.). -->
-<!-- -ci§○ttā: em. -cittāt, with MSK (sil. em.). -->
-<!-- klesopa-: em. kleśopa-, with MSK (sil. em.). -->
-<!-- cārakṣaṇe: MSK silently emends ca rakṣaṇe, but the emendation is unnecessary. -->
-<!-- sarvarakṣāparipālane:  MSK emends sarvarakṣāt paripālane, but the emendation is unwanted. -->
 
 
 <div type="subchapter" n="4">
 <head type="editorial">Supplement
 <seg rend="check">Reconsider the section title!</seg>
 </head>
-
 
 <p>
 <!-- RT&AG -->
