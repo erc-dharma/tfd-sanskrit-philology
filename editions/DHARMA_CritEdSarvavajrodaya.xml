@@ -524,7 +524,7 @@ Inui (1994: 110) reads <foreign>-vajrasatvaṁ</foreign> for <foreign>-vajrasatt
 <listApp type="parallels">
 <app>
   <note>KSP 117 (ed. Inui 1994: 110,8–109,3): <foreign>tatas tebhyo jñānaraśmayo viniḥsr̥tya hr̥dgatavajre praviśya tena sahaikībhūya sarvatathāgatādhiṣṭhānena mahat sarvākāśadhātusamavasaraṇapramāṇaṁ pañcasūcikavajravigraho bhūtvā
-     *oṁ vajrātmako 'ham ity uccārayet</foreign> (em.;  <foreign>ity uccārayet oṁ vajrātmako 'ham</foreign> ed. Inui) <foreign>punar api hr̥dgatavajrapramāṇam eva bhūtvā tasmād viniḥsr̥tya svahaste sthitaṁ cintayet. tasmāc ca punar vajrākāraraśmayo anekavarṇā anekasaṁsthānā viniḥsr̥tya yāvatsarvākāśadhātuṁ vyāpya tebhyaḥ punar vajrasattvādirūpeṇa sarvasattvadhātuṁ sarvatathāgatāṁś ca samatājñānābhisaṁbodyādau niyojya, punaḥ saṁhārayogenaikasattvakāyo bhūtvā svahr̥dgatavajre praviśya tatrāvasthitenodānam udānayām āsa</foreign>.</note>
+     *oṁ vajrātmako 'ham ity uccārayet</foreign> (em.;  <foreign>ity uccārayet om̐ vajrātmako 'ham</foreign> ed. Inui) <foreign>punar api hr̥dgatavajrapramāṇam eva bhūtvā tasmād viniḥsr̥tya svahaste sthitaṁ cintayet. tasmāc ca punar vajrākāraraśmayo anekavarṇā anekasaṁsthānā viniḥsr̥tya yāvatsarvākāśadhātuṁ vyāpya tebhyaḥ punar vajrasattvādirūpeṇa sarvasattvadhātuṁ sarvatathāgatāṁś ca samatājñānābhisaṁbodyādau niyojya, punaḥ saṁhārayogenaikasattvakāyo bhūtvā svahr̥dgatavajre praviśya tatrāvasthitenodānam udānayām āsa</foreign>.</note>
 </app>
 </listApp>
 
@@ -593,7 +593,7 @@ sarvatathāgata-kula-cakravartitve <app>
 <listApp type="parallels">
 <app>
 <note>KSP 117 (ed. Inui 1994: 109,6–12):
-<foreign>tato hr̥dayād avatīrya ... pañcabuddhaṁ makuṭapaṭṭābhiṣekena cābhiṣicyānuttaraśīlādikayā ... -bhisaṁbodhiṁ niṣpādyaikam ādyavajraṁ vajrāṇkitaṁ ghaṇṭāsahitam ...</foreign></note>
+<foreign>tato hr̥dayād avatīrya ... pañcabuddhaṁ makuṭapaṭṭābhiṣekena cābhiṣicyānuttaraśīlādikayā ... -bhisaṁbodhiṁ niṣpādyaikam ādyavajraṁ vajrāṅkitaṁ ghaṇṭāsahitam ...</foreign></note>
 </app>
 </listApp>
 
@@ -1950,8 +1950,8 @@ om̐ sarvatathāgata-pāda-<app>
 <app>
 <note corresp="#STTS:192–193">STTS 192–193
 <!-- STTS ms. not yet checked; edho edya checked 
-atha tena kṣaṇalavamuhūrtena sarvatathāgatācchaṭikāsaṁjñāsaṁcoditāḥ sarvalokadhātuprasarameghasamudreṣu sarvalokadhātuparamāṇurajaḥsamās tathāgatāḥ sabodhisattvaparṣanmaṇḍalāḥ samājam āpadya, yena vajramaṇiratnaśikharakūṭāgāro, yena ca bhagavān vairocanas, tenopajagmur, --><foreign>... upetya oṁ sarvatathāgatapādavandanāṁ karomīty</foreign>.</note>
-<note corresp="#KSP:157">KSP 157 (ed. Inui 1994: 90,1–4): <foreign>tato vairocanena sahābhinnam. ātmānaṁ vicintya samājaṁ kuryāt. tatas tān samājagatān sarvabuddhabodhisattvaparṣanmaṇḍalān. oṁ sarvatathāgatapādavandanāṅ karomīti udīrayet</foreign>.</note>
+atha tena kṣaṇalavamuhūrtena sarvatathāgatācchaṭikāsaṁjñāsaṁcoditāḥ sarvalokadhātuprasarameghasamudreṣu sarvalokadhātuparamāṇurajaḥsamās tathāgatāḥ sabodhisattvaparṣanmaṇḍalāḥ samājam āpadya, yena vajramaṇiratnaśikharakūṭāgāro, yena ca bhagavān vairocanas, tenopajagmur, --><foreign>... upetya om̐ sarvatathāgatapādavandanāṁ karomīty</foreign>.</note>
+<note corresp="#KSP:157">KSP 157 (ed. Inui 1994: 90,1–4): <foreign>tato vairocanena sahābhinnam. ātmānaṁ vicintya samājaṁ kuryāt. tatas tān samājagatān sarvabuddhabodhisattvaparṣanmaṇḍalān. om̐ sarvatathāgatapādavandanāṅ karomīti udīrayet</foreign>.</note>
 </app>
 </listApp>
 
@@ -2128,23 +2128,31 @@ evaṃ prakārakarmmaṇi spharaṇasaṃhārayogena punaḥ punar bhāvayet || 
 <seg rend="check">Reconsider the section title!</seg>
 </head>
 
-<p>
-<!-- RT&AG -->
-tato vajrayakṣa-parijapta<app>
-<lem wit="#MSK" type="emn" rend="hyphenleft">gandhodakena</lem>
+<p>tato vajrayakṣa-parijapta<app>
+<lem wit="#MSK" type="emn">-gandhodakena</lem>
 <rdg wit="#cod">-gandhodake</rdg>
-</app> sarvapūjāṅgāni prokṣya, <app>
-<lem type="emn" wit="#cod">vajrānalamudreṇa</lem>
-<note>
-<foreign>vajrānalena</foreign> or <foreign>vajrānalena mantreṇa</foreign>?<ptr target="#MSK"/>
- emends <foreign>vajrānalamudrayā</foreign>.
-<seg rend="check">Probably <ptr target="#MSK"/>
-'s ememdation is based on Tib.: <foreign>rdo rje me'i phyag rgya dang bcas pas</foreign>
-</seg>
-<seg rend="check">Mañjuśriyamūlakalpa, Hevajratantra</seg>
+</app> sarva-pūjāṅgāni prokṣya, 
+<app><lem type="emn">vajrānalena mudrāsahitena</lem>
+  <rdg wit="#cod">vajrānalena mudreṇa</rdg>
+  <rdg wit="#MSK" type="emn">vajrānalamudrayā</rdg>
+<note>Alternative emendations we have considered are <foreign>vajrānalena</foreign> and <foreign>vajrānalena mantreṇa</foreign>. The emendation we have retained corresponds to Tib.: <foreign>rdo rje me'i phyag rgya dang bcas pas</foreign>. See also KSP §23 (ed. Inui) <foreign>punar vajrānalāhaṅkāreṇa tanmudrāyuktena pūjāṅgāni śodhayet</foreign> and SDPT p. XXX (ed. Skorupski) <foreign>tato vajrānalena mudrāsahitena vighnadahanādikaṁ kuryāt</foreign>.
+<!-- Mañjuśriyamūlakalpa, Hevajratantra -->
+<!-- 
+KSP 6-2-1-7 Purifying the items for worship
+punar vajrānalāhaṅkāreṇa tanmudrāyuktena pūjāṅgāni śodhayet.
+
+SDPT
+tato vajrānalena mudrāsahitena vighnadahanādikaṃ kuryāt /
+oṃ vajrānala hana daha paca matha bhañja raṇa huṃ phaṭ
+ity udīrayet / abhyantaravajrabandhe 'ṅgulijvālāgarbhe 'ṅguṣṭhavajram utthitam iyaṃ vajrānalamudrā /</p>
+
+SDPT sarvagandhān suvāsāṃś ca vilepanasugandhakān tathaiva vajrānalena / oṃ vajragandhe huṃ ity anayā ca gandhamudrāyuktayā karpūrāguruturuskāni candanādisaṃmiśrāṇi / tathaiva vajrānalena oṃ vajradhūpe huṃ ity anayā dhūpamudrāsahitayā dhūpaghaṭikālakṣaṃ daśasahasraṃ śataṃ yathālābhaṃ vā pradīpalakṣaṃ daśasahasraṃ śataṃ sarvapradīpān pradīpavartijvalitayuktaṃ kuṇḍaṃ sahasraṃ ca daśaikaṃ vā / tathaiva vajrānalena oṃ vajrāloke ity anayā pradīpamudrāyuktayā parijapya
+-->
 </note>
-</app> parijapya, <app>
-<lem type="emn" wit="#cod">oṁ</lem>
+</app> parijapya, 
+<app><lem type="emn">om̐</lem>
+  <rdg wit="#cod"><gap reason="omitted"/></rdg>
+  <note>MSK does not supply <foreign>om̐</foreign>.</note>
 </app>
 <app>
 <lem wit="#MSK" type="emn">vajrapuṣpe</lem>
@@ -2152,64 +2160,110 @@ tato vajrayakṣa-parijapta<app>
 </app>
 <app>
 <lem type="emn">hūm̐ iti</lem>
-<rdg wit="#cod">hū;ṁmiti</rdg>
+<rdg wit="#cod">hūm̐miti</rdg>
 <rdg wit="#MSK">hūṁ || iti</rdg>
-<witDetail wit="#MSK" type="silemn"/>
-</app> puṣpamudrayā <app>
+</app> puṣpa-mudrayā 
+<app>
 <lem wit="#cod">puṣpāṇi</lem>
 <rdg wit="#MSK">puṣpāni</rdg>
-</app>. oṁ vajragandhe <app>
-<lem type="emn" wit="#cod">hūm̐</lem>
-</app> iti gandhamudrayā <app>
+</app>. 
+  om̐ vajragandhe <app><lem type="emn">hūm̐</lem>
+    <rdg wit="#cod"><gap reason="omitted"/></rdg>
+    <note>MSK does not supply <foreign>hūm̐</foreign>.</note>
+  </app> iti gandha-mudrayā <app>
 <lem wit="#MSK" type="emn">gandham</lem>
 <rdg wit="#cod">gandhat</rdg>
-</app>. oṁ vajradhūpe <app>
+</app>. 
+  om̐ vajradhūpe <app>
 <lem type="emn">hūm̐ iti</lem>
-<rdg wit="#cod">hū<seg rend="check">ṁ</seg>miti</rdg>
+<rdg wit="#cod">hūm̐miti</rdg>
 <rdg wit="#MSK">hūṁ || iti</rdg>
-<witDetail wit="#MSK" type="silemn"/>
-</app> dhūpamudrayā dhūpam. <app>
-<lem type="emn" wit="#cod">oṁ</lem>
-</app> akāro mukhaṁ sarvadharmāṇām ādyanutpannatvād iti<listApp type="parallels">
-<app>
-<lem>oṁ ... -anutpannatvād</lem>
-<note>
-<foreign>Pañcaviṁśatisāhasrikā Prajñāpāramitā</foreign> I-2: 85
-</note>
-</app>
-</listApp> khaḍgamudrayā balim. vajrabandhena <app>
+</app> dhūpa-mudrayā dhūpam. 
+<app><lem type="emn">om̐</lem>
+  <rdg wit="#cod"><gap reason="omitted"/></rdg>
+  <note>MSK does not supply <foreign>om̐</foreign>.</note>
+</app> akāro mukhaṁ sarvadharmāṇām ādyanutpannatvād iti.
+ khaḍga-mudrayā balim. 
+vajrabandhena <app>
 <lem type="emn">khaḍgākarṣābhinayā</lem>
-<rdg wit="#cod">khaḍgātkarṣābhinayā</rdg>
-<note>
-<ptr target="#MSK"/>
- accepts the text as it is</note>
-</app> khaḍgamudrā. <app>
-<lem type="emn">oṁ vajrāloke hūm̐</lem>
+<rdg wit="#cod #MSK">khaḍgātkarṣābhinayā</rdg>
+<!-- MSK accepts the text as it is found in cod. -->
+</app> khaḍga-mudrā.
+<app><lem type="emn">om̐</lem>
+  <rdg wit="#cod"><gap reason="omitted"/></rdg>
+  <note>MSK does not supply <foreign>om̐</foreign>.</note>
+</app> 
+<app>
+<lem type="emn">om̐ vajrāloke hūm̐</lem>
 <rdg wit="#cod #MSK">hūṁ vajrāloke</rdg>
-</app>  iti dīpamudrayā dīpam. oṁ vajrasattva <app>
+<note>A complicated case of inversion of the order of <foreign>om̐/hūm̐</foreign> and subsequent loss of one of these syllables.</note>
+</app> iti dīpa-mudrayā dīpam. 
+om̐ vajrasattva <app>
 <lem type="emn">hūm̐ iti</lem>
 <rdg wit="#cod">hūṁmiti</rdg>
 <rdg wit="#MSK">hūṁ || iti</rdg>
-<witDetail wit="#MSK" type="silemn"/>
-</app> tila-yava-kuśa-lājā-sita-sugandhi-kusuma-candanoda<pb edRef="#cod" n="25v"/>
-kāni śaṅkhabhājanādau prakṣipya sphuṭita-vajrāñjali-lakṣaṇayārghamudrayā triḥ parijapya saptavāram <app>
-<lem wit="#MSK" rend="hyphenright">ekaviṁśati</lem>
+</app> tila-yava-kuśa-lājā-sita-sugandhi-kusuma-candanoda<pb edRef="#cod" n="25v"/>kāni śaṅkha-bhājanādau prakṣipya sphuṭita-vajrāñjali-lakṣaṇayārgha-mudrayā triḥ parijapya saptavāram 
+<app>
+<lem wit="#MSK">ekaviṁśati-</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">ekaviśaṁti-</rdg>
 </app>vāraṁ vā parijapya sthāpayet. 
-tato yathāvad <app>
+tato yathāvad 
+<app>
 <lem wit="#MSK">dvārodghāṭanaṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">dvārodghaṭānaṁ</rdg>
-</app> kr̥tvā <app>
-<lem wit="#MSK" type="emn">śrīvajrasattvamahāmudrāṁ</lem>
-<rdg wit="#cod">śrīvajrasatvāmahāmudrām</rdg>
-</app>  baddhvā, oṁ vajrasattva <app>
-<lem type="emn">hūm̐ iti</lem>
-<rdg wit="#cod">hū;ṁmiti</rdg>
-<rdg wit="#MSK">hūṁ || iti</rdg>
+</app> 
+kr̥tvā śrī<app>
+<lem wit="#MSK" type="emn">-vajrasattva-mahāmudrāṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
-</app> parijapya, </p>
+<rdg wit="#cod">-vajrasatvāmahāmudrām</rdg>
+</app> 
+baddhvā, 
+om̐ vajrasattva 
+<app>
+<lem type="emn">hūm̐ iti</lem>
+<rdg wit="#cod">hūm̐miti</rdg>
+<rdg wit="#MSK">hūṁ || iti</rdg>
+</app> parijapya.</p>
+<listApp type="parallels">
+  <app>
+    <note>KSP 23–25 (ed. Inui 1994: @@SHIORI modify numbers@@99,15–97,4) contains an extensive parallel passage that is not verbatim but does cite all the same mantras, and we rely on this parallel for emending the mantras as we do above with regard to the presence/absence of <foreign>om̐/hūm̐</foreign>.</note>
+  </app>
+  </listApp>
+<!-- 
+% IH 23
+punar vajrānalāhaṅkāreṇa tanmudrāyuktena pūjāṅgāni śodhayet.
+oṃ vajrānala hana daha paca matha bhañja raṇa hūṃ phaṭ.
+
+% IH 24
+tato vajrayakṣamudrayā śaṅkhādhiṣṭhānam.
+oṃ vajrayakṣa hūṃ.
+punar api vajrarakṣamudrayā śaṅkhādhiṣṭhānam.
+oṃ vajrarakṣa aḥ.
+punar api vajraśikharamudrayā śaṅkhādhiṣṭhānam.
+oṃ vajraśikhara ruṭ maṭ.
+iti śaṅkhatrayam.
+punaḥ śaṃkhatrayaṃ vajrasattvasamayamudrayā vairocanasamayamudrayā cādhiṣṭhāya
+oṃ vajrasattva hūṃ. 
+oṃ vajradhātu hūṃ.
+tacchaṅkhodakena sarvapūjāṅgāni prokṣayet
+oṃ vajrarakṣa hūṃ.
+iti mantreṇa.
+% IH 25
+oṃ vajrapuṣpe hūṃ. puṣpam.
+oṃ vajradhūpe hūṃ. dhūpam.
+oṃ vajrāloke hūṃ. dīpam.
+oṃ vajragandhe hūṃ. gandham.
+oṃ vajranaivedye hūṃ. naivedyam. 
+svasvamudrayā yuktenādhiṣṭhāya, oṃ akāro mukhaṃ sarvadharmānām ādyanutpannatvāt oṃ āḥ hūṃ.
+khaḍgamudrayā baliṃ. 
+vajrabandhe khaḍgotkarṣaṇaṃ khaḍgābhinayaṃ.
+aparapūjāṅgāni vajrasatvamudrayādhitiṣṭhet.
+oṃ vajrasattva hūṃ. oṃ vajrāsani hūṃ. āsanam.
+-->
+
+<!-- RT, SI and AG have reached here on 2025-10-03 -->
 
 <lg met="anuṣṭubh">
 <l n="a">bāhubhyāṁ <app>
@@ -2286,7 +2340,7 @@ rdo rje se gol brdabs pa yis || sangs rgyas thams cad bsdu mdzad na ||</foreign>
 
 
 <p>
-samājamudrālakṣaṇam. oṁ vajrasamāja <app>
+samājamudrālakṣaṇam. om̐ vajrasamāja <app>
 <lem>
 <seg rend="check">jjaḥ</seg>
 </lem>
@@ -2521,7 +2575,7 @@ oṁ sarvatathāgata-puṣpa-pūjā-megha-samudra-spharaṇa<app>
 oṁ sarvatathāgata-gandha-pūjā-megha-samudra-spharaṇa-samaye hūm̐ iti gandhaiḥ,
 oṁ sarvatathāgata-dhūpa-pūjā-megha-samudra-spharaṇa-samaye <app>
 <lem type="emn">hūm̐ iti</lem>
-<rdg wit="#cod">hū;ṁm iti</rdg>
+<rdg wit="#cod">hūm̐m iti</rdg>
 <rdg wit="#MSK">hūṁ || iti</rdg>
 <witDetail wit="#MSK" type="silemn"/>
 </app> dhūpaiḥ,
@@ -2536,7 +2590,7 @@ oṁ sarvatathāgata<app>
 <rdg wit="#cod">-dīpaṁpūjā-</rdg>
 </app>megha-samudra-spharaṇa-samaye <app>
 <lem type="emn">hūm̐ iti</lem>
-<rdg wit="#cod">hū<seg rend="check">;ṁ</seg>m iti</rdg>
+<rdg wit="#cod">hū<seg rend="check">m̐</seg>m iti</rdg>
 <rdg wit="#MSK">hūṁ || iti</rdg>
 <witDetail wit="#MSK" type="silemn"/>
 </app> dīpaiḥ,
@@ -2588,7 +2642,7 @@ spharaṇakarmmavāṇe</note>
 
 <lg met="FILL-ME-IN">
 <head type="editorial">Vajraratna</head>
-<l n="ab">oṁ namaḥ sarvatathāgatakāyābhiṣekaratnebhyo vajramaṇi oṁ |</l>
+<l n="ab">oṁ namaḥ sarvatathāgatakāyābhiṣekaratnebhyo vajramaṇi om̐ |</l>
 </lg>
 
 <lg met="FILL-ME-IN">
@@ -2759,10 +2813,10 @@ sattvasadr̥śībhiḥ karmamudrāyuktābhiḥ <app>
 <!-- -pūjāmeghasamudraspharaṇakarmmavajra: em. -pūjāspharaṇakarmavajrī, with MSK. -->
 <!-- jāḥ: em. jaḥ or jjaḥ. -->
 <!-- -pūspharaṇakarmmavāṇe: em. -pūjāspharaṇakarmavāṇe, with MSK (sil. em.). -->
-<!-- °o;ṁ sarvatathāgatasūryebhyo: em. °o;ṁ namaḥ sarvatathāgatasūryebhyo, with MSK.  -->
+<!-- °om̐ sarvatathāgatasūryebhyo: em. °om̐ namaḥ sarvatathāgatasūryebhyo, with MSK.  -->
 <!-- vajradhvajāgri: STTS read vajradhvajāgre. -->
 <!-- tram·: MSK emends trāṁ, but STTS read tram. -->
-<!-- °o;ṁ namaḥ sarva-: STTS shows no namaḥ here, and MSK omits it too. -->
+<!-- °om̐ namaḥ sarva-: STTS shows no namaḥ here, and MSK omits it too. -->
 <!-- -vajradharmmasamatā-: em. -vajradharmatā-, with STTS? -->
 <!-- -samādhibhi stutomi:  em. -samādhibhiḥ stunomi, with STTS. MSK keeps stutomi. -->
 <!-- -nirhārai stutomi: em. nirhāraiḥ stunomi, with STTS. MSK keeps stutomi. -->
@@ -2871,7 +2925,7 @@ tataḥ catuḥpraṇāmaṁ kr̥tvā śrīvajrasattvamahāmudrā<app>
 </app>  sarvatathāgatakāya<app>
 <lem wit="#MSK" type="emn">vā<!-- vā --></lem>
 <rdg wit="#cod">-kāk-</rdg>
-</app> kcittavajramātmānaṁ bhāvayedanena | oṁ vajrātmako'hamiti | tataḥ svabhāvaśuddhaṁ | oṁ svabhāvaśuddho'hamiti | nairātmyasamatayā ca | vairocanādisarvadevatāsvabhāvam | oṁ sarvasamo'hamiti ||
+</app> kcittavajramātmānaṁ bhāvayedanena | om̐ vajrātmako'hamiti | tataḥ svabhāvaśuddhaṁ | om̐ svabhāvaśuddho'hamiti | nairātmyasamatayā ca | vairocanādisarvadevatāsvabhāvam | om̐ sarvasamo'hamiti ||
 <!-- MSK refers to Amoghavajra as source for these mantras. -->
 <!-- -vyavasthitāḥ: em. -vyavasthitaḥ, with MSK. -->
 <!-- -kāk-: em. -vāk-, with MSK. -->
@@ -2939,7 +2993,7 @@ khede sati <app>
 </p>
 
 <p>
-tato vajraratnasamayamudrayā hr̥dayotthitayā svābhiṣekasthānasthitayā sarvamudrābhiṣekaṁ kuryāt/ oṁ vajraratnābhiṣiñceti/ tadanu <app>
+tato vajraratnasamayamudrayā hr̥dayotthitayā svābhiṣekasthānasthitayā sarvamudrābhiṣekaṁ kuryāt/ om̐ vajraratnābhiṣiñceti/ tadanu <app>
 <lem wit="#MSK" type="emn">pūrvava</lem>
 <rdg wit="#cod">pūrvat</rdg>
 </app>tkavacabandhaṁ kuryāttarjanībhyām | <app>
@@ -2955,7 +3009,7 @@ tato vajraratnasamayamudrayā hr̥dayotthitayā svābhiṣekasthānasthitayā sa
 <listApp type="parallels">
 <app>
 <lem>tato ... vam iti</lem>
-<note>STTS 310: <foreign>tato hr̥dayotthitayā ratnavajrimudrayā svābhiṣekasthānasthitayābhiṣcyāgrāṅgulibhyāṁ mālāṁ veṣṭayan baddhvā, tathaiva kavacaṁ bandhayed anena hr̥dayena, oṁ ratnavajrābhiṣiñca sarvamudrāṁ me dr̥ḍhīkuru varakavacena vaṁ</foreign>.
+<note>STTS 310: <foreign>tato hr̥dayotthitayā ratnavajrimudrayā svābhiṣekasthānasthitayābhiṣcyāgrāṅgulibhyāṁ mālāṁ veṣṭayan baddhvā, tathaiva kavacaṁ bandhayed anena hr̥dayena, om̐ ratnavajrābhiṣiñca sarvamudrāṁ me dr̥ḍhīkuru varakavacena vaṁ</foreign>.
 </note>
 </app>
 </listApp>/ ante samatālayā toṣayet <app>
@@ -3637,7 +3691,7 @@ tato <app>
 </app> ||
 </p>
 <!-- encode KSP parallel -->
-<!-- tataḥ sattvaparyaṇkaniṣaṇṇa ātmānaṁ harṣayet.
+<!-- tataḥ sattvaparyaṅkaniṣaṇṇa ātmānaṁ harṣayet.
 adya me saphalaṁ janma saphalaṁ jīvitaṁ ca me |
 samaḥ samayabuddhānāṁ bhavitāhaṁ na saṁśayaḥ || -->
 
@@ -3756,7 +3810,7 @@ yet</lem>
 <app>
 <note>BhḌ: <foreign>tato dhūpavartikāhastaḥ sarvāṅgaiḥ sarvabuddhān praṇamya nimantrayet</foreign>
 </note>
-<note>KSP: <foreign>sarvāṇgena praṇamya hūṁ jaḥ vajrajihvaḥ sarvabuddhān nimantrayet</foreign>
+<note>KSP: <foreign>sarvāṅgena praṇamya hūṁ jaḥ vajrajihvaḥ sarvabuddhān nimantrayet</foreign>
 </note>
 </app>
 </listApp>
@@ -5714,7 +5768,7 @@ syāyutasevāṁ kr̥tvā
 <lg met="FILL-ME-IN">
 <l n="ab">
 <app>
-<lem wit="#MSK" type="emn">oṁ āḥ hūm̐ i<!-- oṁ āḥ hūm̐ i --></lem>
+<lem wit="#MSK" type="emn">oṁ āḥ hūm̐ i<!-- om̐ āḥ hūm̐ i --></lem>
 <rdg wit="#cod">om̐ aḥ hūm̐m ity</rdg>
 </app> tyanena <app>
 <lem wit="#MSK" type="emn">
@@ -6239,7 +6293,7 @@ samālikhet |</l>
 <!-- mahāsatvā: emend mahāsattvān, with \MSK. -->
 
 <!-- \MSK -->
-<!--  tatredaṁ vajravegahr̥dayaṁ bhavati | oṁ vajravegākrama hūṁ || iti ||  -->
+<!--  tatredaṁ vajravegahr̥dayaṁ bhavati | om̐ vajravegākrama hūṁ || iti ||  -->
 
 <!-- RT&AG -->
 <lg met="FILL-ME-IN">
@@ -6250,7 +6304,7 @@ samālikhet |</l>
 </app>  iti ||
 <note>STTS §864:
 <foreign>tatredaṁ vajravegahr̥dayaṁ bhavati
-  oṁ vajravegākrama hūṁ</foreign>.
+  om̐ vajravegākrama hūṁ</foreign>.
 </note>
 </l>
 </lg>
@@ -8043,7 +8097,7 @@ atibalaḥ 1 | prajñāpuṣpaḥ 2 | <app>
 <note>SDPT:
 <foreign>sarvaratnauṣadhisarvadhānyaparipūrṇaṁ saphalaṁ sapallavaṁ sadvastrāvabaddhakaṇṭhakaṁ kr̥tarakṣaṁ bahiḥ samantād divyagandhānuliptaṁ sragviṇaṁ vajrāṁkitam upari mahāvajrādhiṣṭhitaṁ krodhaterintirīparigr̥hītayā vajrakusumalatayā</foreign> (p.258)</note>
 </app>
-</listApp> |  oṁ vajrodaka hūm̐ iti |
+</listApp> |  om̐ vajrodaka hūm̐ iti |
 <!-- \unclear{tābhisso}ṣadhībhiḥ: emend tābhis sarvauṣadhibhiḥ. HT's emendation to -dhibhiḥ is perhaps not necessary. -->
 <!-- kusumais: read kusumaiś. -->
 <!-- \unclear{s}ra\unclear{khin}aṁ: sragvinaṁ HT. It seems impossible to us to read gv. -->
@@ -8317,7 +8371,7 @@ kurvan acchaṭāsaṁghātaṁ sarvabuddhān samājayet ||</foreign> (p.\ 260)<
 <listApp type="parallels">
 <app>
 <lem>oṁ vajrasamāja ... pravartayan</lem>
-<note>SDPT: oṁ vajrasamāja jaḥ vaṁ hoḥ iti | ekaviṁśativāraṁ pravartayet | (p.\ 260)
+<note>SDPT: om̐ vajrasamāja jaḥ vaṁ hoḥ iti | ekaviṁśativāraṁ pravartayet | (p.\ 260)
 </note>
 </app>
 </listApp> |
@@ -8536,7 +8590,7 @@ oṁkāreṇa vajrasattvena ca <app>
 <listApp type="parallels">
 <app>
 <lem>puṣpavr̥kṣaśatam ... sarvadevatābhyo niryātayet</lem>
-<note>SDPT p. 270: <foreign>vajrasphara<seg rend="check">ṇa</seg>m ity anena sarvadevatān niryātayet | puṣpavr̥kṣaśataṁ caturo vā vr̥kṣān sarvapuṣpāṇi ca | vajrānalena mudrāyuktena | oṁ vajrapuṣpe huṁ iti ca puṣpamudrayābhimantrya | sarvagandhān suvāsāṁś ca vilepanasugandhakān tathaiva vajrānalena | oṁ vajragandhe huṁ ity anayā ca gandhamudrāyuktayā karpūrāguruturuskāni candanādisaṁmiśrāṇi | tathaiva vajrānalena oṁ vajradhūpe huṁ ity anayā dhūpamudrāsahitayā dhūpaghaṭikālakṣaṁ daśasahasraṁ śataṁ yathālābhaṁ vā pradīpalakṣaṁ daśasahasraṁ śataṁ sarvapradīpān pradīpavartijvalitayuktaṁ kuṇḍaṁ sahasraṁ ca daśaikaṁ vā | tathaiva vajrānalena oṁ vajrāloke *\textcolor{red}{huṁ (CHECK THE EDITION!!)}ity anayā pradīpamudrāyuktayā parijapya | oṁ vajraspharaṇam ity udīrayan niryātayet | balyupahāraṁ ca lakṣaṁ daśasahasraṁ śataṁ daśasaṁkhyāṁ vā svastikam āditaḥ kr̥tvā nānāprakārāṇi ca bhakṣāṇi | tathaiva vajrānalena parijapya |</foreign>
+<note>SDPT p. 270: <foreign>vajrasphara<seg rend="check">ṇa</seg>m ity anena sarvadevatān niryātayet | puṣpavr̥kṣaśataṁ caturo vā vr̥kṣān sarvapuṣpāṇi ca | vajrānalena mudrāyuktena | om̐ vajrapuṣpe huṁ iti ca puṣpamudrayābhimantrya | sarvagandhān suvāsāṁś ca vilepanasugandhakān tathaiva vajrānalena | om̐ vajragandhe huṁ ity anayā ca gandhamudrāyuktayā karpūrāguruturuskāni candanādisaṁmiśrāṇi | tathaiva vajrānalena om̐ vajradhūpe huṁ ity anayā dhūpamudrāsahitayā dhūpaghaṭikālakṣaṁ daśasahasraṁ śataṁ yathālābhaṁ vā pradīpalakṣaṁ daśasahasraṁ śataṁ sarvapradīpān pradīpavartijvalitayuktaṁ kuṇḍaṁ sahasraṁ ca daśaikaṁ vā | tathaiva vajrānalena om̐ vajrāloke *\textcolor{red}{huṁ (CHECK THE EDITION!!)}ity anayā pradīpamudrāyuktayā parijapya | om̐ vajraspharaṇam ity udīrayan niryātayet | balyupahāraṁ ca lakṣaṁ daśasahasraṁ śataṁ daśasaṁkhyāṁ vā svastikam āditaḥ kr̥tvā nānāprakārāṇi ca bhakṣāṇi | tathaiva vajrānalena parijapya |</foreign>
 </note>
 </app>
 </listApp>
@@ -8656,7 +8710,7 @@ puṣpavr̥kṣaśataṁ caturo vā <app>
 <!-- mukhyam: em. mukham, with HT (sil. em.). -->
 <!-- sarvadevatābhyo: sarvadevatābhyāṁ HT. -->
 <!-- niyātayet: em. niryātayet, with HT (sil. em.). -->
-<!-- SDPT p. 270: vajraspharaṇam ity anena sarvadevatān niryātayet | puṣpavr̥kṣaśataṁ caturo vā vr̥kṣān sarvapuṣpāṇi ca | vajrānalena mudrāyuktena | oṁ vajrapuṣpe huṁ iti ca puṣpamudrayābhimantrya | sarvagandhān suvāsāṁś ca vilepanasugandhakān tathaiva vajrānalena | oṁ vajragandhe huṁ ity anayā ca gandhamudrāyuktayā karpūrāguruturuskāni candanādisaṁmiśrāṇi | tathaiva vajrānalena oṁ vajradhūpe huṁ ity anayā dhūpamudrāsahitayā dhūpaghaṭikālakṣaṁ daśasahasraṁ śataṁ yathālābhaṁ vā pradīpalakṣaṁ daśasahasraṁ śataṁ sarvapradīpān pradīpavartijvalitayuktaṁ kuṇḍaṁ sahasraṁ ca daśaikaṁ vā | tathaiva vajrānalena oṁ vajrāloke ity anayā pradīpamudrāyuktayā parijapya | oṁ vajraspharaṇam ity udīrayan niryātayet | balyupahāraṁ ca lakṣaṁ daśasahasraṁ śataṁ daśasaṁkhyāṁ vā svastikam āditaḥ kr̥tvā nānāprakārāṇi ca bhakṣāṇi | tathaiva vajrānalena parijapya | -->
+<!-- SDPT p. 270: vajraspharaṇam ity anena sarvadevatān niryātayet | puṣpavr̥kṣaśataṁ caturo vā vr̥kṣān sarvapuṣpāṇi ca | vajrānalena mudrāyuktena | om̐ vajrapuṣpe huṁ iti ca puṣpamudrayābhimantrya | sarvagandhān suvāsāṁś ca vilepanasugandhakān tathaiva vajrānalena | om̐ vajragandhe huṁ ity anayā ca gandhamudrāyuktayā karpūrāguruturuskāni candanādisaṁmiśrāṇi | tathaiva vajrānalena om̐ vajradhūpe huṁ ity anayā dhūpamudrāsahitayā dhūpaghaṭikālakṣaṁ daśasahasraṁ śataṁ yathālābhaṁ vā pradīpalakṣaṁ daśasahasraṁ śataṁ sarvapradīpān pradīpavartijvalitayuktaṁ kuṇḍaṁ sahasraṁ ca daśaikaṁ vā | tathaiva vajrānalena om̐ vajrāloke ity anayā pradīpamudrāyuktayā parijapya | om̐ vajraspharaṇam ity udīrayan niryātayet | balyupahāraṁ ca lakṣaṁ daśasahasraṁ śataṁ daśasaṁkhyāṁ vā svastikam āditaḥ kr̥tvā nānāprakārāṇi ca bhakṣāṇi | tathaiva vajrānalena parijapya | -->
 <!--  \pend -->
 
 <lg met="FILL-ME-IN">
@@ -8926,8 +8980,8 @@ tato bāhyabaliṁ dadyād | uttarasādhakaṁ <app>
 pratyālīḍhapadena sthitvāvāhanamudrāyas tarjanīṁ prasārya visarjanamudrā.  athāsya mantraḥ. namo vajrasya diśi vajrapāṇe rakṣa svāhā</foreign>;
 
 KSP (chapter 6, Homa, 6-7-14-1):
-<foreign>tataḥ samapadaṁ sthitvā tarjanyaṇkuśarāhitā samayamudrā. 
-prokṣaṇārghapādyācamanaṁ ca kr̥tvā puṣpādibhiḥ saṁpūjyāṣṭālāsyādīś ca kr̥tvā, oṁ namo vajrasya ca diśi 2 vajrapāṇe rakṣa 2 svahā ity anena baliṁ dadyāt. tataḥ pratyālīḍhapadena sthitvā, āvāhanamudrayā tarjanīṁ prasārya visarjayet. iti śakrasya</foreign>.
+<foreign>tataḥ samapadaṁ sthitvā tarjanyaṅkuśarāhitā samayamudrā. 
+prokṣaṇārghapādyācamanaṁ ca kr̥tvā puṣpādibhiḥ saṁpūjyāṣṭālāsyādīś ca kr̥tvā, om̐ namo vajrasya ca diśi 2 vajrapāṇe rakṣa 2 svahā ity anena baliṁ dadyāt. tataḥ pratyālīḍhapadena sthitvā, āvāhanamudrayā tarjanīṁ prasārya visarjayet. iti śakrasya</foreign>.
 </note>
 </app>
 </listApp>
@@ -8998,11 +9052,11 @@ KSP (chapter 6, Homa, 6-7-14-2):
 <foreign>vakṣyamāneṣv apy ākarṣaṇasamayavisarjaneṣu yathākramam ālīḍhasamapratyālīḍhapadāni prokṣaṇādipūjāṁś ca pūrvavat. 
 mantramudrānāṁ tu viśeṣaḥ. 
 dakṣiṇatarjanīkuṇḍalākāre kuñcayitvā madhyamasūcyās tr̥tīyaparva dhārayet. 
-aṇguṣṭhaṁ ca karamadhye sthapayet. 
+aṅguṣṭhaṁ ca karamadhye sthapayet. 
 ity āvāhanam.
-asyā mudrāyā aṇguṣṭhatarjanīpārśvāśritaḥ samayaḥ.
+asyā mudrāyā aṅguṣṭhatarjanīpārśvāśritaḥ samayaḥ.
 oṁ ehy ehi kapila jvala 2 ha 2 śikhi toli virupākṣa svāhā.
-asyā mudrāyās tarjanyaṇguṣthaṁ nakhāś caikato yojya visarjayet.
+asyā mudrāyās tarjanyaṅguṣthaṁ nakhāś caikato yojya visarjayet.
 ity agneḥ.</foreign>
 </note>
 </app>
@@ -9160,7 +9214,7 @@ asyā eva mudrāyā vāmakaraṁ kaṭideśe 'vasthitaṁ khaḍgamudrā. nairr�
 KSP (chapter 6, Homa, 6-7-14-4):
 <foreign>vāmamuṣṭiṁ kaṭipradeśe sthāpya tarjanīṁ kuñcayitvā, dakṣiṇamuṣṭimadhyamātarjanībhyāṁ khaḍgākarṣaṇād āvāhanam.
 asyā eva vāmatarjanyākuṁcanarahitā samayaḥ.
-oṁ sarvabhūtabhayaṇkara kuru 2 svāhā.
+oṁ sarvabhūtabhayaṅkara kuru 2 svāhā.
 asyā eva vāmatarjanīprasāraṇād visarjanam.
 iti nairr̥tyasya.</foreign>
 
@@ -9210,9 +9264,9 @@ iti nairr̥tyasya.</foreign>
 mantro 'sya. tr̥tr̥puṭa tr̥tr̥śikhitoli virūpākṣa svāhā</foreign>;
 
 KSP (chapter 6, Homa, 6-7-14-5):
-<foreign>dakṣiṇamuṣṭau tarjanyaṇguṣṭhāv ekato yojyau. 
-vāmamuṣṭiṁ hr̥di kr̥tvā tarjanyaṇkuśenāvāhayet. 
-saivāṇkuśarahitā samayaḥ.
+<foreign>dakṣiṇamuṣṭau tarjanyaṅguṣṭhāv ekato yojyau. 
+vāmamuṣṭiṁ hr̥di kr̥tvā tarjanyaṅkuśenāvāhayet. 
+saivāṅkuśarahitā samayaḥ.
 oṁ bhr̥ 2 puṭa bhr̥ 2 śikhi toli virupākṣa svāhā.
 vāmatarjanīṁ prasārya visarjanam.
 varuṇasya.</foreign>
@@ -9264,7 +9318,7 @@ vāyavyāṁ <app>
  prasā<seg rend="check">rya</seg> visarjanamudrā | <app>
 <lem type="emn" wit="#HT">mantraḥ<!--mantraḥ--></lem>
 <rdg wit="#cod">mantra</rdg>
-</app>  | oṁ <app>
+</app>  | om̐ <app>
 <lem type="emn">śvasa khākha khakhaḥ</lem>
 <rdg wit="#cod">
 <unclear>sva</unclear>sa khākha khakhaḥ</rdg>
@@ -9281,14 +9335,14 @@ vāyavyāṁ <app>
 dakṣiṇakaraṁ kaṭideśe saṁsthāpya kuṁcitāṁguṣṭhena vāyor āvāhanamudrā.
 asyā <seg rend="check">cvāṁguṣṭhaṁ</seg> pūrvavat saṁdhārya vāyor samayamudrā.
 āvāhanamudrāyā aṁguṣṭhaṁ prasārya visarjanamudrā. 
-mantraḥ. oṁ śvasa khākhe khukhaḥ svāhā</foreign>;
+mantraḥ. om̐ śvasa khākhe khukhaḥ svāhā</foreign>;
 
 KSP (chapter 6, Homa, 6-7-14-6):
 <foreign>vāmamuṣṭhāv ucchritamadhyamātr̥tīyaparva tarjanīkuṇḍalākāreṇa dhārayet. 
-dakṣiṇamuṣṭiṁ kaṭipradeśe saṁsthāpy ākuñcitāṇguṣṭhenāvāhayet. 
-saiva dakṣiṇāṇguṣṭhapradeśāt samayaḥ.
+dakṣiṇamuṣṭiṁ kaṭipradeśe saṁsthāpy ākuñcitāṅguṣṭhenāvāhayet. 
+saiva dakṣiṇāṅguṣṭhapradeśāt samayaḥ.
 oṁ susakhakhakhūkha svahā.
-atraivāṇguṣṭhaprasāraṇād visarjanam.
+atraivāṅguṣṭhaprasāraṇād visarjanam.
 vāyoḥ</foreign>.
 </note>
 </app>
@@ -9338,14 +9392,14 @@ asyā eva <app>
 <app>
 <lem type="emn">madhyamādvayaṁ<!-- madhyamādvayaṁ --></lem>
 <rdg wit="#cod #HT">madhyādvayaṁ</rdg>
-</app>  prasā<seg rend="check">rya</seg> visarjanamudrā | mantraḥ | oṁ kuberāya svāhā |
+</app>  prasā<seg rend="check">rya</seg> visarjanamudrā | mantraḥ | om̐ kuberāya svāhā |
 <listApp type="parallels">
 <app>
 <note>SDPT p.\ 276:
 <foreign>kauberyabhimukhaṁ sthitaḥ karadvayam abhimukhaṁ kr̥tvābhyantaravajrabandhaṁ kaniṣṭhādvayasūcīṁ tasyāḥ pr̥ṣṭhato 'nāmikāyugalaṁ pr̥thak saṁdhārya madhyamāsūcīṁ vajrākāreṇa nāmayet. kuberāvāhanamudrā. 
 asyā eva mudrāyā madhyamādvayam abhyantaravajrabandhayogato nyasya kuberasya samayamudrā.
 āvāhanamudrāyā madhyamādvayaṁ prasārya visarjanamudrā. 
-mantro 'sya. oṁ kuberāya svāhā</foreign>;
+mantro 'sya. om̐ kuberāya svāhā</foreign>;
 
 KSP (chapter 6, Homa, 6-7-14-7):
 <foreign>abhyantaravajrabandhe kaniṣṭhādvayaṁ sūcīkr̥tvā tatpr̥ṣṭhato 'nāmikāyugalaṁ pr̥thak pr̥thak saṁdhārya madhyamādvayaṁ sūcīkr̥tvā <seg rend="check">vajrākareṇānayet</seg>. āvāhanam.
@@ -9423,7 +9477,7 @@ kuberasya.</foreign>
 <witDetail wit="#HT" type="silemn"/>
 <rdg wit="#cod">praśā<seg rend="check">rya</seg>
 </rdg>
-</app> visarjanamudrā | mantraḥ | oṁ <app>
+</app> visarjanamudrā | mantraḥ | om̐ <app>
 <lem wit="#cod">jrum̐ jrum̐<!-- jrum̐ jrum̐ --></lem>
 <rdg wit="#HT">juṁ juṁ</rdg>
 <witDetail wit="#HT" type="emn"/>
@@ -9435,7 +9489,7 @@ kuberasya.</foreign>
 parasparanakhāsaktaṁ kuryāt. īśānāvāhanamudrā. 
 asyā eva tarjanyau pūrvavad vajrākāreṇa dhāraye. īśānasamayamudrā. 
 āvāhanamudrāyās tarjanyau prasārya visarjanamudrā.
-mantraḥ. oṁ juṁ juṁ śiva svāhā</foreign>;
+mantraḥ. om̐ juṁ juṁ śiva svāhā</foreign>;
 
 KSP (chapter 6, Homa, 6-7-14-8):
 <foreign>kanyasyanāmikābhyāṁ talavajrabandhaṁ kr̥tvā aguṣṭhayugalaṁ madhyamāśritamadhyamasūcyāḥ pr̥ṣṭhatas tarjanīdvayaṁ vajrākāreṇa saṁdhāryākuñcya parasparaṁ nakhāśaktaṁ kuryāt.  āvahanam.
@@ -9457,7 +9511,7 @@ itīśānasya.</foreign>
 <!-- tarjanyo: em. tarjanyau, with HT. -->
 <!-- pūrvvavajrākāreṇa: em. pūrvavad vajrākāreṇa, as in SDPT; see note HT. -->
 <!-- praśāya: em. prasārya, with HT (sil. em.). -->
-<!-- jru;ṁ jru;ṁ: juṁ juṁ HT. -->
+<!-- jrum̐ jrum̐: juṁ juṁ HT. -->
 </ab>
 
 <ab>
@@ -9481,7 +9535,7 @@ pratyālīḍhasthānastho'ñjalyākāreṇa <app>
 <foreign>pratyālīḍhasthānastho 'ṁjalyākāreṇa hastau saṁdhārya, ūrdhvaṁ dr̥ṣṭvā tarjanīdvayāṁkuśyā brahmādīnāṁ āvāhanamudrā. 
 asyā eva tarjanīdvayaṁ pūrvavat saṁsthāpya samayamudrā. 
 āvāhanamudrāyās tarjanīdvayaṁ prasārya visarjanamudrā. 
-mantrās teṣām. oṁ ūrdhvaṁ brahmaṇe svāhā. oṁ sūryāya grahādhipataye svāhā. oṁ candrāya nakṣatrādhipataye svāhā</foreign>;
+mantrās teṣām. om̐ ūrdhvaṁ brahmaṇe svāhā. om̐ sūryāya grahādhipataye svāhā. om̐ candrāya nakṣatrādhipataye svāhā</foreign>;
 
 KSP (chapter 6, Homa, 6-7-14-9):
 <foreign>ūrdhvaṁ dr̥ṣṭvā saṁpuṭāñjaliṁ kr̥tvā tarjanīdvayam ākuñcyāvāhayet.
@@ -9554,11 +9608,11 @@ visarjana<supplied reason="lost">m</supplied>
 <foreign>samapadaṁ sthānam āsthāya hastadvayam ekato yojyāvicalānyony āṁgulyagrā samyojyāṁguṣṭhau vartulākāreṇādhodr̥ṣṭiṁ kr̥tvā pr̥thivyādīnāṁ tarjanyaṁkuśābhyām āvāhanam. 
 tarjanyau pūrvavad vyavasthāpya samayamudrā. 
 āvāhanamudrāyāḥ prasāritatarjanībhyāṁ visarjanamudrā.
-mantraḥ. om adhaḥ pr̥thivyai svāhā. oṁ asurebhyaḥ svāhā. oṁ nāgebhyaḥ svāhā</foreign>;
+mantraḥ. om adhaḥ pr̥thivyai svāhā. om̐ asurebhyaḥ svāhā. om̐ nāgebhyaḥ svāhā</foreign>;
 
 KSP (chapter 6, Homa, 6-7-14-10):
-<foreign>hastadvayena jalāñjaliṁ kr̥tvāṇguṣṭhau vartulākārav adho dr̥ṣṭiṁ kr̥tvā tarjanyaṇkuśābhyām āvāhayet.
-tarjanyaṇkuśarahitā samayaḥ.
+<foreign>hastadvayena jalāñjaliṁ kr̥tvāṅguṣṭhau vartulākārav adho dr̥ṣṭiṁ kr̥tvā tarjanyaṅkuśābhyām āvāhayet.
+tarjanyaṅkuśarahitā samayaḥ.
 oṁ adhaḥpr̥thivyai svāhā.
 oṁ asurebhyaḥ svāhā.
 oṁ nāgebhyaḥ svāhā.
@@ -10885,11 +10939,11 @@ anāśvastān āśvāsayiṣyāmi sattvān sthāpayāmi nirvṛttāv iti //
 </app>
 </listApp>
 
-<p><supplied reason="lost">tataḥ, oṁ sarvayogacittam utpādayāmīty anena |</supplied></p>
+<p><supplied reason="lost">tataḥ, om̐ sarvayogacittam utpādayāmīty anena |</supplied></p>
 <listApp type="parallels">
 <app>
 <note sameAs="#SDP288:27">SDP 288:27.</note>
-<note corresp="#SVUTib">SVU Tib. <foreign>de nas oṁ <lb edRef="#SVUTibD" n="44a4"/>
+<note corresp="#SVUTib">SVU Tib. <foreign>de nas om̐ <lb edRef="#SVUTibD" n="44a4"/>
  sa rba yo ga tsi tta au tpā da yā mi zhes bya ba 'dis/</foreign>
 </note>
 </app>
@@ -10938,7 +10992,7 @@ anāśvastān āśvāsayiṣyāmi sattvān sthāpayāmi nirvṛttāv iti //
 <lem type="emn">hoḥ</lem>
 <rdg wit="#SVUTib">aḥ</rdg>
 <note>We believe that the <foreign>bīja</foreign>
-<foreign>aḥ</foreign> found in the parallel texts is due to an error in transmision. It should be <foreign>hoḥ</foreign>, since the seed-syllables <foreign>jaḥ hūṁ vaṁ hoḥ</foreign> are a strong unit, meaning <foreign>ākarṣaṇa, praveśana, bandhana</foreign>, and <foreign>vaśīkaraṇa</foreign>. The cause of this corruption seems to lie in the fact that <foreign>aḥ</foreign> is also the syllable for <foreign>āveśa</foreign> (possesion). Cf. STTS 224: <foreign>vajrāveśa aḥ</foreign>. The expected pattern in found in KSP (Devatāyoga, ed. Inui): <foreign>vajrāṅkuśa oṁ vajrāṇkuśa jaḥ | vajrapāśa oṁ vajrapāśa hūṁ | vajrasphoṭa oṁ vajrasphoṭa vaṁ | vajrāveśa oṁ vajrāveśa hoḥ |</foreign>.
+<foreign>aḥ</foreign> found in the parallel texts is due to an error in transmision. It should be <foreign>hoḥ</foreign>, since the seed-syllables <foreign>jaḥ hūṁ vaṁ hoḥ</foreign> are a strong unit, meaning <foreign>ākarṣaṇa, praveśana, bandhana</foreign>, and <foreign>vaśīkaraṇa</foreign>. The cause of this corruption seems to lie in the fact that <foreign>aḥ</foreign> is also the syllable for <foreign>āveśa</foreign> (possesion). Cf. STTS 224: <foreign>vajrāveśa aḥ</foreign>. The expected pattern in found in KSP (Devatāyoga, ed. Inui): <foreign>vajrāṅkuśa om̐ vajrāṅkuśa jaḥ | vajrapāśa om̐ vajrapāśa hūṁ | vajrasphoṭa om̐ vajrasphoṭa vaṁ | vajrāveśa om̐ vajrāveśa hoḥ |</foreign>.
 </note></app> iti |</supplied></p>
 <listApp type="parallels">
 <app>
@@ -10947,8 +11001,8 @@ anāśvastān āśvāsayiṣyāmi sattvān sthāpayāmi nirvṛttāv iti //
 </note>
 <note>KSP, chapter 6 (<foreign>Abhiṣeka</foreign>):
 <foreign>tato madhyamāṅgulidvayena mālām ādāya praveśayed anena samaya hūṁ |
-        svadvāre<seg type="highlight">ṇa</seg> vajrāṅkuśādibhiś cākr̥ṣya praveśya baddhvā vaśīkuryāt | oṁ vajrāṅkuśa jaḥ, oṁ vajrapāśa hūṁ, oṁ vajrasphoṭa vaṁ, oṁ vajrāveśa <seg type="highlight">aḥ</seg> iti</foreign><!-- we have checked Sakurai's edition -->.</note>
-<note corresp="#SDP290:8–11">SDP 290:8–11 <foreign>tatas tayaivāṅgusthābhyāṁ puṣpamālāṁ grāhayitvā praveśayed anena hr̥dayena | oṁ vajrasamayaṁ praviśāmīti | pūrvadvāre ca vajrāṅkuśena tam ākarṣayet | dakṣiṇena pāśena praveśayet | paścimena sphoṭena badhnīyāt | uttare vajrāveśena veśayet |</foreign>.
+        svadvāre<seg type="highlight">ṇa</seg> vajrāṅkuśādibhiś cākr̥ṣya praveśya baddhvā vaśīkuryāt | om̐ vajrāṅkuśa jaḥ, om̐ vajrapāśa hūṁ, om̐ vajrasphoṭa vaṁ, om̐ vajrāveśa <seg type="highlight">aḥ</seg> iti</foreign><!-- we have checked Sakurai's edition -->.</note>
+<note corresp="#SDP290:8–11">SDP 290:8–11 <foreign>tatas tayaivāṅgusthābhyāṁ puṣpamālāṁ grāhayitvā praveśayed anena hr̥dayena | om̐ vajrasamayaṁ praviśāmīti | pūrvadvāre ca vajrāṅkuśena tam ākarṣayet | dakṣiṇena pāśena praveśayet | paścimena sphoṭena badhnīyāt | uttare vajrāveśena veśayet |</foreign>.
 </note>
 </app>
 </listApp>
@@ -11076,7 +11130,7 @@ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tv�
      <foreign>brūhi sarvatathāgatā adhitiṣṭhantāṁ vajrasattvo ma āviśatu |</foreign>
   </note>
   <note corresp="#KSP">KSP (<seg rend="check">reference</seg>)
-  <foreign>śiṣyena vācyam. sarvatathāgatāś cādhiṣṭhantām. vajrasattvo me(sic) āviśatu. tata ātmānaṁ śitavarṇaṁ śrīvajrāttvaṁ vicintayed āḥkāreṇa. tad anv āḥkāraṁ raśmimālāyuktaṁ svar̥daye vicintya, hūṁkāreṇa ca śiṣyaṁ vajrasattvarūpaṁ vicintya, hūṁ traḥ hrīḥ kaṁ iti hr̥dūrujihvāmūrdhasu vajraratnapadmaviśvavajrāṇkitaṁ kapāṭodghāṭanamudrayā svakīyaṁ hr̥dayam udghāṭyaṁ śiṣyahr̥dayaṁ ca. tataḥ svahr̥dgatavajrād aḥkāraṁ niścārya śiṣyahr̥disthavajramadhye buddhyā praveśya sarvakāyam āpūryamāṇaṁ cintayet. evaṁ vadet. brūhi sarvatathāgatāś cādhiṣṭhantāṁ vajrasattvo me(sic) āviśatu.</foreign>
+  <foreign>śiṣyena vācyam. sarvatathāgatāś cādhiṣṭhantām. vajrasattvo me(sic) āviśatu. tata ātmānaṁ śitavarṇaṁ śrīvajrāttvaṁ vicintayed āḥkāreṇa. tad anv āḥkāraṁ raśmimālāyuktaṁ svar̥daye vicintya, hūṁkāreṇa ca śiṣyaṁ vajrasattvarūpaṁ vicintya, hūṁ traḥ hrīḥ kaṁ iti hr̥dūrujihvāmūrdhasu vajraratnapadmaviśvavajrāṅkitaṁ kapāṭodghāṭanamudrayā svakīyaṁ hr̥dayam udghāṭyaṁ śiṣyahr̥dayaṁ ca. tataḥ svahr̥dgatavajrād aḥkāraṁ niścārya śiṣyahr̥disthavajramadhye buddhyā praveśya sarvakāyam āpūryamāṇaṁ cintayet. evaṁ vadet. brūhi sarvatathāgatāś cādhiṣṭhantāṁ vajrasattvo me(sic) āviśatu.</foreign>
 </note>
   <note sameAs="#SDPT292:1-8">SDPT 292:1-8
     <foreign>tad anu akāraṁ vajraraśmimālāyuktaṁ svahr̥di cintayet | tataḥ śiṣyahr̥dūrṇākaṇṭhamūrdhniṣu candramaṇḍala*sthaṁ(em.; <foreign>-stha-</foreign> ed.) pañcasūcikaṁ jvālāvajraṁ ratnaṁ padmaṁ viśvavajraṁ ca cintayet | ebhir yathākrameṇa *hūṁ (em.; <foreign>huṁ</foreign> ed.) *traḥ (em.; <foreign>traṁ</foreign> ed.) hrīḥ aḥ iti. kapāṭodghāṭanamudrayā svakīyaṁ śiṣyahr̥dayaṁ codghāṭya svahr̥dayād akāraṁ niścārya śiṣyahr̥dgatavajramadhye buddhyā praveśya sarvakāyam āpūryamāṇaṁ cintayet | evaṁ vadet brūhi sarvatathāgatāś <seg rend="check">cādhiṣṭhantāṁ</seg> vajrasattvo me āviśatu |</foreign>
@@ -11130,7 +11184,7 @@ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tv�
 <listApp type="parallels">
   <app>
   <note sameAs="#SDPT292:13-21">SDPT 292:13-21
-  <foreign>10, 20, 30, 40, 50, 60, 70, 80, 90, 100vārān uccārya niyatam āviśati | tataḥ krodhamuṣṭiṁ baddhvā sattvavajrīmudrāṁ sphoṭayed idam udīrayet | oṁ sumbhani sumbhani *hūṁ (em.; <foreign>huṁ</foreign> ed.) | oṁ gr̥hṇa gr̥hṇa *hūṁ (em.; <foreign>huṁ</foreign> ed.) | oṁ gr̥hṇāpaya gr̥hṇāpaya *hūṁ (em.; <foreign>huṁ</foreign> ed.) | oṁ ānaya hoḥ bhagavan vajrarāja *hūṁ (em.; <foreign>huṁ</foreign> ed.) phaṭ | aḥ aḥ aḥ aḥ. 10, 20, 30, 40, 50, 60, 70, 80, 90 śatavārān uccārayet | bhagavatā ca vajravātamaṇḍalyā ca *vajrahūmkāreṇa (em. <foreign>vajrahuṁkāreṇa</foreign> ed.) raktavarṇajvālāprabheṇāpūryamāṇaṁ cintayet |</foreign>
+  <foreign>10, 20, 30, 40, 50, 60, 70, 80, 90, 100vārān uccārya niyatam āviśati | tataḥ krodhamuṣṭiṁ baddhvā sattvavajrīmudrāṁ sphoṭayed idam udīrayet | om̐ sumbhani sumbhani *hūṁ (em.; <foreign>huṁ</foreign> ed.) | om̐ gr̥hṇa gr̥hṇa *hūṁ (em.; <foreign>huṁ</foreign> ed.) | om̐ gr̥hṇāpaya gr̥hṇāpaya *hūṁ (em.; <foreign>huṁ</foreign> ed.) | om̐ ānaya hoḥ bhagavan vajrarāja *hūṁ (em.; <foreign>huṁ</foreign> ed.) phaṭ | aḥ aḥ aḥ aḥ. 10, 20, 30, 40, 50, 60, 70, 80, 90 śatavārān uccārayet | bhagavatā ca vajravātamaṇḍalyā ca *vajrahūmkāreṇa (em. <foreign>vajrahuṁkāreṇa</foreign> ed.) raktavarṇajvālāprabheṇāpūryamāṇaṁ cintayet |</foreign>
   </note>
   <note>Bhūtaḍāmara manual (f. 9r) <foreign>-ntena raktajvālākulaprabheṇāpūryamāṇa[ṁ] cintayitvā hūṁ aḥ iti bahuśo japet |</foreign></note>
 <note corresp="#SVUTib">SVU Tib. <foreign xml:lang="tib">bcu nas lan brgya'i bar du brjod na nges par 'bab par 'gyur ro// de nas gal te 'bab par ma gyur na de'i tshe khro po'i khu tshur bcings la/ rdo rje sems ma'i phyag rgya dral bar bya zhing/ <seg rend="check">ba dzra sa t+wa ā ā ā āḥ</seg> zhes bya ba <lb edRef="#SVUTibD" n="45a3"/> 'di yang brjod la/ bcom ldan 'das rdo rje sems dpa' 'od zer dmar po <seg rend="check">'bal bas</seg> kun du khyab pas kun du gang bar bsams la/ lan brgya'i bar du bzla bar bya'o//</foreign>
@@ -11155,7 +11209,7 @@ na ca tvayāham avamantavyo mā te viṣamāparihāreṇa kālakriyāṁ kr̥tv�
 </app>
 <app>
 <lem wit="#MSK" type="emn">kruddhahūṁkāra</lem>
-<rdg wit="#cod">kruddhaṁhū;ṁkāra</rdg>
+<rdg wit="#cod">kruddhaṁhūm̐kāra</rdg>
 </app> raśmisa<app>
 <lem wit="#MSK" type="emn">mūhenā</lem>
 <rdg wit="#cod">-mūkenā-</rdg>
@@ -11177,7 +11231,7 @@ evaṁ pūrvādi<app>
 <!-- ākāśadese: em. ākāśadeśe, with MSK (sil. em.). -->
 <!-- śrīvajrasatvosyopari: em. śrīvajrasattvasyopari, with MSK. -->
 <!-- tasyaivāveśanāya: possibly the ms. shows tasyaivāveśanāyaṁ, but the anusvāra is unclear and anyhow unwanted. -->
-<!-- kruddhaṁhū;ṁkāra-: em. kruddhahū;ṁkāra-, with MSK. -->
+<!-- kruddhaṁhūm̐kāra-: em. kruddhahūm̐kāra-, with MSK. -->
 <!-- -mūkenā-: em. -mūhenā-, with MSK.; MSL wrongly reports a -mūmena- as reading. -->
 <!-- -disthitair: em. -diksthitair, with MSK. -->
 <!-- akṣobhyādiḥ: em. akṣobhyādibhiḥ, with MSK. -->
@@ -11342,7 +11396,7 @@ dahyamānaṁ cintayet <seg rend="check">|</seg> niyatam āviśati | evam api
 <rdg wit="#cod">bhavanti</rdg>
 </app>  ||
 </l>
-<!-- hū;ṁkāramadhyaṁ: em. hū;ṁkāraṁ madhye, with SDPT. -->
+<!-- hūm̐kāramadhyaṁ: em. hūm̐kāraṁ madhye, with SDPT. -->
 <!-- kuyāt·: em. kuryāt·, with MSK. -->
 <!-- jvālāmālākulerdvajres: em. jvālāmālākulair vajrais, with MSK; MSK reads jvālāmālākuled vajrais. It is possible that the scribe has either written superscript part of -ai on top of repha, or converted a repha into such a superscript part of -ai. In the latter case, ours is the AC reading, and MSK's the PC reading. -->
 <!-- pāpāṁ: em. pāpaṁ, with MSK. -->
@@ -11390,7 +11444,7 @@ tataḥ samāviṣṭaṁ jñātvācāryeṇa he vajrasattva he vajraratna he va
 <app>
 <lem>tataḥ samāviṣṭaṁ ... vadati</lem>
 <note>SDPT 294:14-15:
-<foreign>tataḥ samāviṣṭaṁ jñātvā punaḥ oṁ *vajrasattva</foreign>(\emn; <foreign>vajrasattvasattva-</foreign>
+<foreign>tataḥ samāviṣṭaṁ jñātvā punaḥ om̐ *vajrasattva</foreign>(\emn; <foreign>vajrasattvasattva-</foreign>
     ed.)<foreign>saṁgrahādigītim uccārya krodhamuṣṭyā tathaiva sattvavajrīmudrāṁ sphoṭayet. *saced</foreign> (\emn; <foreign>sa ced</foreign> ed.) <foreign>āviṣṭo vajrasattvakrodhamudrāṁ badhnīyāt, tadācāryeṇa vajramuṣṭiṁ krodhamudrāṁ badhniyāt. evaṁ yāvat sacet vajrahāsamudrāṁ badhnīyāt. tadā vajradharmakrodhamudrāṁ bandhayed ity evaṁ sāṁnidhyaṁ kalpayanti. tatas tasya jihvāyāṁ vajraṁ vicintya brūhi vajreti vaktavyam. tataḥ sarvaṁ kathayati</foreign>.
 </note>
 </app>
@@ -11414,7 +11468,7 @@ tatastāṁ mālāṁ mahāmaṇḍale kṣepayet | pratīccha vajra hoḥ iti |
 <lem wit="#MSK">so'sya<!-- so'sya --></lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">somya</rdg>
-</app>  sidhyati | tatastāṁ mālāṁ tasyaiva śirasi bandhayet | oṁ pratigr̥hṇa tvamimaṁ <app>
+</app>  sidhyati | tatastāṁ mālāṁ tasyaiva śirasi bandhayet | om̐ pratigr̥hṇa tvamimaṁ <app>
 <lem>sattvaṁ<!--sattvaṁ--></lem>
 <note>
 <ptr target="#MSK"/>
@@ -11427,13 +11481,13 @@ tatastāṁ mālāṁ mahāmaṇḍale kṣepayet | pratīccha vajra hoḥ iti |
   pratīccha vajra hoḥ.
   tato yatra patati, so 'sya sidhyati.
   tatas tāṁ mālāṁ gr̥hya, tasyaiva śirasi bandhayed anena hr̥dayena.
-  oṁ pratigr̥hṇa tvam imaṁ sattvaṁ *mahābala (\emn; <foreign>mahābalaḥ</foreign> ed.).
+  om̐ pratigr̥hṇa tvam imaṁ sattvaṁ *mahābala (\emn; <foreign>mahābalaḥ</foreign> ed.).
   tayā baddhayā tena mahāsattvena pratīcchito bhavati.
   śīghraṁ cāsya sidhyati; 
   SDPT p.294, ll.18–21:
 <foreign>tatas tāṁ mālāṁ mahāmaṇḍale kṣepayet | praticcha vajra hoḥ | iti | 
   tato yatra patati so 'sya siddhyati | tatas tāṁ mālāṁ tasyaiva śirasi bandhayet |
-  oṁ pratigr̥hṇa tvam *imāṁ (\emn\ imaṁ?) vajrasattva mahābala | iti |</foreign>
+  om̐ pratigr̥hṇa tvam *imāṁ (\emn\ imaṁ?) vajrasattva mahābala | iti |</foreign>
 </note>
 </app>
 </listApp>
@@ -11470,7 +11524,7 @@ tato mukhabandhaṁ muñcedanena |
 <lem>tato ... paśyeti</lem>
 <note>SDPT p.294, ll.22–25:
 <foreign>tato mukhabandhaṁ muñced anena |
-  oṁ vajrasattvaḥ svayaṁ te 'dya cakṣūdghāṭanatatparaḥ ||
+  om̐ vajrasattvaḥ svayaṁ te 'dya cakṣūdghāṭanatatparaḥ ||
   udghāṭayati sarvākṣo vajracakṣur anuttaram || iti | he vajra paśya | iti |</foreign>
 </note>
 </app>
@@ -11575,7 +11629,7 @@ tatastiṣṭha vajretyādinā praveśamudrāmokṣaṁ śiṣyahr̥daye kāraye
   punaḥ puṣpādibhir lāsyādyaṣṭavidhapūjayā ca pūjayet | 
   śiṣyenācāryaṁ valitavajrāṁjalinā praṇamyottamāṁ dakṣiṇāṁ datvā puṣpādyabhiṣekāś ca grāhyā iti | 
   ācāryābhiṣekaṁ tu śrīvajrahuṁkāramudrayā tathaiva pratiṣṭhāpya yathā nirdiṣṭeṣu sthāneṣu samayamudrābhis tasya kāye śrīvajrahuṁkārādīn nyasya | punar api anenāṣṭottaraśatasahasraparijaptaṁ vijayakalaśaṁ kr̥tvā | 
-  oṁ vajrādhipati tvām abhiṣiñcāmi dr̥ḍho me bhava jaḥ huṁ vaṁ hoḥ huṁ phaṭ iti | tata imaṁ codīrayan | oṁ vajrābhiṣiñca | iti codakābhiṣekaṁ vajramuṣṭinodakaṁ vijayakalaśād gihītvā dadyād idaṁ ca brūyāt ||
+  om̐ vajrādhipati tvām abhiṣiñcāmi dr̥ḍho me bhava jaḥ huṁ vaṁ hoḥ huṁ phaṭ iti | tata imaṁ codīrayan | om̐ vajrābhiṣiñca | iti codakābhiṣekaṁ vajramuṣṭinodakaṁ vijayakalaśād gihītvā dadyād idaṁ ca brūyāt ||
 idaṁ te nārakaṁ vāri samayātikramād dahet ||
 samayābhirakṣāt siddhiḥ siddhaṁ vajrāmr̥todakam ||
 vajraghaṇṭāṁ ca mudrāṁ ca yady amaṇḍalino vadet ||
@@ -11616,7 +11670,7 @@ tataḥ sarvavidhim anuṣṭhāya nāmāṣṭaśatena saṁstutya gāthāpañc
 <ptr target="#MSK"/>
  emends <foreign>-vāram</foreign>
 </note>
-</app> āvartayet | oṁ mahāsukha vajrasattva jaḥ hūm̐ vam̐ hoḥ <app>
+</app> āvartayet | om̐ mahāsukha vajrasattva jaḥ hūm̐ vam̐ hoḥ <app>
 <lem wit="#MSK" type="emn">suratastva<!-- suratastva --></lem>
 <rdg wit="#cod">surata tvam</rdg>
 </app> miti || tataḥ sarvavidhimanuṣṭhāya <app>
@@ -11779,7 +11833,7 @@ lāsyādibhiśttamāṁ dakṣiṇāmādāya | śrīvajrasattvapratimāṁ tasya
 <!-- hrīśrīnivāsaḥ pravaro gaṇānāṁ loke gr̥tī(2)ya śubhamaṅgalaṁ te || -->
 <!-- yan maṅgalaṁ tuṣitadevavimānagarbhād āsīd ihāvatarato jagato hitāya | -->
 <!-- sendraiḥ surair anugatasya tathāgatasya tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || -->
-<!-- yan maṇgalaṁ kisalayojvalapuṣpanaddhe ramye ca lumbinivane bahudevapuṣṭe | -->
+<!-- yan maṅgalaṁ kisalayojvalapuṣpanaddhe ramye ca lumbinivane bahudevapuṣṭe | -->
 <!-- nāthasya janmani babhūva bhavāntakasya tan maṅgalaṁ bhava(3)tu śāntikaraṁ tavādya || -->
 <!-- yan maṅgalaṁ vividhaduḥkhavināśānāya tuṣṭyā tapovanam abhivrajato 'rdharātre | -->
 <!-- pakṣaiḥ surair anugatasya tathāgatasya tan maṅgalaṁ bhavatu śāntikaraṁ tavādya || -->
@@ -11988,7 +12042,7 @@ yaḥ śrīnivāsaḥ pravaro gaṇānāṁ tan maṅgalaṁ bhavatu śāntikara
 <listApp type="parallels">
 <app>
 <note>Padmaśrīmitra:
-<foreign>yan maṇgalaṁ kisalayojvalapuṣpanaddhe ramye ca lumbinivane bahudevapuṣṭe |
+<foreign>yan maṅgalaṁ kisalayojvalapuṣpanaddhe ramye ca lumbinivane bahudevapuṣṭe |
   nāthasya janmani babhūva bhavāntakasya tan maṅgalaṁ bhava(3)tu śāntikaraṁ tavādya ||</foreign></note>
 <note><ptr target="#MSK"/> inserts here
 <foreign>groṅ khyer ser skye'i gnas rgyal po'i pho braṅ du |
@@ -12230,7 +12284,7 @@ tathāgatasya</l>
 <!-- kr̥tsnaṁ jagāta bhagavān muniśākyasiṁhaḥ tan maṅgalaṁ bhagavatu śāntikaraṁ tavādya || -->
 
 <p>
-<!-- MSK (78) nāmāṣṭaśatena ca saṁstutyādau pūrṇakumbhair vajrāṅkuśādihr̥dayāni udīrayaṁs tatas tatkalaśaiḥ paścād vijayakalaśād vajramuṣṭinodakam ādāyābhiṣekaṁ pānaṁ ca dattvā kalaśena cābhiṣiñced udakābhiṣekataḥ | tatrāyaṁ prayogaḥ | vajrāṅkuśa oṁ vajrābhiṣiñca | yāvat | oṁ vajrasattva hūṁ | oṁ vajrābhiṣiñca | oṁ mahāsukha || ityādi pūrvavad āvartayet | śeṣaṁ pūrvavad evam ||  madhyakramo 'yam || -->
+<!-- MSK (78) nāmāṣṭaśatena ca saṁstutyādau pūrṇakumbhair vajrāṅkuśādihr̥dayāni udīrayaṁs tatas tatkalaśaiḥ paścād vijayakalaśād vajramuṣṭinodakam ādāyābhiṣekaṁ pānaṁ ca dattvā kalaśena cābhiṣiñced udakābhiṣekataḥ | tatrāyaṁ prayogaḥ | vajrāṅkuśa om̐ vajrābhiṣiñca | yāvat | om̐ vajrasattva hūṁ | om̐ vajrābhiṣiñca | om̐ mahāsukha || ityādi pūrvavad āvartayet | śeṣaṁ pūrvavad evam ||  madhyakramo 'yam || -->
 
 
 nāmāṣṭaśatena ca saṁstutyādau <app>
@@ -12255,7 +12309,7 @@ nāmāṣṭaśatena ca saṁstutyādau <app>
 <app>
 <lem wit="#MSK" type="emn">tatrāyaṁ<!-- tatrāyaṁ --></lem>
 <rdg wit="#cod">tatrāyām</rdg>
-</app>  prayogaḥ | oṁ vajrāṅkuśa hūm̐ vajrābhiṣiñca yāvat  oṁ vajrasattva hūm̐ | oṁ vajrābhiṣiñceti | oṁ mahāsukhetyādi pūrvavadāvartayet | <app>
+</app>  prayogaḥ | om̐ vajrāṅkuśa hūm̐ vajrābhiṣiñca yāvat  om̐ vajrasattva hūm̐ | om̐ vajrābhiṣiñceti | om̐ mahāsukhetyādi pūrvavadāvartayet | <app>
 <lem wit="#MSK" type="emn">śeṣaṁ<!-- śeṣaṁ --></lem>
 <rdg wit="#cod">seṣam</rdg>
 </app>  pūrvava<app>
@@ -12316,7 +12370,7 @@ tato ratnaśalākāṁ sauvarṇa<app>
 <note>The <foreign>ajñānapaṭalam</foreign> stanza is also found in several other texts. See Tanemura 2004: 180.</note>
 </app></listApp>
 
-<p>athāsya hr̥dayam | oṁ vajranetrāpahara <app>
+<p>athāsya hr̥dayam | om̐ vajranetrāpahara <app>
 <lem wit="#MSK" type="emn">paṭalaṁ<!-- paṭalaṁ --></lem>
 <rdg wit="#cod">paṭaliṁ</rdg>
 </app> hrīr iti |</p> 
@@ -12553,7 +12607,7 @@ athāsya darpaṇagrahaṇe mantraḥ/ ā <app>
 <app>
 <lem>tato ... vadet</lem>
 <note>The opening prose and following 3 stanzas of this section are also founds in the <foreign>abhiṣeka</foreign> section of the <foreign>Kriyāsaṁgrahapañjikā</foreign>.
-KSP chapter 6: <foreign>tato dharmacakraṁ pādayor madhye saṁsthāpya śaṇkaṁ ca dakṣiṇahaste dattvāivaṁ vadet</foreign> (Sakurai 1996: 509).
+KSP chapter 6: <foreign>tato dharmacakraṁ pādayor madhye saṁsthāpya śaṅkaṁ ca dakṣiṇahaste dattvāivaṁ vadet</foreign> (Sakurai 1996: 509).
 </note>
 </app>
 </listApp>
@@ -12587,7 +12641,7 @@ KSP chapter 6: <foreign>tato dharmacakraṁ pādayor madhye saṁsthāpya śaṇ
 <lem>adyaprabhr̥ti ... anuttaram</lem>
 <note>KSP chapter 6:
 <foreign>adyaprabhr̥ti saha cittotpādamātreṇa dharmacakraṁ pravartaya |
-āpūrya samantāc ca dharmaśaṇkham anuttaram ||</foreign> (Sakurai 1996: 509–510);
+āpūrya samantāc ca dharmaśaṅkham anuttaram ||</foreign> (Sakurai 1996: 509–510);
 VĀ 42.1: <foreign>adyaprabhr̥ti sahacittotpādamātreṇa dharmcakraṁ pravartaya |
 āpūrya hi samantāc ca dharmaśaṅkham anuttaram ||</foreign> Mori 2009: 460)
 </note>
@@ -12612,7 +12666,7 @@ VĀ 42.1: <foreign>adyaprabhr̥ti sahacittotpādamātreṇa dharmcakraṁ pravar
 <app>
 <lem>na te ... vidhim</lem>
 <note>KSP chapter 6:
-<foreign>na te kāṅkṣā vimatir vā nirviśaṇkena cetasā |
+<foreign>na te kāṅkṣā vimatir vā nirviśaṅkena cetasā |
 prakāśaya sadā loke mantracaryā*nayaṁ</foreign>(\emn; <foreign>naya-</foreign> ed.) <foreign>vidhim ||</foreign> (Sakurai 1996: 510)
 </note>
 </app>
@@ -12718,7 +12772,7 @@ gāthāpañcakenānujñāṁ dadyāditi/
 <!--   See also <foreign>Guhyasamājamaṇḍalavidhi"/>vv.368 – 369: -->
 <!--   <foreign>tatas tathāgato bhūtvā vyākuryād udgatayānayā | -->
 <!--   hr̥nmuṣṭicīvarā vāmā dakṣiṇā tu varapradā || -->
-<!--   oṁ esāhaṁ vyākaromi tvāṁ vajrasattvas tathāgataḥ | -->
+<!--   om̐ esāhaṁ vyākaromi tvāṁ vajrasattvas tathāgataḥ | -->
 <!--   bhavadurgatitoddhr̥tya atyantabhavasiddhaye ||"/> -->
 <!-- }}% -->
 <l n="ab">
@@ -13155,7 +13209,7 @@ tataḥ sarveṣāṁ punar api na kasya cid vaktavyam iti.
 <lem>tataś ... cāpūrayet</lem>
 <note>
 <foreign>Vajrāvalī</foreign>, section <foreign>Maṇḍalopasaṁhāra</foreign>, ed. Mori:
-<foreign>tad anu oṁ vajrakīla utkīlaya sarvakīlān vajradharājñayā hūṁ hūṁ hūṁ hūṁ phaṭ hoḥ iti caturhūṁkāramantreṇa kīlakān utpādya oṁ ru ru sphuru jvala tiṣṭha siddhalocane sarvārthasādhanani svāhā iti sāṣṭaśatajaptakṣīreṇa snāpayet. kīlakadevatāś ca visarjayet. garttāṁś cāpūrayet.</foreign>
+<foreign>tad anu om̐ vajrakīla utkīlaya sarvakīlān vajradharājñayā hūṁ hūṁ hūṁ hūṁ phaṭ hoḥ iti caturhūṁkāramantreṇa kīlakān utpādya om̐ ru ru sphuru jvala tiṣṭha siddhalocane sarvārthasādhanani svāhā iti sāṣṭaśatajaptakṣīreṇa snāpayet. kīlakadevatāś ca visarjayet. garttāṁś cāpūrayet.</foreign>
 </note>
 </app>
 </listApp>
@@ -13355,7 +13409,7 @@ sarvasiddhi<app>
 
 <div type="section"><head type="editorial">Vajrasattva</head>
 <p>Subsequently, with the [seal of] Vajradhātvīśvarī<note>STTS §391 <foreign>aṅguṣṭhadvayaparyaṅkā kuñcitāgrāgravigrahā| 
-samamadhyottamāṅgā ca vajradhātvīśvarī smṛtā||</foreign>. The same stanza is quoted in KSP ch.~6 (ed. Inui §73).</note> he should empower himself at the four places,<note>Based on Ānandacandra's VJU §12 <foreign>tatas trilokavijayamudrayā, oṁ sumbha nisumbha hūṁ, gṛhna gṛhna hūṁ, gṛhṇāpaya gṛhṇāpaya huṁ, ānaya hoḥ, bhagavan vidyārāja hūṁ phaṭ, adhitiṣṭha mām iti hṛdūrṇakaṇṭhamūrdhasv āsanam adhitiṣṭhet</foreign>, we assume the four are heart, the throat, the space between the eyebrows, and the top of the head. See also, in our text, <seg rend="check">§3.3p24</seg>.
+samamadhyottamāṅgā ca vajradhātvīśvarī smṛtā||</foreign>. The same stanza is quoted in KSP ch.~6 (ed. Inui §73).</note> he should empower himself at the four places,<note>Based on Ānandacandra's VJU §12 <foreign>tatas trilokavijayamudrayā, om̐ sumbha nisumbha hūṁ, gṛhna gṛhna hūṁ, gṛhṇāpaya gṛhṇāpaya huṁ, ānaya hoḥ, bhagavan vidyārāja hūṁ phaṭ, adhitiṣṭha mām iti hṛdūrṇakaṇṭhamūrdhasv āsanam adhitiṣṭhet</foreign>, we assume the four are heart, the throat, the space between the eyebrows, and the top of the head. See also, in our text, <seg rend="check">§3.3p24</seg>.
 <!--%EdT §44-->
 </note> display the <foreign>bodhyagrī</foreign> [seal]<note>SDPT p.~264: <foreign>tatremāḥ krodhamuṣṭidvidhākṛtya| vāmavajrāṅgulī grāhyā dakṣiṇena samutthitā||\ bodhyagri nāma mudreyaṁ buddhabodhipradāyikā||\ sagarvotkarṣanaṁ dvābhyāṁ vajrahuṁkāravajrasattvasattvavajrīṇām|</foreign>; KSP ch.~6 (ed. Inui §94):
 <foreign>vāmavajrāṅguliṁ grāhya dakṣiṇena samutthitām| bodhyagrī nāma mudreyaṁ buddhabodhipradāyikā||</foreign>.</note> and impell Vajrasattva in his heart, [saying] <hi rend="mantra">o Vajrasattva</hi>.<note>STTS §35.</note></p>
@@ -13380,9 +13434,9 @@ This is that unsurpassed accomplishment-Vajra of all Buddhas! I have been given 
 </p>
 <!--%"This" is so called [because the practitioner] placed [the vajra] in his heart. (Or: Having placed [the vajra] in his heart, [the practitioner] called [the vajra] "this".)
 %"All tathāgatas is Vairocana etc. "Siddhivajra" is [so called because it is] for the sake of accomplishment and/or because it has accomplishment as its nature.
-%[This is] unsurpassed because it is taught: \begin{quote}
+%[This is] unsurpassed because it is taught:  
 %voidness (stong ba nyid, *śūnyatā) is called vajra.
-%\end{quote}
+%
 %For the [vajra] is superior because it has as its nature knowledge of voidness of the five families.
 %% phul du byung ba: atiśaya, utkarṣa
 %"It (tat)" is that which is bestowed by  Vairocana.
@@ -14294,7 +14348,7 @@ established at his heart, with the heart: <hi rend="mantra">o beloved one, you a
 <p>The he should empower Vajrasattva, should worship him with perfumes, flowers, etc., put a garland on him and made his mouth fresh, should collect the best possible fee, consecrate (the pupil) with water from the jar standing outside (of the maṇḍala) and form the Sattvavajrī (seal) with this (mantra): <hi rend="mantra">you are the pledge</hi>.</p>
 
 <p>Then he should let (the pupil) take a flower garland with his two middle fingers, and let him enter with this heart: <hi rend="mantra">o pledge hūm̐</hi>. And at the respective gates, with the (mantras called) Vajrāṅkuśa, etc.\ — namely <hi rend="mantra">o vajrāṅkuśa jaḥ, o vajrapāśa hūm̐,  o vajrasphoṭa vam̐, o vajrāveśa hoḥ</hi> — (he should perform the respective acts of attracting, causing to enter, binding and subjugating). <note>SDPT 290: 
-tatas tayaivāṁgusthābhyāṁ puṣpamālāṁ grāhayitvā praveśayed anena hṛdayena / oṁ vajrasamayaṁ praviśāmīti / pūrvadvāre ca vajrāṁkuśena tam ākarṣayet / dakṣiṇena pāśena praveśayet / paścimena sphoṭena badhnīyāt / uttare vajrāveśena veśayet / punaḥ pūrvadvāreṇa praveśyaivaṁ vadet /</note> Then he should let him enter again by the eastern gate and say the following: `<seg rend="check">Today/Now</seg>, you have entered the family of all Tathāgatas. So I will generate for you the Vajra-Knowledge, through which knowledge you will also obtain the accomplishment of all Tathāgatas, not to mention other accomplishments. And by you it should not be divulged to one who has not seen the great maṇḍala. Your pledge should not waiver!'</p>
+tatas tayaivāṁgusthābhyāṁ puṣpamālāṁ grāhayitvā praveśayed anena hṛdayena / om̐ vajrasamayaṁ praviśāmīti / pūrvadvāre ca vajrāṁkuśena tam ākarṣayet / dakṣiṇena pāśena praveśayet / paścimena sphoṭena badhnīyāt / uttare vajrāveśena veśayet / punaḥ pūrvadvāreṇa praveśyaivaṁ vadet /</note> Then he should let him enter again by the eastern gate and say the following: `<seg rend="check">Today/Now</seg>, you have entered the family of all Tathāgatas. So I will generate for you the Vajra-Knowledge, through which knowledge you will also obtain the accomplishment of all Tathāgatas, not to mention other accomplishments. And by you it should not be divulged to one who has not seen the great maṇḍala. Your pledge should not waiver!'</p>
 
 <p>Then the Vajra-master should display the Sattvavajrī-seal, both downward and upward, place it on the head of the Vajra-disciple, and say the following: `This pledge vajra will shatter your head, if you divulge it to anyone!'</p>
 
