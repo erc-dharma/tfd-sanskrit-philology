@@ -2135,7 +2135,7 @@ evaṃ prakārakarmmaṇi spharaṇasaṃhārayogena punaḥ punar bhāvayet || 
 <app><lem type="emn">vajrānalena mudrāsahitena</lem>
   <rdg wit="#cod">vajrānalena mudreṇa</rdg>
   <rdg wit="#MSK" type="emn">vajrānalamudrayā</rdg>
-<note>Alternative emendations we have considered are <foreign>vajrānalena</foreign> and <foreign>vajrānalena mantreṇa</foreign>. The emendation we have retained corresponds to Tib.: <foreign>rdo rje me'i phyag rgya dang bcas pas</foreign>. See also KSP §23 (ed. Inui) <foreign>punar vajrānalāhaṅkāreṇa tanmudrāyuktena pūjāṅgāni śodhayet</foreign> and SDPT p. XXX (ed. Skorupski) <foreign>tato vajrānalena mudrāsahitena vighnadahanādikaṁ kuryāt</foreign>.
+<note>Alternative emendations we have considered are <foreign>vajrānalena</foreign> and <foreign>vajrānalena mantreṇa</foreign>. The emendation we have retained corresponds to Tib.: <foreign>rdo rje me'i phyag rgya dang bcas pas</foreign>. See also KSP §23 (ed. Inui 1991: 20) <foreign>punar vajrānalāhaṅkāreṇa tanmudrāyuktena pūjāṅgāni śodhayet</foreign> and SDPT p. 134 (ed. Skorupski) <foreign>tato vajrānalena mudrāsahitena vighnadahanādikaṁ kuryāt</foreign>.
 <!-- Mañjuśriyamūlakalpa, Hevajratantra -->
 <!-- 
 KSP 6-2-1-7 Purifying the items for worship
@@ -2228,7 +2228,7 @@ om̐ vajrasattva
 </app> parijapya.</p>
 <listApp type="parallels">
   <app>
-    <note>KSP 23–25 (ed. Inui 1994: @@SHIORI modify numbers@@99,15–97,4) contains an extensive parallel passage that is not verbatim but does cite all the same mantras, and we rely on this parallel for emending the mantras as we do above with regard to the presence/absence of <foreign>om̐/hūm̐</foreign>.</note>
+    <note corresp="#KSP:23–25">KSP 23–25 (ed. Inui 1991: 174,20–173,31) contains an extensive parallel passage that is not verbatim but does cite all the same mantras, and we rely on this parallel for emending the mantras as we do above with regard to the presence/absence of <foreign>om̐/hūm̐</foreign>.</note>
   </app>
   </listApp>
 <!-- 
@@ -2236,7 +2236,7 @@ om̐ vajrasattva
 punar vajrānalāhaṅkāreṇa tanmudrāyuktena pūjāṅgāni śodhayet.
 oṃ vajrānala hana daha paca matha bhañja raṇa hūṃ phaṭ.
 
-% IH 24
+% IH 24 %no corresponding word
 tato vajrayakṣamudrayā śaṅkhādhiṣṭhānam.
 oṃ vajrayakṣa hūṃ.
 punar api vajrarakṣamudrayā śaṅkhādhiṣṭhānam.
@@ -2272,9 +2272,11 @@ oṃ vajrasattva hūṃ. oṃ vajrāsani hūṃ. āsanam.
 <witDetail wit="#cod" type="pc"/>
 <rdg wit="#cod">vajrena</rdg>
 <witDetail wit="#cod" type="ac"/>
-</app></l> <l n="b">vajrācchaṭāvimokṣaṇaiḥ |</l>
-<l n="c">śrīvajrasattvayogātmā</l> <l n="d"><app>
-<lem wit="#MSK" type="emn">sarvabuddhān<!-- sarvabuddhān --></lem>
+</app></l>
+<l n="b">vajrācchaṭāvimokṣaṇaiḥ |</l>
+<l n="c">śrīvajrasattvayogātmā</l> 
+<l n="d"><app>
+<lem wit="#MSK" type="emn">sarvabuddhān</lem>
 <rdg wit="#cod">sarvavuddhāṁ</rdg>
 </app> samājayet ||</l></lg>
 
@@ -2354,11 +2356,13 @@ samājamudrālakṣaṇam. om̐ vajrasamāja <app>
 </p>
 
 <lg met="anuṣṭubh">
-<l n="a">asyājñāmātracakitāḥ</l> <l n="b"><app>
+<l n="a">asyājñāmātracakitāḥ</l>
+<l n="b"><app>
 <lem wit="#MSK" type="emn" rend="hyphenright">saparṣaccakra</lem>
 <rdg wit="#cod">saparṣacakra-</rdg>
 </app>saṁcayāḥ |</l>
-<l n="c">sarvabuddhāḥ samāyānti</l> <l n="d">kā kathānyeṣu vartate ||</l>
+<l n="c">sarvabuddhāḥ samāyānti</l>
+<l n="d">kā kathānyeṣu vartate ||</l>
 </lg>
 <listApp type="parallels">
 <app>
