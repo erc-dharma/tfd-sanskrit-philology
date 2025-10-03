@@ -1,0 +1,693 @@
+<!DOCTYPE html><html xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Sample Digital Critical Edition of Sample</title>
+      <link>
+         <link name="viewport" content="width=device-width, initial-scale=1" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+         <link rel="icon" href="https://dharmalekha.info/favicon.svg">
+         <link rel="stylesheet" href="https://dharmalekha.info/fonts.css?v=1a9450aa77c9b125526d71a0e58819c086fa4cab">
+         <link rel="stylesheet" href="https://dharmalekha.info/base.css?v=1a9450aa77c9b125526d71a0e58819c086fa4cab">
+         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@refs/heads/master/stylesheets/criticalEditions/dharma-ms_v02.css?v=1xa9450aa77c9b125526d71a0e58819c086fa4cab"><script src="https://cdn.jsdelivr.net/npm/@floating-ui/core@1.6.0"></script><script src="https://cdn.jsdelivr.net/npm/@floating-ui/dom@1.6.3"></script><script src="https://dharmalekha.info/base.js?v=1a9450aa77c9b125526d71a0e58819c086fa4cab"></script><script src="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@refs/heads/master/stylesheets/criticalEditions/loader_v02.js?v=1a9450aa77c9b125526d71a0e58819c086fa4cab"></script>
+   </head>
+   <body>
+      <div id="contents">
+         <header>
+            <div id="menu-bar"><a id="dharma-logo" href="/"><img alt="DHARMA Logo" src="https://dharmalekha.info/dharma_bar_logo.svg"></a><a id="menu-toggle"><i class="fa-solid fa-caret-down fa-fw"></i></a><ul id="menu" class="hidden">
+                  <li><a href="https://dharmalekha.info/repositories"><i class="fa-brands fa-git-alt"></i> Repositories</a></li>
+                  <li><a href="https://dharmalekha.info/texts"><i class="fa-regular fa-file-lines"></i> Texts</a></li>
+                  <li class="submenu"><a>Conventions <i class="fa-solid fa-caret-down"></i></a><ul class="hidden">
+                        <li><a href="https://dharmalekha.info/editorial-conventions">Editorial Conventions</a></li>
+                        <li><a href="https://dharmalekha.info/prosody">Prosodic Patterns</a></li>
+                     </ul>
+                  </li>
+                  <li><a href="https://dharmalekha.info/parallels"><i class="fa-solid fa-grip-lines-vertical"></i> Parallels</a></li>
+                  <li class="submenu"><a>Project Internal <i class="fa-solid fa-caret-down"></i></a><ul class="hidden">
+                        <li><a href="https://dharmalekha.info/errors"><i class="fa-solid fa-bug"></i> Texts Errors</a></li>
+                        <li><a href="https://dharmalekha.info/bibliography-errors"><i class="fa-solid fa-bug"></i> Bibliography Errors</a></li>
+                        <li><a href="https://dharmalekha.info/display">Display List</a></li>
+                     </ul>
+                  </li>
+               </ul>
+            </div>
+         </header>
+         <div id="sidebar">
+            <div id="toc">
+               <div id="toc-heading" class="toc-heading">Contents</div>
+               <nav id="toc-contents"></nav>
+            </div>
+            <div class="toc-heading">Display</div><label>Source view
+               <input id="toggle-xml-display" type="checkbox"></label><div class="toc-heading">External Links</div>
+            <nav>
+               <ul>
+                  <li><a href="https://raw.githubusercontent.com/erc-dharma/tfd-nusantara-philology/master/editions/DHARMA_CritEd_sample"><i class="fa-solid fa-code"></i> XML File
+                        </a></li>
+               </ul>
+            </nav>
+         </div>
+         <main>
+            <h1><i>Sample</i></h1>
+            <div id="inscription-display">
+               <p>Author of digital edition:
+                  </p>
+               <p>Filename: <span class="text-id">DHARMA_CritEd_sample</span></p>
+               <p>Language: Sanskrit</p>
+               <p>Repository: Sanskrit Philology <span class="text-id">(tfd-sanskrit-philology)</span></p>
+               <p>Version:  part commented since without access_token with github actions api calls
+                  are limited – still working on it</p>
+               <hr>
+               <div class="editorial">
+                  <h2 id="editorial" class="collapsible">Editorial <i class="fa-solid fa-angles-down"></i></h2>
+                  <div class="collapsible-content">
+                     <ul>
+                        <li><b>Editorial declaration</b>:
+                           
+                           <ul>
+                              <li>interpretation:
+                                 
+                                 <ul>
+                                    <li><span>The asterisk * is used to flag lemmata or forms of lemmata not recorded in the <i>Old Javanese-English Dictionary</i>.</span></li>
+                                 </ul>
+                              </li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+               <hr>
+               <h2 id="witnesses">Witnesses</h2>
+               <ul>
+                  <li><a id="Ca"><b>
+                           [Ca]
+                           </b></a> Budapest, University Library (UB), Lontar, 1234
+                     <ul>
+                        <li><b>Content: </b><ul>
+                              <li><i><i>Sample</i></i> by </li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li><a id="Cb"><b>
+                           [Cb]
+                           </b></a> Budapest, University Library (UB), Lontar, 1233
+                     <ul>
+                        <li><b>Content: </b><ul>
+                              <li><i><i>Sample</i></i> by </li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li><a id="Cc"><b>
+                           [Cc]
+                           </b></a> Budapest, University Library (UB), Lontar, 1234
+                     <ul>
+                        <li><b>Content: </b><ul>
+                              <li><i><i>Sample</i></i> by </li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li><a id="Na"><b>
+                           [Na]
+                           </b></a> Budapest, University Library (UB), Lontar, 1234
+                     <ul>
+                        <li><b>Content: </b><ul>
+                              <li><i><i>Sample</i></i> by </li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li><a id="Nb"><b>
+                           [Nb]
+                           </b></a> Budapest, University Library (UB), Lontar, 1234
+                     <ul>
+                        <li><b>Content: </b><ul>
+                              <li><i><i>Sample</i></i> by </li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li><a id="Nc"><b>
+                           [Nc]
+                           </b></a> Budapest, University Library (UB), Lontar, 1234
+                     <ul>
+                        <li><b>Content: </b><ul>
+                              <li><i><i>Sample</i></i> by </li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li><a id="Ed"><b>
+                           [Ed]
+                           </b></a> Budapest, University Library (UB), Lontar, 1234
+                     <ul>
+                        <li><b>Content: </b><ul>
+                              <li><i><i>Sample</i></i> by </li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+               <hr>
+               <div class="edition">
+                  <h2 id="edition">Edition</h2>
+                  <div class="col-10"></div>
+                  <h6 class="ed-heading">
+                     .</h6>
+                  <div class="row">
+                     <div class="col-10 text-col">
+                        <div class="verse">
+                           
+                           <span class="lb" data-tip="speaker">speaker</span><div class="row">
+                              <div class="col-10 text-col">
+                                 <p><span class="lem" data-app="d1e573">anarthayajña uvāca</span>
+                                    <br></p>
+                              </div>
+                              <div class="col-2 apparat-col text-center"><a class="side-app" data-toggle="popover" data-html="true" data-target="d1e573" href="#to-app-app00001" title="Apparatus 1" id="from-app-app00001" data-app="d1e573">(1)</a></div>
+                           </div>
+                           
+                           
+                           
+                           
+                           <div class="verseline">
+                              <p><span class="lem" data-app="d1e585">atisaṃśayakaṣṭaṃ te</span></p>
+                           </div>
+                           
+                           <div class="verseline">
+                              <p>pṛṣṭo &rsquo;haṃ <span class="lem" data-app="d1e601">dvijasattama</span>
+                                 </p>
+                           </div>
+                           
+                           
+                           
+                           
+                           <div class="verseline">
+                              <p>durvi<span class="lem" data-app="d1e613">jñeyaṃ</span>
+                                 <span class="lem" data-app="d1e619">manuṣyais tu</span></p>
+                           </div>
+                           
+                           <div class="verseline">
+                              <p>devadānavapannagaiḥ</p>
+                           </div>
+                           </div><br></div>
+                     <div class="col-2 apparat-col text-center"><a class="side-app" data-toggle="popover" data-html="true" data-target="d1e573" href="#to-app-app00001" title="Apparatus 1" id="from-app-app00001" data-app="d1e573">(1)</a><a class="side-app" data-toggle="popover" data-html="true" data-target="d1e585" href="#to-app-app00002" title="Apparatus 2" id="from-app-app00002" data-app="d1e585">(2)</a><a class="side-app" data-toggle="popover" data-html="true" data-target="d1e601" href="#to-app-app00003" title="Apparatus 3" id="from-app-app00003" data-app="d1e601">(3)</a><a class="side-app" data-toggle="popover" data-html="true" data-target="d1e613" href="#to-app-app00004" title="Apparatus 4" id="from-app-app00004" data-app="d1e613">(4)</a><a class="side-app" data-toggle="popover" data-html="true" data-target="d1e619" href="#to-app-app00005" title="Apparatus 5" id="from-app-app00005" data-app="d1e619">(5)</a></div>
+                  </div>
+               </div>
+               <div class="apparatus">
+                  <h2 id="apparatus" class="collapsible">Apparatus <i class="fa-solid fa-angles-down"></i></h2>
+                  <div class="collapsible-content">
+                     <div class="ed-section"><br><a id="to-app-app00001" href="#from-app-app00001">^1</a>. <span class="bottomapp"><span class="app-entry"><span class="bottom-lemma-line"><span class="">anarthayajña uvāca</span><b>]</b><b class="supsub"> <a class="siglum" href="#mssCaCbCc">mssCaCbCc</a> <a class="siglum" href="#msNa">msNa</a><sub>pc</sub> <a class="siglum" href="#msNb">msNb</a> <a class="siglum" href="#msNc">msNc</a> <a class="siglum" href="#Ed">Ed</a></b>, </span><span class="bottom-reading-line"><span class="reading"></span> <b class="supsub"> <a class="siglum" href="#msNa">msNa</a><sub>ac</sub></b></span></span></span><br><a id="to-app-app00002" href="#from-app-app00002">^2</a>. <span class="bottomapp"><span class="app-entry"><span class="bottom-lemma-line"><span class="">atisaṃśayakaṣṭaṃ te</span><b>]</b><b> <a class="siglum" href="#msCb">msCb</a> <a class="siglum" href="#msNa">msNa</a> <a class="siglum" href="#msNb">msNb</a> <a class="siglum" href="#msNc">msNc</a></b>, </span><span class="bottom-reading-line"><span class="reading">atiśaṃsa<span class="unclear" data-tip="Unclear text">(ya)</span>kaṣṭan te</span> <b> <a class="siglum" href="#msCa">msCa</a></b></span><span class="bottom-reading-line">, <span class="reading">atiśaṃsayakaṣṭam me</span> <b> <a class="siglum" href="#msCc">msCc</a> <a class="siglum" href="#Ed">Ed</a></b></span></span></span><br><a id="to-app-app00003" href="#from-app-app00003">^3</a>. <span class="bottomapp"><span class="app-entry"><span class="bottom-lemma-line"><span class="">dvijasattama</span><b>]</b><b> <a class="siglum" href="#msCa">msCa</a> <a class="siglum" href="#msCb">msCb</a> <a class="siglum" href="#msNa">msNa</a> <a class="siglum" href="#msNb">msNb</a> <a class="siglum" href="#msNc">msNc</a> <a class="siglum" href="#Ed">Ed</a></b>, </span><span class="bottom-reading-line"><span class="reading">ca dvijottamaḥ</span> <b> <a class="siglum" href="#msCc">msCc</a></b></span></span></span><br><a id="to-app-app00004" href="#from-app-app00004">^4</a>. <span class="bottomapp"><span class="app-entry"><span class="bottom-lemma-line"><span class="">jñeyaṃ</span><b>]</b><b> <a class="siglum" href="#msCa">msCa</a> <a class="siglum" href="#msCb">msCb</a> <a class="siglum" href="#msNa">msNa</a> <a class="siglum" href="#msNc">msNc</a></b>, </span><span class="bottom-reading-line"><span class="reading">jñeya</span> <b> <a class="siglum" href="#msCc">msCc</a> <a class="siglum" href="#msNb">msNb</a> <a class="siglum" href="#Ed">Ed</a></b></span></span></span><br><a id="to-app-app00005" href="#from-app-app00005">^5</a>. <span class="bottomapp"><span class="app-entry"><span class="bottom-lemma-line"><span class="">manuṣyais tu</span><b>]</b><b> <a class="siglum" href="#msCa">msCa</a> <a class="siglum" href="#msNa">msNa</a> <a class="siglum" href="#msNb">msNb</a> <a class="siglum" href="#msNc">msNc</a> <a class="siglum" href="#Ed">Ed</a></b>, </span><span class="bottom-reading-line"><span class="reading">manuṣaiś ca</span> <b> <a class="siglum" href="#msCb">msCb</a></b></span><span class="bottom-reading-line">, <span class="reading">maṇukṣe<span class="unclear" data-tip="Unclear text">(ptu)</span></span> <b> <a class="siglum" href="#msCc">msCc</a></b></span></span></span></div>
+                  </div>
+               </div>
+            </div>
+            <div id="inscription-source" class="hidden">
+               <fieldset>
+                  <legend>Display Options</legend><label>Word Wrap
+                     <input class="display-option" name="xml-wrap" type="checkbox" checked=""></label><label>Line Numbers
+                     <input class="display-option" name="xml-line-nos" type="checkbox" checked=""></label><label>Comments
+                     <input class="display-option" name="xml-hide-comments" type="checkbox" checked=""></label><label>Processing Instructions
+                     <input class="display-option" name="xml-hide-instructions" type="checkbox" checked=""></label></fieldset>
+               <div id="xml" class="xml xml-wrap xml-lines-nos">
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">&lt;?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng"
+                           schematypens="http://relaxng.org/ns/structure/1.0"?&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">&lt;?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng"
+                           schematypens="http://purl.oclc.org/dsdl/schematron"?&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">&lt;?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSQF.sch"
+                           type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">5</span><span class="xml-line-contents"><span class="instruction">&lt;TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="Bhv" type="edition"&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">    &lt;teiHeader&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">        &lt;fileDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;titleStmt&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;title type="main"&gt;Sample&lt;/title&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">10</span><span class="xml-line-contents">                &lt;!--Change the title of the file with the name of your text--&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;title type="sub"&gt;Digital Critical Edition of Sample&lt;/title&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">             &lt;editor ref="part:anac"&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">              &lt;forename&gt;Csaba&lt;/forename&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">              &lt;surname&gt;Kiss&lt;/surname&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">15</span><span class="xml-line-contents">             &lt;/editor&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;/titleStmt&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">20</span><span class="xml-line-contents">            &lt;publicationStmt&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;authority&gt;DHARMA&lt;/authority&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;pubPlace&gt;&lt;!-- fill in here the place or places where the encoding
+                        has been done --&gt;&lt;/pubPlace&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">             &lt;idno type="filename"&gt;DHARMA_CritEd_sample&lt;/idno&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;!-- Replace by filename, e.g. DHARMA_CritEdSiksaGuru --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">25</span><span class="xml-line-contents">                &lt;availability&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;licence target="https://creativecommons.org/licenses/by/4.0/"&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;p&gt;This work is licenced under the Creative Commons Attribution
+                        4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/
+                        or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                        California, 94041, USA.&lt;/p&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;p&gt;Copyright (c) 2019-2025 by Andrea Acri.&lt;/p&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;/licence&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">30</span><span class="xml-line-contents">                &lt;/availability&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;date&gt;2024&lt;/date&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;/publicationStmt&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;sourceDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">35</span><span class="xml-line-contents">                &lt;listWit&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;!-- One witness for each manuscript. Update the content #msCa
+                        #msCb #msNa #msNb #msNc #Ed"&gt;dvijasattama&lt;/lem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">    &lt;rdg wit="#msCc--&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                    &lt;witness xml:id="Ca"&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;abbr type="siglum"&gt;Ca&lt;/abbr&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">40</span><span class="xml-line-contents">                        &lt;!-- Fill in the abbr @type="siglum" with the expected display
+                        for the witness siglum. Use &lt;hi&gt; with @rend for superscript and subscript --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;settlement&gt;Budapest&lt;/settlement&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;institution&gt;University Library (UB)&lt;/institution&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">45</span><span class="xml-line-contents">                                &lt;repository&gt;Lontar&lt;/repository&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;idno&gt;1234&lt;/idno&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;!-- the msContents isn&rsquo;t mandatory --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">50</span><span class="xml-line-contents">                                &lt;msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;author&gt;&lt;/author&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;title&gt;Sample&lt;/title&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!-- You can also add a colophon if needed --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!--&lt;colophon&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">55</span><span class="xml-line-contents">										&lt;quote&gt;&lt;/quote&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">										&lt;/colophon&gt; --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                                    &lt;!-- colophon should be structures with quote
+                           elements with attribute @type and @xml:lang when necessary --&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;/msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">60</span><span class="xml-line-contents">                            &lt;physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!-- Here you can give a physical description
+                        of the manuscript in prose--&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;/objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">65</span><span class="xml-line-contents">                            &lt;history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;!-- Here you can decribe the history of the manuscript
+                        in prose. Use &lt;origDate&gt; and &lt;origPlace&gt; to emphasize the place and date of creation
+                        --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;/msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;/witness&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">70</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                    &lt;witness xml:id="Cb"&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;abbr type="siglum"&gt;Cb&lt;/abbr&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;!-- Fill in the abbr @type="siglum" with the expected display
+                        for the witness siglum. Use &lt;hi&gt; with @rend for superscript and subscript --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">75</span><span class="xml-line-contents">                            &lt;msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;settlement&gt;Budapest&lt;/settlement&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;institution&gt;University Library (UB)&lt;/institution&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;repository&gt;Lontar&lt;/repository&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;idno&gt;1233&lt;/idno&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">80</span><span class="xml-line-contents">                            &lt;/msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;!-- the msContents isn&rsquo;t mandatory --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;author&gt;&lt;/author&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">85</span><span class="xml-line-contents">                                    &lt;title&gt;Sample&lt;/title&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!-- You can also add a colophon if needed --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!--&lt;colophon&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">										&lt;quote&gt;&lt;/quote&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">										&lt;/colophon&gt; --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">90</span><span class="xml-line-contents"><span class="instruction">                                    &lt;!-- colophon should be structures with quote
+                           elements with attribute @type and @xml:lang when necessary --&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;/msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">95</span><span class="xml-line-contents">                                    &lt;!-- Here you can give a physical description
+                        of the manuscript in prose--&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;/objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;!-- Here you can decribe the history of the manuscript
+                        in prose. Use &lt;origDate&gt; and &lt;origPlace&gt; to emphasize the place and date of creation
+                        --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">100</span><span class="xml-line-contents">                            &lt;/history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;/msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;/witness&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">105</span><span class="xml-line-contents"><span class="instruction">                                        &lt;witness xml:id="Cc"&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;abbr type="siglum"&gt;Cc&lt;/abbr&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;!-- Fill in the abbr @type="siglum" with the expected display
+                        for the witness siglum. Use &lt;hi&gt; with @rend for superscript and subscript --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">110</span><span class="xml-line-contents">                                &lt;settlement&gt;Budapest&lt;/settlement&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;institution&gt;University Library (UB)&lt;/institution&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;repository&gt;Lontar&lt;/repository&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;idno&gt;1234&lt;/idno&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">115</span><span class="xml-line-contents">                            &lt;msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;!-- the msContents isn&rsquo;t mandatory --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;author&gt;&lt;/author&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;title&gt;Sample&lt;/title&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">120</span><span class="xml-line-contents">                                    &lt;!-- You can also add a colophon if needed --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!--&lt;colophon&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">										&lt;quote&gt;&lt;/quote&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">										&lt;/colophon&gt; --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                                    &lt;!-- colophon should be structures with quote
+                           elements with attribute @type and @xml:lang when necessary --&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">125</span><span class="xml-line-contents">                                &lt;/msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!-- Here you can give a physical description
+                        of the manuscript in prose--&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">130</span><span class="xml-line-contents">                                &lt;/objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;!-- Here you can decribe the history of the manuscript
+                        in prose. Use &lt;origDate&gt; and &lt;origPlace&gt; to emphasize the place and date of creation
+                        --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">135</span><span class="xml-line-contents">                        &lt;/msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;/witness&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                    &lt;witness xml:id="Na"&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;abbr type="siglum"&gt;Na&lt;/abbr&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">140</span><span class="xml-line-contents">                        &lt;!-- Fill in the abbr @type="siglum" with the expected display
+                        for the witness siglum. Use &lt;hi&gt; with @rend for superscript and subscript --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;settlement&gt;Budapest&lt;/settlement&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;institution&gt;University Library (UB)&lt;/institution&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">145</span><span class="xml-line-contents">                                &lt;repository&gt;Lontar&lt;/repository&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;idno&gt;1234&lt;/idno&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;!-- the msContents isn&rsquo;t mandatory --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">150</span><span class="xml-line-contents">                                &lt;msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;author&gt;&lt;/author&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;title&gt;Sample&lt;/title&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!-- You can also add a colophon if needed --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!--&lt;colophon&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">155</span><span class="xml-line-contents">										&lt;quote&gt;&lt;/quote&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">										&lt;/colophon&gt; --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                                    &lt;!-- colophon should be structures with quote
+                           elements with attribute @type and @xml:lang when necessary --&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;/msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">160</span><span class="xml-line-contents">                            &lt;physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!-- Here you can give a physical description
+                        of the manuscript in prose--&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;/objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">165</span><span class="xml-line-contents">                            &lt;history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;!-- Here you can decribe the history of the manuscript
+                        in prose. Use &lt;origDate&gt; and &lt;origPlace&gt; to emphasize the place and date of creation
+                        --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;/msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;/witness&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">170</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                    &lt;witness xml:id="Nb"&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;abbr type="siglum"&gt;Nb&lt;/abbr&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;!-- Fill in the abbr @type="siglum" with the expected display
+                        for the witness siglum. Use &lt;hi&gt; with @rend for superscript and subscript --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">175</span><span class="xml-line-contents">                        &lt;msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;settlement&gt;Budapest&lt;/settlement&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;institution&gt;University Library (UB)&lt;/institution&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;repository&gt;Lontar&lt;/repository&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">180</span><span class="xml-line-contents">                                &lt;idno&gt;1234&lt;/idno&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;!-- the msContents isn&rsquo;t mandatory --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">185</span><span class="xml-line-contents">                                    &lt;author&gt;&lt;/author&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;title&gt;Sample&lt;/title&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!-- You can also add a colophon if needed --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!--&lt;colophon&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">										&lt;quote&gt;&lt;/quote&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">190</span><span class="xml-line-contents">										&lt;/colophon&gt; --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                                    &lt;!-- colophon should be structures with quote
+                           elements with attribute @type and @xml:lang when necessary --&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;/msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">195</span><span class="xml-line-contents">                                &lt;objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!-- Here you can give a physical description
+                        of the manuscript in prose--&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;/objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">200</span><span class="xml-line-contents">                                &lt;!-- Here you can decribe the history of the manuscript
+                        in prose. Use &lt;origDate&gt; and &lt;origPlace&gt; to emphasize the place and date of creation
+                        --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;/msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;/witness&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">205</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                    &lt;witness xml:id="Nc"&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;abbr type="siglum"&gt;Nc&lt;/abbr&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;!-- Fill in the abbr @type="siglum" with the expected display
+                        for the witness siglum. Use &lt;hi&gt; with @rend for superscript and subscript --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">210</span><span class="xml-line-contents">                            &lt;msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;settlement&gt;Budapest&lt;/settlement&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;institution&gt;University Library (UB)&lt;/institution&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;repository&gt;Lontar&lt;/repository&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;idno&gt;1234&lt;/idno&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">215</span><span class="xml-line-contents">                            &lt;/msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;!-- the msContents isn&rsquo;t mandatory --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;author&gt;&lt;/author&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">220</span><span class="xml-line-contents">                                    &lt;title&gt;Sample&lt;/title&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!-- You can also add a colophon if needed --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!--&lt;colophon&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">										&lt;quote&gt;&lt;/quote&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">										&lt;/colophon&gt; --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">225</span><span class="xml-line-contents"><span class="instruction">                                    &lt;!-- colophon should be structures with quote
+                           elements with attribute @type and @xml:lang when necessary --&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;/msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">230</span><span class="xml-line-contents">                                    &lt;!-- Here you can give a physical description
+                        of the manuscript in prose--&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;/objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;!-- Here you can decribe the history of the manuscript
+                        in prose. Use &lt;origDate&gt; and &lt;origPlace&gt; to emphasize the place and date of creation
+                        --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">235</span><span class="xml-line-contents">                            &lt;/history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;/msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;/witness&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">240</span><span class="xml-line-contents"><span class="instruction">                    &lt;witness xml:id="Ed"&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;abbr type="siglum"&gt;Ed&lt;/abbr&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;!-- Fill in the abbr @type="siglum" with the expected display
+                        for the witness siglum. Use &lt;hi&gt; with @rend for superscript and subscript --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">245</span><span class="xml-line-contents">                                &lt;settlement&gt;Budapest&lt;/settlement&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;institution&gt;University Library (UB)&lt;/institution&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;repository&gt;Lontar&lt;/repository&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;idno&gt;1234&lt;/idno&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/msIdentifier&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">250</span><span class="xml-line-contents">                            &lt;msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;!-- the msContents isn&rsquo;t mandatory --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;author&gt;&lt;/author&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;title&gt;Sample&lt;/title&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">255</span><span class="xml-line-contents">                                    &lt;!-- You can also add a colophon if needed --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!--&lt;colophon&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">										&lt;quote&gt;&lt;/quote&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">										&lt;/colophon&gt; --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                                    &lt;!-- colophon should be structures with quote
+                           elements with attribute @type and @xml:lang when necessary --&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">260</span><span class="xml-line-contents">                                &lt;/msItem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/msContents&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                    &lt;!-- Here you can give a physical description
+                        of the manuscript in prose--&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">265</span><span class="xml-line-contents">                                &lt;/objectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/physDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                                &lt;!-- Here you can decribe the history of the manuscript
+                        in prose. Use &lt;origDate&gt; and &lt;origPlace&gt; to emphasize the place and date of creation
+                        --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/history&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">270</span><span class="xml-line-contents">                        &lt;/msDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;/witness&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;/listWit&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">275</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;/sourceDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">        &lt;/fileDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">280</span><span class="xml-line-contents">        &lt;encodingDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;projectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;!-- Part mandatory --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;p&gt;This project has received funding from the European Research Council (ERC) under the European Union&rsquo;s Horizon 2020 research and innovation programme (grant agreement no 809994).&lt;/p&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;!-- Optionally add here a second &lt;p&gt; to describe the specifics of
+                        the subproject that has led to this edition. --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">285</span><span class="xml-line-contents">            &lt;/projectDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;editorialDecl&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;!-- As stated in the EGC, this element shall be used only if your edition follows principles that are different from or more fine-grained than those established in the project&rsquo;s guides. Among the following elements, you may keep only the ones your need for your edition. If you use one, its contents must be contained in at least one &lt;p&gt; of free text. If you don&rsquo;t need any &lt;editorialDecl&gt; at all, you may eventually remove this entire section of the file. --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;correction&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;p/&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">290</span><span class="xml-line-contents">                &lt;/correction&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;normalization&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;p/&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;/normalization&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;punctuation&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">295</span><span class="xml-line-contents">                    &lt;p/&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;/punctuation&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;interpretation&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;p&gt;The asterisk * is used to flag lemmata or forms of lemmata
+                        not recorded in the &lt;title&gt;Old Javanese-English Dictionary&lt;/title&gt;.&lt;/p&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;/interpretation&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">300</span><span class="xml-line-contents">            &lt;/editorialDecl&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">            &lt;!--&lt;refsDecl xml:id="ASLREF"&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;cRefPattern matchPattern="(\S+) ([^.]+)\.(.*)"</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    replacementPattern="#xpath(//div1[@n=&rsquo;$1&rsquo;]/div2/[@n=&rsquo;$2&rsquo;]//lb[@n=&rsquo;$3&rsquo;])"&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;p&gt;A reference is created by assembling the following, in the
+                        reverse order as that</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">305</span><span class="xml-line-contents">                        listed here: &lt;list&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;item&gt;the &lt;att&gt;n&lt;/att&gt; value of the preceding &lt;gi&gt;lb&lt;/gi&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/item&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;item&gt;a period&lt;/item&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;item&gt;the &lt;att&gt;n&lt;/att&gt; value of the ancestor &lt;gi&gt;div2&lt;/gi&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">310</span><span class="xml-line-contents">                            &lt;/item&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;item&gt;a space&lt;/item&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;item&gt;the &lt;att&gt;n&lt;/att&gt; value of the parent &lt;gi&gt;div1&lt;/gi&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                            &lt;/item&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                        &lt;/list&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">315</span><span class="xml-line-contents">                    &lt;/p&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;/cRefPattern&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;/refsDecl&gt;--&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;samplingDecl&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;!-- To be kept only to explain in prose the method to choose the
+                        corpus, e.g. ommission of the material ...--&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">320</span><span class="xml-line-contents">                &lt;p/&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;/samplingDecl&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;schemaRef type="guide" key=" EGCv01" url="https://docs.google.com/document/d/15HFxHJTOzIU1UDyVrB2yQYJ5wI6JyEshEkYgg5qwj8M/edit#"/&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;!-- Will need to be updated once a more official realase is done --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">325</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;!-- variantEncoding is a  mandatory element. You have to select one of
+                        the two solutions given in DHARMA depending how you chave chosen to encode your apparatus.
+                        If inline, select @method="parallel-segmentation" as per section §5 of EGC, but if
+                        you are encoding your apparatus after any section, mostly being stanza, use  @method="location-referenced".</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">			&lt;variantEncoding method="parallel-segmentation" location="internal"/&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">			&lt;variantEncoding method="location-referenced" location="internal"/&gt;.</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">330</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">			Note that the current by default behaviour is set on parallel-segmentation --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;variantEncoding method="parallel-segmentation" location="internal"/&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;!-- Part mandatory --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;listPrefixDef&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">335</span><span class="xml-line-contents">                &lt;prefixDef ident="bib" matchPattern="([a-zA-Z0-9\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1"&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;p&gt;Public URIs with the prefix bib to point to a Zotero Group
+                        Library named ERC-DHARMA whose data are open to the public.&lt;/p&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;/prefixDef&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                &lt;prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1"&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                    &lt;p&gt;Internal URIs using the part prefix to point to person elements
+                           in the &lt;ref&gt;DHARMA_idListMembers_v01.xml&lt;/ref&gt; file.&lt;/p&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">340</span><span class="xml-line-contents">                &lt;/prefixDef&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                &lt;prefixDef ident="txt" matchPattern="([A-Za-z0-9]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListTexts_v01.xml#$1"&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                    &lt;p&gt;Internal URIs using the part prefix to point to person elements
+                           in the &lt;ref&gt;DHARMA_idListMembers_v01.xml&lt;/ref&gt; file.&lt;/p&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;/prefixDef&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;prefixDef ident="class" matchPattern="([0-9]+)" replacementPattern="tba"&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">345</span><span class="xml-line-contents">                    &lt;p&gt;Referential with the prefix class for script classification
+                        declared inside OpenTheso to be mapped with ARK URIs opened to the public.&lt;/p&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;/prefixDef&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;prefixDef ident="maturity" matchPattern="(0-9]+)" replacementPattern="tba"&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;p&gt;Referential with the prefix maturity for script maturity declared
+                        inside OpenTheso to be mapped with ARK URIs opened to the public&lt;/p&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;/prefixDef&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">350</span><span class="xml-line-contents"><span class="instruction">                &lt;prefixDef ident="cal" matchPattern="([\w]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1"&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">                    &lt;p&gt;Internal URIs using the cal prefix to point to calendar systems
+                           in  &lt;ref&gt;DHARMA_calendarDesc_v01.xml&lt;/ref&gt; file.&lt;/p&gt;&lt;/prefixDef&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;/listPrefixDef&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">        &lt;/encodingDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">        &lt;profileDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">355</span><span class="xml-line-contents">            &lt;langUsage&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;!-- choose the language(s) of your text, remove the others --&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;language ident="san-Latn"&gt;Sanskrit, romanized&lt;/language&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;/langUsage&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;textClass&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">360</span><span class="xml-line-contents">                &lt;keywords&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                    &lt;term/&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">                &lt;/keywords&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;/textClass&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">        &lt;/profileDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">365</span><span class="xml-line-contents">        &lt;revisionDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">         &lt;change who="part:axja" when="2023-04-14"&gt;Work on trasnformation from latex
+                        to TEI&lt;/change&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">        &lt;/revisionDesc&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">    &lt;/teiHeader&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">    &lt;text xml:space="preserve" xml:lang="und"&gt;&lt;!-- update the language code --&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">370</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">		&lt;body&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"><span class="instruction">&lt;div type="edition" xml:lang="san-Latn"&gt;</span></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">375</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">&lt;lg n="1.1" met="anuṣṭubh"&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">    &lt;ab type="speaker"&gt;&lt;app&gt;&lt;lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed"&gt;anarthayajña
+                        uvāca&lt;/lem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">380</span><span class="xml-line-contents">    &lt;witDetail wit="#msNa" type="pc"/&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">    &lt;rdg wit="#msNa"/&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;witDetail wit="#msNa" type="ac"/&gt;&lt;/app&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">            &lt;/ab&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">385</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">&lt;l n="a"&gt;&lt;app&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">    &lt;lem wit="#msCb #msNa #msNb #msNc"&gt;atisaṃśayakaṣṭaṃ te&lt;/lem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">    &lt;rdg wit="#msCa"&gt;atiśaṃsa&lt;unclear&gt;ya&lt;/unclear&gt;kaṣṭan te&lt;/rdg&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">390</span><span class="xml-line-contents">    &lt;rdg wit="#msCc #Ed"&gt;atiśaṃsayakaṣṭam me&lt;/rdg&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">&lt;/app&gt;&lt;/l&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">&lt;l n="b"&gt;pṛṣṭo &rsquo;haṃ &lt;app&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">    &lt;lem wit="#msCa #msCb #msNa #msNb #msNc #Ed"&gt;dvijasattama&lt;/lem&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">    &lt;rdg wit="#msCc"&gt;ca dvijottamaḥ&lt;/rdg&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">395</span><span class="xml-line-contents">&lt;/app&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">&lt;/l&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">400</span><span class="xml-line-contents">&lt;l n="c"&gt;durvi&lt;app&gt;&lt;lem wit="#msCa #msCb #msNa #msNc" rend="circlefront"&gt;jñeyaṃ&lt;/lem&gt;&lt;rdg
+                        wit="#msCc #msNb #Ed" rend="circlefront"&gt;jñeya&lt;/rdg&gt;&lt;/app&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">        &lt;app&gt;&lt;lem wit="#msCa #msNa #msNb #msNc #Ed"&gt;manuṣyais tu&lt;/lem&gt;&lt;rdg wit="#msCb"&gt;manuṣaiś
+                        ca&lt;/rdg&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">    &lt;rdg wit="#msCc"&gt;maṇukṣe&lt;unclear&gt;ptu&lt;/unclear&gt;&lt;/rdg&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">&lt;/app&gt;&lt;/l&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">&lt;l n="d"&gt;devadānavapannagaiḥ&lt;/l&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">405</span><span class="xml-line-contents">&lt;/lg&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">&lt;/div&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">&lt;/body&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">410</span><span class="xml-line-contents">&lt;/text&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents">&lt;/TEI&gt;</span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+                  <div class="xml-line"><span class="xml-line-no hidden">.</span><span class="xml-line-contents"></span></div>
+               </div>
+            </div>
+         </main>
+      </div>
+      <div id="tip-box" class="hidden">
+         <div id="tip-contents"></div>
+         <div id="tip-arrow"></div>
+      </div>
+      <div id="modalsapp" class="hidden"><span class="popover-content d-none" id="d1e573"><span class="app-entry"><span class="lemma-line"><span class="">anarthayajña uvāca</span><b class="supsub"> <a class="siglum" href="#mssCaCbCc">mssCaCbCc</a> <a class="siglum" href="#msNa">msNa</a><sub>pc</sub> <a class="siglum" href="#msNb">msNb</a> <a class="siglum" href="#msNc">msNc</a> <a class="siglum" href="#Ed">Ed</a></b><br></span><hr><span class="reading-line"><span class="reading"></span> <b class="supsub"> <a class="siglum" href="#msNa">msNa</a><sub>ac</sub></b></span></span></span><span class="popover-content d-none" id="d1e585"><span class="app-entry"><span class="lemma-line"><span class="">atisaṃśayakaṣṭaṃ te</span><b> <a class="siglum" href="#msCb">msCb</a> <a class="siglum" href="#msNa">msNa</a> <a class="siglum" href="#msNb">msNb</a> <a class="siglum" href="#msNc">msNc</a></b><br></span><hr><span class="reading-line"><span class="reading">atiśaṃsa<span class="unclear" data-tip="Unclear text">(ya)</span>kaṣṭan te</span> <b> <a class="siglum" href="#msCa">msCa</a></b></span><span class="reading-line"><span class="reading">atiśaṃsayakaṣṭam me</span> <b> <a class="siglum" href="#msCc">msCc</a> <a class="siglum" href="#Ed">Ed</a></b></span></span></span><span class="popover-content d-none" id="d1e601"><span class="app-entry"><span class="lemma-line"><span class="">dvijasattama</span><b> <a class="siglum" href="#msCa">msCa</a> <a class="siglum" href="#msCb">msCb</a> <a class="siglum" href="#msNa">msNa</a> <a class="siglum" href="#msNb">msNb</a> <a class="siglum" href="#msNc">msNc</a> <a class="siglum" href="#Ed">Ed</a></b><br></span><hr><span class="reading-line"><span class="reading">ca dvijottamaḥ</span> <b> <a class="siglum" href="#msCc">msCc</a></b></span></span></span><span class="popover-content d-none" id="d1e613"><span class="app-entry"><span class="lemma-line"><span class="">jñeyaṃ</span><b> <a class="siglum" href="#msCa">msCa</a> <a class="siglum" href="#msCb">msCb</a> <a class="siglum" href="#msNa">msNa</a> <a class="siglum" href="#msNc">msNc</a></b><br></span><hr><span class="reading-line"><span class="reading">jñeya</span> <b> <a class="siglum" href="#msCc">msCc</a> <a class="siglum" href="#msNb">msNb</a> <a class="siglum" href="#Ed">Ed</a></b></span></span></span><span class="popover-content d-none" id="d1e619"><span class="app-entry"><span class="lemma-line"><span class="">manuṣyais tu</span><b> <a class="siglum" href="#msCa">msCa</a> <a class="siglum" href="#msNa">msNa</a> <a class="siglum" href="#msNb">msNb</a> <a class="siglum" href="#msNc">msNc</a> <a class="siglum" href="#Ed">Ed</a></b><br></span><hr><span class="reading-line"><span class="reading">manuṣaiś ca</span> <b> <a class="siglum" href="#msCb">msCb</a></b></span><span class="reading-line"><span class="reading">maṇukṣe<span class="unclear" data-tip="Unclear text">(ptu)</span></span> <b> <a class="siglum" href="#msCc">msCc</a></b></span></span></span></div>
+   </body><script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script><script src="https://dharmalekha.info/base.js?v=1a9450aa77c9b125526d71a0e58819c086fa4cab"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@refs/heads/master/stylesheets/criticalEditions/loader_v02.js?v=1a9450aa77c9b125526d71a0e58819c086fa4cab"></script></html>
