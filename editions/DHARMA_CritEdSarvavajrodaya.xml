@@ -2132,7 +2132,7 @@ evaṃ prakārakarmmaṇi spharaṇasaṃhārayogena punaḥ punar bhāvayet || 
 <lem wit="#MSK" type="emn">-gandhodakena</lem>
 <rdg wit="#cod">-gandhodake</rdg>
 </app> sarva-pūjāṅgāni prokṣya, 
-<app><lem type="emn">vajrānalena mudrāsahitena</lem>
+<app><lem type="emn">vajrānalena mudrā-sahitena</lem>
   <rdg wit="#cod">vajrānalena mudreṇa</rdg>
   <rdg wit="#MSK" type="emn">vajrānalamudrayā</rdg>
 <note>Alternative emendations we have considered are <foreign>vajrānalena</foreign> and <foreign>vajrānalena mantreṇa</foreign>. The emendation we have retained corresponds to Tib.: <foreign>rdo rje me'i phyag rgya dang bcas pas</foreign>. See also KSP §23 (ed. Inui 1991: 20) <foreign>punar vajrānalāhaṅkāreṇa tanmudrāyuktena pūjāṅgāni śodhayet</foreign> and SDPT p. 134 (ed. Skorupski) <foreign>tato vajrānalena mudrāsahitena vighnadahanādikaṁ kuryāt</foreign>.
@@ -2182,9 +2182,9 @@ SDPT sarvagandhān suvāsāṃś ca vilepanasugandhakān tathaiva vajrānalena /
 <app><lem type="emn">om̐</lem>
   <rdg wit="#cod"><gap reason="omitted"/></rdg>
   <note>MSK does not supply <foreign>om̐</foreign>.</note>
-</app> akāro mukhaṁ sarvadharmāṇām ādyanutpannatvād iti.
+</app> akāro mukhaṁ sarvadharmāṇām ādy-anutpannatvād iti.
  khaḍga-mudrayā balim. 
-vajrabandhena <app>
+vajra-bandhena <app>
 <lem type="emn">khaḍgākarṣābhinayā</lem>
 <rdg wit="#cod #MSK">khaḍgātkarṣābhinayā</rdg>
 <!-- MSK accepts the text as it is found in cod. -->
@@ -2202,7 +2202,7 @@ om̐ vajrasattva <app>
 <lem type="emn">hūm̐ iti</lem>
 <rdg wit="#cod">hūṁmiti</rdg>
 <rdg wit="#MSK">hūṁ || iti</rdg>
-</app> tila-yava-kuśa-lājā-sita-sugandhi-kusuma-candanoda<pb edRef="#cod" n="25v"/>kāni śaṅkha-bhājanādau prakṣipya sphuṭita-vajrāñjali-lakṣaṇayārgha-mudrayā triḥ parijapya saptavāram 
+</app> tila-yava-kuśa-lājā-sita-sugandhi-kusuma-candanoda<pb edRef="#cod" n="25v"/>kāni śaṅkha-bhājanādau prakṣipya sphuṭita-vajrāñjali-lakṣaṇayārgha-mudrayā triḥ parijapya sapta-vāram 
 <app>
 <lem wit="#MSK">ekaviṁśati-</lem>
 <witDetail wit="#MSK" type="silemn"/>
@@ -2267,98 +2267,120 @@ oṃ vajrasattva hūṃ. oṃ vajrāsani hūṃ. āsanam.
 
 <lg met="anuṣṭubh">
 <l n="a">bāhubhyāṁ <app>
-<lem type="emn">vajrabandhena</lem>
+<lem type="emn">vajra-bandhena</lem>
 <rdg wit="#cod #MSK">vajrabandhe</rdg>
 <witDetail wit="#cod" type="pc"/>
 <rdg wit="#cod">vajrena</rdg>
 <witDetail wit="#cod" type="ac"/>
 </app></l>
-<l n="b">vajrācchaṭāvimokṣaṇaiḥ |</l>
-<l n="c">śrīvajrasattvayogātmā</l> 
+<l n="b">vajrācchaṭā-vimokṣaṇaiḥ |</l>
+<l n="c">śrī-vajrasattva-yogātmā</l> 
 <l n="d"><app>
-<lem wit="#MSK" type="emn">sarvabuddhān</lem>
+<lem wit="#MSK" type="emn">sarva-buddhān</lem>
 <rdg wit="#cod">sarvavuddhāṁ</rdg>
-</app> samājayet ||</l></lg>
+</app> samājayet ||</l>
+</lg>
 
 <lg met="anuṣṭubh">
-<l n="a">vāmācchaṭakatālena</l> <l n="b"><app>
-<lem type="emn">
-<seg rend="check">savyatāleti</seg>
-</lem>
-<!--<note corresp="#SVUTib">
-<foreign>g-yas pa thal mo zhes bya ste</foreign>
-</note>-->
-<!-- did we mean #STTS or #KSP instead of #SVU? Or maybe we meant Tibetan translation of SVU?-->
+<l n="a">vāmācchaṭaka-tālena</l> 
+<l n="b"><app><lem type="emn">śamya-tāleti</lem>
+<!--<note corresp="#SVUTib"><foreign>g-yas pa thal mo zhes bya ste</foreign></note>-->
+<!-- did we mean #STTS or #KSP instead of #SVU? Or maybe we meant Tibetan translation of SVU?
+śamya seems most likely reading because Ānandagarbha (author of VJU and comm. on Uttaratantra of SBS) was familiar with Samāyoga practice and because śamyatāla among available readings seems the closest match with sūkṣmatāla in STTS.
+However, SBS does contain the term savyatāla:
+vāmadakṣiṇapāṇibhyāṃ salīlāgrāntanartitaiḥ | savyāpasavyatālais tu sarvapūjāṁ nivedayet || 8.21 ||
+śrīpadmanālanarteśvarī nāma mudrā || 8.22 ||
+-->
 <rdg wit="#cod #MSK">samyaktāleti</rdg>
-</app>  siddhyati |</l>
+<note>Tentatively emended after the <title>Samāyoya</title> parallels. However, SVUTib would support <foreign>savyatāleti</foreign>.</note>
+</app> siddhyati |</l>
 <l n="c">dakṣiṇena tu tāloktā</l>
-<l n="d">saṁnipātāvubhā<app>
-<lem wit="#cod">vapīti</lem>
-<note><ptr target="#MSK"/>note indicates that they read <foreign>ayīti</foreign></note>
-</app> ||</l>
+<l n="d">saṁnipātāv ubhāv <app><lem type="emn" wit="#MSK">apīti</lem>
+<rdg wit="#cod">ayīti</rdg></app> ||</l>
 </lg>
+<!-- 
+NWS acchaṭa     <Buddh, o.S.>SubstnMmk 159.23; acchaṭā.<BHSD: 7>
+
+tato rahasyamudrājñānaṃ śikṣayet /:(STT 1,140,247)
+vajrāveśaṃ samutpādya tālaṃ dadyāt samāhitaḥ /(STT 1,140,247)
+vajrāñjalitalaiḥ sūkṣmaṃ parvato 'pi vaśaṃ nyaset //(STT 1,140,247)
+vajratālamudrā //(STT 1,140,247)
+vajrāveśavidhiṃ yojya vajrabandhatalair hanet /(STT 1,140141,247)
+sūkṣmatālaprayogeṇa parvato 'pi samāviśet //(STT 1,141,247)
+tathaivāveśavidhinā vajrabandhaprasārite /(STT 1,141,247)
+agrāṅgulisamāsphoṭād dhanet kulaśataṃ kṣaṇāt //(STT 1,141,247)
+sūkṣmāveśavidher yogāt sarvāṅgulisamāhitam /(STT 1,141,247)
+vajrabandhavinirmuktaṃ sarvaduḥkhaharaṃ param iti //(STT 1,141,247)
+
+athāsāṃ guhyasādhanaṃ bhavati //:(STT 1,141,248)
+bhagena praviśet kāyaṃ striyāyāḥ puruṣasya vā /(STT 1,141,248)
+praviṣṭvā manasā sarvaṃ tasya kāyaṃ samaṃ sphared iti /(STT 1,141,248)
+
+tatraitāni tālahṛdayāni bhavanti //:(STT 1,141,249)
+vajravaśa /(STT 1,141,249)
+vajraviśa /(STT 1,141,249)
+vajrahana /(STT 1,141,249)
+vajrahara //(STT 1,141,249)
+-->
 <listApp type="parallels">
 <app>
-<note><foreign>Samāyoga</foreign> 9.320, 322:
+<note><title>Samāyoga</title> 9.320, 322:
 <foreign>bāhubhyāṁ vajrabandhena vajrācchaṭāvimokṣaṇaiḥ |
-śrīvajrasattvayogātmā sarvabuddhān samājayet</foreign> || 9.320 || (= <foreign>Samāyoga</foreign> 5.49)
+śrīvajrasattvayogātmā sarvabuddhān samājayet</foreign> || 9.320 || (= <title>Samāyoga</title> 5.49)
+<!-- asyājñāmātracakitāḥ saparṣaccakrasaṁcayāḥ |
+sarvabuddhāḥ samāyānti kā kathānyeṣu vartate || 9.321 || -->
 <foreign>vāmācchaṭakatālena śamyatāleti sidhyati |
-dakṣiṇena tu tāloktā saṁnipātāv ubhāv api</foreign>  || 9.322 ||;
-<!-- <foreign>Samāyoga"/>5.49 -->
+dakṣiṇena tu tāloktā saṁnipātāv ubhāv api</foreign> || 9.322 ||;
+<!-- 
+tālayogaprayogeṇa yathāmārgānusārataḥ | %! Gray
+śamyatālasamājais tu gītavāditanartitaiḥ || 9.323 ||-->
+<!-- <title>Samāyoga</title> 5.49 -->
 <!-- <foreign>bāhubhyāṁ vajrabandhena vajrācchaṭāvimokṣaṇaiḥ | -->
-<!-- śrīvajrasattvayogātmā sarvabuddhān samājayet"/>||; -->
+<!-- śrīvajrasattvayogātmā sarvabuddhān samājayet</foreign> ||; -->
 <!-- <foreign>sarvabuddhasamājaṁ tu vajrācchaṭāvimokṣaṇaiḥ | -->
-<!--  śamyatālasamājais tu tritālaṁ viniyojayet"/>||5.32|| --></note>
-<note>SDPT:
-<foreign>bāhubhyāṁ vajrabandhena vajra<seg rend="check">chaṭa</seg>kavimokṣaṇe |
+<!--  śamyatālasamājais tu tritālaṁ viniyojayet</foreign> ||5.32||
+Shiori while reading SBS with Kenichi and Kazuo checked Paramādya for parallels but did not find any.
+-->
+</note>
+<note>SDPT (p. 172): <foreign>bāhubhyāṁ vajrabandhena vajrachaṭakavimokṣaṇe |<!-- sic printed edition -->
 śrīśākyarājayogātmā sarvabuddhān samājayet ||
 vāme chaṭakatālena samatālena siddhyati |
-dakṣiṇena tu tāloktaṁ saṁnipātāv ubhāv api ||</foreign> (p.172)
-(CHECK THE READING OF THE EDITION);
-<seg rend="check">Possibly quoted from the Paramādya. CHECK!!</seg></note>
-<note>Ānandagarbha's <foreign>Sarvadurgatipariśodhanamaṇḍalavidhi</foreign>:
+dakṣiṇena tu tāloktaṁ saṁnipātāv ubhāv api ||</foreign> 
+<!-- <note>Ānandagarbha's <title>Sarvadurgatipariśodhanamaṇḍalavidhi</title>:
 <foreign>lag ngar gnyis ni rdo rje bcings || 
 rdo rje se gol bcas pa yis || 
 shā kya'i rgyal po sbyor bdag nyid || 
 sangs rgyas thams cad bsdu bar bya ||
 g-yon pa'i se gol brdabs pa dang || 
 g-yas pa yis ni 'grub par 'gyur || 
-g-yas pa thal mo zhes bya ste || 
-'dus pa yang ni gnyis ka yin ||</foreign> (D f.193v6–7)</note>
-<note><foreign>Abhidhānottara</foreign> (Tib.):
+g-yas pa thal mo zhes bya ste || <!-/- exactly the same words as in SVUTib-/->
+'dus pa yang ni gnyis ka yin ||</foreign> (D f.193v6–7) -->
+<!-- <note><title>Abhidhānottara</title> Uttaratantra of Herukābhihāna (Tib.):
 rdo rje sems dpa'  %@286a *| |
 bdag sbyor bas || lag gnyis rdo rjer bcings pa yi || 
 rdo rje se gol brdabs pa yis || sangs rgyas thams cad bsdu bar bya || 
 g-yon pa'i se gol brdabs pa dang || thal mo <hi rend="bold">dal bus</hi> brdabs pas 'grub || 
 g-yas ba'i thal mo yin par gsungs || gnyis ka kun tu sdud pa yin ||
 (Lhasa 285b-286a <seg rend="check">D P Skt!!</seg>;
-<foreign>Abhidhānottara</foreign> (Tib.)
+<title>Abhidhānottara</title> (Tib.)
 <foreign>rdo rje sems dpa'i sbyor ba yis || dpung pa gnyis ni rdo rjer bcings || 
 rdo rje se gol brdabs pa yis || sangs rgyas thams cad bsdu mdzad na ||</foreign>
-(Lhasa 255a)
+(Lhasa 255a) -->
 </note>
 </app>
 </listApp>
 
+<p>samāja-mudrā-lakṣaṇam. om̐ vajrasamāja <app><lem type="emn" wit="#MSK">jjaḥ</lem>
+  <witDetail wit="#MSK" type="silemn"/>
+  <rdg wit="#cod">jjaḥ</rdg></app>
+ hūm̐ vam̐ hoḥ iti samāja<app><lem wit="#MSK" type="emn">-mudrā-hr̥dayam</lem>
+<rdg wit="#cod">-mudrāhr̥dayat</rdg></app>.</p>
 
-<p>
-samājamudrālakṣaṇam. om̐ vajrasamāja <app>
-<lem>
-<seg rend="check">jjaḥ</seg>
-</lem>
-<note>Emend <foreign>jaḥ</foreign> with <ptr target="#MSK"/>
- (silently)?</note>
-</app>
- hūm̐ vam̐ hoḥ iti samāja<app>
-<lem wit="#MSK" type="emn" rend="hyphenleft">mudrāhr̥dayam</lem>
-<rdg wit="#cod">-mudrāhr̥dayat</rdg>
-</app>.
-</p>
+<!-- RT, SI and AG have reached here on 2025-11-18 -->
 
-<lg met="anuṣṭubh">
-<l n="a">asyājñāmātracakitāḥ</l>
-<l n="b"><app>
-<lem wit="#MSK" type="emn" rend="hyphenright">saparṣaccakra</lem>
+<lg met="anuṣṭubh"><!-- = SBS 9.321-->
+<l n="a">asyājñā-mātra-cakitāḥ</l>
+<l n="b"><app><lem wit="#MSK" type="emn" rend="hyphenright">saparṣac-cakra</lem>
 <rdg wit="#cod">saparṣacakra-</rdg>
 </app>saṁcayāḥ |</l>
 <l n="c">sarvabuddhāḥ samāyānti</l>
