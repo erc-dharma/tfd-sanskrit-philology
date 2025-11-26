@@ -2125,7 +2125,7 @@ evaṃ prakārakarmmaṇi spharaṇasaṃhārayogena punaḥ punar bhāvayet || 
 
 <div type="subchapter" n="4">
 <head type="editorial">Supplement
-<seg rend="check">Reconsider the section title!</seg>
+<seg rend="check">Reconsider the section title!</seg><!-- 2025-11-26 Ryugen suggest to make it into an opening section of the next chapter, i.e. mandala rituals start here-->
 </head>
 
 <p>tato vajrayakṣa-parijapta<app>
@@ -2370,7 +2370,7 @@ rdo rje se gol brdabs pa yis || sangs rgyas thams cad bsdu mdzad na ||</foreign>
 </app>
 </listApp>
 
-<p>samāja-mudrā-lakṣaṇam. om̐ vajrasamāja <app><lem type="emn" wit="#MSK">jjaḥ</lem>
+<p>samāja-mudrā-lakṣaṇam. om̐ vajrasamāja <app><lem type="emn" wit="#MSK">jaḥ</lem>
   <witDetail wit="#MSK" type="silemn"/>
   <rdg wit="#cod">jjaḥ</rdg></app>
  hūm̐ vam̐ hoḥ iti samāja<app><lem wit="#MSK" type="emn">-mudrā-hr̥dayam</lem>
@@ -2380,22 +2380,22 @@ rdo rje se gol brdabs pa yis || sangs rgyas thams cad bsdu mdzad na ||</foreign>
 
 <lg met="anuṣṭubh"><!-- = SBS 9.321-->
 <l n="a">asyājñā-mātra-cakitāḥ</l>
-<l n="b"><app><lem wit="#MSK" type="emn" rend="hyphenright">saparṣac-cakra</lem>
+<l n="b"><app><lem wit="#MSK" type="emn">saparṣac-cakra-</lem>
 <rdg wit="#cod">saparṣacakra-</rdg>
 </app>saṁcayāḥ |</l>
-<l n="c">sarvabuddhāḥ samāyānti</l>
+<l n="c">sarva-buddhāḥ samāyānti</l>
 <l n="d">kā kathānyeṣu vartate ||</l>
 </lg>
 <listApp type="parallels">
 <app>
 <note>
-<foreign>Samāyoga</foreign> 9.321 (= 5.50):
+<title>Samāyoga</title> 9.321 (= 5.50):
 <foreign>asyājñāmātracakitāḥ saparṣaccakrasaṁcayāḥ |
 sarvabuddhāḥ samāyānti kā kathānyeṣu vartate ||</foreign></note>
-<note>SDPT p.172:
+<note>SDPT p. 172:
 <foreign>asyā ājñāyā mātreṇa saparṣaccakrasaṁcayaḥ |
 sarvabuddhāḥ samāyānti kā kathānyeṣu varttate ||</foreign></note>
-<note>Ānandagarbha's <foreign>Sarvadurgatipariśodhanamaṇḍalavidhi</foreign>:
+<!-- <note>Ānandagarbha's <foreign>Sarvadurgatipariśodhanamaṇḍalavidhi</foreign>:
 <foreign>'di'i bka' tsam gyis bsgrags pas || 
 'khor lo'i tshogs ni 'khor bcas pa'i || 
 sangs rgyas thams cad gshegs 'gyur na || 
@@ -2411,141 +2411,98 @@ gzhan lta smos kyang ci zhig dgos ||</foreign>
 sangs rgyas kun kyang 'du 'gyur na ||
 gzhan lta smos kyang ci zhig smos ||</foreign>
 (Lhasa 286a <seg rend="check">D P!! SKT!!</seg>)
-</note>
+</note> -->
 </app>
 </listApp>
 
-
 <lg met="anuṣṭubh">
-<l n="a">tataḥ <app>
-<lem wit="#MSK">śīghraṁ</lem>
+<l n="a">tataḥ <app><lem wit="#MSK">śīghraṁ</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">śrīghra</rdg>
 </app> mahāmudrāṁ</l>
-<l n="b">vajrasattvasya <app>
-<lem wit="#MSK" type="emn">sevayan</lem>
-<rdg wit="#cod">sevayaṁ</rdg>
-</app> |</l>
-<l n="c">
-<app>
-<lem type="emn">uccārayet</lem>
+<l n="b">vajrasattvasya <app><lem wit="#MSK" type="norm">sevayan</lem>
+<rdg wit="#cod">sevayaṁ</rdg></app> |</l>
+<l n="c"><app>
+<lem wit="#MSK" type="emn">uccārayet</lem>
 <rdg wit="#cod">uccāraye</rdg>
-</app> sakr̥dvāraṁ</l>
-<l n="d">
-<app>
-<lem wit="#MSK" type="emn">nāmāṣṭaśatam</lem><!-- ponder encoding of this passage more-->
-<rdg wit="#cod">nāmāṣṭhagatam</rdg>
-<note>
-<ptr target="#MSK"/>'s note reports the misreading <foreign>nāmāṣṭāśatam</foreign>.
-</note>
-</app> uttamam ||
-</l></lg>
+</app> sakr̥d-vāraṁ</l>
+<l n="d"><app>
+<lem wit="#MSK" type="emn">nāmāṣṭaśatam</lem>
+<rdg wit="#cod">nāmāṣṭha§gatam</rdg>
+<note>The footnote in <ptr target="#MSK"/> reports the misreading <foreign>nāmāṣṭāśatam</foreign>.</note>
+</app> uttamam ||</l
+></lg>
 <listApp type="parallels">
 <app>
-<lem>tataḥ ... uttamam</lem>
-<note>To be traced.</note>
+<note>The same verse occurs again in §??.??. No exact parallel has been identified outside of SVY, but closely similar verses occur in STTS §208:
+  <foreign>tataḥ śīghraṁ mahāmudrāṁ bhāvya vajradharasya tu |
+  uccārayet sakr̥dvāraṁ nāmāṣṭaśatam uttamam ||</foreign>;
+  and SDPT (p. 260): 
+  <foreign>tataḥ śīghraṁ mahāmudrāṁ vajrakrodhasamayam uccārayet | 
+  sakr̥dvāraṁ nāmāṣṭakaṁ śataṁ uttamam |</foreign>.  While the relevant part of the SVU is metrical,
+  this part of the SDPT is in prose.</note>
 </app>
 </listApp>
 
 <p>vajrasattva <app>
 <lem wit="#MSK">mahāsattvetyādi</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">mahāsattvetyādi</rdg>
-<witDetail type="pc" wit="#cod"/>
-<rdg wit="#cod">mahāsatvetyidi</rdg>
-<witDetail type="ac" wit="#cod"/>
-</app></p>
+<rdg wit="#cod">mahāsatvetyādi</rdg>
+<note>We report the reading obviously intended by the scribe, but in reality there is a cancelled <foreign>-i</foreign> marker before what we read <foreign>tyā</foreign>, and this reading itself requires ignoring a meaningless stroke attached to the bottom of the <foreign>akṣara</foreign>.</note></app></p>
 <listApp type="parallels">
 <app>
-<lem>The <foreign>nāmāṣṭaśata</foreign> beginning with <foreign>vajrasattva</foreign>
-</lem>
-<note>STTS §§197–201.</note>
+<note>The text segment containing the litany of 108 names (<foreign>nāmāṣṭaśata</foreign>) beginning with <foreign>vajrasattva</foreign> is found in STTS §197–201.</note>
 </app>
 </listApp>
 
-<!-- -gandhodake: em. -gandhodakena, with MSK. -->
-<!-- vajrānalena mudreṇa: em. vajrānalena or vajrānalena mantreṇa? MSK emends vajrānalamudrayā. -->
-<!-- vajrapuṣpa: em. vajrapuṣpe, with MSK. -->
-<!-- puṣpā\unclear{ṇ}i : puṣpāni MSK. puṣpā\unclear{ṇ}i <ptr target="#cod"/> -->
-<!-- gandhat·: em. gandham·, with MSK. -->
-<!-- °ekaviśaṁti-: em. °ekaṁviśati-, with MSK (sil. em.). -->
-<!-- khaḍgātkarṣābhinayā: em. khaḍgākarṣābhinayā; MSK accepts the text as it is. -->
-<!-- dvārodghaṭānaṁ: em. dvārodghāṭanaṁ, with MSK (sil. em.). -->
-<!-- śrīvajrasatvāmahāmudrām: em. śrīvajrasattvamahāmudrām, with MSK. -->
-<!-- vajravandhe: thus pc; vajrena ac. -->
-<!-- apīti: MSK note indicates that they read ayīti. -->
-<!-- -mudrāhr̥dayat·: em. mudrāhr̥dayam·, with MSK. -->
-<!-- saparṣacakra-: em. saparṣaccakra-, with MSK. -->
-<!-- śrīghraṁ: em. śīghraṁ, with MSK (sil. em.). -->
-<!-- °uccāraye: em. °uccārayet, with MSK? Or keep as Ārṣa form? -->
-<!-- nāmāṣṭhagatam: em. nāmāṣṭaśatam, with MSK; MSK's note reports the misreading nāmāṣṭāśatam. -->
-<!-- mahāsatvetyādi: tyā is pc, corrected from tyi. -->
-<!-- the verses are found in SDPT p. 172. -->
 
 <lg met="anuṣṭubh">
 <l n="a">tato dvāreṣu sarveṣu</l>
-<l n="b"><app>
-<lem wit="#MSK">karma</lem>
+<l n="b"><app><lem wit="#MSK">karma</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">karmmaṁ</rdg>
 </app> kr̥tvāṅkuśādibhiḥ |</l>
-<l n="c">
-<app>
-<lem wit="#MSK" type="emn">mahākarmāgyramudrābhiḥ</lem>
-<!--<note><foreign>mahākarmāgyramudrābhiḥ</foreign>, with SDPT and MSK?</note>-->
-<rdg wit="#cod">mahākarmmābhramudrābhiḥ</rdg>
-</app></l>
-<l n="d"><app>
-<lem wit="#MSK" type="emn">samayāṁs</lem>
+<l n="c">mahā<app>
+<lem wit="#MSK" type="emn">-karmāgrya-</lem>
+<rdg wit="#cod">-karmmābhra-</rdg>
+</app>mudrābhiḥ</l>
+<l n="d"><app><lem wit="#MSK" type="emn">samayāṁs</lem>
 <rdg wit="#cod">samayās</rdg>
-<note>
-<ptr target="#MSK"/>'s note reports the misreading <foreign>samayas</foreign>.
-</note>
+<note>The note in <ptr target="#MSK"/> reports the misreading <foreign>samayas</foreign>.</note>
 </app> tu niveśayet ||</l>
 </lg>
+<listApp type="parallels">
+  <app>
+  <note>STTS §209</note>
+  <!-- tato dvāreṣu sarveṣu karma kṛtvāṅkuśādibhiḥ /(STT 1,114,209)
+mahākarmāgryamudrābhiḥ samayāṃs tu niveśayet //(STT 1,114,209)-->
+  </app>
+  </listApp>
 
 <lg met="anuṣṭubh">
-<l n="a">mudrābhiḥ <app>
-<lem wit="#MSK" type="emn">samayāgryābhiḥ</lem>
-<rdg wit="#cod">samāgryābhiḥ</rdg>
-</app></l>
-<l n="b">sattvavajrādibhistathā |</l>
-<l n="c">
-<app>
-<lem wit="#MSK" type="emn">sādhayeta mahāsattvān</lem>
-<rdg wit="#cod">sādhayet mahāsatvāṁ</rdg>
-</app></l>
-<l n="d"><app>
-<lem type="emn">
-<seg rend="check">jaḥ</seg>
-</lem>
+<l n="a">mudrābhiḥ <app><lem wit="#MSK" type="emn">samayāgryābhiḥ</lem>
+<rdg wit="#cod">samāgryābhiḥ</rdg></app></l>
+<l n="b">sattvavajrādibhis tathā |</l>
+<l n="c"><app><lem wit="#MSK" type="emn">sādhayeta mahāsattvān</lem>
+<rdg wit="#cod">sādhayet mahāsatvāṁ</rdg></app></l>
+<l n="d"><app><lem type="emn"><seg rend="check">jaḥ</seg></lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">jāḥ</rdg>
-</app> hūm̐ vam̐ hoḥ pravartayet||
-</l>
+<rdg wit="#cod">jāḥ</rdg></app> hūm̐ vam̐ hoḥ pravartayet ||</l>
 </lg>
 <listApp type="parallels">
 <app>
-<lem>tato ... pravartayet</lem>
-<note>STTS §209.22–23. STTS (\Hed) reads <foreign>pravartayan</foreign> for <foreign>pravartayet</foreign>.
-<!--   <foreign>tato dvāreṣu sarveṣu karma kr̥tvāṅkuśādibhiḥ | -->
-<!--   mahākarmāgryamudrābhiḥ samayāṁs tu niveśayet || -->
+<note>STTS §209. Instead of <foreign>pravartayet</foreign>, the STTS ms. reads <foreign>pravarttayan</foreign> (and the editions follow, reading <foreign>pravartayan</foreign>).
 <!--   mudrābhiḥ samayāgryābhiḥ sattvavajrādibhis tathā | -->
 <!--   sādhyeta mahāsattvāñ jaḥ hūṁ vaṁ hoḥ pravartayan || -->
+<!-- SDPT (p. 260): 
+  tato vajrāṅkuśādibhiḥ svadvāreṇākr̥ṣya praveśya baddhvā vaśīkr̥tya yathāvac caturhuṁkāreṇārghaṁ datvā | śrīvairocanādīn samayamudrābhir bhadrakalpikaparyantān sādhayet | svamantram uccārya vadet | jaḥ huṁ vaṁ hoḥ samayas tvaṁ samayas tvam aham
+-->
 </note>
 </app>
 </listApp> 
-<!-- karmmaṁ: em. karma, with MSK (sil. em.). -->
-<!-- mahākarmmābhramudrābhiḥ: em. mahākarmāgyramudrābhiḥ, with SDPT and MSK? -->
-<!-- samayās: em. samayāṁs, with MSK; MSK in note reports misreading samayas. -->
-<!-- samāgryābhiḥ: em. samayāgryābhiḥ, with MSK. -->
-<!-- sādhayet· mahāsatvāṁ: em. sādhayeta mahāsattvān, with MSK. -->
-<!-- jāḥ: em. jaḥ, with MSK (sil. em.). -->
-<!-- STTS §209.22–23. -->
 
-
-<p>
-etad uktaṁ <app>
+<!-- RT, SI and AG have reached here on 2025-11-26 -->
+<p>etad uktaṁ <app>
 <lem wit="#MSK" type="emn">bhavati</lem>
 <rdg wit="#cod">bhavanti</rdg>
 </app>. vajrayakṣeṇa <pb edRef="#cod" n="26r"/>
@@ -8407,33 +8364,25 @@ kurvan acchaṭāsaṁghātaṁ sarvabuddhān samājayet ||</foreign> (p.\ 260)<
 <!-- pravarttayam·: em. pravartayan, with HT. -->
 </lg>
 
-<lg met="FILL-ME-IN">
-<l n="ab">tataḥ <app>
-<lem wit="#HT" type="emn">śīghraṁ<!-- śīghraṁ --></lem>
+<lg met="anuṣṭubh">
+<l n="a">tataḥ <app><lem wit="#HT" type="emn">śīghraṁ</lem>
 <rdg wit="#cod">śrīghram</rdg>
-</app>  mahāmudrāṁ vajrasattvasya <app>
-<lem type="emn" wit="#HT">sevayan<!-- sevayan --></lem>
-<rdg wit="#cod">sevayam</rdg>
-</app>  |
-</l>
-<l n="cd">uccārayetsakr̥dvāraṁ nāmāṣṭaśatamuttamam<listApp type="parallels">
+</app> mahāmudrāṁ</l>
+<l n="b">vajrasattvasya <app>
+<lem type="emn" wit="#HT">sevayan</lem>
+<rdg wit="#cod">sevayam</rdg><!-- does the MS really have this?-->
+</app> |</l>
+<l n="c">uccārayet sakr̥d-vāraṁ</l>
+<l n="d">nāmāṣṭaśatam uttamam ||</l>
+</lg>
+  <listApp type="parallels">
 <app>
-<lem>tataḥ ... uttamam</lem>
-<note>$\simeq$ STTS 208:
-<foreign>tataḥ śīghraṁ mahāmudrāṁ bhāvya vajradharasya tu |
-uccārayet sakr̥dvāraṁ nāmāṣṭaśatam uttamam ||</foreign>;
-$\simeq$ SDPT: 
-<foreign>tataḥ śīghraṁ mahāmudrāṁ vajrakrodhasamayam uccārayet | 
-sakr̥dvāraṁ nāmāṣṭakaṁ śataṁ uttamam |</foreign> (p.\ 260)
-While the relevant part of the <foreign>Sarvavajrodayā</foreign> is metrical,
-this part of the SDPT is unmetrical.</note>
+<note>The same verse occurred already in §2.4 above.</note>
 </app>
 </listApp>
- ||
-</l>
 <!-- śrīghram: em. śīghram, with HT. -->
 <!-- sevayam·: em. sevayan, with HT. -->
-</lg>
+
 
 <lg met="FILL-ME-IN">
 <l n="ab">
