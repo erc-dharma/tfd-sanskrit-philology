@@ -2572,29 +2572,120 @@ lāsyādy-aṣṭavidha-pūjayā ca saṁpūjya,
         </app>
   </listApp>
 
-<!-- SDPT p. 174 -->
-<!-- -samaya: em. -samaye, with MSK. -->
-<!-- puṣaiḥ: em. puṣpaiḥ, with MSK (sil. em.). -->
-<!-- °akāro: em. °oṁ °akāro, with MSK? This mantra is missing in SDPT. -->
-<!-- -dīpaṁpūjā-: em.-dīpapūjā-, with MSK. -->
+<!-- SDPT p. 174 
+tataś caturmudrāḥ |
+prathamaṃ pūrvoktavidhimudrayā samayamudrā nibandhayet | tataḥ pūrvoktamantreṇa dharmamudrā vidhīyate | tataḥ karmamudrāmantreṇa karmamudrāṃ badhnīyāt | tato mahāmudrāmantreṇa mahāmudrāṃ badhnīyāt |
+tato vajroṣṇīṣāditathāgataiḥ sattvavajrīratnavajrīdharmavajrīkarmavajrīṃ sphārayitvā samāṇḍaleyadevatāśrīśākyarājapramukhavajrāveśaparyantam abhiṣekaṃ dadyāt | pañcābhiṣekādhipataśaparyantaṃ dadyāt | abhiṣekānantaram |
+-->
 
-
+<!-- RT, SI and AG have reached here on 2025-12-03 -->
 <p>
 <list>
-<!-- <head type="editorial">Vajrasattva</head>
-oṁ sarvatathāgata-sarvātma-niryātana<app>
-<lem wit="#MSK" type="emn">pūjā-spharaṇa-karmavajrī</lem>
-<rdg wit="#cod">-pūjā-megha-samudra-spharaṇa-karmmavajra</rdg>
-</app> āḥ. -->
-<label>Vajrasattva</label>
+<label>Vajrasattva</label><!-- need to allow @type="editorial", and need to display the label-->
 <item>om̐ sarvatathāgata-sarvātma-niryātana<app>
 <lem wit="#MSK" type="emn">-pūjā-spharaṇa-karmavajrī</lem>
 <rdg wit="#cod">-pūjā-megha-samudra-spharaṇa-karmmavajra</rdg>
 </app> āḥ.</item>
+
+<label>Vajrarāja</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ sarvatathāgata-sarvātma-niryātana-pūjā-spharaṇa-karmāgri <app>
+<lem type="emn"><seg rend="check">jāḥ</seg></lem>
+<note><foreign>jaḥ</foreign> or <foreign>jjaḥ</foreign>?</note>
+</app></item>
+
+<label>Vajrarāga</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ sarvatathāgata-sarvātma-niryātanānurāgaṇa<app>
+<lem wit="#MSK">-pūjā<pb edRef="#cod" n="26v" break="no"/>-spharaṇa-karmabāṇe</lem>
+<witDetail wit="#MSK" type="silemn"/>
+<rdg wit="#cod">-pūspharaṇakarmmavāṇe</rdg></app> hūm̐ hoḥ.</item>
+
+<label>Vajrasādhu</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ sarvatathāgatasarvātmaniryātanasādhukārapūjāspharaṇakarmatuṣṭi āḥ |</item>
+
+<label>Vajraratna</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ namaḥ sarvatathāgatakāyābhiṣekaratnebhyo vajramaṇi om̐ |</item>
+
+<label>Vajrateja</label><!-- need to allow @type="editorial", and need to display the label-->
+<item><app><lem wit="#MSK" type="emn">om̐ namaḥ sarvatathāgatasūryebhyo</lem>
+<rdg wit="#cod">oṁ sarvatathāgatasūryebhyo</rdg>
+</app>  vajratejini jvala hrīḥ |</item>
+
+<label>Vajraketu</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ namaḥ sarvatathāgatāśāparipūraṇacintāmaṇidhvajāgrebhyo 
+<app>
+<lem>vajradhvajāgri</lem>
+<note>STTS read <foreign>vajradhvajāgre</foreign>.</note>
+</app>
+<app><lem>tram̐</lem><note>
+<ptr target="#MSK"/>  emends <foreign>trāṁ</foreign>, but STTS read <foreign>tram</foreign>.</note>
+</app>.</item>
+
+<label> Vajrahāsa</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ namaḥ sarvatathāgatamahāprītiprāmodyakarebhyo vajrahāse haḥ |</item>
+
+<label>Vajradharma</label><!-- need to allow @type="editorial", and need to display the label-->
+<item><app><lem wit="#MSK" type="emn" sameAs="#STTS">om̐ sarva</lem>
+<rdg wit="#cod">oṁ namaḥ sarva-</rdg>
+</app>tathāgatavajra<app>
+<lem>dharmasamatā</lem>
+<note>\emn\ <foreign>-vajradharmatā-</foreign>, with STTS?</note>
+</app>
+<app>
+<lem wit="#MSK" type="emn" sameAs="#STTS">samādhibhiḥ stunomi</lem>
+<rdg wit="#cod">samādhibhi stutomi</rdg>
+<note><ptr target="#MSK"/> keeps <foreign>stutomi</foreign>.</note>
+</app> mahādharmāgri hrīḥ |</item>
+
+<label>Vajratīkṣṇa</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ sarvatathāgataprajñāpāramitā<app>
+<lem wit="#MSK" type="emn" sameAs="#STTS">nirhāraiḥ stunomi</lem>
+<rdg wit="#cod">-nirhārai stutomi</rdg>
+<note><ptr target="#MSK"/> keeps <foreign>stutomi</foreign>.</note>
+</app> mahāghoṣā<app>
+<lem wit="#MSK" type="emn" sameAs="#STTS">nuge dham̐<!-- nuge dham̐ --></lem>
+<rdg wit="#cod">-nurodham</rdg>
+</app></item>
+
+
+<label>Vajrahetu<</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ sarvatathāgatacakrākṣaraparivartādisarvasūtrāntanayaiḥ 
+<app><lem type="emn" sameAs="#STTS">stunomi</lem>
+<rdg wit="#cod">stutopi</rdg>
+<rdg wit="#MSK">stutomi</rdg>
+<witDetail wit="#MSK" type="emn"/>
+<note><ptr target="#MSK"/> reads <foreign>stunoyi</foreign>.</note>
+</app> sarvamaṇḍale hūm̐ |</item>
+
+<label>Vajrabhāṣa</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ sarvatathāgatasaṁdhābhāṣabuddhasaṅgītibhir <app>
+<lem wit="#MSK" type="emn" sameAs="#STTS">gāyan stunomi</lem>
+<rdg wit="#cod">gāya stutopi</rdg>
+<note><ptr target="#MSK"/> emends <foreign>gāyan stutomi</foreign>.</note>
+</app>
+<app>
+<lem wit="#MSK" type="emn" sameAs="#STTS">vajravāce</lem>
+<rdg wit="#cod">vajrāvāce</rdg>
+</app> vam̐ |</item>
+
+<label>Vajrakarma</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ sarvatathāgatadhūpameghaspharaṇapūjākarme kara kara |</item>
+
+<label>Vajrarakṣa</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ sarvatathāgatapuṣpaprasaraspharaṇapūjākarme kiri kiri |</item>
+
+<label>Vajrayakṣa</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ sarvatathāgatāloka<app>
+<lem wit="#MSK" type="emn" sameAs="#STTS">jvālāspharaṇapūjākarme bhara bhara<!-- jvālāspharaṇapūjākarme bhara bhara --></lem>
+<rdg wit="#cod">-jvālospharaṇapūjākarmme | kara kara</rdg>
+<note><ptr target="#MSK"/> reads <foreign>-jvālā</foreign>- (sil. em.) but keeps <foreign>kara kara</foreign>.</note>
+</app></item>
+
+<label>Vajrasaṁdhi</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ sarvatathāgatagandhasamudraspharaṇapūjākarme kuru kuru | </item>
 </list>
 </p>
-
-<!-- STTS
+<listApp type="parallels">
+  <!-- STTS
  506 ⟨EdH : 1_282_506⟩mantra
 oṁ sarvatathāgatasarvātmaniryātanapūjāspharaṇakarmavajri āḥ ||
 mantra
@@ -2605,153 +2696,9 @@ oṁ sarvatathāgatasarvātmaniryātanapūjāspharaṇakarmāgri jjaḥ ||
 oṁ sarvatathāgatasarvātmaniryātanānurāgaṇapūjāspharaṇakarmavāṇe hūṁ hoḥ ||
 mantra
 
-oṁ sarvatathāgatasarvātmaniryātanasādhukārapūjāspharaṇakarmatuṣṭi aḥ ||
+om̐ sarvatathāgatasarvātmaniryātanasādhukārapūjāspharaṇakarmatuṣṭi aḥ ||
 -->
-
-<p>
-<label>Vajrarāja</label><!-- need to add @type="editorial" -->
-oṁ sarvatathāgata-sarvātma-niryātana-pūjā-spharaṇa-karmāgri <app>
-<lem type="emn">
-<seg rend="check">jāḥ</seg>
-</lem>
-<note>
-<foreign>jaḥ</foreign> or <foreign>jjaḥ</foreign>.
-</note>
-</app>
-</p>
-
-<p><label>Vajrarāga</label><!-- need to add @type="editorial" -->
-oṁ sarvatathāgata-sarvātma-niryātanānurāgaṇa<app>
-<lem wit="#MSK">-pūjā-spharaṇa-karmabāṇe</lem>
-<witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">-pū-spharaṇa-karmmavāṇe</rdg>
-<note>pū<supplied reason="lost">jā</supplied>
-<pb edRef="#cod" n="26v"/>
-spharaṇakarmmavāṇe</note>
-</app> hūm̐ hoḥ.
-</p>
-
-<p>
-<head type="editorial">Vajrasādhu</head>
-oṁ sarvatathāgatasarvātmaniryātanasādhukārapūjāspharaṇakarmatuṣṭi āḥ |
-</p>
-
-<p>
-  <head type="editorial">Vajraratna</head>
-oṁ namaḥ sarvatathāgatakāyābhiṣekaratnebhyo vajramaṇi om̐ |
-</p>
-
-<p>
-<head type="editorial">Vajrateja</head>
-<app>
-<lem wit="#MSK" type="emn">oṁ namaḥ sarvatathāgatasūryebhyo</lem>
-<rdg wit="#cod">oṁ sarvatathāgatasūryebhyo</rdg>
-</app>  vajratejini jvala hrīḥ |
-</p>
-
-<p>
-<head type="editorial">Vajraketu</head>
-oṁ namaḥ sarvatathāgatāśāparipūraṇacintāmaṇidhvajāgrebhyo 
-<app>
-<lem>vajradhvajāgri</lem>
-<note>STTS read <foreign>vajradhvajāgre</foreign>.
-</note>
-</app>
-<app>
-<lem>tram̐</lem>
-<note>
-<ptr target="#MSK"/>
- emends <foreign>trāṁ</foreign>, but STTS read <foreign>tram</foreign>.
-</note>
-</app>
-</p>
-
-<p>
-<head type="editorial">Vajrahāsa</head>
-oṁ namaḥ sarvatathāgatamahāprītiprāmodyakarebhyo vajrahāse haḥ |
-</p>
-
-<p>
-<head type="editorial">Vajradharma</head>
-<app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">oṁ sarva</lem>
-<rdg wit="#cod">oṁ namaḥ sarva-</rdg>
-</app>tathāgatavajra<app>
-<lem>dharmasamatā</lem>
-<note>\emn\ <foreign>-vajradharmatā-</foreign>, with STTS?</note>
-</app>
-<app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">samādhibhiḥ stunomi</lem>
-<rdg wit="#cod">samādhibhi stutomi</rdg>
-<note><ptr target="#MSK"/> keeps <foreign>stutomi</foreign>.</note>
-</app> mahādharmāgri hrīḥ |
-</p>
-
-<p>
-<head type="editorial">Vajratīkṣṇa</head>
-oṁ sarvatathāgataprajñāpāramitā<app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">nirhāraiḥ stunomi</lem>
-<rdg wit="#cod">-nirhārai stutomi</rdg>
-<note><ptr target="#MSK"/> keeps <foreign>stutomi</foreign>.</note>
-</app> mahāghoṣā<app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">nuge dham̐<!-- nuge dham̐ --></lem>
-<rdg wit="#cod">-nurodham</rdg>
-</app>
-</p>
-
-<p>
-<head type="editorial">Vajrahetu</head>
-oṁ sarvatathāgatacakrākṣaraparivartādisarvasūtrāntanayaiḥ 
-<app><lem type="emn" sameAs="#STTS">stunomi</lem>
-<rdg wit="#cod">stutopi</rdg>
-<rdg wit="#MSK">stutomi</rdg>
-<witDetail wit="#MSK" type="emn"/>
-<note><ptr target="#MSK"/> reads <foreign>stunoyi</foreign>.</note>
-</app> sarvamaṇḍale hūm̐ |</p>
-
-<p>
-<head type="editorial">Vajrabhāṣa</head>
-oṁ sarvatathāgatasaṁdhābhāṣabuddhasaṅgītibhir <app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">gāyan stunomi</lem>
-<rdg wit="#cod">gāya stutopi</rdg>
-<note>
-<ptr target="#MSK"/>
- emends <foreign>gāyan stutomi</foreign>
-</note>
-</app>
-<app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">vajravāce</lem>
-<rdg wit="#cod">vajrāvāce</rdg>
-</app> vam̐ |</p>
-
-<lg met="FILL-ME-IN">
-<head type="editorial">Vajrakarma</head>
-<l n="ab">oṁ sarvatathāgatadhūpameghaspharaṇapūjākarme kara kara |</l>
-</lg>
-
-<lg met="FILL-ME-IN">
-<head type="editorial">Vajrarakṣa</head>
-<l n="ab">oṁ sarvatathāgatapuṣpaprasaraspharaṇapūjākarme kiri kiri |</l>
-</lg>
-
-<lg met="FILL-ME-IN">
-<head type="editorial">Vajrayakṣa</head>
-<l n="ab">oṁ sarvatathāgatāloka<app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">jvālāspharaṇapūjākarme bhara bhara<!-- jvālāspharaṇapūjākarme bhara bhara --></lem>
-<rdg wit="#cod">-jvālospharaṇapūjākarmme | kara kara</rdg>
-<note>
-<ptr target="#MSK"/>
- reads <foreign>-jvālā</foreign>- (sil. em.) but keeps <foreign>kara kara</foreign>.
-</note>
-</app>
-</l>
-</lg>
-
-<lg met="FILL-ME-IN">
-<head type="editorial">Vajrasaṁdhi</head>
-<l n="ab">oṁ sarvatathāgatagandhasamudraspharaṇapūjākarme kuru kuru | <listApp type="parallels">
-<app>
-<lem>oṁ ... kuru kuru</lem>
+<app><lem>oṁ ... kuru kuru</lem>
 <note>STTS §§506–507, 509–510, 512–513, 515–516:
 <foreign>oṁ sarvatathāgatasarvātmaniryātanapūjāspharaṇakarmavajri āḥ.
 oṁ sarvatathāgatasarvātmaniryātanapūjāspharaṇakarmāgri jjaḥ.
@@ -2775,8 +2722,7 @@ oṁ sarvatathāgatagandhasamudraspharaṇapūjākarme kurr kuru.</foreign>
 </note>
 </app>
 </listApp>
-</l>
-</lg>
+
 
 <p>
 ityābhir vidyābhiḥ <!--%\newfolio{27r1}-->
@@ -2787,10 +2733,10 @@ ityābhir vidyābhiḥ <!--%\newfolio{27r1}-->
 <note>vidyābhiḥ <pb edRef="#cod" n="27r"/>
  ṣoḍaśa-</note>
 </app>
-sattvasadr̥śībhiḥ karmamudrāyuktābhiḥ <app>
+sattva-sadr̥śībhiḥ karma-mudrā-yuktābhiḥ <app>
 <lem wit="#MSK" type="emn">pūjāṁ kuryāt<!-- pūjāṁ kuryāt --></lem>
 <rdg wit="#cod">pūjā kuryāt</rdg>
-</app> ||
+</app>.
 <!-- STTS §506-516. -->
 <!-- -pūjāmeghasamudraspharaṇakarmmavajra: em. -pūjāspharaṇakarmavajrī, with MSK. -->
 <!-- jāḥ: em. jaḥ or jjaḥ. -->
@@ -2810,7 +2756,7 @@ sattvasadr̥śībhiḥ karmamudrāyuktābhiḥ <app>
 <!-- ṣoḍaṣa-: em. ṣoḍaśa-, with MSK (sil. em.). -->
 <!-- pūjā kuryāt·: em. pūjāṁ kuryāt·, with MSK. -->
 
-tatremā mudrā bhavanti | kāyasthaṁ vajrabandhaṁ saṁpīḍya dvidhīkr̥tya muṣṭidvayena 
+tatremā mudrā bhavanti, kāyasthaṁ vajrabandhaṁ saṁpīḍya dvidhīkr̥tya muṣṭi-dvayena 
 </p>
 
 <lg met="FILL-ME-IN">
