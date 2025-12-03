@@ -2620,8 +2620,7 @@ oṁ sarvatathāgata-sarvātma-niryātana-pūjā-spharaṇa-karmāgri <app>
 </app>
 </p>
 
-<p>
-<head type="editorial">Vajrarāga</head>
+<p><label>Vajrarāga</label><!-- need to add @type="editorial" -->
 oṁ sarvatathāgata-sarvātma-niryātanānurāgaṇa<app>
 <lem wit="#MSK">-pūjā-spharaṇa-karmabāṇe</lem>
 <witDetail wit="#MSK" type="silemn"/>
@@ -2632,28 +2631,28 @@ spharaṇakarmmavāṇe</note>
 </app> hūm̐ hoḥ.
 </p>
 
-<lg met="FILL-ME-IN">
+<p>
 <head type="editorial">Vajrasādhu</head>
-<l n="ab">oṁ sarvatathāgatasarvātmaniryātanasādhukārapūjāspharaṇakarmatuṣṭi āḥ |</l>
-</lg>
+oṁ sarvatathāgatasarvātmaniryātanasādhukārapūjāspharaṇakarmatuṣṭi āḥ |
+</p>
 
-<lg met="FILL-ME-IN">
-<head type="editorial">Vajraratna</head>
-<l n="ab">oṁ namaḥ sarvatathāgatakāyābhiṣekaratnebhyo vajramaṇi om̐ |</l>
-</lg>
+<p>
+  <head type="editorial">Vajraratna</head>
+oṁ namaḥ sarvatathāgatakāyābhiṣekaratnebhyo vajramaṇi om̐ |
+</p>
 
-<lg met="FILL-ME-IN">
+<p>
 <head type="editorial">Vajrateja</head>
-<l n="ab">
 <app>
 <lem wit="#MSK" type="emn">oṁ namaḥ sarvatathāgatasūryebhyo</lem>
 <rdg wit="#cod">oṁ sarvatathāgatasūryebhyo</rdg>
-</app>  vajratejini jvala hrīḥ |</l>
-</lg>
+</app>  vajratejini jvala hrīḥ |
+</p>
 
-<lg met="FILL-ME-IN">
+<p>
 <head type="editorial">Vajraketu</head>
-<l n="ab">oṁ namaḥ sarvatathāgatāśāparipūraṇacintāmaṇidhvajāgrebhyo <app>
+oṁ namaḥ sarvatathāgatāśāparipūraṇacintāmaṇidhvajāgrebhyo 
+<app>
 <lem>vajradhvajāgri</lem>
 <note>STTS read <foreign>vajradhvajāgre</foreign>.
 </note>
@@ -2665,13 +2664,12 @@ spharaṇakarmmavāṇe</note>
  emends <foreign>trāṁ</foreign>, but STTS read <foreign>tram</foreign>.
 </note>
 </app>
-</l>
-</lg>
+</p>
 
-<lg met="FILL-ME-IN">
+<p>
 <head type="editorial">Vajrahāsa</head>
-<l n="ab">oṁ namaḥ sarvatathāgatamahāprītiprāmodyakarebhyo vajrahāse haḥ |</l>
-</lg>
+oṁ namaḥ sarvatathāgatamahāprītiprāmodyakarebhyo vajrahāse haḥ |
+</p>
 
 <lg met="FILL-ME-IN">
 <head type="editorial">Vajradharma</head>
