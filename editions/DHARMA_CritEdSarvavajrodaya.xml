@@ -2671,9 +2671,8 @@ oṁ namaḥ sarvatathāgatāśāparipūraṇacintāmaṇidhvajāgrebhyo
 oṁ namaḥ sarvatathāgatamahāprītiprāmodyakarebhyo vajrahāse haḥ |
 </p>
 
-<lg met="FILL-ME-IN">
+<p>
 <head type="editorial">Vajradharma</head>
-<l n="ab">
 <app>
 <lem wit="#MSK" type="emn" sameAs="#STTS">oṁ sarva</lem>
 <rdg wit="#cod">oṁ namaḥ sarva-</rdg>
@@ -2684,47 +2683,36 @@ oṁ namaḥ sarvatathāgatamahāprītiprāmodyakarebhyo vajrahāse haḥ |
 <app>
 <lem wit="#MSK" type="emn" sameAs="#STTS">samādhibhiḥ stunomi</lem>
 <rdg wit="#cod">samādhibhi stutomi</rdg>
-<note>
-<ptr target="#MSK"/>
- keeps <foreign>stutomi</foreign>
-</note>
-</app> mahādharmāgri hrīḥ |</l>
-</lg>
+<note><ptr target="#MSK"/> keeps <foreign>stutomi</foreign>.</note>
+</app> mahādharmāgri hrīḥ |
+</p>
 
-<lg met="FILL-ME-IN">
+<p>
 <head type="editorial">Vajratīkṣṇa</head>
-<l n="ab">oṁ sarvatathāgataprajñāpāramitā<app>
+oṁ sarvatathāgataprajñāpāramitā<app>
 <lem wit="#MSK" type="emn" sameAs="#STTS">nirhāraiḥ stunomi</lem>
 <rdg wit="#cod">-nirhārai stutomi</rdg>
-<note>
-<ptr target="#MSK"/>
- keeps <foreign>stutomi</foreign>
-</note>
+<note><ptr target="#MSK"/> keeps <foreign>stutomi</foreign>.</note>
 </app> mahāghoṣā<app>
 <lem wit="#MSK" type="emn" sameAs="#STTS">nuge dham̐<!-- nuge dham̐ --></lem>
 <rdg wit="#cod">-nurodham</rdg>
 </app>
-</l>
-</lg>
+</p>
 
-<lg met="FILL-ME-IN">
+<p>
 <head type="editorial">Vajrahetu</head>
-<l n="ab">oṁ sarvatathāgatacakrākṣaraparivartādisarvasūtrāntanayaiḥ <app>
-<lem type="emn"  sameAs="#STTS">stunomi</lem>
+oṁ sarvatathāgatacakrākṣaraparivartādisarvasūtrāntanayaiḥ 
+<app><lem type="emn" sameAs="#STTS">stunomi</lem>
 <rdg wit="#cod">stutopi</rdg>
 <rdg wit="#MSK">stutomi</rdg>
 <witDetail wit="#MSK" type="emn"/>
-<note>
-<ptr target="#MSK"/>
- reads <foreign>stunoyi</foreign>.
-</note>
-</app> sarvamaṇḍale hūm̐ |</l>
-</lg>
+<note><ptr target="#MSK"/> reads <foreign>stunoyi</foreign>.</note>
+</app> sarvamaṇḍale hūm̐ |</p>
 
-<lg met="FILL-ME-IN">
+<p>
 <head type="editorial">Vajrabhāṣa</head>
-<l n="ab">oṁ sarvatathāgatasaṁdhābhāṣabuddhasaṅgītibhir <app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">gāyan stunomi<!-- gāyan stunomi --></lem>
+oṁ sarvatathāgatasaṁdhābhāṣabuddhasaṅgītibhir <app>
+<lem wit="#MSK" type="emn" sameAs="#STTS">gāyan stunomi</lem>
 <rdg wit="#cod">gāya stutopi</rdg>
 <note>
 <ptr target="#MSK"/>
@@ -2732,10 +2720,9 @@ oṁ namaḥ sarvatathāgatamahāprītiprāmodyakarebhyo vajrahāse haḥ |
 </note>
 </app>
 <app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">vajravāce<!-- vajravāce --></lem>
+<lem wit="#MSK" type="emn" sameAs="#STTS">vajravāce</lem>
 <rdg wit="#cod">vajrāvāce</rdg>
-</app> vam̐ |</l>
-</lg>
+</app> vam̐ |</p>
 
 <lg met="FILL-ME-IN">
 <head type="editorial">Vajrakarma</head>
