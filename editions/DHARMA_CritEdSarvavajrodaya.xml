@@ -2587,15 +2587,29 @@ oṁ sarvatathāgata-sarvātma-niryātana<app>
 <rdg wit="#cod">-pūjā-megha-samudra-spharaṇa-karmmavajra</rdg>
 </app> āḥ. -->
 <label>Vajrasattva</label>
-<item>oṁ sarvatathāgata-sarvātma-niryātana<app>
-<lem wit="#MSK" type="emn">pūjā-spharaṇa-karmavajrī</lem>
+<item>om̐ sarvatathāgata-sarvātma-niryātana<app>
+<lem wit="#MSK" type="emn">-pūjā-spharaṇa-karmavajrī</lem>
 <rdg wit="#cod">-pūjā-megha-samudra-spharaṇa-karmmavajra</rdg>
 </app> āḥ.</item>
 </list>
 </p>
 
+<!-- STTS
+ 506 ⟨EdH : 1_282_506⟩mantra
+oṁ sarvatathāgatasarvātmaniryātanapūjāspharaṇakarmavajri āḥ ||
+mantra
+
+oṁ sarvatathāgatasarvātmaniryātanapūjāspharaṇakarmāgri jjaḥ ||
+507 ⟨EdH : 1_282_507⟩mantra
+
+oṁ sarvatathāgatasarvātmaniryātanānurāgaṇapūjāspharaṇakarmavāṇe hūṁ hoḥ ||
+mantra
+
+oṁ sarvatathāgatasarvātmaniryātanasādhukārapūjāspharaṇakarmatuṣṭi aḥ ||
+-->
+
 <p>
-<head type="editorial">Vajrarāja</head>
+<label>Vajrarāja</label><!-- need to add @type="editorial" -->
 oṁ sarvatathāgata-sarvātma-niryātana-pūjā-spharaṇa-karmāgri <app>
 <lem type="emn">
 <seg rend="check">jāḥ</seg>
