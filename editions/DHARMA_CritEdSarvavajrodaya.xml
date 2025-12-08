@@ -2583,32 +2583,32 @@ tato vajroṣṇīṣāditathāgataiḥ sattvavajrīratnavajrīdharmavajrīkarma
 <list>
 <label>Vajrasattva</label><!-- need to allow @type="editorial", and need to display the label-->
 <item>om̐ sarvatathāgata-sarvātma-niryātana<app>
-<lem wit="#MSK" type="emn">-pūjā-spharaṇa-karmavajrī</lem>
+<lem wit="#MSK" type="emn">-pūjā-spharaṇa-karmavajri</lem>
 <rdg wit="#cod">-pūjā-megha-samudra-spharaṇa-karmmavajra</rdg>
 </app> āḥ.</item>
 
 <label>Vajrarāja</label><!-- need to allow @type="editorial", and need to display the label-->
 <item>om̐ sarvatathāgata-sarvātma-niryātana-pūjā-spharaṇa-karmāgri <app>
-<lem type="emn"><seg rend="check">jāḥ</seg></lem>
-<note><foreign>jaḥ</foreign> or <foreign>jjaḥ</foreign>?</note>
-</app>.</item>
+<lem wit="#cod"><seg rend="check">jāḥ</seg></lem><!-- STTS jjaḥ-->
+<rdg wit="#MSK">jaḥ</rdg>
+</app></item>
 
 <label>Vajrarāga</label><!-- need to allow @type="editorial", and need to display the label-->
 <item>om̐ sarvatathāgata-sarvātma-niryātanānurāgaṇa<app>
-<lem wit="#MSK">-pūjā<pb edRef="#cod" n="26v" break="no"/>-spharaṇa-karmabāṇe</lem>
+<lem wit="#MSK">-pūjā<pb edRef="#cod" n="26v" break="no"/>-spharaṇa-</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">-pūspharaṇakarmmavāṇe</rdg></app> hūm̐ hoḥ.</item>
+<rdg wit="#cod">-pūspharaṇa-</rdg></app><app rend="hide"><lem type="norm">karmabāṇe</lem><rdg wit="#cod">karmmavāṇe</rdg><rdg wit="#MSK">karmavāṇe</rdg></app> hūm̐ hoḥ.</item>
 
 <label>Vajrasādhu</label><!-- need to allow @type="editorial", and need to display the label-->
-<item>om̐ sarvatathāgata-sarvātma-niryātana-sādhukāra-pūjā-spharaṇa-karma-tuṣṭi āḥ.</item>
+<item>om̐ sarvatathāgata-sarvātma-niryātana-sādhukāra-pūjā-spharaṇa-karmatuṣṭi āḥ.</item>
 
 <label>Vajraratna</label><!-- need to allow @type="editorial", and need to display the label-->
 <item>om̐ namaḥ sarvatathāgata-kāyābhiṣeka-ratnebhyo vajramaṇi om̐.</item>
 
 <label>Vajrateja</label><!-- need to allow @type="editorial", and need to display the label-->
-<item><app><lem wit="#MSK" type="emn">om̐ namaḥ sarvatathāgata-sūryebhyo</lem>
-<rdg wit="#cod">oṁ sarvatathāgatasūryebhyo</rdg>
-</app> vajra-tejini jvala hrīḥ.</item>
+<item>om̐ <app><lem wit="#MSK" type="emn">namaḥ</lem>
+  <rdg wit="#cod"><gap reason="omitted"/></rdg>
+  </app> sarvatathāgata-sūryebhyo vajratejini jvala hrīḥ.</item>
 
 <label>Vajraketu</label><!-- need to allow @type="editorial", and need to display the label-->
 <item>om̐ namaḥ sarvatathāgatāśā-paripūraṇa-cintāmaṇi-dhvajāgrebhyo 
