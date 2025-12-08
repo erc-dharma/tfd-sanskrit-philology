@@ -2631,90 +2631,82 @@ tato vajroṣṇīṣāditathāgataiḥ sattvavajrīratnavajrīdharmavajrīkarma
 <lem>dharma-samatā-</lem>
 <note>Emend <foreign>-vajradharmatā-</foreign>, with STTS?</note>
 </app>
-<app><lem wit="#MSK" type="emn" corresp="#STTS">samādhibhiḥ stunomi</lem>
+<app><lem type="emn" corresp="#STTS">samādhibhiḥ stunomi</lem>
 <rdg wit="#cod">samādhibhi stutomi</rdg>
-<note><ptr target="#MSK"/> keeps <foreign>stutomi</foreign>.</note>
+<rdg wit="#MSK">samādhibhiḥ stutomi</rdg>
 </app> mahādharmāgri hrīḥ.</item>
 
 <label>Vajratīkṣṇa</label><!-- need to allow @type="editorial", and need to display the label-->
-<item>om̐ sarvatathāgata-prajñā-pāramit-<app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">nirhāraiḥ stunomi</lem>
+<item>om̐ sarvatathāgata-prajñā-pāramitā-<app>
+<lem type="emn" sameAs="#STTS">nirhāraiḥ stunomi</lem>
 <rdg wit="#cod">-nirhārai stutomi</rdg>
-<note><ptr target="#MSK"/> keeps <foreign>stutomi</foreign>.</note>
-</app> mahāghoṣā<app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">nuge dham̐<!-- nuge dham̐ --></lem>
-<rdg wit="#cod">-nurodham</rdg>
-</app></item>
-
+<rdg wit="#MSK">-nirhāraiḥ stutomi</rdg>
+<witDetail wit="#MSK" type="emn"/>
+<note><ptr target="#MSK"/> reports the manuscript reading <foreign>-nihārai</foreign>.</note>
+</app> 
+mahāghoṣā<app>
+<lem wit="#MSK" type="emn" sameAs="#STTS">nuge dham̐</lem>
+<rdg wit="#cod" cause="graphic">-nurodham</rdg>
+</app>.</item>
 
 <label>Vajrahetu</label><!-- need to allow @type="editorial", and need to display the label-->
-<item>om̐ sarvatathāgata-cakrākṣara-parivartādi-sarvasūtrāntanayaiḥ 
-<app><lem type="emn" sameAs="#STTS">stunomi</lem>
+<item>om̐ sarvatathāgata-cakrākṣara-parivartādi-sarva-sūtrānta-nayaiḥ 
+<app><lem type="emn" corresp="#STTS">stunomi</lem>
 <rdg wit="#cod">stutopi</rdg>
 <rdg wit="#MSK">stutomi</rdg>
 <witDetail wit="#MSK" type="emn"/>
-<note><ptr target="#MSK"/> reads <foreign>stunoyi</foreign>.</note>
-</app> sarvamaṇḍale hūm̐ |</item>
+<note><ptr target="#MSK"/> reports the manuscript reading <foreign>stutoyi</foreign>.</note>
+</app> sarva-maṇḍale hūm̐.</item>
 
 <label>Vajrabhāṣa</label><!-- need to allow @type="editorial", and need to display the label-->
 <item>om̐ sarvatathāgata-saṁdhābhāṣa-buddha-saṅgītibhir <app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">gāyan stunomi</lem>
+<lem type="emn" corresp="#STTS">gāyan stunomi</lem>
 <rdg wit="#cod">gāya stutopi</rdg>
-<note><ptr target="#MSK"/> emends <foreign>gāyan stutomi</foreign>.</note>
+<rdg wit="#MSK">gāyan stutomi</rdg>
+<note><ptr target="#MSK"/> reports the manuscript reading <foreign>gāya stutoyi</foreign>.</note>
 </app>
 <app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">vajravāce</lem>
+<lem wit="#MSK" type="emn" corresp="#STTS">vajravāce</lem>
 <rdg wit="#cod">vajrāvāce</rdg>
+<witDetail wit="#MSK" type="silemn"/>
 </app> vam̐.</item>
 
 <label>Vajrakarma</label><!-- need to allow @type="editorial", and need to display the label-->
-<item>om̐ sarvatathāgata-dhūpa-megha-spharaṇa-pūjā-karme kara kara |</item>
+<item>om̐ sarvatathāgata-dhūpa-megha-spharaṇa-pūjā-karme kara kara.</item>
 
 <label>Vajrarakṣa</label><!-- need to allow @type="editorial", and need to display the label-->
-<item>om̐ sarvatathāgata-puṣpa-prasara-spharaṇa-pūjā-karme kiri kiri |</item>
+<item>om̐ sarvatathāgata-puṣpa-prasara-spharaṇa-pūjā-karme kiri kiri.</item>
 
 <label>Vajrayakṣa</label><!-- need to allow @type="editorial", and need to display the label-->
-<item>om̐ sarvatathāgatāloka-<app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">jvālā-spharaṇa-pūjā-karme bhara bhara</lem>
+<item>om̐ sarvatathāgatāloka<app>
+<lem type="emn" corresp="#STTS">-jvālā-spharaṇa-pūjā-karme bhara bhara</lem>
 <rdg wit="#cod">-jvālospharaṇapūjākarmme | kara kara</rdg>
-<note><ptr target="#MSK"/> reads <foreign>-jvālā</foreign>- (sil. em.) but keeps <foreign>kara kara</foreign>.</note>
+<rdg wit="#MSK">-jvālāspharaṇapūjākarme kara kara</rdg>
+<note><ptr target="#MSK"/> silently emends <foreign>-jvālā-</foreign> but keeps <foreign>kara kara</foreign>.</note>
 </app>.</item>
 
 <label>Vajrasaṁdhi</label><!-- need to allow @type="editorial", and need to display the label-->
-<item>om̐ sarvatathāgata-gandha-samudra-spharaṇa-pūjā-karme kuru kuru. </item>
+<item>om̐ sarvatathāgata-gandha-samudra-spharaṇa-pūjā-karme kuru kuru.</item>
 </list>
 </p>
 <listApp type="parallels">
-  <!-- STTS
- 506 ⟨EdH : 1_282_506⟩mantra
-oṁ sarvatathāgatasarvātmaniryātanapūjāspharaṇakarmavajri āḥ ||
-mantra
-
-oṁ sarvatathāgatasarvātmaniryātanapūjāspharaṇakarmāgri jjaḥ ||
-507 ⟨EdH : 1_282_507⟩mantra
-
-oṁ sarvatathāgatasarvātmaniryātanānurāgaṇapūjāspharaṇakarmavāṇe hūṁ hoḥ ||
-mantra
-
-om̐ sarvatathāgatasarvātmaniryātanasādhukārapūjāspharaṇakarmatuṣṭi aḥ ||
--->
-<app><lem>oṁ ... kuru kuru</lem>
+<app>
 <note>STTS §§506–507, 509–510, 512–513, 515–516:
 <foreign>oṁ sarvatathāgatasarvātmaniryātanapūjāspharaṇakarmavajri āḥ.
 oṁ sarvatathāgatasarvātmaniryātanapūjāspharaṇakarmāgri jjaḥ.
 oṁ sarvatathāgatasarvātmaniryātanānurāgaṇapūjāspharaṇakarmavāṇe hūṁ hoḥ.
 oṁ sarvatathāgatasarvātmaniryātanasādhukārapūjāspharaṇakarmatuṣṭi aḥ.
-... 
+<gap reason="ellipsis"/> 
 oṁ namaḥ sarvatathāgatakāyābhiṣekaratnebhyo vajramaṇi oṁ.
 oṁ namaḥ sarvatathāgatasūryebhyo vajratejini jvala hrīḥ.
 oṁ namaḥ sarvatathāgatāśāparipūraṇacintāmaṇidhvajāgrebhyo vajradhvajāgre traṁ.
 oṁ namaḥ sarvatathāgatamahāprītiprāmodyakarebhyo vajrahāse haḥ.
-...
+<gap reason="ellipsis"/> 
 oṁ sarvatathāgatavajradharmatāsamādhibhiḥ stunomi mahādharmāgri hrīḥ.
 oṁ sarvatathāgataprajñāpāramitānirhāraiḥ stunomi mahāghoṣānuge dhaṁ.
 oṁ sarvatathāgatacakrākṣaraparivartādisarvasūtrāntanayaiḥ stunomi sarvamaṇḍale hūṁ.
 oṁ sarvatathāgatasaṁdhābhāṣabuddhasaṁgītibhir gāyan stunomi vajravāce vaṁ.
-...
+<gap reason="ellipsis"/> 
 oṁ sarvatathāgatadhūpameghaspharaṇapūjākarme kara kara.
 oṁ sarvatathāgatapuṣpaprasaraspharaṇapūjākarme kiri kiri.
 oṁ sarvatathāgatālokajvālāspharaṇapūjākarme bhara bhara.
@@ -2727,49 +2719,41 @@ oṁ sarvatathāgatagandhasamudraspharaṇapūjākarme kurr kuru.</foreign>
 ityābhir vidyābhiḥ <pb edRef="#cod" n="27r"/><app>
 <lem wit="#MSK">ṣoḍaśa-</lem>
 <witDetail wit="#MSK" type="silemn"/>
-<rdg wit="#cod">ṣoḍaṣa-</rdg>
-</app>
-sattva-sadr̥śībhiḥ karma-mudrā-yuktābhiḥ <app>
+<rdg wit="#cod">ṣoḍaṣa-</rdg></app>sattva-sadr̥śībhiḥ karma-mudrā-yuktābhiḥ 
+<app>
 <lem wit="#MSK" type="emn">pūjāṁ</lem>
 <rdg wit="#cod">pūjā</rdg>
-</app> kuryāt. tatremā mudrā bhavanti. kāyasthaṁ vajrabandhaṁ saṁpīḍya dvidhīkr̥tya muṣṭi-dvayena 
-</p>
+</app> kuryāt.</p>
+
+<p>tatremā mudrā bhavanti. kāyasthaṁ vajrabandhaṁ saṁpīḍya dvidhīkr̥tya muṣṭi-dvayena,</p>
 
 <lg met="anuṣṭubh">
-<l n="a">
-<app>
-<lem wit="#MSK" type="emn">
-<seg rend="check">sagarvotkarṣaṇād</seg> dvābhyām</lem>
+<l n="a"><app><lem wit="#MSK" type="emn">sagarvotkarṣaṇād dvābhyām</lem>
 <rdg wit="#cod">sagarvvotkarṣa<unclear>ṇādvā</unclear>bhyām</rdg>
-<note>The relevant <foreign>akṣara</foreign> is damaged in the ms., but our impression is that the scribe wrote <foreign>-ṇādvā-</foreign> rather than <foreign>-ṇāddvā-</foreign>.
-</note>
+<note>The relevant <foreign>akṣara</foreign> is damaged in the ms., but our impression is that the scribe wrote <foreign>-ṇādvā-</foreign> rather than <foreign>-ṇāddvā-</foreign>. STTS reads <foreign>sagarvotkarṣaṇaṁ</foreign>.</note>
 </app></l>
-<l n="b">aṅkuśagrahasaṁsthitā |</l>
-<l n="c">
-<app>
-<lem type="emn">bāṇa-</lem>
+<l n="b">aṅkuśa-graha-saṁsthitā |</l>
+<l n="c"><app><lem type="emn">bāṇa-</lem>
 <rdg wit="#cod">vāma-</rdg>
-<note>
-<ptr target="#MSK"/>
- reads and retains <foreign>vāna-</foreign>.
-</note>
-</app>
-<app>
-<lem wit="#MSK">ghaṭṭana-</lem>
+<rdg wit="#MSK">vāna-</rdg>
+<!--<note><ptr target="#MSK"/> reads and retains <foreign>vāna-</foreign>.</note>-->
+</app><app><lem wit="#MSK">ghaṭṭana-</lem>
 <witDetail wit="#MSK" type="silemn"/>
 <rdg wit="#cod">-ghattana-</rdg>
-</app>yogā ca</l> 
-<l n="d">sādhukārā hr̥di sthitā ||</l></lg>
+</app><app><lem type="emn" corresp="#STTS">yogāc</lem><rdg wit="#cod #MSK">-yogā</rdg></app> ca</l> 
+<l n="d">sādhukārā hr̥di sthitā ||</l>
+</lg>
 <listApp type="parallels">
 <app>
-<lem>sagarvo-\ ... -nipīḍiteti</lem>
-<note sameAs="#STTS:287">STTS 287:
+<note>STTS 287:
 <foreign>sagarvotkarṣaṇaṁ dvābhyām aṅkuśagrahasaṁsthitā |
 vāṇaghaṭṭanayogāc ca sādhukārā hr̥di sthitā ||
 </foreign>
 </note>
 </app>
 </listApp>
+
+<!-- RT, SI and AG have reached here on 2025-12-09 -->
 
 <lg met="anuṣtubh">
 <l n="a">abhiṣeke dvivajraṁ tu</l> 
