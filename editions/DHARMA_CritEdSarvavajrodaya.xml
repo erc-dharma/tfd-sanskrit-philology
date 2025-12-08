@@ -2591,6 +2591,7 @@ tato vajroṣṇīṣāditathāgataiḥ sattvavajrīratnavajrīdharmavajrīkarma
 <item>om̐ sarvatathāgata-sarvātma-niryātana-pūjā-spharaṇa-karmāgri <app>
 <lem wit="#cod"><seg rend="check">jāḥ</seg></lem><!-- STTS jjaḥ-->
 <rdg wit="#MSK">jaḥ</rdg>
+<note>STTS reads <foreign>jjaḥ</foreign>.</note>
 </app></item>
 
 <label>Vajrarāga</label><!-- need to allow @type="editorial", and need to display the label-->
@@ -2614,27 +2615,26 @@ tato vajroṣṇīṣāditathāgataiḥ sattvavajrīratnavajrīdharmavajrīkarma
 <item>om̐ namaḥ sarvatathāgatāśā-paripūraṇa-cintāmaṇi-dhvajāgrebhyo 
 <app>
 <lem>vajradhvajāgri</lem>
-<note>STTS read <foreign>vajradhvajāgre</foreign>.</note>
+<note>STTS reads <foreign>vajradhvajāgre</foreign>.</note>
 </app>
-<app><lem>tram̐</lem><note>
-<ptr target="#MSK"/>  emends <foreign>trāṁ</foreign>, but STTS read <foreign>tram</foreign>.</note>
+<app><lem>tram̐</lem>
+  <note><ptr target="#MSK"/> emends <foreign>trāṁ</foreign>, but STTS read <foreign>tram</foreign>.</note>
 </app>.</item>
 
-<label> Vajrahāsa</label><!-- need to allow @type="editorial", and need to display the label-->
-<item>om̐ namaḥ sarvatathāgata-mahā-prīti-prāmodyakarebhyo vajrahāse haḥ |</item>
+<label>Vajrahāsa</label><!-- need to allow @type="editorial", and need to display the label-->
+<item>om̐ namaḥ sarvatathāgata-mahā-prīti-prāmodya-karebhyo vajrahāse haḥ.</item>
 
 <label>Vajradharma</label><!-- need to allow @type="editorial", and need to display the label-->
-<item><app><lem wit="#MSK" type="emn" sameAs="#STTS">om̐ sarva</lem>
+<item><app><lem wit="#MSK" type="emn" corresp="#STTS">om̐ sarva</lem>
 <rdg wit="#cod">oṁ namaḥ sarva-</rdg>
 </app>tathāgata-vajra-<app>
-<lem>dharmasamatā</lem>
-<note>\emn\ <foreign>-vajradharmatā-</foreign>, with STTS?</note>
+<lem>dharma-samatā-</lem>
+<note>Emend <foreign>-vajradharmatā-</foreign>, with STTS?</note>
 </app>
-<app>
-<lem wit="#MSK" type="emn" sameAs="#STTS">samādhibhiḥ stunomi</lem>
+<app><lem wit="#MSK" type="emn" corresp="#STTS">samādhibhiḥ stunomi</lem>
 <rdg wit="#cod">samādhibhi stutomi</rdg>
 <note><ptr target="#MSK"/> keeps <foreign>stutomi</foreign>.</note>
-</app> mahādharmāgri hrīḥ |</item>
+</app> mahādharmāgri hrīḥ.</item>
 
 <label>Vajratīkṣṇa</label><!-- need to allow @type="editorial", and need to display the label-->
 <item>om̐ sarvatathāgata-prajñā-pāramit-<app>
