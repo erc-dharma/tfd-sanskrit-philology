@@ -48,7 +48,7 @@
                             <msContents>
                                 <!-- the msContents isn't mandatory -->
                                 <msItem>
-                                    <author></author>
+                                    <author/>
                                     <title>Sample</title>
                                     <!-- You can also add a colophon if needed -->
                                     <!--<colophon>
@@ -81,7 +81,7 @@
                             <msContents>
                                 <!-- the msContents isn't mandatory -->
                                 <msItem>
-                                    <author></author>
+                                    <author/>
                                     <title>Sample</title>
                                     <!-- You can also add a colophon if needed -->
                                     <!--<colophon>
@@ -115,7 +115,7 @@
                             <msContents>
                                 <!-- the msContents isn't mandatory -->
                                 <msItem>
-                                    <author></author>
+                                    <author/>
                                     <title>Sample</title>
                                     <!-- You can also add a colophon if needed -->
                                     <!--<colophon>
@@ -148,7 +148,7 @@
                             <msContents>
                                 <!-- the msContents isn't mandatory -->
                                 <msItem>
-                                    <author></author>
+                                    <author/>
                                     <title>Sample</title>
                                     <!-- You can also add a colophon if needed -->
                                     <!--<colophon>
@@ -182,7 +182,7 @@
                             <msContents>
                                 <!-- the msContents isn't mandatory -->
                                 <msItem>
-                                    <author></author>
+                                    <author/>
                                     <title>Sample</title>
                                     <!-- You can also add a colophon if needed -->
                                     <!--<colophon>
@@ -216,7 +216,7 @@
                             <msContents>
                                 <!-- the msContents isn't mandatory -->
                                 <msItem>
-                                    <author></author>
+                                    <author/>
                                     <title>Sample</title>
                                     <!-- You can also add a colophon if needed -->
                                     <!--<colophon>
@@ -250,7 +250,7 @@
                             <msContents>
                                 <!-- the msContents isn't mandatory -->
                                 <msItem>
-                                    <author></author>
+                                    <author/>
                                     <title>Sample</title>
                                     <!-- You can also add a colophon if needed -->
                                     <!--<colophon>
@@ -320,7 +320,7 @@
                 <p/>
             </samplingDecl>
 
-            <schemaRef type="guide" key=" EGCv01" url="https://docs.google.com/document/d/15HFxHJTOzIU1UDyVrB2yQYJ5wI6JyEshEkYgg5qwj8M/edit#"/>
+            <schemaRef type="guide" key="EGCv01" url="https://docs.google.com/document/d/15HFxHJTOzIU1UDyVrB2yQYJ5wI6JyEshEkYgg5qwj8M/edit#"/>
             <!-- Will need to be updated once a more official realase is done -->
 
             <!-- variantEncoding is a  mandatory element. You have to select one of the two solutions given in DHARMA depending how you chave chosen to encode your apparatus. If inline, select @method="parallel-segmentation" as per section §5 of EGC, but if you are encoding your apparatus after any section, mostly being stanza, use  @method="location-referenced".

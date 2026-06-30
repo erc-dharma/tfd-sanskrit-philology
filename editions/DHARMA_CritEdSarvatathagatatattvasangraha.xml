@@ -1,10 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSchema.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_CritEdSQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-	xml:lang="eng"
-	xml:id="sarvatathagatatattvasangraha">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="sarvatathagatatattvasangraha">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -3455,7 +3453,7 @@ samanantarasamāpanne cātha tāvad eva sarvatathāgatahṛdayebhyaḥ sa eva bh
 
 <div type="section" n="382"><pb n="1_236_382" edRef="#edho"/>
 	<p>tatraitāni hṛdayāni bhavanti ||</p>
-	<ab type="mantra">>vajrapāṇi vaśam ānaya</ab> 
+	<ab type="mantra">&gt;vajrapāṇi vaśam ānaya</ab> 
 	<ab type="mantra">sarvabuddhān hoḥ ||</ab>
 	<ab type="mantra">vajragarbha vajrapāṇiṁ</ab> 
 	<ab type="mantra">śīghram ākarṣaya hūṁ jjaḥ ||</ab>
@@ -5893,7 +5891,7 @@ samanantarasamāpanne ca bhagavaty, atha tāvad eva, sarvatathāgatahṛdayebhya
 </div>
 
 <div type="section" n="776"><pb n="1_368_776" edRef="#edho"/>
-	<lg  met="anuṣṭubh">
+	<lg met="anuṣṭubh">
 		<l n="a">ayaṁ vajro mahāvajraḥ</l>
 		<l n="b">sārvabuddhair adhiṣṭhitaḥ |</l>
 		<l n="c">samayavyatikramāt kṣipraṁ</l>
@@ -8308,7 +8306,7 @@ samanantarasamāpanne ca bhagavaty, atha tāvad eva, sarvatathāgatahṛdayebhya
 
 <div type="section" n="1236"><pb n="1_518_1236" edRef="#edho"/>
 	<p>atha vajraghaṇṭo vidyārājaḥ svahṛdayam adāt ||</p>
-<ab type="mantra">l>oṁ vajragaṇṭa raṇa raṇa huṁ phaṭ ||</ab>
+<ab type="mantra">l&gt;oṁ vajragaṇṭa raṇa raṇa huṁ phaṭ ||</ab>
 </div>
 
 <div type="section" n="1237"><pb n="1_518_1237" edRef="#edho"/>
@@ -14684,7 +14682,7 @@ tad yathā</l>
 <l n="v">	bṛhan svayaṁbhūr bhagavan śākyavīra mahāmune |</l>
 <l n="w">	sarvātmaka mune śuddha dharmarāja namo 'stu te ||</l>
 
-<l n="x">>	a<!--<supplied reason="undefined"> axja to argr= this supplied wasn't closed so I commented it to validate the file-->kāya kāya kāyāgrya trikāyākāya<supplied reason="undefined">sādhaka</supplied> |</l>
+<l n="x">&gt;	a<!--<supplied reason="undefined"> axja to argr= this supplied wasn't closed so I commented it to validate the file-->kāya kāya kāyāgrya trikāyākāya<supplied reason="undefined">sādhaka</supplied> |</l>
 <l n="y">	sarvakāya mahākāya vajrakāya namo 'stu te ||</l>
 
 <l n="z">	avāca vāca <supplied reason="undefined">vācāgrya trivācāvācadarśaka |</supplied></l>
@@ -14912,7 +14910,7 @@ ta evam āhuḥ</l>
 <l n="v">	pāpaccheda ma<supplied reason="undefined">hāyudha bu</supplied>ddhaśastra namo 'stu te ||</l>
 
 <l n="w">	vajrahetu mahācakra buddhacakra mahānidhe |</l>
-<l n="x">>	sarvamaṇḍala dharmāgrya dharmacakra namo 'stu te ||</l>
+<l n="x">&gt;	sarvamaṇḍala dharmāgrya dharmacakra namo 'stu te ||</l>
 
 <l n="y">	vajrabhā<supplied reason="undefined">ṣa mahābhāṣa niṣ</supplied>prapañca mahākṣara |</l>
 <l n="z">	anakṣara mahājapa buddhavāca namo 'stu te ||</l>

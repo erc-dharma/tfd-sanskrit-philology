@@ -1,4 +1,4 @@
-﻿<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="amaramalaBurnell">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="amaramalaBurnell">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -114,19 +114,19 @@
 	<l n="a"><lb n="1r7"/><label type="headword">sakhī-nāma ||</label> sakhī veśyā ca <app><lem type="emn">sadhrīcī</lem><rdg wit="#msBL">saṁghrīcī</rdg></app></l>
 	<l n="b"><app><lem type="emn">ālī</lem><rdg wit="#msBL">ālīś</rdg></app> ca sahacāriṇī |</l> 
 	<l n="c"><lb n="1r8"/><label type="headword">buddhi-nāma ||</label> <app><lem type="emn">buddhir</lem><rdg wit="#msBL">vuddhi</rdg></app> manīṣā dhiṣaṇā</l>
-	<l n="d">medhā prajñā ca <seg rend="check">saimukhī</seg> ||</l>
+	<l n="d">medhā prajñā ca <hi rend="check">saimukhī</hi> ||</l>
 </lg>
 <lg met="anuṣṭubh" n="4">
 	<l n="a">dhī-<lb n="1r9" break="no"/>mati-dhāraṇāś caiva</l>
 	<l n="b" real="--+++-+-+"><app><lem type="emn">upalabdhi</lem><rdg wit="#msBL">ghupajabdhi</rdg><note>It imay be that <foreign>hyupalabdhi</foreign> is written, or was intended. Scan <foreign>up'labdhi</foreign>.</note></app>-jñānakārakā |</l>
     	<l n="c"><lb n="1r10"/><label type="headword">sarasvatī-nāma ||</label> vāṇī-sarasvatī-vāk ca</l>
-	<l n="d">girāṁ <seg rend="check">mamatnī</seg> sāra<hi rend="check">sta</hi> ||</l>
+	<l n="d">girāṁ <hi rend="check">mamatnī</hi> sāra<hi rend="check">sta</hi> ||</l>
 		<!-- girāṁ patnīsārapta -->
 </lg>
 <lg met="anuṣṭubh" n="5">
 	<l n="a"><label type="headword">śīghra-nāma ||</label> sahasā <lb n="1r11"/><app><lem type="emn">jhaṭiti</lem><rdg wit="#msBL">jhaṭati</rdg></app> <app><lem type="emn">tūrṇam</lem><rdg wit="#msBL">tūrṇa</rdg></app></l>
 	<l n="b">śīghram<!-- actually śīghraṁ  --> <app><lem>āśu</lem><rdg wit="#msBL">āsu</rdg></app> taraś ca</l> 
-	<l n="cd">sa<seg rend="check">ṁ</seg>java rabhasa<hi rend="check">mbhol arvat svājī</hi> vega tathā<lb n="1r12" break="no"/>ntara ||</l>
+	<l n="cd">sa<hi rend="check">ṁ</hi>java rabhasa<hi rend="check">mbhol arvat svājī</hi> vega tathā<lb n="1r12" break="no"/>ntara ||</l>
 </lg>
 <!-- somewhat serious editing by Arlo down to here -->
 <lg met="anuṣṭubh" n="6">
