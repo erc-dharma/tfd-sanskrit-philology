@@ -26,7 +26,7 @@
       	</respStmt> 
       <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
       <publicationStmt>
-        <authority>DHARMA</authority>
+        <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
         <pubPlace>Lyon, Tokyo, Jakarta</pubPlace>
         <idno type="filename">DHARMA_CritEdSarvavajrodaya.xml</idno>
         <availability>
