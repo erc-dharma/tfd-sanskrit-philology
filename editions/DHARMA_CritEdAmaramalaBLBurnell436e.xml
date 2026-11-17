@@ -94,11 +94,11 @@
 <div type="group">
 <lg met="anuṣṭubh" n="1">
 	<l n="a"><lb n="1r3"/>praṇamya paramātmānaṁ</l> <l n="b">bāla-dhī-vr̥ddhi-siddhaye |</l> 
-	<l n="c">śabda-bheda<lb n="1r4" break="no"/>m r̥juṁ kurve</l> <l>’mara<app><lem type="emn" rend="hyphenleft">mālāṁ</lem><rdg wit="#msBL">-mālā</rdg></app> karōmy aham ||<!-- Two indistinct space filling symbols.--></l>
+	<l n="c">śabda-bheda<lb n="1r4" break="no"/>m r̥juṁ kurve</l> <l n="d">’mara<app><lem type="emn" rend="hyphenleft">mālāṁ</lem><rdg wit="#msBL">-mālā</rdg></app> karōmy aham ||<!-- Two indistinct space filling symbols.--></l>
 </lg>
 	<listApp type="parallels">
 		<app>
-		<note>Harunaga Isaacsonpoints out to us that this verse is very similar to the opening verse of Anubhūti Svarūpācārya's <title>Sārasvatavyākaraṇa</title>: <foreign>praṇamya paramātmānaṁ bāla-dhī-vr̥ddhi-siddhaye sārasvatīm r̥juṁ kurve prakriyāṁ nātivistarām</foreign>
+		<note>Harunaga Isaacson points out to us that this verse is very similar to the opening verse of Anubhūti Svarūpācārya's <title>Sārasvatavyākaraṇa</title>: <foreign>praṇamya paramātmānaṁ bāla-dhī-vr̥ddhi-siddhaye sārasvatīm r̥juṁ kurve prakriyāṁ nātivistarām</foreign>
 <!-- Haru attached a pdf, stored on my computer (AG). --></note>
 		</app>
 	</listApp>
@@ -143,7 +143,7 @@
 	<l n="ab">jātarūpaśca kanaka-rukma<hi rend="check">staha</hi>-mahārajata ..</l>
     	<l n="cd"><lb n="1r17"/><label type="headword">rūpā-māma ||</label> raukmaṁ rajata-dūrbānajātarūpaśca kharjura .</l>
 </lg>
-	<lg met="anuṣṭubh" n="...">
+	<lg met="anuṣṭubh" n="10">
 		<l n="ab"><pb edRef="#msBL" n="1v"/><fw n="1v" place="top-left"><num value="1">1</num></fw>
 		<lb n="1v1"/><label type="headword">ujjvala-nāma ||</label>śukra-śubhra-suci-svēta-viśadaś cēti pāṁḍura</l><!--	AG I am not sure what the meaning of the dot to the right if this word is, but I don't think it's anusvāra. Maybe a low-level punctuation mark, like our comma? Let's see if we get other cases.
 	ZPA I think that it is used for ṇa, we have other examples such as puṁḍarīka, śikhaṁḍī, śrīṣaṁḍa.
@@ -151,380 +151,870 @@
 	ZPA Ah, interesting. Another new information! Thank you! Concerning the dot just in the right, could it be ḥ ?-->
 <l n="cd">-dhavalāsitā<lb n="1v2" break="no"/>rjunaś caiva hyavadātaśca kāṁtikr̥t ||</l>
 	</lg>
-	<lg met="anuṣṭubh" n="...">
+	<lg met="anuṣṭubh" n="11">
 		<l n="ab"><label type="headword">sōbhā-nāma ||</label> 
 		bhābhā-sā<lb n="1v3" break="no"/>bhā-prabhāś cēva</l>
 		<l n="cd">suṣamā-paramāchavi-dyuti-kāṁti tathaivēti</l>
-		<l><lb n="1v4"/>? ṣa-<!--@andrew.ollett@gmail.com how would you read the first aksara?_Assigned to Andrew Ollett_ answer: I have no idea.-->saubhāgyadāpinī ||</l>
+		<l n="ef"><lb n="1v4"/><gap reason="illegible" quantity="1" unit="character"/> ṣa-saubhāgyadāpinī ||</l>
 	</lg>
-	<lg met="anuṣṭubh" n="...">
+	<lg met="anuṣṭubh" n="12">
 	<l n="ab"><label type="headword"> kīrtti-nāma ||</label> aṁsuga-bhakti<lb n="1v5" break="no"/>gaś caiva marīcis tu <app><lem type="emn">mayūkha</lem><rdg wit="#msBL">mayūṣa</rdg></app>-kara-</l>
 <l n="cd"><app><lem type="norm">raśmi</lem><rdg wit="#msBL">rasmi</rdg></app>-jyōti-vasuścaiva kī<lb n="1v6" break="no"/>rttiś caivaṁ tathāpara ||
 		</l></lg>
-	<lg met="anuṣṭubh" n="...">
+	<lg met="anuṣṭubh" n="13">
 		<l n="ab"><note>It seems that we now get synonyms of peacock, but the heading has been omitted.</note> 
 barhiśikhī ca nīlakaṁṭhī ca vyāla<lb n="1v7" break="no"/>bhuk </l>
 	<l n="cd">śiva<hi rend="check">sunū</hi>vāhanaścaiva<note>śivasūnuvāhana makes sense but it seems to be hypermetrical</note> 
 	kalāpī ca mayūrakaḥ || </l>
 </lg>
-	<lg met="anuṣṭubh" n="...">
+	<lg met="anuṣṭubh" n="14">
 		<l n="ab"><lb n="1v8"/><label type="headword">siṁha-nāma ||</label> 
 	<app><lem>keśari</lem><rdg wit="#msBL">kēhari</rdg></app>-hari-dvīpī ca vyāghra-paṁcānatas tathā</l>
 		<l n="cd"><app><lem type="emn">kaṁṭīrava</lem><rdg wit="#msBL">kaṁṭīrada</rdg></app>-mr̥gapati
 			<lb n="1v9" break="no"/>puṁḍarīkaś ca <app><lem type="norm">yakṣapō</lem><rdg wit="#msBL">jakṣapō</rdg><note>Cf. Revākhaṇḍa of the Skandapurāṇa 78.9–10: caturtho lokapālānām akṣayo yakṣapo 'pi vā | yakṣo yakṣādhipaḥ śreṣṭhaḥ kuṇḍadhāro 'bhavat sutaḥ | susvaṁrūpavayaḥ prāpya mātāpitror anujñayā || tapaś cakāra vipulaṁ narmadātīram āśritaḥ | yatra vyāghreśvaraṁ liṅgaṁ vyāghrakheṭakam uttamam ||.</note></app></l> 
-<l n="ef">mr̥garājas tu siṁhaś ca || durā<!-- this cannot be correct, but I don't see the solution yet.</note><note>@andrew.ollett@gmail.com can you help?</note><note>I am also having a hard time with this. Maybe dvaradaghna = dviradaghna?-->da <note> <hi rend="check">Corr. dvirada</hi> ?</note>-ghnaś ca kēśarī ||</l></lg>
-	<lg met="anuṣṭubh" n="...">
+<l n="ef">mr̥garājas tu siṁhaś ca || durā<!-- this cannot be correct, but I don't see the solution yet.</note><note>I am also having a hard time with this. Maybe dvaradaghna = dviradaghna?-->da <note> <hi rend="check">Corr. dvirada</hi> ?</note>-ghnaś ca kēśarī ||</l></lg>
+	<lg met="anuṣṭubh" n="15">
 		<l n="ab">	<lb n="1v10"/><label type="headword">aśva-nāma ||</label> 
 haya-saiṁdhava-vājī ca turagaś ca turaṁgama</l> 
 <l n="cd"><hi rend="check">vā</hi><hi rend="check">ka</hi><note>not sure, but possibly hya is written or at least intended here</note>
 	<lb n="1v11" break="no"/>śva-ghōṭakaścaiva <hi rend="check">pū</hi>pā<note>it looks like śpā, error for śvā? still, I don't see śvākarṇa as synonym of 'horse' anywhere.</note><note>or, maybe śyā ? But I don't know yet that the cluster -'va' and -'ya' are interchangeable also in Sanskrit mss. as they are in Javanese script.. If so, then we have to accept śvākarṇa as synonym for 'horse'</note>
 karṇāśca <hi rend="check">ya</hi>dāvuka<note>heḍāvuka ?</note><note>I see yajñapuk, yajñavuk or yajñadhuk. The latter could mean 'milking the sacrifice'. I don't know any synonym of 'horse' like this.</note> ||</l>
 	</lg>
-	<lg met="anuṣṭubh" n="...">
+	<lg met="anuṣṭubh" n="16">
 		<l n="ab"><label type="headword">hastī-nāma ||</label>
 			<lb n="1v12"/>daṁtī-<app><lem type="emn">dvirada</lem><rdg wit="#msBL">dvarada</rdg></app>-dvīpaś ca padmī-kuṁjara-kuṁbhīkāḥ<!-- I think this is indeed what the manuscript has. since kumbhīka has a different meaning than 'elephant', an emendation is probably required. --></l> 
 <l n="cd"><app><lem>karībha-</lem><rdg wit="#msBL">karībhaḥ</rdg></app> vāra<lb n="1v13" break="no"/>na <note> Corr. vāraṇa</note>-vyālaḥ <hi rend="check">staṁvaṁsuṁgr̥la</hi> <note> Corr. <hi rend="check">stamberama-suṁḍāla-nāguhāṭō</hi> ?</note>-<!-- here we seem to have a part of the expected word stamberama, then suṁḍāla (meaning śuṇḍāla), and then something like nāguhaṭō.--></l>
-<l><hi rend="check">nāga-</hi>ha<hi rend="check">ge</hi>-matta-mātāṁga-nāgaśca <hi rend="check">mapaṁ
+<l n="ef"><hi rend="check">nāga-</hi>ha<hi rend="check">ge</hi>-matta-mātāṁga-nāgaśca <hi rend="check">mapaṁ
 	<lb n="1v14" break="no"/></hi><hi rend="check">dānagapa</hi>-gaja <app><lem>ekadantō</lem><rdg wit="#msBL">ēkaṁdaṁtō</rdg></app> dvidaṁtaśca ka<hi rend="check">jā</hi>lē<note>or kukṣāle? kakṣāle? I don't know yet which word is intended.</note>-<hi rend="check">vasa</hi><hi rend="check">bhamrabhī</hi><note>samasamī? not yet sure...</note> ||</l></lg>
-	<lg met="anuṣṭubh" n="...">
+	<lg met="anuṣṭubh" n="17">
 		<l n="ab"><lb n="1v15"/><label type="headword">aṣṭasiddhi-nāmā ||</label> 
 		aṇimā mahimā caiva garimā laghimān tathā</l>
-		<l><lb n="1v16"/>prāpti-prākāmpamī-śatvaṁ-vasitvaṁ cāṣṭasidvayaḥ ||</l>
+		<l n="cd"><lb n="1v16"/>prāpti-prākāmpamī-śatvaṁ-vasitvaṁ cāṣṭasidvayaḥ ||</l>
 </lg> 
-	<lg met="anuṣṭubh" n="...">
+	<lg met="anuṣṭubh" n="18">
 		<l n="ab"><label type="headword">nidhi-nāma ||</label> 
 	ma<lb n="1v17" break="no"/>hāpadmaś ca padmaś ca</l> 
 	<l n="cd">śaṁkha-makara-kachapau mukaṁda-makaraś caiva</l> 
-	<l>kharvakuṁda<lb n="1v18" break="no"/>śca nīlakaḥ ||</l>
+	<l n="ef">kharvakuṁda<lb n="1v18" break="no"/>śca nīlakaḥ ||</l>
 	</lg>
-	<lg met="anuṣṭubh" n="...">
+	<lg met="anuṣṭubh" n="19">
 		<l n="ab"><label type="headword">manōratha-nāma ||</label> 
 		kāmō bhilāṣa-<hi rend="check">tarṣū</hi>ś ca <hi rend="check">vaṣama</hi><lb n="1v19" break="no"/><hi rend="check">sa</hi>ca manōratha ||</l></lg>
 </div>
-			<div type="group">
-				<ab>
-<label type="headword">mōkṣa-nāma ||</label> 
-mukti-amr̥ta-kaivālyaṁ <pb edRef="#msBL" n="2r"/>	<lb n="2r1"/>nirvāṇaṁ hyapavargakaṁ 
-mahāsiddhipada-svarga-mukti-śrēyasa<lb n="2r2" break="no"/> stathā .. 
-
-rājā-nāma .. 
-svāmī bhūpati-bhūpaś ca adhipatiś ca pari<lb n="2r3" break="no"/><app><lem type="emn">vr̥ḍhaḥ</lem><rdg wit="#msBL">-vr̥ḍhī</rdg></app> 
-<!-- Cf. AK 03.01.010–11ab: guṇaiḥ pratīte tu kṛtalakṣaṇāhatalakṣaṇau | ibhya āḍhyo dhanī svāmī tvīśvaraḥ patirīśitā || 	adhibhūr nāyako netā prabhuḥ parivṛḍho 'dhipaḥ |
- -->
--adhīśaśca <app><lem type="emn">prabhuś</lem><rdg wit="#msBL">prabhu</rdg></app> caiva
- hyadhirājas tathaiva ca .. 
-
-maṁgala-nāma ||
-<!-- 
-AK.01.03.025: śukro daityaguruḥ kāvya uśanā bhārgavaḥ kaviḥ | aṅgārakaḥ kujo bhaumo lohitāṅgo mahīsutaḥ || 25 ||
-AṬS: aṅgārakaḥ kujo bhaumo lohitāṅgo mahīsutaḥ || 24 ||aṅgārakādayaḥ pañca maṅgale | agirgatyarthaḥ | mandāravad āran | bhaumaḥ | ‘śivādibhyo'ṇ’ (4. 1. 112) || -->
-<lb n="2r4"/>kujaḥ aṁgārakaś caiva lōhitāṁgō <app><lem type="emn">mahīsutaḥ</lem><rdg wit="#msBL">mahisutaḥ</rdg></app>
-<hi rend="check">hāva</hi>bhālaka <lb n="2r5"/>kalkī ca bhavanaśca bhaumakastathā .. 
-
-śukra-nāma .. 
-śukrō daityaguru<lb n="2r6"/>kāvya uśanā-bhargava-kavi .. 
-
-br̥haspati-nāma .. 
-br̥haspati-dēvagu<lb n="2r7" break="no"/>rō dhiṣaṇā .. <hi rend="check">śrīṣaṁḍa</hi>-<hi rend="check">hyaṁ</hi>girāg<hi rend="check">hayali</hi>śca gurōś caiva tathā <lb n="2r8"/>dēvapurōhitaṁ .. 
-
-srōtā-nāma ||
-<!--Either the heading does not fit with all the terms, or the emendation kāśyapasuta is wrong, or we have to assume a gap in the text before kāśyapasuta.-->
-śaśigirī <note> Corr. taraṁgiṇī ?</note> <add place="above">ca</add> jalajamuktāguli <lb n="2r9" break="no"/>kaśīpasuta <note>Corr. kāśyapasutaḥ. Cf. Vaijayantī 1.1.37 garuḍaḥ kāśyapasuto garutmān uragāśanaḥ | suparṇītanayas tārkṣyo vainateyo mahendrajit ||</note> ..
-
-lakṣmī-nāma 
-<!-- Cf. Vaijayantī 1.1.35cd–36: aṣṭakarmaparibhraṣṭo vītarāgaśca kevalī || lakṣmīḥ padmālayā śaktirmā kṣīrodasutendirā | ramābdhijā bhārgavī ca strīliṃgāścāṃbujāhvayāḥ ||--> .. 
-lakṣmī-padmālayā-padmā ka<lb n="2r10" break="no"/>malā-śrī-haripriyā 
-iṁdirā-lōkamātāmā <note>Corr. lōkamātā</note> capalā<hi rend="check">rkamahāmō<lb n="2r11" break="no"/>kṣīrābdhitanayā caiva tathā </hi>ca vi<hi rend="check">ṣṇu</hi>va<hi rend="check">’</hi>bhabha <note> Corr. viṣṇuvatsalā ?</note> <note>The reading ṣṇu is very uncertain. But if it is correct (or if this reading was originally intended) then we might emend viṣṇuvatsalā. But it doesn't look like this was actually written.</note><note>Could the last word be read as vacchalā = vatsalā?</note><hi>.. mātā-nāma</hi> 
-<note> ACM 557cd-558ab: māturmātāmahādyevaṃ mātāmbā jananī prasūḥ || savitrī janayitrī ca kṛmilā tu bahuprasūḥ |</note> −
-<lb n="2r12"/>aṁbā-janani <note> Corr. jananī</note>-sāvitrī-mātā-<hi rend="check">suja</hi>ni-iṁdirā .. 
-
-namaskāra-nāma −
-<lb n="2r13"/>abhivādanaṁ namasakāraḥ vadanaṁ praṇatiṁ tathā .. 
-
-sīḍhī <note> It is a Hindi word for ladder.</note>-nāma ॰
-<lb n="2r14"/>ārōhaṇaṁ ca niśrēṇī sōpānaṁ ca maṇimayaṁ .. 
-
-kanyā-nāma •
-<lb n="2r15"/>duhitā kaṁnyakā putrī tanayā tanujā sutā .. 
-
-śayyā-nāma (..)
-<lb n="2r16"/>kasīpu-talpa-śayyā ca śayana-saṁvēśanantathā dugdhaphēna<note>I don't understand what this term is doing here, unless it is a metaphor for semen.</note>-<lb n="2r17"/><hi rend="check">bhramā</hi>śayyā śayānīya tathaiva ca .. 
-
-kusuma-nāma ॰
-<lb n="2r18"/>(pra)sūna-kusumaṁ puṣpaṁ sumanaśca sugaṁdhi-suma ..<note>this reading seems very doubtful</note><note>probably one final syllable and a spacing mark</note>
-
-<pb edRef="#msBL" n="2v"/>
-<fw n="2v" place="top-left"><num value="2">2</num></fw>
-<lb n="2v1"/><hi rend="check">utītā-nāma  
-uśanajutaṁ nōśadhānaṁ kuṁḍuṁ sudhīrakaṁ ? ? ?</hi><note>@andrew.ollett@gmail.com any suggestions?_Assigned to Andrew Ollett_</note>
-<lb n="2v2"/>मुख-नाम ॥ आननं वदनं आस्यं लभनं <note> Corr. lapanaṁ ?</note><note>@andrew.ollett@gmail.com I cannot read labhanaṁ here. There seems to be a vertical bar at the start. How can we interpret it? Read khamanaṁ?_Assigned to Andrew Ollett_</note> वक्त्रकं मुखं<note>Pañcatattvaprakāśaānanaṃ vadanaṃ vaktraṃ mukham āsyaṃ radālayam |kākapakṣaṃ śikhā veṇir veṇī kuntalaśṛṅkhalā || 80 ||</note> भृ
-<lb n="2v3" break="no"/>कुटी <hi rend="check">pratimuṁkhaṁmu</hi><note>I have no serious idea. Just for the sake of offering something else chavimuṁḍaṁrpamu At least chavimuṁḍaṁ may be plausible</note><hi rend="check">kakharaṁchavi </hi>संपुनं ॥ केश-नाम ॥ शिरोरु
-<lb n="2v4" break="no"/>ह कचः केशः अलकः कुंतलस्तथा चि<hi rend="check">ku</hi>रे<note>looks more like kipure or cipure to me</note> <hi rend="check">śīkha</hi>रेवाली<note>unsure, especially the consonant after śō that has u below it.śō ute vālō</note> <hi rend="check">śa</hi>
-<lb n="2v5" break="no"/><hi rend="check">ma</hi>जं च <hi rend="check">viśālakaḥ</hi><note>the reading seems correct to me, though the meaning doesn't seem to fit.</note> ॥ मस्तक-नाम ॥ ललाटंमस्तकं चैव अ(नी)
-<lb n="2v6" break="no"/>कं च शिरस्तथा ॥ वाम-नाम ॥ <hi rend="check">vāmāsitakuṁcitaṁ</hi> चैव <hi rend="check">kuṭilaṁ
-<lb n="2v7" break="no"/></hi><hi rend="check">bhr̥ku</hi>टीस्तथा ॥ लोचन-नाम ॥ लोचनं अंबकं<note>I think we have va instead of ba and I cannot read a plain kaṁ.</note> नेत्रं नयनं
-<lb n="2v8"/>च<hi rend="check">kṣuṣa</hi>स्तथा <hi rend="check">X</hi><note>still unclear about the symbol just before word karṇa-nāma</note><note>number 62 or 63?</note> कर्ण-नाम ॥ श्रवण-श्रुति-श्रवं-शव्द 
-<lb n="2v9"/>कर्णं <subst><del>śa</del><add place="above">sa</add></subst>व्दग्राहकं ॥ हस्त-नाम ॥ हस्त-पानी करं चैव प्र<hi rend="check">laṁba
-<lb n="2v10" break="no"/></hi>सय…कः<note>looks like namanākukaḥ but I am not yet getting what words are intended</note><note>@andrew.ollett@gmail.com any idea?</note> ॥ वनसी<note>@andrew.ollett@gmail.com what is this? could it be a vernacular-style spelling for what is vaṁśī in formal spelling of Hindi?but what follow don't seem to be synonyms of 'flute'._Assigned to Andrew Ollett_</note>-नाम ॥ वरी चैव कवेनी <note>kuvenī ?</note><hi rend="check">hyāta</hi><note>syāta ?</note><hi rend="check">mīna
-<lb n="2v11" break="no"/>हा-म</hi><hi rend="check">tsya</hi><hi rend="check">dhanika</hi><note>dhatimā ?dhanimā ?</note><hi rend="check"> vestī vanasī </hi>चैव कंठप्राणावरोधकः
-<lb n="2v12"/>अधर-नाम ॥ ओष्ठ<note>what is th ething below this? is it actually ṣṭhya ? but for the meaning, we don't want y.</note>श्चैव रदश्चैव अधरश्च रद-छवि…<note>damitaṁ ?damiṁta ?umitaṁ ?</note>
-<lb n="2v13" break="no"/>मकतश्चैव तथा <hi rend="check">biṁbāsaṁ</hi><note>vināsa ?viṁvāsa ?</note>णछवि ॥ दंत-नाम ॥ रदनश्च रद
-<lb n="2v14" break="no"/>श्चैव द्विज-दंत-<hi rend="check">hamimu</hi><hi rend="check">kha</hi><note>or mukha. I still don't understand what synonym for 'teeth' we have here.</note> ॥ ढोरी<note>I don't know this term</note><note>Me neither</note>-नाम ॥ चिबुकं चा<hi rend="check">ha</hi>चाचं च
-<lb n="2v15"/><hi rend="check">ka</hi>नयोः राजितछवि ॥ ग्रीवा-नाम ॥ गलो नल-कंधरश्च
-<lb n="2v16"/>ग्रीवा-कंढक<hi rend="check">pō</hi>लिनी ॥ उरज <note> Corr. urōja</note>-नाम ॥ कुचं पयोधरं ऊर्जं
-<lb n="2v17"/>स्तनौ ऊर-मंडलछवि ॥ रोमराजी-नाम ॥ रोमं राजी च
-<lb n="2v18"/>मवली अगलितं ततिरी<note>rō ?</note>मयं रोमयं रोमकं रम्यं ऊंचितं
-<pb edRef="#msBL" n="3r"/><note>Arlo to continue here</note>
-<lb n="3r1"/>च तनूरुहं ॥ <hi rend="check">chuḍa</hi><note>should be error for cuḍā?</note><note>the meaning doesn't fit. we must have chudraghaṁṭikā. seeAK.02.06.110ab haṃsakaḥ pādakaṭakaḥ kiṃkiṇī kṣudraghaṇṭikāconfusion of ch/kṣ is very common in Devanagari mss.</note>  घंटिका-नाम<note>AM CK:253Synonyms of Woman’s Girdlemekhalā, saptakī, kāñcī, kakṣyā, raśanā, ṅa kəṇḍit.</note> ॥ किंकिनी <note> Corr. kiṁkiṇī</note>-रसना कांची
-<lb n="3r2"/>मेषला <note> Corr. mekhalā</note>-<hi rend="check">jāla</hi>कं  तथा <hi rend="check">chudrā valimanumāna dyurdyurī vaṁra
-    <lb n="3r3" break="no"/><hi rend="check">mālikā || </hi>सरकस<note>AM CK:50Synonyms of Quivertūṇo niṣaṅgas tūṇīraḥ, upāsaṅgaś ca bāṇadhiḥ,śaradhiś cāpi tūṇistrī, iṣudhir astriyāṁ bhavet.</note> <note> Corr. <hi rend="check">śarakasa</hi> ?</note>-नाम ॥ उपासंगश्च तूनीर <note> Corr. tūṇīra</note> इषुधी
-<lb n="3r4"/>धनु<hi rend="check">ṣaṁgani</hi> ॥ नूपुर-नाम</hi><note>AM CK:130Synonyms of Braceletmañjīra, pādakaṭaka, tulākoṭi, nūpura, ṅa gəlaṅ.</note> ॥ तुलाकोटिश्च मंजिर-नूपु
-<lb n="3r5" break="no"/>र-<hi rend="check">ka</hi>नकस्तथा मंजिका <hi rend="check">kuṁkuṇaputā maṇisaṁjirakaśca</hi>
-<lb n="3r6"/><hi rend="check">sa</hi> ॥ वस्त्र-नाम ॥ दूकूलं <note> Corr. dukūlaṁ</note> च पटं लोलं निचोलं ह्यंबर
-<lb n="3r7" break="no"/>स्तथा वशनं <note> Corr. vasanaṁ</note> वस्त्रकं चैव सुचीलं वसुचीटकं ॥ तांबूल
-<lb n="3r8" break="no"/>नाम ॥ मुखवास-तांबूलं <hi rend="check">dhajayānasakhirakaṁ</hi> अहिव
-<lb n="3r9" break="no"/>द्वितरलकं चैव मुखमंडनकास्तथा ॥ दर्प्पन<note>AM CK:219Synonyms of Mirrorādarśa, ṅa pahyasan.------227Synonyms of Picturephalaka, ṅa vimba.</note> <note> Corr. darppaṇa</note>-नाम ॥
-<lb n="3r10"/>मुकुटं प्रतिविं बंब <note> Corr. biṁba</note>-व्यंजनं-दर्प्पणं तथा आदर्शकं मु
-<lb n="3r11" break="no"/>द्वदार्शकां चकं पारदर्शकं ॥ मुक-नाम ॥ रक-चुंचु
-<lb n="3r12"/>ककंश्चैव मुकः कीर तथैव च ॥ अं<hi rend="check">taḥya</hi>नि-नाम ॥
-<lb n="3r13"/>गुप्तं मंतरितं गूठं दूरूहं च तिरोहतं <note> Corr. tirōhitaṁ</note> अं<hi rend="check">taḥya</hi>निं ति
-<lb n="3r14" break="no"/>रोध्यानं पिधान-छंदनानि च ॥ जल-नाम ॥ अं
-<lb n="3r15" break="no"/>बु-पयं च कमलं कीलालमुदकं तथा पुष्कतं <hi rend="check">vana</hi> <note> Corr. bhuvana</note>-वा
-<lb n="3r16" break="no"/>री च अमृतं जीवनं अंभं <add place="above">ka</add>-मेघपुष्पं च तोयं च कृ
-<lb n="3r17" break="no"/>षी आयुस्तथैव च <hi rend="check">..</hi> शंभरं शलिलं तोयं तथा पा
-<lb n="3r18" break="no"/>नी-प्रपादिका ॥ <hi rend="check">carṇa</hi><note>unclear, maybe error for cūrṇa?</note>-नाम ॥ चर्णं च पलगतिवत्‌
-<lb n="3r19"/>आं<hi rend="check">Xpādayayā’</hi>कं ॥ वीणा-नाम ॥ वल्लकी
-<lb n="3r20"/>वीणिकातंत्री जंत्री <hi rend="check">varūri</hi> आहिका ॥ हरिद्रा-नाम ॥
-<pb edRef="#msBL" n="3v"/>
-<fw n="3v" place="top-left"><num value="3">3</num></fw>
-<lb n="3v1"/>पीता-गौरिकाचनी च हरिद्र-वीराजनी तथा ॥ भकुटी-नाम ॥
-<lb n="3v2"/>भ्रूतं <hi rend="check">X</hi> भृकुटी चैव करिनालं तथैव च ॥ समय-नाम ॥
-<lb n="3v3"/>कालं समय-वेला च अनीहा-निमिषं तथा ॥ कुशल-नाम ॥
-<lb n="3v4"/>क्षेमं ह्यनामयं भद्रं शिव-शुभ-भवं तथ श्रेयं कल्याणकं
-<lb n="3v5"/>चैव भव्यं मंगलकं तथा ॥ संज्ञा-नाम ॥ संज्ञा चाह्वय-गो 
-<lb n="3v6" break="no"/><hi rend="check">yya</hi>श्च <note> Corr. gōtraśca</note> क्षेमवामत्वनामयं ॥  नारी-नाम ॥ नारी वधूश्च व 
-<lb n="3v7" break="no"/>निता ललना-स्त्री तथैव च । युवती ह्यबला-बाला ह्यं
-<lb n="3v8" break="no"/>गना प्रमदा <del rend="strikeout">sta</del><add place="above">ta</add>था वामाकांता च बाला च तरुणी-रमणी तथा
-<lb n="3v9"/>तरु<hi rend="check">ṇī</hi> सुंदरी च प्रयं <note>Corr. priyaṁ ?</note> च विधि-लंपटा ॥ ब्रह्मा-नाम ॥ ब्रह्मात्म
-<lb n="3v10" break="no"/>भू स्वयंभूश्च धाता स<hi rend="check">X</hi>ति पिता विधाता विश्व-सुरज्येष्ठा 
-<lb n="3v11"/>चतुरानन-विधिस्तथा वेधा कमलजश्चैव परमेष्ठी पिता 
-<lb n="3v12" break="no"/>महा ॥ सुंदर-नाम ॥ शुभग-सुमन-बंधुश्च कमनीयं सु-पेश
-<lb n="3v13" break="no"/>लं कमनीय-रम्य-रुचिरं सुंदरं <hi rend="check">thuXkōnikaḥ</hi> ॥ ज्येष्टपांडव 
-<lb n="3v14"/>नाम ॥ युधिष्ठिरो धर्मसुनु-ह्यजातरिपुकस्तथा कौंतेयं 
-<lb n="3v15"/>धर्म्मरूपश्च कुरुरेव तथैव च ॥ दीर्घ-नामा ॥ दीर्घश्च दा
-<lb n="3v16" break="no"/>घुलश्वासो पृथु पाश-विशालकः ॥  अर्जुन-नाम ॥ वि<hi rend="check">ṣṇu
-<lb n="3v17"/>धनंजयश्चैव गुडाकेशश्च फाल्गुनी गांडीव-धनुषी पार्थ
-<lb n="3v18"/>पांडवश्च कपिध्वज अर्जुनं धनुधरं चैव कृष्ण-</hi><hi rend="check">XXbhaka
-<lb n="3v19" break="no"/>स्तथा ॥ गंगा-नाम ॥ विष्णुपदी देवनदी नंदा मंदाकिनी
-<lb n="3v20"/>तथा गंगा भागीरथी ज्योयां त्रिपथगा क्लेशहारिणी ॥
-<pb edRef="#msBL" n="4r"/>
-<lb n="4r1"/></hi>कमल-नामा ॥ पुष्करं पुंडरीकं च कमलं जलजस्तथा
-<lb n="4r2"/>पंकजमंभोज-पद्मं च अंबुजो <hi rend="check">tya</hi>लकं तथा ॥ चंद्रम-नाम ॥ 
-<lb n="4r3"/>इन्दु-कलानिधि-सोम-शशि चैव सुधानिधि जैवात्रिका हि
-<lb n="4r4" break="no"/>मकर औषधीश-निशाकर ॥ कुमुद्वं <hi rend="check">X</hi> श्रीबं <hi rend="check">X</hi> ऊडु 
-<lb n="4r5" break="no"/>राज-द्विजप्रिय अत्रिया<hi rend="check">X </hi>मृगांक-<hi rend="check">glau</hi> चंद्र-चंद्रानना
-<lb n="4r6" break="no"/>पति ॥ काम<note>Totally different with AM CK, which mentions Aniruddha and Uṣāpati as the synonyms of Kāmadeva... Here it is not the case. So, maybe there is no direct relationship between this AM and AM CK.</note>-नाम ॥ मदनो मन्मथो मार-भव-पंचशरस्त
-<lb n="4r7" break="no"/>था कंदर्पो मीनकेतुश्च <del rend="strikeout">ka</del> मकश्धज‌ ह्यन्मथ <note> Corr. manmatha</note>-संबरद
-<lb n="4r8" break="no"/>लनानंग-विश्वमोहन-मोहकृत् ॥ मेघ-नाम ॥ धाराध 
-<lb n="4r9" break="no"/>रो जलघर-जलदं जगजीवनं बलाहकश्चैवातिमेघकृत्‌ 
-<lb n="4r10"/>॥ विजली<note>non-Skt. this word is correlated with Gujarat?</note>-नाम ॥ तडिन-सौदामिनि-विद्युत्‌-चंच्चला-चप 
-<lb n="4r11" break="no"/>ला<hi rend="check">ścā</hi>पि॥ सैन्य-नाम ॥ प्रतना <note> Corr. pr̥tanā</note> ध्वजिनी चैव वाहिनी 
-<lb n="4r12"/>च वरूथिनी चमू-सेना <hi rend="check">mā</hi>वीचैव तथासंग्राम-कारि
-<lb n="4r13" break="no"/>णी ॥ धनुष-नाम ॥ धनु-कोदंड-चापश्च कार्मुकश्च 
-<lb n="4r14" break="no"/>पकस्तथा ॥ भ्रमर-नामा ॥ मधुमधुकरं <note> Corr. madhukaraṁ</note> मकलिड 
-<lb n="4r15"/>अलि-भृंगश्च चंचरी द्विरेफं भ्रमरश्चैव षट्पद 
-<lb n="4r16"/>कमलप्रिया ॥ लता-नाम ॥ व्रतती विशती वदन्ती 
-<lb n="4r17"/>लता अमर वेलिक ॥ मित्र-नाम ॥ मुहृदं वल्ल 
-    <lb n="4r18" break="no"/>भश्चैव सखा-<hi rend="check">prītamaka</hi>-प्रिय ॥ मनुष्य-नाम ॥
-<pb edRef="#msBL" n="4v"/><fw n="4v" place="top-left"><num value="4">4</num></fw>
-<lb n="4v1"/>मनुष्यं मानुषं मर्त्यं नर-मानवक-पुमान् ॥ वेद-नाम
-<lb n="4v2"/>श्रात्मा ह्येकश्रुति-ब्रह्म-निगमागम-ब्रह्मस्तव धर्म्म 
-<lb n="4v3" break="no"/>मूलं च वेदश्च धर्म्ममूलं ह्यभावकृत् ॥ <hi rend="check">jōgīṣā</hi><note>maybe Prakrit form for yōgīśa?</note>
-<lb n="4v4"/>नाम ॥ जती ब्रती तपी चैव जोगी निर्मल-मानसं 
-<lb n="4v5"/>ऋषि-भिक्षुक-तापस्वी ।। ज्ञानदीप्ति-मलापहुत्
-<lb n="4v6"/>धर्म्म-नमा ॥ वैबस्वत-पितृपति तथा संजमनी पति
-<lb n="4v7"/>कृतांन्रोयमुनाभ्रा <hi rend="check">tāmahiṣadhvaja</hi> चांनक गुह्यक 
-<lb n="4v8"/>अंबकसखावैश्च वणश्च जनेश्वर ॥ शेष<note>The synonyms are for Viṣṇu. The term śeṣa as heading seems out of inappropriate.</note>-नाम ॥
-<lb n="4v9"/>शेर्षेनं नोसर्प्पपति सहस्र फणिनस्तथा घरणी 
-<lb n="4v10" break="no"/>घर-महाहीश-वि<hi rend="check">ṣṇō</hi> वै<hi rend="check">X</hi>&gt;वरूप ह्यक ॥ गणेश-नाम 
-<lb n="4v11"/>॥ लंबोदाश्च हेरंबो घैमातुर-गणाधिप-मूषवाहन
-<lb n="4v12"/>गणपति गजवदनो ह्युमासुतः एकदंतश्च हेरंबो 
-<lb n="4v13"/>अदि<hi rend="check">pū</hi>ज्यश्च वैकटो ॥ जन्म-नामा ॥भवो भवो रुमनकं
-<lb n="4v14"/>जननि-जनुजन्मनि ॥ धूर्त-नाम ॥ व्याजी जि<hi rend="check">ṇī</hi>भी<hi rend="check">tra</hi> 
-<lb n="4v15"/>कुटिलं छमी करुककैनवी ॥ मृगव<hi rend="check">na</hi>-नाम ॥
-<lb n="4v16"/>ऐनं हरिण-सारंग-ऐणश्च मृग नातपुर ॥ 
-<lb n="4v17"/>पाप-नाम || इष्टु-तंदुरितं चैव अघं वृजिन-पापकं ।
-<pb edRef="#msBL" n="5r"/>
-<lb n="5r1"/>पाषान <note> Corr. pāṣāṇa</note>-नाम ॥ प्रस्थोपलोपलपाखनं पाहनं पर्वतं ताथा
- <lb n="5r2"/>नौका-नाम ॥ नौका-तरणि पोतं च उडपं <note> Corr. uḍūpaṁ</note> जलजं त्रक ॥ रुधिर
-<lb n="5r3"/>नाम ॥ श्रोणितं <note> Corr. śōṇitaṁ</note> राक्त-रुधिरं लोहितं <hi rend="check">śōnaka</hi>स्तथा ॥ राक्षस
-<lb n="5r4"/>नाम ॥ कौनपं <note> Corr. kauṇapaṁ</note> कर्वुरं चैव रत्रिचर-निशाचरं यातुधानं चा
-<lb n="5r5" break="no"/>सुरं च निकषात्मज-राक्षसं ॥ धूरि-नाम ॥ धूलि-धूमर-पांसु
-<lb n="5r6"/>च शर्करा <note> Corr. śaṁkārō</note> रेणु-पंकसं <note> Corr. pāṁsukaṁ</note> ॥ महादेव-नाम ॥ गंगाधरोंधकरिपु
-<lb n="5r7"/>शूलपाणि-शशिधर-शंकर-सर्व-शंभुश्च भवो कामरिपुस्तथ ॥
-<lb n="5r8"/>पिनाकी-धूर्जटि-रुद्र-ऋषभध्वज-अंबक-उग्रकपर्दि-भूतपति
-<lb n="5r9"/>पशुपतिश्च ह्यमापति शितकंठो नीलकंठश्च वामदेव-क
-<lb n="5r10" break="no"/>पालभृत्‌ ॥ सूर्य-नाम ॥ सूर्यो किरण-पूषांशु-गभस्ति-घृणर
-<lb n="5r11" break="no"/>स्मयः <note> Corr. ghr̥ṇaraśmayaḥ</note> प्रभाकरं दिनकरं विवस्वा-नभास्करो रवि-मार्तंड-स
-<lb n="5r12" break="no"/>विता चैव पतंगश्च पतंजलि-चित्रभानु-हX-भानु अंशुमा<hi rend="check">ñ
-<lb n="5r13"/></hi>जगचाक्षुष नगो प<hi rend="check">dr̥</hi>न्वश्चैव अंबरो शX-काश्यपः ॥ मिथ्या
-<lb n="5r14"/>नाम ॥ मिथ्या-मोघ-मृषा चैव व्यर्थं अनृतं तथा निरथ
-<lb n="5r15" break="no"/>कं <note> Corr. nirarthakaṁ </note> मालीकं च <hi rend="check">hyaṁpavādār̥taṁ vataṁ</hi> ॥ निकट-नाम ॥ संन्नि
-<lb n="5r16" break="no"/>धिं पार्श्व-सामीप्पं <note> Corr. samīpaṁ</note> <hi rend="check">mavidūrattaṭaṁ</hi> तथा ॥ चंदन-नाम ॥ शा
-<lb n="5r17" break="no"/>बरं गंधसारं च मलयं <note> Corr. malayajaṁ</note> भद्रपटी<hi rend="check">skaṁ</hi> ॥ मीन-नाम ॥ मक<hi rend="check">raḥ
-<lb n="5r18"/></hi>ह्यनन्मिषं <note> Corr. hyanimiṣaṁ</note> मत्स्यं प्रथुरिोमा <note> Corr. pr̥thurōmā</note> तिमिस्तथा मकरं ह्युलूप्यंड
-<lb n="5r19" break="no"/>भव पाठीकष-मीनकस्तथा ॥ समुद्र-नाम ॥ सिंधू-श
-<pb edRef="#msBL" n="5v"/>
-<fw n="5v" place="top-left"><num value="5">5</num></fw>
-<lb n="5v1" break="no"/>लि<hi rend="check">laya</hi>श्चैव ईरावान् सरितांपति उदधि-समुद्न-मंवोध 
-<lb n="5v2"/>पारावारणारश्च <hi rend="check">sāgaraḥ</hi> ॥ वनर-नाम ॥ शाखामृग-कपिश्चैव
-<lb n="5v3"/>प्लवगश्च प्लवंगमं लांगूल-वानरश्चैव कीश-किटकिटा
-<lb n="5v4" break="no"/>कृति ॥ संकर्षण-नाम ॥ बलभद्र-रौहिनेयं रामं संकर्ष 
-<lb n="5v5" break="no"/>णं वलं नीलांबरो हलधर-मुसलेयं रेवातीपति <note> Corr. revatīpatiḥ</note> ॥ पृथ्वी
-<lb n="5v6"/>नाम ॥ क्षितीला-पृथिवी चैव धरणी धत्री तथैव च ॥ 
-<lb n="5v7"/>ऊर्वी <note> Corr. urvī</note> वसुमती धरा काश्यपी मेदिनीति च ॥ सर <note> Corr. śara</note>-नाम ॥
-    <lb n="5v8"/>खगजिह्मग <note> Corr. khagājihmaga</note>-बाणे च विशिषं <note> Corr. viśikhaṁ</note> च शीलीमुखं <hi rend="check">karnanārganaX</hi>
-<lb n="5v9"/>एच <note> Corr. eva</note> इषु-शायककं <note> Corr. sāyakaṁ</note> शरं ॥ अग्नि-नाम ॥ पावकं बह्नि-<hi rend="check">damunaṁ</hi> <note> <hi rend="check">Corr. damunasaḥ(?)</hi></note>
-<lb n="5v10"/>ज्वलनं च धनंजयं ऊषर्बुधं <note> Corr. uṣarbudhaṁ</note> वायुसखावीति होत्रं चतावेद <note> Corr. jātaveda</note>
-<lb n="5v11"/>चित्रभानु-हरिभनु अनलं च ऊताशनं <note> Corr. hutāśanaṁ</note> कृशानु ह्यग्नि<hi rend="check">ṇaṁ
-<lb n="5v12"/></hi>च पावकं पवनानकं ॥ सूढ-नाम ॥ मुग्ध-मूढ-जडो मंद
-<lb n="5v13"/>अज्ञो क<hi rend="check">ḍakabhāṣaṇa</hi>-मूर्खो भिमानयुकश्च । कलही <hi rend="check">śreśa
-<lb n="5v14"/></hi><hi rend="check">natyaraḥ</hi> ॥ &gt;भिज्ञ<note>unfamiliar</note>-नाम ॥ कोविदो कुशलो धीरः प्रवीनं <note> Corr. pravīṇaṁ</note> पटु<hi rend="check">ka</hi>
-    <lb n="5v15"/>कृती ॥ अपराध-नाम ॥ अधांश-हेलनाहित्यं <hi rend="check">āvārye
-<lb n="5v16"/></hi><hi rend="check">puruāni</hi>कत्‌ ॥ स्नेह-नाम ॥ आर्दं<note>Corr. hārdaṁ</note>स्नेहं च गलितं ललितं
-<lb n="5v17"/>प्रिय<hi rend="check">nāka-śu</hi>चि अनुरागो नुरगश्च प्रिय-प्रिताकरस्तथ 
-<lb n="5v18"/>॥ पर्वत-नाम ॥ अग-नगं भूभृतं चैव भूधरं गिरि-पर्वतं
-<lb n="5v19"/>ह्युपलं शृंगी शिषरं नागं गोवर्धनस्तथा ॥ सर्प-नाम ॥
-<pb edRef="#msBL" n="6r"/>
-<lb n="6r1"/>उरगः पन्नगो भोगी जिह्मगः पवनाशनः भुजंगो सर्पो
-<lb n="6r2"/>नागः काकोदर-बिलेशय-चक्षुश्रवा <note> Corr. cakṣuḥśravā</note>-दर्विकर आशी
-<lb n="6r3" break="no"/>विषो विषधर-शेष-व्याल-सरीसृप-व्यली अलि-<hi rend="check">gō-jana
-<lb n="6r4" break="no"/></hi>श्चैव <hi rend="check">ku</hi>णिमणि <hi rend="check">catai</hi>जित ॥ पीडा-नाम ॥ बाधा-व्य
-<lb n="6r5" break="no"/>था-दूः<hi rend="check">kha</hi>श्च पीडा <hi rend="check">ādhigalāti</hi> च ॥ वन-नाम ॥ काननं
-<lb n="6r6"/><hi rend="check">viṣavārarāyaṁ</hi> गहनं कांतार-कछकं ॥ असुर-नाम ॥ दनुजं
-<lb n="6r7"/>दानवं दैत्यं सुररि <note> Corr. surāri</note>-पुनियटासंन<hi rend="check">XXXX</hi>धरो ऽसुर: ॥ विष-नाम ॥
-<lb n="6r8"/>हालाहलश्च गरलं कालकुटश्च मारण ॥ <hi rend="check">papāhā</hi>-नाम ॥
-<lb n="6r9"/><hi rend="check">XX pūhahari cānaka
-<lb n="6r10"/></hi> … ॥ मनोहर-नाम ॥ मनोरमं मंजु
-<lb n="6r11" break="no"/>लं मंजु उद<hi rend="check">graṁ</hi> ललितं तथा ॥ धन-नाम ॥ वसु-द्रव्यश्च<hi rend="check">XX
-<lb n="6r12"/></hi>वित्तार्थ-सुखवे<hi rend="check">dhaḥ</hi> ॥ दासी-नाम ॥ पुंश्चली दासीका <note> Corr. dāsikā</note> चैव मनु<hi rend="check">X
-<lb n="6r13" break="no"/></hi>र्पन-जोषिता ॥ पतिव्रता-नाम ॥ मनस्वि<hi rend="check">tī</hi> सती चैव सुचरी च
-<lb n="6r14"/>पतिव्रता सत्य<hi rend="check">vradharta</hi>व्रता चरी सुचरी च स<hi rend="check">khī</hi> <note> Corr. sādhvī</note> तथा ॥ पार्वती
-<lb n="6r15"/>नाम ॥ देव्यादेवी ईश्वरी च उमा <hi rend="check">vyatyapiti</hi> तथा गिरिजा मे
-<lb n="6r16" break="no"/>नकाश्चैव भवानी ह्युंबिका तथा आर्य्या <hi rend="check">XX</hi>वी गौरी शर्व
-<lb n="6r17" break="no"/>णी सर्वतां चंडि हैमवती चैव कालिका मुंद्रता शिव ॥
-<lb n="6r18"/>कृपा-नाम ॥ कृपा दया सुकं <note> Corr. śūkaṁ</note> <hi rend="check">pāsyāda</hi>नुक्रोश-दया<hi rend="check">tidhi (..)
-<lb n="6r19"/></hi>खड्ग-नाम ॥ असि-कुशेय <note> Corr. kaukṣeya</note>-रिष्टिश्च खड्गं च मंडलाग्र<hi rend="check">X</hi>
-
-<pb edRef="#msBL" n="6v"/>
-<fw n="6v" place="top-left"><num value="6">6</num></fw>
-<lb n="6v1"/> …
-<lb n="6v2"/> … ॥ नीच-नाम ॥ नीच-निर्गत<hi rend="check">te</hi> चैव
-<lb n="6v3"/>कुब्ज अंधक तथा ॥ आकाश-नाम ॥ अंबरं पुष्करं व्योमं न
-<lb n="6v4" break="no"/>...संतरिक्षं सुरवर्त्म विहायसं गगना
-<lb n="6v5" break="no"/>काशकश्चैव ऊडुगणगृहं <note> Corr. uḍugaṇagr̥haṁ</note> तथा ॥ संग्राम-नाम ॥ आयोधनं
-<lb n="6v6" break="no"/>च संग्रामं समरं युद्ध-संगमं ॥ सूदन-नाम ॥ सूक्ष्मदह्य<hi rend="check">X</hi>-लवं <note> Corr. lāvaṁ</note><hi rend="check">X
-<lb n="6v7" break="no"/></hi>वलहिन<hi rend="check">X</hi>शो<hi rend="check">dara</hi> ॥ मकरी-नाम ॥ सूनासूत्रामर्कटी च उर्ण
-<lb n="6v8" break="no"/><hi rend="check">māti</hi> तथैव च ॥ व<hi rend="check">rladhdhā</hi>सनिषथं <hi rend="check">saṁcarīnagabhr̥ṣṭalat</hi> ॥
-<lb n="6v9" break="no"/>दिशा-नाम ॥ कलाकाष्टाककुभगो दिश<hi rend="check">X</hi>दशभिति<hi rend="check">Xtaḥ
-<lb n="6v10" break="no"/></hi>॥ नदी-नाम ॥ सरिता-तरंगिनी चैव तटनी <note> Corr. taṭinī</note> ह्रदिनी धुनि <note> Corr. dhunī </note> स्रोत्र
-<lb n="6v11" break="no"/>वती निम्नगा च नदी स्रोत्रनीति च शैलवनी <note> Corr. śaivalinī</note> शैलाभंगी <hi rend="check">dvirakā
-<lb n="6v12"/></hi>जलपूरिता ॥ वृन्द-नाम ॥ साखी विटप-वृन्दश्च ऊजपादप
-<lb n="6v13" break="no"/>नुमस्तथा पत्रिदली कली चैव महीरुहव रु<hi rend="check">X</hi>हक त<hi rend="check">XXX
-<lb n="6v14"/></hi>तरुश्चैव छादकं तरुपत्रकं ॥ पवन-नाम ॥ स्वसनं <note> Corr. śvasanaṁ</note> सदागति चैव जगप्र
-<lb n="6v15" break="no"/>णं <del rend="strikeout">alilāka</del><add place="above">samīraka</add><hi rend="check">naṁgaṁdhakara</hi>-पवनं गमधवहं चैव । समीर-जलकंतक
-<lb n="6v16"/>(॥) ध्वनि-नाम ॥ निस्वनं <note> Corr. niḥsvanaṁ</note> निनदं नादं आकानं मुषरं रुतं ॥ वज्र-नाम
-<lb n="6v17"/>(॥) <hi rend="check">X</hi>सिनं कुलिशं वज्रं निश्वासं थीथरोतकः ॥ ल<hi rend="check">jaga</hi>-नाम ॥
-<pb edRef="#msBL" n="7r"/>
-<lb n="7r1"/> …कं तथा ॥ सपुत्र
-<lb n="7r2" break="no"/>ता-नाम ॥ अनुजं श्रवजरं चैव कनिष्ठं <hi rend="check">sapuśōdaraṁ</hi> ॥
-<lb n="7r3"/>पिता-नाम ॥ पिता तातं च जनक-<hi rend="check">guṇadhāna</hi>-युतस्तथा (॥)
-<lb n="7r4"/>विवाह-नाम ॥ परिणं <note> Corr. pariṇayaḥ</note> निवेशनं चैव नयनोद्वह-विवा
-<lb n="7r5" break="no"/>हकं ॥ मदिरा-नाम ॥ मदिरा माधी मधु चैव रेपं
-<lb n="7r6"/>वारुणी सुरा आसनं <note> Corr. prasannā ?</note> <hi rend="check">mayakāsiṁ XXdihāsiṁdhuX
-<lb n="7r7"/></hi>तथा ॥ समूह-नाम ॥ समूह-समुदायं च निकरं प्रकरं
-<lb n="7r8"/>तथा पटलं पुंगवकं पुरं संचयं निचयं तथा<hi rend="check">yuha
-<lb n="7r9" break="no"/></hi>दलं चैव कलाप-ब<hi rend="check">rudr̥ṁdaka</hi> ॥ <hi rend="check">vyati</hi><note>why vyati or maybe wrong transliteration</note>-नाम ॥ भृशं अ
-<lb n="7r10" break="no"/>तिशय-त्यर्थं नितांतं चाधिकं तथा ॥ अज्ञा-नाम ॥
-<lb n="7r11"/>आदेश-निदेशं च आज्ञा-शासन-योगकं ॥ दर-नाम (॥)
-<lb n="7r12"/>दरस्नेक ईषुधीत <hi rend="check">ca kamaṁdamanākapi akīmahacari
-<lb n="7r13"/></hi>चैव अलं दालपरं तथा ॥ जूती-नामा ॥ उपान<hi rend="check">sai</hi> पाद
-<lb n="7r14"/>पीठ-पादत्राण <note> Corr. pādatrāṇa</note>-मृ<hi rend="check">du</hi>स्तथा ॥ <hi rend="check">uccadhama</hi>-नाम ॥ सौध-ध
-<lb n="7r15" break="no"/>र्म्यं प्रशादं <note> Corr. prasādaṁ</note> च <hi rend="check">ujalaṁ</hi> जलधरं तथा ॥ मकरचांद्रनी-नाम (॥)
-<lb n="7r16"/>चंद्रिका कौमुदी ज्योत्स्ना महीचिचंद्रिका जिता ॥ गलि
-<lb n="7r17"/>नाम ॥ रथ्या-प्रतोलिका <hi rend="check">vīthāpamr̥paṁ arucavīti</hi> च
-<lb n="7r18"/>अंधकार-नाम ॥ अंधं तनिश्रं <note> Corr. tamisraṁ</note> ध्वांतं च कुहाली <hi rend="check">hā</hi>रकं तथा (॥)
-<pb edRef="#msBL" n="7v"/>
-<fw n="7v" place="top-left"><num value="7">7</num></fw>
-<lb n="7v1"/>वान-नाम ॥ उपवनं चैव उद्यानं कृत्तिमं वन-बृंह
-<lb n="7v2"/>कं ॥ अर्धरात्रि-नाम ॥ रात्री निशिथिनी चैव दिन
-<lb n="7v3"/>हाति कृत्तमं वतं ॥ वसंत-नाम ॥ ऋतु-राजं वसंतश्च कु
-<lb n="7v4" break="no"/>सुमाकर माधवं मधु-सुरभि पुकश्च पुष्पा<hi rend="check">pudhapradhapraghardvakaḥ</hi>॥<lb n="7v5"/>पक्षी-नाम ॥ द्विजः संकुति-पक्षी च सकुनि अंडजं तथा पत्र
-<lb n="7v6" break="no"/>पतत्री वियग <note> Corr. vihaga</note>-रटतश्च विहंगमं ॥अरुण-नाम ॥अरुणं श्रो
-<lb n="7v7" break="no"/>णितं रक्तं त्र्यारक्तं पुनिलोहितं ॥ <hi rend="check">pīyala</hi>-नाम ॥ चलंदलं 
-<lb n="7v8"/>पिय्यलं च गज <hi rend="check">aśvaptyavr̥kṣa</hi>क॥ आम्र-नाम ॥ आम्र
-<lb n="7v9" break="no"/>श्चूतौ रसालूसो सहकारितो सौरभ-पिकवल्लभभे 
-<lb n="7v10" break="no"/>ढं च मदिरासहकारक ॥ पाडर-नाम ॥ फलरूहा पा 
-<lb n="7v11" break="no"/>टली पाली वामास्यामा तथैव च अंबष्टाया सधुवती 
-<lb n="7v12"/>पाडरी कारिका तथा ॥ चंपक-नाभ ॥ मधूश्रवा मा
-<lb n="7v13" break="no"/>धवं च गदुपुष्प-मधुद्रुम-मधूक-मधुश्रष्टी च मऊमा
-<lb n="7v14" break="no"/>धूक<hi rend="check">śva</hi>स ॥ दाडिमी-नाम ॥ दाडिमी रक्तवीजं च हाली 
-<lb n="7v15"/>शुकप्रियं तथा ॥ कदली-नाम ॥ रंभा-मोचा-गजवशा 
-<lb n="7v16"/>कदली ऊरुवन्तथा ॥ वेल-नाम ॥ बिल्व-मालुर
-<pb edRef="#msBL" n="8r"/>
-<lb n="8r1"/>सुरभि नालसैलूफलास्तथ ॥ तमाल-नाम ॥ 
-<lb n="8r2"/>कालकं धरतायिछंतिंदुकं च तमालकं ॥ कदंब
-<lb n="8r3"/>नाम ॥ हलिप्रिय-नीयप्रिय कदंब-चलिका <hi rend="check">kra</hi>का 
-<lb n="8r4"/>॥ किंथुक-नाम ॥ वात्सपोथं ब्रस्वद्रुमं किंथुकं च 
-<lb n="8r5"/>पालाशकं ॥ वहे<hi rend="check">ḍā</hi>-नाम ॥ अछंविभीतके चैव क
-<lb n="8r6" break="no"/>लिदृक्षं संवर्तकं भूतवासं कर्षफलं बहेडं तर<hi rend="check">kai</hi> 
-<lb n="8r7" break="no"/>जति ॥ सुपारी-नाम ॥ घोटा क्रमुकपुत्राक पुंगीफ
-<lb n="8r8" break="no"/>ल-विरसं तथा कोलवल्लिकपिलता सुपारी देवपुं 
-<lb n="8r9" break="no"/>गीका ॥ मरिच-नाम ॥ कंकोला च कृ<hi rend="check">ddha</hi>फला नि<hi rend="check">lō
-<lb n="8r10" break="no"/></hi><hi rend="check">lā</hi> मरिचं तथा ॥ पीपर-नाम ॥ कोलाकृ<hi rend="check">ghmā</hi> माग
-<lb n="8r11" break="no"/>धी च तिग्मतं दुलकं तथा । स्पामा सु<hi rend="check">rī</hi>कहि चैव । 
-<lb n="8r12"/>पीपरि पिथलं तथा <add place="above">.. <hi rend="check">X</hi>तकी-नाम</add> ॥ कायस्था अमरता चैव तथ 
-    <lb n="8r13"/><hi rend="check">haibhabatītica</hi> ॥ हरितकी हरति च तथा द्विहरीतकी  
-<lb n="8r14"/>॥ सूंठि-नाम ॥ विस्वानागरिकं चैव सूंठि-लूंठी तथै 
-<lb n="8r15" break="no"/>वच मृंगी महैषधी चैव नाठीथूलनाशिती ॥ 
-<lb n="8r16"/>विद्रुम-नाम ॥ धमनिनषी नटी चैव कपोताघ्रि 
-<lb n="8r17"/>प्रवालिका ॥ दाषनाम • <hi rend="check">kisamisabhāṣayaṁ</hi> ।
-<pb edRef="#msBL" n="8v"/>
-<fw n="8v" place="top-left"><num value="8">8</num></fw>
-<lb n="8v1"/>सा<hi rend="check">dhī</hi> मृदीम<hi rend="check">dhka</hi>रसा गुडाडा च प्रपालिका ॥ 
-<lb n="8v2"/>गोस्तनी च चारुफला<hi rend="check">X</hi>क्षा क्ष<hi rend="check">X</hi> तथैव च ॥
-<lb n="8v3"/>केशर-नाम ॥ काश्मीर-कुंकुमरूचि केशरं देवव 
-<lb n="8v4" break="no"/><hi rend="check">Xla</hi>भा ॥ <hi rend="check">kharjajūthikā</hi>-नाम ॥ दिरण्या-वलिकाज 
-<lb n="8v5" break="no"/>थी तथा चहेमपुष्पिका जाईजूथी गूथी चैव स्व
-<lb n="8v6" break="no"/>र्जजूथी तथैव च ॥ मालती-नाम ॥ मल्लिका सु 
-<lb n="8v7" break="no"/>मनाजाति उत्रमगंध-व<hi rend="check">hā</hi>सुचि अंबष्टा-प्रियवा 
-<lb n="8v8" break="no"/>सिला मालति<hi rend="check">jūthikā</hi> तथा ॥ संजीविनी-नाम ॥ 
-<lb n="8v10"/>जीवति-म<hi rend="check">dhu</hi>-जीवाच-जीववं तमधुश्रावा ॥ कुंद
-<lb n="8v11"/>नामा ॥ लताललितमध्यं मुकुंदो कुंदरत्यपि 
-<lb n="8v13" break="no"/>नपुष्पकं ॥ गुंजा-नाम ॥ चिंचिका कृष्णला काक 
-<lb n="8v14"/>गुंजा-मुखर-स्वमता ॥ केतकी-नाम ॥ तृनद्रुमा <note> Corr. tr̥ṇadrumā</note> के
-<lb n="8v15" break="no"/>तकी च तालखर्जूरका तथा ॥ लवंग-नाम ॥ 
-<lb n="8v16"/>श्रीसंगं <note> Corr. śrīsañjñaṁ</note> देवकुसुमं लवंगे ललितं लता ॥ 
-<lb n="8v17"/>इलाची-नाम ॥ एला-कुलं वालुका <hi rend="check">be</hi>लि
-<pb edRef="#msBL" n="9r"/>
-	<lb n="9r1"/>trikuṭī caṁdrakaṁ nyakā .. mādhavī-nāma .. atyukta 
-	<lb n="9r2" break="no"/>vātimuktaśca pauṁḍuka vāsaṁtikaṁ tathā .. nāgalatā
-	<lb n="9r3"/>nāma .. tāṁbūla ahivallī ca di<hi rend="check">na</hi>jā nāgavalli 
-	<lb n="9r4" break="no"/>kā .. vaṭa-nāmā. jaṭī <hi rend="check">ve</hi>ṭī raktaphalā nigrōdhaṁ<hi rend="check">baka</hi> 
-	<lb n="9r5"/><hi rend="check">pādapu</hi>t .. sarōvara-nāma. hrada-puṣkara-kāsāra 
-	<lb n="9r6"/>sārasaṁ sarasī <hi rend="check">drahaṁ</hi> taḍāga-kumbhīkā kuṁḍaṁ tāla<hi rend="check">pānī</hi> 
-	<lb n="9r7"/>prapūrakaṁ .. kālīṁdrī <note> Corr. kāliṁdī</note>-nāma .. yamōnujā ca kāliṁdī 
-	<lb n="9r8"/>ravijākula hyaurasī ..  taṭa-nāmā .. upakaṁṭhaṁ puli 
-	<lb n="9r9" break="no"/>naṁ kalaṁ nikaṭō taṭakaṁ tathā .. vētasa-nāma .. vēta 
-	<lb n="9r10" break="no"/>śaṁ sīta-vikulaṁ <note> Corr. vidulaṁ</note> maṁjulaṁ vaṁjulaṁ tathā .. kōkila-nāma .. 
-	<lb n="9r11"/>kalaravaṁ parabhr̥taṁ caiva raktadr̥g pika-<hi rend="check">dhuni</hi> tathā .. 
-	<lb n="9r12"/>nā<del rend="strikeout">ra</del>da-nāma .. niśvanaṁ <note> Corr. nisvānaṁ</note> ninadaṁ nādaṁ mukharaṁ dhvani-rāva 
-	<lb n="9r13" break="no"/>kaṁ .. jugula-nāma .. jamālaṁ yugalaṁ dvaṁdvaṁ mithunaṁ
-	<lb n="9r14"/>dvai ubhēnica .. <hi rend="check">itiścī</hi> amarācāryyēṇa kr̥taṁ
-	<lb n="9r15"/>amaramālā saṁpūrṇam saṁ 1827 kālā<hi rend="check">XX
-		<lb n="9r16" break="no"/></hi><hi rend="check">kā8caṁra</hi> ī sa 1871 <hi rend="check">pharanaṭī</hi> 21 ajñē<hi rend="check">rama</hi>dhyē paṁḍi 
-	<lb n="9r17" break="no"/>tavāla<hi rend="check">bhukaṁ denasvanibhicāṁlipiX</hi>taṁ ..
-</ab>
+<div type="group">
+<lg met="anuṣṭubh" n="20">
+	<l n="a"><label type="headword">mōkṣa-nāma ||</label> mukti-amr̥ta-kaivālyaṁ</l>
+	<l n="b"><pb edRef="#msBL" n="2r"/><lb n="2r1"/>nirvāṇaṁ hyapavargakaṁ</l>
+	<l n="c">mahāsiddhipada-svarga-</l>
+	<l n="d">mukti-śrēyasa<lb n="2r2" break="no"/>stathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="21">
+	<l n="a"><label type="headword">rājā-nāma ||</label> svāmī bhūpati-bhūpaś ca</l>
+	<l n="b">adhipatiś ca pari<lb n="2r3" break="no"/><app><lem type="emn">vr̥ḍhaḥ</lem><rdg wit="#msBL">vr̥ḍhī</rdg></app><!-- Cf. AK 03.01.010–11ab: guṇaiḥ pratīte tu kṛtalakṣaṇāhatalakṣaṇau | ibhya āḍhyo dhanī svāmī tvīśvaraḥ patirīśitā || adhibhūr nāyako netā prabhuḥ parivṛḍho 'dhipaḥ | --></l>
+	<l n="c">adhīśaśca <app><lem type="emn">prabhuś</lem><rdg wit="#msBL">prabhu</rdg></app> caiva</l>
+	<l n="d">hyadhirājas tathaiva ca ||</l>
+</lg>
+<lg met="anuṣṭubh" n="22">
+	<l n="a"><label type="headword">maṁgala-nāma ||</label><!-- AK.01.03.025: śukro daityaguruḥ kāvya uśanā bhārgavaḥ kaviḥ | aṅgārakaḥ kujo bhaumo lohitāṅgo mahīsutaḥ || 25 || AṬS: aṅgārakaḥ kujo bhaumo lohitāṅgo mahīsutaḥ || 24 ||aṅgārakādayaḥ pañca maṅgale | agirgatyarthaḥ | mandāravad āran | bhaumaḥ | ‘śivādibhyo'ṇ’ (4. 1. 112) || --> <lb n="2r4"/>kujaḥ aṁgārakaś caiva</l>
+	<l n="b">lōhitāṁgō <app><lem type="emn">mahīsutaḥ</lem><rdg wit="#msBL">mahisutaḥ</rdg></app></l>
+	<l n="c"><hi rend="check">hāva</hi>bhālaka <lb n="2r5"/>kalkī ca</l>
+	<l n="d">bhavanaśca bhaumakastathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="23">
+	<l n="a"><label type="headword">śukra-nāma ||</label> śukrō daityaguru<lb n="2r6"/>kāvya</l>
+	<l n="b">uśanā-bhargava-kavi ||</l>
+	<l n="c"><label type="headword">br̥haspati-nāma ||</label> br̥haspati-dēvagu<lb n="2r7" break="no"/>rō</l>
+	<l n="d">dhiṣaṇā <hi rend="check">śrīṣaṁḍa</hi>-<hi rend="check">hyaṁ</hi>girāg<hi rend="check">hayali</hi>śca</l>
+	<l n="e">gurōś caiva tathā</l>
+	<l n="f"><lb n="2r8"/>dēvapurōhitaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="24">
+	<l n="a"><label type="headword">srōtā-nāma ||</label><!--Either the heading does not fit with all the terms, or the emendation kāśyapasuta is wrong, or we have to assume a gap in the text before kāśyapasuta.--> śaśigirī <note>Corr. <foreign>taraṁgiṇī</foreign>?</note> <add place="above">ca</add> jalaja-</l>
+	<l n="b">muktāguli <lb n="2r9" break="no"/>kaśīpasuta <note>Corr. <foreign>kāśyapasutaḥ</foreign>. Cf. <title>Vaijayantī</title> 1.1.37 <foreign>garuḍaḥ kāśyapasuto garutmān uragāśanaḥ | suparṇītanayas tārkṣyo vainateyo mahendrajit ||</foreign></note> ||</l>
+	<l n="c"><label type="headword">lakṣmī-nāma ||</label><!-- Cf. Vaijayantī 1.1.35cd–36: aṣṭakarmaparibhraṣṭo vītarāgaśca kevalī || lakṣmīḥ padmālayā śaktirmā kṣīrodasutendirā | ramābdhijā bhārgavī ca strīliṃgāścāṃbujāhvayāḥ ||--> lakṣmī-padmālayā-padmā</l>
+	<l n="d">ka<lb n="2r10" break="no"/>malā-śrī-haripriyā</l>
+</lg>
+<lg met="anuṣṭubh" n="25">
+	<l n="a">iṁdirā-lōkamātāmā <note>Corr. <foreign>lōkamātā</foreign></note></l>
+	<l n="b">capalā<hi rend="check">rkamahāmō</hi></l>
+	<l n="c"><lb n="2r11" break="no"/><hi rend="check">kṣīrābdhitanayā caiva</hi></l>
+	<l n="d"><hi rend="check">tathā </hi>ca vi<hi rend="check">ṣṇu</hi>va<hi rend="check">’</hi>bhabha <note>Corr. <foreign>viṣṇuvatsalā</foreign>?</note> <note>The reading <foreign>ṣṇu</foreign> is very uncertain. But if it is correct (or if this reading was originally intended) then we might emend <foreign>viṣṇuvatsalā</foreign>. But it doesn't look like this was actually written.</note><note>Could the last word be read as <foreign>vacchalā</foreign> = <foreign>vatsalā</foreign>?</note> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="26">
+	<l n="a"><label type="headword">mātā-nāma ||</label> <note><title>ACM</title> 557cd-558ab: <foreign>māturmātāmahādyevaṃ mātāmbā jananī prasūḥ || savitrī janayitrī ca kṛmilā tu bahuprasūḥ |</foreign></note> <lb n="2r12"/>aṁbā-<app><lem type="emn">jananī</lem><rdg wit="#msBL">janani</rdg></app>-sāvitrī-</l>
+	<l n="b">mātā-<hi rend="check">suja</hi>ni-iṁdirā ||</l>
+	<l n="c"><label type="headword">namaskāra-nāma ||</label> <lb n="2r13"/>abhivādanaṁ namasakāraḥ</l>
+	<l n="d">vadanaṁ praṇatiṁ tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="27">
+	<l n="a"><label type="headword">sīḍhī-nāma ||</label> <note>It is a Hindi word for ladder.</note> <lb n="2r14"/>ārōhaṇaṁ ca niśrēṇī</l>
+	<l n="b">sōpānaṁ ca maṇimayaṁ ||</l>
+	<l n="c"><label type="headword">kanyā-nāma ||</label> <lb n="2r15"/>duhitā kaṁnyakā putrī</l>
+	<l n="d">tanayā tanujā sutā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="28">
+	<l n="a"><label type="headword">śayyā-nāma ||</label> <lb n="2r16"/>kasīpu-talpa-śayyā ca</l>
+	<l n="b">śayana-saṁvēśanantathā</l>
+	<l n="c">dugdhaphēna<note>I don't understand what this term is doing here, unless it is a metaphor for semen.</note>-<lb n="2r17"/><hi rend="check">bhramā</hi>śayyā</l>
+	<l n="d">śayānīya tathaiva ca ||</l>
+</lg>
+<lg met="anuṣṭubh" n="29">
+	<l n="a"><label type="headword">kusuma-nāma ||</label> <lb n="2r18"/><unclear>pra</unclear>sūna-kusumaṁ puṣpaṁ</l>
+	<l n="b">sumanaśca sugaṁdhi-suma ||<note>this reading seems very doubtful</note><note>probably one final syllable and a spacing mark</note></l>
+	<l n="c"><pb edRef="#msBL" n="2v"/><fw n="2v" place="top-left"><num value="2">2</num></fw><lb n="2v1"/><label type="headword"><hi rend="check">utītā-nāma</hi> ||</label> <hi rend="check">uśanajutaṁ nōśadhānaṁ</hi></l>
+	<l n="d"><hi rend="check">kuṁḍuṁ sudhīrakaṁ</hi> <gap reason="illegible" quantity="3" unit="character"/></l>
+</lg>
+<lg met="anuṣṭubh" n="30">
+	<l n="a"><label type="headword">mukha-nāma ||</label> <lb n="2v2"/>ānanaṁ vadanaṁ āsyaṁ</l>
+	<l n="b">labhanaṁ <note>Corr. <foreign>lapanaṁ</foreign>?</note> vaktrakaṁ mukhaṁ<note><title>Pañcatattvaprakāśa</title>: <foreign>ānanaṃ vadanaṃ vaktraṃ mukham āsyaṃ radālayam | kākapakṣaṃ śikhā veṇir veṇī kuntalaśṛṅkhalā || 80 ||</foreign></note></l>
+	<l n="c">bhr̥<lb n="2v3" break="no"/>kuṭī <hi rend="check">pratimuṁkhaṁmu</hi><note>I have no serious idea. Just for the sake of offering something else <foreign>chavimuṁḍaṁrpamu</foreign>. At least <foreign>chavimuṁḍaṁ</foreign> may be plausible.</note></l>
+	<l n="d"><hi rend="check">kakharaṁchavi </hi>saṁpunaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="31">
+	<l n="a"><label type="headword">kēśa-nāma ||</label> śirōru<lb n="2v4" break="no"/>ha kacaḥ kēśaḥ</l>
+	<l n="b">alakaḥ kuṁtalastathā</l>
+	<l n="c">ci<hi rend="check">ku</hi>rē<note>looks more like <foreign>kipure</foreign> or <foreign>cipure</foreign> to me</note> <hi rend="check">śīkha</hi>rēvālī<note>unsure, especially the consonant after <foreign>śō</foreign> that has <foreign>u</foreign> below it. <foreign>śō ute vālō</foreign></note></l>
+	<l n="d"><hi rend="check">śa</hi><lb n="2v5" break="no"/><hi rend="check">ma</hi>jaṁ ca <hi rend="check">viśālakaḥ</hi><note>the reading seems correct to me, though the meaning doesn't seem to fit.</note> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="32">
+	<l n="a"><label type="headword">mastaka-nāma ||</label> lalāṭaṁ mastakaṁ caiva</l>
+	<l n="b">a<unclear>nī</unclear><lb n="2v6" break="no"/>kaṁ ca śirastathā ||</l>
+	<l n="c"><label type="headword">vāma-nāma ||</label> <hi rend="check">vāmāsitakuṁcitaṁ</hi> caiva</l>
+	<l n="d"><hi rend="check">kuṭilaṁ</hi><lb n="2v7" break="no"/><hi rend="check">bhr̥ku</hi>ṭīstathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="33">
+	<l n="a"><label type="headword">lōcana-nāma ||</label> lōcanaṁ aṁbakaṁ<note>I think we have <foreign>va</foreign> instead of <foreign>ba</foreign> and I cannot read a plain <foreign>kaṁ</foreign>.</note> nētraṁ</l>
+	<l n="b">nayanaṁ <lb n="2v8"/>ca<hi rend="check">kṣuṣa</hi>stathā <hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi><note>still unclear about the symbol just before word <foreign>karṇa-nāma</foreign></note><note>number 62 or 63?</note></l>
+	<l n="c"><label type="headword">karṇa-nāma ||</label> śravaṇa-śruti-śravaṁ-śavda</l>
+	<l n="d"><lb n="2v9"/>karṇaṁ <subst><del>śa</del><add place="above">sa</add></subst>vdagrāhakaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="34">
+	<l n="a"><label type="headword">hasta-nāma ||</label> hasta-pānī karaṁ caiva</l>
+	<l n="b">pra<hi rend="check">laṁba</hi><lb n="2v10" break="no"/>saya<gap reason="illegible" extent="unknown" unit="character"/>kaḥ<note>looks like <foreign>namanākukaḥ</foreign> but I am not yet getting what words are intended</note> ||</l>
+	<l n="c"><label type="headword">vanasī-nāma ||</label> varī caiva kavēnī <note><foreign>kuvenī</foreign>?</note></l>
+	<l n="d"><hi rend="check">hyāta</hi><note><foreign>syāta</foreign>?</note><hi rend="check">mīna</hi><lb n="2v11" break="no"/><hi rend="check">hā-ma</hi><hi rend="check">tsya</hi></l>
+	<l n="e"><hi rend="check">dhanika</hi><note><foreign>dhatimā</foreign>? <foreign>dhanimā</foreign>?</note><hi rend="check"> vestī vanasī </hi>caiva</l>
+	<l n="f">kaṁṭhaprāṇāvarōdhakaḥ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="35">
+	<l n="a"><lb n="2v12"/><label type="headword">adhara-nāma ||</label> ōṣṭha<note>what is the thing below this? is it actually <foreign>ṣṭhya</foreign>? but for the meaning, we don't want <foreign>y</foreign>.</note>ścaiva radaścaiva</l>
+	<l n="b">adharaśca rada-chavi<gap reason="illegible" extent="unknown" unit="character"/><note><foreign>damitaṁ</foreign>? <foreign>damiṁta</foreign>? <foreign>umitaṁ</foreign>?</note></l>
+	<l n="c"><lb n="2v13" break="no"/>makataścaiva tathā</l>
+	<l n="d"><hi rend="check">biṁbāsaṁ</hi><note><foreign>vināsa</foreign>? <foreign>viṁvāsa</foreign>?</note>ṇachavi ||</l>
+</lg>
+<lg met="anuṣṭubh" n="36">
+	<l n="a"><label type="headword">daṁta-nāma ||</label> radanaśca rada<lb n="2v14" break="no"/>ścaiva</l>
+	<l n="b">dvija-daṁta-<hi rend="check">hamimu</hi><hi rend="check">kha</hi><note>or <foreign>mukha</foreign>. I still don't understand what synonym for 'teeth' we have here.</note> ||</l>
+	<l n="c"><label type="headword">ḍhōrī-nāma ||</label><note>I don't know this term</note><!-- Me neither --> cibukaṁ cā<hi rend="check">ha</hi>cācaṁ ca</l>
+	<l n="d"><lb n="2v15"/><hi rend="check">ka</hi>nayōḥ rājitachavi ||</l>
+</lg>
+<lg met="anuṣṭubh" n="37">
+	<l n="a"><label type="headword">grīvā-nāma ||</label> galō nala-kaṁdharaśca</l>
+	<l n="b"><lb n="2v16"/>grīvā-kaṁḍhaka<hi rend="check">pō</hi>linī ||</l>
+	<l n="c"><label type="headword"><app><lem type="emn">urōja</lem><rdg wit="#msBL">uraja</rdg></app>-nāma ||</label> kucaṁ payōdharaṁ ūrjaṁ</l>
+	<l n="d"><lb n="2v17"/>stanau ūra-maṁḍalachavi ||</l>
+</lg>
+<lg met="anuṣṭubh" n="38">
+	<l n="a"><label type="headword">rōmarājī-nāma ||</label> rōmaṁ rājī ca <lb n="2v18"/>mavalī</l>
+	<l n="b">agalitaṁ tatirī<note><foreign>rō</foreign>?</note>mayaṁ</l>
+	<l n="c">rōmayaṁ rōmakaṁ ramyaṁ</l>
+	<l n="d">ūṁcitaṁ <pb edRef="#msBL" n="3r"/><!-- Arlo to continue here --><lb n="3r1"/>ca tanūruhaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="39">
+	<l n="a"><label type="headword"><hi rend="check">chuḍa</hi>-ghaṁṭikā-nāma ||</label><note>should be error for <foreign>cuḍā</foreign>?</note><note>the meaning doesn't fit. we must have <foreign>chudraghaṁṭikā</foreign>. see AK.02.06.110ab <foreign>haṃsakaḥ pādakaṭakaḥ kiṃkiṇī kṣudraghaṇṭikā</foreign>. Confusion of ch/kṣ is very common in Devanagari mss.</note><note>AM CK:253 Synonyms of Woman’s Girdle: <foreign>mekhalā, saptakī, kāñcī, kakṣyā, raśanā, ṅa kəṇḍit.</foreign></note> <app><lem type="emn">kiṁkiṇī</lem><rdg wit="#msBL">kiṁkinī</rdg></app>-rasanā kāṁcī</l>
+	<l n="b"><lb n="3r2"/><app><lem type="emn">mēkhalā</lem><rdg wit="#msBL">mēṣalā</rdg></app>-<hi rend="check">jāla</hi>kaṁ tathā</l>
+	<l n="c"><hi rend="check">chudrā valimanumāna</hi></l>
+	<l n="d"><hi rend="check">dyurdyurī vaṁra</hi><lb n="3r3" break="no"/><hi rend="check">mālikā</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="40">
+	<l n="a"><label type="headword"><hi rend="check">sarakasa-nāma</hi> ||</label><note>AM CK:50 Synonyms of Quiver: <foreign>tūṇo niṣaṅgas tūṇīraḥ, upāsaṅgaś ca bāṇadhiḥ, śaradhiś cāpi tūṇistrī, iṣudhir astriyāṁ bhavet.</foreign></note> <note>Corr. <foreign>śarakasa</foreign>?</note> <hi rend="check">upāsaṁgaśca</hi> <app><lem type="emn">tūṇīra</lem><rdg wit="#msBL"><hi rend="check">tūnīra</hi></rdg></app></l>
+	<l n="b"><hi rend="check">iṣudhī</hi> <lb n="3r4"/><hi rend="check">dhanuṣaṁgani</hi> ||</l>
+	<l n="c"><label type="headword"><hi rend="check">nūpura-nāma</hi> ||</label><note>AM CK:130 Synonyms of Bracelet: <foreign>mañjīra, pādakaṭaka, tulākoṭi, nūpura, ṅa gəlaṅ.</foreign></note> tulākōṭiśca maṁjira-</l>
+	<l n="d">nūpu<lb n="3r5" break="no"/>ra-<hi rend="check">ka</hi>nakastathā</l>
+	<l n="e">maṁjikā <hi rend="check">kuṁkuṇaputā</hi></l>
+	<l n="f"><hi rend="check">maṇisaṁjirakaśca</hi><lb n="3r6"/><hi rend="check">sa</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="41">
+	<l n="a"><label type="headword">vastra-nāma ||</label> <app><lem type="emn">dukūlaṁ</lem><rdg wit="#msBL">dūkūlaṁ</rdg></app> ca paṭaṁ lōlaṁ</l>
+	<l n="b">nicōlaṁ hyaṁbara<lb n="3r7" break="no"/>stathā</l>
+	<l n="c"><app><lem type="emn">vasanaṁ</lem><rdg wit="#msBL">vaśanaṁ</rdg></app> vastrakaṁ caiva</l>
+	<l n="d">sucīlaṁ vasucīṭakaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="42">
+	<l n="a"><label type="headword">tāṁbūla-<lb n="3r8" break="no"/>nāma ||</label> mukhavāsa-tāṁbūlaṁ</l>
+	<l n="b"><hi rend="check">dhajayānasakhirakaṁ</hi></l>
+	<l n="c">ahiva<lb n="3r9" break="no"/>dvitaralakaṁ caiva</l>
+	<l n="d">mukhamaṁḍanakāstathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="43">
+	<l n="a"><label type="headword"><app><lem type="emn">darppaṇa</lem><rdg wit="#msBL">darppana</rdg></app>-nāma ||</label><note>AM CK:219 Synonyms of Mirror: <foreign>ādarśa, ṅa pahyasan</foreign>. AM CK:227 Synonyms of Picture: <foreign>phalaka, ṅa vimba</foreign>.</note> <lb n="3r10"/>mukuṭaṁ prativiṁ <app><lem type="emn">biṁba</lem><rdg wit="#msBL">baṁba</rdg></app>-</l>
+	<l n="b">vyaṁjanaṁ-darppaṇaṁ tathā</l>
+	<l n="c">ādarśakaṁ mu<lb n="3r11" break="no"/>dvadārśakāṁ</l>
+	<l n="d">cakaṁ pāradarśakaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="44">
+	<l n="a"><label type="headword">muka-nāma ||</label> raka-cuṁcu<lb n="3r12"/>kakaṁścaiva</l>
+	<l n="b">mukaḥ kīra tathaiva ca ||</l>
+	<l n="c"><label type="headword">aṁ<hi rend="check">taḥya</hi>ni-nāma ||</label> <lb n="3r13"/>guptaṁ maṁtaritaṁ gūṭhaṁ</l>
+	<l n="d">dūrūhaṁ ca <app><lem type="emn">tirōhitaṁ</lem><rdg wit="#msBL">tirōhataṁ</rdg></app></l>
+	<l n="e">aṁ<hi rend="check">taḥya</hi>niṁ ti<lb n="3r14" break="no"/>rōdhyānaṁ</l>
+	<l n="f">pidhāna-chaṁdanāni ca ||</l>
+</lg>
+<lg met="anuṣṭubh" n="45">
+	<l n="a"><label type="headword">jala-nāma ||</label> aṁ<lb n="3r15" break="no"/>bu-payaṁ ca kamalaṁ</l>
+	<l n="b">kīlālamudakaṁ tathā</l>
+	<l n="c">puṣkataṁ <app><lem type="emn">bhuvana</lem><rdg wit="#msBL"><hi rend="check">vana</hi></rdg></app>-vā<lb n="3r16" break="no"/>rī ca</l>
+	<l n="d">amr̥taṁ jīvanaṁ aṁbhaṁ</l>
+</lg>
+<lg met="anuṣṭubh" n="46">
+	<l n="a"><add place="above">ka</add>-mēghapuṣpaṁ ca tōyaṁ ca</l>
+	<l n="b">kr̥<lb n="3r17" break="no"/>ṣī āyustathaiva ca</l>
+	<l n="c"><hi rend="check">..</hi> śaṁbharaṁ śalilaṁ tōyaṁ</l>
+	<l n="d">tathā pā<lb n="3r18" break="no"/>nī-prapādikā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="47">
+	<l n="a"><label type="headword"><hi rend="check">carṇa</hi>-nāma ||</label><note>unclear, maybe error for <foreign>cūrṇa</foreign>?</note> carṇaṁ ca palagativat</l>
+	<l n="b"><lb n="3r19"/>āṁ<hi rend="check"><gap reason="illegible" quantity="1" unit="character"/>pādayayā’</hi>kaṁ ||</l>
+	<l n="c"><label type="headword">vīṇā-nāma ||</label> vallakī <lb n="3r20"/>vīṇikātaṁtrī</l>
+	<l n="d">jaṁtrī <hi rend="check">varūri</hi> āhikā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="48">
+	<l n="a"><label type="headword">haridrā-nāma ||</label> <pb edRef="#msBL" n="3v"/><fw n="3v" place="top-left"><num value="3">3</num></fw><lb n="3v1"/>pītā-gaurikācanī ca</l>
+	<l n="b">haridra-vīrājanī tathā ||</l>
+	<l n="c"><label type="headword">bhakuṭī-nāma ||</label> <lb n="3v2"/>bhrūtaṁ <hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi> bhr̥kuṭī caiva</l>
+	<l n="d">karinālaṁ tathaiva ca ||</l>
+</lg>
+<lg met="anuṣṭubh" n="49">
+	<l n="a"><label type="headword">samaya-nāma ||</label> <lb n="3v3"/>kālaṁ samaya-vēlā ca</l>
+	<l n="b">anīhā-nimiṣaṁ tathā ||</l>
+	<l n="c"><label type="headword">kuśala-nāma ||</label> <lb n="3v4"/>kṣēmaṁ hyanāmayaṁ bhadraṁ</l>
+	<l n="d">śiva-śubha-bhavaṁ tatha</l>
+	<l n="e">śrēyaṁ kalyāṇakaṁ <lb n="3v5"/>caiva</l>
+	<l n="f">bhavyaṁ maṁgalakaṁ tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="50">
+	<l n="a"><label type="headword">saṁjñā-nāma ||</label> saṁjñā cāhvaya-gō<lb n="3v6" break="no"/><app><lem type="emn">traśca</lem><rdg wit="#msBL"><hi rend="check">yya</hi>śca</rdg></app></l>
+	<l n="b">kṣēmavāmatvanāmayaṁ ||</l>
+	<l n="c"><label type="headword">nārī-nāma ||</label> nārī vadhūśca va<lb n="3v7" break="no"/>nitā</l>
+	<l n="d">lalanā-strī tathaiva ca |</l>
+	<l n="e">yuvatī hyabalā-bālā</l>
+	<l n="f">hyaṁ<lb n="3v8" break="no"/>ganā pramadā <subst><del rend="strikeout">sta</del><add place="above">ta</add></subst>thā</l>
+</lg>
+<lg met="anuṣṭubh" n="51">
+	<l n="a">vāmākāṁtā ca bālā ca</l>
+	<l n="b">taruṇī-ramaṇī tathā</l>
+	<l n="c"><lb n="3v9"/>taru<hi rend="check">ṇī</hi> suṁdarī ca prayaṁ <note>Corr. <foreign>priyaṁ</foreign>?</note></l>
+	<l n="d">ca vidhi-laṁpaṭā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="52">
+	<l n="a"><label type="headword">brahmā-nāma ||</label> brahmātma<lb n="3v10" break="no"/>bhū svayaṁbhūśca</l>
+	<l n="b">dhātā sa<gap reason="illegible" quantity="1" unit="character"/>ti pitā</l>
+	<l n="c">vidhātā viśva-surajyēṣṭhā</l>
+	<l n="d"><lb n="3v11"/>caturānana-vidhistathā</l>
+	<l n="e">vēdhā kamalajaścaiva</l>
+	<l n="f">paramēṣṭhī pitā<lb n="3v12" break="no"/>mahā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="53">
+	<l n="a"><label type="headword">suṁdara-nāma ||</label> śubhaga-sumana-baṁdhuśca</l>
+	<l n="b">kamanīyaṁ su-pēśa<lb n="3v13" break="no"/>laṁ</l>
+	<l n="c">kamanīya-ramya-ruciraṁ</l>
+	<l n="d">suṁdaraṁ <hi rend="check">thu<gap reason="illegible" quantity="1" unit="character"/>kōnikaḥ</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="54">
+	<l n="a"><label type="headword">jyēṣṭapāṁḍava-<lb n="3v14"/>nāma ||</label> yudhiṣṭhirō dharmasunu-</l>
+	<l n="b">hyajātaripukastathā</l>
+	<l n="c">kauṁtēyaṁ <lb n="3v15"/>dharmmarūpaśca</l>
+	<l n="d">kururēva tathaiva ca ||</l>
+</lg>
+<lg met="anuṣṭubh" n="55">
+	<l n="a"><label type="headword">dīrgha-nāmā ||</label> dīrghaśca dā<lb n="3v16" break="no"/>ghulaśvāsō</l>
+	<l n="b">pr̥thu pāśa-viśālakaḥ ||</l>
+	<l n="c"><label type="headword">arjuna-nāma ||</label> vi<hi rend="check">ṣṇu</hi> <lb n="3v17"/><hi rend="check">dhanaṁjayaścaiva</hi></l>
+	<l n="d"><hi rend="check">guḍākēśaśca phālgunī</hi></l>
+</lg>
+<lg met="anuṣṭubh" n="56">
+	<l n="a"><hi rend="check">gāṁḍīva-dhanuṣī pārtha</hi></l>
+	<l n="b"><lb n="3v18"/><hi rend="check">pāṁḍavaśca kapidhvaja</hi></l>
+	<l n="c"><hi rend="check">arjunaṁ dhanudharaṁ caiva</hi></l>
+	<l n="d"><hi rend="check">kr̥ṣṇa-</hi><hi rend="check"><gap reason="illegible" quantity="2" unit="character"/>bhaka</hi><lb n="3v19" break="no"/><hi rend="check">stathā</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="57">
+	<l n="a"><label type="headword"><hi rend="check">gaṁgā-nāma</hi> ||</label> <hi rend="check">viṣṇupadī dēvanadī</hi></l>
+	<l n="b"><hi rend="check">naṁdā maṁdākinī</hi> <lb n="3v20"/><hi rend="check">tathā</hi></l>
+	<l n="c"><hi rend="check">gaṁgā bhāgīrathī jyōyāṁ</hi></l>
+	<l n="d"><hi rend="check">tripathagā klēśahāriṇī</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="58">
+	<l n="a"><pb edRef="#msBL" n="4r"/><lb n="4r1"/><label type="headword">kamala-nāmā ||</label> puṣkaraṁ puṁḍarīkaṁ ca</l>
+	<l n="b">kamalaṁ jalajastathā</l>
+	<l n="c"><lb n="4r2"/>paṁkajamaṁbhōja-padmaṁ ca</l>
+	<l n="d">aṁbujō <hi rend="check">tya</hi>lakaṁ tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="59">
+	<l n="a"><label type="headword">caṁdrama-nāma ||</label> <lb n="4r3"/>indu-kalānidhi-sōma-</l>
+	<l n="b">śaśi caiva sudhānidhi</l>
+	<l n="c">jaivātrikā hi<lb n="4r4" break="no"/>makara</l>
+	<l n="d">auṣadhīśa-niśākara ||</l>
+</lg>
+<lg met="anuṣṭubh" n="60">
+	<l n="a">kumudvaṁ <hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi> śrībaṁ <hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi> ūḍu<lb n="4r5" break="no"/>rāja-</l>
+	<l n="b">dvijapriya atriyā<hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi></l>
+	<l n="c">mr̥gāṁka-<hi rend="check">glau</hi> caṁdra-</l>
+	<l n="d">caṁdrānanā<lb n="4r6" break="no"/>pati ||</l>
+</lg>
+<lg met="anuṣṭubh" n="61">
+	<l n="a"><label type="headword">kāma-nāma ||</label><note>Totally different with AM CK, which mentions Aniruddha and Uṣāpati as the synonyms of Kāmadeva... Here it is not the case. So, maybe there is no direct relationship between this AM and AM CK.</note> madanō manmathō māra-</l>
+	<l n="b">bhava-paṁcaśarasta<lb n="4r7" break="no"/>thā</l>
+	<l n="c">kaṁdarpō mīnakētuśca</l>
+	<l n="d"><del rend="strikeout">ka</del> makaśdhaja <app><lem type="emn">manmatha</lem><rdg wit="#msBL">hyanmatha</rdg></app>-</l>
+	<l n="e">saṁbarada<lb n="4r8" break="no"/>lanānaṁga-</l>
+	<l n="f">viśvamōhana-mōhakr̥t ||</l>
+</lg>
+<lg met="anuṣṭubh" n="62">
+	<l n="a"><label type="headword">mēgha-nāma ||</label> dhārādha<lb n="4r9" break="no"/>rō jalaghara-</l>
+	<l n="b">jaladaṁ jagajīvanaṁ</l>
+	<l n="c">balāhakaścaivātimēghakr̥t <lb n="4r10"/>||</l>
+	<l n="d"><label type="headword">vijalī-nāma ||</label><note>non-Skt. this word is correlated with Gujarat?</note> taḍina-saudāmini-</l>
+	<l n="e">vidyut-caṁccalā-capa<lb n="4r11" break="no"/>lā<hi rend="check">ścā</hi>pi ||</l>
+</lg>
+<lg met="anuṣṭubh" n="63">
+	<l n="a"><label type="headword">sainya-nāma ||</label> <app><lem type="emn">pr̥tanā</lem><rdg wit="#msBL">pratanā</rdg></app> dhvajinī caiva</l>
+	<l n="b">vāhinī <lb n="4r12"/>ca varūthinī</l>
+	<l n="c">camū-sēnā <hi rend="check">mā</hi>vīcaiva</l>
+	<l n="d">tathāsaṁgrāma-kāri<lb n="4r13" break="no"/>ṇī ||</l>
+</lg>
+<lg met="anuṣṭubh" n="64">
+	<l n="a"><label type="headword">dhanuṣa-nāma ||</label> dhanu-kōdaṁḍa-cāpaśca</l>
+	<l n="b">kārmukaśca<lb n="4r14" break="no"/>pakastathā ||</l>
+	<l n="c"><label type="headword">bhramara-nāmā ||</label> <app><lem type="emn">madhukaraṁ</lem><rdg wit="#msBL">madhumadhukaraṁ</rdg></app> makaliḍa</l>
+	<l n="d"><lb n="4r15"/>ali-bhr̥ṁgaśca caṁcarī</l>
+	<l n="e">dvirēphaṁ bhramaraścaiva</l>
+	<l n="f">ṣaṭpada <lb n="4r16"/>kamalapriyā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="65">
+	<l n="a"><label type="headword">latā-nāma ||</label> vratatī viśatī vadantī</l>
+	<l n="b"><lb n="4r17"/>latā amara vēlika ||</l>
+	<l n="c"><label type="headword">mitra-nāma ||</label> muhr̥daṁ valla<lb n="4r18" break="no"/>bhaścaiva</l>
+	<l n="d">sakhā-<hi rend="check">prītamaka</hi>-priya ||</l>
+</lg>
+<lg met="anuṣṭubh" n="66">
+	<l n="a"><label type="headword">manuṣya-nāma ||</label> <pb edRef="#msBL" n="4v"/><fw n="4v" place="top-left"><num value="4">4</num></fw><lb n="4v1"/>manuṣyaṁ mānuṣaṁ martyaṁ</l>
+	<l n="b">nara-mānavaka-pumān ||</l>
+	<l n="c"><label type="headword">vēda-nāma ||</label> <lb n="4v2"/>śrātmā hyēkaśruti-brahma-</l>
+	<l n="d">nigamāgama-brahmastava</l>
+</lg>
+<lg met="anuṣṭubh" n="67">
+	<l n="a">dharmma<lb n="4v3" break="no"/>mūlaṁ ca vēdaśca</l>
+	<l n="b">dharmmamūlaṁ hyabhāvakr̥t ||</l>
+	<l n="c"><label type="headword"><hi rend="check">jōgīṣā</hi>-<lb n="4v4"/>nāma ||</label><note>maybe Prakrit form for <foreign>yōgīśa</foreign>?</note> jatī bratī tapī caiva</l>
+	<l n="d">jōgī nirmala-mānasaṁ</l>
+</lg>
+<lg met="anuṣṭubh" n="68">
+	<l n="a"><lb n="4v5"/>r̥ṣi-bhikṣuka-tāpasvī ||</l>
+	<l n="b">jñānadīpti-malāpahut</l>
+	<l n="c"><lb n="4v6"/><label type="headword">dharmma-namā ||</label> vaibasvata-pitr̥pati</l>
+	<l n="d">tathā saṁjamanī pati</l>
+</lg>
+<lg met="anuṣṭubh" n="69">
+	<l n="a"><lb n="4v7"/>kr̥tāṁnrōyamunābhrā <hi rend="check">tā</hi></l>
+	<l n="b"><hi rend="check">mahiṣadhvaja</hi> cāṁnaka</l>
+	<l n="c">guhyaka <lb n="4v8"/>aṁbakasakhā</l>
+	<l n="d">vaiśca vaṇaśca janēśvara ||</l>
+</lg>
+<lg met="anuṣṭubh" n="70">
+	<l n="a"><label type="headword">śēṣa-nāma ||</label><note>The synonyms are for Viṣṇu. The term <foreign>śeṣa</foreign> as heading seems inappropriate.</note> <lb n="4v9"/>śērṣēnaṁ nōsarppapati</l>
+	<l n="b">sahasra phaṇinastathā</l>
+	<l n="c">gharaṇī<lb n="4v10" break="no"/>ghara-mahāhīśa-</l>
+	<l n="d">vi<hi rend="check">ṣṇō</hi> vai<hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi>’varūpa hyaka ||</l>
+</lg>
+<lg met="anuṣṭubh" n="71">
+	<l n="a"><label type="headword">gaṇēśa-nāma <lb n="4v11"/>||</label> laṁbōdāśca hēraṁbō</l>
+	<l n="b">ghaimātura-gaṇādhipa-</l>
+	<l n="c">mūṣavāhana <lb n="4v12"/>gaṇapati</l>
+	<l n="d">gajavadanō hyumāsutaḥ</l>
+	<l n="e">ēkadaṁtaśca hēraṁbō</l>
+	<l n="f"><lb n="4v13"/>adi<hi rend="check">pū</hi>jyaśca vaikaṭō ||</l>
+</lg>
+<lg met="anuṣṭubh" n="72">
+	<l n="a"><label type="headword">janma-nāmā ||</label> bhavō bhavō rumanakaṁ</l>
+	<l n="b"><lb n="4v14"/>janani-janujanmani ||</l>
+	<l n="c"><label type="headword">dhūrta-nāma ||</label> vyājī ji<hi rend="check">ṇī</hi>bhī<hi rend="check">tra</hi> <lb n="4v15"/>kuṭilaṁ</l>
+	<l n="d">chamī karukakainavī ||</l>
+</lg>
+<lg met="anuṣṭubh" n="73">
+	<l n="a"><label type="headword">mr̥gava<hi rend="check">na</hi>-nāma ||</label> <lb n="4v16"/>ainaṁ hariṇa-sāraṁga-</l>
+	<l n="b">aiṇaśca mr̥ga nātapura ||</l>
+	<l n="c"><lb n="4v17"/><label type="headword">pāpa-nāma ||</label> iṣṭu-taṁduritaṁ caiva</l>
+	<l n="d">aghaṁ vr̥jina-pāpakaṁ |</l>
+</lg>
+<lg met="anuṣṭubh" n="74">
+	<l n="a"><pb edRef="#msBL" n="5r"/><lb n="5r1"/><label type="headword"><app><lem type="emn">pāṣāṇa</lem><rdg wit="#msBL">pāṣāna</rdg></app>-nāma ||</label> prasthōpalōpalapākhanaṁ</l>
+	<l n="b">pāhanaṁ parvataṁ tāthā ||</l>
+	<l n="c"><lb n="5r2"/><label type="headword">naukā-nāma ||</label> naukā-taraṇi pōtaṁ ca</l>
+	<l n="d"><app><lem type="emn">uḍūpaṁ</lem><rdg wit="#msBL">uḍapaṁ</rdg></app> jalajaṁ traka ||</l>
+</lg>
+<lg met="anuṣṭubh" n="75">
+	<l n="a"><label type="headword">rudhira-<lb n="5r3"/>nāma ||</label> <app><lem type="emn">śōṇitaṁ</lem><rdg wit="#msBL">śrōṇitaṁ</rdg></app> rākta-rudhiraṁ</l>
+	<l n="b">lōhitaṁ <hi rend="check">śōnaka</hi>stathā ||</l>
+	<l n="c"><label type="headword">rākṣasa-<lb n="5r4"/>nāma ||</label> <app><lem type="emn">kauṇapaṁ</lem><rdg wit="#msBL">kaunapaṁ</rdg></app> karvuraṁ caiva</l>
+	<l n="d">ratricara-niśācaraṁ</l>
+	<l n="e">yātudhānaṁ cā<lb n="5r5" break="no"/>suraṁ ca</l>
+	<l n="f">nikaṣātmaja-rākṣasaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="76">
+	<l n="a"><label type="headword">dhūri-nāma ||</label> dhūli-dhūmara-pāṁsu <lb n="5r6"/>ca</l>
+	<l n="b"><app><lem type="emn">śaṁkārō</lem><rdg wit="#msBL">śarkarā</rdg></app> rēṇu-<app><lem type="emn">pāṁsukaṁ</lem><rdg wit="#msBL">paṁkasaṁ</rdg></app> ||</l>
+	<l n="c"><label type="headword">mahādēva-nāma ||</label> gaṁgādharōṁdhakaripu</l>
+	<l n="d"><lb n="5r7"/>śūlapāṇi-śaśidhara-</l>
+</lg>
+<lg met="anuṣṭubh" n="77">
+	<l n="a">śaṁkara-sarva-śaṁbhuśca</l>
+	<l n="b">bhavō kāmaripustatha ||</l>
+	<l n="c"><lb n="5r8"/>pinākī-dhūrjaṭi-rudra-</l>
+	<l n="d">r̥ṣabhadhvaja-aṁbaka-</l>
+</lg>
+<lg met="anuṣṭubh" n="78">
+	<l n="a">ugrakapardi-bhūtapati</l>
+	<l n="b"><lb n="5r9"/>paśupatiśca hyamāpati</l>
+	<l n="c">śitakaṁṭhō nīlakaṁṭhaśca</l>
+	<l n="d">vāmadēva-ka<lb n="5r10" break="no"/>pālabhr̥t ||</l>
+</lg>
+<lg met="anuṣṭubh" n="79">
+	<l n="a"><label type="headword">sūrya-nāma ||</label> sūryō kiraṇa-pūṣāṁśu-</l>
+	<l n="b">gabhasti-ghr̥ṇara<lb n="5r11" break="no"/><app><lem type="emn">śmayaḥ</lem><rdg wit="#msBL">smayaḥ</rdg></app></l>
+	<l n="c">prabhākaraṁ dinakaraṁ</l>
+	<l n="d">vivasvā-nabhāskarō ravi-</l>
+</lg>
+<lg met="anuṣṭubh" n="80">
+	<l n="a">mārtaṁḍa-sa<lb n="5r12" break="no"/>vitā caiva</l>
+	<l n="b">pataṁgaśca pataṁjali-</l>
+	<l n="c">citrabhānu-ha<gap reason="illegible" quantity="1" unit="character"/>-bhānu</l>
+	<l n="d">aṁśumā<hi rend="check">ñ</hi><lb n="5r13"/>jagacākṣuṣa</l>
+	<l n="e">nagō pa<hi rend="check">dr̥</hi>nvaścaiva</l>
+	<l n="f">aṁbarō śa<gap reason="illegible" quantity="1" unit="character"/>-kāśyapaḥ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="81">
+	<l n="a"><label type="headword">mithyā-<lb n="5r14"/>nāma ||</label> mithyā-mōgha-mr̥ṣā caiva</l>
+	<l n="b">vyarthaṁ anr̥taṁ tathā</l>
+	<l n="c"><app><lem type="emn">nirartha</lem><rdg wit="#msBL">niratha</rdg></app><lb n="5r15" break="no"/>kaṁ mālīkaṁ ca</l>
+	<l n="d"><hi rend="check">hyaṁpavādār̥taṁ vataṁ</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="82">
+	<l n="a"><label type="headword">nikaṭa-nāma ||</label> saṁnni<lb n="5r16" break="no"/>dhiṁ pārśva-<app><lem type="emn">samīpaṁ</lem><rdg wit="#msBL">sāmīppaṁ</rdg></app></l>
+	<l n="b"><hi rend="check">mavidūrattaṭaṁ</hi> tathā ||</l>
+	<l n="c"><label type="headword">caṁdana-nāma ||</label> śā<lb n="5r17" break="no"/>baraṁ gaṁdhasāraṁ ca</l>
+	<l n="d"><app><lem type="emn">malayajaṁ</lem><rdg wit="#msBL">malayaṁ</rdg></app> bhadrapaṭī<hi rend="check">skaṁ</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="83">
+	<l n="a"><label type="headword">mīna-nāma ||</label> maka<hi rend="check">raḥ</hi> <lb n="5r18"/><app><lem type="emn">hyanimiṣaṁ</lem><rdg wit="#msBL">hyananmiṣaṁ</rdg></app> matsyaṁ</l>
+	<l n="b"><app><lem type="emn">pr̥thurōmā</lem><rdg wit="#msBL">prathurōmā</rdg></app> timistathā</l>
+	<l n="c">makaraṁ hyulūpyaṁḍa<lb n="5r19" break="no"/>bhava</l>
+	<l n="d">pāṭhīkaṣa-mīnakastathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="84">
+	<l n="a"><label type="headword">samudra-nāma ||</label> siṁdhū-śa<pb edRef="#msBL" n="5v"/><fw n="5v" place="top-left"><num value="5">5</num></fw><lb n="5v1" break="no"/>li<hi rend="check">laya</hi>ścaiva</l>
+	<l n="b">īrāvān saritāṁpati</l>
+	<l n="c">udadhi-samudna-maṁvōdha</l>
+	<l n="d"><lb n="5v2"/>pārāvāraṇāraśca <hi rend="check">sāgaraḥ</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="85">
+	<l n="a"><label type="headword">vanara-nāma ||</label> śākhāmr̥ga-kapiścaiva</l>
+	<l n="b"><lb n="5v3"/>plavagaśca plavaṁgamaṁ</l>
+	<l n="c">lāṁgūla-vānaraścaiva</l>
+	<l n="d">kīśa-kiṭakiṭā<lb n="5v4" break="no"/>kr̥ti ||</l>
+</lg>
+<lg met="anuṣṭubh" n="86">
+	<l n="a"><label type="headword">saṁkarṣaṇa-nāma ||</label> balabhadra-rauhinēyaṁ</l>
+	<l n="b">rāmaṁ saṁkarṣa<lb n="5v5" break="no"/>ṇaṁ valaṁ</l>
+	<l n="c">nīlāṁbarō haladhara-</l>
+	<l n="d">musalēyaṁ <app><lem type="emn">rēvatīpatiḥ</lem><rdg wit="#msBL">rēvātīpati</rdg></app> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="87">
+	<l n="a"><label type="headword">pr̥thvī-<lb n="5v6"/>nāma ||</label> kṣitīlā-pr̥thivī caiva</l>
+	<l n="b">dharaṇī dhatrī tathaiva ca ||</l>
+	<l n="c"><lb n="5v7"/><app><lem type="emn">urvī</lem><rdg wit="#msBL">ūrvī</rdg></app> vasumatī dharā</l>
+	<l n="d">kāśyapī mēdinīti ca ||</l>
+</lg>
+<lg met="anuṣṭubh" n="88">
+	<l n="a"><label type="headword"><app><lem type="emn">śara</lem><rdg wit="#msBL">sara</rdg></app>-nāma ||</label> <lb n="5v8"/><app><lem type="emn">khagājihmaga</lem><rdg wit="#msBL">khagajihmaga</rdg></app>-bāṇē ca</l>
+	<l n="b"><app><lem type="emn">viśikhaṁ</lem><rdg wit="#msBL">viśiṣaṁ</rdg></app> ca śīlīmukhaṁ</l>
+	<l n="c"><hi rend="check">karnanārgana<gap reason="illegible" quantity="1" unit="character"/></hi> <lb n="5v9"/><app><lem type="emn">ēva</lem><rdg wit="#msBL">ēca</rdg></app></l>
+	<l n="d">iṣu-<app><lem type="emn">sāyakaṁ</lem><rdg wit="#msBL">śāyakakaṁ</rdg></app> śaraṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="89">
+	<l n="a"><label type="headword">agni-nāma ||</label> pāvakaṁ bahni-<hi rend="check">damunaṁ</hi> <note>Corr. <foreign>damunasaḥ</foreign>(?)</note></l>
+	<l n="b"><lb n="5v10"/>jvalanaṁ ca dhanaṁjayaṁ</l>
+	<l n="c"><app><lem type="emn">uṣarbudhaṁ</lem><rdg wit="#msBL">ūṣarbudhaṁ</rdg></app> vāyusakhā</l>
+	<l n="d">vīti hōtraṁ <app><lem type="emn">jātavēda</lem><rdg wit="#msBL">catāvēda</rdg></app></l>
+</lg>
+<lg met="anuṣṭubh" n="90">
+	<l n="a"><lb n="5v11"/>citrabhānu-haribhanu</l>
+	<l n="b">analaṁ ca <app><lem type="emn">hutāśanaṁ</lem><rdg wit="#msBL">ūtāśanaṁ</rdg></app></l>
+	<l n="c">kr̥śānu hyagni<hi rend="check">ṇaṁ</hi> <lb n="5v12"/>ca</l>
+	<l n="d">pāvakaṁ pavanānakaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="91">
+	<l n="a"><label type="headword">sūḍha-nāma ||</label> mugdha-mūḍha-jaḍō maṁda</l>
+	<l n="b"><lb n="5v13"/>ajñō ka<hi rend="check">ḍakabhāṣaṇa</hi>-</l>
+	<l n="c">mūrkhō bhimānayukaśca |</l>
+	<l n="d">kalahī <hi rend="check">śreśa</hi><lb n="5v14"/><hi rend="check">natyaraḥ</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="92">
+	<l n="a"><label type="headword">’bhijña-nāma ||</label><note>unfamiliar</note> kōvidō kuśalō dhīraḥ</l>
+	<l n="b"><app><lem type="emn">pravīṇaṁ</lem><rdg wit="#msBL">pravīnaṁ</rdg></app> paṭu<hi rend="check">ka</hi><lb n="5v15"/>kr̥tī ||</l>
+	<l n="c"><label type="headword">aparādha-nāma ||</label> adhāṁśa-hēlanāhityaṁ</l>
+	<l n="d"><hi rend="check">āvārye</hi><lb n="5v16"/><hi rend="check">puruāni</hi>kat ||</l>
+</lg>
+<lg met="anuṣṭubh" n="93">
+	<l n="a"><label type="headword">snēha-nāma ||</label> <app><lem type="emn">hārdaṁ</lem><rdg wit="#msBL">ārdaṁ</rdg></app> snēhaṁ ca galitaṁ</l>
+	<l n="b">lalitaṁ <lb n="5v17"/>priya<hi rend="check">nāka-śu</hi>ci</l>
+	<l n="c">anurāgō nuragaśca</l>
+	<l n="d">priya-pritākarastatha <lb n="5v18"/>||</l>
+</lg>
+<lg met="anuṣṭubh" n="94">
+	<l n="a"><label type="headword">parvata-nāma ||</label> aga-nagaṁ bhūbhr̥taṁ caiva</l>
+	<l n="b">bhūdharaṁ giri-parvataṁ</l>
+	<l n="c"><lb n="5v19"/>hyupalaṁ śr̥ṁgī śiṣaraṁ</l>
+	<l n="d">nāgaṁ gōvardhanastathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="95">
+	<l n="a"><label type="headword">sarpa-nāma ||</label> <pb edRef="#msBL" n="6r"/><lb n="6r1"/>uragaḥ pannagō bhōgī</l>
+	<l n="b">jihmagaḥ pavanāśanaḥ</l>
+	<l n="c">bhujaṁgō sarpō <lb n="6r2"/>nāgaḥ</l>
+	<l n="d">kākōdara-bilēśaya-</l>
+</lg>
+<lg met="anuṣṭubh" n="96">
+	<l n="a"><app><lem type="emn">cakṣuḥśravā</lem><rdg wit="#msBL">cakṣuśravā</rdg></app>-darvikara</l>
+	<l n="b">āśī<lb n="6r3" break="no"/>viṣō viṣadhara-</l>
+	<l n="c">śēṣa-vyāla-sarīsr̥pa-</l>
+	<l n="d">vyalī ali-<hi rend="check">gō-jana</hi><lb n="6r4" break="no"/>ścaiva</l>
+	<l n="e"><hi rend="check">ku</hi>ṇimaṇi <hi rend="check">catai</hi>jita ||</l>
+</lg>
+<lg met="anuṣṭubh" n="97">
+	<l n="a"><label type="headword">pīḍā-nāma ||</label> bādhā-vya<lb n="6r5" break="no"/>thā-dūḥ<hi rend="check">kha</hi>śca</l>
+	<l n="b">pīḍā <hi rend="check">ādhigalāti</hi> ca ||</l>
+	<l n="c"><label type="headword">vana-nāma ||</label> kānanaṁ <lb n="6r6"/><hi rend="check">viṣavārarāyaṁ</hi></l>
+	<l n="d">gahanaṁ kāṁtāra-kachakaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="98">
+	<l n="a"><label type="headword">asura-nāma ||</label> danujaṁ <lb n="6r7"/>dānavaṁ daityaṁ</l>
+	<l n="b"><app><lem type="emn">surāri</lem><rdg wit="#msBL">surari</rdg></app>-puniyaṭāsaṁna</l>
+	<l n="c"><hi rend="check"><gap reason="illegible" quantity="4" unit="character"/></hi>dharō ’suraḥ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="99">
+	<l n="a"><label type="headword">viṣa-nāma ||</label> <lb n="6r8"/>hālāhalaśca garalaṁ</l>
+	<l n="b">kālakuṭaśca māraṇa ||</l>
+	<l n="c"><label type="headword"><hi rend="check">papāhā</hi>-nāma ||</label> <lb n="6r9"/><hi rend="check"><gap reason="illegible" quantity="2" unit="character"/> pūhahari cānaka</hi></l>
+	<l n="d"><lb n="6r10"/><gap reason="illegible" extent="unknown" unit="character"/> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="100">
+	<l n="a"><label type="headword">manōhara-nāma ||</label> manōramaṁ maṁju<lb n="6r11" break="no"/>laṁ</l>
+	<l n="b">maṁju uda<hi rend="check">graṁ</hi> lalitaṁ tathā ||</l>
+	<l n="c"><label type="headword">dhana-nāma ||</label> vasu-dravyaśca<hi rend="check"><gap reason="illegible" quantity="2" unit="character"/></hi></l>
+	<l n="d"><lb n="6r12"/>vittārtha-sukhavē<hi rend="check">dhaḥ</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="101">
+	<l n="a"><label type="headword">dāsī-nāma ||</label> puṁścalī <app><lem type="emn">dāsikā</lem><rdg wit="#msBL">dāsīkā</rdg></app> caiva</l>
+	<l n="b">manu<hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi><lb n="6r13" break="no"/>rpana-jōṣitā ||</l>
+	<l n="c"><label type="headword">pativratā-nāma ||</label> manasvi<hi rend="check">tī</hi> satī caiva</l>
+	<l n="d">sucarī ca <lb n="6r14"/>pativratā</l>
+	<l n="e">satya<hi rend="check">vradharta</hi>vratā carī</l>
+	<l n="f">sucarī ca <app><lem type="emn">sādhvī</lem><rdg wit="#msBL">sa<hi rend="check">khī</hi></rdg></app> tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="102">
+	<l n="a"><label type="headword">pārvatī-<lb n="6r15"/>nāma ||</label> dēvyādēvī īśvarī ca</l>
+	<l n="b">umā <hi rend="check">vyatyapiti</hi> tathā</l>
+	<l n="c">girijā mē<lb n="6r16" break="no"/>nakāścaiva</l>
+	<l n="d">bhavānī hyuṁbikā tathā</l>
+</lg>
+<lg met="anuṣṭubh" n="103">
+	<l n="a">āryyā <hi rend="check"><gap reason="illegible" quantity="2" unit="character"/></hi>vī gaurī</l>
+	<l n="b">śarva<lb n="6r17" break="no"/>ṇī sarvatāṁ caṁḍi</l>
+	<l n="c">haimavatī caiva kālikā</l>
+	<l n="d">muṁdratā śiva ||</l>
+</lg>
+<lg met="anuṣṭubh" n="104">
+	<l n="a"><lb n="6r18"/><label type="headword">kr̥pā-nāma ||</label> kr̥pā dayā <app><lem type="emn">śūkaṁ</lem><rdg wit="#msBL">sukaṁ</rdg></app> <hi rend="check">pāsyā</hi></l>
+	<l n="b"><hi rend="check">da</hi>nukrōśa-dayā<hi rend="check">tidhi</hi> <unclear>||</unclear></l>
+	<l n="c"><lb n="6r19"/><label type="headword">khaḍga-nāma ||</label> asi-<app><lem type="emn">kaukṣēya</lem><rdg wit="#msBL">kuśēya</rdg></app>-riṣṭiśca</l>
+	<l n="d">khaḍgaṁ ca maṁḍalāgra<hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi></l>
+	<l n="e"><pb edRef="#msBL" n="6v"/><fw n="6v" place="top-left"><num value="6">6</num></fw><lb n="6v1"/><gap reason="illegible" extent="unknown" unit="character"/> <lb n="6v2"/><gap reason="illegible" extent="unknown" unit="character"/> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="105">
+	<l n="a"><label type="headword">nīca-nāma ||</label> nīca-nirgata<hi rend="check">te</hi> caiva</l>
+	<l n="b"><lb n="6v3"/>kubja aṁdhaka tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="106">
+	<l n="a"><label type="headword">ākāśa-nāma ||</label> aṁbaraṁ puṣkaraṁ vyōmaṁ</l>
+	<l n="b">na<lb n="6v4" break="no"/><gap reason="illegible" extent="unknown" unit="character"/>saṁtarikṣaṁ</l>
+	<l n="c">suravartma vihāyasaṁ</l>
+	<l n="d">gaganā<lb n="6v5" break="no"/>kāśakaścaiva</l>
+	<l n="e"><app><lem type="emn">uḍugaṇagr̥haṁ</lem><rdg wit="#msBL">ūḍugaṇagr̥haṁ</rdg></app> tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="107">
+	<l n="a"><label type="headword">saṁgrāma-nāma ||</label> āyōdhanaṁ<lb n="6v6" break="no"/>ca saṁgrāmaṁ</l>
+	<l n="b">samaraṁ yuddha-saṁgamaṁ ||</l>
+	<l n="c"><label type="headword">sūdana-nāma ||</label> sūkṣmadahya<hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi>-<app><lem type="emn">lāvaṁ</lem><rdg wit="#msBL">lavaṁ</rdg></app><hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi></l>
+	<l n="d"><lb n="6v7" break="no"/>valahina<hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi>śō<hi rend="check">dara</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="108">
+	<l n="a"><label type="headword">makarī-nāma ||</label> sūnāsūtrāmarkaṭī ca</l>
+	<l n="b">urṇa<lb n="6v8" break="no"/><hi rend="check">māti</hi> tathaiva ca ||</l>
+	<l n="c">va<hi rend="check">rladhdhā</hi>saniṣathaṁ</l>
+	<l n="d"><hi rend="check">saṁcarīnagabhr̥ṣṭalat</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="109">
+	<l n="a"><lb n="6v9" break="no"/><label type="headword">diśā-nāma ||</label> kalākāṣṭākakubhagō</l>
+	<l n="b">diśa<hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi>daśabhiti<hi rend="check"><gap reason="illegible" quantity="1" unit="character"/>taḥ</hi><lb n="6v10" break="no"/> ||</l>
+	<l n="c"><label type="headword">nadī-nāma ||</label> saritā-taraṁginī caiva</l>
+	<l n="d"><app><lem type="emn">taṭinī</lem><rdg wit="#msBL">taṭanī</rdg></app> hradinī <app><lem type="emn">dhunī</lem><rdg wit="#msBL">dhuni</rdg></app></l>
+</lg>
+<lg met="anuṣṭubh" n="110">
+	<l n="a">srōtra<lb n="6v11" break="no"/>vatī nimnagā ca</l>
+	<l n="b">nadī srōtranīti ca</l>
+	<l n="c"><app><lem type="emn">śaivalinī</lem><rdg wit="#msBL">śailavanī</rdg></app> śailābhaṁgī</l>
+	<l n="d"><hi rend="check">dvirakā</hi><lb n="6v12"/>jalapūritā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="111">
+	<l n="a"><label type="headword">vr̥nda-nāma ||</label> sākhī viṭapa-vr̥ndaśca</l>
+	<l n="b">ūjapādapa<lb n="6v13" break="no"/>numastathā</l>
+	<l n="c">patridalī kalī caiva</l>
+	<l n="d">mahīruhava ru<hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi>haka</l>
+	<l n="e">ta<hi rend="check"><gap reason="illegible" quantity="3" unit="character"/></hi><lb n="6v14"/>taruścaiva</l>
+	<l n="f">chādakaṁ tarupatrakaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="112">
+	<l n="a"><label type="headword">pavana-nāma ||</label> <app><lem type="emn">śvasanaṁ</lem><rdg wit="#msBL">svasanaṁ</rdg></app> sadāgati caiva</l>
+	<l n="b">jagapra<lb n="6v15" break="no"/>ṇaṁ <subst><del rend="strikeout">alilāka</del><add place="above">samīraka</add></subst></l>
+	<l n="c"><hi rend="check">naṁgaṁdhakara</hi>-pavanaṁ</l>
+	<l n="d">gamadhavahaṁ caiva |</l>
+	<l n="e">samīra-jalakaṁtaka <lb n="6v16"/><unclear>||</unclear></l>
+</lg>
+<lg met="anuṣṭubh" n="113">
+	<l n="a"><label type="headword">dhvani-nāma ||</label> <app><lem type="emn">niḥsvanaṁ</lem><rdg wit="#msBL">nisvanaṁ</rdg></app> ninadaṁ nādaṁ</l>
+	<l n="b">ākānaṁ muṣaraṁ rutaṁ ||</l>
+	<l n="c"><label type="headword">vajra-nāma <lb n="6v17"/><unclear>||</unclear></label> <hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi>sinaṁ kuliśaṁ vajraṁ</l>
+	<l n="d">niśvāsaṁ thītharōtakaḥ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="114">
+	<l n="a"><label type="headword">la<hi rend="check">jaga</hi>-nāma ||</label> <pb edRef="#msBL" n="7r"/><lb n="7r1"/><gap reason="illegible" extent="unknown" unit="character"/>kaṁ tathā ||</l>
+	<l n="b"><label type="headword">saputra<lb n="7r2" break="no"/>tā-nāma ||</label> anujaṁ śravajaraṁ caiva</l>
+	<l n="c">kaniṣṭhaṁ <hi rend="check">sapuśōdaraṁ</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="115">
+	<l n="a"><label type="headword">pitā-nāma ||</label> <lb n="7r3"/>pitā tātaṁ ca janaka-</l>
+	<l n="b"><hi rend="check">guṇadhāna</hi>-yutastathā <unclear>||</unclear></l>
+	<l n="c"><label type="headword">vivāha-nāma ||</label> <lb n="7r4"/><app><lem type="emn">pariṇayaḥ</lem><rdg wit="#msBL">pariṇaṁ</rdg></app> nivēśanaṁ caiva</l>
+	<l n="d">nayanōdvaha-vivā<lb n="7r5" break="no"/>hakaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="116">
+	<l n="a"><label type="headword">madirā-nāma ||</label> madirā mādhī madhu caiva</l>
+	<l n="b">rēpaṁ <lb n="7r6"/>vāruṇī surā</l>
+	<l n="c">āsanaṁ <note>Corr. <foreign>prasannā</foreign>?</note> <hi rend="check">mayakāsiṁ</hi></l>
+	<l n="d"><hi rend="check"><gap reason="illegible" quantity="2" unit="character"/>dihāsiṁdhu<gap reason="illegible" quantity="1" unit="character"/></hi><lb n="7r7"/>tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="117">
+	<l n="a"><label type="headword">samūha-nāma ||</label> samūha-samudāyaṁ ca</l>
+	<l n="b">nikaraṁ prakaraṁ <lb n="7r8"/>tathā</l>
+	<l n="c">paṭalaṁ puṁgavakaṁ puraṁ</l>
+	<l n="d">saṁcayaṁ nicayaṁ tathā</l>
+	<l n="e"><hi rend="check">yuha</hi><lb n="7r9" break="no"/>dalaṁ caiva</l>
+	<l n="f">kalāpa-ba<hi rend="check">rudr̥ṁdaka</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="118">
+	<l n="a"><label type="headword"><hi rend="check">vyati</hi>-nāma ||</label><note>why <foreign>vyati</foreign> or maybe wrong transliteration</note> bhr̥śaṁ a<lb n="7r10" break="no"/>tiśaya-tyarthaṁ</l>
+	<l n="b">nitāṁtaṁ cādhikaṁ tathā ||</l>
+	<l n="c"><label type="headword">ajñā-nāma ||</label> <lb n="7r11"/>ādēśa-nidēśaṁ ca</l>
+	<l n="d">ājñā-śāsana-yōgakaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="119">
+	<l n="a"><label type="headword">dara-nāma <unclear>||</unclear></label> <lb n="7r12"/>darasnēka īṣudhīta</l>
+	<l n="b"><hi rend="check">ca kamaṁdamanākapi</hi></l>
+	<l n="c"><hi rend="check">akīmahacari</hi> <lb n="7r13"/>caiva</l>
+	<l n="d">alaṁ dālaparaṁ tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="120">
+	<l n="a"><label type="headword">jūtī-nāmā ||</label> upāna<hi rend="check">sai</hi> pāda<lb n="7r14"/>pīṭha-</l>
+	<l n="b">pādatrāṇa-mr̥<hi rend="check">du</hi>stathā ||</l>
+	<l n="c"><label type="headword"><hi rend="check">uccadhama</hi>-nāma ||</label> saudha-dha<lb n="7r15" break="no"/>rmyaṁ <app><lem type="emn">prasādaṁ</lem><rdg wit="#msBL">praśādaṁ</rdg></app> ca</l>
+	<l n="d"><hi rend="check">ujalaṁ</hi> jaladharaṁ tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="121">
+	<l n="a"><label type="headword">makaracāṁdranī-nāma <unclear>||</unclear></label> <lb n="7r16"/>caṁdrikā kaumudī jyōtsnā</l>
+	<l n="b">mahīcicaṁdrikā jitā ||</l>
+	<l n="c"><label type="headword">gali-<lb n="7r17"/>nāma ||</label> rathyā-pratōlikā <hi rend="check">vīthā</hi></l>
+	<l n="d"><hi rend="check">pamr̥paṁ arucavīti</hi> ca</l>
+</lg>
+<lg met="anuṣṭubh" n="122">
+	<l n="a"><lb n="7r18"/><label type="headword">aṁdhakāra-nāma ||</label> aṁdhaṁ <app><lem type="emn">tamisraṁ</lem><rdg wit="#msBL">taniśraṁ</rdg></app> dhvāṁtaṁ ca</l>
+	<l n="b">kuhālī <hi rend="check">hā</hi>rakaṁ tathā <unclear>||</unclear></l>
+	<l n="c"><pb edRef="#msBL" n="7v"/><fw n="7v" place="top-left"><num value="7">7</num></fw><lb n="7v1"/><label type="headword">vāna-nāma ||</label> upavanaṁ caiva udyānaṁ</l>
+	<l n="d">kr̥ttimaṁ vana-br̥ṁha<lb n="7v2"/>kaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="123">
+	<l n="a"><label type="headword">ardharātri-nāma ||</label> rātrī niśithinī caiva</l>
+	<l n="b">dina<lb n="7v3"/>hāti kr̥ttamaṁ vataṁ ||</l>
+	<l n="c"><label type="headword">vasaṁta-nāma ||</label> r̥tu-rājaṁ vasaṁtaśca</l>
+	<l n="d">ku<lb n="7v4" break="no"/>sumākara mādhavaṁ</l>
+	<l n="e">madhu-surabhi pukaśca</l>
+	<l n="f">puṣpā<hi rend="check">pudhapradhapraghardvakaḥ</hi> ||</l>
+</lg>
+<lg met="anuṣṭubh" n="124">
+	<l n="a"><lb n="7v5"/><label type="headword">pakṣī-nāma ||</label> dvijaḥ saṁkuti-pakṣī ca</l>
+	<l n="b">sakuni aṁḍajaṁ tathā</l>
+	<l n="c">patra<lb n="7v6" break="no"/>patatrī <app><lem type="emn">vihaga</lem><rdg wit="#msBL">viyaga</rdg></app>-</l>
+	<l n="d">raṭataśca vihaṁgamaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="125">
+	<l n="a"><label type="headword">aruṇa-nāma ||</label> aruṇaṁ śrō<lb n="7v7" break="no"/>ṇitaṁ raktaṁ</l>
+	<l n="b">tryāraktaṁ punilōhitaṁ ||</l>
+	<l n="c"><label type="headword"><hi rend="check">pīyala</hi>-nāma ||</label> calaṁdalaṁ <lb n="7v8"/>piyyalaṁ ca</l>
+	<l n="d">gaja <hi rend="check">aśvaptyavr̥kṣa</hi>ka ||</l>
+</lg>
+<lg met="anuṣṭubh" n="126">
+	<l n="a"><label type="headword">āmra-nāma ||</label> āmra<lb n="7v9" break="no"/>ścūtau rasālūsō</l>
+	<l n="b">sahakāritō saurabha-</l>
+	<l n="c">pikavallabhabhē<lb n="7v10" break="no"/>ḍhaṁ ca</l>
+	<l n="d">madirāsahakāraka ||</l>
+</lg>
+<lg met="anuṣṭubh" n="127">
+	<l n="a"><label type="headword">pāḍara-nāma ||</label> phalarūhā pā<lb n="7v11" break="no"/>ṭalī pālī</l>
+	<l n="b">vāmāsyāmā tathaiva ca</l>
+	<l n="c">aṁbaṣṭāyā sadhuvatī</l>
+	<l n="d"><lb n="7v12"/>pāḍarī kārikā tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="128">
+	<l n="a"><label type="headword">caṁpaka-nābha ||</label> madhūśravā mā<lb n="7v13" break="no"/>dhavaṁ ca</l>
+	<l n="b">gadupuṣpa-madhudruma-</l>
+	<l n="c">madhūka-madhuśraṣṭī ca</l>
+	<l n="d">maūmā<lb n="7v14" break="no"/>dhūka<hi rend="check">śva</hi>sa ||</l>
+</lg>
+<lg met="anuṣṭubh" n="129">
+	<l n="a"><label type="headword">dāḍimī-nāma ||</label> dāḍimī raktavījaṁ ca</l>
+	<l n="b">hālī <lb n="7v15"/>śukapriyaṁ tathā ||</l>
+	<l n="c"><label type="headword">kadalī-nāma ||</label> raṁbhā-mōcā-gajavaśā</l>
+	<l n="d"><lb n="7v16"/>kadalī ūruvantathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="130">
+	<l n="a"><label type="headword">vēla-nāma ||</label> bilva-mālura<pb edRef="#msBL" n="8r"/><lb n="8r1"/>surabhi</l>
+	<l n="b">nālasailūphalāstatha ||</l>
+	<l n="c"><label type="headword">tamāla-nāma ||</label> <lb n="8r2"/>kālakaṁ dharatāyichaṁ</l>
+	<l n="d">tiṁdukaṁ ca tamālakaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="131">
+	<l n="a"><label type="headword">kadaṁba-<lb n="8r3"/>nāma ||</label> halipriya-nīyapriya</l>
+	<l n="b">kadaṁba-calikā <hi rend="check">kra</hi>kā <lb n="8r4"/>||</l>
+	<l n="c"><label type="headword">kiṁthuka-nāma ||</label> vātsapōthaṁ brasvadrumaṁ</l>
+	<l n="d">kiṁthukaṁ ca <lb n="8r5"/>pālāśakaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="132">
+	<l n="a"><label type="headword">vahē<hi rend="check">ḍā</hi>-nāma ||</label> achaṁvibhītakē caiva</l>
+	<l n="b">ka<lb n="8r6" break="no"/>lidr̥kṣaṁ saṁvartakaṁ</l>
+	<l n="c">bhūtavāsaṁ karṣaphalaṁ</l>
+	<l n="d">bahēḍaṁ tara<hi rend="check">kai</hi><lb n="8r7" break="no"/>jati ||</l>
+</lg>
+<lg met="anuṣṭubh" n="133">
+	<l n="a"><label type="headword">supārī-nāma ||</label> ghōṭā kramukaputrāka</l>
+	<l n="b">puṁgīpha<lb n="8r8" break="no"/>la-virasaṁ tathā</l>
+	<l n="c">kōlavallikapilatā</l>
+	<l n="d">supārī dēvapuṁ<lb n="8r9" break="no"/>gīkā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="134">
+	<l n="a"><label type="headword">marica-nāma ||</label> kaṁkōlā ca kr̥<hi rend="check">ddha</hi>phalā</l>
+	<l n="b">ni<hi rend="check">lō</hi><lb n="8r10" break="no"/><hi rend="check">lā</hi> maricaṁ tathā ||</l>
+	<l n="c"><label type="headword">pīpara-nāma ||</label> kōlākr̥<hi rend="check">ghmā</hi> māga<lb n="8r11" break="no"/>dhī ca</l>
+	<l n="d">tigmataṁ dulakaṁ tathā |</l>
+	<l n="e">spāmā su<hi rend="check">rī</hi>kahi caiva |</l>
+	<l n="f"><lb n="8r12"/>pīpari pithalaṁ tathā</l>
+</lg>
+<lg met="anuṣṭubh" n="135">
+	<l n="a"><label type="headword"><add place="above"><hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi>takī-nāma</add> ||</label> kāyasthā amaratā caiva</l>
+	<l n="b">tatha <lb n="8r13"/><hi rend="check">haibhabatītica</hi> ||</l>
+	<l n="c">haritakī harati ca</l>
+	<l n="d">tathā dviharītakī <lb n="8r14"/>||</l>
+</lg>
+<lg met="anuṣṭubh" n="136">
+	<l n="a"><label type="headword">sūṁṭhi-nāma ||</label> visvānāgarikaṁ caiva</l>
+	<l n="b">sūṁṭhi-lūṁṭhī tathai<lb n="8r15" break="no"/>va ca</l>
+	<l n="c">mr̥ṁgī mahaiṣadhī caiva</l>
+	<l n="d">nāṭhīthūlanāśitī ||</l>
+	<l n="e"><lb n="8r16"/><label type="headword">vidruma-nāma ||</label> dhamaninaṣī naṭī caiva</l>
+	<l n="f">kapōtāghri <lb n="8r17"/>pravālikā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="137">
+	<l n="a"><label type="headword">dāṣa-nāma ||</label> <hi rend="check">kisamisabhāṣayaṁ</hi> |</l>
+	<l n="b"><pb edRef="#msBL" n="8v"/><fw n="8v" place="top-left"><num value="8">8</num></fw><lb n="8v1"/>sā<hi rend="check">dhī</hi> mr̥dīma<hi rend="check">dhka</hi>rasā</l>
+	<l n="c">guḍāḍā ca prapālikā ||</l>
+	<l n="d"><lb n="8v2"/>gōstanī ca cāruphalā<hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi></l>
+	<l n="e">kṣā kṣa<hi rend="check"><gap reason="illegible" quantity="1" unit="character"/></hi> tathaiva ca ||</l>
+</lg>
+<lg met="anuṣṭubh" n="138">
+	<l n="a"><lb n="8v3"/><label type="headword">kēśara-nāma ||</label> kāśmīra-kuṁkumarūci</l>
+	<l n="b">kēśaraṁ dēvava<lb n="8v4" break="no"/><hi rend="check"><gap reason="illegible" quantity="1" unit="character"/>la</hi>bhā ||</l>
+	<l n="c"><label type="headword"><hi rend="check">kharjajūthikā</hi>-nāma ||</label> diraṇyā-valikāja<lb n="8v5" break="no"/>thī</l>
+	<l n="d">tathā cahēmapuṣpikā</l>
+	<l n="e">jāījūthī gūthī caiva</l>
+	<l n="f">sva<lb n="8v6" break="no"/>rjajūthī tathaiva ca ||</l>
+</lg>
+<lg met="anuṣṭubh" n="139">
+	<l n="a"><label type="headword">mālatī-nāma ||</label> mallikā su<lb n="8v7" break="no"/>manājāti</l>
+	<l n="b">utramagaṁdha-va<hi rend="check">hā</hi>suci</l>
+	<l n="c">aṁbaṣṭā-priyavā<lb n="8v8" break="no"/>silā</l>
+	<l n="d">mālati<hi rend="check">jūthikā</hi> tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="140">
+	<l n="a"><label type="headword">saṁjīvinī-nāma ||</label> <!-- No line 8v9 in the transcription: check the manuscript. --><lb n="8v10"/>jīvati-ma<hi rend="check">dhu</hi>-jīvāca-</l>
+	<l n="b">jīvavaṁ tamadhuśrāvā ||</l>
+	<l n="c"><label type="headword">kuṁda-<lb n="8v11"/>nāmā ||</label> latālalitamadhyaṁ</l>
+	<l n="d">mukuṁdō kuṁdaratyapi</l>
+	<l n="e"><!-- No line 8v12 in the transcription: check the manuscript. --><lb n="8v13" break="no"/>napuṣpakaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="141">
+	<l n="a"><label type="headword">guṁjā-nāma ||</label> ciṁcikā kr̥ṣṇalā kāka<lb n="8v14"/>-</l>
+	<l n="b">guṁjā-mukhara-svamatā ||</l>
+	<l n="c"><label type="headword">kētakī-nāma ||</label> <app><lem type="emn">tr̥ṇadrumā</lem><rdg wit="#msBL">tr̥nadrumā</rdg></app> kē<lb n="8v15" break="no"/>takī ca</l>
+	<l n="d">tālakharjūrakā tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="142">
+	<l n="a"><label type="headword">lavaṁga-nāma ||</label> <lb n="8v16"/><app><lem type="emn">śrīsañjñaṁ</lem><rdg wit="#msBL">śrīsaṁgaṁ</rdg></app> dēvakusumaṁ</l>
+	<l n="b">lavaṁgē lalitaṁ latā ||</l>
+	<l n="c"><lb n="8v17"/><label type="headword">ilācī-nāma ||</label> ēlā-kulaṁ vālukā <hi rend="check">be</hi>li</l>
+	<l n="d"><pb edRef="#msBL" n="9r"/><lb n="9r1"/>trikuṭī caṁdrakaṁ nyakā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="143">
+	<l n="a"><label type="headword">mādhavī-nāma ||</label> atyukta<lb n="9r2" break="no"/>vātimuktaśca</l>
+	<l n="b">pauṁḍuka vāsaṁtikaṁ tathā ||</l>
+	<l n="c"><label type="headword">nāgalatā-<lb n="9r3"/>nāma ||</label> tāṁbūla ahivallī ca</l>
+	<l n="d">di<hi rend="check">na</hi>jā nāgavalli<lb n="9r4" break="no"/>kā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="144">
+	<l n="a"><label type="headword">vaṭa-nāmā ||</label> jaṭī <hi rend="check">ve</hi>ṭī raktaphalā</l>
+	<l n="b">nigrōdhaṁ<hi rend="check">baka</hi> <lb n="9r5"/><hi rend="check">pādapu</hi>t ||</l>
+	<l n="c"><label type="headword">sarōvara-nāma ||</label> hrada-puṣkara-kāsāra-</l>
+	<l n="d"><lb n="9r6"/>sārasaṁ sarasī <hi rend="check">drahaṁ</hi></l>
+	<l n="e">taḍāga-kumbhīkā kuṁḍaṁ</l>
+	<l n="f">tāla<hi rend="check">pānī</hi> <lb n="9r7"/>prapūrakaṁ ||</l>
+</lg>
+<lg met="anuṣṭubh" n="145">
+	<l n="a"><label type="headword"><app><lem type="emn">kāliṁdī</lem><rdg wit="#msBL">kālīṁdrī</rdg></app>-nāma ||</label> yamōnujā ca kāliṁdī</l>
+	<l n="b"><lb n="9r8"/>ravijākula hyaurasī ||</l>
+	<l n="c"><label type="headword">taṭa-nāmā ||</label> upakaṁṭhaṁ puli<lb n="9r9" break="no"/>naṁ kalaṁ</l>
+	<l n="d">nikaṭō taṭakaṁ tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="146">
+	<l n="a"><label type="headword">vētasa-nāma ||</label> vēta<lb n="9r10" break="no"/>śaṁ sīta-<app><lem type="emn">vidulaṁ</lem><rdg wit="#msBL">vikulaṁ</rdg></app></l>
+	<l n="b">maṁjulaṁ vaṁjulaṁ tathā ||</l>
+	<l n="c"><label type="headword">kōkila-nāma ||</label> <lb n="9r11"/>kalaravaṁ parabhr̥taṁ caiva</l>
+	<l n="d">raktadr̥g pika-<hi rend="check">dhuni</hi> tathā ||</l>
+</lg>
+<lg met="anuṣṭubh" n="147">
+	<l n="a"><lb n="9r12"/><label type="headword">nā<del rend="strikeout">ra</del>da-nāma ||</label> <app><lem type="emn">nisvānaṁ</lem><rdg wit="#msBL">niśvanaṁ</rdg></app> ninadaṁ nādaṁ</l>
+	<l n="b">mukharaṁ dhvani-rāva<lb n="9r13" break="no"/>kaṁ ||</l>
+	<l n="c"><label type="headword">jugula-nāma ||</label> jamālaṁ yugalaṁ dvaṁdvaṁ</l>
+	<l n="d">mithunaṁ <lb n="9r14"/>dvai ubhēnica ||</l>
+</lg>
+<ab type="colophon"><hi rend="check">itiścī</hi> amarācāryyēṇa kr̥taṁ
+	<lb n="9r15"/>amaramālā saṁpūrṇam || saṁ 1827 kālā<hi rend="check"><gap reason="illegible" quantity="2" unit="character"/></hi><lb n="9r16" break="no"/><hi rend="check">kā8caṁra</hi> ī sa 1871 <hi rend="check">pharanaṭī</hi> 21 ajñē<hi rend="check">rama</hi>dhyē paṁḍi<lb n="9r17" break="no"/>tavāla<hi rend="check">bhukaṁ denasvanibhicāṁlipi<gap reason="illegible" quantity="1" unit="character"/></hi>taṁ ||</ab>
 </div>
 </div>
 		    <div type="translation">
@@ -542,4 +1032,5 @@ uśanajutaṁ nōśadhānaṁ kuṁḍuṁ sudhīrakaṁ ? ? ?</hi><note>@andrew
 		    </div>
 		</body>
 	</text>
+
 </TEI>
